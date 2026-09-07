@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>英二阅读台</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  --paper:#FAF8F2; --paper-2:#F1EEE5; --ink:#20242C; --ink-2:#5C6270; --ink-3:#8B909C; --line:#DCD8CC;
+  --accent:#1F6C74; --accent-ink:#FFFFFF; --accent-soft:#DDEBEC;
+  --unk:#F6DD7A; --unk-ink:#3D3000; --hard:#F3C4C4; --hard-line:#C9585A;
+  --ok:#2C7A5B; --ok-soft:#DDEFE6; --bad:#B9433A; --bad-soft:#F6DFDD; --warn:#B7791F;
+  --shadow:0 1px 2px rgba(30,30,20,.06),0 8px 24px rgba(30,30,20,.06);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#181A1F; --paper-2:#20232A; --ink:#E8E6DF; --ink-2:#A9ADB8; --ink-3:#767B87; --line:#33373F;
+    --accent:#63B7BE; --accent-ink:#0F1A1B; --accent-soft:#1E3336;
+    --unk:#6E5A12; --unk-ink:#FFF1B8; --hard:#5A2A2C; --hard-line:#E58587;
+    --ok:#6CC59B; --ok-soft:#1D3A2D; --bad:#E5837A; --bad-soft:#3E2422; --warn:#E0A94B;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#181A1F; --paper-2:#20232A; --ink:#E8E6DF; --ink-2:#A9ADB8; --ink-3:#767B87; --line:#33373F;
+  --accent:#63B7BE; --accent-ink:#0F1A1B; --accent-soft:#1E3336;
+  --unk:#6E5A12; --unk-ink:#FFF1B8; --hard:#5A2A2C; --hard-line:#E58587;
+  --ok:#6CC59B; --ok-soft:#1D3A2D; --bad:#E5837A; --bad-soft:#3E2422; --warn:#E0A94B;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+html,body{background:var(--paper);color:var(--ink)}
+body{margin:0;font-family:"IBM Plex Sans",-apple-system,"PingFang SC","Helvetica Neue",sans-serif;font-size:15px;line-height:1.5;-webkit-text-size-adjust:100%}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer;touch-action:manipulation}
+button:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.hide{display:none!important}
+
+/* top bar */
+.top{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:1px solid var(--line);display:flex;align-items:center;gap:8px;padding:10px 16px;padding-top:calc(10px + env(safe-area-inset-top))}
+.brand{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:17px;letter-spacing:.01em;margin-right:6px}
+.tabs{display:flex;gap:2px;background:var(--paper-2);border-radius:10px;padding:3px}
+.tabs button{padding:6px 12px;border-radius:8px;color:var(--ink-2);font-weight:500}
+.tabs button[aria-selected="true"]{background:var(--paper);color:var(--ink);box-shadow:var(--shadow)}
+
+main{max-width:1180px;margin:0 auto;padding:20px 16px 60px}
+h1{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:24px;margin:6px 0 4px;text-wrap:balance}
+h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin:26px 0 10px}
+.muted{color:var(--ink-2)} .small{font-size:13px}
+.num{font-variant-numeric:tabular-nums}
+
+/* home list */
+.years{display:grid;gap:22px}
+.year h3{font-family:"Source Serif 4",Georgia,serif;font-size:20px;margin:0 0 10px;font-weight:600}
+.tlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+.tcard{display:flex;flex-direction:column;gap:6px;text-align:left;padding:14px 14px 12px;border:1px solid var(--line);border-radius:12px;background:var(--paper);min-height:96px}
+.tcard:active{background:var(--paper-2)}
+.tcard .lbl{font-weight:600}
+.tcard .lead{font-family:"Source Serif 4",Georgia,serif;color:var(--ink-2);font-size:14px;line-height:1.35;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.tcard .st{margin-top:auto;display:flex;gap:8px;align-items:center;font-size:12px;color:var(--ink-3)}
+.pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;font-weight:600;font-variant-numeric:tabular-nums}
+.pill.ok{background:var(--ok-soft);color:var(--ok)} .pill.bad{background:var(--bad-soft);color:var(--bad)} .pill.mid{background:var(--accent-soft);color:var(--accent)}
+.pill.todo{background:var(--paper-2);color:var(--ink-3);font-weight:500}
+
+/* exam */
+.exam{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:28px;align-items:start}
+@media (max-width:900px){.exam{grid-template-columns:1fr}}
+.bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+.timer{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:22px;font-weight:500;font-variant-numeric:tabular-nums;min-width:74px}
+.timer.over{color:var(--bad)}
+.btn{padding:9px 16px;border-radius:10px;font-weight:600;background:var(--paper-2);color:var(--ink)}
+.btn.primary{background:var(--accent);color:var(--accent-ink)}
+.btn.ghost{background:none;color:var(--ink-2);border:1px solid var(--line)}
+.btn:disabled{opacity:.45;cursor:default}
+.legend{display:flex;gap:14px;font-size:12px;color:var(--ink-2);margin-left:auto}
+.legend b{display:inline-block;width:14px;height:14px;border-radius:3px;vertical-align:-2px;margin-right:4px}
+.passage{font-family:"Source Serif 4",Georgia,serif;font-size:18.5px;line-height:1.72;max-width:66ch;user-select:none;-webkit-user-select:none}
+.passage p{margin:0 0 1.1em}
+.passage.locked{filter:blur(6px);pointer-events:none;opacity:.55}
+.s{position:relative}
+.dot{display:inline-block;width:22px;height:22px;margin:0 2px 0 -4px;vertical-align:-5px;border-radius:50%;position:relative}
+.dot::after{content:"";position:absolute;left:7px;top:7px;width:8px;height:8px;border-radius:50%;border:1.5px solid var(--ink-3);opacity:.55}
+.s.hard .dot::after{background:var(--hard-line);border-color:var(--hard-line);opacity:1}
+.s.hard{background:var(--hard);border-radius:3px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.w{border-radius:3px;padding:1px 1px;margin:-1px -1px}
+.w.unk{background:var(--unk);color:var(--unk-ink)}
+.ro .w,.ro .dot{pointer-events:none}
+
+.qs{position:sticky;top:64px;display:grid;gap:14px}
+@media (max-width:900px){.qs{position:static}}
+.q{border:1px solid var(--line);border-radius:12px;padding:12px 12px 10px;background:var(--paper)}
+.q .stem{font-weight:500;margin-bottom:8px;line-height:1.4}
+.q .stem b{color:var(--ink-3);font-weight:600;margin-right:6px;font-variant-numeric:tabular-nums}
+.opts{display:grid;gap:5px}
+.opt{display:grid;grid-template-columns:26px 1fr;gap:6px;align-items:start;text-align:left;padding:7px 8px;border-radius:8px;border:1px solid transparent;line-height:1.35;font-size:14px}
+.opt i{font-style:normal;font-weight:600;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.opt.sel{background:var(--accent-soft);border-color:var(--accent)}
+.opt.right{background:var(--ok-soft);border-color:var(--ok)} .opt.right i{color:var(--ok)}
+.opt.wrong{background:var(--bad-soft);border-color:var(--bad)} .opt.wrong i{color:var(--bad)}
+.q.locked .opt{pointer-events:none}
+.qmeta{display:flex;gap:8px;align-items:center;margin-top:8px;font-size:12px;color:var(--ink-3);flex-wrap:wrap}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{padding:4px 10px;border-radius:999px;border:1px solid var(--line);font-size:12px;color:var(--ink-2)}
+.chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.result{border-radius:14px;padding:16px;background:var(--paper-2);display:grid;gap:10px}
+.result .score{font-family:"Source Serif 4",Georgia,serif;font-size:30px;font-weight:600;line-height:1}
+.result textarea{width:100%;font:inherit;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink);resize:vertical;min-height:54px}
+.wlist{display:flex;flex-wrap:wrap;gap:6px}
+.wtag{padding:3px 9px;border-radius:6px;background:var(--unk);color:var(--unk-ink);font-family:"Source Serif 4",Georgia,serif;font-size:15px}
+
+/* history */
+.hlist{display:grid;gap:8px}
+.hrow{display:grid;grid-template-columns:1fr auto auto auto;gap:14px;align-items:center;text-align:left;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--paper)}
+.hrow .d{font-size:12px;color:var(--ink-3)}
+@media (max-width:600px){.hrow{grid-template-columns:1fr auto}.hrow .d2{display:none}}
+.detail-top{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;font-size:14px}
+.kv dt{color:var(--ink-3)} .kv dd{margin:0}
+
+/* vocab */
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;color:var(--ink-3);font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+td.wd{font-family:"Source Serif 4",Georgia,serif;font-size:17px;white-space:nowrap}
+td.ctx{color:var(--ink-2);font-family:"Source Serif 4",Georgia,serif}
+.tablewrap{overflow-x:auto}
+.empty{padding:40px 0;text-align:center;color:var(--ink-3)}
+.cloud{margin-left:auto;font-size:12px;color:var(--ink-3);display:flex;align-items:center;gap:6px;white-space:nowrap;padding:6px 10px;border-radius:8px;border:1px solid var(--line)}
+.cloud i{width:8px;height:8px;border-radius:50%;background:var(--ink-3);display:inline-block}
+.cloud.on i{background:var(--ok)} .cloud.busy i{background:var(--warn)} .cloud.err i{background:var(--bad)}
+.modal{position:fixed;inset:0;background:rgba(20,20,20,.45);z-index:40;display:flex;align-items:center;justify-content:center;padding:20px}
+.modal-card{background:var(--paper);color:var(--ink);border-radius:14px;padding:20px;max-width:520px;width:100%;box-shadow:var(--shadow)}
+code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;background:var(--paper-2);padding:1px 5px;border-radius:4px}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:10px 16px;border-radius:10px;font-size:14px;box-shadow:var(--shadow);z-index:50;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.show{opacity:1}
+@media (prefers-reduced-motion:reduce){.toast{transition:none}}
+</style>
+</head>
+<body>
+<div class="top">
+  <span class="brand">英二阅读台</span>
+  <div class="tabs" role="tablist">
+    <button role="tab" data-tab="home" aria-selected="true">题库</button>
+    <button role="tab" data-tab="history" aria-selected="false">历史</button>
+    <button role="tab" data-tab="vocab" aria-selected="false">生词</button>
+  </div>
+  <button class="cloud" id="cloud" title="云端同步设置"><i></i><span>本机</span></button>
+</div>
+<div id="settings" class="modal hide">
+  <div class="modal-card">
+    <h3 style="margin:0 0 6px">云端同步</h3>
+    <p class="small muted" style="margin:0 0 12px">做题记录会写进 GitHub 仓库 <code>jocling/kaoyan-english</code> 的 <code>records/attempts.json</code>，任何 AI 都能读；换设备打开自动拉回来。把令牌贴在下面（只存在这个浏览器里，不会进页面代码）。</p>
+    <input id="gh-token" type="password" placeholder="github_pat_…" autocomplete="off" style="width:100%;font:inherit;padding:9px 10px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink)">
+    <div style="display:flex;gap:10px;margin-top:12px;flex-wrap:wrap">
+      <button class="btn primary" id="gh-save">保存并同步</button>
+      <button class="btn" id="gh-sync">立即同步</button>
+      <button class="btn ghost" id="gh-clear">清除令牌</button>
+      <button class="btn ghost" id="gh-close" style="margin-left:auto">关闭</button>
+    </div>
+    <p class="small muted" id="gh-status" style="margin:12px 0 0"></p>
+  </div>
+</div>
+
+<main>
+  <section id="view-home">
+    <h1>选一篇开始</h1>
+    <p class="muted small">每篇 5 题，限时 18 分钟。点"开始"后计时；读的时候点不认识的词、点句首圆点标"没读懂"；选完提交自动判分。</p>
+    <div class="years" id="years"></div>
+  </section>
+
+  <section id="view-exam" class="hide">
+    <div class="bar">
+      <button class="btn ghost" id="btn-back">← 题库</button>
+      <span id="exam-label" style="font-weight:600"></span>
+      <span class="timer num" id="timer">00:00</span>
+      <button class="btn primary" id="btn-start">开始</button>
+      <button class="btn primary hide" id="btn-submit">提交</button>
+      <div class="legend"><span><b style="background:var(--unk)"></b>不认识</span><span><b style="background:var(--hard)"></b>没读懂</span></div>
+    </div>
+    <div class="exam">
+      <div>
+        <div class="passage locked" id="passage"></div>
+        <div id="result" class="result hide"></div>
+      </div>
+      <div class="qs" id="qs"></div>
+    </div>
+  </section>
+
+  <section id="view-history" class="hide">
+    <h1>历史</h1>
+    <p class="muted small">设置了令牌的话，每篇保存时自动写进 GitHub 仓库，换设备打开自动拉回来；导出/导入是备用手段。</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px">
+      <button class="btn primary" id="btn-export">导出全部记录</button>
+      <button class="btn" id="btn-import">导入记录文件</button>
+      <input type="file" id="file-import" accept=".json,application/json" multiple class="hide">
+    </div>
+    <div id="hlist" class="hlist"></div>
+  </section>
+
+  <section id="view-detail" class="hide">
+    <div class="detail-top">
+      <button class="btn ghost" id="btn-back2">← 历史</button>
+      <span id="d-label" style="font-weight:600"></span>
+      <button class="btn" id="btn-copy-md">复制这篇的 Markdown</button>
+    </div>
+    <div class="exam">
+      <div>
+        <dl class="kv" id="d-kv"></dl>
+        <h2>原文与标记</h2>
+        <div class="passage ro" id="d-passage"></div>
+      </div>
+      <div class="qs" id="d-qs"></div>
+    </div>
+  </section>
+
+  <section id="view-vocab" class="hide">
+    <h1>生词</h1>
+    <p class="muted small">你在做题时点过的词，按出现次数排。通勤时过一遍。</p>
+    <div class="tablewrap"><table id="vtable"></table></div>
+  </section>
+</main>
+<div class="toast" id="toast"></div>
+
+<script>
+const DATA = [{"year":2012,"texts":[{"id":"2012-1","label":"2012 · Text 1","paragraphs":["Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned. School districts across the country, most recently Los Angeles Unified, are revising their thinking on this educational ritual. Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade.","This rule is meant to address the difficulty that students from impoverished or chaotic homes might have in completing their homework. But the policy is unclear and contradictory. Certainly, no homework should be assigned that students cannot complete on their own or that they cannot do without expensive equipment. But if the district is essentially giving a pass to students who do not do their homework because of complicated family lives, it is going riskily close to the implication that standards need to be lowered for poor children.","District administrators say that homework will still be a part of schooling; teachers are allowed to assign as much of it as they want. But with homework counting for no more than 10% of their grades, students can easily skip half their homework and see very little difference on their report cards. Some students might do well on state tests without completing their homework, but what about the students who performed well on the tests and did their homework? It is quite possible that the homework helped. Yet rather than empowering teachers to find what works best for their students, the policy imposes a flat, across-the-board rule.","At the same time, the policy addresses none of the truly thorny questions about homework. If the district finds homework to be unimportant to its students' academic achievement, it should move to reduce or eliminate the assignments, not make them count for almost nothing. Conversely, if homework matters, it should account for a significant portion of the grade. Meanwhile, this policy does nothing to ensure that the homework students receive is meaningful or appropriate to their age and the subject, or that teachers are not assigning more than they are willing to review and correct.","The homework rules should be put on hold while the school board, which is responsible for setting educational policy, looks into the matter and conducts public hearings. It is not too late for L.A. Unified to do homework right."],"questions":[{"n":21,"stem":"It is implied in Paragraph 1 that nowadays homework ______","options":{"A":"is receiving more criticism","B":"is gaining more preferences","C":"is no longer an educational ritual","D":"is not required for advanced courses"},"answer":"A"},{"n":22,"stem":"L.A. Unified has made the rule about homework mainly because poor students ______","options":{"A":"tend to have moderate expectations for their education","B":"have asked for a different educational standard","C":"may have problems finishing their homework","D":"have voiced their complaints about homework"},"answer":"C"},{"n":23,"stem":"According to Paragraph 3, one problem with the policy is that it may ______","options":{"A":"result in students' indifference to their report cards","B":"undermine the authority of state tests","C":"restrict teachers' power in education","D":"discourage students from doing homework"},"answer":"D"},{"n":24,"stem":"As mentioned in Paragraph 4, a key question unanswered about homework is whether ______","options":{"A":"it should be eliminated","B":"it counts much in schooling","C":"it places extra burdens on teachers","D":"it is important for grades"},"answer":"B"},{"n":25,"stem":"A suitable title for this text could be ______","options":{"A":"A Faulty Approach to Homework","B":"A Welcomed Policy for Poor Students","C":"Thorny Questions about Homework","D":"Wrong Interpretations of an Educational Policy"},"answer":"A"}]},{"id":"2012-2","label":"2012 · Text 2","paragraphs":["Pretty in pink: adult women do not remember being so obsessed with the colour, yet it is pervasive in our young girls' lives. It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls' identity to appearance. Then it presents that connection, even among two-year-olds, between girls as not only innocent but as evidence of innocence. Looking around, I despaired at the singular lack of imagination about girls' lives and interests.","Girls' attraction to pink may seem unavoidable, somehow encoded in their DNA, but according to Jo Paoletti, an associate professor of American Studies, it is not. Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them. What's more, both boys and girls wore what were thought of as gender-neutral dresses. When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength. Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity. It was not until the mid-1980s, when amplifying age and sex differences became a dominant children's marketing strategy, that pink fully came into its own, when it began to seem inherently attractive to girls, part of what defined them as female, at least for the first few critical years.","I had not realised how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development. Take the toddler. I assumed that phase was something experts developed after years of research into children's behaviour: wrong. Turns out, according to Daniel Cook, a historian of childhood consumerism, it was popularised as a marketing trick by clothing manufacturers in the 1930s.","Trade publications counselled department stores that, in order to increase sales, they should create a \"third stepping stone\" between infant wear and older kids' clothes. It was only after \"toddler\" became a common shoppers' term that it evolved into a broadly accepted developmental stage. Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits. And one of the easiest ways to segment a market is to magnify gender differences – or invent them where they did not previously exist."],"questions":[{"n":26,"stem":"By saying \"it is…the rainbow\" (Line 3, Para. 1), the author means pink ______","options":{"A":"cannot explain girls' lack of imagination","B":"should not be associated with girls' innocence","C":"should not be the sole representation of girlhood","D":"cannot influence girls' lives and interests"},"answer":"C"},{"n":27,"stem":"According to Paragraph 2, which of the following is true of colours?","options":{"A":"Colours are encoded in girls' DNA","B":"Blue used to be regarded as the colour for girls","C":"White is preferred by babies","D":"Pink used to be a neutral colour in symbolising genders"},"answer":"B"},{"n":28,"stem":"The author suggests that our perception of children's psychological development was much influenced by ______","options":{"A":"the observation of children's nature","B":"the marketing of products for children","C":"researches into children's behaviour","D":"studies of childhood consumption"},"answer":"B"},{"n":29,"stem":"We may learn from Paragraph 4 that department stores were advised to ______","options":{"A":"classify consumers into smaller groups","B":"attach equal importance to different genders","C":"focus on infant wear and older kids' clothes","D":"create some common shoppers' terms"},"answer":"A"},{"n":30,"stem":"It can be concluded that girls' attraction to pink seems to be ______","options":{"A":"fully understood by clothing manufacturers","B":"clearly explained by their inborn tendency","C":"mainly imposed by profit-driven businessmen","D":"well interpreted by psychological experts"},"answer":"C"}]},{"id":"2012-3","label":"2012 · Text 3","paragraphs":["In 2010, a federal judge shook America's biotech industry to its core. Companies had won patents for isolated DNA for decades – by 2005 some 20% of human genes were patented. But in March 2010 a judge ruled that genes were unpatentable. Executives were violently agitated. The Biotechnology Industry Organisation (BIO), a trade group, assured members that this was just a \"preliminary step\" in a longer battle.","On July 29th they were relieved, at least temporarily. A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes that help forecast a woman's risk of breast cancer. The chief executive of Myriad, a company in Utah, said the ruling was a blessing to firms and patients alike.","But as companies continue their attempts at personalised medicine, the courts will remain rather busy. The Myriad case itself is probably not over. Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents' monopolies restrict access to genetic tests such as Myriad's. A growing number seem to agree. Last year a federal task-force urged reform for patents related to genetic tests. In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature…than are cotton fibres that have been separated from cotton seeds.\"","Despite the appeals court's decision, big questions remain unanswered. For example, it is unclear whether the sequencing of a whole genome violates the patents of individual genes within it. The case may yet reach the Supreme Court.","As the industry advances, however, other suits may have an even greater impact. Companies are unlikely to file many more patents for human DNA molecules – most are already patented or in the public domain. Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug's efficacy. Companies are eager to win patents for \"connecting the dots,\" explains Hans Sauer, a lawyer for the BIO.","Their success may be determined by a suit related to this issue, brought by the Mayo Clinic, which the Supreme Court will hear in its next term. The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents. Each meeting was packed."],"questions":[{"n":31,"stem":"It can be learned from Paragraph 1 that the biotech companies would like ______","options":{"A":"genes to be patentable","B":"the BIO to issue a warning","C":"their executives to be active","D":"judges to rule out gene patenting"},"answer":"A"},{"n":32,"stem":"Those who are against gene patents believe that ______","options":{"A":"genetic tests are not reliable","B":"only man-made products are patentable","C":"patents on genes depend much on innovation","D":"courts should restrict access to genetic tests"},"answer":"B"},{"n":33,"stem":"According to Hans Sauer, companies are eager to win patents for ______","options":{"A":"discovering gene interactions","B":"establishing disease correlations","C":"drawing pictures of genes","D":"identifying human DNA"},"answer":"A"},{"n":34,"stem":"By saying \"Each meeting was packed\" (Line 4, Para. 6), the author means that ______","options":{"A":"the supreme court was authoritative","B":"the BIO was a powerful organisation","C":"gene patenting was a great concern","D":"lawyers were keen to attend conventions"},"answer":"C"},{"n":35,"stem":"Generally speaking, the author's attitude toward gene patenting is ______","options":{"A":"critical","B":"supportive","C":"scornful","D":"objective"},"answer":"D"}]},{"id":"2012-4","label":"2012 · Text 4","paragraphs":["The great recession may be over, but this era of high joblessness is probably beginning. Before it ends, it will likely change the life course and character of a generation of young adults. And ultimately, it is likely to reshape our politics, our culture, and the character of our society for years.","No one tries harder than the jobless to find silver linings in this national economic disaster. Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others. In limited respects, perhaps the recession will leave society better off. At the very least, it has awoken us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending.","But for the most part, these benefits seem thin, uncertain, and far off. In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms. Anti-immigrant sentiment typically increases, as does conflict between races and classes.","Income inequality usually falls during a recession, but it has not shrunk in this one. Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them – especially for young people. The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind.","In the Internet age, it is particularly easy to see the resentment that has always been hidden within American society. More difficult, in the moment, is discerning precisely how these lean times are affecting society's character. In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results. We will have to wait and see exactly how these hard times will reshape our social fabric. But they certainly will reshape it, and all the more so the longer they extend."],"questions":[{"n":36,"stem":"By saying \"to find silver linings\" (Line 1, Para. 2) the author suggests that the jobless try to ______","options":{"A":"seek subsidies from the government","B":"make profits from the troubled economy","C":"explore reasons for the unemployment","D":"look on the bright side of the recession"},"answer":"D"},{"n":37,"stem":"According to Paragraph 2, the recession has made people ______","options":{"A":"struggle against each other","B":"realize the national dream","C":"challenge their prudence","D":"reconsider their lifestyle"},"answer":"D"},{"n":38,"stem":"Benjamin Friedman believes that economic recessions may ______","options":{"A":"impose a heavier burden on immigrants","B":"bring out more evils of human nature","C":"promote the advance of rights and freedoms","D":"ease conflicts between races and classes"},"answer":"B"},{"n":39,"stem":"The research of Till Von Wachter suggests that in the recession graduates from elite universities tend to ______","options":{"A":"lag behind the others due to decreased opportunities","B":"catch up quickly with experienced employees","C":"see their life chances as dimmed as the others'","D":"recover more quickly than the others"},"answer":"D"},{"n":40,"stem":"The author thinks that the influence of hard times on society is ______","options":{"A":"trivial","B":"positive","C":"certain","D":"destructive"},"answer":"C"}]}]},{"year":2013,"texts":[{"id":"2013-1","label":"2013 · Text 1","paragraphs":["In an essay entitled \"Making It in America,\" the author Adam Davidson relates a joke from cotton country about just how much a modern textile mill has been automated: The average mill has only two employees today, \"a man and a dog. The man is there to feed the dog, and the dog is there to keep the man away from the machines.\"","Davidson's article is one of a number of pieces that have recently appeared making the point that the reason we have such stubbornly high unemployment and declining middle-class incomes today is largely because of the big drop in demand because of the Great Recession, but it is also because of the advances in both globalization and the information technology revolution, which are more rapidly than ever replacing labor with machines or foreign workers.","In the past, workers with average skills, doing an average job, could earn an average lifestyle. But, today, average is officially over. Being average just won't earn you what it used to. It can't when so many more employers have so much more access to so much more above average cheap foreign labor, cheap robotics, cheap software, cheap automation and cheap genius. Therefore, everyone needs to find their extra - their unique value contribution that makes them stand out in whatever is their field of employment.","Yes, new technology has been eating jobs forever, and always will. But there's been an acceleration. As Davidson notes, \"In the 10 years ending in 2009, [U.S.] factories shed workers so fast that they erased almost all the gains of the previous 70 years; roughly one out of every three manufacturing jobs - about 6 million in total - disappeared.\"","There will always be change - new jobs, new products, new services. But the one thing we know for sure is that with each advance in globalization and the I. T. revolution, the best jobs will require workers to have more and better education to make themselves above average.","In a world where average is officially over, there are many things we need to do to support employment, but nothing would be more important than passing some kind of G. I. Bill for the 21st century that ensures that every American has access to post-high school education."],"questions":[{"n":21,"stem":"The joke in Paragraph 1 is used to illustrate ______","options":{"A":"the impact of technological advances","B":"the alleviation of job pressure","C":"the shrinkage of textile mills","D":"the decline of middle-class incomes"},"answer":"A"},{"n":22,"stem":"According to Paragraph 3, to be a successful employee, one has to ______","options":{"A":"work on cheap software","B":"ask for a moderate salary","C":"adopt an average lifestyle","D":"contribute something unique"},"answer":"D"},{"n":23,"stem":"The quotation in Paragraph 4 explains that ______","options":{"A":"gains of technology have been erased","B":"job opportunities are disappearing at a high speed","C":"factories are making much less money than before","D":"new jobs and services have been offered"},"answer":"B"},{"n":24,"stem":"According to the author, to reduce unemployment, the most important is ______","options":{"A":"to accelerate the I. T. revolution","B":"to ensure more education for people","C":"to advance economic globalization","D":"to pass more bills in the 21st century"},"answer":"B"},{"n":25,"stem":"Which of the following would be the most appropriate title for the text?","options":{"A":"New Law Takes Effect","B":"Technology Goes Cheap","C":"Average Is Over","D":"Recession Is Bad"},"answer":"C"}]},{"id":"2013-2","label":"2013 · Text 2","paragraphs":["A century ago, the immigrants from across the Atlantic included settlers and sojourners. Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay, and who would make some money and then go home. Between 1908 and 1915, about 7 million people arrived while about 2 million departed. About a quarter of all Italian immigrants, for example, eventually returned to Italy for good. They even had an affectionate nickname, \"uccelli di passaggio,\" birds of passage.","Today, we are much more rigid about immigrants. We divide newcomers into two categories: legal or illegal, good or bad. We hail them as Americans in the making, or brand them as aliens to be kicked out. That framework has contributed mightily to our broken immigration system and the long political paralysis over how to fix it. We don't need more categories, but we need to change the way we think about categories. We need to look beyond strict definitions of legal and illegal. To start, we can recognize the new birds of passage, those living and thriving in the gray areas. We might then begin to solve our immigration challenges.","Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage. They are energetic participants in a global economy driven by the flow of work, money and ideas. They prefer to come and go as opportunity calls them. They can manage to have a job in one place and a family in another.","With or without permission, they straddle laws, jurisdictions and identities with ease. We need them to imagine the United States as a place where they can be productive for a while without committing themselves to staying forever. We need them to feel that home can be both here and there and that they can belong to two nations honorably.","Accommodating this new world of people in motion will require new attitudes on both sides of the immigration battle. Looking beyond the culture war logic of right or wrong means opening up the middle ground and understanding that managing immigration today requires multiple paths and multiple outcomes, including some that are not easy to accomplish legally in the existing system."],"questions":[{"n":26,"stem":"\"Birds of passage\" refers to those who ______","options":{"A":"stay in a foreign country temporarily","B":"leave their home countries for good","C":"immigrate across the Atlantic","D":"find permanent jobs overseas"},"answer":"A"},{"n":27,"stem":"It is implied in Paragraph 2 that the current immigration system in the US ______","options":{"A":"needs new immigrant categories","B":"has loosened control over immigrants","C":"should be adapted to meet challenges","D":"has been fixed via political means"},"answer":"C"},{"n":28,"stem":"According to the author, today's birds of passage want ______","options":{"A":"financial incentives","B":"a global recognition","C":"the freedom to stay and leave","D":"opportunities to get regular jobs"},"answer":"C"},{"n":29,"stem":"The author suggests that the birds of passage today should be treated ______","options":{"A":"as faithful partners","B":"with legal tolerance","C":"with economic favors","D":"as mighty rivals"},"answer":"B"},{"n":30,"stem":"The most appropriate title for this text would be ______","options":{"A":"Come and Go: Big Mistake","B":"Living and Thriving: Great Risk","C":"With or Without: Great Risk","D":"Legal or Illegal: Big Mistake"},"answer":"D"}]},{"id":"2013-3","label":"2013 · Text 3","paragraphs":["Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.","Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five. It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness.","But snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating. We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long.","Yet we can reverse such influences. If we know we will overreact to consumer products or housing options when we see a happy face (one reason good sales representatives and real estate agents are always smiling), we can take a moment before buying. If we know female job screeners are more likely to reject attractive female applicants, we can help screeners understand their biases - or hire outside screeners.","John Gottman, the marriage expert, explains that we quickly \"thin slice\" information reliably only after we ground such snap reactions in \"thick sliced\" long-term study. When Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation: two days, not two seconds.","Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: dogs can think about the future only intermittently or for a few minutes. But historically we have spent about 12 percent of our days contemplating the longer term. Although technology might change the way we react, it hasn't changed our nature. We still have the imaginative capacity to rise above temptation and reverse the high-speed trend."],"questions":[{"n":31,"stem":"The time needed in making decisions may ______","options":{"A":"predetermine the accuracy of our judgment","B":"prove the complexity of our brain reaction","C":"depend on the importance of the assessment","D":"vary according to the urgency of the situation"},"answer":"D"},{"n":32,"stem":"Our reaction to a fast-food logo shows that snap decisions ______","options":{"A":"can be associative","B":"are not unconscious","C":"can be dangerous","D":"are not impulsive"},"answer":"A"},{"n":33,"stem":"To reverse the negative influences of snap decisions, we should ______","options":{"A":"trust our first impression","B":"think before we act","C":"do as people usually do","D":"ask for expert advice"},"answer":"B"},{"n":34,"stem":"John Gottman says that reliable snap reactions are based on ______","options":{"A":"critical assessment","B":"\"thin sliced\" study","C":"adequate information","D":"sensible explanation"},"answer":"C"},{"n":35,"stem":"The author's attitude toward reversing the high-speed trend is ______","options":{"A":"tolerant","B":"optimistic","C":"uncertain","D":"doubtful"},"answer":"B"}]},{"id":"2013-4","label":"2013 · Text 4","paragraphs":["Europe is not a gender-equality heaven. In particular, the corporate workplace will never be completely family-friendly until women are part of senior management decisions, and Europe's top corporate-governance positions remain overwhelmingly male. Indeed, women hold only 14 per cent of positions on European corporate boards.","The European Union is now considering legislation to compel corporate boards to maintain a certain proportion of women - up to 60 per cent. This proposed mandate was born of frustration. Last year, European Commission Vice President Viviane Reding issued a call to voluntary action. Reding invited corporations to sign up for gender balance goals of 40 per cent female board membership. But her appeal was considered a failure: only 24 companies took it up.","Do we need quotas to ensure that women can continue to climb the corporate ladder fairly as they balance work and family?","\"Personally, I don't like quotas,\" Reding said recently. \"But I like what the quotas do.\" Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions.","I understand Reding's reluctance - and her frustration. I don't like quotas either; they run counter to my belief in meritocracy, governance by the capable. But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered.","After all, four decades of evidence has now shown that corporations in Europe as well as the US are evading the meritocratic hiring and promotion of women to top positions - no matter how much \"soft pressure\" is put upon them. When women do break through to the summit of corporate power - as, for example, Sheryl Sandberg recently did at Facebook - they attract massive attention precisely because they remain the exception to the rule.","If appropriate public policies were in place to help all women - whether CEOs or their children's caregivers - and all families, Sandberg would be no more newsworthy than any other highly capable person living in a more just society."],"questions":[{"n":36,"stem":"In the European corporate workplace, generally ______","options":{"A":"women take the lead","B":"men have the final say","C":"corporate governance is overwhelmed","D":"senior management is family-friendly"},"answer":"B"},{"n":37,"stem":"The European Union's intended legislation is ______","options":{"A":"a reflection of gender balance","B":"a response to Reding's call","C":"a reluctant choice","D":"a voluntary action"},"answer":"C"},{"n":38,"stem":"According to Reding, quotas may help women ______","options":{"A":"get top business positions","B":"see through the glass ceiling","C":"balance work and family","D":"anticipate legal results"},"answer":"A"},{"n":39,"stem":"The author's attitude toward Reding's appeal is one of ______","options":{"A":"skepticism","B":"objectiveness","C":"indifference","D":"approval"},"answer":"D"},{"n":40,"stem":"Women entering top management become headlines due to the lack of ______","options":{"A":"more social justice","B":"massive media attention","C":"suitable public policies","D":"greater \"soft pressure\""},"answer":"C"}]}]},{"year":2014,"texts":[{"id":"2014-1","label":"2014 · Text 1","paragraphs":["What would you do with $590m? This is now a question for Gloria MacKenzie, an 84-year-old widow who recently emerged from her small, tin-roofed house in Florida to collect the biggest undivided lottery jackpot in history. If she hopes her new-found fortune will yield lasting feelings of fulfilment, she could do worse than read Happy Money by Elizabeth Dunn and Michael Norton.","These two academics use an array of behavioral research to show that the most rewarding ways to spend money can be counterintuitive. Fantasies of great wealth often involve visions of fancy cars and extravagant homes. Yet satisfaction with these material purchases wears off fairly quickly. What was once exciting and new becomes old-hat; regret creeps in. It is far better to spend money on experiences, say Ms Dunn and Mr Norton, like interesting trips, unique meals or even going to the cinema. These purchases often become more valuable with time - as stories or memories - particularly if they involve feeling more connected to others.","This slim volume is packed with tips to help wage slaves as well as lottery winners get the most \"happiness bang for your buck.\" It seems most people would be better off if they could shorten their commutes to work, spend more time with friends and family and less of it watching television (something the average American spends a whopping two months a year doing, and is hardly jollier for it). Buying gifts or giving to charity is often more pleasurable than purchasing things for oneself, and luxuries are most enjoyable when they are consumed sparingly. This is apparently the reason McDonald's restricts the availability of its popular McRib - a marketing trick that has turned the pork sandwich into an object of obsession.","Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, not hunger. Money may not quite buy happiness, but people in wealthier countries are generally happier than those in poor ones. Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world, and scarcity enhances the pleasure of most things for most people. Not everyone will agree with the authors' policy ideas, which range from mandating more holiday time to reducing tax incentives for American homebuyers. But most people will come away from this book believing it was money well spent."],"questions":[{"n":21,"stem":"According to Dunn and Norton, which of the following is the most rewarding purchase?","options":{"A":"A big house","B":"A special tour","C":"A stylish car","D":"A rich meal"},"answer":"B"},{"n":22,"stem":"The author's attitude toward Americans' watching TV is ______","options":{"A":"critical","B":"supportive","C":"sympathetic","D":"ambiguous"},"answer":"A"},{"n":23,"stem":"McRib is mentioned in Paragraph 3 to show that ______","options":{"A":"consumers are sometimes irrational","B":"popularity usually comes after quality","C":"marketing tricks are often effective","D":"rarity generally increases pleasure"},"answer":"D"},{"n":24,"stem":"According to the last paragraph, Happy Money ______","options":{"A":"has left much room for readers' criticism","B":"may prove to be a worthwhile purchase","C":"has predicted a wider income gap in the US","D":"may give its readers a sense of achievement"},"answer":"B"},{"n":25,"stem":"This text mainly discusses how to ______","options":{"A":"balance feeling good and spending money","B":"spend large sums of money won in lotteries","C":"obtain lasting satisfaction from money spent","D":"become more reasonable in spending on luxuries"},"answer":"C"}]},{"id":"2014-2","label":"2014 · Text 2","paragraphs":["An article in Scientific American has pointed out that empirical research says that, actually, you think you're more beautiful than you are. We have a deep-seated need to feel good about ourselves and we naturally employ a number of self-enhancing strategies to achieve this. Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities.","We rose-tint our memories and put ourselves into self-affirming situations. We become defensive when criticised, and apply negative stereotypes to others to boost our own esteem. We stalk around thinking we're hot stuff.","Psychologist and behavioural scientist Nicholas Epley oversaw a key study into self-enhancement and attractiveness. Rather than have people simply rate their beauty compared with others, he asked them to identify an original photograph of themselves from a lineup including versions that had been altered to appear more and less attractive. Visual recognition, reads the study, is \"an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation\". If the subjects quickly chose a falsely flattering image - which most did - they genuinely believed it was really how they looked.","Epley found no significant gender difference in responses. Nor was there any evidence that those who self-enhanced the most (that is, the participants who thought the most positively doctored pictures were real) were doing so to make up for profound insecurities. In fact, those who thought that the images higher up the attractiveness scale were real directly corresponded with those who showed other markers for having higher self-esteem. \"I don't think the findings that we have are any evidence of personal delusion,\" says Epley. \"It's a reflection simply of people generally thinking well of themselves.\" If you are depressed, you won't be self-enhancing.","Knowing the results of Epley's study, it makes sense that many people hate photographs of themselves viscerally - on one level, they don't even recognise the person in the picture as themselves. Facebook, therefore, is a self-enhancer's paradise, where people can share only the most flattering photos, the cream of their wit, style, beauty, intellect and lifestyles. It's not that people's profiles are dishonest, says Catalina Toma of Wisconsin-Madison University, \"but they portray an idealised version of themselves.\""],"questions":[{"n":26,"stem":"According to the first paragraph, social psychologists have found that ______","options":{"A":"our self-ratings are unrealistically high","B":"illusory superiority is a baseless effect","C":"our need for leadership is unnatural","D":"self-enhancing strategies are ineffective"},"answer":"A"},{"n":27,"stem":"Visual recognition is believed to be people's ______","options":{"A":"rapid matching","B":"conscious choice","C":"intuitive response","D":"automatic self-defence"},"answer":"C"},{"n":28,"stem":"Epley found that people with higher self-esteem tended to ______","options":{"A":"underestimate their insecurities","B":"believe in their attractiveness","C":"cover up their depressions","D":"oversimplify their illusions"},"answer":"B"},{"n":29,"stem":"The word \"viscerally\" (Line 2, Para. 5) is closest in meaning to ______","options":{"A":"instinctively","B":"occasionally","C":"particularly","D":"aggressively"},"answer":"A"},{"n":30,"stem":"It can be inferred that Facebook is a self-enhancer's paradise because people can ______","options":{"A":"present their dishonest profiles","B":"define their traditional lifestyles","C":"share their intellectual pursuits","D":"withhold their unflattering sides"},"answer":"D"}]},{"id":"2014-3","label":"2014 · Text 3","paragraphs":["The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries. And yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom and bust cycle. Certain jobs have gone away for good, outmoded by machines. Since technology has such an insatiable appetite for eating up human jobs, this phenomenon will continue to restructure our economy in ways we cannot immediately foresee.","When there is rapid improvement in the price and performance of technology, jobs that were once thought to be immune from automation suddenly become threatened. This argument has attracted a lot of attention, via the success of the book Race A gainst the Machine, by Erik Brynjolfsson and Andrew McAfee, who both hail from MIT's Center for Digital Business.","This is a powerful argument, and a scary one. And yet, John Hagel, author of The Power of Pull and other books, says Brynjolfsson and McAfee miss the reason why these jobs are so vulnerable to technology in the first place.","Hagel says we have designed jobs in the U.S. that tend to be \"tightly scripted\" and \"highly standardized\" ones that leave no room for \"individual initiative or creativity\". In short, these are the types of jobs that machines can perform much better at than human beings. That is how we have put a giant target sign on the backs of American workers, Hagel says.","It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, Hagel says. In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination \"to respond to unexpected events\". That is not something machines are good at. They are designed to perform very predictable activities.","As Hagel notes, Brynjolfsson and McAfee indeed touched on this point in their book. We need to reframe race against the machine as race with the machine. In other words, we need to look at the ways in which machines can augment human labor rather than replace it. So then the problem is not really about technology, but rather, \"how do we innovate our institutions and our work practices?\""],"questions":[{"n":31,"stem":"According to the first paragraph, economic downturns would ______","options":{"A":"ease the competition of man vs. machine","B":"highlight machines' threat to human jobs","C":"provoke a painful technological revolution","D":"outmode our current economic structure"},"answer":"B"},{"n":32,"stem":"The authors of Race Against the Machine argue that ______","options":{"A":"technology is diminishing man's job opportunities","B":"automation is accelerating technological development","C":"certain jobs will remain intact after automation","D":"man will finally win the race against machine"},"answer":"A"},{"n":33,"stem":"Hagel argues that jobs in the U.S. are often ______","options":{"A":"performed by innovative minds","B":"scripted with an individual style","C":"standardized without a clear target","D":"designed against human creativity"},"answer":"D"},{"n":34,"stem":"According to the last paragraph, Brynjolfsson and McAfee discussed ______","options":{"A":"the predictability of machine behavior in practice","B":"the formula for how work is conducted efficiently","C":"the ways machines replace human labor in modern times","D":"the necessity of human involvement in the workplace"},"answer":"D"},{"n":35,"stem":"Which of the following could be the most appropriate title for the text?","options":{"A":"How to Innovate Our Work Practices?","B":"Machines Will Replace Human Labor","C":"Can We Win the Race Against Machines?","D":"Economic Downturns Stimulate Innovations"},"answer":"C"}]},{"id":"2014-4","label":"2014 · Text 4","paragraphs":["When the government talks about infrastructure contributing to the economy the focus is usually on roads, railways, broadband and energy. Housing is seldom mentioned.","Why is that? To some extent the housing sector must shoulder the blame. We have not been good at communicating the real value that housing can contribute to economic growth. Then there is the scale of the typical housing project. It is hard to shove for attention among multibillion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere. But perhaps the most significant reason is that the issue has always been so politically charged.","Nevertheless, the affordable housing situation is desperate. Waiting lists increase all the time and we are simply not building enough new homes.","The comprehensive spending review offers an opportunity for the government to help rectify this. It needs to put historical prejudices to one side and take some steps to address our urgent housing need.","There are some indications that it is preparing to do just that. The communities minister, Don Foster, has hinted that George Osborne, Chancellor of the Exchequer, may introduce more flexibility to the current cap on the amount that local authorities can borrow against their housing stock debt. Evidence shows that 60,000 extra new homes could be built over the next five years if the cap were lifted, increasing GDP by 0.6%.","Ministers should also look at creating greater certainty in the rental environment, which would have a significant impact on the ability of registered providers to fund new developments from revenues.","But it is not just down to the government. While these measures would be welcome in the short term, we must face up to the fact that the existing £4.5bn programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then. The Labour party has recently announced that it will retain a large part of the coalition's spending plans if it returns to power. The housing sector needs to accept that we are very unlikely to ever return to the era of large-scale public grants. We need to adjust to this changing climate.","While the government's commitment to long-term funding may have changed, the very pressing need for more affordable housing is real and is not going away."],"questions":[{"n":36,"stem":"The author believes that the housing sector ______","options":{"A":"has attracted much attention","B":"involves certain political factors","C":"shoulders too much responsibility","D":"has lost its real value in economy"},"answer":"B"},{"n":37,"stem":"It can be learned that affordable housing has ______","options":{"A":"increased its home supply","B":"offered spending opportunities","C":"suffered government biases","D":"disappointed the government"},"answer":"C"},{"n":38,"stem":"According to Paragraph 5, George Osborne may ______","options":{"A":"allow greater government debt for housing","B":"stop local authorities from building homes","C":"prepare to reduce housing stock debt","D":"release a lifted GDP growth forecast"},"answer":"A"},{"n":39,"stem":"It can be inferred that a stable rental environment would ______","options":{"A":"lower the costs of registered providers","B":"lessen the impact of government interference","C":"contribute to funding new developments","D":"relieve the ministers of responsibilities"},"answer":"C"},{"n":40,"stem":"The author believes that after 2015, the government may ______","options":{"A":"implement more policies to support housing","B":"review the need for large-scale public grants","C":"renew the affordable housing grants programme","D":"stop generous funding to the housing sector . 1 0. C-*-- 1 4 Jr )"},"answer":"D"}]}]},{"year":2015,"texts":[{"id":"2015-1","label":"2015 · Text 1","paragraphs":["A new study suggests that contrary to most surveys, people are actually more stressed at home than at work. Researchers measured people's cortisol, which is a stress marker, while they were at work and while they were at home and found it higher at what is supposed to be a place of refuge.","\"Further contradicting conventional wisdom, we found that women as well as men have lower levels of stress at work than at home,\" writes one of the researchers, Sarah Damaske. In fact women even say they feel better at work, she notes. \"It is men, not women, who report being happier at home than at work.\" Another surprise is that the findings hold true for both those with children and without, but more so for nonparents. This is why people who work outside the home have better health.","What the study doesn't measure is whether people are still doing work when they're at home, whether it is household work or work brought home from the office. For many men, the end of the workday is a time to kick back. For women who stay home, they never get to leave the office. And for women who work outside the home, they often are playing catch-up-with-household tasks. With the blurring of roles, and the fact that the home front lags well behind the workplace in making adjustments for working women, it's not surprising that women are more stressed at home.","But it's not just a gender thing. At work, people pretty much know what they're supposed to be doing: working, making money, doing the tasks they have to do in order to draw an income. The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola.","On the home front, however, people have no such clarity. Rare is the household in which the division of labor is so clinically and methodically laid out. There are a lot of tasks to be done, there are inadequate rewards for most of them. Your home colleagues - your family - have no clear rewards for their labor; they need to be talked into it, or if they're teenagers, threatened with complete removal of all electronic devices. Plus, they're your family. You cannot fire your family. You never really get to go home from home.","So it's not surprising that people are more stressed at home. Not only are the tasks apparently infinite, the co-workers are much harder to motivate."],"questions":[{"n":21,"stem":"According to Paragraph 1, most previous surveys found that home ______","options":{"A":"offered greater relaxation than the workplace","B":"was an ideal place for stress measurement","C":"generated more stress than the workplace","D":"was an unrealistic place for relaxation"},"answer":"A"},{"n":22,"stem":"According to Damaske, who are likely to be the happiest at home?","options":{"A":"Working mothers","B":"Childless husbands","C":"Working fathers","D":"Childless wives"},"answer":"B"},{"n":23,"stem":"The blurring of working women's roles refers to the fact that ______","options":{"A":"their home is also a place for kicking back","B":"they are both bread winners and housewives","C":"there is often much housework left behind","D":"it is difficult for them to leave their office"},"answer":"B"},{"n":24,"stem":"The word \"moola\" (Line 4, Para. 4) most probably means ______","options":{"A":"skills","B":"energy","C":"earnings","D":"nutrition"},"answer":"C"},{"n":25,"stem":"The home front differs from the workplace in that ______","options":{"A":"family labor is often adequately rewarded","B":"home is hardly a cozier working environment","C":"household tasks are generally more motivating","D":"division of labor at home is seldom clear-cut"},"answer":"D"}]},{"id":"2015-2","label":"2015 · Text 2","paragraphs":["For years, studies have found that first-generation college students - those who do not have a parent with a college degree - lag other students on a range of education achievement factors. Their grades are lower and their dropout rates are higher. But since such students are most likely to advance economically if they succeed in higher education, colleges and universities have pushed for decades to recruit more of them. This has created \"a paradox\" in that recruiting first-generation students, but then watching many of them fail, means that higher education has \"continued to reproduce and widen, rather than close\" an achievement gap based on social class, according to the depressing beginning of a paper forthcoming in the journal Psychological Science.","But the article is actually quite optimistic, as it outlines a potential solution to this problem, suggesting that an approach (which involves a one-hour, next-to-no-cost program) can close 63 percent of the achievement gap (measured by such factors as grades) between first-generation and other students.","The authors of the paper are from different universities, and their findings are based on a study involving 147 students (who completed the project) at an unnamed private university. First generation was defined as not having a parent with a four-year college degree. Most of the first-generation students (59.1 percent) were recipients of Pell Grants, a federal grant for undergraduates with financial need, while this was true only for 8.6 percent of the students with at least one parent with a four-year degree.","Their thesis - that a relatively modest intervention could have a big impact - was based on the view that first-generation students may be most lacking not in potential but in practical knowledge about how to deal with the issues that face most college students. They cite past research by several authors to show that this is the gap that must be narrowed to close the achievement gap.","Many first-generation students \"struggle to navigate the middle-class culture of higher education, learn the 'rules of the game,' and take advantage of college resources,\" they write. And this becomes more of a problem when colleges don't talk about the class advantages and disadvantages of different groups of students. \"Because US colleges and universities seldom acknowledge how social class can affect students' educational experiences, many first-generation students lack insight about why they are struggling and do not understand how students 'like them' can improve.\""],"questions":[{"n":26,"stem":"Recruiting more first-generation students has ______","options":{"A":"reduced their dropout rates","B":"narrowed the achievement gap","C":"missed its original purpose","D":"depressed college students"},"answer":"C"},{"n":27,"stem":"The authors of the research article are optimistic because ______","options":{"A":"their findings appeal to students","B":"the recruiting rate has increased","C":"the problem is solvable","D":"their approach is costless"},"answer":"C"},{"n":28,"stem":"The study suggests that most first-generation students ______","options":{"A":"are from single-parent families","B":"study at private universities","C":"are in need of financial support","D":"have failed their college"},"answer":"C"},{"n":29,"stem":"The authors of the paper believe that first-generation students ______","options":{"A":"may lack opportunities to apply for research projects","B":"are inexperienced in handling their issues at college","C":"can have a potential influence on other students","D":"are actually indifferent to the achievement gap"},"answer":"B"},{"n":30,"stem":"We may infer from the last paragraph that ______","options":{"A":"universities often reject the culture of the middle-class","B":"students are usually to blame for their lack of resources","C":"social class greatly helps enrich educational experiences","D":"colleges are partly responsible for the problem in question"},"answer":"D"}]},{"id":"2015-3","label":"2015 · Text 3","paragraphs":["Even in traditional offices, \"the lingua franca of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago,\" said Harvard Business School professor Nancy Koehn. She started spinning off examples. \"If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion. There were goals, there were strategies, there were objectives, but we didn't talk about energy; we didn't talk about passion.\"","Koehn pointed out that this new era of corporate vocabulary is very \"team\"-oriented - and not by coincidence. \"Let's not forget sports - in male-dominated corporate America, it's still a big deal. It's not explicitly conscious; it's the idea that I'm a coach, and you're my team, and we're in this together. There are lots and lots of CEOs in very different companies, but most think of themselves as coaches and this is their team and they want to win.\"","These terms are also intended to infuse work with meaning - and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm. \"You have the importation of terminology that historically used to be associated with non-profit organizations and religious organizations: terms like vision, values, passion, and purpose,\" said Khurana.","This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance. The \"mommy wars\" of the 1990s are still going on today, prompting arguments about why women still can't have it all and books like Sheryl Sandberg's Lean In, whose title has become a buzzword in its own right. Terms like unplug, ofjline, life-hack, bandwidth, and capacity are all about setting boundaries between the office and the home. But if your work is your \"passion,\" you'll be more likely to devote yourself to it, even if that means going home for dinner and then working long after the kids are in bed.","But this seems to be the irony of office speak: Everyone makes fun of it, but managers love it, companies depend on it, and regular people willingly absorb it. As a linguist once said, \"You can get people to think it's nonsense at the same time that you buy into it.\" In a workplace that's fundamentally indifferent to your life and its meaning, office speak can help you figure out how you relate to your work - and how your work defines who you are."],"questions":[{"n":31,"stem":"According to Nancy Koehn, office language has become ______","options":{"A":"less strategic","B":"less energetic","C":"more objective","D":"more emotional"},"answer":"D"},{"n":32,"stem":"\"Team\"-oriented corporate vocabulary is closely related to ______","options":{"A":"sports culture","B":"gender difference","C":"historical incidents","D":"athletic executives"},"answer":"A"},{"n":33,"stem":"Khurana believes that the importation of terminology aims to ______","options":{"A":"revive historical terms","B":"promote company image","C":"foster corporate cooperation","D":"strengthen employee loyalty"},"answer":"D"},{"n":34,"stem":"It can be inferred that Lean In ______","options":{"A":"voices for working women","B":"appeals to passionate workaholics","C":"triggers debates among mommies","D":"praises motivated employees"},"answer":"A"},{"n":35,"stem":"Which of the following statements is true about office speak?","options":{"A":"Linguists believe it to be nonsense","B":"Regular people mock it but accept it","C":"Companies find it to be fundamental","D":"Managers admire it but avoid it"},"answer":"B"}]},{"id":"2015-4","label":"2015 · Text 4","paragraphs":["Many people talked of the 288,000 new jobs the Labor Department reported for June, along with the drop in the unemployment rate to 6.1 percent, as good news. And they were right. For now it appears the economy is creating jobs at a decent pace. We still have a long way to go to get back to full employment, but at least we are now finally moving forward at a faster pace.","However, there is another important part of the jobs picture that was largely overlooked. There was a big jump in the number of people who report voluntarily working part-time. This figure is now 830,000 (4.4 percent) above its year ago level.","Before explaining the connection to the Obamacare, it is worth making an important distinction. Many people who work part-time jobs actually want full-time jobs. They take part-time work because this is all they can get. An increase in involuntary part-time work is evidence of weakness in the labor market and it means that many people will be having a very hard time making ends meet.","There was an increase in involuntary part-time in June, but the general direction has been down. Involuntary part-time employment is still far higher than before the recession, but it is down by 640,000 (7.9 percent) from its year ago level.","We know the difference between voluntary and involuntary part-time employment because people tell us. The survey used by the Labor Department asks people if they worked less than 35 hours in the reference week. If the answer is \"yes,\" they are classified as working part-time. The survey then asks whether they worked less than 35 hours in that week because they wanted to work less than full time or because they had no choice. They are only classified as voluntary part-time workers if they tell the survey taker they chose to work less than 35 hours a week.","The issue of voluntary part-time relates to Obamacare because one of the main purposes was to allow people to get insurance outside of employment. For many people, especially those with serious health conditions or family members with serious health conditions, before Obamacare the only way to get insurance was through a job that provided health insurance.","However, Obamacare has allowed more than 12 million people to either get insurance through Medicaid or the exchanges. These are people who may previously have felt the need to get a full-time job that provided insurance in order to cover themselves and their families. With Obamacare there is no longer a link between employment and insurance."],"questions":[{"n":36,"stem":"Which part of the jobs picture was neglected?","options":{"A":"The prospect of a thriving job market","B":"The increase of voluntary part-time jobs","C":"The possibility of full employment","D":"The acceleration of job creation"},"answer":"B"},{"n":37,"stem":"Many people work part-time because they ______","options":{"A":"prefer part-time jobs to full-time jobs","B":"feel that is enough to make ends meet","C":"cannot get their hands on full-time jobs","D":"haven't seen the weakness of the market"},"answer":"C"},{"n":38,"stem":"Involuntary part-time employment in the US ______","options":{"A":"shows a general tendency of decline","B":"is harder to acquire than one year ago","C":"satisfies the real need of the jobless","D":"is lower than before the recession"},"answer":"A"},{"n":39,"stem":"It can be learned that with Obamacare, ______","options":{"A":"it is no longer easy for part-timers to get insurance","B":"full-time employment is still essential for insurance","C":"it is still challenging to get insurance for family members","D":"employment is no longer a precondition to get insurance"},"answer":"D"},{"n":40,"stem":"The text mainly discusses ______","options":{"A":"employment in the US","B":"part-timer classification","C":"insurance through Medicaid","D":"Obamacare's trouble"},"answer":"A"}]}]}];
+const TEXTS = DATA.flatMap(y => y.texts);
+const byId = Object.fromEntries(TEXTS.map(t => [t.id, t]));
+const LIMIT = 18 * 60;
+const CAUSES = ["词不认识", "句没读懂", "读懂了选错", "没时间"];
+
+// ---------- storage ----------
+let attempts = {}; // id -> record
+const LS = { get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } }, set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+function load(){ attempts = LS.get('attempts', {}); }
+function persist(){ LS.set('attempts', attempts); }
+async function saveAttempt(doc){ attempts[doc.id] = doc; persist(); if(ghToken()){ const ok = await ghPush(); toast(ok ? '已保存并同步到云端' : '已存本机，云端同步失败（稍后点右上角"立即同步"）'); } else toast('已存本机。想跨设备同步，点右上角设置令牌'); }
+
+// ---------- GitHub sync ----------
+const GH = { owner: 'jocling', repo: 'kaoyan-english', path: 'records/attempts.json' };
+const ghToken = () => { try{ return localStorage.getItem('gh_token') || ''; }catch(e){ return ''; } };
+function setCloud(state, text){ const el = document.getElementById('cloud'); el.className = 'cloud ' + state; el.querySelector('span').textContent = text; }
+function ghHeaders(){ const h = { 'Accept': 'application/vnd.github+json' }; const t = ghToken(); if(t) h['Authorization'] = 'Bearer ' + t; return h; }
+const ghUrl = () => `https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${GH.path}`;
+function b64(str){ return btoa(unescape(encodeURIComponent(str))); }
+function unb64(b){ return decodeURIComponent(escape(atob(b.replace(/\n/g, '')))); }
+async function ghFetch(){ // -> {sha, attempts:{}} or null when file absent
+  const r = await fetch(ghUrl() + '?t=' + Date.now(), { headers: ghHeaders(), cache: 'no-store' });
+  if(r.status === 404) return { sha: null, attempts: {} };
+  if(!r.ok) throw new Error('read ' + r.status);
+  const j = await r.json(); const data = JSON.parse(unb64(j.content)); const map = {};
+  (data.attempts || []).forEach(a => { if(a && a.id) map[a.id] = a; });
+  return { sha: j.sha, attempts: map };
+}
+async function ghPush(){
+  if(!ghToken()) return false;
+  setCloud('busy', '同步中…');
+  try{
+    for(let i = 0; i < 2; i++){
+      const remote = await ghFetch();
+      attempts = Object.assign({}, remote.attempts, attempts); persist();
+      const list = Object.values(attempts).sort((a, b) => a.submittedAt < b.submittedAt ? 1 : -1);
+      const body = { message: `record: ${list[0] ? list[0].label + ' ' + list[0].score + '/5' : 'update'}`, content: b64(JSON.stringify({ app: '英二阅读台', updatedAt: new Date().toISOString(), count: list.length, attempts: list }, null, 1)) };
+      if(remote.sha) body.sha = remote.sha;
+      const r = await fetch(ghUrl(), { method: 'PUT', headers: Object.assign({ 'Content-Type': 'application/json' }, ghHeaders()), body: JSON.stringify(body) });
+      if(r.ok){ setCloud('on', '云端 ' + list.length + ' 条'); render(); return true; }
+      if(r.status !== 409) throw new Error('write ' + r.status);
+    }
+    throw new Error('conflict');
+  }catch(e){ setCloud('err', '同步失败'); document.getElementById('gh-status').textContent = '同步失败：' + e.message + (String(e.message).includes('401') || String(e.message).includes('403') ? '（令牌无效或没有写权限）' : ''); return false; }
+}
+async function ghPull(){
+  setCloud('busy', '读取中…');
+  try{
+    const remote = await ghFetch();
+    const localOnly = Object.keys(attempts).filter(id => !remote.attempts[id]);
+    attempts = Object.assign({}, remote.attempts, attempts); persist(); render();
+    const n = Object.keys(attempts).length;
+    if(localOnly.length && ghToken()) return ghPush();
+    setCloud(ghToken() ? 'on' : '', ghToken() ? '云端 ' + n + ' 条' : '只读 ' + n + ' 条');
+    return true;
+  }catch(e){ setCloud('err', '云端读取失败'); return false; }
+}
+const settings = document.getElementById('settings');
+document.getElementById('cloud').addEventListener('click', () => { document.getElementById('gh-token').value = ghToken(); document.getElementById('gh-status').textContent = ghToken() ? '已设置令牌。' : '未设置令牌：记录只存在这个浏览器里。'; settings.classList.remove('hide'); });
+document.getElementById('gh-close').addEventListener('click', () => settings.classList.add('hide'));
+settings.addEventListener('click', e => { if(e.target === settings) settings.classList.add('hide'); });
+document.getElementById('gh-save').addEventListener('click', async () => { const v = document.getElementById('gh-token').value.trim(); try{ if(v) localStorage.setItem('gh_token', v); else localStorage.removeItem('gh_token'); }catch(e){} document.getElementById('gh-status').textContent = '正在同步…'; const ok = await ghPull(); document.getElementById('gh-status').textContent = ok ? '同步完成，共 ' + Object.keys(attempts).length + ' 条记录。' : document.getElementById('gh-status').textContent || '同步失败。'; });
+document.getElementById('gh-sync').addEventListener('click', async () => { document.getElementById('gh-status').textContent = '正在同步…'; const ok = await ghPull(); document.getElementById('gh-status').textContent = ok ? '同步完成，共 ' + Object.keys(attempts).length + ' 条记录。' : '同步失败。'; });
+document.getElementById('gh-clear').addEventListener('click', () => { try{ localStorage.removeItem('gh_token'); }catch(e){} document.getElementById('gh-token').value = ''; setCloud('', '本机'); document.getElementById('gh-status').textContent = '令牌已清除。'; });
+
+
+function exportAll(){
+  const list = Object.values(attempts).sort((a, b) => a.submittedAt < b.submittedAt ? 1 : -1);
+  const payload = { app: '英二阅读台', exportedAt: new Date().toISOString(), count: list.length, attempts: list };
+  const blob = new Blob([JSON.stringify(payload, null, 1)], { type: 'application/json' });
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+  const d = new Date(); a.download = `英二阅读记录_${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}.json`;
+  document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+  toast(`已导出 ${list.length} 条记录`);
+}
+function importFiles(files){
+  let n = 0, pending = files.length;
+  [...files].forEach(f => { const r = new FileReader(); r.onload = () => { try{ const j = JSON.parse(r.result); const arr = Array.isArray(j) ? j : (j.attempts || (j.id ? [j] : [])); arr.forEach(a => { if(a && a.id && a.textId){ attempts[a.id] = a; n++; } }); }catch(e){} if(--pending === 0){ persist(); render(); toast(`已导入 ${n} 条记录`); } }; r.readAsText(f); });
+}
+function attemptMarkdown(a){
+  const t = byId[a.textId]; if(!t) return '';
+  const lines = [`## ${a.label} · ${fmtDate(a.submittedAt)}`, ``, `- 得分：${a.score}/5　用时：${fmt(a.durationSec)}${a.durationSec > LIMIT ? '（超 18 分钟）' : ''}`, `- 标记：${a.words.length} 个词，${a.sentences.length} 句`];
+  if(a.note) lines.push(`- 备注：${a.note}`);
+  lines.push(``, `### 答题`);
+  t.questions.forEach(q => { const ok = a.correct[q.n]; lines.push(`- ${q.n}. ${ok ? '✓' : '✗'} 选 ${a.answers[q.n] || '—'} / 答案 ${q.answer}${a.qTimes && a.qTimes[q.n] != null ? `　第 ${fmt(a.qTimes[q.n])} 作答` : ''}${!ok && a.causes && a.causes[q.n] ? `　错因：${a.causes[q.n]}` : ''}${!ok ? `\n  - ${q.stem}` : ''}`); });
+  if(a.words.length){ lines.push(``, `### 不认识的词`); a.words.forEach(w => lines.push(`- **${w.w}** — ${w.sent}`)); }
+  if(a.sentences.length){ lines.push(``, `### 没读懂的句子`); a.sentences.forEach(s => lines.push(`- （第 ${s.p + 1} 段）${s.text}`)); }
+  return lines.join('\n');
+}
+async function copyText(txt){ try{ await navigator.clipboard.writeText(txt); toast('已复制，可以直接贴给 AI'); }catch(e){ const ta = document.createElement('textarea'); ta.value = txt; document.body.appendChild(ta); ta.select(); try{ document.execCommand('copy'); toast('已复制'); }catch(_){ toast('复制失败'); } ta.remove(); } }
+document.getElementById('btn-export').addEventListener('click', exportAll);
+document.getElementById('btn-import').addEventListener('click', () => document.getElementById('file-import').click());
+document.getElementById('file-import').addEventListener('change', e => { importFiles(e.target.files); e.target.value = ''; });
+
+// ---------- text utils ----------
+const ABBR = /(^|\s)(Mr|Mrs|Ms|Dr|Prof|St|Jr|Sr|vs|No|Jan|Feb|Aug|Sept|Oct|Nov|Dec|U\.S|U\.K|e\.g|i\.e|etc|Inc|Co)\.$/;
+function splitSentences(p){
+  const toks = p.split(' ');
+  const out = []; let cur = [];
+  toks.forEach((t, i) => {
+    cur.push(t);
+    const next = toks[i + 1];
+    const ends = /[.!?]["'”’)\]]*$/.test(t);
+    const abbr = ABBR.test(t) || /^[A-Z]\.$/.test(t) || /^[A-Z]\.["'”’]?$/.test(t);
+    const nextCap = next === undefined || /^["'“‘(\[]?[A-Z0-9$]/.test(next);
+    if(ends && !abbr && nextCap){ out.push(cur.join(' ')); cur = []; }
+  });
+  if(cur.length) out.push(cur.join(' '));
+  return out;
+}
+const clean = w => w.replace(/^[^A-Za-z]+|[^A-Za-z]+$/g, '').toLowerCase();
+function fmt(sec){ sec = Math.max(0, Math.round(sec)); return String(Math.floor(sec/60)).padStart(2,'0') + ':' + String(sec%60).padStart(2,'0'); }
+function fmtDate(iso){ const d = new Date(iso); return `${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`; }
+function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
+let toastT; function toast(m){ const el = document.getElementById('toast'); el.textContent = m; el.classList.add('show'); clearTimeout(toastT); toastT = setTimeout(() => el.classList.remove('show'), 2200); }
+
+// render passage into container; marks: {words:Set('p:s:w'), sents:Set('p:s')}
+function renderPassage(el, text, marks){
+  el.innerHTML = '';
+  text.paragraphs.forEach((para, pi) => {
+    const p = document.createElement('p');
+    splitSentences(para).forEach((sent, si) => {
+      const s = document.createElement('span'); s.className = 's'; s.dataset.k = pi + ':' + si;
+      if(marks.sents.has(s.dataset.k)) s.classList.add('hard');
+      const dot = document.createElement('button'); dot.className = 'dot'; dot.setAttribute('aria-label', '标记这句没读懂'); s.appendChild(dot);
+      sent.split(' ').forEach((tok, wi) => {
+        const w = document.createElement('span'); w.className = 'w'; w.textContent = tok; w.dataset.k = pi + ':' + si + ':' + wi; w.dataset.w = clean(tok);
+        if(marks.words.has(w.dataset.k)) w.classList.add('unk');
+        s.appendChild(w); s.appendChild(document.createTextNode(' '));
+      });
+      p.appendChild(s);
+    });
+    el.appendChild(p);
+  });
+}
+
+// ---------- views ----------
+const views = ['home','exam','history','detail','vocab'];
+function show(v){ views.forEach(x => document.getElementById('view-' + x).classList.toggle('hide', x !== v)); document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === (v === 'exam' ? 'home' : v === 'detail' ? 'history' : v)))); window.scrollTo(0,0); }
+document.querySelectorAll('.tabs button').forEach(b => b.addEventListener('click', () => { if(cur && cur.started && !cur.submitted && !confirm('这篇还没提交，离开会丢掉本次作答。确定离开？')) return; if(cur && !cur.submitted) cur = null; show(b.dataset.tab); render(); }));
+
+function attemptsFor(id){ return Object.values(attempts).filter(a => a.textId === id).sort((a,b) => a.submittedAt < b.submittedAt ? 1 : -1); }
+function scorePill(a){ const c = a.score; const cls = c >= 4 ? 'ok' : c >= 3 ? 'mid' : 'bad'; return `<span class="pill ${cls}">${c}/5</span>`; }
+
+function renderHome(){
+  const box = document.getElementById('years'); box.innerHTML = '';
+  DATA.forEach(y => {
+    const sec = document.createElement('div'); sec.className = 'year';
+    sec.innerHTML = `<h3>${y.year} 年</h3>`;
+    const list = document.createElement('div'); list.className = 'tlist';
+    y.texts.forEach(t => {
+      const done = attemptsFor(t.id);
+      const b = document.createElement('button'); b.className = 'tcard';
+      b.innerHTML = `<span class="lbl">Text ${t.id.split('-')[1]}</span><span class="lead">${esc(t.paragraphs[0].slice(0, 110))}…</span><span class="st">${done.length ? scorePill(done[0]) + `<span class="num">${fmt(done[0].durationSec)}</span><span>${fmtDate(done[0].submittedAt)}</span>` : '<span class="pill todo">未做</span>'}</span>`;
+      b.addEventListener('click', () => openExam(t.id));
+      list.appendChild(b);
+    });
+    sec.appendChild(list); box.appendChild(sec);
+  });
+}
+
+// ---------- exam ----------
+let cur = null, tick = null;
+function openExam(id){
+  const t = byId[id];
+  cur = { text: t, started: false, submitted: false, startedAt: null, words: new Set(), sents: new Set(), answers: {}, qTimes: {}, causes: {}, note: '' };
+  document.getElementById('exam-label').textContent = t.label;
+  document.getElementById('timer').textContent = '00:00'; document.getElementById('timer').classList.remove('over');
+  document.getElementById('btn-start').classList.remove('hide'); document.getElementById('btn-submit').classList.add('hide');
+  document.getElementById('result').classList.add('hide');
+  const pEl = document.getElementById('passage'); pEl.classList.add('locked'); renderPassage(pEl, t, cur);
+  renderQs(document.getElementById('qs'), t, null, true);
+  show('exam');
+}
+function renderQs(el, t, done, interactive){
+  el.innerHTML = '';
+  t.questions.forEach(q => {
+    const d = document.createElement('div'); d.className = 'q' + (interactive ? ' locked' : '');
+    d.dataset.n = q.n;
+    const chosen = done ? done.answers[q.n] : null;
+    d.innerHTML = `<div class="stem"><b>${q.n}</b>${esc(q.stem)}</div><div class="opts">${['A','B','C','D'].map(k => {
+      let cls = 'opt';
+      if(done){ if(k === q.answer) cls += ' right'; else if(k === chosen) cls += ' wrong'; }
+      return `<button class="${cls}" data-k="${k}"><i>${k}</i><span>${esc(q.options[k])}</span></button>`; }).join('')}</div>` +
+      (done ? `<div class="qmeta"><span>你选 ${chosen || '—'} · 答案 ${q.answer}</span>${done.qTimes && done.qTimes[q.n] != null ? `<span class="num">第 ${fmt(done.qTimes[q.n])} 作答</span>` : ''}${done.causes && done.causes[q.n] ? `<span class="chip on">${done.causes[q.n]}</span>` : ''}</div>` : '');
+    if(interactive){
+      d.querySelectorAll('.opt').forEach(o => o.addEventListener('click', () => {
+        if(!cur || !cur.started || cur.submitted) return;
+        d.querySelectorAll('.opt').forEach(x => x.classList.remove('sel')); o.classList.add('sel');
+        cur.answers[q.n] = o.dataset.k;
+        if(cur.qTimes[q.n] == null) cur.qTimes[q.n] = elapsed();
+        document.getElementById('btn-submit').disabled = Object.keys(cur.answers).length < 5;
+      }));
+    }
+    el.appendChild(d);
+  });
+}
+function elapsed(){ return (Date.now() - cur.startedAt) / 1000; }
+document.getElementById('btn-start').addEventListener('click', () => {
+  cur.started = true; cur.startedAt = Date.now();
+  document.getElementById('passage').classList.remove('locked');
+  document.querySelectorAll('#qs .q').forEach(q => q.classList.remove('locked'));
+  document.getElementById('btn-start').classList.add('hide');
+  const sb = document.getElementById('btn-submit'); sb.classList.remove('hide'); sb.disabled = true;
+  tick = setInterval(() => { const e = elapsed(); const tm = document.getElementById('timer'); tm.textContent = fmt(e); tm.classList.toggle('over', e > LIMIT); }, 500);
+});
+document.getElementById('passage').addEventListener('click', e => {
+  if(!cur || !cur.started || cur.submitted) return;
+  const w = e.target.closest('.w'); const dot = e.target.closest('.dot');
+  if(dot){ const s = dot.parentElement; s.classList.toggle('hard'); cur.sents.has(s.dataset.k) ? cur.sents.delete(s.dataset.k) : cur.sents.add(s.dataset.k); return; }
+  if(w && w.dataset.w){ w.classList.toggle('unk'); cur.words.has(w.dataset.k) ? cur.words.delete(w.dataset.k) : cur.words.add(w.dataset.k); }
+});
+document.getElementById('btn-submit').addEventListener('click', () => {
+  if(!cur || cur.submitted) return;
+  clearInterval(tick); cur.submitted = true; cur.durationSec = elapsed();
+  document.getElementById('btn-submit').classList.add('hide');
+  const t = cur.text; let score = 0; const correct = {};
+  t.questions.forEach(q => { correct[q.n] = cur.answers[q.n] === q.answer; if(correct[q.n]) score++; });
+  cur.score = score; cur.correct = correct;
+  // lock options and show right/wrong
+  document.querySelectorAll('#qs .q').forEach(d => {
+    const q = t.questions.find(x => x.n == d.dataset.n); d.classList.add('locked');
+    d.querySelectorAll('.opt').forEach(o => { o.classList.remove('sel'); if(o.dataset.k === q.answer) o.classList.add('right'); else if(o.dataset.k === cur.answers[q.n]) o.classList.add('wrong'); });
+    const meta = document.createElement('div'); meta.className = 'qmeta';
+    meta.innerHTML = `<span>你选 ${cur.answers[q.n]} · 答案 ${q.answer}</span>` + (correct[q.n] ? '' : `<span class="chips">${CAUSES.map(c => `<button class="chip" data-c="${c}">${c}</button>`).join('')}</span>`);
+    meta.querySelectorAll('.chip').forEach(ch => ch.addEventListener('click', () => { meta.querySelectorAll('.chip').forEach(x => x.classList.remove('on')); ch.classList.add('on'); cur.causes[q.n] = ch.dataset.c; }));
+    d.appendChild(meta);
+  });
+  // result panel
+  const words = [...cur.words].map(k => document.querySelector(`#passage .w[data-k="${k}"]`)).filter(Boolean);
+  const r = document.getElementById('result'); r.classList.remove('hide');
+  r.innerHTML = `<div><span class="score">${score}<span class="muted" style="font-size:16px"> / 5</span></span> <span class="muted num" style="margin-left:12px">用时 ${fmt(cur.durationSec)}${cur.durationSec > LIMIT ? ' · 超过 18 分钟' : ''}</span></div>
+    <div class="small muted">标了 ${cur.words.size} 个词、${cur.sents.size} 句。错的题在右边点一下错因，再写一句话（可空），然后保存。</div>
+    ${words.length ? `<div class="wlist">${words.map(w => `<span class="wtag">${esc(w.dataset.w)}</span>`).join('')}</div>` : ''}
+    <textarea id="note" placeholder="一句话：这篇怎么错的 / 读起来卡在哪"></textarea>
+    <div style="display:flex;gap:10px"><button class="btn primary" id="btn-save">保存这篇</button><button class="btn ghost" id="btn-discard">不保存</button></div>`;
+  document.getElementById('btn-save').addEventListener('click', async () => {
+    const now = new Date();
+    const wordsArr = [...cur.words].map(k => { const el = document.querySelector(`#passage .w[data-k="${k}"]`); const s = el.closest('.s'); const [p, si] = k.split(':').map(Number); return { w: el.dataset.w, raw: el.textContent, p, s: si, sent: [...s.querySelectorAll('.w')].map(x => x.textContent).join(' ') }; });
+    const sentsArr = [...cur.sents].map(k => { const s = document.querySelector(`#passage .s[data-k="${k}"]`); const [p, si] = k.split(':').map(Number); return { p, s: si, text: [...s.querySelectorAll('.w')].map(x => x.textContent).join(' ') }; });
+    const id = cur.text.id + '__' + now.toISOString().replace(/[-:T]/g, '').slice(0, 12);
+    const doc = { id, textId: cur.text.id, label: cur.text.label, year: cur.text.id.split('-')[0] * 1, startedAt: new Date(cur.startedAt).toISOString(), submittedAt: now.toISOString(), durationSec: Math.round(cur.durationSec), score, answers: cur.answers, correct, qTimes: Object.fromEntries(Object.entries(cur.qTimes).map(([k, v]) => [k, Math.round(v)])), causes: cur.causes, note: document.getElementById('note').value.trim(), words: wordsArr, sentences: sentsArr };
+    document.getElementById('btn-save').disabled = true;
+    await saveAttempt(doc);
+    cur = null; render(); openDetail(id);
+  });
+  document.getElementById('btn-discard').addEventListener('click', () => { if(confirm('不保存这次作答？')){ cur = null; show('home'); render(); } });
+  r.scrollIntoView({ behavior: 'smooth', block: 'start' });
+});
+document.getElementById('btn-back').addEventListener('click', () => { if(cur && cur.started && !cur.submitted && !confirm('这篇还没提交，离开会丢掉本次作答。确定离开？')) return; clearInterval(tick); cur = null; show('home'); render(); });
+
+// ---------- history ----------
+function renderHistory(){
+  const el = document.getElementById('hlist'); const list = Object.values(attempts).sort((a, b) => a.submittedAt < b.submittedAt ? 1 : -1);
+  if(!list.length){ el.innerHTML = '<div class="empty">还没有记录。去题库做第一篇。</div>'; return; }
+  el.innerHTML = '';
+  list.forEach(a => {
+    const b = document.createElement('button'); b.className = 'hrow';
+    b.innerHTML = `<span><span style="font-weight:600">${a.label}</span><br><span class="d">${fmtDate(a.submittedAt)}${a.note ? ' · ' + esc(a.note) : ''}</span></span><span class="d d2 num">${a.words.length} 词 · ${a.sentences.length} 句</span><span class="d d2 num">${fmt(a.durationSec)}</span>${scorePill(a)}`;
+    b.addEventListener('click', () => openDetail(a.id));
+    el.appendChild(b);
+  });
+}
+function openDetail(id){
+  const a = attempts[id]; const t = byId[a.textId]; if(!t) return; detailId = id;
+  document.getElementById('d-label').textContent = a.label;
+  document.getElementById('d-kv').innerHTML = `<dt>做于</dt><dd>${fmtDate(a.submittedAt)}</dd><dt>得分</dt><dd>${a.score} / 5</dd><dt>用时</dt><dd class="num">${fmt(a.durationSec)}</dd><dt>标记</dt><dd>${a.words.length} 个词、${a.sentences.length} 句</dd>${a.note ? `<dt>备注</dt><dd>${esc(a.note)}</dd>` : ''}`;
+  renderPassage(document.getElementById('d-passage'), t, { words: new Set(), sents: new Set(a.sentences.map(s => `${s.p}:${s.s}`)) });
+  // words: re-attach marks by matching the saved token inside its sentence
+  const pEl = document.getElementById('d-passage');
+  a.words.forEach(w => { const s = pEl.querySelector(`.s[data-k="${w.p}:${w.s}"]`); if(!s) return; const cand = [...s.querySelectorAll('.w')].find(x => x.textContent === w.raw && !x.classList.contains('unk')) || [...s.querySelectorAll('.w')].find(x => x.dataset.w === w.w); if(cand) cand.classList.add('unk'); });
+  renderQs(document.getElementById('d-qs'), t, a, false);
+  show('detail');
+}
+document.getElementById('btn-back2').addEventListener('click', () => { show('history'); render(); });
+let detailId = null;
+document.getElementById('btn-copy-md').addEventListener('click', () => { if(detailId && attempts[detailId]) copyText(attemptMarkdown(attempts[detailId])); });
+
+// ---------- vocab ----------
+function renderVocab(){
+  const tb = document.getElementById('vtable'); const agg = {};
+  Object.values(attempts).forEach(a => a.words.forEach(w => { if(!w.w) return; const k = w.w; agg[k] = agg[k] || { n: 0, ctx: w.sent, from: new Set() }; agg[k].n++; agg[k].from.add(a.label); }));
+  const rows = Object.entries(agg).sort((x, y) => y[1].n - x[1].n || x[0].localeCompare(y[0]));
+  if(!rows.length){ tb.innerHTML = '<tr><td class="empty">还没有生词。做题时点一下不认识的词，它们会汇总到这里。</td></tr>'; return; }
+  tb.innerHTML = '<tr><th>词</th><th>次</th><th>出处 · 句子</th></tr>' + rows.map(([w, v]) => `<tr><td class="wd">${esc(w)}</td><td class="num">${v.n}</td><td class="ctx"><span class="small muted" style="font-family:'IBM Plex Sans',sans-serif">${[...v.from].join('、')}</span><br>${esc(v.ctx)}</td></tr>`).join('');
+}
+
+function render(){ renderHome(); renderHistory(); renderVocab(); }
+load();
+render();
+ghPull();
+</script>
+</body>
+</html>
