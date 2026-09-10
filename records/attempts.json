@@ -1,1 +1,131 @@
-{"app":"英二阅读台","updatedAt":null,"count":0,"attempts":[]}
+{
+ "app": "英语工作台",
+ "updatedAt": "2026-09-10T03:23:18.372Z",
+ "count": 0,
+ "attempts": [],
+ "notes": {
+  "2012-1": {
+   "words": [
+    {
+     "w": "ritual",
+     "raw": "ritual.",
+     "p": 0,
+     "s": 1,
+     "sent": "School districts across the country, most recently Los Angeles Unified, are revising their thinking on this educational ritual."
+    },
+    {
+     "w": "terribly",
+     "raw": "terribly",
+     "p": 0,
+     "s": 0,
+     "sent": "Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned."
+    },
+    {
+     "w": "particularly",
+     "raw": "particularly",
+     "p": 0,
+     "s": 0,
+     "sent": "Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned."
+    },
+    {
+     "w": "scorned",
+     "raw": "scorned.",
+     "p": 0,
+     "s": 0,
+     "sent": "Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned."
+    },
+    {
+     "w": "inflexible",
+     "raw": "inflexible",
+     "p": 0,
+     "s": 2,
+     "sent": "Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade."
+    },
+    {
+     "w": "mandates",
+     "raw": "mandates",
+     "p": 0,
+     "s": 2,
+     "sent": "Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade."
+    },
+    {
+     "w": "contradictory",
+     "raw": "contradictory.",
+     "p": 1,
+     "s": 1,
+     "sent": "But the policy is unclear and contradictory."
+    },
+    {
+     "w": "impoverished",
+     "raw": "impoverished",
+     "p": 1,
+     "s": 0,
+     "sent": "This rule is meant to address the difficulty that students from impoverished or chaotic homes might have in completing their homework."
+    },
+    {
+     "w": "chaotic",
+     "raw": "chaotic",
+     "p": 1,
+     "s": 0,
+     "sent": "This rule is meant to address the difficulty that students from impoverished or chaotic homes might have in completing their homework."
+    },
+    {
+     "w": "complete",
+     "raw": "complete",
+     "p": 1,
+     "s": 2,
+     "sent": "Certainly, no homework should be assigned that students cannot complete on their own or that they cannot do without expensive equipment."
+    },
+    {
+     "w": "advanced",
+     "raw": "advanced",
+     "p": 0,
+     "s": 2,
+     "sent": "Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade."
+    },
+    {
+     "w": "administrators",
+     "raw": "administrators",
+     "p": 2,
+     "s": 0,
+     "sent": "District administrators say that homework will still be a part of schooling; teachers are allowed to assign as much of it as they want."
+    }
+   ],
+   "sentences": [],
+   "phrases": [
+    {
+     "text": "has never been",
+     "p": 0,
+     "s": 0,
+     "a": 1,
+     "b": 3,
+     "sent": "Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned.",
+     "note": ""
+    }
+   ],
+   "updatedAt": "2026-09-10T02:51:02.133Z"
+  }
+ },
+ "prefs": {
+  "tier": {},
+  "confuse": {},
+  "quiz": {},
+  "looked": {
+   "ritual": "2026-09-10T02:43:46.975Z",
+   "terribly": "2026-09-10T02:43:58.517Z",
+   "particularly": "2026-09-10T02:44:05.411Z",
+   "scorned": "2026-09-10T02:44:11.989Z",
+   "inflexible": "2026-09-10T02:44:17.440Z",
+   "mandates": "2026-09-10T02:44:23.673Z",
+   "never": "2026-09-10T02:45:18.931Z",
+   "contradictory": "2026-09-10T02:49:20.949Z",
+   "impoverished": "2026-09-10T02:49:35.467Z",
+   "chaotic": "2026-09-10T02:49:38.033Z",
+   "complete": "2026-09-10T02:49:45.308Z",
+   "advanced": "2026-09-10T02:50:02.658Z",
+   "advance": "2026-09-10T02:50:07.974Z",
+   "advances": "2026-09-10T02:50:09.332Z",
+   "administrators": "2026-09-10T02:51:00.471Z"
+  }
+ }
+}
