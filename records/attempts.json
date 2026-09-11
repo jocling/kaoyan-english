@@ -1,8 +1,46 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-11T04:34:26.257Z",
- "count": 0,
- "attempts": [],
+ "updatedAt": "2026-09-11T04:34:31.341Z",
+ "count": 1,
+ "attempts": [
+  {
+   "id": "2012-1__20260911043430_ge4",
+   "textId": "2012-1",
+   "label": "2012 · Text 1",
+   "year": 2012,
+   "startedAt": "2026-09-11T04:33:58.990Z",
+   "submittedAt": "2026-09-11T04:34:30.284Z",
+   "durationSec": 31,
+   "score": 2,
+   "answers": {
+    "21": "A",
+    "22": "D",
+    "23": "B",
+    "24": "B",
+    "25": "C"
+   },
+   "correct": {
+    "21": true,
+    "22": false,
+    "23": false,
+    "24": true,
+    "25": false
+   },
+   "qTimes": {
+    "21": 7,
+    "22": 15,
+    "23": 18,
+    "24": 20,
+    "25": 22
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [],
+   "sentences": []
+  }
+ ],
  "notes": {
   "2012-1": {
    "words": [
