@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-12T08:11:36.052Z",
+ "updatedAt": "2026-09-12T08:39:16.957Z",
  "count": 3,
  "attempts": [
   {
@@ -33,7 +33,10 @@
     "29": 597,
     "30": 619
    },
-   "causes": {},
+   "causes": {
+    "26": "词不认识",
+    "27": "句没读懂"
+   },
    "traps": {},
    "conf": {
     "26": "hmm",
@@ -289,18 +292,289 @@
      "p": 0,
      "s": 1,
      "sent": "It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls' identity to appearance."
+    },
+    {
+     "w": "unavoidable",
+     "raw": "unavoidable,",
+     "p": 1,
+     "s": 0,
+     "sent": "Girls' attraction to pink may seem unavoidable, somehow encoded in their DNA, but according to Jo Paoletti, an associate professor of American Studies, it is not."
+    },
+    {
+     "w": "somehow",
+     "raw": "somehow",
+     "p": 1,
+     "s": 0,
+     "sent": "Girls' attraction to pink may seem unavoidable, somehow encoded in their DNA, but according to Jo Paoletti, an associate professor of American Studies, it is not."
+    },
+    {
+     "w": "domestic",
+     "raw": "domestic",
+     "p": 1,
+     "s": 1,
+     "sent": "Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them."
+    },
+    {
+     "w": "gender-neutral",
+     "raw": "gender-neutral",
+     "p": 1,
+     "s": 2,
+     "sent": "What's more, both boys and girls wore what were thought of as gender-neutral dresses."
+    },
+    {
+     "w": "nursery",
+     "raw": "nursery",
+     "p": 1,
+     "s": 3,
+     "sent": "When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength."
+    },
+    {
+     "w": "considered",
+     "raw": "considered",
+     "p": 1,
+     "s": 3,
+     "sent": "When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength."
+    },
+    {
+     "w": "masculine",
+     "raw": "masculine",
+     "p": 1,
+     "s": 3,
+     "sent": "When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength."
+    },
+    {
+     "w": "pastel",
+     "raw": "pastel",
+     "p": 1,
+     "s": 3,
+     "sent": "When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength."
+    },
+    {
+     "w": "strength",
+     "raw": "strength.",
+     "p": 1,
+     "s": 3,
+     "sent": "When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength."
+    },
+    {
+     "w": "intimations",
+     "raw": "intimations",
+     "p": 1,
+     "s": 4,
+     "sent": "Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity."
+    },
+    {
+     "w": "constancy",
+     "raw": "constancy",
+     "p": 1,
+     "s": 4,
+     "sent": "Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity."
+    },
+    {
+     "w": "faithfulness",
+     "raw": "faithfulness,",
+     "p": 1,
+     "s": 4,
+     "sent": "Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity."
+    },
+    {
+     "w": "femininity",
+     "raw": "femininity.",
+     "p": 1,
+     "s": 4,
+     "sent": "Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity."
+    },
+    {
+     "w": "amplifying",
+     "raw": "amplifying",
+     "p": 1,
+     "s": 5,
+     "sent": "It was not until the mid-1980s, when amplifying age and sex differences became a dominant children's marketing strategy, that pink fully came into its own, when it began to seem inherently attractive to girls, part of what defined them as female, at least for the first few critical years."
+    },
+    {
+     "w": "inherently",
+     "raw": "inherently",
+     "p": 1,
+     "s": 5,
+     "sent": "It was not until the mid-1980s, when amplifying age and sex differences became a dominant children's marketing strategy, that pink fully came into its own, when it began to seem inherently attractive to girls, part of what defined them as female, at least for the first few critical years."
+    },
+    {
+     "w": "defined",
+     "raw": "defined",
+     "p": 1,
+     "s": 5,
+     "sent": "It was not until the mid-1980s, when amplifying age and sex differences became a dominant children's marketing strategy, that pink fully came into its own, when it began to seem inherently attractive to girls, part of what defined them as female, at least for the first few critical years."
+    },
+    {
+     "w": "wore",
+     "raw": "wore",
+     "p": 1,
+     "s": 1,
+     "sent": "Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them."
+    },
+    {
+     "w": "practical",
+     "raw": "practical",
+     "p": 1,
+     "s": 1,
+     "sent": "Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them."
+    },
+    {
+     "w": "since",
+     "raw": "since",
+     "p": 1,
+     "s": 1,
+     "sent": "Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them."
+    },
+    {
+     "w": "dictated",
+     "raw": "dictated",
+     "p": 2,
+     "s": 0,
+     "sent": "I had not realised how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development."
+    },
+    {
+     "w": "perception",
+     "raw": "perception",
+     "p": 2,
+     "s": 0,
+     "sent": "I had not realised how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development."
+    },
+    {
+     "w": "psychological",
+     "raw": "psychological",
+     "p": 2,
+     "s": 0,
+     "sent": "I had not realised how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development."
+    },
+    {
+     "w": "toddler",
+     "raw": "toddler.",
+     "p": 2,
+     "s": 1,
+     "sent": "Take the toddler."
+    },
+    {
+     "w": "consumerism",
+     "raw": "consumerism,",
+     "p": 2,
+     "s": 3,
+     "sent": "Turns out, according to Daniel Cook, a historian of childhood consumerism, it was popularised as a marketing trick by clothing manufacturers in the 1930s."
+    },
+    {
+     "w": "publications",
+     "raw": "publications",
+     "p": 3,
+     "s": 0,
+     "sent": "Trade publications counselled department stores that, in order to increase sales, they should create a \"third stepping stone\" between infant wear and older kids' clothes."
+    },
+    {
+     "w": "counselled",
+     "raw": "counselled",
+     "p": 3,
+     "s": 0,
+     "sent": "Trade publications counselled department stores that, in order to increase sales, they should create a \"third stepping stone\" between infant wear and older kids' clothes."
+    },
+    {
+     "w": "infant",
+     "raw": "infant",
+     "p": 3,
+     "s": 0,
+     "sent": "Trade publications counselled department stores that, in order to increase sales, they should create a \"third stepping stone\" between infant wear and older kids' clothes."
+    },
+    {
+     "w": "term",
+     "raw": "term",
+     "p": 3,
+     "s": 1,
+     "sent": "It was only after \"toddler\" became a common shoppers' term that it evolved into a broadly accepted developmental stage."
+    },
+    {
+     "w": "evolved",
+     "raw": "evolved",
+     "p": 3,
+     "s": 1,
+     "sent": "It was only after \"toddler\" became a common shoppers' term that it evolved into a broadly accepted developmental stage."
+    },
+    {
+     "w": "broadly",
+     "raw": "broadly",
+     "p": 3,
+     "s": 1,
+     "sent": "It was only after \"toddler\" became a common shoppers' term that it evolved into a broadly accepted developmental stage."
+    },
+    {
+     "w": "accepted",
+     "raw": "accepted",
+     "p": 3,
+     "s": 1,
+     "sent": "It was only after \"toddler\" became a common shoppers' term that it evolved into a broadly accepted developmental stage."
+    },
+    {
+     "w": "ever-tinier",
+     "raw": "ever-tinier",
+     "p": 3,
+     "s": 2,
+     "sent": "Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits."
+    },
+    {
+     "w": "sure-fire",
+     "raw": "sure-fire",
+     "p": 3,
+     "s": 2,
+     "sent": "Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits."
+    },
+    {
+     "w": "magnify",
+     "raw": "magnify",
+     "p": 3,
+     "s": 3,
+     "sent": "And one of the easiest ways to segment a market is to magnify gender differences – or invent them where they did not previously exist."
+    },
+    {
+     "w": "segment",
+     "raw": "segment",
+     "p": 3,
+     "s": 3,
+     "sent": "And one of the easiest ways to segment a market is to magnify gender differences – or invent them where they did not previously exist."
     }
    ],
-   "sentences": [],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 1,
+     "text": "It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls' identity to appearance."
+    },
+    {
+     "p": 1,
+     "s": 1,
+     "text": "Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them."
+    },
+    {
+     "p": 2,
+     "s": 2,
+     "text": "I assumed that phase was something experts developed after years of research into children's behaviour: wrong."
+    },
+    {
+     "p": 3,
+     "s": 3,
+     "text": "And one of the easiest ways to segment a market is to magnify gender differences – or invent them where they did not previously exist."
+    }
+   ],
    "phrases": [],
-   "updatedAt": "2026-09-12T08:10:35.668Z"
+   "updatedAt": "2026-09-12T08:36:05.393Z"
   }
  },
  "prefs": {
-  "tier": {},
+  "tier": {
+   "inherently": 1
+  },
   "confuse": {
    "intrinsically": [
     "adj.  intrinsic"
+   ],
+   "defined": [
+    "deny"
    ]
   },
   "quiz": {},
@@ -331,7 +605,48 @@
    "presents": "2026-09-12T08:06:47.218Z",
    "innocent": "2026-09-12T08:06:59.568Z",
    "innocence": "2026-09-12T08:07:03.903Z",
-   "appearance": "2026-09-12T08:10:31.194Z"
+   "appearance": "2026-09-12T08:10:31.194Z",
+   "attraction": "2026-09-12T08:11:38.908Z",
+   "unavoidable": "2026-09-12T08:11:45.297Z",
+   "professor": "2026-09-12T08:11:54.082Z",
+   "somehow": "2026-09-12T08:11:56.566Z",
+   "colour-coded": "2026-09-12T08:13:07.222Z",
+   "domestic": "2026-09-12T08:13:19.836Z",
+   "gender-neutral": "2026-09-12T08:14:29.202Z",
+   "nursery": "2026-09-12T08:14:36.419Z",
+   "considered": "2026-09-12T08:14:54.908Z",
+   "masculine": "2026-09-12T08:15:05.685Z",
+   "pastel": "2026-09-12T08:15:27.189Z",
+   "strength": "2026-09-12T08:15:52.660Z",
+   "intimations": "2026-09-12T08:16:00.684Z",
+   "dna": "2026-09-12T08:19:15.400Z",
+   "critical": "2026-09-12T08:19:57.976Z",
+   "constancy": "2026-09-12T08:20:50.535Z",
+   "faithfulness": "2026-09-12T08:20:58.456Z",
+   "femininity": "2026-09-12T08:21:04.943Z",
+   "amplifying": "2026-09-12T08:21:47.958Z",
+   "inherently": "2026-09-12T08:23:04.688Z",
+   "defined": "2026-09-12T08:23:23.580Z",
+   "wore": "2026-09-12T08:25:02.954Z",
+   "practical": "2026-09-12T08:25:49.513Z",
+   "since": "2026-09-12T08:26:00.161Z",
+   "dictated": "2026-09-12T08:28:33.545Z",
+   "perception": "2026-09-12T08:28:56.094Z",
+   "something": "2026-09-12T08:29:16.669Z",
+   "psychological": "2026-09-12T08:29:22.867Z",
+   "toddler": "2026-09-12T08:30:02.996Z",
+   "consumerism": "2026-09-12T08:31:24.233Z",
+   "publications": "2026-09-12T08:32:15.273Z",
+   "counselled": "2026-09-12T08:32:21.600Z",
+   "infant": "2026-09-12T08:33:15.361Z",
+   "term": "2026-09-12T08:33:47.047Z",
+   "evolved": "2026-09-12T08:34:03.399Z",
+   "broadly": "2026-09-12T08:34:12.365Z",
+   "accepted": "2026-09-12T08:34:15.365Z",
+   "ever-tinier": "2026-09-12T08:34:53.854Z",
+   "sure-fire": "2026-09-12T08:35:13.048Z",
+   "magnify": "2026-09-12T08:35:33.938Z",
+   "segment": "2026-09-12T08:35:39.348Z"
   }
  }
 }
