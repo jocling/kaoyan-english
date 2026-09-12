@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-12T07:41:29.660Z",
+ "updatedAt": "2026-09-12T08:11:36.052Z",
  "count": 3,
  "attempts": [
   {
@@ -224,11 +224,85 @@
     }
    ],
    "updatedAt": "2026-09-10T02:51:02.133Z"
+  },
+  "2012-2": {
+   "words": [
+    {
+     "w": "obsessed",
+     "raw": "obsessed",
+     "p": 0,
+     "s": 0,
+     "sent": "Pretty in pink: adult women do not remember being so obsessed with the colour, yet it is pervasive in our young girls' lives."
+    },
+    {
+     "w": "pervasive",
+     "raw": "pervasive",
+     "p": 0,
+     "s": 0,
+     "sent": "Pretty in pink: adult women do not remember being so obsessed with the colour, yet it is pervasive in our young girls' lives."
+    },
+    {
+     "w": "intrinsically",
+     "raw": "intrinsically",
+     "p": 0,
+     "s": 1,
+     "sent": "It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls' identity to appearance."
+    },
+    {
+     "w": "fuses",
+     "raw": "fuses",
+     "p": 0,
+     "s": 1,
+     "sent": "It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls' identity to appearance."
+    },
+    {
+     "w": "presents",
+     "raw": "presents",
+     "p": 0,
+     "s": 2,
+     "sent": "Then it presents that connection, even among two-year-olds, between girls as not only innocent but as evidence of innocence."
+    },
+    {
+     "w": "innocent",
+     "raw": "innocent",
+     "p": 0,
+     "s": 2,
+     "sent": "Then it presents that connection, even among two-year-olds, between girls as not only innocent but as evidence of innocence."
+    },
+    {
+     "w": "innocence",
+     "raw": "innocence.",
+     "p": 0,
+     "s": 2,
+     "sent": "Then it presents that connection, even among two-year-olds, between girls as not only innocent but as evidence of innocence."
+    },
+    {
+     "w": "despaired",
+     "raw": "despaired",
+     "p": 0,
+     "s": 3,
+     "sent": "Looking around, I despaired at the singular lack of imagination about girls' lives and interests."
+    },
+    {
+     "w": "appearance",
+     "raw": "appearance.",
+     "p": 0,
+     "s": 1,
+     "sent": "It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls' identity to appearance."
+    }
+   ],
+   "sentences": [],
+   "phrases": [],
+   "updatedAt": "2026-09-12T08:10:35.668Z"
   }
  },
  "prefs": {
   "tier": {},
-  "confuse": {},
+  "confuse": {
+   "intrinsically": [
+    "adj.  intrinsic"
+   ]
+  },
   "quiz": {},
   "looked": {
    "ritual": "2026-09-10T02:43:46.975Z",
@@ -245,7 +319,19 @@
    "advanced": "2026-09-10T02:50:02.658Z",
    "advance": "2026-09-10T02:50:07.974Z",
    "advances": "2026-09-10T02:50:09.332Z",
-   "administrators": "2026-09-10T02:51:00.471Z"
+   "administrators": "2026-09-10T02:51:00.471Z",
+   "obsessed": "2026-09-12T08:04:32.266Z",
+   "pervasive": "2026-09-12T08:04:40.395Z",
+   "intrinsically": "2026-09-12T08:05:20.594Z",
+   "slice": "2026-09-12T08:05:38.825Z",
+   "despaired": "2026-09-12T08:05:48.979Z",
+   "tiny": "2026-09-12T08:05:50.915Z",
+   "fuses": "2026-09-12T08:06:23.266Z",
+   "among": "2026-09-12T08:06:29.786Z",
+   "presents": "2026-09-12T08:06:47.218Z",
+   "innocent": "2026-09-12T08:06:59.568Z",
+   "innocence": "2026-09-12T08:07:03.903Z",
+   "appearance": "2026-09-12T08:10:31.194Z"
   }
  }
 }
