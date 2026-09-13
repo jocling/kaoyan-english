@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-13T04:51:37.903Z",
+ "updatedAt": "2026-09-13T05:33:18.337Z",
  "count": 4,
  "attempts": [
   {
@@ -610,11 +610,372 @@
    ],
    "phrases": [],
    "updatedAt": "2026-09-12T08:36:05.393Z"
+  },
+  "2012-3": {
+   "words": [
+    {
+     "w": "shook",
+     "raw": "shook",
+     "p": 0,
+     "s": 0,
+     "sent": "In 2010, a federal judge shook America's biotech industry to its core."
+    },
+    {
+     "w": "core",
+     "raw": "core.",
+     "p": 0,
+     "s": 0,
+     "sent": "In 2010, a federal judge shook America's biotech industry to its core."
+    },
+    {
+     "w": "isolated",
+     "raw": "isolated",
+     "p": 0,
+     "s": 1,
+     "sent": "Companies had won patents for isolated DNA for decades – by 2005 some 20% of human genes were patented."
+    },
+    {
+     "w": "patents",
+     "raw": "patents",
+     "p": 0,
+     "s": 1,
+     "sent": "Companies had won patents for isolated DNA for decades – by 2005 some 20% of human genes were patented."
+    },
+    {
+     "w": "decades",
+     "raw": "decades",
+     "p": 0,
+     "s": 1,
+     "sent": "Companies had won patents for isolated DNA for decades – by 2005 some 20% of human genes were patented."
+    },
+    {
+     "w": "unpatentable",
+     "raw": "unpatentable.",
+     "p": 0,
+     "s": 2,
+     "sent": "But in March 2010 a judge ruled that genes were unpatentable."
+    },
+    {
+     "w": "agitated",
+     "raw": "agitated.",
+     "p": 0,
+     "s": 3,
+     "sent": "Executives were violently agitated."
+    },
+    {
+     "w": "preliminary",
+     "raw": "\"preliminary",
+     "p": 0,
+     "s": 4,
+     "sent": "The Biotechnology Industry Organisation (BIO), a trade group, assured members that this was just a \"preliminary step\" in a longer battle."
+    },
+    {
+     "w": "assured",
+     "raw": "assured",
+     "p": 0,
+     "s": 4,
+     "sent": "The Biotechnology Industry Organisation (BIO), a trade group, assured members that this was just a \"preliminary step\" in a longer battle."
+    },
+    {
+     "w": "relieved",
+     "raw": "relieved,",
+     "p": 1,
+     "s": 0,
+     "sent": "On July 29th they were relieved, at least temporarily."
+    },
+    {
+     "w": "temporarily",
+     "raw": "temporarily.",
+     "p": 1,
+     "s": 0,
+     "sent": "On July 29th they were relieved, at least temporarily."
+    },
+    {
+     "w": "overturned",
+     "raw": "overturned",
+     "p": 1,
+     "s": 1,
+     "sent": "A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes that help forecast a woman's risk of breast cancer."
+    },
+    {
+     "w": "indeed",
+     "raw": "indeed",
+     "p": 1,
+     "s": 1,
+     "sent": "A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes that help forecast a woman's risk of breast cancer."
+    },
+    {
+     "w": "forecast",
+     "raw": "forecast",
+     "p": 1,
+     "s": 1,
+     "sent": "A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes that help forecast a woman's risk of breast cancer."
+    },
+    {
+     "w": "blessing",
+     "raw": "blessing",
+     "p": 1,
+     "s": 2,
+     "sent": "The chief executive of Myriad, a company in Utah, said the ruling was a blessing to firms and patients alike."
+    },
+    {
+     "w": "alike",
+     "raw": "alike.",
+     "p": 1,
+     "s": 2,
+     "sent": "The chief executive of Myriad, a company in Utah, said the ruling was a blessing to firms and patients alike."
+    },
+    {
+     "w": "attempts",
+     "raw": "attempts",
+     "p": 2,
+     "s": 0,
+     "sent": "But as companies continue their attempts at personalised medicine, the courts will remain rather busy."
+    },
+    {
+     "w": "personalised",
+     "raw": "personalised",
+     "p": 2,
+     "s": 0,
+     "sent": "But as companies continue their attempts at personalised medicine, the courts will remain rather busy."
+    },
+    {
+     "w": "medicine",
+     "raw": "medicine,",
+     "p": 2,
+     "s": 0,
+     "sent": "But as companies continue their attempts at personalised medicine, the courts will remain rather busy."
+    },
+    {
+     "w": "suppress",
+     "raw": "suppress",
+     "p": 2,
+     "s": 2,
+     "sent": "Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents' monopolies restrict access to genetic tests such as Myriad's."
+    },
+    {
+     "w": "innovation",
+     "raw": "innovation",
+     "p": 2,
+     "s": 2,
+     "sent": "Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents' monopolies restrict access to genetic tests such as Myriad's."
+    },
+    {
+     "w": "monopolies",
+     "raw": "monopolies",
+     "p": 2,
+     "s": 2,
+     "sent": "Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents' monopolies restrict access to genetic tests such as Myriad's."
+    },
+    {
+     "w": "restrict",
+     "raw": "restrict",
+     "p": 2,
+     "s": 2,
+     "sent": "Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents' monopolies restrict access to genetic tests such as Myriad's."
+    },
+    {
+     "w": "task-force",
+     "raw": "task-force",
+     "p": 2,
+     "s": 4,
+     "sent": "Last year a federal task-force urged reform for patents related to genetic tests."
+    },
+    {
+     "w": "urged",
+     "raw": "urged",
+     "p": 2,
+     "s": 4,
+     "sent": "Last year a federal task-force urged reform for patents related to genetic tests."
+    },
+    {
+     "w": "reform",
+     "raw": "reform",
+     "p": 2,
+     "s": 4,
+     "sent": "Last year a federal task-force urged reform for patents related to genetic tests."
+    },
+    {
+     "w": "filed",
+     "raw": "filed",
+     "p": 2,
+     "s": 5,
+     "sent": "In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature…than are cotton fibres that have been separated from cotton seeds.\""
+    },
+    {
+     "w": "brief",
+     "raw": "brief",
+     "p": 2,
+     "s": 5,
+     "sent": "In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature…than are cotton fibres that have been separated from cotton seeds.\""
+    },
+    {
+     "w": "separated",
+     "raw": "separated",
+     "p": 2,
+     "s": 5,
+     "sent": "In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature…than are cotton fibres that have been separated from cotton seeds.\""
+    },
+    {
+     "w": "sequencing",
+     "raw": "sequencing",
+     "p": 3,
+     "s": 1,
+     "sent": "For example, it is unclear whether the sequencing of a whole genome violates the patents of individual genes within it."
+    },
+    {
+     "w": "genome",
+     "raw": "genome",
+     "p": 3,
+     "s": 1,
+     "sent": "For example, it is unclear whether the sequencing of a whole genome violates the patents of individual genes within it."
+    },
+    {
+     "w": "violates",
+     "raw": "violates",
+     "p": 3,
+     "s": 1,
+     "sent": "For example, it is unclear whether the sequencing of a whole genome violates the patents of individual genes within it."
+    },
+    {
+     "w": "molecules",
+     "raw": "molecules",
+     "p": 4,
+     "s": 1,
+     "sent": "Companies are unlikely to file many more patents for human DNA molecules – most are already patented or in the public domain."
+    },
+    {
+     "w": "domain",
+     "raw": "domain.",
+     "p": 4,
+     "s": 1,
+     "sent": "Companies are unlikely to file many more patents for human DNA molecules – most are already patented or in the public domain."
+    },
+    {
+     "w": "impact",
+     "raw": "impact.",
+     "p": 4,
+     "s": 0,
+     "sent": "As the industry advances, however, other suits may have an even greater impact."
+    },
+    {
+     "w": "interact",
+     "raw": "interact,",
+     "p": 4,
+     "s": 2,
+     "sent": "Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug's efficacy."
+    },
+    {
+     "w": "correlations",
+     "raw": "correlations",
+     "p": 4,
+     "s": 2,
+     "sent": "Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug's efficacy."
+    },
+    {
+     "w": "determine",
+     "raw": "determine",
+     "p": 4,
+     "s": 2,
+     "sent": "Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug's efficacy."
+    },
+    {
+     "w": "efficacy",
+     "raw": "efficacy.",
+     "p": 4,
+     "s": 2,
+     "sent": "Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug's efficacy."
+    },
+    {
+     "w": "eager",
+     "raw": "eager",
+     "p": 4,
+     "s": 3,
+     "sent": "Companies are eager to win patents for \"connecting the dots,\" explains Hans Sauer, a lawyer for the BIO."
+    },
+    {
+     "w": "dots",
+     "raw": "dots,\"",
+     "p": 4,
+     "s": 3,
+     "sent": "Companies are eager to win patents for \"connecting the dots,\" explains Hans Sauer, a lawyer for the BIO."
+    },
+    {
+     "w": "brought",
+     "raw": "brought",
+     "p": 5,
+     "s": 0,
+     "sent": "Their success may be determined by a suit related to this issue, brought by the Mayo Clinic, which the Supreme Court will hear in its next term."
+    },
+    {
+     "w": "convention",
+     "raw": "convention",
+     "p": 5,
+     "s": 1,
+     "sent": "The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents."
+    },
+    {
+     "w": "landscape",
+     "raw": "landscape",
+     "p": 5,
+     "s": 1,
+     "sent": "The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents."
+    },
+    {
+     "w": "packed",
+     "raw": "packed.",
+     "p": 5,
+     "s": 2,
+     "sent": "Each meeting was packed."
+    },
+    {
+     "w": "sessions",
+     "raw": "sessions",
+     "p": 5,
+     "s": 1,
+     "sent": "The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 0,
+     "text": "In 2010, a federal judge shook America's biotech industry to its core."
+    },
+    {
+     "p": 2,
+     "s": 0,
+     "text": "But as companies continue their attempts at personalised medicine, the courts will remain rather busy."
+    },
+    {
+     "p": 2,
+     "s": 1,
+     "text": "The Myriad case itself is probably not over."
+    },
+    {
+     "p": 2,
+     "s": 5,
+     "text": "In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature…than are cotton fibres that have been separated from cotton seeds.\""
+    },
+    {
+     "p": 3,
+     "s": 1,
+     "text": "For example, it is unclear whether the sequencing of a whole genome violates the patents of individual genes within it."
+    },
+    {
+     "p": 5,
+     "s": 2,
+     "text": "Each meeting was packed."
+    }
+   ],
+   "phrases": [],
+   "updatedAt": "2026-09-13T05:30:24.919Z"
   }
  },
  "prefs": {
   "tier": {
-   "inherently": 1
+   "inherently": 1,
+   "urged": 1
   },
   "confuse": {
    "intrinsically": [
@@ -622,6 +983,12 @@
    ],
    "defined": [
     "deny"
+   ],
+   "violently": [
+    "violent"
+   ],
+   "temporarily": [
+    "temporary"
    ]
   },
   "quiz": {},
@@ -693,7 +1060,59 @@
    "ever-tinier": "2026-09-12T08:34:53.854Z",
    "sure-fire": "2026-09-12T08:35:13.048Z",
    "magnify": "2026-09-12T08:35:33.938Z",
-   "segment": "2026-09-12T08:35:39.348Z"
+   "segment": "2026-09-12T08:35:39.348Z",
+   "shook": "2026-09-13T04:59:25.835Z",
+   "core": "2026-09-13T04:59:34.568Z",
+   "isolated": "2026-09-13T05:00:10.810Z",
+   "patents": "2026-09-13T05:00:44.473Z",
+   "decades": "2026-09-13T05:00:56.256Z",
+   "unpatentable": "2026-09-13T05:01:28.964Z",
+   "agitated": "2026-09-13T05:01:45.003Z",
+   "violently": "2026-09-13T05:02:00.768Z",
+   "preliminary": "2026-09-13T05:03:30.331Z",
+   "assured": "2026-09-13T05:03:45.967Z",
+   "relieved": "2026-09-13T05:06:59.363Z",
+   "temporarily": "2026-09-13T05:07:11.386Z",
+   "overturned": "2026-09-13T05:07:24.372Z",
+   "could": "2026-09-13T05:08:10.339Z",
+   "appeals": "2026-09-13T05:08:12.231Z",
+   "indeed": "2026-09-13T05:08:45.117Z",
+   "forecast": "2026-09-13T05:08:59.658Z",
+   "blessing": "2026-09-13T05:09:28.639Z",
+   "alike": "2026-09-13T05:09:59.865Z",
+   "continue": "2026-09-13T05:12:09.290Z",
+   "attempts": "2026-09-13T05:12:10.622Z",
+   "personalised": "2026-09-13T05:12:22.391Z",
+   "medicine": "2026-09-13T05:13:14.365Z",
+   "not": "2026-09-13T05:14:13.503Z",
+   "suppress": "2026-09-13T05:15:24.009Z",
+   "innovation": "2026-09-13T05:15:31.553Z",
+   "monopolies": "2026-09-13T05:15:43.529Z",
+   "restrict": "2026-09-13T05:15:53.261Z",
+   "task-force": "2026-09-13T05:16:37.812Z",
+   "urged": "2026-09-13T05:16:43.715Z",
+   "reform": "2026-09-13T05:17:02.623Z",
+   "filed": "2026-09-13T05:17:43.254Z",
+   "brief": "2026-09-13T05:17:52.436Z",
+   "separated": "2026-09-13T05:18:25.311Z",
+   "sequencing": "2026-09-13T05:20:37.641Z",
+   "genome": "2026-09-13T05:20:49.160Z",
+   "violates": "2026-09-13T05:20:51.987Z",
+   "molecules": "2026-09-13T05:22:33.126Z",
+   "domain": "2026-09-13T05:22:51.156Z",
+   "impact": "2026-09-13T05:23:05.026Z",
+   "interact": "2026-09-13T05:23:20.050Z",
+   "a": "2026-09-13T05:23:25.894Z",
+   "correlations": "2026-09-13T05:23:26.833Z",
+   "determine": "2026-09-13T05:23:32.557Z",
+   "efficacy": "2026-09-13T05:23:39.116Z",
+   "eager": "2026-09-13T05:28:11.031Z",
+   "dots": "2026-09-13T05:28:17.715Z",
+   "brought": "2026-09-13T05:29:11.484Z",
+   "convention": "2026-09-13T05:29:38.946Z",
+   "landscape": "2026-09-13T05:29:50.456Z",
+   "packed": "2026-09-13T05:29:58.610Z",
+   "sessions": "2026-09-13T05:30:21.073Z"
   }
  }
 }
