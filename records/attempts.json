@@ -1,8 +1,45 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-16T14:29:31.107Z",
- "count": 5,
+ "updatedAt": "2026-09-16T15:25:56.211Z",
+ "count": 6,
  "attempts": [
+  {
+   "id": "2012-4__20260916152554_e0s",
+   "textId": "2012-4",
+   "label": "2012 · Text 4",
+   "year": 2012,
+   "startedAt": "2026-09-16T15:24:14.008Z",
+   "submittedAt": "2026-09-16T15:25:54.915Z",
+   "durationSec": 101,
+   "score": 5,
+   "answers": {
+    "36": "D",
+    "37": "D",
+    "38": "B",
+    "39": "D",
+    "40": "C"
+   },
+   "correct": {
+    "36": true,
+    "37": true,
+    "38": true,
+    "39": true,
+    "40": true
+   },
+   "qTimes": {
+    "36": 10,
+    "37": 24,
+    "38": 58,
+    "39": 88,
+    "40": 96
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [],
+   "sentences": []
+  },
   {
    "id": "2012-4__20260916142819_3mi",
    "textId": "2012-4",
@@ -1014,6 +1051,406 @@
    ],
    "phrases": [],
    "updatedAt": "2026-09-13T05:30:24.919Z"
+  },
+  "2012-4": {
+   "words": [
+    {
+     "w": "recession",
+     "raw": "recession",
+     "p": 0,
+     "s": 0,
+     "sent": "The great recession may be over, but this era of high joblessness is probably beginning."
+    },
+    {
+     "w": "joblessness",
+     "raw": "joblessness",
+     "p": 0,
+     "s": 0,
+     "sent": "The great recession may be over, but this era of high joblessness is probably beginning."
+    },
+    {
+     "w": "character",
+     "raw": "character",
+     "p": 0,
+     "s": 1,
+     "sent": "Before it ends, it will likely change the life course and character of a generation of young adults."
+    },
+    {
+     "w": "ultimately",
+     "raw": "ultimately,",
+     "p": 0,
+     "s": 2,
+     "sent": "And ultimately, it is likely to reshape our politics, our culture, and the character of our society for years."
+    },
+    {
+     "w": "disaster",
+     "raw": "disaster.",
+     "p": 1,
+     "s": 0,
+     "sent": "No one tries harder than the jobless to find silver linings in this national economic disaster."
+    },
+    {
+     "w": "extremely",
+     "raw": "extremely",
+     "p": 1,
+     "s": 1,
+     "sent": "Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others."
+    },
+    {
+     "w": "materialistic",
+     "raw": "materialistic",
+     "p": 1,
+     "s": 1,
+     "sent": "Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others."
+    },
+    {
+     "w": "prudent",
+     "raw": "prudent;",
+     "p": 1,
+     "s": 1,
+     "sent": "Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others."
+    },
+    {
+     "w": "struggles",
+     "raw": "struggles",
+     "p": 1,
+     "s": 1,
+     "sent": "Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others."
+    },
+    {
+     "w": "aware",
+     "raw": "aware",
+     "p": 1,
+     "s": 1,
+     "sent": "Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others."
+    },
+    {
+     "w": "respects",
+     "raw": "respects,",
+     "p": 1,
+     "s": 2,
+     "sent": "In limited respects, perhaps the recession will leave society better off."
+    },
+    {
+     "w": "fever",
+     "raw": "fever",
+     "p": 1,
+     "s": 3,
+     "sent": "At the very least, it has awoken us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending."
+    },
+    {
+     "w": "necessary",
+     "raw": "necessary",
+     "p": 1,
+     "s": 3,
+     "sent": "At the very least, it has awoken us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending."
+    },
+    {
+     "w": "reckless",
+     "raw": "reckless",
+     "p": 1,
+     "s": 3,
+     "sent": "At the very least, it has awoken us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending."
+    },
+    {
+     "w": "moral",
+     "raw": "Moral",
+     "p": 2,
+     "s": 1,
+     "sent": "In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms."
+    },
+    {
+     "w": "consequences",
+     "raw": "Consequences",
+     "p": 2,
+     "s": 1,
+     "sent": "In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms."
+    },
+    {
+     "w": "lengthy",
+     "raw": "lengthy",
+     "p": 2,
+     "s": 1,
+     "sent": "In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms."
+    },
+    {
+     "w": "stagnation",
+     "raw": "stagnation",
+     "p": 2,
+     "s": 1,
+     "sent": "In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms."
+    },
+    {
+     "w": "mean-spirited",
+     "raw": "mean-spirited",
+     "p": 2,
+     "s": 1,
+     "sent": "In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms."
+    },
+    {
+     "w": "inclusive",
+     "raw": "inclusive,",
+     "p": 2,
+     "s": 1,
+     "sent": "In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms."
+    },
+    {
+     "w": "reversed",
+     "raw": "reversed",
+     "p": 2,
+     "s": 1,
+     "sent": "In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms."
+    },
+    {
+     "w": "anti-immigrant",
+     "raw": "Anti-immigrant",
+     "p": 2,
+     "s": 2,
+     "sent": "Anti-immigrant sentiment typically increases, as does conflict between races and classes."
+    },
+    {
+     "w": "sentiment",
+     "raw": "sentiment",
+     "p": 2,
+     "s": 2,
+     "sent": "Anti-immigrant sentiment typically increases, as does conflict between races and classes."
+    },
+    {
+     "w": "typically",
+     "raw": "typically",
+     "p": 2,
+     "s": 2,
+     "sent": "Anti-immigrant sentiment typically increases, as does conflict between races and classes."
+    },
+    {
+     "w": "conflict",
+     "raw": "conflict",
+     "p": 2,
+     "s": 2,
+     "sent": "Anti-immigrant sentiment typically increases, as does conflict between races and classes."
+    },
+    {
+     "w": "inequality",
+     "raw": "inequality",
+     "p": 3,
+     "s": 0,
+     "sent": "Income inequality usually falls during a recession, but it has not shrunk in this one."
+    },
+    {
+     "w": "falls",
+     "raw": "falls",
+     "p": 3,
+     "s": 0,
+     "sent": "Income inequality usually falls during a recession, but it has not shrunk in this one."
+    },
+    {
+     "w": "shrunk",
+     "raw": "shrunk",
+     "p": 3,
+     "s": 0,
+     "sent": "Income inequality usually falls during a recession, but it has not shrunk in this one."
+    },
+    {
+     "w": "reinforce",
+     "raw": "reinforce",
+     "p": 3,
+     "s": 1,
+     "sent": "Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them – especially for young people."
+    },
+    {
+     "w": "divides",
+     "raw": "divides,",
+     "p": 3,
+     "s": 1,
+     "sent": "Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them – especially for young people."
+    },
+    {
+     "w": "decrease",
+     "raw": "decrease",
+     "p": 3,
+     "s": 1,
+     "sent": "Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them – especially for young people."
+    },
+    {
+     "w": "especially",
+     "raw": "especially",
+     "p": 3,
+     "s": 1,
+     "sent": "Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them – especially for young people."
+    },
+    {
+     "w": "graduating",
+     "raw": "graduating",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "dimmed",
+     "raw": "dimmed:",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "elite",
+     "raw": "elite",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "fairly",
+     "raw": "fairly",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "quickly",
+     "raw": "quickly",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "otherwise",
+     "raw": "otherwise",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "beneath",
+     "raw": "beneath",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "masses",
+     "raw": "masses",
+     "p": 3,
+     "s": 2,
+     "sent": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "w": "resentment",
+     "raw": "resentment",
+     "p": 4,
+     "s": 0,
+     "sent": "In the Internet age, it is particularly easy to see the resentment that has always been hidden within American society."
+    },
+    {
+     "w": "discerning",
+     "raw": "discerning",
+     "p": 4,
+     "s": 1,
+     "sent": "More difficult, in the moment, is discerning precisely how these lean times are affecting society's character."
+    },
+    {
+     "w": "precisely",
+     "raw": "precisely",
+     "p": 4,
+     "s": 1,
+     "sent": "More difficult, in the moment, is discerning precisely how these lean times are affecting society's character."
+    },
+    {
+     "w": "lean",
+     "raw": "lean",
+     "p": 4,
+     "s": 1,
+     "sent": "More difficult, in the moment, is discerning precisely how these lean times are affecting society's character."
+    },
+    {
+     "w": "socially",
+     "raw": "socially",
+     "p": 4,
+     "s": 2,
+     "sent": "In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results."
+    },
+    {
+     "w": "tolerant",
+     "raw": "tolerant",
+     "p": 4,
+     "s": 2,
+     "sent": "In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results."
+    },
+    {
+     "w": "polls",
+     "raw": "polls",
+     "p": 4,
+     "s": 2,
+     "sent": "In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results."
+    },
+    {
+     "w": "mixed",
+     "raw": "mixed",
+     "p": 4,
+     "s": 2,
+     "sent": "In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results."
+    },
+    {
+     "w": "results",
+     "raw": "results.",
+     "p": 4,
+     "s": 2,
+     "sent": "In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results."
+    },
+    {
+     "w": "exactly",
+     "raw": "exactly",
+     "p": 4,
+     "s": 3,
+     "sent": "We will have to wait and see exactly how these hard times will reshape our social fabric."
+    },
+    {
+     "w": "fabric",
+     "raw": "fabric.",
+     "p": 4,
+     "s": 3,
+     "sent": "We will have to wait and see exactly how these hard times will reshape our social fabric."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 1,
+     "text": "Before it ends, it will likely change the life course and character of a generation of young adults."
+    },
+    {
+     "p": 1,
+     "s": 0,
+     "text": "No one tries harder than the jobless to find silver linings in this national economic disaster."
+    },
+    {
+     "p": 1,
+     "s": 1,
+     "text": "Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others."
+    },
+    {
+     "p": 1,
+     "s": 3,
+     "text": "At the very least, it has awoken us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending."
+    },
+    {
+     "p": 2,
+     "s": 2,
+     "text": "Anti-immigrant sentiment typically increases, as does conflict between races and classes."
+    },
+    {
+     "p": 3,
+     "s": 2,
+     "text": "The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind."
+    },
+    {
+     "p": 4,
+     "s": 1,
+     "text": "More difficult, in the moment, is discerning precisely how these lean times are affecting society's character."
+    }
+   ],
+   "phrases": [],
+   "updatedAt": "2026-09-16T15:21:35.318Z"
   }
  },
  "prefs": {
@@ -1033,9 +1470,18 @@
    ],
    "temporarily": [
     "temporary"
+   ],
+   "stagnation": [
+    "stagnant"
    ]
   },
-  "quiz": {},
+  "quiz": {
+   "fuses": {
+    "ok": 0,
+    "bad": 1,
+    "at": "2026-09-16T14:30:01.762Z"
+   }
+  },
   "looked": {
    "ritual": "2026-09-10T02:43:46.975Z",
    "terribly": "2026-09-10T02:43:58.517Z",
@@ -1156,7 +1602,67 @@
    "convention": "2026-09-13T05:29:38.946Z",
    "landscape": "2026-09-13T05:29:50.456Z",
    "packed": "2026-09-13T05:29:58.610Z",
-   "sessions": "2026-09-13T05:30:21.073Z"
+   "sessions": "2026-09-13T05:30:21.073Z",
+   "beginning": "2026-09-16T14:34:04.991Z",
+   "joblessness": "2026-09-16T14:36:38.012Z",
+   "recession": "2026-09-16T14:36:50.568Z",
+   "over": "2026-09-16T14:36:52.881Z",
+   "reckless": "2026-09-16T14:36:56.840Z",
+   "awoken": "2026-09-16T14:36:59.203Z",
+   "course": "2026-09-16T14:52:31.778Z",
+   "character": "2026-09-16T14:52:53.890Z",
+   "before": "2026-09-16T14:53:08.825Z",
+   "ultimately": "2026-09-16T14:53:25.952Z",
+   "tries": "2026-09-16T14:54:21.548Z",
+   "disaster": "2026-09-16T14:54:56.200Z",
+   "extremely": "2026-09-16T14:55:27.707Z",
+   "materialistic": "2026-09-16T14:56:12.593Z",
+   "prudent": "2026-09-16T14:56:22.993Z",
+   "struggles": "2026-09-16T14:56:41.685Z",
+   "aware": "2026-09-16T14:56:49.454Z",
+   "respects": "2026-09-16T14:57:19.648Z",
+   "fever": "2026-09-16T14:57:48.086Z",
+   "necessary": "2026-09-16T14:58:11.582Z",
+   "moral": "2026-09-16T14:59:06.285Z",
+   "consequences": "2026-09-16T14:59:10.473Z",
+   "lengthy": "2026-09-16T14:59:50.321Z",
+   "stagnation": "2026-09-16T14:59:53.461Z",
+   "mean-spirited": "2026-09-16T15:04:12.537Z",
+   "inclusive": "2026-09-16T15:04:22.464Z",
+   "reversed": "2026-09-16T15:04:33.956Z",
+   "anti-immigrant": "2026-09-16T15:04:50.094Z",
+   "sentiment": "2026-09-16T15:05:00.487Z",
+   "typically": "2026-09-16T15:05:06.155Z",
+   "conflict": "2026-09-16T15:05:21.564Z",
+   "inequality": "2026-09-16T15:07:00.022Z",
+   "falls": "2026-09-16T15:07:09.322Z",
+   "shrunk": "2026-09-16T15:07:16.547Z",
+   "reinforce": "2026-09-16T15:07:34.766Z",
+   "divides": "2026-09-16T15:07:40.831Z",
+   "decrease": "2026-09-16T15:07:59.082Z",
+   "especially": "2026-09-16T15:08:05.056Z",
+   "graduating": "2026-09-16T15:08:36.944Z",
+   "to": "2026-09-16T15:14:51.390Z",
+   "dimmed": "2026-09-16T15:14:53.929Z",
+   "elite": "2026-09-16T15:14:59.854Z",
+   "fairly": "2026-09-16T15:15:05.269Z",
+   "quickly": "2026-09-16T15:15:09.293Z",
+   "otherwise": "2026-09-16T15:15:15.756Z",
+   "beneath": "2026-09-16T15:15:59.569Z",
+   "masses": "2026-09-16T15:16:14.107Z",
+   "resentment": "2026-09-16T15:17:45.781Z",
+   "discerning": "2026-09-16T15:18:25.810Z",
+   "precisely": "2026-09-16T15:18:32.298Z",
+   "lean": "2026-09-16T15:18:36.986Z",
+   "and": "2026-09-16T15:19:50.179Z",
+   "socially": "2026-09-16T15:19:51.913Z",
+   "tolerant": "2026-09-16T15:19:58.457Z",
+   "polls": "2026-09-16T15:20:45.301Z",
+   "mixed": "2026-09-16T15:21:02.271Z",
+   "results": "2026-09-16T15:21:05.593Z",
+   "certainly": "2026-09-16T15:21:24.155Z",
+   "exactly": "2026-09-16T15:21:29.350Z",
+   "fabric": "2026-09-16T15:21:33.955Z"
   }
  }
 }
