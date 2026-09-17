@@ -1,8 +1,45 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-16T15:26:02.942Z",
- "count": 6,
+ "updatedAt": "2026-09-17T16:56:23.452Z",
+ "count": 7,
  "attempts": [
+  {
+   "id": "2013-1__20260917165619_12c",
+   "textId": "2013-1",
+   "label": "2013 · Text 1",
+   "year": 2013,
+   "startedAt": "2026-09-17T16:44:50.670Z",
+   "submittedAt": "2026-09-17T16:56:19.690Z",
+   "durationSec": 689,
+   "score": 5,
+   "answers": {
+    "21": "A",
+    "22": "D",
+    "23": "B",
+    "24": "B",
+    "25": "C"
+   },
+   "correct": {
+    "21": true,
+    "22": true,
+    "23": true,
+    "24": true,
+    "25": true
+   },
+   "qTimes": {
+    "21": 429,
+    "22": 488,
+    "23": 621,
+    "24": 639,
+    "25": 686
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [],
+   "sentences": []
+  },
   {
    "id": "2012-4__20260916152554_e0s",
    "textId": "2012-4",
@@ -340,9 +377,55 @@
      "p": 2,
      "s": 0,
      "sent": "District administrators say that homework will still be a part of schooling; teachers are allowed to assign as much of it as they want."
+    },
+    {
+     "w": "across-the-board",
+     "raw": "across-the-board",
+     "p": 2,
+     "s": 4,
+     "sent": "Yet rather than empowering teachers to find what works best for their students, the policy imposes a flat, across-the-board rule."
+    },
+    {
+     "w": "imposes",
+     "raw": "imposes",
+     "p": 2,
+     "s": 4,
+     "sent": "Yet rather than empowering teachers to find what works best for their students, the policy imposes a flat, across-the-board rule."
+    },
+    {
+     "w": "thorny",
+     "raw": "thorny",
+     "p": 3,
+     "s": 0,
+     "sent": "At the same time, the policy addresses none of the truly thorny questions about homework."
+    },
+    {
+     "w": "conversely",
+     "raw": "Conversely,",
+     "p": 3,
+     "s": 2,
+     "sent": "Conversely, if homework matters, it should account for a significant portion of the grade."
+    },
+    {
+     "w": "eliminate",
+     "raw": "eliminate",
+     "p": 3,
+     "s": 1,
+     "sent": "If the district finds homework to be unimportant to its students' academic achievement, it should move to reduce or eliminate the assignments, not make them count for almost nothing."
     }
    ],
-   "sentences": [],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 0,
+     "text": "Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned."
+    },
+    {
+     "p": 0,
+     "s": 1,
+     "text": "School districts across the country, most recently Los Angeles Unified, are revising their thinking on this educational ritual."
+    }
+   ],
    "phrases": [
     {
      "text": "has never been",
@@ -354,7 +437,8 @@
      "note": ""
     }
    ],
-   "updatedAt": "2026-09-10T02:51:02.133Z"
+   "updatedAt": "2026-09-11T04:38:05.031Z",
+   "qwords": []
   },
   "2012-2": {
    "words": [
@@ -690,7 +774,8 @@
     }
    ],
    "phrases": [],
-   "updatedAt": "2026-09-12T08:36:05.393Z"
+   "updatedAt": "2026-09-12T08:36:05.393Z",
+   "qwords": []
   },
   "2012-3": {
    "words": [
@@ -1050,7 +1135,8 @@
     }
    ],
    "phrases": [],
-   "updatedAt": "2026-09-13T05:30:24.919Z"
+   "updatedAt": "2026-09-13T05:30:24.919Z",
+   "qwords": []
   },
   "2012-4": {
    "words": [
@@ -1450,7 +1536,8 @@
     }
    ],
    "phrases": [],
-   "updatedAt": "2026-09-16T15:21:35.318Z"
+   "updatedAt": "2026-09-16T15:21:35.318Z",
+   "qwords": []
   }
  },
  "prefs": {
@@ -1662,7 +1749,13 @@
    "results": "2026-09-16T15:21:05.593Z",
    "certainly": "2026-09-16T15:21:24.155Z",
    "exactly": "2026-09-16T15:21:29.350Z",
-   "fabric": "2026-09-16T15:21:33.955Z"
-  }
+   "fabric": "2026-09-16T15:21:33.955Z",
+   "across-the-board": "2026-09-11T04:37:38.934Z",
+   "imposes": "2026-09-11T04:37:45.434Z",
+   "thorny": "2026-09-11T04:37:55.483Z",
+   "conversely": "2026-09-11T04:38:01.350Z",
+   "eliminate": "2026-09-11T04:38:03.365Z"
+  },
+  "archived": {}
  }
 }
