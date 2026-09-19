@@ -440,6 +440,105 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
 .phgo span{font-size:13.5px;color:var(--ink-2)}
 .phgo em{margin-left:auto;font-style:normal;color:var(--ink-3)}
 .ctx .base{font-family:"Source Serif 4",Georgia,serif;font-size:16px;color:var(--accent);margin-right:6px}
+/* ---------- v6 新增 ---------- */
+.today{font-weight:600;font-size:14px;color:var(--ink-2)}
+/* 词尾表面板 */
+.tails{border:1px solid var(--line);border-radius:12px;background:var(--paper-2);margin:0 0 14px;overflow:hidden}
+.tails>summary{cursor:pointer;padding:11px 14px;font-weight:600;font-size:14px;display:flex;align-items:center;gap:10px;list-style:none}
+.tails>summary::-webkit-details-marker{display:none}
+.tails>summary::before{content:'▸';color:var(--accent);font-size:12px}
+.tails[open]>summary::before{content:'▾'}
+.tails>summary .muted{margin-left:auto;font-weight:400}
+.tails .tbody{padding:2px 14px 14px;border-top:1px solid var(--line)}
+.tails .tsec{margin-top:14px}
+.tails h5{margin:0 0 8px;font-size:13px;color:var(--ink-2);letter-spacing:.04em;display:flex;align-items:center;gap:8px}
+.tails h5 .tag{font-weight:400;font-size:11px;padding:2px 7px;border-radius:99px;background:var(--accent-soft);color:var(--accent)}
+.tails .trow{display:flex;gap:10px;padding:6px 0;border-top:1px dashed var(--line)}
+.tails .trow:first-of-type{border-top:0}
+.tails .tk2{flex:0 0 52px;font-size:12px;color:var(--accent);font-weight:600;padding-top:2px}
+.tails .trow b{font-size:14px;font-weight:600}
+.tails .tlist{margin:6px 0 0;padding-left:20px;font-size:13.5px;line-height:1.75}
+.tails .tnote{margin-top:8px;padding:9px 11px;border-radius:9px;background:var(--paper);font-size:13px;line-height:1.7;border:1px solid var(--line)}
+.tails .tnote.hi{border-color:var(--accent);background:var(--accent-soft)}
+.tails .tnote i{font-style:normal;font-family:'IBM Plex Mono',ui-monospace,monospace;color:var(--accent)}
+/* 卡片猜词性 */
+.posask{display:flex;flex-wrap:wrap;gap:7px;align-items:center;margin-top:10px}
+.posask .lb{font-size:13px;color:var(--ink-2);width:100%}
+.btn.tiny{padding:5px 11px;font-size:13px;border-radius:8px;border:1px solid var(--line);background:var(--paper)}
+.btn.tiny.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.posres{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:7px 10px;border-radius:9px;background:var(--paper-2);margin-bottom:8px;font-size:14px}
+.posres.ok{background:var(--ok-soft)}.posres.bad{background:var(--bad-soft)}
+.posres .lb{font-size:12px;color:var(--ink-2)}
+.posres .rs{font-size:12px;color:var(--ink-2);margin-left:auto}
+.fcgrade{display:flex;gap:10px;justify-content:center;margin-top:12px}
+/* 考我词性步骤与归因 */
+.posq{margin-top:16px;padding:14px;border-radius:12px;border:1px solid var(--line);background:var(--paper-2)}
+.posq .lb{font-weight:600;margin-bottom:10px}
+.posbtns{display:flex;gap:8px;flex-wrap:wrap}
+.posbtns .btn{padding:9px 18px;border:1px solid var(--line);background:var(--paper);border-radius:10px}
+.posfb{margin:12px 0;padding:10px 12px;border-radius:10px;font-size:14px;line-height:1.6}
+.posfb.ok{background:var(--ok-soft);color:var(--ok)}
+.posfb.bad{background:var(--bad-soft);color:var(--bad)}
+.posfb .small{color:var(--ink-2);margin-top:4px}
+.qwhy{margin:12px 0 0;padding:10px 12px;border-radius:10px;background:var(--accent-soft);font-size:14px;line-height:1.7}
+.qwhy .coll{margin-top:4px;font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:13px}
+/* 五步闯关 */
+.drill{max-width:760px;margin:0 auto}
+.dhead{display:flex;align-items:center;gap:12px;margin-bottom:6px}
+.dstep{font-weight:600;font-size:15px}
+.ddots{display:flex;gap:5px;margin-left:auto}
+.ddots i{width:9px;height:9px;border-radius:50%;background:var(--line);display:block}
+.ddots i.ok{background:var(--ok)}.ddots i.cur{background:var(--accent)}
+.dhint{font-size:13px;color:var(--ink-2);margin-bottom:12px;padding:7px 10px;border-radius:8px;background:var(--paper-2)}
+.dsent{font-family:'IBM Plex Serif',Georgia,serif;font-size:19px;line-height:2.1;margin-bottom:14px}
+.dtk{cursor:pointer;padding:2px 3px;border-radius:5px;border-bottom:1px solid transparent}
+.dtk:hover{background:var(--paper-2)}
+.dtk.pick{background:var(--unk);color:var(--unk-ink)}
+.dtk.verb{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.dtk.done{border-bottom:2px solid var(--accent)}
+.dtk.who{background:var(--ok-soft);color:var(--ok);font-weight:600}
+.dtk.what{background:var(--hard);color:var(--hard-line);font-weight:600}
+.dtk.grey{opacity:.32}
+.dtk.miss{background:var(--unk);color:var(--unk-ink);outline:2px solid var(--warn)}
+.dtk.over{text-decoration:line-through;color:var(--bad)}
+.dmsg .mk{padding:1px 5px;border-radius:5px}
+.dmsg .mk.miss{background:var(--unk);color:var(--unk-ink)}
+.dmsg .mk.over{text-decoration:line-through}
+.dmsg{padding:10px 12px;border-radius:10px;font-size:14px;line-height:1.7;margin-bottom:12px;background:var(--paper-2)}
+.dmsg.ok{background:var(--ok-soft);color:var(--ok)}
+.dmsg.bad{background:var(--bad-soft);color:var(--bad)}
+.dmsg .rule{display:block;margin-top:6px;color:var(--ink-2);font-size:13px}
+.dact{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:6px}
+.dchoose{display:flex;gap:10px;align-items:center;flex-wrap:wrap;padding:12px;border-radius:10px;background:var(--paper-2)}
+.dchoose .btn{padding:8px 18px;border:1px solid var(--line);background:var(--paper);border-radius:10px}
+.dnote{padding:10px 12px;border-radius:10px;background:var(--paper-2);font-size:14px;margin-bottom:10px;line-height:1.7}
+.dsegs{display:flex;flex-direction:column;gap:8px;margin-bottom:12px}
+.dseg{padding:9px 11px;border-radius:9px;border:1px solid var(--line);font-size:14px;line-height:1.7}
+.dseg b{display:block;font-size:12px;color:var(--accent);margin-bottom:2px}
+.dchips{display:flex;flex-direction:column;gap:8px}
+.dchip{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:8px 10px;border-radius:9px;background:var(--paper-2)}
+.dchip.ok{background:var(--ok-soft)}.dchip.bad{background:var(--bad-soft)}
+.dchip .rl{font-size:13px;color:var(--ink-2)}
+.dslots{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
+.dslot{flex:1 1 150px;padding:10px 12px;border-radius:10px;border:1px dashed var(--line)}
+.dslot.cur{border-color:var(--accent);border-style:solid;background:var(--accent-soft)}
+.dslot.fix{background:var(--paper-2);border-style:solid}
+.dslot .sl{display:block;font-size:12px;color:var(--ink-2)}
+.dslot b{font-size:16px}
+.dmods{display:flex;flex-direction:column;gap:8px;margin:10px 0}
+.dmod{padding:9px 11px;border-radius:9px;background:var(--paper-2);font-size:14px}
+.dmod .cat{display:inline-block;font-size:11px;padding:2px 7px;border-radius:99px;background:var(--accent-soft);color:var(--accent);margin-right:7px}
+.dmod .ar{color:var(--ink-2);font-size:13px;margin-left:6px}
+.dmod .cn{color:var(--ink-2);font-size:13px;margin-top:3px;line-height:1.7}
+.dcn{margin-top:12px;padding:10px 12px;border-radius:10px;background:var(--accent-soft);font-size:14px;line-height:1.8}
+.dcn b{display:block;font-size:12px;color:var(--accent);margin-bottom:2px}
+.sitem .x.go{color:var(--accent);font-weight:600}
+/* 设置里的额度 */
+.planrow{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:8px 0;font-size:14px}
+.planrow input[type=number]{width:62px;font:inherit;padding:5px 7px;border-radius:7px;border:1px solid var(--line);background:var(--paper);color:var(--ink)}
+.planrow input[type=date]{font:inherit;padding:5px 7px;border-radius:7px;border:1px solid var(--line);background:var(--paper);color:var(--ink)}
+.planrow>span:first-child{flex:0 0 58px;color:var(--ink-2)}
+
 </style>
 </head>
 <body>
@@ -474,6 +573,9 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
     <hr style="border:0;border-top:1px solid var(--line);margin:16px 0 12px">
     <p class="small muted" style="margin:0 0 8px">同步万一还是不通，用这个保命：把全部记录复制成文字，粘到备忘录或发给 AI，随时能导回来。</p>
     <button class="btn" id="gh-copy-all">复制全部记录</button>
+    <hr style="border:0;border-top:1px solid var(--line);margin:16px 0 12px">
+    <h3 style="margin:0 0 6px;font-size:15px">每天出多少</h3>
+    <div id="planbox"></div>
   </div>
 </div>
 
@@ -587,6 +689,10 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
     <div class="detail-top"><button class="btn ghost" id="btn-quiz-back">← 生词</button><span id="quiz-label" style="font-weight:600"></span></div>
     <div class="quiz" id="quizbox"></div>
   </section>
+  <section id="view-drill" class="hide">
+    <div class="detail-top"><button class="btn ghost" id="btn-drill-back">← 长难句</button><span id="drill-label" style="font-weight:600"></span></div>
+    <div class="drill" id="drillbox"></div>
+  </section>
 </main>
 <div class="toast" id="toast"></div>
 <button class="phfloat hide" id="phfloat">存为短语</button>
@@ -693,6 +799,7 @@ function load(){
   attempts = LS.get('attempts', {}); notes = LS.get('notes', {}); prefs = LS.get('prefs', {});
   prefs.tier = prefs.tier || {}; prefs.confuse = prefs.confuse || {}; prefs.quiz = prefs.quiz || {}; prefs.looked = prefs.looked || {}; prefs.archived = prefs.archived || {};
   Object.values(notes).forEach(n => { n.phrases = n.phrases || []; n.words = n.words || []; n.sentences = n.sentences || []; n.qwords = n.qwords || []; });
+  initSched();
 }
 function persist(){ LS.set('attempts', attempts); LS.set('notes', notes); LS.set('prefs', prefs); }
 let dirty = false;
@@ -712,7 +819,7 @@ const ghUrl = () => `https://api.github.com/repos/${GH.owner}/${GH.repo}/content
 function b64(str){ return btoa(unescape(encodeURIComponent(str))); }
 function unb64(b){ return decodeURIComponent(escape(atob(b.replace(/\n/g, '')))); }
 function mergeNotes(remote){ Object.entries(remote || {}).forEach(([id, n]) => { if(!notes[id] || (n.updatedAt || '') > (notes[id].updatedAt || '')){ n.phrases = n.phrases || []; n.words = n.words || []; n.sentences = n.sentences || []; n.qwords = n.qwords || []; notes[id] = n; } }); }
-function mergePrefs(remote){ if(!remote) return; ['tier','confuse','quiz','looked','archived'].forEach(k => { prefs[k] = Object.assign({}, remote[k] || {}, prefs[k] || {}); }); }
+function mergePrefs(remote){ if(!remote) return; ['tier','confuse','quiz','looked','archived','sched','run','drill','posg','plan'].forEach(k => { prefs[k] = Object.assign({}, remote[k] || {}, prefs[k] || {}); }); }
 function ghExplain(code){
   if(code === 401) return '令牌无效或已过期（401）——去 GitHub 重新生成一个';
   if(code === 403) return '令牌没有这个仓库的写权限（403）——细粒度令牌要给 Contents: Read and write';
@@ -1140,10 +1247,10 @@ function renderPassage(el, text, marks, opts){
 }
 
 // ---------- 视图切换 ----------
-const views = ['home','exam','sheet','history','detail','vocab','sent','quiz','cards'];
+const views = ['home','exam','sheet','history','detail','vocab','sent','quiz','cards','drill'];
 function show(v){
   views.forEach(x => { const el = document.getElementById('view-' + x); if(el) el.classList.toggle('hide', x !== v); });
-  const map = { exam: 'home', detail: 'history', quiz: 'vocab', cards: 'vocab' };
+  const map = { exam: 'home', detail: 'history', quiz: 'vocab', cards: 'vocab', drill: 'sent' };
   document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === (map[v] || v))));
   updateSaveBtn(); window.scrollTo(0, 0);
 }
@@ -1923,7 +2030,7 @@ function renderVocab(){
   const rows = vocabFiltered(rows0);
   const cnt = { 1: 0, 2: 0, 3: 0 }; let nArch = 0; rows0.forEach(r => { if(isArchived(r.w)) nArch++; else cnt[tierOf(r.w, r.tid)]++; });
   const quizzed = Object.keys(prefs.quiz || {}).length;
-  document.getElementById('vocab-stats').innerHTML = `<span class="stat"><b>${rows0.length}</b>总词数</span><span class="stat"><b>${cnt[1]}</b>一档 要背</span><span class="stat"><b>${cnt[2]}</b>二档 眼熟</span><span class="stat"><b>${cnt[3]}</b>三档 放过</span><span class="stat"><b>${quizzed}</b>考过</span><span class="stat"><b>${nArch}</b>已归档</span>`;
+  document.getElementById('vocab-stats').innerHTML = `<span class="stat"><b>${rows0.length}</b>总词数</span><span class="stat"><b>${cnt[1]}</b>一档 要背</span><span class="stat"><b>${cnt[2]}</b>二档 眼熟</span><span class="stat"><b>${cnt[3]}</b>三档 放过</span><span class="stat"><b>${quizzed}</b>考过</span><span class="stat"><b>${nArch}</b>已归档</span>` + extraVocabStats();
   const box = document.getElementById('vgroups');
   if(!rows.length){ box.innerHTML = '<div class="empty">这里还没有词。做题或精读时点一下不认识的词，它们会汇总到这里。</div>'; return; }
   const byTier = { 1: [], 2: [], 3: [], 4: [] };
@@ -2116,7 +2223,734 @@ function renderQuiz(){
 }
 document.getElementById('btn-quiz-back').addEventListener('click', () => { show('vocab'); render(); });
 
-function render(){ renderHome(); renderSheet(); renderHistory(); renderVocab(); renderSent(); }
+
+const STEP5 = {"2012-1":{"0:0":{"v":[[1,3],[17,18,20]],"c":[{"i":8,"w":"and","kind":"并列","wall":false},{"i":12,"w":"but","kind":"并列","wall":true}],"g":[[0,11],[13,20]],"k":[{"v":[1,3],"w":[0],"o":[5]},{"v":[17,18,20],"w":[16],"o":[]}],"m":[{"i":[4],"c":"副词","r":"副词作状语","to":"popular","cn":"程度词'非常'。never been terribly popular 就是'从来不怎么受欢迎'，语气委婉。"},{"i":[6,7,8,9,10,11],"c":"介词小尾巴","r":"介词短语作状语","to":"popular","cn":"说明在谁那里不受欢迎：学生，甚至很多家长。be popular with sb 是固定搭配'受某人欢迎'。"},{"i":[13,14,15],"c":"介词小尾巴","r":"介词短语作状语","to":"has been scorned","cn":"交代时间'近几年'。和现在完成时 has been 配合，说的是最近这段时间一直如此。"},{"i":[19],"c":"副词","r":"副词作状语","to":"scorned","cn":"'尤其、特别'，说明近几年被鄙视得更厉害了。"}]},"0:1":{"v":[[10,11]],"c":[],"g":[[0,17]],"k":[{"v":[10,11],"w":[0,1],"o":[12,13]}],"m":[{"i":[2,3,4],"c":"介词小尾巴","r":"介词短语作定语","to":"districts","cn":"说明是哪里的学区——全国各地的。介词短语紧跟在名词后面，一般就是在说明这个名词。"},{"i":[5,6,7,8,9],"c":"同位语","r":"同位语","to":"School districts","cn":"逗号夹着，举个例子：这些学区里最近的一个就是洛杉矶联合学区。它和主语指的是同一批对象。"},{"i":[14,15,16,17],"c":"介词小尾巴","r":"介词短语作定语","to":"thinking","cn":"说明重新考虑的是对什么的想法——对家庭作业这个'教育惯例'。ritual 在这里指作业，不是宗教仪式。"}]},"1:0":{"v":[[2,3],[15,16]],"c":[{"i":8,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"},{"i":12,"w":"or","kind":"并列","wall":false}],"g":[[0,20]],"k":[{"v":[2,3],"w":[0,1],"o":[4,5,6,7]}],"m":[{"i":[8,9,10,11,12,13,14,15,16,17,18,19,20],"c":"从句","r":"定语从句（限制性）","to":"difficulty","cn":"说明是什么困难。从句里 have 缺宾语，缺的就是 difficulty，所以是定语从句，不是同位语从句。"},{"i":[10,11,12,13,14],"c":"介词小尾巴","r":"介词短语作定语","to":"students","cn":"说明是什么样的学生——来自贫困或混乱家庭的。or 连接两个形容词，共同修饰 homes。"},{"i":[17,18,19,20],"c":"介词小尾巴","r":"介词短语作状语","to":"have","cn":"have difficulty in doing sth 是固定搭配'在做某事上有困难'，这里说明是完成作业方面的困难。"}]},"3:0":{"v":[[6]],"c":[],"g":[[0,14]],"k":[{"v":[6],"w":[4,5],"o":[7,8,9,12]}],"m":[{"i":[0,1,2,3],"c":"介词小尾巴","r":"介词短语作状语","to":"addresses","cn":"'与此同时'。在前面批评的基础上再加一条批评，是递进关系。"},{"i":[10],"c":"副词","r":"副词作状语","to":"thorny","cn":"'真正地'，修饰形容词 thorny（棘手的），强调这些才是真正难的问题。"},{"i":[13,14],"c":"介词小尾巴","r":"介词短语作定语","to":"questions","cn":"说明是关于什么的问题——关于家庭作业的。"}]},"4:0":{"v":[[3,4,5,6,7],[13]],"c":[{"i":8,"w":"while","kind":"从句","att":"整句","role":"时间状语从句"},{"i":12,"w":"which","kind":"从句","att":"名词","role":"定语从句（非限制性）"},{"i":23,"w":"and","kind":"并列","wall":false}],"g":[[0,26]],"k":[{"v":[3,4,5,6,7],"w":[0,1,2],"o":[]}],"m":[{"i":[8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],"c":"从句","r":"时间状语从句","to":"should be put on hold","cn":"while 这里是'在……期间'：在教育委员会调查、开听证会期间暂缓。从句主语 board，谓语 looks into。"},{"i":[12,13,14,15,16,17,18],"c":"从句","r":"定语从句（非限制性）","to":"school board","cn":"逗号夹着，补充介绍 school board 是负责制定教育政策的机构。它把从句主语和谓语隔开了。"},{"i":[15,16,17,18],"c":"介词小尾巴","r":"介词短语作状语","to":"responsible","cn":"be responsible for doing = 负责做某事。说明委员会负责什么。"},{"i":[23,24,25,26],"c":"并列成分","r":"并列成分","to":"looks into","cn":"and 连接从句里的第二个谓语 conducts，主语还是 school board。"}]},"4:1":{"v":[[1]],"c":[],"g":[[0,6]],"k":[{"v":[1],"w":[0],"o":[3,4]}],"m":[]}},"2012-2":{"0:1":{"v":[[1],[5],[10],[21,22],[32]],"c":[{"i":3,"w":"that","kind":"从句","att":"格子","role":"表语从句"},{"i":8,"w":"but","kind":"并列","wall":true},{"i":18,"w":"and","kind":"并列","wall":true},{"i":19,"w":"though","kind":"从句","att":"整句","role":"让步状语从句"},{"i":30,"w":"and","kind":"并列","wall":false}],"g":[[0,7],[9,17],[19,36]],"k":[{"v":[1],"w":[0],"o":[3,4,5,6,7]},{"v":[10],"w":[9],"o":[11,12,13,14]},{"v":[32],"w":[27],"o":[33,34,35,36]}],"m":[{"i":[3,4,5,6,7],"c":"从句","r":"表语从句","to":"It is not","cn":"It is not that… 里 that 从句作表语，说的是被作者否定的看法：粉色本身不好。"},{"i":[6],"c":"副词","r":"副词作状语","to":"bad","cn":"'本质上、本身'。作者说不是粉色本身有问题。"},{"i":[15,16,17],"c":"介词小尾巴","r":"介词短语作定语","to":"slice","cn":"说明是什么的一小片——彩虹的。意思是粉色只是很多颜色里的一种。"},{"i":[19,20,21,22,23,24,25,26],"c":"从句","r":"让步状语从句","to":"fuses","cn":"though = 虽然。先承认粉色某种程度上是在赞美少女时代，重点在后面的 it also fuses。"},{"i":[24,25,26],"c":"介词小尾巴","r":"介词短语作状语","to":"celebrate","cn":"'在某种意义上'，说明这种赞美只是一方面。"},{"i":[29,30,31],"c":"副词","r":"副词作状语","to":"fuses","cn":"两个副词并列：'反复地、牢牢地'，强调把身份和外表绑在一起的程度。"}]},"0:3":{"v":[[3]],"c":[{"i":13,"w":"and","kind":"并列","wall":false}],"g":[[0,14]],"k":[{"v":[3],"w":[2],"o":[4,5,6,7,8,9]}],"m":[{"i":[0,1],"c":"分词","r":"现在分词作状语","to":"despaired","cn":"-ing 短语放句首，动作的发出者就是主句主语 I：我环顾四周时。"},{"i":[10,11,12,13,14],"c":"介词小尾巴","r":"介词短语作定语","to":"imagination","cn":"说明是在哪方面缺乏想象力——对女孩的生活和兴趣。"}]},"1:3":{"v":[[3,4],[6,8],[19,20]],"c":[{"i":0,"w":"when","kind":"从句","att":"整句","role":"时间状语从句"},{"i":18,"w":"which","kind":"从句","att":"名词","role":"定语从句（非限制性）"}],"g":[[0,22]],"k":[{"v":[6,8],"w":[5],"o":[9,10,11,12]}],"m":[{"i":[0,1,2,3,4],"c":"从句","r":"时间状语从句","to":"was considered","cn":"交代时间：当婴儿服装开始使用颜色的时候。"},{"i":[7],"c":"副词","r":"副词作状语","to":"considered","cn":"'实际上'。暗示这和我们现在的常识相反。"},{"i":[13,14,15,16,17],"c":"同位语","r":"同位语","to":"colour","cn":"逗号后面进一步说明这个颜色是什么：红色的淡色版。"},{"i":[16,17],"c":"介词小尾巴","r":"介词短语作定语","to":"version","cn":"说明是什么颜色的淡色版——红色的。"},{"i":[18,19,20,21,22],"c":"从句","r":"定语从句（非限制性）","to":"red","cn":"补充说明红色：红色和力量联系在一起。which 指离它最近的 red，不是 pink。"},{"i":[21,22],"c":"介词小尾巴","r":"介词短语作状语","to":"associated","cn":"be associated with = 和……联系在一起。"}]},"1:4":{"v":[[11]],"c":[{"i":9,"w":"and","kind":"并列","wall":false}],"g":[[0,12]],"k":[{"v":[11],"w":[0],"o":[12]}],"m":[{"i":[1,2,3,4,5,6,7,8,9,10],"c":"介词小尾巴","r":"介词短语作定语","to":"Blue","cn":"说明蓝色带有什么联想，也暗含它为什么象征女性。intimation = 暗示、联想。"},{"i":[4,5,6,7,8,9,10],"c":"介词小尾巴","r":"介词短语作定语","to":"intimations","cn":"说明让人联想到什么：圣母玛利亚、坚贞、忠诚，三个名词用 A, B and C 并列。"}]},"2:0":{"v":[[1,3],[8],[13]],"c":[{"i":4,"w":"how","kind":"从句","att":"格子","role":"宾语从句"},{"i":12,"w":"what","kind":"从句","att":"格子","role":"宾语从句"}],"g":[[0,24]],"k":[{"v":[1,3],"w":[0],"o":[4,5,6,7,8,9,10,11,12,13,14,15,16]}],"m":[{"i":[4,5,6,7,8,9,10,11,12,13,14,15,16],"c":"从句","r":"宾语从句","to":"realised","cn":"realise 的宾语。how profoundly = 有多么深刻地，说营销潮流的影响有多大。"},{"i":[11,12,13,14,15,16],"c":"介词小尾巴","r":"介词短语作定语","to":"perception","cn":"说明是对什么的认知——对'什么是孩子的天性'的认知。"},{"i":[12,13,14,15,16],"c":"从句","r":"宾语从句","to":"of","cn":"what 从句作介词 of 的宾语，what 在从句里当主语：对孩子来说是天生的东西。"},{"i":[17,18,19,20,21,22,23,24],"c":"介词小尾巴","r":"介词短语作定语","to":"perception","cn":"including = 包括，举出认知里的一个重要部分：对儿童心理发展的核心信念。"},{"i":[21,22,23,24],"c":"介词小尾巴","r":"介词短语作定语","to":"beliefs","cn":"说明是关于什么的信念——孩子的心理发展。"}]},"3:2":{"v":[[7,8]],"c":[{"i":2,"w":"or","kind":"并列","wall":false}],"g":[[0,14]],"k":[{"v":[7,8],"w":[0,1,4,5,6],"o":[9,10,11]}],"m":[{"i":[2,3],"c":"并列成分","r":"并列成分","to":"kids","cn":"逗号夹着，和 kids 并列：把孩子分类，或者把成年人分类也一样。"},{"i":[12,13,14],"c":"不定式","r":"不定式作定语","to":"way","cn":"说明是什么办法——提高利润的办法。不定式紧跟名词后面，常是在说明这个名词。"}]}},"2012-3":{"0:0":{"v":[[5]],"c":[],"g":[[0,11]],"k":[{"v":[5],"w":[2,3,4],"o":[6,7,8]}],"m":[{"i":[0,1],"c":"介词小尾巴","r":"介词短语作状语","to":"shook","cn":"交代时间：2010 年。放在句首的介词短语多半是时间、地点这类背景。"},{"i":[9,10,11],"c":"介词小尾巴","r":"介词短语作状语","to":"shook","cn":"说明震动的程度：一直震到核心。shake sth to its core 就是'从根本上动摇'。"}]},"0:2":{"v":[[6],[9]],"c":[{"i":0,"w":"but","kind":"并列","wall":false},{"i":7,"w":"that","kind":"从句","att":"格子","role":"宾语从句"}],"g":[[0,10]],"k":[{"v":[6],"w":[4,5],"o":[7,8,9,10]}],"m":[{"i":[1,2,3],"c":"介词小尾巴","r":"介词短语作状语","to":"ruled","cn":"交代时间：2010 年 3 月。"},{"i":[7,8,9,10],"c":"从句","r":"宾语从句","to":"ruled","cn":"说明裁定的内容：基因不能申请专利。unpatentable＝un(不)+patent(专利)+able(能)。"}]},"0:3":{"v":[[1,3]],"c":[],"g":[[0,3]],"k":[{"v":[1,3],"w":[0],"o":[]}],"m":[{"i":[2],"c":"副词","r":"副词作状语","to":"agitated","cn":"修饰 agitated，表示程度：'极其'不安。这里不是'暴力地'。"}]},"0:4":{"v":[[8],[12]],"c":[{"i":10,"w":"that","kind":"从句","att":"格子","role":"宾语从句"}],"g":[[0,20]],"k":[{"v":[8],"w":[0,1,2,3],"o":[9,10,11,12,13,14,15,16,17,18,19,20]}],"m":[{"i":[4],"c":"同位语","r":"同位语","to":"The Biotechnology Industry Organisation","cn":"括号里是前面机构名的缩写，指同一个东西，后文就用 BIO 代替。"},{"i":[5,6,7],"c":"同位语","r":"同位语","to":"The Biotechnology Industry Organisation","cn":"两个逗号夹着的名词短语，说明这个组织是什么：一个行业团体。"},{"i":[10,11,12,13,14,15,16,17,18,19,20],"c":"从句","r":"宾语从句","to":"assured","cn":"说明保证的内容：这只是一场更长战斗中的'初步阶段'。this 指法官的判决。"},{"i":[13],"c":"副词","r":"副词作状语","to":"was","cn":"'只不过'，语气上把判决说得没那么严重，是在安抚会员。"},{"i":[17,18,19,20],"c":"介词小尾巴","r":"介词短语作定语","to":"step","cn":"说明是什么里的初步阶段：一场更持久的较量里的。"}]},"1:0":{"v":[[4,5]],"c":[],"g":[[0,8]],"k":[{"v":[4,5],"w":[3],"o":[]}],"m":[{"i":[0,1,2],"c":"介词小尾巴","r":"介词短语作状语","to":"were relieved","cn":"交代时间：7 月 29 日。具体日期前用 on。"},{"i":[6,7,8],"c":"副词","r":"副词作状语","to":"were relieved","cn":"补充限定：至少暂时松了口气。暗示这种轻松可能不长久，后文会有变数。"}]},"1:2":{"v":[[9],[12]],"c":[{"i":17,"w":"and","kind":"并列","wall":false}],"g":[[0,19]],"k":[{"v":[9],"w":[0,1,2],"o":[10,11,12,13,14,15,16,17,18,19]}],"m":[{"i":[3,4],"c":"介词小尾巴","r":"介词短语作定语","to":"chief executive","cn":"说明是哪家公司的首席执行官：Myriad 的。"},{"i":[5,6,7,8],"c":"同位语","r":"同位语","to":"Myriad","cn":"逗号夹住的名词短语，解释 Myriad 是什么：一家犹他州的公司。"},{"i":[7,8],"c":"介词小尾巴","r":"介词短语作定语","to":"company","cn":"说明公司在哪儿：在犹他州。"},{"i":[10,11,12,13,14,15,16,17,18,19],"c":"从句","r":"宾语从句","to":"said","cn":"说的内容：这个裁决是福音。前面省略了 that。"},{"i":[15,16,17,18,19],"c":"介词小尾巴","r":"介词短语作定语","to":"blessing","cn":"对谁是福音：公司和病人都是。A and B alike＝A 和 B 都一样。"}]},"2:1":{"v":[[4]],"c":[],"g":[[0,7]],"k":[{"v":[4],"w":[0,1,2],"o":[7]}],"m":[{"i":[3],"c":"同位语","r":"同位语","to":"The Myriad case","cn":"反身代词紧跟名词，表示强调：'就连这个案子本身'都还没完。"},{"i":[5],"c":"副词","r":"副词作状语","to":"is not over","cn":"'很可能'，作者的推测。"}]},"2:3":{"v":[[3,4,5]],"c":[],"g":[[0,5]],"k":[{"v":[3,4,5],"w":[0,2],"o":[]}],"m":[{"i":[1],"c":"分词","r":"现在分词作定语","to":"number","cn":"放在名词前面，'不断增长的'，a growing number＝越来越多（的人）。"}]},"2:5":{"v":[[6],[19],[26],[30,31,32]],"c":[{"i":14,"w":"that","kind":"从句","att":"格子","role":"宾语从句"},{"i":29,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,35]],"k":[{"v":[6],"w":[2,3,4,5],"o":[7,8]}],"m":[{"i":[0,1],"c":"介词小尾巴","r":"介词短语作状语","to":"filed","cn":"交代时间：10 月。"},{"i":[9,10,11,12],"c":"介词小尾巴","r":"介词短语作状语","to":"filed","cn":"说明是在哪个案子里提交的：Myriad 案。"},{"i":[13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35],"c":"分词","r":"现在分词作状语","to":"filed","cn":"补充说明司法部提交意见书时的主张；arguing 的发出者就是司法部。"},{"i":[14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35],"c":"从句","r":"宾语从句","to":"arguing","cn":"主张的内容：分离出来的 DNA 分子也是自然产物。"},{"i":[24,25],"c":"介词小尾巴","r":"介词短语作定语","to":"product","cn":"说明是什么的产物：大自然的产物。"},{"i":[25,26,27,28,29,30,31,32,33,34,35],"c":"从句","r":"比较状语从句","to":"no less","cn":"和谁比：从棉籽上分出来的棉纤维。than 后面主谓倒装，正常是 cotton fibres are。"},{"i":[29,30,31,32,33,34,35],"c":"从句","r":"定语从句（限制性）","to":"fibres","cn":"说明是哪种棉纤维：已经从棉籽上分离下来的。that 在从句里作主语。"},{"i":[33,34,35],"c":"介词小尾巴","r":"介词短语作状语","to":"separated","cn":"说明从哪儿分离：从棉籽上。"}]},"3:2":{"v":[[2,4]],"c":[],"g":[[0,7]],"k":[{"v":[2,4],"w":[0,1],"o":[5,6,7]}],"m":[{"i":[3],"c":"副词","r":"副词作状语","to":"may reach","cn":"这里不是'但是'，而是'将来还（可能）、终究'：这个案子还有可能打到最高法院。"}]},"5:1":{"v":[[3],[7]],"c":[{"i":6,"w":"which","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,17]],"k":[{"v":[3],"w":[0,1],"o":[4,5]}],"m":[{"i":[2],"c":"副词","r":"副词作状语","to":"held","cn":"'最近'，交代时间。"},{"i":[6,7,8,9,10,11,12,13,14,15,16,17],"c":"从句","r":"定语从句（限制性）","to":"convention","cn":"说明是什么样的大会：包括指导律师的分会。which 在从句里作主语。"},{"i":[9,10,11,12,13,14,15,16,17],"c":"不定式","r":"不定式作定语","to":"sessions","cn":"说明是干什么的分会：用来指导律师的。"},{"i":[12,13,14,15,16,17],"c":"介词小尾巴","r":"介词短语作状语","to":"coach","cn":"说明指导哪方面：专利领域不断变化的形势。coach sb on sth＝就某事指导某人。"},{"i":[14],"c":"分词","r":"现在分词作定语","to":"landscape","cn":"放在名词前，'正在变化的'。landscape 这里指整体形势，不是风景。"},{"i":[16,17],"c":"介词小尾巴","r":"介词短语作定语","to":"landscape","cn":"说明是哪个领域的形势：专利的。"}]},"5:2":{"v":[[2,3]],"c":[],"g":[[0,3]],"k":[{"v":[2,3],"w":[0,1],"o":[]}],"m":[]}},"2012-4":{"0:0":{"v":[[3,4,5],[12,14]],"c":[{"i":6,"w":"but","kind":"并列","wall":true}],"g":[[0,5],[7,14]],"k":[{"v":[3,4,5],"w":[0,1,2],"o":[]},{"v":[12,14],"w":[7,8],"o":[]}],"m":[{"i":[9,10,11],"c":"介词小尾巴","r":"介词短语作定语","to":"era","cn":"说明是什么样的时代——高失业的时代。of 短语紧跟在名词后面，一般就是在说明前面这个名词。"},{"i":[13],"c":"副词","r":"副词作状语","to":"is beginning","cn":"表示作者的推测'很可能'，拿掉不影响句子骨架。"}]},"1:0":{"v":[[2]],"c":[],"g":[[0,15]],"k":[{"v":[2],"w":[1],"o":[3,7,8,9,10]}],"m":[{"i":[4,5,6],"c":"比较结构","r":"比较结构","to":"harder","cn":"和谁比：失业的人。the + 形容词表示一类人，the jobless＝失业者。"},{"i":[11,12,13,14,15],"c":"介词小尾巴","r":"介词短语作状语","to":"find","cn":"说明在哪里找：在这场全国性的经济灾难中。"}]},"1:2":{"v":[[6,7]],"c":[],"g":[[0,10]],"k":[{"v":[6,7],"w":[4,5],"o":[8,9,10]}],"m":[{"i":[0,1,2],"c":"介词小尾巴","r":"介词短语作状语","to":"will leave","cn":"说明范围：只在有限的几个方面。作者在限制自己的说法，不是全面肯定。"},{"i":[3],"c":"副词","r":"副词作状语","to":"will leave","cn":"'或许'，语气不确定，说明作者对这种好处并不十分肯定。"}]},"3:0":{"v":[[3],[9,11]],"c":[{"i":7,"w":"but","kind":"并列","wall":true}],"g":[[0,6],[8,14]],"k":[{"v":[3],"w":[0,1],"o":[]},{"v":[9,11],"w":[8],"o":[]}],"m":[{"i":[2],"c":"副词","r":"副词作状语","to":"falls","cn":"'通常'，说明一般规律，为后面'这次不一样'做对比。"},{"i":[4,5,6],"c":"介词小尾巴","r":"介词短语作状语","to":"falls","cn":"说明在什么时候：经济衰退期间。"},{"i":[12,13,14],"c":"介词小尾巴","r":"介词短语作状语","to":"has not shrunk","cn":"说明是在哪一次：这一次衰退里。one 代替前面的 recession。"}]},"4:0":{"v":[[5],[13,15,16]],"c":[{"i":12,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,19]],"k":[{"v":[5],"w":[4],"o":[7,8,9,10,11,12,13,14,15,16,17,18,19]}],"m":[{"i":[0,1,2,3],"c":"介词小尾巴","r":"介词短语作状语","to":"is easy","cn":"说明背景：在互联网时代。"},{"i":[6],"c":"副词","r":"副词作状语","to":"easy","cn":"'尤其、特别'，修饰 easy。"},{"i":[8,9,10,11,12,13,14,15,16,17,18,19],"c":"从句","r":"形式主语 it 的真正主语","to":"it","cn":"it 代替的就是这件事：看到一直藏在美国社会里的怨恨。"},{"i":[12,13,14,15,16,17,18,19],"c":"从句","r":"定语从句（限制性）","to":"resentment","cn":"说明是什么怨恨：一直隐藏着的。that 作从句主语，has been hidden 是被动。"},{"i":[17,18,19],"c":"介词小尾巴","r":"介词短语作状语","to":"hidden","cn":"说明藏在哪儿：美国社会内部。"}]},"4:2":{"v":[[5],[30,31]],"c":[{"i":19,"w":"and","kind":"并列","wall":true},{"i":28,"w":"since","kind":"skip"}],"g":[[0,18],[20,33]],"k":[{"v":[5],"w":[3,4],"o":[6,8]},{"v":[30,31],"w":[20,21,22,23,24],"o":[32,33]}],"m":[{"i":[0,1,2],"c":"介词小尾巴","r":"介词短语作状语","to":"was","cn":"说明范围：在很多方面。"},{"i":[7],"c":"副词","r":"副词作状语","to":"tolerant","cn":"说明是哪方面宽容：社会层面。"},{"i":[9,10,11],"c":"分词","r":"现在分词作状语","to":"was","cn":"说明时间：进入这场衰退的时候。entering 的发出者是 the U.S.。"},{"i":[12,13,14,15,16,17,18],"c":"比较结构","r":"比较结构","to":"more socially tolerant","cn":"和历史上任何时候比都更宽容，也就是'史上最宽容'。"},{"i":[16,17,18],"c":"介词小尾巴","r":"介词短语作定语","to":"time","cn":"说明是什么时候：它历史上的。its 指美国。"},{"i":[25,26,27],"c":"介词小尾巴","r":"介词短语作定语","to":"polls","cn":"说明是关于什么的民调：关于社会冲突的。"},{"i":[28,29],"c":"介词小尾巴","r":"介词短语作状语","to":"have shown","cn":"'从那以后'，then 指进入衰退的时候，所以用现在完成时。"}]}},"2013-1":{"0:1":{"v":[[2],[11]],"c":[{"i":8,"w":"and","kind":"并列","wall":true}],"g":[[0,7],[9,20]],"k":[{"v":[2],"w":[0,1],"o":[3]},{"v":[11],"w":[9,10],"o":[12]}],"m":[{"i":[4,5,6,7],"c":"不定式","r":"不定式作状语","to":"is there","cn":"说明人在那儿的目的——为了喂狗。be there to do 就是‘在那儿是为了做某事’。"},{"i":[13,14,15,16,17,18,19,20],"c":"不定式","r":"不定式作状语","to":"is there","cn":"说明狗在那儿的目的；keep sb away from sth 是‘让某人远离某物’。"}]},"2:0":{"v":[[11,12]],"c":[],"g":[[0,15]],"k":[{"v":[11,12],"w":[3],"o":[13,14,15]}],"m":[{"i":[0,1,2],"c":"介词小尾巴","r":"介词短语作状语","to":"could earn","cn":"交代时间‘过去’，为下一句 today 的对比做铺垫。"},{"i":[4,5,6],"c":"介词小尾巴","r":"介词短语作定语","to":"workers","cn":"说明是什么样的工人——技能一般的工人。"},{"i":[7,8,9,10],"c":"分词","r":"现在分词作定语","to":"workers","cn":"逗号隔开，补充说明这些工人做的是普通工作；doing 的动作是 workers 发出的。"}]},"2:1":{"v":[[3]],"c":[{"i":0,"w":"but","kind":"并列","wall":false}],"g":[[0,5]],"k":[{"v":[3],"w":[2],"o":[5]}],"m":[{"i":[1],"c":"副词","r":"副词作状语","to":"is","cn":"和上一句的 In the past 对比，交代‘如今’情况变了。"},{"i":[4],"c":"副词","r":"副词作状语","to":"over","cn":"‘正式地’，强调平庸吃香的时代确实结束了。"}]}},"2013-2":{"0:3":{"v":[[10]],"c":[],"g":[[0,14]],"k":[{"v":[10],"w":[0,1,2,3,4,5,6],"o":[11,12]}],"m":[{"i":[7,8],"c":"插入语","r":"插入语","to":"returned","cn":"说明这句是在给上一句‘有人来了又走’举例子。"},{"i":[9],"c":"副词","r":"副词作状语","to":"returned","cn":"‘最终’，拿掉不影响主干。"},{"i":[13,14],"c":"介词小尾巴","r":"介词短语作状语","to":"returned","cn":"for good 是固定短语，意思是‘永久地’，不是‘为了好’。"}]},"0:4":{"v":[[2]],"c":[],"g":[[0,11]],"k":[{"v":[2],"w":[0],"o":[3,4,5]}],"m":[{"i":[1],"c":"副词","r":"副词作状语","to":"had","cn":"‘甚至’，表示这种来回迁移的人多到有了专门的称呼。"},{"i":[6,7,8],"c":"同位语","r":"同位语","to":"nickname","cn":"意大利语，说明绰号具体叫什么。"},{"i":[9,10,11],"c":"同位语","r":"同位语","to":"uccelli di passaggio","cn":"用英文解释前面的意大利语，意思是‘候鸟’，是全文的关键词。"}]},"1:0":{"v":[[2]],"c":[],"g":[[0,7]],"k":[{"v":[2],"w":[1],"o":[4,5]}],"m":[{"i":[0],"c":"副词","r":"副词作状语","to":"are","cn":"‘如今’，和上一段的 A century ago 形成古今对比。"},{"i":[3],"c":"副词","r":"副词作状语","to":"more rigid","cn":"much 放在比较级前面，意思是‘……得多’。"},{"i":[6,7],"c":"介词小尾巴","r":"介词短语作状语","to":"rigid","cn":"说明在什么问题上死板——对待移民的态度上。"}]},"1:5":{"v":[[1]],"c":[{"i":9,"w":"and","kind":"并列","wall":false}],"g":[[0,10]],"k":[{"v":[1],"w":[0],"o":[2,3,4,5,6]}],"m":[{"i":[7,8,9,10],"c":"介词小尾巴","r":"介词短语作定语","to":"definitions","cn":"说明是什么定义——对合法和非法的严格界定。"}]},"1:6":{"v":[[3,4]],"c":[{"i":12,"w":"and","kind":"并列","wall":false}],"g":[[0,17]],"k":[{"v":[3,4],"w":[2],"o":[5,6,7,8,9]}],"m":[{"i":[0,1],"c":"插入语","r":"插入语","to":"can recognize","cn":"‘首先’，相当于 to begin with，用来引出第一步做法。"},{"i":[10,11,12,13,14,15,16,17],"c":"同位语","r":"同位语","to":"birds of passage","cn":"解释新候鸟指哪些人——在灰色地带生活、发展的人。"},{"i":[11,12,13,14,15,16,17],"c":"分词","r":"现在分词作定语","to":"those","cn":"说明是哪些人；living 和 thriving 两个分词并列，动作都是 those 发出的。"},{"i":[14,15,16,17],"c":"介词小尾巴","r":"介词短语作状语","to":"living and thriving","cn":"说明在哪里生活发展——灰色地带，指合法与非法之间。"}]},"1:7":{"v":[[1,3]],"c":[],"g":[[0,8]],"k":[{"v":[1,3],"w":[0],"o":[4,5,6,7,8]}],"m":[{"i":[2],"c":"副词","r":"副词作状语","to":"begin","cn":"‘那样的话’，承接上句：先承认新候鸟，然后才能着手解决问题。"}]},"2:1":{"v":[[1]],"c":[{"i":15,"w":"and","kind":"并列","wall":false}],"g":[[0,16]],"k":[{"v":[1],"w":[0],"o":[2,3]}],"m":[{"i":[4,5,6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"participants","cn":"说明是哪里的参与者——全球经济中的。"},{"i":[8,9,10,11,12,13,14,15,16],"c":"分词","r":"过去分词作定语","to":"economy","cn":"说明是怎样的经济——被工作、资金和思想的流动所驱动的。driven 表被动。"},{"i":[12,13,14,15,16],"c":"介词小尾巴","r":"介词短语作定语","to":"flow","cn":"说明是什么在流动：工作、资金和思想。"}]},"3:2":{"v":[[1],[7,8],[16,17]],"c":[{"i":5,"w":"that","kind":"从句","att":"格子","role":"宾语从句"},{"i":11,"w":"and","kind":"并列","wall":false},{"i":13,"w":"and","kind":"并列","wall":false},{"i":14,"w":"that","kind":"skip"}],"g":[[0,21]],"k":[{"v":[1],"w":[0],"o":[2,13,14,15,16,17,18,19,20,21]}],"m":[{"i":[3,4],"c":"不定式","r":"不定式作宾语补足语","to":"them","cn":"need sb to do，说明需要他们怎么想——感到……"},{"i":[5,6,7,8,9,10,11,12],"c":"从句","r":"宾语从句","to":"feel","cn":"feel 的第一个宾语，说明感到什么：家可以既在此地又在彼地。"},{"i":[13,14,15,16,17,18,19,20,21],"c":"从句","r":"宾语从句","to":"feel","cn":"and that 表示和前一个 that 从句并列，同样是 feel 的宾语。"},{"i":[21],"c":"副词","r":"副词作状语","to":"belong","cn":"‘光明正大地、体面地’，说明以什么方式归属两个国家。"}]},"4:0":{"v":[[8,9]],"c":[],"g":[[0,18]],"k":[{"v":[8,9],"w":[0,1,2,3],"o":[10,11]}],"m":[{"i":[4,5,6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"world","cn":"说明是什么样的新世界——人口流动的世界。"},{"i":[6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"people","cn":"‘在移动中的’，说明是流动着的人。"},{"i":[12,13,14,15,16,17,18],"c":"介词小尾巴","r":"介词短语作定语","to":"attitudes","cn":"说明是哪一方的新态度——移民之争双方的。"},{"i":[15,16,17,18],"c":"介词小尾巴","r":"介词短语作定语","to":"sides","cn":"说明是哪场争论的双方——围绕移民问题的争论。"}]}},"2013-3":{"1:1":{"v":[[2]],"c":[{"i":0,"w":"but","kind":"并列","wall":false}],"g":[[0,8]],"k":[{"v":[2],"w":[1],"o":[3,4]}],"m":[{"i":[5,6,7,8],"c":"不定式","r":"不定式作定语","to":"time","cn":"说明需要时间来干什么——评估其他因素。名词后面紧跟 to do，常是在说明这个名词。"}]},"3:0":{"v":[[2,3]],"c":[],"g":[[0,5]],"k":[{"v":[2,3],"w":[1],"o":[4,5]}],"m":[]},"5:1":{"v":[[3,4]],"c":[{"i":0,"w":"but","kind":"并列","wall":false}],"g":[[0,14]],"k":[{"v":[3,4],"w":[2],"o":[5,6,7]}],"m":[{"i":[1],"c":"副词","r":"副词作状语","to":"have spent","cn":"\"从历史上看\"，说明这是长期以来的情况。"},{"i":[8,9,10],"c":"介词小尾巴","r":"介词短语作定语","to":"12 percent","cn":"说明是什么的 12%——我们每天时间的。"},{"i":[11,12,13,14],"c":"分词","r":"现在分词作状语","to":"have spent","cn":"spend 时间 doing = 花时间做某事，这里是花时间思考更长远的事。"}]},"5:3":{"v":[[2]],"c":[{"i":10,"w":"and","kind":"并列","wall":false}],"g":[[0,14]],"k":[{"v":[2],"w":[0],"o":[3,4,5]}],"m":[{"i":[1],"c":"副词","r":"副词作状语","to":"have","cn":"\"仍然\"，表示虽然有技术影响，我们依然有这个能力。"},{"i":[6,7,8,9,10,11,12,13,14],"c":"不定式","r":"不定式作定语","to":"capacity","cn":"说明是什么能力——超越诱惑、扭转高速趋势的能力。"},{"i":[10,11,12,13,14],"c":"并列成分","r":"并列成分","to":"rise above temptation","cn":"reverse 前面省了 to，和 rise 并列，共用前面的 to。"}]}},"2013-4":{"0:0":{"v":[[1]],"c":[],"g":[[0,5]],"k":[{"v":[1],"w":[0],"o":[3,4,5]}],"m":[]},"0:1":{"v":[[5,7],[12],[23]],"c":[{"i":10,"w":"until","kind":"从句","att":"整句","role":"时间状语从句"},{"i":18,"w":"and","kind":"并列","wall":true}],"g":[[0,17],[19,25]],"k":[{"v":[5,7],"w":[2,3,4],"o":[9]},{"v":[23],"w":[19,20,21,22],"o":[25]}],"m":[{"i":[0,1],"c":"介词小尾巴","r":"介词短语作状语","to":"will never be","cn":"\"尤其是\"，承接上句，具体说欧洲哪方面不平等。"},{"i":[8],"c":"副词","r":"副词作状语","to":"family-friendly","cn":"\"完全\"，说明对家庭友好的程度。"},{"i":[10,11,12,13,14,15,16,17],"c":"从句","r":"时间状语从句","to":"will never be","cn":"和前面的 never 连用：直到女性参与高层决策，职场才会真正对家庭友好。"},{"i":[14,15,16,17],"c":"介词小尾巴","r":"介词短语作定语","to":"part","cn":"说明是什么的一部分——高层管理决策的。"},{"i":[24],"c":"副词","r":"副词作状语","to":"male","cn":"\"压倒性地\"，说明高层职位绝大多数是男性。"}]},"0:2":{"v":[[2]],"c":[],"g":[[0,12]],"k":[{"v":[2],"w":[1],"o":[4,5,6]}],"m":[{"i":[0],"c":"副词","r":"副词作状语","to":"hold","cn":"\"事实上\"，用数据来证实上一句说的高层几乎都是男性。"},{"i":[3],"c":"副词","r":"副词作状语","to":"14 per cent","cn":"\"仅仅\"，强调比例很低。"},{"i":[7,8],"c":"介词小尾巴","r":"介词短语作定语","to":"14 per cent","cn":"说明是什么的 14%——职位的。"},{"i":[9,10,11,12],"c":"介词小尾巴","r":"介词短语作定语","to":"positions","cn":"说明是哪里的职位——欧洲企业董事会里的。"}]},"1:1":{"v":[[3,4]],"c":[],"g":[[0,6]],"k":[{"v":[3,4],"w":[0,2],"o":[5,6]}],"m":[{"i":[1],"c":"分词","r":"过去分词作定语","to":"mandate","cn":"放在名词前，\"被提议的、拟议中的\"，说明这项规定还没正式通过。"}]},"1:2":{"v":[[8]],"c":[],"g":[[0,13]],"k":[{"v":[8],"w":[6,7],"o":[9,10]}],"m":[{"i":[0,1],"c":"副词","r":"副词作状语","to":"issued","cn":"\"去年\"，时间名词短语放句首，作用和副词一样，说明什么时候。"},{"i":[2,3,4,5],"c":"同位语","r":"同位语","to":"Viviane Reding","cn":"放在人名前说明她的身份：欧盟委员会副主席。"},{"i":[11,12,13],"c":"介词小尾巴","r":"介词短语作定语","to":"call","cn":"说明号召什么——自愿行动。a call to … 是\"号召去……\"。"}]},"1:3":{"v":[[1]],"c":[],"g":[[0,16]],"k":[{"v":[1],"w":[0],"o":[2]}],"m":[{"i":[3,4,5,6,7,8,9,10,11,12,13,14,15,16],"c":"不定式","r":"不定式作宾语补足语","to":"corporations","cn":"invite sb to do，说明邀请企业做什么——签约承诺性别平衡目标。"},{"i":[10,11,12,13,14,15,16],"c":"介词小尾巴","r":"介词短语作定语","to":"goals","cn":"说明目标具体是什么——董事会成员中女性占 40%。"}]}},"2014-1":{"0:1":{"v":[[1],[13]],"c":[{"i":11,"w":"who","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,29]],"k":[{"v":[1],"w":[0],"o":[3,4]}],"m":[{"i":[2],"c":"副词","r":"副词作状语","to":"is","cn":"'如今'，说明这个问题现在摆在她面前了。"},{"i":[5,6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"question","cn":"说明是谁要面对的问题——格洛丽亚·麦肯齐的。"},{"i":[8,9,10],"c":"同位语","r":"同位语","to":"Gloria MacKenzie","cn":"紧跟人名、用逗号隔开的名词短语，说明她是谁：一位 84 岁的寡妇。"},{"i":[11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29],"c":"从句","r":"定语从句（限制性）","to":"widow","cn":"who 指 widow，说明这位寡妇做了什么：走出家门去领史上最大奖。"},{"i":[12],"c":"副词","r":"副词作状语","to":"emerged","cn":"'最近'，说明走出来的时间。"},{"i":[14,15,16,17,18],"c":"介词小尾巴","r":"介词短语作状语","to":"emerged","cn":"说明从哪里走出来。small 和 tin-roofed 都在描述 house。"},{"i":[19,20],"c":"介词小尾巴","r":"介词短语作定语","to":"house","cn":"说明房子在哪——佛罗里达。"},{"i":[21,22,23,24,25,26,27,28,29],"c":"不定式","r":"不定式作状语","to":"emerged","cn":"说明走出来的目的：去领奖。动词后面跟 to do，常表示'为了'。"},{"i":[28,29],"c":"介词小尾巴","r":"介词短语作定语","to":"biggest","cn":"限定'最大'的范围——有史以来。最高级后面常跟 in/of 短语说范围。"}]},"0:2":{"v":[[6,7],[13,14,15]],"c":[{"i":0,"w":"if","kind":"从句","att":"整句","role":"条件状语从句"},{"i":23,"w":"and","kind":"并列","wall":false}],"g":[[0,25]],"k":[{"v":[13,14,15],"w":[12],"o":[16,17,18,19]}],"m":[{"i":[0,1,2,3,4,5,6,7,8,9,10,11],"c":"从句","r":"条件状语从句","to":"could do worse","cn":"说明在什么前提下：如果她希望这笔钱带来持久满足感。"},{"i":[3,4,5,6,7,8,9,10,11],"c":"从句","r":"宾语从句","to":"hopes","cn":"hopes 后面省略了 that，整句话是她希望的内容。"},{"i":[10,11],"c":"介词小尾巴","r":"介词短语作定语","to":"feelings","cn":"说明是什么感觉——满足的感觉。"},{"i":[20,21,22,23,24,25],"c":"介词小尾巴","r":"介词短语作定语","to":"Happy Money","cn":"说明这本书是谁写的。书名后面的 by 通常指作者。"}]},"1:0":{"v":[[3],[19,20]],"c":[{"i":11,"w":"that","kind":"从句","att":"格子","role":"宾语从句"}],"g":[[0,21]],"k":[{"v":[3],"w":[0,1,2],"o":[4,5,6,7,8]}],"m":[{"i":[9,10,11,12,13,14,15,16,17,18,19,20,21],"c":"不定式","r":"不定式作状语","to":"use","cn":"说明用这些研究的目的：为了证明后面的观点。"},{"i":[11,12,13,14,15,16,17,18,19,20,21],"c":"从句","r":"宾语从句","to":"show","cn":"show 的内容：最有回报的花钱方式可能违反直觉。从句主语 ways，系动词 can be。"},{"i":[16,17,18],"c":"不定式","r":"不定式作定语","to":"ways","cn":"说明是什么方式——花钱的方式。名词后面紧跟 to do，常是在说明这个名词。"}]},"1:1":{"v":[[5]],"c":[{"i":10,"w":"and","kind":"并列","wall":false}],"g":[[0,12]],"k":[{"v":[5],"w":[0],"o":[6]}],"m":[{"i":[1,2,3],"c":"介词小尾巴","r":"介词短语作定语","to":"Fantasies","cn":"说明是对什么的幻想——对巨额财富的。"},{"i":[4],"c":"副词","r":"副词作状语","to":"involve","cn":"'常常'，说明频率。"},{"i":[7,8,9,10,11,12],"c":"介词小尾巴","r":"介词短语作定语","to":"visions","cn":"说明是什么画面——豪车和豪宅。and 连接两个名词。"}]},"1:2":{"v":[[6,7]],"c":[],"g":[[0,9]],"k":[{"v":[6,7],"w":[1],"o":[]}],"m":[{"i":[2,3,4,5],"c":"介词小尾巴","r":"介词短语作定语","to":"satisfaction","cn":"说明是对什么的满足感——对这些物质消费的。"},{"i":[8,9],"c":"副词","r":"副词作状语","to":"wears off","cn":"说明消退得怎么样——相当快。fairly 修饰 quickly。"}]},"2:0":{"v":[[3,4,5]],"c":[{"i":11,"w":"as","kind":"skip"},{"i":13,"w":"as","kind":"skip"}],"g":[[0,23]],"k":[{"v":[3,4,5],"w":[0,1,2],"o":[6]}],"m":[{"i":[7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],"c":"不定式","r":"不定式作定语","to":"tips","cn":"说明是什么建议——帮人花钱买到最多幸福的建议。名词后紧跟 to do，常是说明这个名词的用途。"},{"i":[11,12,13,14,15],"c":"并列成分","r":"并列成分","to":"wage slaves","cn":"as well as 相当于 and，把工薪族和彩票中奖者并列，都是 help 的对象。"},{"i":[16,17,18,19,20,21,22,23],"c":"不定式","r":"不定式作宾语补足语","to":"wage slaves","cn":"help sb do sth 里 do 前的 to 省了，说明帮这些人做到什么。"},{"i":[21,22,23],"c":"介词小尾巴","r":"介词短语作定语","to":"bang","cn":"bang for your buck 是俗语'花钱的回报'，buck 是美元的口语说法。"}]},"3:0":{"v":[[4]],"c":[],"g":[[0,13]],"k":[{"v":[4],"w":[0],"o":[6,7,8]}],"m":[{"i":[1,2,3],"c":"介词小尾巴","r":"介词短语作定语","to":"Readers","cn":"说明是谁的读者——《幸福的金钱》的读者。"},{"i":[5],"c":"副词","r":"副词作状语","to":"are","cn":"'显然'，表示作者的判断。"},{"i":[9,10,11,12,13],"c":"其他","r":"形容词短语作后置定语","to":"lot","cn":"补充说明这群人：他们焦虑的是满足感，而不是吃不饱。"},{"i":[12,13],"c":"并列成分","r":"并列成分","to":"fulfilment","cn":"和 fulfilment 对比，完整是 not (anxious about) hunger，焦虑的不是温饱。"}]},"3:1":{"v":[[1,4],[11]],"c":[{"i":6,"w":"but","kind":"并列","wall":true}],"g":[[0,5],[7,18]],"k":[{"v":[1,4],"w":[0],"o":[5]},{"v":[11],"w":[7],"o":[13]}],"m":[{"i":[3],"c":"副词","r":"副词作状语","to":"buy","cn":"not quite 是'不完全'，语气比 not 弱，表示钱买不到全部幸福，但多少能买一些。"},{"i":[8,9,10],"c":"介词小尾巴","r":"介词短语作定语","to":"people","cn":"说明是哪里的人——较富裕国家的人。"},{"i":[12],"c":"副词","r":"副词作状语","to":"are","cn":"'总体上'，说明这是普遍情况。"},{"i":[14,15,16,17,18],"c":"比较结构","r":"比较结构","to":"happier","cn":"说明和谁比：比穷国的人更快乐。those 指 people，ones 指 countries。"},{"i":[16,17,18],"c":"介词小尾巴","r":"介词短语作定语","to":"those","cn":"说明是哪里的人——穷国的。"}]},"3:2":{"v":[[11,12,13],[24]],"c":[{"i":6,"w":"and","kind":"并列","wall":false},{"i":16,"w":"and","kind":"并列","wall":false},{"i":22,"w":"and","kind":"并列","wall":true}],"g":[[0,21],[23,32]],"k":[{"v":[11,12,13],"w":[1,2],"o":[]},{"v":[24],"w":[23],"o":[25,26]}],"m":[{"i":[3,4,5,6,7,8,9,10],"c":"介词小尾巴","r":"介词短语作定语","to":"link","cn":"说明是什么之间的联系：感觉良好和为别人花钱之间。between A and B。"},{"i":[9,10],"c":"介词小尾巴","r":"介词短语作状语","to":"spending money","cn":"说明钱花在谁身上——别人。"},{"i":[14,15,16,17,18],"c":"介词小尾巴","r":"介词短语作状语","to":"can be seen","cn":"说明在哪些人身上能看到——富人和穷人中都能。"},{"i":[19,20,21],"c":"介词小尾巴","r":"介词短语作定语","to":"people","cn":"说明是哪里的人——全世界的。"},{"i":[27,28,29],"c":"介词小尾巴","r":"介词短语作定语","to":"pleasure","cn":"说明是什么带来的乐趣——大多数事物的。"},{"i":[30,31,32],"c":"介词小尾巴","r":"介词短语作状语","to":"enhances","cn":"说明对谁而言——对大多数人。"}]}},"2014-2":{"0:0":{"v":[[5,6,7],[21]],"c":[{"i":8,"w":"that","kind":"从句","att":"格子","role":"宾语从句"},{"i":12,"w":"that","kind":"从句","att":"格子","role":"宾语从句"}],"g":[[0,21]],"k":[{"v":[5,6,7],"w":[0,1],"o":[]}],"m":[{"i":[2,3,4],"c":"介词小尾巴","r":"介词短语作定语","to":"article","cn":"说明是哪里的文章——《科学美国人》杂志上的。"},{"i":[8,9,10,11,12,13,14,15,16,17,18,19,20,21],"c":"从句","r":"宾语从句","to":"pointed out","cn":"文章指出的内容：实证研究表明……。"},{"i":[12,13,14,15,16,17,18,19,20,21],"c":"从句","r":"宾语从句","to":"says","cn":"研究表明的内容，第二层从句。"},{"i":[13],"c":"插入语","r":"插入语","to":"think","cn":"夹在两个逗号之间，'实际上'，表示和人们以为的不同。"},{"i":[16,17,18,19,20,21],"c":"从句","r":"宾语从句","to":"think","cn":"think 后面省略了 that，是你心里认为的内容，第三层从句。"},{"i":[19,20,21],"c":"从句","r":"比较状语从句","to":"more beautiful","cn":"和真实的你比。完整是 than you are (beautiful)，后面省了 beautiful。"}]},"0:1":{"v":[[1],[13]],"c":[{"i":10,"w":"and","kind":"并列","wall":true}],"g":[[0,9],[11,21]],"k":[{"v":[1],"w":[0],"o":[2,3,4]},{"v":[13],"w":[11],"o":[14,15,16,17,18]}],"m":[{"i":[5,6,7,8,9],"c":"不定式","r":"不定式作定语","to":"need","cn":"说明是什么需求——自我感觉良好的需求。"},{"i":[8,9],"c":"介词小尾巴","r":"介词短语作状语","to":"feel good","cn":"说明对什么感觉好——对自己。"},{"i":[12],"c":"副词","r":"副词作状语","to":"employ","cn":"'自然而然地'，说明采用策略是本能的。"},{"i":[19,20,21],"c":"不定式","r":"不定式作状语","to":"employ","cn":"说明采用策略的目的。this 指前面说的'自我感觉良好'。"}]},"2:0":{"v":[[6]],"c":[{"i":1,"w":"and","kind":"并列","wall":false},{"i":12,"w":"and","kind":"并列","wall":false}],"g":[[0,13]],"k":[{"v":[6],"w":[4,5],"o":[7,8,9]}],"m":[{"i":[0,1,2,3],"c":"同位语","r":"同位语","to":"Nicholas Epley","cn":"放在人名前面说明他的身份：心理学家兼行为科学家。英文新闻常把头衔直接放人名前。"},{"i":[10,11,12,13],"c":"介词小尾巴","r":"介词短语作定语","to":"study","cn":"study into 是'关于……的研究'，说明研究的内容。"}]},"2:2":{"v":[[5]],"c":[{"i":12,"w":"and","kind":"并列","wall":false},{"i":16,"w":"or","kind":"并列","wall":false}],"g":[[0,20]],"k":[{"v":[5],"w":[0,1],"o":[6,7,8,9]}],"m":[{"i":[2,3,4],"c":"插入语","r":"插入语","to":"Visual recognition","cn":"正常语序是 the study reads，read 这里是'写着'，意思是'研究报告写道'。"},{"i":[10,11,12,13,14,15,16,17,18,19,20],"c":"分词","r":"现在分词作定语","to":"process","cn":"逗号后补充说明这个过程：发生得快、凭直觉，几乎不经过有意识的思考。"},{"i":[11,12,13],"c":"副词","r":"副词作状语","to":"occurring","cn":"说明怎么发生：迅速地、凭直觉地。第 27 题答案 intuitive 就出自这里。"},{"i":[14,15,16,17,18,19,20],"c":"介词小尾巴","r":"介词短语作状语","to":"occurring","cn":"说明发生时的状态：几乎没有明显的有意识的斟酌。little or no 是'很少或没有'。"}]},"3:0":{"v":[[1]],"c":[],"g":[[0,7]],"k":[{"v":[1],"w":[0],"o":[3,4,5]}],"m":[{"i":[6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"difference","cn":"说明是哪方面的差异——受试者反应上的。"}]},"3:3":{"v":[[1,2],[7],[8]],"c":[{"i":5,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,15]],"k":[{"v":[1,2],"w":[0],"o":[3,4,5,6,7,8,9,10,11,12,13,14,15]}],"m":[{"i":[3,4,5,6,7,8,9,10,11,12,13],"c":"从句","r":"宾语从句","to":"think","cn":"think 后面省略了 that，是他认为（不是）的内容。"},{"i":[5,6,7],"c":"从句","r":"定语从句（限制性）","to":"findings","cn":"that 指 findings，说明是哪些发现：我们得到的发现。"},{"i":[11,12,13],"c":"介词小尾巴","r":"介词短语作定语","to":"evidence","cn":"说明是什么的证据——个人妄想的证据。"}]},"3:5":{"v":[[2],[5,6,7]],"c":[{"i":0,"w":"if","kind":"从句","att":"整句","role":"条件状语从句"}],"g":[[0,7]],"k":[{"v":[5,6,7],"w":[4],"o":[]}],"m":[{"i":[0,1,2,3],"c":"从句","r":"条件状语从句","to":"won't be self-enhancing","cn":"说明条件：如果你抑郁。"}]},"4:1":{"v":[[2],[8,9]],"c":[{"i":6,"w":"where","kind":"从句","att":"名词","role":"定语从句（非限制性）"},{"i":23,"w":"and","kind":"并列","wall":false}],"g":[[0,24]],"k":[{"v":[2],"w":[0],"o":[3,4,5]}],"m":[{"i":[1],"c":"插入语","r":"插入语","to":"is","cn":"'因此'，说明这句是从上文的研究推出的结论。"},{"i":[6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],"c":"从句","r":"定语从句（非限制性）","to":"paradise","cn":"where 指 paradise（这个地方），说明在那里人们只分享最好的一面。"},{"i":[10],"c":"副词","r":"副词作状语","to":"share","cn":"'只'，强调人们挑着分享，第 30 题'隐藏不好的一面'就出自这里。"},{"i":[15,16,17,18,19,20,21,22,23,24],"c":"并列成分","r":"并列成分","to":"photos","cn":"和 photos 一起作 share 的宾语，没用 and 直接逗号连接；也可看作补充说明。cream 指精华。"},{"i":[17,18,19,20,21,22,23,24],"c":"介词小尾巴","r":"介词短语作定语","to":"cream","cn":"说明是哪些方面的精华：智慧、风格、美貌、才智和生活方式。"}]}},"2014-3":{"0:0":{"v":[[6],[18,19,20]],"c":[{"i":9,"w":"as","kind":"skip"},{"i":11,"w":"as","kind":"skip"},{"i":15,"w":"but","kind":"并列","wall":true},{"i":27,"w":"and","kind":"并列","wall":false}],"g":[[0,14],[16,29]],"k":[{"v":[6],"w":[0,1],"o":[]},{"v":[18,19,20],"w":[16,17],"o":[23]}],"m":[{"i":[2,3,4,5],"c":"介词小尾巴","r":"介词短语作定语","to":"concept","cn":"说明是什么概念——“人对抗机器”的概念。versus 就是“对抗、对”。"},{"i":[7,8],"c":"副词","r":"副词作状语","to":"as old as","cn":"“至少”，说明这个概念起码和工业革命一样老。"},{"i":[9,10,11,12,13,14],"c":"比较结构","r":"比较结构","to":"is","cn":"as…as 是同级比较，“和工业革命一样古老”，意思是由来已久。"},{"i":[21,22],"c":"副词","r":"副词作状语","to":"felt","cn":"“最强烈地”，说明这种现象什么时候感受最深。"},{"i":[24,25,26,27,28,29],"c":"介词小尾巴","r":"介词短语作状语","to":"felt","cn":"说明在什么时候感受最强烈——经济衰退和脆弱复苏的时候。"}]},"0:2":{"v":[[2,3,4]],"c":[],"g":[[0,9]],"k":[{"v":[2,3,4],"w":[0,1],"o":[]}],"m":[{"i":[5,6],"c":"介词小尾巴","r":"介词短语作状语","to":"have gone away","cn":"for good 是固定短语，意思是“永远”，不是“为了好”。"},{"i":[7,8,9],"c":"分词","r":"过去分词作状语","to":"have gone away","cn":"补充说明这些工作怎么没的——被机器淘汰。outmoded 表被动，逻辑主语是 jobs。"},{"i":[8,9],"c":"介词小尾巴","r":"介词短语作状语","to":"outmoded","cn":"by 引出动作的执行者：是机器让它们过时的。"}]},"2:0":{"v":[[1]],"c":[{"i":5,"w":"and","kind":"并列","wall":false}],"g":[[0,8]],"k":[{"v":[1],"w":[0],"o":[2,3,4]}],"m":[{"i":[5,6,7,8],"c":"并列成分","r":"并列成分","to":"argument","cn":"one 代替前面的 argument，意思是“也是一个吓人的论点”，和前一个表语并列。"}]},"3:1":{"v":[[3],[10,11]],"c":[{"i":8,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,17]],"k":[{"v":[3],"w":[2],"o":[4,5]}],"m":[{"i":[0,1],"c":"介词小尾巴","r":"介词短语作状语","to":"are","cn":"“简而言之”，表示在总结上文。"},{"i":[6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"types","cn":"说明是什么的类型——工作的。"},{"i":[8,9,10,11,12,13,14,15,16,17],"c":"从句","r":"定语从句（限制性）","to":"jobs","cn":"说明是哪类工作——机器干得比人好得多的。that 作句末 at 的宾语，指 jobs。"},{"i":[12,13,14,15,16,17],"c":"比较结构","r":"比较结构","to":"perform","cn":"better…than 比较机器和人；much 加强比较程度，“好得多”。"}]},"4:1":{"v":[[9],[15,16]],"c":[{"i":14,"w":"who","kind":"从句","att":"名词","role":"定语从句（限制性）"},{"i":18,"w":"and","kind":"并列","wall":false}],"g":[[0,26]],"k":[{"v":[9],"w":[5],"o":[10]}],"m":[{"i":[0,1,2,3,4],"c":"介词小尾巴","r":"介词短语作状语","to":"need","cn":"说明在什么情况下需要——在快速变化的经济中。"},{"i":[2,3],"c":"分词","r":"现在分词作定语","to":"economy","cn":"说明经济的状态——正在快速变化。"},{"i":[6,7,8],"c":"比较结构","r":"比较结构","to":"need","cn":"“比以往任何时候都更”，强调现在需要得更迫切。"},{"i":[11,12,13],"c":"介词小尾巴","r":"介词短语作定语","to":"people","cn":"说明是哪里的人——职场里的。"},{"i":[14,15,16,17,18,19,20,21,22,23,24,25,26],"c":"从句","r":"定语从句（限制性）","to":"people","cn":"说明需要什么样的人——能主动、能发挥想象力的人。"},{"i":[22,23,24,25,26],"c":"不定式","r":"不定式作状语","to":"take initiative and exercise their imagination","cn":"说明主动和发挥想象力是为了什么——应对突发事件。"}]},"4:3":{"v":[[1,2]],"c":[],"g":[[0,7]],"k":[{"v":[1,2],"w":[0],"o":[]}],"m":[{"i":[3,4,5,6,7],"c":"不定式","r":"不定式作状语","to":"designed","cn":"说明机器被设计出来干什么——执行非常可预测的活动。"}]},"5:2":{"v":[[4],[13,14]],"c":[{"i":11,"w":"which","kind":"skip"}],"g":[[0,20]],"k":[{"v":[4],"w":[3],"o":[5,6,7,8,9]}],"m":[{"i":[0,1,2],"c":"插入语","r":"插入语","to":"need","cn":"“换句话说”，说明这句是把上一句换个说法再讲一遍。"},{"i":[10,11,12,13,14,15,16,17,18,19,20],"c":"从句","r":"定语从句（限制性）","to":"ways","cn":"说明是什么方式——机器增强而不是取代人类劳动的方式。in which 相当于 how。"},{"i":[17,18,19,20],"c":"并列成分","r":"并列成分","to":"augment","cn":"rather than 连接 augment 和 replace：是增强，不是取代。it 指 human labor。"}]}},"2014-4":{"0:1":{"v":[[1,3]],"c":[],"g":[[0,3]],"k":[{"v":[1,3],"w":[0],"o":[]}],"m":[{"i":[2],"c":"副词","r":"副词作状语","to":"mentioned","cn":"“很少”，意思接近否定：住房几乎没人提。"}]},"1:1":{"v":[[6,7]],"c":[],"g":[[0,9]],"k":[{"v":[6,7],"w":[3,4,5],"o":[8,9]}],"m":[{"i":[0,1,2],"c":"介词小尾巴","r":"介词短语作状语","to":"shoulder","cn":"“在某种程度上”，把话说得留有余地：部分责任在住房行业自己。"}]},"1:2":{"v":[[1,3,4,5],[12,13]],"c":[{"i":10,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,16]],"k":[{"v":[1,3,4,5],"w":[0],"o":[6,7,8,9]}],"m":[{"i":[10,11,12,13,14,15,16],"c":"从句","r":"定语从句（限制性）","to":"value","cn":"说明是什么价值——住房能为经济增长带来的价值。that 作 contribute 的宾语。"},{"i":[14,15,16],"c":"介词小尾巴","r":"介词短语作状语","to":"contribute","cn":"contribute A to B，说明价值贡献给谁——经济增长。"}]},"1:3":{"v":[[2]],"c":[],"g":[[0,9]],"k":[{"v":[2],"w":[1],"o":[3,4]}],"m":[{"i":[0],"c":"副词","r":"副词作状语","to":"is","cn":"这里不是“然后”，是“其次、另外”，表示列出第二个原因。"},{"i":[5,6,7,8,9],"c":"介词小尾巴","r":"介词短语作定语","to":"scale","cn":"说明是什么的规模——典型住房项目的规模。"}]},"1:5":{"v":[[6],[10,12]],"c":[{"i":0,"w":"but","kind":"并列","wall":false},{"i":7,"w":"that","kind":"从句","att":"格子","role":"表语从句"},{"i":13,"w":"so","kind":"并列","wall":false}],"g":[[0,15]],"k":[{"v":[6],"w":[2,3,4,5],"o":[7,8,9,10,11,12,13,14,15]}],"m":[{"i":[1],"c":"副词","r":"副词作状语","to":"is","cn":"“或许”，作者语气留有余地。"},{"i":[7,8,9,10,11,12,13,14,15],"c":"从句","r":"表语从句","to":"is","cn":"说明最重要的原因是什么——这个问题一直带有强烈政治色彩。"},{"i":[13,14],"c":"副词","r":"副词作状语","to":"charged","cn":"说明带的是政治色彩，而且程度很强。politically charged = 政治上敏感。"}]},"2:0":{"v":[[5]],"c":[],"g":[[0,6]],"k":[{"v":[5],"w":[1,2,3,4],"o":[6]}],"m":[{"i":[0],"c":"副词","r":"副词作状语","to":"is","cn":"“尽管如此”，表示转折：虽然上面有种种原因，但形势很严峻。"}]},"2:1":{"v":[[2],[8,11]],"c":[{"i":6,"w":"and","kind":"并列","wall":true}],"g":[[0,5],[7,14]],"k":[{"v":[2],"w":[0,1],"o":[]},{"v":[8,11],"w":[7],"o":[12,13,14]}],"m":[{"i":[3,4,5],"c":"副词","r":"副词作状语","to":"increase","cn":"all the time 是固定短语，相当于副词“一直、不断”。"},{"i":[9],"c":"副词","r":"副词作状语","to":"not building","cn":"加强否定语气，“根本就没有”建够。"}]},"4:0":{"v":[[1],[6,7],[9]],"c":[{"i":4,"w":"that","kind":"从句","att":"名词","role":"同位语从句"},{"i":11,"w":"that","kind":"skip"}],"g":[[0,11]],"k":[{"v":[1],"w":[0],"o":[2,3]}],"m":[{"i":[4,5,6,7,8,9,10,11],"c":"从句","r":"同位语从句","to":"indications","cn":"说明是什么迹象——政府正准备这么做。it 指政府。"},{"i":[10],"c":"副词","r":"副词作状语","to":"that","cn":"“正是”，强调就是上文说的那件事。"}]},"5:0":{"v":[[1,3],[13,14]],"c":[{"i":12,"w":"which","kind":"从句","att":"名词","role":"定语从句（非限制性）"}],"g":[[0,29]],"k":[{"v":[1,3],"w":[0],"o":[4,5,6,7]}],"m":[{"i":[8,9,10,11],"c":"介词小尾巴","r":"介词短语作定语","to":"certainty","cn":"说明是哪方面的确定性——租赁环境中的。"},{"i":[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29],"c":"从句","r":"定语从句（非限制性）","to":"creating greater certainty","cn":"which 指“创造更大确定性”这件事，说它会影响住房提供者的融资能力。"},{"i":[18,19,20],"c":"介词小尾巴","r":"介词短语作定语","to":"impact","cn":"have an impact on = 对……有影响，说明影响的是能力。"},{"i":[21,22,23],"c":"介词小尾巴","r":"介词短语作定语","to":"ability","cn":"说明是谁的能力——注册住房提供者的。"},{"i":[24,25,26,27,28,29],"c":"不定式","r":"不定式作定语","to":"ability","cn":"说明是什么能力——为新开发项目融资的能力。"},{"i":[28,29],"c":"介词小尾巴","r":"介词短语作状语","to":"fund","cn":"说明钱从哪来——从收入（租金）里来。"}]},"6:0":{"v":[[2]],"c":[{"i":0,"w":"but","kind":"并列","wall":false}],"g":[[0,8]],"k":[{"v":[2],"w":[1],"o":[5,6,7,8]}],"m":[{"i":[4],"c":"副词","r":"副词作状语","to":"down to the government","cn":"not just 是“不仅仅”，意思是政府之外，行业自己也要出力。"}]},"6:1":{"v":[[3,4,5],[11,12,13,14],[34],[38]],"c":[{"i":0,"w":"while","kind":"从句","att":"整句","role":"让步状语从句"},{"i":17,"w":"that","kind":"从句","att":"名词","role":"同位语从句"}],"g":[[0,40]],"k":[{"v":[11,12,13,14],"w":[10],"o":[15,16]}],"m":[{"i":[0,1,2,3,4,5,6,7,8,9],"c":"从句","r":"让步状语从句","to":"must face up to","cn":"while 这里是“虽然”，先承认这些措施短期内受欢迎。"},{"i":[6,7,8,9],"c":"介词小尾巴","r":"介词短语作状语","to":"welcome","cn":"说明什么时候受欢迎——短期内。"},{"i":[17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40],"c":"从句","r":"同位语从句","to":"fact","cn":"说明事实是什么——45亿英镑拨款计划2015年到期后不太可能延续。"},{"i":[22,23],"c":"介词小尾巴","r":"介词短语作定语","to":"programme","cn":"说明是什么计划——拨款计划。"},{"i":[24,25,26,27,28],"c":"不定式","r":"不定式作定语","to":"grants","cn":"说明拨款干什么用——资助新建保障性住房。"},{"i":[29,30,31,32,33],"c":"分词","r":"过去分词作定语","to":"programme","cn":"补充说明计划的到期时间：定于2015年到期。"},{"i":[39,40],"c":"介词小尾巴","r":"介词短语作状语","to":"extended","cn":"说明不会延续到什么时候之后——2015年以后。"}]},"6:4":{"v":[[1]],"c":[],"g":[[0,7]],"k":[{"v":[1],"w":[0],"o":[2,3,4,5,7]}],"m":[{"i":[6],"c":"分词","r":"现在分词作定语","to":"climate","cn":"说明环境的状态——正在变化。现在分词放名词前，表示“正在……的”。"}]}},"2015-1":{"1:1":{"v":[[4],[6]],"c":[],"g":[[0,11]],"k":[{"v":[4],"w":[2],"o":[5,6,7,8,9]}],"m":[{"i":[0,1],"c":"介词小尾巴","r":"介词短语作状语","to":"say","cn":"「事实上」，表示接下来的内容比上一句更进一步。"},{"i":[3],"c":"副词","r":"副词作状语","to":"say","cn":"「甚至」，强调女性不光压力小，还觉得在单位更舒服。"},{"i":[5,6,7,8,9],"c":"从句","r":"宾语从句","to":"say","cn":"say 后省了 that，整句是 say 的内容：她们在工作时感觉更好。"},{"i":[8,9],"c":"介词小尾巴","r":"介词短语作状语","to":"feel better","cn":"说明在哪里感觉更好——在工作的时候。"},{"i":[10,11],"c":"插入语","r":"插入语","to":"women even say","cn":"放在句尾交代这句话出自 Damaske，意思是「她指出」。"}]},"2:1":{"v":[[8]],"c":[],"g":[[0,13]],"k":[{"v":[8],"w":[3,4],"o":[9,10]}],"m":[{"i":[0,1,2],"c":"介词小尾巴","r":"介词短语作状语","to":"is a time","cn":"限定范围：对许多男性来说。"},{"i":[5,6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"end","cn":"说明是什么的结束——工作日的结束，也就是下班后。"},{"i":[11,12,13],"c":"不定式","r":"不定式作定语","to":"time","cn":"说明是用来干什么的时间——用来放松的。kick back 是口语「放松、歇着」。"}]},"4:0":{"v":[[6]],"c":[],"g":[[0,9]],"k":[{"v":[6],"w":[5],"o":[8,9]}],"m":[{"i":[0,1,2,3],"c":"介词小尾巴","r":"介词短语作状语","to":"have","cn":"「在家庭这一块」，front 这里指某个领域、方面，不是「前面」。"},{"i":[4],"c":"插入语","r":"插入语","to":"people have no such clarity","cn":"夹在逗号中间表示「然而」，和上一段讲工作场所形成对比。"}]},"4:5":{"v":[[1,2]],"c":[],"g":[[0,4]],"k":[{"v":[1,2],"w":[0],"o":[3,4]}],"m":[]}},"2015-2":{"0:1":{"v":[[2],[8]],"c":[{"i":4,"w":"and","kind":"并列","wall":true}],"g":[[0,3],[5,9]],"k":[{"v":[2],"w":[0,1],"o":[3]},{"v":[8],"w":[5,6,7],"o":[9]}],"m":[]},"2:0":{"v":[[5],[12,13,14],[21]],"c":[{"i":9,"w":"and","kind":"并列","wall":true},{"i":20,"w":"who","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,8],[10,28]],"k":[{"v":[5],"w":[0,1],"o":[6,7,8]},{"v":[12,13,14],"w":[10,11],"o":[15,16]}],"m":[{"i":[2,3,4],"c":"介词小尾巴","r":"介词短语作定语","to":"authors","cn":"说明是谁的作者——这篇论文的。"},{"i":[17,18,19,20,21,22,23,24,25,26,27,28],"c":"分词","r":"现在分词作定语","to":"study","cn":"说明是什么样的研究：涉及147名学生的研究，相当于 which involved。"},{"i":[20,21,22,23],"c":"从句","r":"定语从句（限制性）","to":"students","cn":"括号里补充：这147人是完成了该项目的学生。"},{"i":[24,25,26,27,28],"c":"介词小尾巴","r":"介词短语作定语","to":"students","cn":"越过括号修饰 students：一所没透露名字的私立大学里的学生。"}]},"2:2":{"v":[[7],[22]],"c":[{"i":20,"w":"while","kind":"从句","att":"整句","role":"让步状语从句"}],"g":[[0,39]],"k":[{"v":[7],"w":[0,1,2,3,4],"o":[8,9,10,11]}],"m":[{"i":[5,6],"c":"插入语","r":"插入语","to":"Most","cn":"括号里给出「大多数」的具体比例。"},{"i":[12,13,14,15,16,17,18,19],"c":"同位语","r":"同位语","to":"Pell Grants","cn":"逗号后解释佩尔助学金是什么：面向经济困难本科生的联邦助学金。"},{"i":[15,16],"c":"介词小尾巴","r":"介词短语作定语","to":"grant","cn":"说明是给谁的助学金——给本科生的。"},{"i":[17,18,19],"c":"介词小尾巴","r":"介词短语作定语","to":"undergraduates","cn":"说明是什么样的本科生——有经济需要的。"},{"i":[20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39],"c":"从句","r":"让步状语从句","to":"were recipients","cn":"while 这里是「而」，表示对比：父母至少一方有学位的学生里只有8.6%领这笔钱。"},{"i":[24,25,26,27],"c":"介词小尾巴","r":"介词短语作状语","to":"true","cn":"说明对谁成立：只对8.6%的人成立。"},{"i":[28,29,30],"c":"介词小尾巴","r":"介词短语作定语","to":"8.6 percent","cn":"说明是谁中的8.6%——这些学生中的。"},{"i":[31,32,33,34,35],"c":"介词小尾巴","r":"介词短语作定语","to":"students","cn":"说明是什么样的学生——至少有一位家长……的学生。"},{"i":[36,37,38,39],"c":"介词小尾巴","r":"介词短语作定语","to":"parent","cn":"说明是什么样的家长——有四年制大学学位的。"}]},"3:1":{"v":[[1],[11],[15,16,17]],"c":[{"i":9,"w":"that","kind":"从句","att":"格子","role":"宾语从句"},{"i":14,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,22]],"k":[{"v":[1],"w":[0],"o":[2,3]}],"m":[{"i":[4,5,6],"c":"介词小尾巴","r":"介词短语作定语","to":"research","cn":"说明是谁做的研究——几位学者的。"},{"i":[7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22],"c":"不定式","r":"不定式作状语","to":"cite","cn":"表目的：引用这些研究是「为了说明」……"},{"i":[9,10,11,12,13,14,15,16,17,18,19,20,21,22],"c":"从句","r":"宾语从句","to":"show","cn":"说明要证明什么：这正是必须缩小的差距。"},{"i":[14,15,16,17,18,19,20,21,22],"c":"从句","r":"定语从句（限制性）","to":"gap","cn":"that 在从句里当主语，说明是哪种差距：必须被缩小的差距。"},{"i":[18,19,20,21,22],"c":"不定式","r":"不定式作状语","to":"narrowed","cn":"表目的：为了缩小成就差距。"}]}},"2015-3":{"0:1":{"v":[[1]],"c":[],"g":[[0,4]],"k":[{"v":[1],"w":[0],"o":[2,3,4]}],"m":[]},"3:1":{"v":[[6,8],[18],[30]],"c":[{"i":14,"w":"why","kind":"从句","att":"格子","role":"宾语从句"},{"i":21,"w":"and","kind":"并列","wall":false},{"i":28,"w":"whose","kind":"从句","att":"名词","role":"定语从句（非限制性）"}],"g":[[0,37]],"k":[{"v":[6,8],"w":[0,1,2],"o":[9]}],"m":[{"i":[3,4,5],"c":"介词小尾巴","r":"介词短语作定语","to":"wars","cn":"说明是哪个年代的妈妈战争——上世纪90年代的。"},{"i":[11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27],"c":"分词","r":"现在分词作状语","to":"are still going on","cn":"说这场争论带来的结果：引发了争论，也催生了书。prompting 的动作发出者是前面整件事。"},{"i":[13,14,15,16,17,18,19,20],"c":"介词小尾巴","r":"介词短语作定语","to":"arguments","cn":"说明争论的内容：关于女性为什么仍然不能兼得一切（事业家庭都要）。"},{"i":[14,15,16,17,18,19,20],"c":"从句","r":"宾语从句","to":"about","cn":"why 引导的从句作介词 about 的宾语，从句用陈述语序。have it all 指什么都拥有。"},{"i":[22,23,24,25,26,27],"c":"并列成分","r":"并列成分","to":"arguments","cn":"books 和 arguments 并列，都是 prompting 的宾语：既引发了争论，也引出了书。"},{"i":[23,24,25,26,27],"c":"介词小尾巴","r":"介词短语作定语","to":"books","cn":"举例说是哪类书，比如桑德伯格的《向前一步》。"},{"i":[28,29,30,31,32,33,34,35,36,37],"c":"从句","r":"定语从句（非限制性）","to":"Lean In","cn":"whose =“它的”，指这本书的书名本身已经成了流行语。"},{"i":[34,35,36,37],"c":"介词小尾巴","r":"介词短语作状语","to":"has become","cn":"“凭它自身”，意思是书名单拿出来就已经是个流行词。"}]},"3:2":{"v":[[8]],"c":[{"i":6,"w":"and","kind":"并列","wall":false},{"i":16,"w":"and","kind":"并列","wall":false}],"g":[[0,18]],"k":[{"v":[8],"w":[0],"o":[9,10,11,12]}],"m":[{"i":[1,2,3,4,5,6,7],"c":"介词小尾巴","r":"介词短语作定语","to":"Terms","cn":"举例是哪些词：断网、离线（ofjline 是 offline 的排印错误）、生活窍门、带宽、容量。"},{"i":[13,14,15,16,17,18],"c":"介词小尾巴","r":"介词短语作定语","to":"boundaries","cn":"说明是什么之间的界限——办公室和家之间。"}]}},"2015-4":{"0:2":{"v":[[3],[6,7]],"c":[],"g":[[0,12]],"k":[{"v":[3],"w":[2],"o":[4,5,6,7,8,9,10,11,12]}],"m":[{"i":[0,1],"c":"介词小尾巴","r":"介词短语作状语","to":"appears","cn":"“目前、暂时”，暗示这只是眼下的情况，后面可能有变化或保留。"},{"i":[4,5,6,7,8,9,10,11,12],"c":"从句","r":"形式主语 it 的真正主语","to":"it","cn":"it 占主语的位置，真正“看起来如此”的是这件事：经济正以不错的速度创造就业。"},{"i":[9,10,11,12],"c":"介词小尾巴","r":"介词短语作状语","to":"is creating","cn":"说明创造就业的速度——相当不错的速度。decent 是“还不错的”。"}]},"0:3":{"v":[[2],[18,21]],"c":[{"i":14,"w":"but","kind":"并列","wall":true}],"g":[[0,13],[15,26]],"k":[{"v":[2],"w":[0],"o":[3,4,5,6,7]},{"v":[18,21],"w":[17],"o":[22]}],"m":[{"i":[1],"c":"副词","r":"副词作状语","to":"have","cn":"“仍然”，承认离目标还远。"},{"i":[8,9,10,11,12,13],"c":"不定式","r":"不定式作状语","to":"go","cn":"说这段路要走到哪里——为了回到充分就业，表示目的。"},{"i":[15,16],"c":"介词小尾巴","r":"介词短语作状语","to":"are","cn":"“至少”，语气上退一步肯定：虽然不够，但至少有进步。"},{"i":[19,20],"c":"副词","r":"副词作状语","to":"moving forward","cn":"“现在终于”，强调进步来得不容易。"},{"i":[23,24,25,26],"c":"介词小尾巴","r":"介词短语作状语","to":"moving forward","cn":"以更快的速度。faster 是比较级，暗含和之前相比。"}]},"1:0":{"v":[[2],[11,13]],"c":[{"i":10,"w":"that","kind":"从句","att":"名词","role":"定语从句（限制性）"}],"g":[[0,13]],"k":[{"v":[2],"w":[1],"o":[3,4,5]}],"m":[{"i":[6,7,8,9],"c":"介词小尾巴","r":"介词短语作定语","to":"part","cn":"说明是哪方面的部分——就业形势（整体图景）中的一部分。"},{"i":[10,11,12,13],"c":"从句","r":"定语从句（限制性）","to":"part","cn":"that 在从句里当主语。被忽视的是 part，不是紧挨着的 picture，要按意思判断。"},{"i":[12],"c":"副词","r":"副词作状语","to":"overlooked","cn":"“在很大程度上”，说明被忽视得很严重。"}]},"1:2":{"v":[[2]],"c":[],"g":[[0,11]],"k":[{"v":[2],"w":[0,1],"o":[4,7,8,9,10,11]}],"m":[{"i":[3],"c":"副词","r":"副词作状语","to":"is","cn":"“目前”，说明这是现在的数据。"},{"i":[5,6],"c":"插入语","r":"插入语","to":"830,000","cn":"括号里把83万换算成百分比：高出4.4%。"}]},"2:2":{"v":[[1],[6],[9,10]],"c":[{"i":4,"w":"because","kind":"从句","att":"整句","role":"原因状语从句"}],"g":[[0,10]],"k":[{"v":[1],"w":[0],"o":[2,3]}],"m":[{"i":[4,5,6,7,8,9,10],"c":"从句","r":"原因状语从句","to":"take","cn":"说他们为什么做兼职：因为这是他们能找到的全部。"},{"i":[8,9,10],"c":"从句","r":"定语从句（限制性）","to":"all","cn":"all 后面省略了 that，all (that) they can get =“他们能得到的全部”，带无奈语气。"}]},"3:0":{"v":[[1],[13,14]],"c":[{"i":9,"w":"but","kind":"并列","wall":true}],"g":[[0,8],[10,15]],"k":[{"v":[1],"w":[0],"o":[2,3]},{"v":[13,14],"w":[10,11,12],"o":[15]}],"m":[{"i":[4,5,6],"c":"介词小尾巴","r":"介词短语作定语","to":"increase","cn":"说明是什么在增加——非自愿兼职（后面省了 work）。"},{"i":[7,8],"c":"介词小尾巴","r":"介词短语作状语","to":"was","cn":"交代时间：只是6月份这一个月。"}]},"3:1":{"v":[[3],[13]],"c":[{"i":11,"w":"but","kind":"并列","wall":true}],"g":[[0,10],[12,23]],"k":[{"v":[3],"w":[0,1,2],"o":[6]},{"v":[13],"w":[12],"o":[14]}],"m":[{"i":[4,5],"c":"副词","r":"副词作状语","to":"higher","cn":"still 是“仍然”，far 修饰比较级表示“高得多”。"},{"i":[7,8,9,10],"c":"比较结构","r":"比较结构","to":"higher","cn":"和什么比——比经济衰退之前。than 后面省了 it was。"},{"i":[15,16,17,18],"c":"介词小尾巴","r":"介词短语作状语","to":"down","cn":"by 表示变化的幅度：少了64万，也就是7.9%。"},{"i":[19,20,21,22,23],"c":"介词小尾巴","r":"介词短语作状语","to":"down","cn":"from 表示比较的起点：跟去年同期的水平比。"}]},"5:0":{"v":[[5,6],[14]],"c":[{"i":8,"w":"because","kind":"从句","att":"整句","role":"原因状语从句"}],"g":[[0,23]],"k":[{"v":[5,6],"w":[0,1],"o":[7]}],"m":[{"i":[2,3,4],"c":"介词小尾巴","r":"介词短语作定语","to":"issue","cn":"说明是什么问题——自愿兼职的问题。"},{"i":[8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],"c":"从句","r":"原因状语从句","to":"relates","cn":"说明为什么有关：医改的主要目的之一，就是让人们不靠工作也能买到保险。"},{"i":[10,11,12,13],"c":"介词小尾巴","r":"介词短语作定语","to":"one","cn":"one of…= ……之一，说明是主要目的之一。"},{"i":[18,19,20],"c":"不定式","r":"不定式作宾语补足语","to":"people","cn":"allow sb to do：说允许人们做什么——获得保险。"},{"i":[21,22,23],"c":"介词小尾巴","r":"介词短语作状语","to":"get","cn":"说明在哪里获得保险——在工作之外，也就是不通过雇主。"}]},"6:0":{"v":[[2,3]],"c":[{"i":15,"w":"or","kind":"并列","wall":false}],"g":[[0,17]],"k":[{"v":[2,3],"w":[1],"o":[8,9,10,11,12]}],"m":[{"i":[0],"c":"副词","r":"副词作状语","to":"has allowed","cn":"转折，和上段“医改前只能靠工作获得保险”形成对比。"},{"i":[4,5,6,7],"c":"比较结构","r":"比较结构","to":"people","cn":"more than =“超过”，说明人数：超过1200万人。"},{"i":[13,14,15,16,17],"c":"介词小尾巴","r":"介词短语作状语","to":"get","cn":"说明通过什么途径获得保险：医疗补助计划或保险交易所，二选一。"}]},"6:2":{"v":[[3]],"c":[{"i":10,"w":"and","kind":"并列","wall":false}],"g":[[0,11]],"k":[{"v":[3],"w":[2],"o":[6,7]}],"m":[{"i":[0,1],"c":"介词小尾巴","r":"介词短语作状语","to":"is","cn":"“有了奥巴马医改”，交代前提条件。"},{"i":[8,9,10,11],"c":"介词小尾巴","r":"介词短语作定语","to":"link","cn":"说明是什么之间的联系——就业和保险之间。"}]}}};
+
+// ==================== v6 新增 ====================
+// ---------- 词性引擎：按"先看位置再选词"的四条规则 ----------
+const BE = new Set('is are was were am be been being'.split(' '));
+const MODALW = new Set('will would can could shall should may might must'.split(' '));
+const AUXT = new Set('is are was were am has have had do does did'.split(' ').concat([...MODALW]));
+const DETW = new Set("the a an this that these those its his her their our my your some any no each every another other such both all most many much few several one two three more less own same".split(' '));
+const PRONW = new Set('i you he she it we they this these those there who which who'.split(' '));
+const ADVW = new Set('not never also already still just only always often usually rarely seldom even simply thus therefore however moreover then again nevertheless soon now today yet once twice really truly largely mostly further well hardly barely almost nearly perhaps probably certainly actually particularly terribly repeatedly firmly quite rather indeed increasingly'.split(' '));
+function dposOf(w){
+  const c = clean(w); const d = DICT[c]; const s = new Set();
+  if(!d || !d.t) return s;
+  const t = d.t;
+  if(/(^|\n)n\./.test(t)) s.add('名词');
+  if(/(^|\n)(v|vt|vi)\./.test(t)) s.add('动词');
+  if(/(^|\n)(a|adj)\./.test(t)) s.add('形容词');
+  if(/(^|\n)(ad|adv)\./.test(t)) s.add('副词');
+  if(/(^|\n)prep\./.test(t)) s.add('介词');
+  if(/(^|\n)pron\./.test(t)) s.add('代词');
+  if(/(^|\n)conj\./.test(t)) s.add('连词');
+  if(/(^|\n)aux\./.test(t)) s.add('助动词');
+  if(d.f && /复数/.test(d.f) && !/第三人称单数/.test(d.f)) { s.add('名词'); }
+  return s;
+}
+const POS4 = ['名词','动词','形容词','副词'];
+function pos4Of(w){ const s = dposOf(w); return POS4.filter(x => s.has(x)); }
+const isAdvW = c => ADVW.has(c) || (/ly$/.test(c) && dposOf(c).has('副词'));
+const isNounW = c => { const s = dposOf(c); return s.has('名词') && !s.has('动词') && !s.has('形容词'); };
+const isAdjW = c => { const s = dposOf(c); return s.has('形容词') && !s.has('名词'); };
+const isTensedW = c => AUXT.has(c) || (DICT[c] && DICT[c].f && /第三人称单数|过去式/.test(DICT[c].f) && dposOf(c).has('动词') && !dposOf(c).has('名词'));
+// 返回 {pos, why}；判不出来就返回 null（判不出来就不考她，别教错）
+function blankPos(toks, bi, answer){
+  const cands = pos4Of(answer);
+  if(!cands.length) return null;
+  const at = i => (i >= 0 && i < toks.length) ? clean(toks[i]) : '';
+  const raw = i => (i >= 0 && i < toks.length) ? toks[i].replace(/^[^A-Za-z]+|[^A-Za-z,.]+$/g, '') : '';
+  const prev = at(bi - 1), next = at(bi + 1);
+  const tryOut = (pos, why) => cands.includes(pos) ? { pos, why } : null;
+  let r;
+  // 1) be 后面 —— 她实测卡住的点，要把 is/are 点出来
+  if(BE.has(prev)){
+    r = tryOut('形容词', `形容词 —— ${raw(bi-1)} 已经是"做"了，空在 be 后面`);
+    if(r) return r;
+  }
+  // 2) 名词前面 → 形容词（要排在"介词后面"前头：in ___ years 这种两条都沾得上）
+  if(next && isNounW(next) && (DETW.has(prev) || isAdjW(prev) || PREP.has(prev) || /'s$|s'$/.test(at(bi-1)))){
+    r = tryOut('形容词', `形容词 —— 名词 ${raw(bi+1)} 前面`); if(r) return r;
+  }
+  // 3) 介词后面（中间可以隔着 the / 形容词）
+  for(let k = bi - 1; k >= bi - 3 && k >= 0; k--){
+    const c = at(k);
+    if(PREP.has(c)){ r = tryOut('名词', `名词 —— 介词 ${raw(k)} 后面`); if(r) return r; break; }
+    if(!(DETW.has(c) || isAdjW(c))) break;
+  }
+  // 4) 形容词前面 → 副词
+  if(next && isAdjW(next)){ r = tryOut('副词', `副词 —— 形容词 ${raw(bi+1)} 前面`); if(r) return r; }
+  // 5) 动词旁边 → 副词
+  if(isTensedW(prev)){ r = tryOut('副词', `副词 —— 动词 ${raw(bi-1)} 旁边`); if(r) return r; }
+  if(isTensedW(next)){ r = tryOut('副词', `副词 —— 动词 ${raw(bi+1)} 旁边`); if(r) return r; }
+  // 6) 主语后面还没出现动作 → 动词
+  let subj = null, seenV = false;
+  for(let k = 0; k < bi; k++){
+    const c = at(k); if(!c) continue;
+    if(isTensedW(c)){ seenV = true; }
+    if(!subj && (PRONW.has(c) || isNounW(c) || /^[A-Z]/.test(toks[k] || ''))) subj = raw(k);
+  }
+  if(subj && !seenV){ r = tryOut('动词', `动词 —— 主语 ${subj} 后面还没出现动作`); if(r) return r; }
+  // 7) 整句开头带逗号 / 结尾带逗号 → 副词
+  if(bi === 0 && /,$/.test(toks[1] || '')){ r = tryOut('副词', '副词 —— 空在整句开头'); if(r) return r; }
+  if(bi === toks.length - 1 && /,$/.test(toks[bi-1] || '')){ r = tryOut('副词', '副词 —— 空在整句结尾、前面带逗号'); if(r) return r; }
+  // 8) 限定词后面、又不是形容词位 → 名词（"什么"的位置）
+  if(DETW.has(prev)){ r = tryOut('名词', `名词 —— ${raw(bi-1)} 后面是个东西，空在"什么"的位置`); if(r) return r; }
+  return null;
+}
+// 这个词在这篇文章里有没有固定搭配
+function collocOf(tid, word, sent){
+  if(!tid || !PHR[tid]) return '';
+  const c = clean(word);
+  const inSent = new Set(String(sent || '').split(/\s+/).map(clean));
+  const hit = PHR[tid].find(x => {
+    const ws = String(x.span).split(/\s+/).map(clean).filter(Boolean);
+    return ws.includes(c) && ws.every(y => inSent.has(y));
+  });
+  return hit ? (hit.base || hit.span) : '';
+}
+
+// ---------- ⑤ 排期：没学过的永远排得上，欠账永远不露面 ----------
+const DAYMS = 86400000;
+function dayNum(t){ const d = t ? new Date(t) : new Date(); return Math.floor((d - d.getTimezoneOffset() * 60000) / DAYMS); }
+const GAPS = [1, 3, 7, 21, 60];
+const PLAN0 = { card: { n: 15, u: 5 }, quiz: { n: 6, u: 3 }, sent: { n: 2, u: 1 } };
+function plan(kind){ const p = (prefs.plan && prefs.plan[kind]) || PLAN0[kind]; return { n: p.n, u: p.u }; }
+function schedMap(kind){ prefs.sched = prefs.sched || {}; prefs.sched[kind] = prefs.sched[kind] || {}; return prefs.sched[kind]; }
+function schedOf(kind, id, order){
+  const m = schedMap(kind);
+  if(!m[id]) m[id] = { a: order != null ? order : dayNum() * 1000, s: 0, d: 0, st: 'u' };
+  return m[id];
+}
+// 距考试还有几天（没填考试日期就返回 null）
+function daysToExam(){ if(!prefs.plan || !prefs.plan.exam) return null; return dayNum(prefs.plan.exam + 'T00:00:00') - dayNum(); }
+function gradeSched(kind, id, ok){
+  const r = schedOf(kind, id);
+  if(ok){ r.s = (r.s || 0) + 1; r.d = dayNum() + GAPS[Math.min(r.s, GAPS.length) - 1]; r.st = r.s >= GAPS.length ? 'm' : 'l'; }
+  else { r.s = 0; r.d = dayNum() + 1; r.st = 'l'; }
+  touch();
+  return r;
+}
+function runState(kind){
+  prefs.run = prefs.run || {};
+  const d = dayNum();
+  if(!prefs.run[kind] || prefs.run[kind].d !== d) prefs.run[kind] = { d, ids: [], i: 0, done: [] };
+  return prefs.run[kind];
+}
+// items: [{id, order}]；返回今天这一批的 id 列表
+function buildBatch(kind, items, extra){
+  const r = runState(kind);
+  const seen = new Set(r.done.concat(r.ids));
+  const { n, u } = plan(kind);
+  const toExam = daysToExam();
+  const nearExam = toExam != null && toExam <= 60;
+  items.forEach((x, i) => schedOf(kind, x.id, x.order != null ? x.order : i));
+  const m = schedMap(kind);
+  const live = items.filter(x => m[x.id].st !== 'm' && !seen.has(x.id));
+  const pick = [];
+  // 一、未学配额：一半给最老的，一半给最近标的
+  if(!nearExam){
+    const un = live.filter(x => m[x.id].st === 'u').sort((a, b) => m[a.id].a - m[b.id].a);
+    const half = Math.ceil(u / 2);
+    const old = un.slice(0, half);
+    const fresh = un.slice().reverse().filter(x => !old.includes(x)).slice(0, u - old.length);
+    old.forEach(x => pick.push(x.id)); fresh.forEach(x => pick.push(x.id));
+  }
+  // 二、复习按紧迫度（最该见的排前面），只取填满额度的那些，其余顺延
+  const today = dayNum();
+  const due = live.filter(x => m[x.id].st === 'l' && m[x.id].d <= today && !pick.includes(x.id))
+    .sort((a, b) => (m[a.id].d - m[b.id].d) || (m[a.id].a - m[b.id].a));
+  for(const x of due){ if(pick.length >= n) break; pick.push(x.id); }
+  // 三、还不满额就拿没到期的和没学过的补上（额度是下限，不是上限）
+  if(pick.length < n){
+    const rest = live.filter(x => !pick.includes(x.id)).sort((a, b) => (m[a.id].st === 'u' ? 0 : 1) - (m[b.id].st === 'u' ? 0 : 1) || m[a.id].d - m[b.id].d);
+    for(const x of rest){ if(pick.length >= n) break; pick.push(x.id); }
+  }
+  if(extra === 'unlearned'){
+    const un = live.filter(x => m[x.id].st === 'u').sort((a, b) => m[a.id].a - m[b.id].a).map(x => x.id);
+    return un.slice(0, n);
+  }
+  return pick;
+}
+function batchDone(kind, id){ const r = runState(kind); if(!r.done.includes(id)) r.done.push(id); touch(); }
+// 只显示今天这一批的进度，不显示任何累计欠账
+function progressBar(kind, i, total){
+  const r = runState(kind);
+  const done = (r.done || []).length;
+  return r.round
+    ? `<span class="today">今天已过 ${done} 个 · 这一组 ${Math.min(i, total)} / ${total}</span>`
+    : `<span class="today">今天 ${Math.min(i, total)} / ${total}</span>`;
+}
+
+// ---------- ③ 长难句·五步闯关 ----------
+const STEPN = ['圈出所有带时态的动词', '找出连接词，判并列还是从句', '按连接词切段，把动词分到段里', '每段找骨架：谁 · 做 · 什么', '把剩下的括掉'];
+const STEPHINT = [
+  '"做"可以是几个词合起来：is drinking / are patented / have finished / may celebrate',
+  '并列只有四个：and / but / or / so。其余都是从句。',
+  '两边各是一套骨架的那个连接词，就是一堵墙；墙把句子切成几段。',
+  '"什么"那一格，可能是宾语，也可能是 be 后面的表语。',
+  '介词小尾巴 / 从句 / -ing -ed 一坨 / 两个逗号夹住的插入语'
+];
+const ATTTXT = { '名词': '它贴在紧挨着它的那个名词后面', '整句': '它贴在紧挨着它的那个完整骨架上', '格子': '它占着一个正主的格子，当"谁"或"什么"用' };
+const NEAR1 = '从句贴紧挨着它的那个完整骨架（有谁、有做）。';
+const NEAR2 = 'and / but / or / so 不是骨架，是墙，从句不会穿过墙去找。';
+function step5Of(tid, p, s){ const e = STEP5[tid]; return e ? e[p + ':' + s] : null; }
+let drill = null;
+function drillKey(tid, p, s){ return tid + '|' + p + ':' + s; }
+function drillRec(k){ prefs.drill = prefs.drill || {}; prefs.drill[k] = prefs.drill[k] || { n: 0, e: [0,0,0,0,0], last: null }; return prefs.drill[k]; }
+function startDrill(tid, p, s){
+  const d = step5Of(tid, p, s); if(!d){ toast('这句还没有闯关数据，先看拆解'); return; }
+  const raw = sentText(tid, p, s);
+  drill = { tid, p, s, k: drillKey(tid, p, s), raw, toks: raw.split(' '), d,
+    step: 1, sel: new Set(), conn: {}, assign: {}, core: {}, seg: 0, slot: 'w', grey: new Set(),
+    err: [0,0,0,0,0], msg: '', msgCls: '', done5: false };
+  show('drill'); renderDrill();
+}
+function drillTokHtml(){
+  const { toks, step, sel, grey, d } = drill;
+  const inV = i => d.v.some(g => g.includes(i));
+  return toks.map((t, i) => {
+    let cls = 'dtk';
+    if(step === 1 && sel.has(i)) cls += ' pick';
+    if(step === 1 && drill.miss && drill.miss.has(i)) cls += ' miss';
+    if(step === 1 && drill.extra && drill.extra.has(i)) cls += ' over';
+    if(step === 2){ if(drill.conn[i]) cls += ' done'; }
+    if(step >= 3 && inV(i)) cls += ' verb';
+    if(step === 4){
+      const c = drill.core[drill.seg];
+      if(c && c.w != null && c.w === i) cls += ' who';
+      if(c && c.o != null && c.o === i) cls += ' what';
+    }
+    if(step === 5 && grey.has(i)) cls += ' grey';
+    return `<span class="${cls}" data-i="${i}">${esc(t)}</span>`;
+  }).join(' ');
+}
+function segLabel(i){ return '第 ' + (i + 1) + ' 段'; }
+function renderDrill(){
+  if(!drill) return;
+  const box = document.getElementById('drillbox');
+  const d = drill.d, toks = drill.toks;
+  const lab = byId[drill.tid] ? byId[drill.tid].label : drill.tid;
+  document.getElementById('drill-label').textContent = `${lab} · P${drill.p+1} 第 ${drill.s+1} 句`;
+  const dots = [1,2,3,4,5].map(n => `<i class="${n < drill.step ? 'ok' : n === drill.step ? 'cur' : ''}"></i>`).join('');
+  let body = '';
+  if(drill.step === 1){
+    body = `<div class="dact"><button class="btn primary" id="d-sub">对一下</button><span class="small muted">点句子里的词，可多选、点第二次取消</span></div>`;
+  } else if(drill.step === 2){
+    const need = d.c.filter(c => c.kind !== 'skip');
+    const left = need.filter(c => !drill.conn[c.i]).length;
+    body = drill.pick != null
+      ? `<div class="dchoose"><b>${esc(toks[drill.pick])}</b> 是哪种？<button class="btn" data-kind="并列">并列</button><button class="btn" data-kind="从句">从句</button></div>`
+      : `<div class="dact"><span class="small muted">${need.length ? `还剩 ${left} 个连接词没判` : '这句没有连接词'}</span>${need.length ? '' : '<button class="btn primary" id="d-next2">下一步 →</button>'}</div>`;
+  } else if(drill.step === 3){
+    if(d.g.length === 1){
+      body = `<div class="dnote">这句没有把两套骨架连起来的并列连接词，整句就是一段。</div><div class="dact"><button class="btn primary" id="d-next3">知道了 →</button></div>`;
+    } else {
+      body = `<div class="dsegs">${d.g.map((g, si) => `<div class="dseg"><b>${segLabel(si)}</b><span>${esc(toks.slice(g[0], g[1]+1).join(' '))}</span></div>`).join('')}</div>
+      <div class="dchips">${d.v.map((g, gi) => {
+        const a = drill.assign[gi];
+        return `<div class="dchip ${a != null ? (a === -1 ? 'bad' : 'ok') : ''}"><b>${esc(g.map(i => toks[i]).join(' '))}</b>${a != null && a !== -1 ? `<span class="rl">${segLabel(a)}</span>` : d.g.map((_, si) => `<button class="btn tiny" data-g="${gi}" data-s="${si}">${segLabel(si)}</button>`).join('')}</div>`;
+      }).join('')}</div>`;
+    }
+  } else if(drill.step === 4){
+    const si = drill.seg, c = d.k[si], g = d.g[si];
+    const mine = drill.core[si] || {};
+    body = `<div class="dnote">${d.g.length > 1 ? segLabel(si) + '：' : ''}<b>${esc(toks.slice(g[0], g[1]+1).join(' '))}</b></div>
+      <div class="dslots">
+        <div class="dslot ${drill.slot === 'w' ? 'cur' : ''}"><span class="sl">谁</span><b>${mine.w != null ? esc(toks[mine.w]) : '点一个词'}</b></div>
+        <div class="dslot fix"><span class="sl">做</span><b>${esc(c.v.map(i => toks[i]).join(' '))}</b></div>
+        <div class="dslot ${drill.slot === 'o' ? 'cur' : ''}"><span class="sl">什么 / 表语</span><b>${mine.o === -1 ? '这段没有' : mine.o != null ? esc(toks[mine.o]) : '点一个词'}</b></div>
+      </div>
+      ${drill.slot === 'o' ? '<div class="dact"><button class="btn" id="d-noobj">这段没有"什么"</button></div>' : ''}`;
+  } else if(drill.step === 5){
+    body = drill.done5
+      ? `<div class="dmods">${d.m.map(m => `<div class="dmod"><span class="cat">${esc(m.c)}</span><b>${esc(m.i.map(i => toks[i]).join(' '))}</b>${m.to ? `<span class="ar">→ ${esc(m.to)}</span>` : ''}${m.cn ? `<div class="cn">${esc(m.cn)}</div>` : ''}</div>`).join('')}</div>
+         <div class="dcn"><b>整句意思</b>${esc(trOf(drill.tid, drill.p, drill.s) || '（这句暂无译文）')}</div>
+         <div class="dact"><button class="btn primary" id="d-fin">收工</button><button class="btn ghost" id="d-again">再来一遍</button></div>`
+      : `<div class="dact"><button class="btn primary" id="d-sub5">对一下</button><span class="small muted">点一下变灰，再点一次取消</span></div>`;
+  }
+  box.innerHTML = `<div class="dhead"><span class="dstep">第 ${drill.step} 步 / 5 · ${esc(STEPN[drill.step-1])}</span><span class="ddots">${dots}</span></div>
+    <div class="dhint">${esc(STEPHINT[drill.step-1])}</div>
+    <div class="dsent" id="dsent">${drillTokHtml()}</div>
+    ${drill.msg ? `<div class="dmsg ${drill.msgCls}">${drill.msg}</div>` : ''}
+    ${body}`;
+  bindDrill();
+}
+function bindDrill(){
+  const box = document.getElementById('drillbox');
+  const sent = document.getElementById('dsent');
+  if(sent) sent.querySelectorAll('.dtk').forEach(el => el.addEventListener('click', () => drillTap(+el.dataset.i)));
+  const on = (id, fn) => { const el = box.querySelector(id); if(el) el.addEventListener('click', fn); };
+  on('#d-sub', drillCheck1);
+  on('#d-next2', () => { drill.step = 3; drill.msg = ''; renderDrill(); });
+  on('#d-next3', () => { drill.step = 4; drill.seg = 0; drill.slot = 'w'; drill.msg = ''; renderDrill(); });
+  on('#d-noobj', () => drillSlot(-1));
+  on('#d-sub5', drillCheck5);
+  on('#d-fin', () => { finishDrill(); afterDrill(); });
+  on('#d-again', () => startDrill(drill.tid, drill.p, drill.s));
+  box.querySelectorAll('[data-kind]').forEach(b => b.addEventListener('click', () => drillConn(drill.pick, b.dataset.kind)));
+  box.querySelectorAll('[data-g]').forEach(b => b.addEventListener('click', () => drillAssign(+b.dataset.g, +b.dataset.s)));
+}
+function say(m, cls){ drill.msg = m; drill.msgCls = cls || ''; }
+function drillTap(i){
+  const d = drill.d;
+  if(drill.step === 1){ drill.sel.has(i) ? drill.sel.delete(i) : drill.sel.add(i); drill.msg = ''; drill.miss = null; drill.extra = null; renderDrill(); return; }
+  if(drill.step === 2){
+    const c = d.c.find(x => x.i === i);
+    if(!c){ say(`${esc(drill.toks[i])} 不是连接词。连接词是把两块东西接起来的那种词。`, 'bad'); renderDrill(); return; }
+    if(c.kind === 'skip'){ say(`${esc(drill.toks[i])} 在这句里不是连两套东西的连接词，先不管它。`, ''); renderDrill(); return; }
+    if(drill.conn[i]){ say('这个已经判过了。', ''); renderDrill(); return; }
+    drill.pick = i; drill.msg = ''; renderDrill(); return;
+  }
+  if(drill.step === 4){
+    const si = drill.seg, c = d.k[si], g = d.g[si];
+    if(i < g[0] || i > g[1]){ say('先只看这一段里的词。', 'bad'); renderDrill(); return; }
+    drillSlot(i); return;
+  }
+  if(drill.step === 5){ drill.grey.has(i) ? drill.grey.delete(i) : drill.grey.add(i); drill.msg = ''; renderDrill(); return; }
+}
+function drillCheck1(){
+  const right = new Set(); drill.d.v.forEach(g => g.forEach(i => right.add(i)));
+  const extra = [...drill.sel].filter(i => !right.has(i));
+  const miss = [...right].filter(i => !drill.sel.has(i));
+  if(!extra.length && !miss.length){
+    drill.miss = null; drill.extra = null;
+    say('对了。' + drill.d.v.map(g => '〔' + esc(g.map(i => drill.toks[i]).join(' ')) + '〕').join(' ') + ' —— 有几套"做"，这句就有几套骨架。', 'ok');
+    drill.step = 2; renderDrill(); return;
+  }
+  drill.err[0]++;
+  drill.miss = new Set(miss); drill.extra = new Set(extra);
+  const bits = [];
+  if(miss.length) bits.push(`漏了 ${miss.length} 个（句子里<span class="mk miss">橙色</span>那几个）`);
+  if(extra.length) bits.push(`多圈了 ${extra.length} 个（<span class="mk over">划掉</span>那几个）`);
+  say(bits.join('；') + '。<br>第一步错了后面几步全会歪，改对了再往下走。', 'bad');
+  renderDrill();
+}
+function drillConn(i, ans){
+  const c = drill.d.c.find(x => x.i === i);
+  const w = drill.toks[i];
+  drill.pick = null;
+  if(ans === c.kind){
+    drill.conn[i] = true;
+    if(c.kind === '并列') say(`对了。<b>${esc(w)}</b> 是并列${c.wall ? ' —— 它两边各是一套骨架，谁也不比谁大，这就是一堵墙' : '，它连的是两个词，不是两套骨架'}。`, 'ok');
+    else say(`对了。<b>${esc(w)}</b> 是从句，${ATTTXT[c.att] || '它塞在别人里面当零件'}。`, 'ok');
+  } else {
+    drill.err[1]++; drill.conn[i] = true;
+    if(c.kind === '从句') say(`<b>${esc(w)}</b> 是从句，不是并列 —— and / but / or / so 才是并列。${ATTTXT[c.att] || ''}。`, 'bad');
+    else say(`<b>${esc(w)}</b> 是并列 —— and / but / or / so 这四个是并列，其余才是从句。`, 'bad');
+  }
+  const need = drill.d.c.filter(x => x.kind !== 'skip');
+  const hasWall = drill.d.c.some(x => x.kind === '并列' && x.wall);
+  const hasSub = need.some(x => x.kind === '从句');
+  if(need.every(x => drill.conn[x.i])){
+    if(hasWall && hasSub) drill.msg += `<br><span class="rule">${NEAR1}<br>${NEAR2}</span>`;
+    drill.step = 3;
+  }
+  renderDrill();
+}
+function drillAssign(gi, si){
+  const g = drill.d.v[gi];
+  const seg = drill.d.g.findIndex(([a, b]) => g[0] >= a && g[0] <= b);
+  if(seg === si){ drill.assign[gi] = si; say(`对了。<b>${esc(g.map(i => drill.toks[i]).join(' '))}</b> 在${segLabel(si)}里。`, 'ok'); }
+  else { drill.err[2]++; drill.assign[gi] = seg; say(`<b>${esc(g.map(i => drill.toks[i]).join(' '))}</b> 其实在${segLabel(seg)}里 —— 段是被墙切开的，动词在墙的哪一边就属于哪一段。`, 'bad'); }
+  if(drill.d.v.every((_, i) => drill.assign[i] != null)){ drill.step = 4; drill.seg = 0; drill.slot = 'w'; }
+  renderDrill();
+}
+function drillSlot(i){
+  const si = drill.seg, c = drill.d.k[si];
+  drill.core[si] = drill.core[si] || {};
+  const mine = drill.core[si];
+  if(drill.slot === 'w'){
+    if(c.w.includes(i)){ mine.w = i; say(`对了，这段的"谁"就是 <b>${esc(drill.toks[i])}</b>。`, 'ok'); drill.slot = 'o'; }
+    else { drill.err[3]++; mine.w = c.w[c.w.length - 1]; say(`这段的"谁"是 <b>${esc(c.w.map(x => drill.toks[x]).join(' '))}</b> —— 就在"做"的前面那一块。`, 'bad'); drill.slot = 'o'; }
+  } else {
+    const none = !c.o.length;
+    if(i === -1){
+      if(none){ mine.o = -1; say('对了，这段只有"谁"和"做"。', 'ok'); }
+      else { drill.err[3]++; mine.o = c.o[0]; say(`这段是有"什么"的：<b>${esc(c.o.map(x => drill.toks[x]).join(' '))}</b>。`, 'bad'); }
+    } else if(c.o.includes(i)){ mine.o = i; say(`对了，这段的"什么"是 <b>${esc(c.o.map(x => drill.toks[x]).join(' '))}</b>。`, 'ok'); }
+    else { drill.err[3]++; mine.o = none ? -1 : c.o[0]; say(none ? '这段没有"什么"，只有"谁"和"做"。' : `这段的"什么"是 <b>${esc(c.o.map(x => drill.toks[x]).join(' '))}</b>。`, 'bad'); }
+    if(si + 1 < drill.d.g.length){ drill.seg = si + 1; drill.slot = 'w'; }
+    else { drill.step = 5; }
+  }
+  renderDrill();
+}
+function drillCheck5(){
+  const d = drill.d, need = new Set();
+  const skel = new Set();
+  d.v.forEach(g => g.forEach(i => skel.add(i)));
+  d.k.forEach(c => { c.w.forEach(i => skel.add(i)); c.o.forEach(i => skel.add(i)); });
+  d.m.forEach(m => m.i.forEach(i => { if(!skel.has(i)) need.add(i); }));
+  const extra = [...drill.grey].filter(i => !need.has(i) && skel.has(i));
+  const miss = [...need].filter(i => !drill.grey.has(i));
+  if(!extra.length && !miss.length){ say('对了，剩下的都是跟班。括掉之后剩的就是主干。', 'ok'); }
+  else {
+    drill.err[4]++;
+    const bits = [];
+    if(miss.length) bits.push('还没括掉 ' + miss.slice(0, 8).map(i => `<b>${esc(drill.toks[i])}</b>`).join('、'));
+    if(extra.length) bits.push('括错了 ' + extra.slice(0, 8).map(i => `<b>${esc(drill.toks[i])}</b>`).join('、') + '（这些是主干，不能括）');
+    say(bits.join('；') + '。下面是这句所有的跟班。', 'bad');
+  }
+  need.forEach(i => drill.grey.add(i)); skel.forEach(i => drill.grey.delete(i));
+  drill.done5 = true; renderDrill();
+}
+function finishDrill(){
+  const r = drillRec(drill.k);
+  r.n++; r.last = new Date().toISOString();
+  drill.err.forEach((e, i) => { r.e[i] = (r.e[i] || 0) + e; });
+  const ok = drill.err.every(e => !e);
+  gradeSched('sent', drill.k, ok);
+  batchDone('sent', drill.k);
+  const run = runState('sent'); run.i++;
+  touch();
+  toast(ok ? '这句五步全对' : '记下来了，下次还会再排到这句');
+}
+document.getElementById('btn-drill-back').addEventListener('click', () => { drill = null; show('sent'); renderSent(); });
+
+// ---------- ④-1 常驻词尾表面板（点开就看，不跳页） ----------
+const TAILS = [
+  ['名词', '-tion / -sion、-ity、-ance / -ence、-ment、-ness、-ship、-er / -or、-ism', 'identity、appearance、publication、decision、government、awareness、teacher、capitalism'],
+  ['动词', '-ate、-ize / -ise、-ify、-en', 'celebrate、dictate、realize、identify、strengthen'],
+  ['形容词', '-ive、-al、-ous、-ful / -less、-able / -ible、-ic、-ory', 'active、natural、dangerous、useful、useless、reasonable、contradictory'],
+  ['副词', '-ly', '（你本来就会）']
+];
+const NOTAIL = [
+  ['介词', 'in / on / at / of / to / for / with / by / from / into / through / during / between / among / against / within / about'],
+  ['代词', 'I / you / he / she / it / we / they / this / that / these / those / who / which / what'],
+  ['冠词', 'a / an / the']
+];
+function tailPanel(){
+  return `<details class="tails" id="tailpanel">
+    <summary>词尾表 · 连接词表<span class="small muted">点开就看，不用跳页</span></summary>
+    <div class="tbody">
+      <div class="tsec">
+        <h5>一、四类实词的词尾</h5>
+        ${TAILS.map(([k, t, e]) => `<div class="trow"><span class="tk2">${k}</span><div><b>${esc(t)}</b><div class="small muted">${esc(e)}</div></div></div>`).join('')}
+        <div class="tnote"><b>-ed 不穿制服</b>：overturned 是动词，patented 是形容词，长得一样。<b>只能看位置</b>——在"做"的位置是动词，在名词前面或 be 后面是形容词。</div>
+      </div>
+      <div class="tsec">
+        <h5>二、连接词表<span class="tag">这块是拆长句用的</span></h5>
+        <div class="trow"><span class="tk2">并列</span><div><b>and / but / or / so</b><div class="small muted">平级，两套骨架谁也不比谁大</div></div></div>
+        <div class="trow"><span class="tk2">从句</span><div><b>其余全是</b><div class="small muted">低一层，塞在别人里面当零件。按它在干什么活分三类：</div></div></div>
+        <ol class="tlist">
+          <li><b>贴名词</b>（紧跟在一个名词屁股后面）：who / which / whose / that（紧跟名词时）/ where（跟地点名词）</li>
+          <li><b>贴整句</b>（说时间、原因、条件、让步）：though / although / because / if / when / while / since / unless / so that</li>
+          <li><b>占一个正主的格子</b>（当"谁"或"什么"用）：that（前面那格缺东西时）/ what / whether / how / why</li>
+        </ol>
+        <div class="tnote"><b>that 的判断法</b>（唯一需要现场判的）：看 that 前面那一坨<b>缺不缺一个"什么"</b>。<br>缺 → that 从句来补那个格子（<i>It is not that…</i> is 后面缺表语；<i>found that…</i> found 缺宾语）<br>不缺 → that 贴前面那个名词（<i>the tea that I drank</i>）</div>
+        <div class="tnote hi"><b>从句贴谁——就近原则</b><br>${NEAR1}<br>${NEAR2}</div>
+      </div>
+      <div class="tsec">
+        <h5>三、没有词尾的那几类</h5>
+        ${NOTAIL.map(([k, t]) => `<div class="trow"><span class="tk2">${k}</span><div><b>${esc(t)}</b></div></div>`).join('')}
+        <div class="tnote">这几类没词尾，靠认脸。</div>
+      </div>
+    </div>
+  </details>`;
+}
+// ---------- ④-2 卡片：翻面前先猜词性 ----------
+function posAsk(id, cur){
+  return `<div class="posask" id="${id}"><span class="lb">这个词是什么词？</span>${POS4.map(p => `<button class="btn tiny ${cur === p ? 'on' : ''}" data-pos="${esc(p)}">${p}</button>`).join('')}</div>`;
+}
+function posStat(kind){ prefs.posg = prefs.posg || {}; prefs.posg[kind] = prefs.posg[kind] || { ok: 0, bad: 0 }; return prefs.posg[kind]; }
+function posRate(kind){ const s = posStat(kind); const n = s.ok + s.bad; return n ? Math.round(s.ok * 100 / n) + '%' : '—'; }
+
+// ---------- 卡片（按排期出，断点续做） ----------
+function cardRows(){
+  const rows = vocabFiltered().filter(r => !isArchived(r.w));
+  rows.sort((a, b) => tierOf(a.w, a.tid) - tierOf(b.w, b.tid) || b.n - a.n || a.w.localeCompare(b.w));
+  return rows;
+}
+function startCards(extra){
+  extra = (extra === true || extra === 'unlearned') ? extra : undefined;
+  const rows = cardRows();
+  if(!rows.length){ toast('这个筛选下没有要过的词'); return; }
+  const r = runState('card');
+  let ids;
+  if(!extra && r.ids.length && r.i < r.ids.length) ids = r.ids;      // 接着上次的位置走
+  else { ids = buildBatch('card', rows.map((x, i) => ({ id: x.w, order: i })), extra); r.ids = ids; r.i = 0; if(extra) r.round = (r.round || 0) + 1; touch(); }
+  const list = ids.map(id => rows.find(x => x.w === id)).filter(Boolean);
+  if(!list.length){ toast('今天这一批过完了，点「再来一组」还能继续'); deck = { list: [], i: 0, flip: false, undo: null }; show('cards'); renderCard(false); return; }
+  deck = { list, i: Math.min(r.i, list.length), flip: false, undo: null, guess: null };
+  show('cards'); renderCard(true);
+}
+function renderCard(sayit){
+  const box = document.getElementById('cardsbox'); const lab = document.getElementById('cards-label');
+  if(!deck) return;
+  const run = runState('card');
+  if(!deck.list.length || deck.i >= deck.list.length){
+    lab.textContent = '';
+    box.innerHTML = tailPanel() + `<div class="qsent" style="text-align:center">这一组过完了${deck.undo ? `，最后归档的是 ${esc(deck.undo.r.w)}` : ''}。想再来就点下面。</div>
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">${deck.undo ? '<button class="btn" id="fc-undo">撤销归档</button>' : ''}<button class="btn primary" id="fc-more2">再来一组</button><button class="btn" id="fc-new">只刷没学过的</button><button class="btn ghost" id="fc-exit">回生词</button></div>`;
+    box.querySelector('#fc-more2').addEventListener('click', () => startCards(true));
+    box.querySelector('#fc-new').addEventListener('click', () => startCards('unlearned'));
+    box.querySelector('#fc-exit').addEventListener('click', () => { show('vocab'); render(); });
+    const u0 = box.querySelector('#fc-undo'); if(u0) u0.addEventListener('click', undoCard);
+    return;
+  }
+  const r = deck.list[deck.i]; const w = r.w; const d = lookup(w); const kw = kwEntry(r.tid, w); const tr = tierOf(w, r.tid);
+  const lem = d && d.l && d.l !== w ? d.l : null;
+  const ph = d ? (d.wp || (lem ? '' : d.p)) : '';
+  const meaning = r.ph ? phMean(r) : kw ? kw.m : (brief(w) || '（本地词典没收录）');
+  const cands = r.ph ? [] : pos4Of(lem || w);
+  const oth = r.ph ? new Set() : dposOf(lem || w);
+  const notFour = oth.has('介词') || oth.has('代词') || oth.has('连词') || oth.has('助动词');
+  const askPos = !r.ph && cands.length && !notFour && (prefs.plan ? prefs.plan.posGuess !== false : true);
+  lab.innerHTML = progressBar('card', deck.i, deck.list.length);
+  const gd = deck.guess;
+  const posLine = askPos && deck.flip
+    ? `<div class="posres ${gd ? (cands.includes(gd) ? 'ok' : 'bad') : ''}"><span class="lb">词性</span><b>${cands.join(' / ')}</b>${gd ? (cands.includes(gd) ? `<span class="rs">你猜的 ${gd}，对了</span>` : `<span class="rs">你猜的是 ${gd}</span>`) : '<span class="rs">这张没猜</span>'}</div>` : '';
+  const back = `${posLine}<div class="mean">${esc(meaning)}</div>
+    ${lem ? `<div class="lemma"><span class="small muted">原型</span><span class="lw" style="font-size:18px">${esc(lem)}</span>${spkBtn(lem)}<span class="small muted">${esc(w)} 是 ${esc(lem)} 的${esc(d.f || '变形')}</span></div>` : ''}
+    ${r.ph && r.ph.base && r.ph.base.toLowerCase() !== w.toLowerCase() ? `<div class="small muted">原型搭配 <b style="color:var(--accent)">${esc(r.ph.base)}</b></div>` : ''}
+    ${r.ctx && !r.src.has('look') ? `<div class="ctxs">${r.ph ? hlRange(r.ctx, r.ph.a, r.ph.b) : hlSent(r.ctx, w)}</div>${r.cn ? `<div class="ctxcn">${esc(r.cn)}</div>` : ''}` : ''}
+    <div class="small muted" style="margin-top:auto">${esc([...r.from].join('、'))}</div>`;
+  box.innerHTML = tailPanel() + `<div class="fc" id="fc">
+      <div style="display:flex;align-items:center;gap:8px"><span class="tier t${tr}">${tr}</span><span class="small muted">${TIERNAME[tr]}</span><span style="margin-left:auto">${spkBtn(w)}</span></div>
+      <div class="fw"${r.ph ? ' style="font-size:30px"' : ''}>${esc(w)}</div>${ph ? `<div class="fp">/${esc(ph)}/</div>` : ''}
+      ${deck.flip ? back : (askPos ? posAsk('pa', gd) : '') + '<div class="hint">点卡片看意思 · 左右滑切换</div>'}
+    </div>
+    ${deck.flip ? '<div class="fcgrade"><button class="btn" id="fc-bad">没记住</button><button class="btn primary" id="fc-ok">记住了</button></div>' : ''}
+    <div class="fcnav"><button class="btn ghost" id="fc-prev"${deck.i ? '' : ' disabled'}>← 上一张</button><span class="n">${deck.i + 1} / ${deck.list.length}</span><button class="btn ghost" id="fc-next">下一张 →</button></div>
+    <div class="fcacts"><button class="btn" id="fc-arch">会了 · 归档</button><button class="btn" id="fc-more">详细</button></div>
+    ${deck.undo ? `<div class="small muted" style="text-align:center">已归档 ${esc(deck.undo.r.w)} · <button id="fc-undo" style="color:var(--accent);font-weight:600">撤销</button></div>` : ''}`;
+  if(sayit) speak(w);
+  const fc = box.querySelector('#fc');
+  let x0 = null, y0 = null, moved = false;
+  fc.addEventListener('touchstart', e => { x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; moved = false; }, { passive: true });
+  fc.addEventListener('touchend', e => { if(x0 == null) return; const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0; x0 = null; if(Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)){ moved = true; cardGo(dx < 0 ? 1 : -1); } });
+  fc.addEventListener('click', e => { if(e.target.closest('.posask')) return; if(moved){ moved = false; return; } deck.flip = !deck.flip; renderCard(false); });
+  const pa = box.querySelector('#pa');
+  if(pa) pa.querySelectorAll('[data-pos]').forEach(b => b.addEventListener('click', e => {
+    e.stopPropagation();
+    deck.guess = b.dataset.pos;
+    const s = posStat('card'); cands.includes(deck.guess) ? s.ok++ : s.bad++; touch();
+    deck.flip = true; renderCard(false);
+  }));
+  const grade = ok => { gradeSched('card', w, ok); batchDone('card', w); const rr = runState('card'); rr.i = Math.max(rr.i, deck.i + 1); touch(); cardGo(1); };
+  const bo = box.querySelector('#fc-ok'); if(bo) bo.addEventListener('click', () => grade(true));
+  const bb = box.querySelector('#fc-bad'); if(bb) bb.addEventListener('click', () => grade(false));
+  box.querySelector('#fc-prev').addEventListener('click', () => cardGo(-1));
+  box.querySelector('#fc-next').addEventListener('click', () => cardGo(1));
+  box.querySelector('#fc-arch').addEventListener('click', () => { setArchived(w, true, 'card'); const rr = schedOf('card', w); rr.st = 'm'; batchDone('card', w); deck.undo = { r, i: deck.i }; deck.list.splice(deck.i, 1); deck.flip = false; deck.guess = null; touch(); renderCard(true); });
+  box.querySelector('#fc-more').addEventListener('click', () => r.ph ? openPhraseAt(r.tid, r.ph.loc, r.ph.a, r.ph.b, { silent: true }) : openWord(null, r.tid, w, { silent: true, ctx: r.ctx && !r.src.has('look') ? { sent: r.ctx, cn: r.cn } : null }));
+  const u = box.querySelector('#fc-undo'); if(u) u.addEventListener('click', undoCard);
+}
+function cardGo(step){ if(!deck) return; const j = deck.i + step; if(j < 0 || j > deck.list.length) return; deck.i = j; deck.flip = false; deck.guess = null; const rr = runState('card'); if(step > 0) rr.i = Math.max(rr.i, j); touch(); renderCard(j < deck.list.length); }
+
+// ---------- ①② 考我：选项出来前先判词性，答案页给归因 ----------
+function startQuiz(extra){
+  extra = (extra === true || extra === 'unlearned') ? extra : undefined;
+  const pool = quizPool();
+  if(pool.length < 4){ toast('一档的词还不够 4 个，先多做几篇'); return; }
+  const r = runState('quiz');
+  let ids;
+  if(!extra && r.ids.length && r.i < r.ids.length) ids = r.ids;
+  else { ids = buildBatch('quiz', pool.map((x, i) => ({ id: x.w, order: i })), extra); r.ids = ids; r.i = 0; if(extra) r.round = (r.round || 0) + 1; touch(); }
+  const list = ids.map(id => pool.find(x => x.w === id)).filter(Boolean);
+  if(!list.length){ toast('今天这一批做完了，点「再来一组」还能继续'); }
+  quiz = { list, i: Math.min(r.i, list.length), ok: 0, bad: 0, arch: 0, pok: 0, pbad: 0, stage: 'word', guess: null, pos: null };
+  show('quiz'); renderQuiz();
+}
+function renderQuiz(){
+  const box = document.getElementById('quizbox');
+  if(!quiz.list.length || quiz.i >= quiz.list.length){
+    box.innerHTML = `<div class="qsent" style="text-align:center">这一组 ${quiz.list.length} 个词，选词对 ${quiz.ok} 个${quiz.pok + quiz.pbad ? `；先判词性那一步对 ${quiz.pok} 个` : ''}${quiz.arch ? `，其中 ${quiz.arch} 个连对 3 次已自动归档` : ''}。</div>
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap"><button class="btn primary" id="q-again">再来一组</button><button class="btn" id="q-new">只刷没学过的</button><button class="btn ghost" id="q-exit">回生词</button></div>`;
+    box.querySelector('#q-again').addEventListener('click', () => startQuiz(true));
+    box.querySelector('#q-new').addEventListener('click', () => startQuiz('unlearned'));
+    box.querySelector('#q-exit').addEventListener('click', () => { show('vocab'); render(); });
+    document.getElementById('quiz-label').textContent = '';
+    return;
+  }
+  const cur2 = quiz.list[quiz.i]; const w = cur2.w;
+  document.getElementById('quiz-label').innerHTML = progressBar('quiz', quiz.i, quiz.list.length);
+  const sent = String(cur2.ctx); const stoks = sent.split(' ');
+  const isPh = !!cur2.ph;
+  const bi = isPh ? cur2.ph.a : stoks.findIndex(tok => clean(tok) === w);
+  if(quiz.pos === null) quiz.pos = (isPh || bi < 0) ? false : (blankPos(stoks, bi, w) || false);
+  const blanked = isPh
+    ? stoks.map((tok, i) => i === cur2.ph.a ? `<span class="blank" id="blk">________</span>` : (i > cur2.ph.a && i <= cur2.ph.b) ? '' : esc(tok)).filter((x, i) => !(i > cur2.ph.a && i <= cur2.ph.b)).join(' ')
+    : stoks.map(tok => clean(tok) === w ? `<span class="blank" id="blk">____</span>` : esc(tok)).join(' ');
+  // 第一步：先判词性（判不出来的题就直接进选词，不乱教）
+  if(quiz.stage === 'word' && quiz.pos && !quiz.guess){
+    box.innerHTML = `<div class="qsent">${blanked}</div>
+      <div class="posq"><div class="lb">这个空要什么词？</div><div class="posbtns">${POS4.map(p => `<button class="btn" data-pos="${p}">${p}</button>`).join('')}</div>
+      <div class="small muted" style="margin-top:8px">先不看选项，只看空在句子里的哪个位置。</div></div>
+      <div class="quizbar"><span>对 ${quiz.ok} · 错 ${quiz.bad}</span><span></span><button class="btn ghost" id="q-skip" style="margin-left:auto;padding:6px 12px;font-size:13px">跳过</button></div>`;
+    box.querySelectorAll('[data-pos]').forEach(b => b.addEventListener('click', () => {
+      quiz.guess = b.dataset.pos;
+      const good = quiz.guess === quiz.pos.pos;
+      good ? quiz.pok++ : quiz.pbad++;
+      const s = posStat('quiz'); good ? s.ok++ : s.bad++; touch();
+      renderQuiz();
+    }));
+    box.querySelector('#q-skip').addEventListener('click', () => { quiz.i++; quiz.stage = 'word'; quiz.guess = null; quiz.pos = null; renderQuiz(); });
+    return;
+  }
+  const rowsAll = allWords();
+  const phPool = isPh ? [...new Set([...rowsAll.filter(r => r.ph && r.w.toLowerCase() !== w.toLowerCase()).map(r => r.w), ...Object.values(PHR).flat().map(x => x.span)])].filter(x => x.toLowerCase() !== w.toLowerCase()) : [];
+  const pool = rowsAll.map(r => r.w).filter(x => x !== w && /^[a-z-]+$/.test(x));
+  const conf = isPh ? [] : confuseWords(w);
+  if(!quiz.opts){
+    const wrong = isPh ? phPool.sort(() => Math.random() - .5).slice(0, 3) : [...new Set([...conf, ...pool.sort(() => Math.random() - .5)])].filter(x => x !== w).slice(0, 3);
+    quiz.opts = [w, ...wrong].slice(0, 4).sort(() => Math.random() - .5);
+  }
+  const opts = quiz.opts;
+  const kw = kwEntry(cur2.tid, w);
+  const autoConf = confuseOf(w).filter(c => !c.mine);
+  const phrMean = o => { const r = rowsAll.find(x => x.w === o && x.ph); if(r) return phMean(r); const k = Object.values(PHR).flat().find(x => x.span === o); return k ? k.m : '（没有现成释义）'; };
+  const meanOf = o => { if(isPh) return o === w ? phMean(cur2) : phrMean(o); if(o === w) return kw ? kw.m : (brief(o) || '（本地词典没收录）'); const c = autoConf.find(x => clean(x.w) === o); if(c && c.m) return c.m; const r = rowsAll.find(x => x.w === o); const k2 = r ? kwEntry(r.tid, o) : null; return k2 ? k2.m : (brief(o) || '（本地词典没收录）'); };
+  const st0 = (prefs.quiz[w] && prefs.quiz[w].st) || 0;
+  const coll = isPh ? '' : collocOf(cur2.tid, w, sent);
+  const posBar = quiz.pos && quiz.guess
+    ? `<div class="posfb ${quiz.guess === quiz.pos.pos ? 'ok' : 'bad'}">${quiz.guess === quiz.pos.pos ? '对了。' : `你判的是${quiz.guess}。`}${esc(quiz.pos.why)}<div class="small">${quiz.guess === quiz.pos.pos ? '定了词性，再去砍选项：词性不合的直接划掉，不用看意思。' : '词性判错也接着选词，不卡你。'}</div></div>` : '';
+  box.innerHTML = `<div class="qsent">${blanked}</div>${posBar}
+    <div class="quizopts">${opts.map(o => `<div class="qo"><button data-o="${esc(o)}"><span>${esc(o)}</span><span class="qm hide">${esc(meanOf(o))}</span></button><span class="hide qspk">${spkBtn(o)}</span></div>`).join('')}</div>
+    <div class="qwhy hide" id="q-why">${quiz.pos ? `<b>应填：</b>${esc(quiz.pos.why)}` : ''}${coll ? `<div class="coll">搭配：${esc(coll)}</div>` : ''}</div>
+    <div class="qcn hide" id="q-cn"><b>整句意思</b>${esc(cur2.cn || '（这句暂无译文）')}</div>
+    <div class="quizbar"><span>对 ${quiz.ok} · 错 ${quiz.bad}</span><span id="q-st">${st0 ? `这个词已连对 ${st0}/3` : ''}</span><button class="btn ghost" id="q-skip" style="margin-left:auto;padding:6px 12px;font-size:13px">跳过</button><button class="btn primary hide" id="q-next" style="margin-left:auto;padding:8px 16px">下一题 →</button></div>`;
+  box.querySelectorAll('[data-o]').forEach(b => b.addEventListener('click', () => {
+    if(b.disabled) return;
+    const good = b.dataset.o === w;
+    b.classList.add(good ? 'right' : 'wrong');
+    if(!good){ const rb = [...box.querySelectorAll('[data-o]')].find(x => x.dataset.o === w); if(rb) rb.classList.add('right'); }
+    const blk = box.querySelector('#blk'); if(blk){ blk.textContent = w; blk.classList.add('done'); }
+    const q = prefs.quiz[w] = prefs.quiz[w] || { ok: 0, bad: 0 };
+    q[good ? 'ok' : 'bad']++; q.st = good ? (q.st || 0) + 1 : 0; q.at = new Date().toISOString();
+    let note = good ? `这个词连对 ${q.st}/3` : '答错了，连对次数清零';
+    if(good && q.st >= 3 && !isArchived(w)){ prefs.archived[w] = { at: q.at, by: 'quiz' }; const sc = schedOf('quiz', w); sc.st = 'm'; quiz.arch = (quiz.arch || 0) + 1; note = '连对 3 次，已自动归档'; }
+    gradeSched('quiz', w, good); batchDone('quiz', w);
+    const rr = runState('quiz'); rr.i = Math.max(rr.i, quiz.i + 1);
+    touch();
+    quiz[good ? 'ok' : 'bad']++;
+    box.querySelectorAll('[data-o]').forEach(x => x.disabled = true);
+    box.querySelectorAll('.qm, .qspk, #q-cn, #q-next').forEach(x => x.classList.remove('hide'));
+    if(quiz.pos || coll) box.querySelector('#q-why').classList.remove('hide');
+    box.querySelector('#q-skip').classList.add('hide');
+    box.querySelector('#q-st').textContent = note;
+    box.querySelector('.quizbar span').textContent = `对 ${quiz.ok} · 错 ${quiz.bad}`;
+    speak(w);
+  }));
+  const adv = () => { quiz.i++; quiz.stage = 'word'; quiz.guess = null; quiz.pos = null; quiz.opts = null; renderQuiz(); };
+  box.querySelector('#q-skip').addEventListener('click', adv);
+  box.querySelector('#q-next').addEventListener('click', adv);
+}
+
+// ---------- 长难句 tab：闯关入口、排期、统计 ----------
+function drillableSents(all){ return all.filter(r => !!step5Of(r.tid, r.p, r.s)); }
+function startSentBatch(extra){
+  extra = (extra === true || extra === 'unlearned') ? extra : undefined;
+  const all = drillableSents(allSents());
+  if(!all.length){ toast('标过的句子里还没有能闯关的'); return; }
+  const r = runState('sent');
+  let ids;
+  if(!extra && r.ids.length && r.i < r.ids.length) ids = r.ids;
+  else { ids = buildBatch('sent', all.map((x, i) => ({ id: drillKey(x.tid, x.p, x.s), order: i })), extra); r.ids = ids; r.i = 0; if(extra) r.round = (r.round || 0) + 1; touch(); }
+  nextSent(ids, r);
+}
+function nextSent(ids, r){
+  const id = ids[r.i];
+  if(!id){ toast('今天这一批练完了，想继续就点「再来一组」'); show('sent'); renderSent(); return; }
+  const [tid, k] = id.split('|'); const [p, s] = k.split(':').map(Number);
+  if(!step5Of(tid, p, s)){ r.i++; touch(); return nextSent(ids, r); }
+  startDrill(tid, p, s); drill.batch = true;
+}
+function afterDrill(){
+  const r = runState('sent');
+  if(drill && drill.batch && r.ids.length && r.i < r.ids.length) return nextSent(r.ids, r);
+  drill = null; show('sent'); renderSent();
+}
+function renderSent(){
+  const all = allSents();
+  const yrs = [...new Set(TEXTS.map(t => t.id.split('-')[0]))];
+  const f = document.getElementById('sent-filters');
+  f.innerHTML = `<select id="s-year"><option value="">全部年份</option>${yrs.map(y => `<option value="${y}"${sFilter.year === y ? ' selected' : ''}>${y}</option>`).join('')}</select>
+    <select id="s-has"><option value="">全部</option><option value="drill"${sFilter.type === 'drill' ? ' selected' : ''}>能闯关</option><option value="pre"${sFilter.type === 'pre' ? ' selected' : ''}>已有细拆</option><option value="no"${sFilter.type === 'no' ? ' selected' : ''}>还没细拆</option></select>
+    <button class="btn primary" id="s-start" style="margin-left:auto;padding:7px 14px">按排期练 ›</button>`;
+  f.querySelector('#s-year').addEventListener('change', e => { sFilter.year = e.target.value; renderSent(); });
+  f.querySelector('#s-has').addEventListener('change', e => { sFilter.type = e.target.value; renderSent(); });
+  f.querySelector('#s-start').addEventListener('click', () => startSentBatch());
+  const rows = all.filter(r => (!sFilter.year || r.year === sFilter.year) && (!sFilter.type || (sFilter.type === 'drill' ? !!step5Of(r.tid, r.p, r.s) : sFilter.type === 'pre' ? !!parseOf(r.tid, r.p, r.s) : !parseOf(r.tid, r.p, r.s))));
+  const pre = all.filter(r => parseOf(r.tid, r.p, r.s)).length;
+  const dr = drillableSents(all).length;
+  // 最常错在第几步
+  const es = [0,0,0,0,0]; let ran = 0;
+  Object.values(prefs.drill || {}).forEach(x => { ran += x.n || 0; (x.e || []).forEach((v, i) => es[i] += v); });
+  const worst = es.some(x => x) ? es.indexOf(Math.max(...es)) + 1 : null;
+  document.getElementById('sent-stats').innerHTML = `<span class="stat"><b>${all.length}</b>总句数</span><span class="stat"><b>${dr}</b>能闯关</span><span class="stat"><b>${pre}</b>已有细拆</span><span class="stat"><b>${ran}</b>闯过</span>${worst ? `<span class="stat"><b>第 ${worst} 步</b>最常错</span>` : ''}`;
+  const box = document.getElementById('slist');
+  if(!rows.length){ box.innerHTML = '<div class="empty">还没有标过的长难句。做题时点句首圆点、精读时点句子编号都可以标。</div>'; return; }
+  box.innerHTML = rows.map((r, i) => {
+    const can = !!step5Of(r.tid, r.p, r.s);
+    const rec = (prefs.drill || {})[drillKey(r.tid, r.p, r.s)];
+    return `<div class="sitem" data-i="${i}">
+      <div class="en">${esc(r.text)}</div>
+      <div class="mt"><span>${esc(r.label)} · P${r.p+1} 第 ${r.s+1} 句</span><span>${r.src}标的</span>${rec && rec.n ? `<span class="an-tag" style="background:var(--accent-soft);color:var(--accent)">闯过 ${rec.n} 次</span>` : ''}${parseOf(r.tid, r.p, r.s) ? '<span class="an-tag" style="background:var(--ok-soft);color:var(--ok)">有细拆</span>' : ''}${can ? `<button class="x go" data-drill="${i}">闯关 ›</button>` : ''}<button class="x" data-open="${i}">看拆解</button><button class="x" data-del="${i}">懂了 · 删掉</button></div>
+    </div>`; }).join('');
+  box.querySelectorAll('[data-drill]').forEach(b => b.addEventListener('click', () => { const r = rows[+b.dataset.drill]; startDrill(r.tid, r.p, r.s); }));
+  box.querySelectorAll('[data-open]').forEach(b => b.addEventListener('click', () => { const r = rows[+b.dataset.open]; openExam(r.tid, 'read'); setTimeout(() => pickSentence(r.p + ':' + r.s), 80); }));
+  box.querySelectorAll('[data-del]').forEach(b => b.addEventListener('click', () => {
+    const r = rows[+b.dataset.del];
+    Object.values(attempts).forEach(a => { if(a.textId === r.tid) a.sentences = a.sentences.filter(s => !(s.p === r.p && s.s === r.s)); });
+    const n = notes[r.tid]; if(n) n.sentences = n.sentences.filter(s => !(s.p === r.p && s.s === r.s));
+    touch(); renderSent(); toast('已从长难句里删掉');
+  }));
+}
+
+// ---------- 初始化与平滑迁移（不清她已有的任何记录） ----------
+function initSched(){
+  prefs.plan = Object.assign({ card: { n: 15, u: 5 }, quiz: { n: 6, u: 3 }, sent: { n: 2, u: 1 }, posGuess: true, exam: '' }, prefs.plan || {});
+  prefs.sched = prefs.sched || {}; prefs.run = prefs.run || {}; prefs.drill = prefs.drill || {}; prefs.posg = prefs.posg || {};
+  ['card','quiz','sent'].forEach(k => prefs.sched[k] = prefs.sched[k] || {});
+  if(prefs.schedReady) return;
+  // 旧记录搬过来：考我的连对次数当 streak，归档过的算已掌握，没记录的算"还没学过"
+  const base = dayNum() * 1000;
+  Object.entries(prefs.quiz || {}).forEach(([w, q], i) => {
+    const r = prefs.sched.quiz[w] = prefs.sched.quiz[w] || { a: base - 10000 + i, s: 0, d: 0, st: 'u' };
+    r.s = q.st || 0; r.st = (q.ok || q.bad) ? 'l' : 'u';
+    r.d = dayNum() + (r.s ? GAPS[Math.min(r.s, GAPS.length) - 1] : 0);
+    const c = prefs.sched.card[w] = prefs.sched.card[w] || { a: base - 10000 + i, s: 0, d: 0, st: 'u' };
+    if(q.ok || q.bad) c.st = 'l';
+  });
+  Object.keys(prefs.archived || {}).forEach(w => {
+    if(prefs.archived[w] && prefs.archived[w].off) return;
+    ['card','quiz'].forEach(k => { const r = prefs.sched[k][w] = prefs.sched[k][w] || { a: base, s: 5, d: 0, st: 'm' }; r.st = 'm'; });
+  });
+  prefs.schedReady = 1;
+  persist();
+}
+function extraVocabStats(){
+  const pc = posStat('card'), pq = posStat('quiz');
+  const n1 = pc.ok + pc.bad, n2 = pq.ok + pq.bad;
+  return (n2 ? `<span class="stat"><b>${posRate('quiz')}</b>空格词性判对</span>` : '')
+       + (n1 ? `<span class="stat"><b>${posRate('card')}</b>卡片词性猜对</span>` : '');
+}
+// ---------- 设置里的几个开关 ----------
+function renderPlanBox(){
+  const el = document.getElementById('planbox'); if(!el) return;
+  const p = prefs.plan;
+  el.innerHTML = `<p class="small muted" style="margin:0 0 10px">每天出多少，做完了还能点「再来一组」——这个数是下限，不是上限。</p>
+    <div class="planrow"><span>单词卡</span><input type="number" min="1" max="200" id="pl-card" value="${p.card.n}"><span class="small muted">张，其中没学过的占</span><input type="number" min="0" max="50" id="pl-cardu" value="${p.card.u}"><span class="small muted">张</span></div>
+    <div class="planrow"><span>考我</span><input type="number" min="1" max="100" id="pl-quiz" value="${p.quiz.n}"><span class="small muted">题，其中没学过的占</span><input type="number" min="0" max="50" id="pl-quizu" value="${p.quiz.u}"><span class="small muted">题</span></div>
+    <div class="planrow"><span>长难句</span><input type="number" min="1" max="50" id="pl-sent" value="${p.sent.n}"><span class="small muted">句，其中没学过的占</span><input type="number" min="0" max="20" id="pl-sentu" value="${p.sent.u}"><span class="small muted">句</span></div>
+    <div class="planrow"><label><input type="checkbox" id="pl-pos"${p.posGuess !== false ? ' checked' : ''}> 单词卡翻面前先猜词性</label></div>
+    <div class="planrow"><span>考试日期</span><input type="date" id="pl-exam" value="${esc(p.exam || '')}"><span class="small muted">填了之后，考前两个月自动只出复习</span></div>
+    <button class="btn primary" id="pl-save" style="margin-top:8px">存设置</button>`;
+  el.querySelector('#pl-save').addEventListener('click', () => {
+    const v = id => Math.max(0, parseInt(el.querySelector(id).value, 10) || 0);
+    p.card = { n: Math.max(1, v('#pl-card')), u: v('#pl-cardu') };
+    p.quiz = { n: Math.max(1, v('#pl-quiz')), u: v('#pl-quizu') };
+    p.sent = { n: Math.max(1, v('#pl-sent')), u: v('#pl-sentu') };
+    p.posGuess = el.querySelector('#pl-pos').checked;
+    p.exam = el.querySelector('#pl-exam').value || '';
+    touch(); toast('设置存好了');
+  });
+}
+function render(){ renderHome(); renderSheet(); renderHistory(); renderVocab(); renderSent(); renderPlanBox(); }
+
+
 load();
 render();
 updateSyncBanner();
