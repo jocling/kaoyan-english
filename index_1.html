@@ -468,6 +468,9 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
 .btn.tiny.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
 .posres{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:7px 10px;border-radius:9px;background:var(--paper-2);margin-bottom:8px;font-size:14px}
 .posres.ok{background:var(--ok-soft)}.posres.bad{background:var(--bad-soft)}
+.posres.note{background:var(--unk);color:var(--unk-ink)}
+.posres.note .lb,.posres.note .rs{color:inherit;opacity:.75}
+.partnote{margin:-2px 0 10px;padding:9px 11px;border-radius:9px;background:var(--paper-2);font-size:13.5px;line-height:1.7}
 .posres .lb{font-size:12px;color:var(--ink-2)}
 .posres .rs{font-size:12px;color:var(--ink-2);margin-left:auto}
 .fcgrade{display:flex;gap:10px;justify-content:center;margin-top:12px}
@@ -538,6 +541,22 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
 .planrow input[type=number]{width:62px;font:inherit;padding:5px 7px;border-radius:7px;border:1px solid var(--line);background:var(--paper);color:var(--ink)}
 .planrow input[type=date]{font:inherit;padding:5px 7px;border-radius:7px;border:1px solid var(--line);background:var(--paper);color:var(--ink)}
 .planrow>span:first-child{flex:0 0 58px;color:var(--ink-2)}
+
+/* 页内次级 tab */
+.subtabs{display:flex;gap:6px;margin:0 0 14px;border-bottom:1px solid var(--line)}
+.subtabs button{padding:8px 14px;font-size:14px;font-weight:600;color:var(--ink-3);border-bottom:2px solid transparent;margin-bottom:-1px}
+.subtabs button[aria-selected=true]{color:var(--accent);border-bottom-color:var(--accent)}
+.tbody.flat{padding:0}
+.tbody.flat .tsec:first-child{margin-top:0}
+/* 长难句列表整条可点 */
+.sitem.tap{cursor:pointer;transition:border-color .12s,background .12s}
+.sitem.tap:hover{border-color:var(--accent);background:var(--paper-2)}
+.sitem .mt .go{margin-left:auto;color:var(--accent);font-weight:600}
+.sitem .mt .go+button.x{margin-left:0}
+/* 独立拆解页 */
+.pnav{display:flex;align-items:center;gap:12px;margin-top:18px;padding-top:14px;border-top:1px solid var(--line)}
+.pnav .n{color:var(--ink-3);font-size:13px;margin:0 auto}
+.pacts{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
 
 </style>
 </head>
@@ -667,18 +686,32 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
 
   <section id="view-vocab" class="hide">
     <h1>生词</h1>
+    <div class="subtabs" data-grp="vocab" role="tablist">
+      <button role="tab" data-sub="list" aria-selected="true">生词</button>
+      <button role="tab" data-sub="tails" aria-selected="false">词尾表</button>
+    </div>
+    <div id="vocab-main">
     <p class="muted small">做题和精读点过的词都在这里。默认只展开"要背"那一档，二三档折起来——不用每次都从头看一遍。点一行看释义、看易混、改档。「卡片」一张张过，会了就归档；「考我」连续答对 3 次自动归档。</p>
     <div class="searchbox"><input id="dict-search" type="search" placeholder="查词：输入英文，比如 compete" autocomplete="off"><div class="sugg hide" id="sugg"></div></div>
     <div class="filters" id="vocab-filters"></div>
     <div class="stats" id="vocab-stats"></div>
     <div id="vgroups"></div>
+    </div>
+    <div id="vocab-tails" class="hide"></div>
   </section>
   <section id="view-sent" class="hide">
     <h1>长难句</h1>
-    <p class="muted small">做题和精读时标过"没读懂"的句子都汇到这里。复习时先自己看结构，看不出来再点开拆解。懂了就删掉。</p>
+    <div class="subtabs" data-grp="sent" role="tablist">
+      <button role="tab" data-sub="list" aria-selected="true">长难句</button>
+      <button role="tab" data-sub="tails" aria-selected="false">连接词表</button>
+    </div>
+    <div id="sent-main">
+    <p class="muted small">做题和精读时标过"没读懂"的句子都汇到这里。点一条就打开拆解，想练手就点「闯关」。懂了就删掉。</p>
     <div class="filters" id="sent-filters"></div>
     <div class="stats" id="sent-stats"></div>
     <div class="slist" id="slist"></div>
+    </div>
+    <div id="sent-tails" class="hide"></div>
   </section>
 
   <section id="view-cards" class="hide">
@@ -692,6 +725,10 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
   <section id="view-drill" class="hide">
     <div class="detail-top"><button class="btn ghost" id="btn-drill-back">← 长难句</button><span id="drill-label" style="font-weight:600"></span></div>
     <div class="drill" id="drillbox"></div>
+  </section>
+  <section id="view-parse" class="hide">
+    <div class="detail-top"><button class="btn ghost" id="btn-parse-back">← 长难句</button><span id="parse-label" style="font-weight:600"></span></div>
+    <div class="drill" id="parsebox"></div>
   </section>
 </main>
 <div class="toast" id="toast"></div>
@@ -1247,10 +1284,10 @@ function renderPassage(el, text, marks, opts){
 }
 
 // ---------- 视图切换 ----------
-const views = ['home','exam','sheet','history','detail','vocab','sent','quiz','cards','drill'];
+const views = ['home','exam','sheet','history','detail','vocab','sent','quiz','cards','drill','parse'];
 function show(v){
   views.forEach(x => { const el = document.getElementById('view-' + x); if(el) el.classList.toggle('hide', x !== v); });
-  const map = { exam: 'home', detail: 'history', quiz: 'vocab', cards: 'vocab', drill: 'sent' };
+  const map = { exam: 'home', detail: 'history', quiz: 'vocab', cards: 'vocab', drill: 'sent', parse: 'sent' };
   document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === (map[v] || v))));
   updateSaveBtn(); window.scrollTo(0, 0);
 }
@@ -2620,17 +2657,21 @@ const NOTAIL = [
   ['代词', 'I / you / he / she / it / we / they / this / that / these / those / who / which / what'],
   ['冠词', 'a / an / the']
 ];
-function tailPanel(){
-  return `<details class="tails" id="tailpanel">
-    <summary>词尾表 · 连接词表<span class="small muted">点开就看，不用跳页</span></summary>
-    <div class="tbody">
-      <div class="tsec">
-        <h5>一、四类实词的词尾</h5>
+function tailsWord(){
+  return `<div class="tsec">
+        <h5>四类实词的词尾</h5>
         ${TAILS.map(([k, t, e]) => `<div class="trow"><span class="tk2">${k}</span><div><b>${esc(t)}</b><div class="small muted">${esc(e)}</div></div></div>`).join('')}
         <div class="tnote"><b>-ed 不穿制服</b>：overturned 是动词，patented 是形容词，长得一样。<b>只能看位置</b>——在"做"的位置是动词，在名词前面或 be 后面是形容词。</div>
       </div>
       <div class="tsec">
-        <h5>二、连接词表<span class="tag">这块是拆长句用的</span></h5>
+        <h5>没有词尾的那几类</h5>
+        ${NOTAIL.map(([k, t]) => `<div class="trow"><span class="tk2">${k}</span><div><b>${esc(t)}</b></div></div>`).join('')}
+        <div class="tnote">这几类没词尾，靠认脸。</div>
+      </div>`;
+}
+function tailsConn(){
+  return `<div class="tsec">
+        <h5>连接词表<span class="tag">拆长句用的</span></h5>
         <div class="trow"><span class="tk2">并列</span><div><b>and / but / or / so</b><div class="small muted">平级，两套骨架谁也不比谁大</div></div></div>
         <div class="trow"><span class="tk2">从句</span><div><b>其余全是</b><div class="small muted">低一层，塞在别人里面当零件。按它在干什么活分三类：</div></div></div>
         <ol class="tlist">
@@ -2642,14 +2683,27 @@ function tailPanel(){
         <div class="tnote hi"><b>从句贴谁——就近原则</b><br>${NEAR1}<br>${NEAR2}</div>
       </div>
       <div class="tsec">
-        <h5>三、没有词尾的那几类</h5>
-        ${NOTAIL.map(([k, t]) => `<div class="trow"><span class="tk2">${k}</span><div><b>${esc(t)}</b></div></div>`).join('')}
-        <div class="tnote">这几类没词尾，靠认脸。</div>
-      </div>
-    </div>
+        <h5>四类修饰（第五步要括掉的就是这些）</h5>
+        <ol class="tlist">
+          <li><b>介词小尾巴</b>：of / in / on / with / for / to / by / from ＋ 东西</li>
+          <li><b>从句</b>：that / which / who / where / when / though 引出来的那一坨</li>
+          <li><b>-ing 或 -ed 开头的那一坨</b></li>
+          <li><b>两个逗号夹住的插入语</b></li>
+        </ol>
+      </div>`;
+}
+function tailPanel(){
+  return `<details class="tails" id="tailpanel">
+    <summary>词尾表 · 连接词表<span class="small muted">点开就看，不用跳页</span></summary>
+    <div class="tbody">${tailsWord()}${tailsConn()}</div>
   </details>`;
 }
 // ---------- ④-2 卡片：翻面前先猜词性 ----------
+// 释义前面那个 n./v./adj./adv. 才是这个词在这篇文章里的词性（词典条目收的是原型的词性，对不上）
+const POSPRE = [[/^(adv|ad)\./, '副词'], [/^(adj|a)\./, '形容词'], [/^(vt|vi|v)\./, '动词'], [/^(n)\./, '名词']];
+function posFromMean(t){ const s = String(t || '').trim(); for(const [re, p] of POSPRE) if(re.test(s)) return p; return null; }
+// -ed / -ing 这类分词形：不穿制服，只能看位置，不出选择题
+function isPartForm(w){ const d = DICT[clean(w)]; return !!(d && d.f && /分词/.test(d.f)); }
 function posAsk(id, cur){
   return `<div class="posask" id="${id}"><span class="lb">这个词是什么词？</span>${POS4.map(p => `<button class="btn tiny ${cur === p ? 'on' : ''}" data-pos="${esc(p)}">${p}</button>`).join('')}</div>`;
 }
@@ -2693,13 +2747,18 @@ function renderCard(sayit){
   const lem = d && d.l && d.l !== w ? d.l : null;
   const ph = d ? (d.wp || (lem ? '' : d.p)) : '';
   const meaning = r.ph ? phMean(r) : kw ? kw.m : (brief(w) || '（本地词典没收录）');
-  const cands = r.ph ? [] : pos4Of(lem || w);
+  const kwPos = (!r.ph && kw && kw.m) ? posFromMean(kw.m) : null;
+  const cands = r.ph ? [] : (kwPos ? [kwPos] : pos4Of(lem || w));
   const oth = r.ph ? new Set() : dposOf(lem || w);
   const notFour = oth.has('介词') || oth.has('代词') || oth.has('连词') || oth.has('助动词');
-  const askPos = !r.ph && cands.length && !notFour && (prefs.plan ? prefs.plan.posGuess !== false : true);
+  const part = !r.ph && isPartForm(w);
+  const askPos = !r.ph && !part && cands.length && !notFour && (prefs.plan ? prefs.plan.posGuess !== false : true);
   lab.innerHTML = progressBar('card', deck.i, deck.list.length);
   const gd = deck.guess;
-  const posLine = askPos && deck.flip
+  const posLine = !deck.flip ? '' : part
+    ? `<div class="posres note"><span class="lb">词性</span><b>${kwPos ? kwPos + '（这句里）' : '看位置'}</b><span class="rs">${esc(w)} 是${/现在分词/.test((DICT[clean(w)] || {}).f || '') ? ' -ing' : ' -ed'} 形，不看词尾</span></div>
+       <div class="partnote"><b>-ed / -ing 不穿制服</b>：在"做"的位置是动词，在名词前面或 be 后面是形容词。${kwPos ? `下面这句里它是<b>${kwPos}</b>。` : '自己看下面那句它站在哪。'}</div>`
+    : askPos
     ? `<div class="posres ${gd ? (cands.includes(gd) ? 'ok' : 'bad') : ''}"><span class="lb">词性</span><b>${cands.join(' / ')}</b>${gd ? (cands.includes(gd) ? `<span class="rs">你猜的 ${gd}，对了</span>` : `<span class="rs">你猜的是 ${gd}</span>`) : '<span class="rs">这张没猜</span>'}</div>` : '';
   const back = `${posLine}<div class="mean">${esc(meaning)}</div>
     ${lem ? `<div class="lemma"><span class="small muted">原型</span><span class="lw" style="font-size:18px">${esc(lem)}</span>${spkBtn(lem)}<span class="small muted">${esc(w)} 是 ${esc(lem)} 的${esc(d.f || '变形')}</span></div>` : ''}
@@ -2898,6 +2957,136 @@ function renderSent(){
     touch(); renderSent(); toast('已从长难句里删掉');
   }));
 }
+
+// ---------- 长难句：独立的拆解页（不再跳回原文） ----------
+let parseNav = null;
+function openParse(list, i){ parseNav = { list, i, mod: null }; show('parse'); renderParseView(); }
+function parseRowsNow(){
+  const all = allSents();
+  return all.filter(r => (!sFilter.year || r.year === sFilter.year) && (!sFilter.type || (sFilter.type === 'drill' ? !!step5Of(r.tid, r.p, r.s) : sFilter.type === 'pre' ? !!parseOf(r.tid, r.p, r.s) : !parseOf(r.tid, r.p, r.s))));
+}
+function renderParseView(){
+  if(!parseNav || !parseNav.list.length){ show('sent'); renderSent(); return; }
+  const r = parseNav.list[parseNav.i];
+  const box = document.getElementById('parsebox');
+  const raw = sentText(r.tid, r.p, r.s);
+  const pre = parseOf(r.tid, r.p, r.s);
+  const cn = trOf(r.tid, r.p, r.s);
+  const can = !!step5Of(r.tid, r.p, r.s);
+  const rec = (prefs.drill || {})[drillKey(r.tid, r.p, r.s)];
+  document.getElementById('parse-label').textContent = `${r.label} · P${r.p+1} 第 ${r.s+1} 句`;
+  let body;
+  if(pre && pre.core){
+    const toks = raw.split(' '); let off = 0;
+    const rng = toks.map(tk => { const a = off; off += tk.length + 1; return [a, a + tk.length]; });
+    const core = new Set(); let pos = 0;
+    pre.core.forEach(c => { const j = raw.indexOf(c, pos); if(j < 0) return; pos = j + c.length; rng.forEach(([a, b], i) => { if(a < j + c.length && b > j) core.add(i); }); });
+    const sentHtml = toks.map((tk, i) => `<span class="tk ${core.has(i) ? 'core' : 'g'}" data-i="${i}">${esc(tk)}</span>`).join(' ');
+    const fq = pre.freq === '高频' ? 1 : pre.freq === '中频' ? 2 : 3;
+    const mods = pre.mods || [];
+    const steps = [];
+    steps.push(`<li><div class="fh">先找主干 <span>· 上面原句里加粗的就是</span></div><div class="pa-trunk">${esc(pre.trunk || '')}</div><div class="fb">${esc(pre.why || '')}</div></li>`);
+    steps.push(`<li><div class="fh">把修饰挂回去 <span>· 点一条，上面原句标黄的是它，蓝色下划线是它修饰的词</span></div>${mods.length ? mods.map((m, i) => `<button class="modi${parseNav.mod === i ? ' on' : ''}" data-m="${i}"><div class="mt">${i + 1}. ${esc(m.t)}</div><div class="ar">→ 修饰／补充 <b>${esc(m.to)}</b><span class="rl">${esc(m.role)}</span></div><div class="cn">${esc(m.cn)}</div></button>`).join('') : '<div class="fb muted">这句没有需要挂回去的修饰，主干就是整句。</div>'}</li>`);
+    if(pre.point) steps.push(`<li><div class="fh">这句难在哪</div><div class="fb">${esc(pre.point)}</div></li>`);
+    if(pre.remember) steps.push(`<li><div class="fh">要记住的</div><div class="fb">${esc(pre.remember)}</div></li>`);
+    if(pre.spot) steps.push(`<li><div class="fh">以后怎么认</div><div class="fb">${esc(pre.spot)}</div></li>`);
+    body = `<div class="pa-head"><span class="pa-type">${esc(pre.type || '')}</span><span class="pa-freq f${fq}">${esc(pre.freq || '')}</span>${rec && rec.n ? `<span class="an-tag" style="background:var(--accent-soft);color:var(--accent)">闯过 ${rec.n} 次</span>` : ''}</div>
+      ${pre.freqWhy ? `<div class="pa-fw">常见程度（经验判断）：${esc(pre.freqWhy)}</div>` : ''}
+      <div class="pa-sent">${sentHtml}</div>
+      <ol class="flow">${steps.map((x, i) => x.replace('<div class="fh">', `<div class="fh">${CIRC[i]} `)).join('')}</ol>
+      <div class="pa-cn" style="margin-top:14px">${esc(cn || '（这句暂无译文）')}</div>`;
+  } else {
+    const toks = analyze(raw);
+    const stripped = trunkText(toks);
+    body = `<div class="pa-sent">${toks.map(x => `<span class="${x.r === 'mod' ? 'g' : 'core'}">${esc(x.t)}</span>`).join(' ')}</div>
+      <div class="pa-step">
+        <div class="stp"><b>第一步 · 划掉修饰</b><span class="small muted">${toks.weak ? '这句结构比较特殊（倒装、省略之类），程序没把握，没敢划——自己找主语和谓语试试。' : '灰掉的是介词短语、从句和两个逗号夹住的插入语，它们永远不是主语和谓语。'}</span></div>
+        ${toks.weak ? '' : `<div class="stp"><b>第二步 · 剩下的就是主干</b><div class="pa-sent" style="margin:4px 0 0"><span class="core">${esc(stripped)}</span></div></div>`}
+      </div>
+      <div class="miss" style="margin-top:12px">这句还没有人工细拆，上面是程序自动划的，可能不准。</div>
+      <div class="pa-cn" style="margin-top:12px">${esc(cn || '（这句暂无译文）')}</div>`;
+  }
+  box.innerHTML = body + `<div class="pnav"><button class="btn ghost" id="p-prev"${parseNav.i ? '' : ' disabled'}>← 上一条</button><span class="n">${parseNav.i + 1} / ${parseNav.list.length}</span><button class="btn ghost" id="p-next"${parseNav.i >= parseNav.list.length - 1 ? ' disabled' : ''}>下一条 →</button></div>
+    <div class="pacts">${can ? '<button class="btn primary" id="p-drill">闯关 ›</button>' : ''}<button class="btn" id="p-src">去看原文</button><button class="btn ghost" id="p-del">懂了 · 删掉</button></div>`;
+  const on = (id, fn) => { const el = box.querySelector(id); if(el) el.addEventListener('click', fn); };
+  on('#p-prev', () => { if(parseNav.i){ parseNav.i--; parseNav.mod = null; renderParseView(); window.scrollTo(0, 0); } });
+  on('#p-next', () => { if(parseNav.i < parseNav.list.length - 1){ parseNav.i++; parseNav.mod = null; renderParseView(); window.scrollTo(0, 0); } });
+  on('#p-drill', () => startDrill(r.tid, r.p, r.s));
+  on('#p-src', () => { openExam(r.tid, 'read'); setTimeout(() => pickSentence(r.p + ':' + r.s), 80); });
+  on('#p-del', () => {
+    Object.values(attempts).forEach(a => { if(a.textId === r.tid) a.sentences = a.sentences.filter(x => !(x.p === r.p && x.s === r.s)); });
+    const n = notes[r.tid]; if(n) n.sentences = n.sentences.filter(x => !(x.p === r.p && x.s === r.s));
+    touch(); toast('已从长难句里删掉');
+    parseNav.list.splice(parseNav.i, 1);
+    if(!parseNav.list.length){ show('sent'); renderSent(); return; }
+    if(parseNav.i >= parseNav.list.length) parseNav.i = parseNav.list.length - 1;
+    parseNav.mod = null; renderParseView();
+  });
+  box.querySelectorAll('.modi').forEach(b => b.addEventListener('click', () => {
+    const i = +b.dataset.m;
+    parseNav.mod = parseNav.mod === i ? null : i;
+    box.querySelectorAll('.modi').forEach(x => x.classList.remove('on'));
+    box.querySelectorAll('.pa-sent .tk').forEach(x => x.classList.remove('hl', 'tg'));
+    if(parseNav.mod == null) return;
+    b.classList.add('on');
+    const m = pre && pre.mods[i]; if(!m) return;
+    const h = modRanges(raw, m);
+    box.querySelectorAll('.pa-sent .tk').forEach(x => { const k = +x.dataset.i; if(h.mod.has(k)) x.classList.add('hl'); else if(h.to.has(k)) x.classList.add('tg'); });
+  }));
+}
+document.getElementById('btn-parse-back').addEventListener('click', () => { parseNav = null; show('sent'); renderSent(); });
+
+// ---------- 长难句列表：整条点开就是拆解 ----------
+function renderSent(){
+  const all = allSents();
+  const yrs = [...new Set(TEXTS.map(t => t.id.split('-')[0]))];
+  const f = document.getElementById('sent-filters');
+  f.innerHTML = `<select id="s-year"><option value="">全部年份</option>${yrs.map(y => `<option value="${y}"${sFilter.year === y ? ' selected' : ''}>${y}</option>`).join('')}</select>
+    <select id="s-has"><option value="">全部</option><option value="drill"${sFilter.type === 'drill' ? ' selected' : ''}>能闯关</option><option value="pre"${sFilter.type === 'pre' ? ' selected' : ''}>已有细拆</option><option value="no"${sFilter.type === 'no' ? ' selected' : ''}>还没细拆</option></select>
+    <button class="btn primary" id="s-start" style="margin-left:auto;padding:7px 14px">按排期练 ›</button>`;
+  f.querySelector('#s-year').addEventListener('change', e => { sFilter.year = e.target.value; renderSent(); });
+  f.querySelector('#s-has').addEventListener('change', e => { sFilter.type = e.target.value; renderSent(); });
+  f.querySelector('#s-start').addEventListener('click', () => startSentBatch());
+  const rows = parseRowsNow();
+  const pre = all.filter(r => parseOf(r.tid, r.p, r.s)).length;
+  const dr = drillableSents(all).length;
+  const es = [0,0,0,0,0]; let ran = 0;
+  Object.values(prefs.drill || {}).forEach(x => { ran += x.n || 0; (x.e || []).forEach((v, i) => es[i] += v); });
+  const worst = es.some(x => x) ? es.indexOf(Math.max(...es)) + 1 : null;
+  document.getElementById('sent-stats').innerHTML = `<span class="stat"><b>${all.length}</b>总句数</span><span class="stat"><b>${dr}</b>能闯关</span><span class="stat"><b>${pre}</b>已有细拆</span><span class="stat"><b>${ran}</b>闯过</span>${worst ? `<span class="stat"><b>第 ${worst} 步</b>最常错</span>` : ''}`;
+  const box = document.getElementById('slist');
+  if(!rows.length){ box.innerHTML = '<div class="empty">还没有标过的长难句。做题时点句首圆点、精读时点句子编号都可以标。</div>'; return; }
+  box.innerHTML = rows.map((r, i) => {
+    const can = !!step5Of(r.tid, r.p, r.s);
+    const rec = (prefs.drill || {})[drillKey(r.tid, r.p, r.s)];
+    return `<div class="sitem tap" data-i="${i}">
+      <div class="en">${esc(r.text)}</div>
+      <div class="mt"><span>${esc(r.label)} · P${r.p+1} 第 ${r.s+1} 句</span><span>${r.src}标的</span>${rec && rec.n ? `<span class="an-tag" style="background:var(--accent-soft);color:var(--accent)">闯过 ${rec.n} 次</span>` : ''}${parseOf(r.tid, r.p, r.s) ? '<span class="an-tag" style="background:var(--ok-soft);color:var(--ok)">有细拆</span>' : ''}<span class="go">点开看拆解 ›</span>${can ? `<button class="x" data-drill="${i}">闯关</button>` : ''}<button class="x" data-del="${i}">懂了 · 删掉</button></div>
+    </div>`; }).join('');
+  box.querySelectorAll('.sitem').forEach(el => el.addEventListener('click', e => {
+    if(e.target.closest('button')) return;
+    openParse(rows.slice(), +el.dataset.i);
+  }));
+  box.querySelectorAll('[data-drill]').forEach(b => b.addEventListener('click', () => { const r = rows[+b.dataset.drill]; startDrill(r.tid, r.p, r.s); }));
+  box.querySelectorAll('[data-del]').forEach(b => b.addEventListener('click', () => {
+    const r = rows[+b.dataset.del];
+    Object.values(attempts).forEach(a => { if(a.textId === r.tid) a.sentences = a.sentences.filter(s => !(s.p === r.p && s.s === r.s)); });
+    const n = notes[r.tid]; if(n) n.sentences = n.sentences.filter(s => !(s.p === r.p && s.s === r.s));
+    touch(); renderSent(); toast('已从长难句里删掉');
+  }));
+}
+// ---------- 两张表各自挂在生词页和长难句页的 tab 上 ----------
+document.getElementById('vocab-tails').innerHTML = `<div class="tbody flat">${tailsWord()}</div>`;
+document.getElementById('sent-tails').innerHTML = `<div class="tbody flat">${tailsConn()}</div>`;
+document.querySelectorAll('.subtabs').forEach(bar => {
+  bar.querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
+    const grp = bar.dataset.grp, sub = b.dataset.sub;
+    bar.querySelectorAll('button').forEach(x => x.setAttribute('aria-selected', String(x === b)));
+    document.getElementById(grp + '-main').classList.toggle('hide', sub !== 'list');
+    document.getElementById(grp + '-tails').classList.toggle('hide', sub !== 'tails');
+    window.scrollTo(0, 0);
+  }));
+});
 
 // ---------- 初始化与平滑迁移（不清她已有的任何记录） ----------
 function initSched(){
