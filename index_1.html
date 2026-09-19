@@ -558,6 +558,424 @@ code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;backgrou
 .pnav .n{color:var(--ink-3);font-size:13px;margin:0 auto}
 .pacts{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
 
+/* ==========================================================
+   v6 体验层：可读性、触控、手机/iPad
+   只覆盖观感，不动任何结构和逻辑
+   ========================================================== */
+:root{
+  --r-sm:10px; --r-md:14px; --r-lg:20px; --r-xl:26px;
+  --ease:cubic-bezier(.32,.72,0,1);
+  --shadow:0 1px 2px rgba(40,36,25,.05), 0 6px 16px -6px rgba(40,36,25,.10), 0 18px 40px -24px rgba(40,36,25,.16);
+  --shadow-lift:0 2px 4px rgba(40,36,25,.06), 0 10px 26px -8px rgba(40,36,25,.14), 0 28px 60px -30px rgba(40,36,25,.22);
+  --hair:color-mix(in srgb, var(--line) 70%, transparent);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 8px 24px -8px rgba(0,0,0,.55);
+  --shadow-lift:0 2px 6px rgba(0,0,0,.55), 0 16px 40px -12px rgba(0,0,0,.6);
+}}
+:root[data-theme="dark"]{
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 8px 24px -8px rgba(0,0,0,.55);
+  --shadow-lift:0 2px 6px rgba(0,0,0,.55), 0 16px 40px -12px rgba(0,0,0,.6);
+}
+
+/* ---------- 字体与中文行距 ---------- */
+body{
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"PingFang SC","HarmonyOS Sans SC","Source Han Sans SC","Noto Sans SC","Microsoft YaHei",sans-serif;
+  font-size:16px; line-height:1.75; letter-spacing:.005em;
+}
+h1{font-size:27px;line-height:1.25;margin:10px 0 6px}
+h2{font-size:12.5px;letter-spacing:.12em;margin:30px 0 12px}
+.small{font-size:14px;line-height:1.7}
+p.muted.small{line-height:1.8;max-width:62ch}
+
+/* ---------- 按钮手感：统一圆角、按下回弹、可见焦点 ---------- */
+.btn,.toggle,.chip,.tierpick button,.wtabs button,.rounds button,.tabs button,.subtabs button,
+.quizopts button,.modi,.sugg button,.qtrow,.sitem.tap,.tcard,.hrow,.posbtns .btn,.dchoose .btn{
+  transition:transform .18s var(--ease), background-color .18s var(--ease), border-color .18s var(--ease), box-shadow .18s var(--ease);
+}
+.btn{border-radius:var(--r-md);padding:11px 18px}
+.btn:active,.quizopts button:active,.modi:active,.tcard:active,.sitem.tap:active,.posbtns .btn:active,.dchoose .btn:active{transform:scale(.985)}
+.btn.primary{box-shadow:0 1px 2px rgba(0,0,0,.08), 0 6px 16px -8px var(--accent)}
+.btn.ghost{border-color:var(--hair)}
+.btn:focus-visible,.dtk:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:8px}
+@media (prefers-reduced-motion:reduce){*{transition-duration:.01ms!important}}
+
+/* ---------- 卡片统一质感 ---------- */
+.tcard,.q,.card,.hrow,.sitem,.grp,.side,.modal-card,.fc{border-color:var(--hair)}
+.tcard,.sitem{border-radius:var(--r-md);box-shadow:0 1px 2px rgba(40,36,25,.04)}
+.tcard:hover,.sitem.tap:hover{box-shadow:var(--shadow)}
+
+/* ---------- 顶栏 ---------- */
+.top{padding:12px 18px;padding-top:calc(12px + env(safe-area-inset-top));gap:12px;
+  background:color-mix(in srgb, var(--paper) 88%, transparent);backdrop-filter:saturate(1.6) blur(14px);border-bottom-color:var(--hair)}
+.brand{font-size:18px}
+.tabs{padding:4px;border-radius:var(--r-md);gap:3px}
+.tabs button{padding:8px 14px;border-radius:10px;font-size:14.5px}
+.tabs button[aria-selected="true"]{box-shadow:0 1px 2px rgba(40,36,25,.08)}
+
+/* ---------- 页内次级 tab ---------- */
+.subtabs{gap:4px;margin:2px 0 20px;border-bottom-color:var(--hair)}
+.subtabs button{padding:10px 16px;font-size:15px}
+
+/* ---------- 统计条：数字是主角 ---------- */
+.stats{gap:22px;font-size:13.5px;margin-bottom:18px}
+.stats b{font-size:21px;line-height:1.15;display:block}
+.stat{gap:2px}
+.filters{gap:10px;margin-bottom:16px}
+.filters select,.filters input[type=search]{font-size:14.5px;padding:9px 13px;border-radius:var(--r-sm);border-color:var(--hair)}
+
+/* ---------- 两张表（词尾表 / 连接词表） ---------- */
+.tails{border-radius:var(--r-md);border-color:var(--hair)}
+.tails>summary{padding:14px 16px;font-size:15px}
+.tails .tbody{padding:4px 16px 18px}
+.tbody.flat{padding:0}
+.tails .tsec,.tbody.flat .tsec{margin-top:26px}
+.tbody.flat .tsec:first-child{margin-top:0}
+.tails h5,.tbody.flat h5{font-size:15px;color:var(--ink);font-weight:600;margin:0 0 12px;letter-spacing:0;padding-bottom:8px;border-bottom:1px solid var(--hair)}
+.tails h5 .tag{font-size:11.5px;padding:3px 9px;letter-spacing:.02em}
+.trow{display:grid;grid-template-columns:76px minmax(0,1fr);gap:14px;padding:11px 0;border-top:1px dashed var(--hair);align-items:start}
+.trow:first-of-type{border-top:0}
+.tk2{flex:none;font-size:13.5px;color:var(--accent);font-weight:600;padding-top:3px}
+.trow b{font-size:15px;line-height:1.7;font-weight:600;word-break:break-word}
+.trow .small{margin-top:3px;font-size:13.5px;line-height:1.7}
+/* 三类从句：竖排卡片，一类一行 */
+.clist{list-style:none;margin:12px 0 0;padding:0;display:grid;gap:10px;counter-reset:cl}
+.clist li{counter-increment:cl;position:relative;padding:13px 15px 13px 46px;border-radius:var(--r-sm);
+  background:var(--paper);border:1px solid var(--hair);font-size:14.5px;line-height:1.85}
+.clist li::before{content:counter(cl);position:absolute;left:14px;top:13px;width:22px;height:22px;border-radius:50%;
+  background:var(--accent-soft);color:var(--accent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center}
+.clist li b{display:block;margin-bottom:2px;font-size:15px}
+.tnote{margin-top:12px;padding:12px 14px;border-radius:var(--r-sm);background:var(--paper);font-size:14px;line-height:1.85;border:1px solid var(--hair)}
+.tnote.hi{border-color:var(--accent);background:var(--accent-soft)}
+.tnote i{font-family:"IBM Plex Mono",ui-monospace,monospace;font-style:normal;color:var(--accent)}
+.tbody.flat .tnote{background:var(--paper-2)}
+
+/* ---------- 生词表 ---------- */
+table{font-size:15px}
+th,td{padding:11px 12px}
+td.wd{font-size:18px}
+.grp>summary{padding:13px 16px;font-size:15px}
+
+/* ---------- 长难句列表 ---------- */
+.slist{gap:12px}
+.sitem{padding:15px 17px;gap:10px}
+.sitem .en{font-size:17px;line-height:1.75}
+.sitem .mt{font-size:13px;gap:8px 12px;color:var(--ink-2)}
+.sitem .mt .go{font-size:13.5px}
+.sitem .mt .x{color:var(--ink-2);padding:7px 13px;border-radius:9px;border-color:var(--hair);font-size:13px;font-weight:500;margin-left:0}
+.sitem .mt .x:first-of-type{margin-left:auto}
+.sitem.tap:hover .go{text-decoration:underline}
+
+/* ---------- 独立拆解页 ---------- */
+#parsebox,#drillbox{max-width:760px;margin:0 auto}
+.pa-sent{font-size:19px;line-height:2}
+.pa-head{margin-bottom:8px}
+.pa-type{font-size:15.5px}
+.flow{gap:18px}
+.flow>li{border-left-width:3px;padding-left:14px}
+.flow .fh{font-size:13px;margin-bottom:7px}
+.flow .fb{font-size:15px;line-height:1.85}
+.pa-trunk{font-size:17px;line-height:1.7;margin-bottom:7px}
+.modi{border-radius:var(--r-sm);padding:12px 14px;margin-top:9px;border-color:var(--hair)}
+.modi .mt{font-size:15.5px;line-height:1.6}
+.modi .ar{font-size:13.5px;margin-top:5px}
+.modi .cn{font-size:14px;line-height:1.8;margin-top:5px}
+.modi .rl{font-size:11.5px;padding:2px 7px}
+.pa-cn{border-radius:var(--r-sm);padding:13px 15px;font-size:15px;line-height:1.9}
+.pnav{margin-top:24px;padding-top:18px;border-top-color:var(--hair)}
+.pnav .n{font-size:14px}
+.pacts{margin-top:14px}
+.miss{font-size:14px;line-height:1.8;padding:12px 14px}
+
+/* ---------- 考我 ---------- */
+.quiz{gap:18px;max-width:640px}
+.quiz .qsent{font-size:20px;line-height:1.95;padding:20px 22px;border-radius:var(--r-md)}
+.quiz .blank{min-width:88px}
+.quizopts{gap:10px}
+.quizopts button{padding:14px 16px;border-radius:var(--r-sm);font-size:16.5px;border-color:var(--hair)}
+.quizopts button:hover:not(:disabled){border-color:var(--accent);background:var(--paper-2)}
+.quizopts .qm{font-size:13.5px;margin-top:4px;line-height:1.65}
+.posq{padding:18px;border-radius:var(--r-md);border-color:var(--hair)}
+.posq .lb{font-size:16px;margin-bottom:14px}
+.posbtns{gap:10px}
+.posbtns .btn{padding:13px 20px;border-radius:var(--r-sm);font-size:16px;border-color:var(--hair);flex:1 1 auto}
+.posbtns .btn:hover{border-color:var(--accent);background:var(--accent-soft)}
+.posfb{font-size:15px;line-height:1.8;padding:13px 15px;border-radius:var(--r-sm)}
+.posfb .small{font-size:13.5px;margin-top:5px}
+.qwhy{padding:13px 15px;border-radius:var(--r-sm);font-size:15px;line-height:1.85}
+.qcn{padding:13px 15px;border-radius:var(--r-sm);font-size:15px;line-height:1.85}
+.quizbar{font-size:13.5px;gap:12px}
+
+/* ---------- 单词卡 ---------- */
+.fcwrap{max-width:580px;gap:16px}
+.fc{border-radius:var(--r-xl);padding:26px 24px;min-height:340px;gap:12px;
+  box-shadow:var(--shadow);background:linear-gradient(180deg,color-mix(in srgb,var(--paper) 96%,var(--accent-soft)) 0%,var(--paper) 42%)}
+.fc:hover{box-shadow:var(--shadow-lift)}
+.fc .fw{font-size:44px;line-height:1.08;margin-top:10px;letter-spacing:-.015em}
+.fc .fp{font-size:15px;margin-top:-2px}
+.fc .mean{font-size:18.5px;line-height:1.75}
+.fc .hint{font-size:13.5px;padding-bottom:4px}
+.fc .ctxs{font-size:16.5px;line-height:1.8;margin-top:12px;padding-top:12px;border-top:1px solid var(--hair)}
+.fc .ctxcn{font-size:14px;line-height:1.8;margin-top:6px}
+.fc .lemma{margin-top:4px}
+.fcnav{gap:12px}
+.fcnav .n{font-size:14px}
+.fcgrade{gap:12px}
+.fcgrade .btn{flex:1;text-align:center;padding:13px 18px;font-size:16px}
+.fcacts .btn{padding:11px 16px}
+.posask{gap:9px;margin-top:14px;padding-top:14px;border-top:1px solid var(--hair)}
+.posask .lb{font-size:14px;margin-bottom:2px}
+.btn.tiny{padding:9px 15px;font-size:14.5px;border-radius:var(--r-sm);border-color:var(--hair)}
+.btn.tiny:hover{border-color:var(--accent);background:var(--accent-soft)}
+.posres{padding:10px 13px;border-radius:var(--r-sm);font-size:15px;gap:10px}
+.posres b{font-size:16px}
+.posres .rs{font-size:13px}
+.partnote{padding:12px 14px;border-radius:var(--r-sm);font-size:14px;line-height:1.85}
+
+/* ---------- 五步闯关 ---------- */
+.dhead{margin-bottom:10px}
+.dstep{font-size:16.5px}
+.ddots i{width:10px;height:10px}
+.dhint{font-size:13.5px;line-height:1.75;padding:10px 13px;border-radius:var(--r-sm);margin-bottom:16px}
+.dsent{font-size:21px;line-height:2.35;margin-bottom:18px}
+.dtk{padding:4px 4px;margin:0 1px;border-radius:7px}
+.dtk:hover{background:var(--accent-soft)}
+.dmsg{font-size:15px;line-height:1.85;padding:13px 15px;border-radius:var(--r-sm)}
+.dmsg .rule{font-size:14px;line-height:1.8;margin-top:8px}
+.dchoose{padding:14px 16px;border-radius:var(--r-md);gap:12px;font-size:16px}
+.dchoose .btn{padding:12px 22px;font-size:16px;border-color:var(--hair)}
+.dchoose .btn:hover{border-color:var(--accent);background:var(--accent-soft)}
+.dnote{padding:13px 15px;border-radius:var(--r-sm);font-size:15px;line-height:1.85}
+.dseg{padding:12px 14px;border-radius:var(--r-sm);font-size:15px;line-height:1.8;border-color:var(--hair)}
+.dseg b{font-size:12.5px;margin-bottom:4px;letter-spacing:.04em}
+.dchip{padding:11px 13px;border-radius:var(--r-sm);gap:10px;font-size:15px}
+.dslots{gap:12px;margin:14px 0}
+.dslot{padding:13px 15px;border-radius:var(--r-sm)}
+.dslot .sl{font-size:12.5px;margin-bottom:3px;letter-spacing:.04em}
+.dslot b{font-size:17px;line-height:1.5}
+.dmod{padding:12px 14px;border-radius:var(--r-sm);font-size:15px;line-height:1.75}
+.dmod .cat{font-size:11.5px;padding:3px 9px}
+.dmod .cn{font-size:14px;line-height:1.8;margin-top:5px}
+.dcn{padding:13px 15px;border-radius:var(--r-sm);font-size:15px;line-height:1.9}
+.dact{gap:12px;margin-top:10px}
+
+/* ---------- 设置里的额度 ---------- */
+.planrow{gap:10px;margin:12px 0;font-size:15px}
+.planrow input[type=number],.planrow input[type=date]{padding:9px 11px;border-radius:var(--r-sm);border-color:var(--hair);font-size:15px}
+.planrow input[type=number]{width:72px}
+.planrow>span:first-child{flex:0 0 66px}
+.modal-card{border-radius:var(--r-lg);padding:24px}
+
+/* ==========================================================
+   触摸设备：所有要点的东西够大、够分得开
+   ========================================================== */
+@media (pointer:coarse){
+  .btn{min-height:46px;padding:12px 20px}
+  .btn.tiny{min-height:44px;padding:11px 16px}
+  .tabs button{min-height:42px;padding:10px 13px}
+  .subtabs button{min-height:46px;padding:12px 16px}
+  .toggle,.chip,.tierpick button,.wtabs button,.rounds button,.filters select{min-height:42px;padding:10px 15px;font-size:14.5px}
+  .sitem .mt .x{min-height:42px;padding:10px 16px;font-size:14px}
+  .quizopts button{min-height:56px;padding:16px}
+  .posbtns .btn{min-height:54px;flex:1 1 calc(50% - 5px)}
+  .dchoose .btn{min-height:52px;flex:1 1 calc(50% - 6px)}
+  .fcgrade .btn,.fcacts .btn{min-height:50px}
+  .dsent{line-height:2.6;font-size:22px}
+  .dtk{padding:7px 5px;margin:0 1px}
+  .sn{min-width:30px;height:30px;font-size:13px;vertical-align:-4px}
+  .dot{width:30px;height:30px;vertical-align:-9px}
+  .dot::after{left:11px;top:11px}
+  .spk{width:40px;height:40px}
+  .spk svg{width:19px;height:19px}
+  .sheet .close{padding:10px 14px;font-size:26px}
+  .cloud{min-height:40px}
+  .modi{padding:14px 16px}
+  .qtrow{padding:13px 14px}
+  .sugg button{padding:13px 14px;min-height:48px}
+  .grp>summary,.tails>summary{min-height:50px}
+}
+
+/* ==========================================================
+   iPad 竖屏及以下
+   ========================================================== */
+@media (max-width:900px){
+  main{padding:18px 18px calc(72px + env(safe-area-inset-bottom))}
+  h1{font-size:25px}
+  .fc{min-height:320px}
+}
+
+/* ==========================================================
+   手机
+   ========================================================== */
+@media (max-width:640px){
+  body{font-size:16px}
+  main{padding:16px 16px calc(80px + env(safe-area-inset-bottom))}
+  h1{font-size:23px;margin:4px 0 4px}
+  h2{margin:24px 0 10px}
+  .top{padding:10px 12px;padding-top:calc(10px + env(safe-area-inset-top));gap:8px}
+  .brand{display:none}
+  .tabs{flex:1;padding:3px}
+  .tabs button{flex:1;padding:9px 4px;font-size:14px;text-align:center}
+  .subtabs button{flex:1;padding:12px 6px;font-size:15px;text-align:center}
+  /* 两张表在窄屏改成上下堆叠 */
+  .trow{grid-template-columns:1fr;gap:4px;padding:12px 0}
+  .tk2{padding-top:0;font-size:12.5px;letter-spacing:.04em}
+  .clist li{padding:12px 14px 12px 42px;font-size:14.5px}
+  .tails .tbody{padding:4px 14px 16px}
+  /* 统计条不换行溢出 */
+  .stats{gap:16px 20px}
+  .stats b{font-size:19px}
+  /* 长难句 */
+  .sitem{padding:14px}
+  .sitem .en{font-size:16.5px}
+  .sitem .mt{gap:8px}
+  .sitem .mt .x{flex:1;text-align:center}
+  .sitem .mt .x:first-of-type{margin-left:0}
+  .sitem .mt .go{width:100%;margin-left:0;order:-1}
+  /* 考我 */
+  .quiz .qsent{font-size:19px;padding:16px 17px;line-height:1.95}
+  .quizopts button{font-size:17px}
+  .posbtns .btn{flex:1 1 calc(50% - 5px)}
+  /* 卡片 */
+  .fc{padding:22px 20px;min-height:300px;border-radius:var(--r-lg)}
+  .fc .fw{font-size:36px}
+  .fc .mean{font-size:17.5px}
+  .fc .ctxs{font-size:16px}
+  .fcnav .btn{padding:11px 12px}
+  /* 闯关 */
+  .dsent{font-size:20px;line-height:2.5}
+  .dstep{font-size:15.5px}
+  .dslot{flex:1 1 100%}
+  .dchip{flex-direction:column;align-items:flex-start}
+  .dchip .btn.tiny{width:100%;text-align:center}
+  .pacts .btn,.dact .btn{flex:1 1 calc(50% - 6px);text-align:center}
+  .pnav .btn{padding:11px 14px}
+  /* 弹层高一点，手机上好读 */
+  .sheet{max-height:76vh;border-radius:22px 22px 0 0;padding:18px 18px calc(20px + env(safe-area-inset-bottom))}
+  .sheet .word{font-size:28px}
+  .modal-card{padding:20px;border-radius:var(--r-md)}
+  .planrow>span:first-child{flex:0 0 100%}
+}
+@media (max-width:400px){
+  .tabs button{font-size:13px;padding:9px 2px}
+  .fc .fw{font-size:32px}
+  .dsent{font-size:19px}
+}
+
+/* ---------- 修补：两张表的标题与条目结构 ---------- */
+.tails h5,.tbody.flat h5{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.clist li{padding:14px 16px 14px 48px;line-height:1.75}
+.clist li b{display:block;margin-bottom:0;font-size:15.5px}
+.clist li i{display:block;font-style:normal;font-size:13.5px;color:var(--ink-2);margin-top:2px}
+.clist li .wd3{display:block;margin-top:7px;font-size:15px;line-height:1.8;color:var(--ink);
+  background:var(--paper-2);border-radius:8px;padding:8px 11px;word-break:break-word}
+.clist li::before{top:15px}
+
+/* ---------- 顶栏：手机上云状态收成圆形图标 ---------- */
+@media (max-width:640px){
+  .cloud{width:38px;height:38px;min-height:38px;padding:0;justify-content:center;border-radius:50%;flex:none}
+  .cloud i{width:10px;height:10px}
+  .top .right{gap:6px}
+}
+
+/* ---------- 单词卡：正面不留大片空 ---------- */
+.fc.front{justify-content:center;min-height:270px}
+.fc.front .fw{margin-top:0}
+.fc.front .hint{margin-top:22px}
+.fc.front .posask{margin-top:22px}
+.fcacts .btn.ghost{flex:0 0 auto;padding:11px 18px}
+.fcacts .btn:first-child{flex:1}
+/* 卡片页的词尾表抽屉低调一点 */
+#view-cards .tails{background:none;border:0}
+#view-cards .tails>summary{padding:8px 2px;font-size:13.5px;color:var(--ink-2)}
+#view-cards .tails>summary .muted{font-size:12.5px}
+#view-cards .tails .tbody{border-top:1px solid var(--hair);background:var(--paper-2);border-radius:var(--r-md);margin-top:6px;padding:14px 16px 18px}
+
+/* ---------- 考我：空格只留一条下划线 ---------- */
+.quiz .blank{border-bottom:2px solid var(--accent);min-width:92px;color:transparent;-webkit-text-fill-color:transparent}
+.quiz .blank.done{color:var(--accent);-webkit-text-fill-color:var(--accent);border-bottom-color:var(--line)}
+.quizopts button{line-height:1.5}
+@media (pointer:coarse){.quizopts button{min-height:52px;padding:14px 16px}}
+
+/* ---------- 闯关：操作提示独立一行 ---------- */
+.dtip{font-size:13.5px;color:var(--accent);margin:-8px 0 14px;font-weight:500}
+.dact .btn{min-width:140px}
+@media (max-width:640px){.dact .btn{flex:1 1 100%}}
+
+/* ---------- 修饰条目：看得出可以点 ---------- */
+.modi{position:relative;padding-right:40px}
+.modi::after{content:"›";position:absolute;right:15px;top:50%;transform:translateY(-50%);color:var(--ink-3);font-size:20px;line-height:1;transition:transform .2s var(--ease),color .2s var(--ease)}
+.modi:hover{border-color:var(--accent);background:var(--paper-2)}
+.modi:hover::after{color:var(--accent);transform:translateY(-50%) translateX(3px)}
+.modi.on{background:var(--accent-soft)}
+.modi.on::after{content:"×";color:var(--accent)}
+
+/* ---------- 闯关：步骤头与剩余数 ---------- */
+.dhead{flex-wrap:wrap;row-gap:8px}
+.dleft{font-size:14.5px;color:var(--ink-2)}
+.dleft b{color:var(--accent);font-size:17px;margin:0 2px}
+@media (max-width:640px){
+  .dhead{flex-direction:column;align-items:flex-start;gap:8px}
+  .ddots{margin-left:0}
+  .dstep{line-height:1.45}
+}
+
+/* ---------- 闯关 v2：一步一件事，说清楚做什么 ---------- */
+.dorder{font-size:16px;line-height:1.8;margin:2px 0 14px;color:var(--ink)}
+.dorder b{color:var(--accent);font-weight:600}
+.dwhy{margin-top:22px;border-top:1px solid var(--hair);padding-top:12px}
+.dwhy>summary{cursor:pointer;font-size:13.5px;color:var(--ink-3);list-style:none}
+.dwhy>summary::-webkit-details-marker{display:none}
+.dwhy>summary::before{content:"▸ ";font-size:11px}
+.dwhy[open]>summary::before{content:"▾ "}
+.dwhy>div{margin-top:8px;font-size:13.5px;line-height:1.8;color:var(--ink-2);padding:10px 13px;background:var(--paper-2);border-radius:var(--r-sm)}
+/* 句子上的标记：每步的成果留在句子上 */
+.dsent{margin-bottom:16px}
+.dtk.wall{background:var(--ink);color:var(--paper);font-weight:600}
+.dtk.coord{background:var(--paper-2);box-shadow:inset 0 -2px 0 var(--ink-3)}
+.dtk.sub{box-shadow:inset 0 -2px 0 var(--accent);color:var(--accent);font-weight:600}
+/* 第 3 步起：句子真的被切开，一段一块 */
+.dsegs2{display:grid;gap:10px}
+.dsegline{display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:start;
+  padding:14px 16px;border-radius:var(--r-md);border:1px solid var(--hair);background:var(--paper)}
+.dsegline .sgn{font-size:12.5px;font-weight:700;color:var(--accent);letter-spacing:.04em;
+  white-space:nowrap;padding:4px 10px;border-radius:99px;background:var(--accent-soft);margin-top:4px}
+.dsegline.sg1 .sgn{background:var(--unk);color:var(--unk-ink)}
+.dsegline .sgt{font-family:"Source Serif 4",Georgia,serif}
+.dsegline.cur{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.dsegline.off{opacity:.3;pointer-events:none}
+.dwall{display:flex;align-items:center;justify-content:center;gap:12px;margin:0 auto;
+  font-family:"Source Serif 4",Georgia,serif;font-size:19px}
+.dwall .cap{display:inline-flex;align-items:stretch;border-radius:99px;overflow:hidden;background:var(--ink)}
+.dwall .wl{display:flex;align-items:center;font-family:"IBM Plex Sans",sans-serif;font-size:11.5px;font-weight:700;
+  letter-spacing:.12em;color:var(--paper);opacity:.62;padding:5px 4px 5px 13px}
+.dwall .cap .dtk{color:var(--paper);background:none;padding:5px 15px 5px 6px;margin:0;border-radius:0;font-weight:600}
+.dwall .cap .dtk:hover{background:none}
+.dwall::before,.dwall::after{content:"";height:1px;width:52px;background:var(--line)}
+/* 第 3 步：动词 → 选段 */
+.dchips{gap:10px}
+.dchip{flex-wrap:wrap;background:var(--paper);border:1px solid var(--hair)}
+.dchip>b{font-family:"Source Serif 4",Georgia,serif;font-size:17px;color:var(--accent);flex:0 0 auto}
+.dchip .ask{font-size:14.5px;color:var(--ink-2)}
+.dmsg.ans{background:var(--paper-2);color:var(--ink-2);border-left:3px solid var(--line)}
+.dmsg.ans b{color:var(--ink)}
+.dchip .rl{font-size:14.5px;color:var(--ink-2);font-weight:600}
+.dchip.ok{background:var(--ok-soft);border-color:transparent}
+.dchip.ok .rl{color:var(--ok)}
+.dchip.bad{background:var(--bad-soft);border-color:transparent}
+.dchip.bad .rl{color:var(--bad)}
+/* 第 4 步：格子 */
+.dslot.filled{border-style:solid;border-color:var(--hair);background:var(--paper)}
+.dslot.cur{box-shadow:0 0 0 3px var(--accent-soft)}
+@media (max-width:640px){
+  .dchip{flex-direction:row;align-items:center}
+  .dchip .ask{width:100%;margin:0 0 6px;order:-1}
+  .dchip>b{width:100%;margin-bottom:6px}
+  .dchip .btn.tiny{flex:1;width:auto}
+  .dchip .rl{margin-left:0}
+  .dorder{font-size:15.5px}
+}
+
 </style>
 </head>
 <body>
@@ -2421,7 +2839,7 @@ function progressBar(kind, i, total){
 }
 
 // ---------- ③ 长难句·五步闯关 ----------
-const STEPN = ['圈出所有带时态的动词', '找出连接词，判并列还是从句', '按连接词切段，把动词分到段里', '每段找骨架：谁 · 做 · 什么', '把剩下的括掉'];
+const STEPN = ['圈出带时态的动词', '判连接词：并列还是从句', '把动词分到段里', '每段找骨架', '把剩下的括掉'];
 const STEPHINT = [
   '"做"可以是几个词合起来：is drinking / are patented / have finished / may celebrate',
   '并列只有四个：and / but / or / so。其余都是从句。',
@@ -2440,30 +2858,83 @@ function startDrill(tid, p, s){
   const d = step5Of(tid, p, s); if(!d){ toast('这句还没有闯关数据，先看拆解'); return; }
   const raw = sentText(tid, p, s);
   drill = { tid, p, s, k: drillKey(tid, p, s), raw, toks: raw.split(' '), d,
-    step: 1, sel: new Set(), conn: {}, assign: {}, core: {}, seg: 0, slot: 'w', grey: new Set(),
-    err: [0,0,0,0,0], msg: '', msgCls: '', done5: false };
+    step: 1, sel: new Set(), miss: null, extra: null, conn: {}, pick: null,
+    assign: {}, core: {}, seg: 0, slot: 'w', grey: new Set(),
+    err: [0,0,0,0,0], msg: '', msgCls: '', done5: false, batch: false };
   show('drill'); renderDrill();
 }
-function drillTokHtml(){
-  const { toks, step, sel, grey, d } = drill;
-  const inV = i => d.v.some(g => g.includes(i));
-  return toks.map((t, i) => {
-    let cls = 'dtk';
-    if(step === 1 && sel.has(i)) cls += ' pick';
-    if(step === 1 && drill.miss && drill.miss.has(i)) cls += ' miss';
-    if(step === 1 && drill.extra && drill.extra.has(i)) cls += ' over';
-    if(step === 2){ if(drill.conn[i]) cls += ' done'; }
-    if(step >= 3 && inV(i)) cls += ' verb';
-    if(step === 4){
-      const c = drill.core[drill.seg];
-      if(c && c.w != null && c.w === i) cls += ' who';
-      if(c && c.o != null && c.o === i) cls += ' what';
-    }
-    if(step === 5 && grey.has(i)) cls += ' grey';
-    return `<span class="${cls}" data-i="${i}">${esc(t)}</span>`;
-  }).join(' ');
-}
+function say(m, cls){ drill.msg = m; drill.msgCls = cls || ''; }
+function goStep(n, m, cls){ drill.step = n; drill.msg = m || ''; drill.msgCls = cls || ''; drill.pick = null; }
 function segLabel(i){ return '第 ' + (i + 1) + ' 段'; }
+
+// 句子上的标记：每做完一步，成果就留在句子上，不靠文字堆
+function tokCls(i){
+  const { step, sel, grey, d } = drill;
+  const inV = i2 => d.v.some(g => g.includes(i2));
+  const mine = drill.core[drill.seg] || {};
+  const c = ['dtk'];
+  if(step === 1){
+    if(sel.has(i)) c.push('pick');
+    if(drill.miss && drill.miss.has(i)) c.push('miss');
+    if(drill.extra && drill.extra.has(i)) c.push('over');
+  }
+  if(step >= 2 && inV(i)) c.push('verb');
+  if(step >= 2){
+    const cc = d.c.find(x => x.i === i && x.kind !== 'skip');
+    if(cc && drill.conn[i]) c.push(cc.kind === '并列' ? (cc.wall ? 'wall' : 'coord') : 'sub');
+  }
+  if(step === 4){
+    if(mine.w != null && mine.w === i) c.push('who');
+    if(mine.o != null && mine.o === i) c.push('what');
+  }
+  if(step === 5 && grey.has(i)) c.push('grey');
+  return c.join(' ');
+}
+const tokHtml = i => `<span class="${tokCls(i)}" data-i="${i}">${esc(drill.toks[i])}</span>`;
+// 第 1、2 步：整句连着看。第 3 步起：把句子按墙真的切开，一段一行
+function drillTokHtml(){
+  const { toks, step, d } = drill;
+  if(step < 3 || d.g.length === 1) return toks.map((t, i) => tokHtml(i)).join(' ');
+  const out = [];
+  d.g.forEach(([a, b], si) => {
+    if(si > 0){
+      const w = [];
+      for(let i = d.g[si-1][1] + 1; i <= a - 1; i++) w.push(tokHtml(i));
+      if(w.length) out.push(`<div class="dwall"><span class="cap"><span class="wl">墙</span>${w.join(' ')}</span></div>`);
+    }
+    const t = [];
+    for(let i = a; i <= b; i++) t.push(tokHtml(i));
+    const off = step === 4 && si !== drill.seg;
+    out.push(`<div class="dsegline sg${si % 2}${off ? ' off' : ''}${step === 4 && si === drill.seg ? ' cur' : ''}"><span class="sgn">第 ${si+1} 段</span><span class="sgt">${t.join(' ')}</span></div>`);
+  });
+  return `<div class="dsegs2">${out.join('')}</div>`;
+}
+// 每一步顶上那句话：现在要你做什么（不是讲概念）
+function drillOrder(){
+  const d = drill.d;
+  switch(drill.step){
+    case 1: return '在下面句子里，把每一个<b>带时态的动词</b>点出来。可多选，点第二次取消。';
+    case 2: {
+      const need = d.c.filter(c => c.kind !== 'skip');
+      const left = need.filter(c => !drill.conn[c.i]).length;
+      if(!need.length) return '这句里没有连接词，直接进下一步。';
+      return drill.pick != null
+        ? `<b>${esc(drill.toks[drill.pick])}</b> 是并列还是从句？点下面的按钮。`
+        : `在句子里点出连接词，点一个判一个。还剩 <b>${left}</b> 个。`;
+    }
+    case 3: return `墙把这句切成了 <b>${d.g.length}</b> 段，上面已经拆开摆好了。下面每个动词，点一下它在哪一段。`;
+    case 4: {
+      const c = d.k[drill.seg];
+      const many = d.g.length > 1;
+      const head = many ? `现在做<b>${segLabel(drill.seg)}</b>（上面亮着的那一段）。` : '';
+      return head + (drill.slot === 'w'
+        ? '在这一段里点出「<b>谁</b>」——就是"做"前面那一块。'
+        : '再点出「<b>什么</b>」——"做"后面那一块；没有就点下面的按钮。');
+    }
+    case 5: return drill.done5 ? '这一步对完了，下面是这句所有的跟班。' : '骨架之外的词都是跟班，点一下变灰，把它们括掉。';
+  }
+  return '';
+}
 function renderDrill(){
   if(!drill) return;
   const box = document.getElementById('drillbox');
@@ -2473,45 +2944,48 @@ function renderDrill(){
   const dots = [1,2,3,4,5].map(n => `<i class="${n < drill.step ? 'ok' : n === drill.step ? 'cur' : ''}"></i>`).join('');
   let body = '';
   if(drill.step === 1){
-    body = `<div class="dact"><button class="btn primary" id="d-sub">对一下</button><span class="small muted">点句子里的词，可多选、点第二次取消</span></div>`;
+    body = `<div class="dact"><button class="btn primary" id="d-sub"${drill.sel.size ? '' : ' disabled'}>对一下</button><button class="btn ghost" id="d-give">不会，看答案</button></div>`;
   } else if(drill.step === 2){
     const need = d.c.filter(c => c.kind !== 'skip');
-    const left = need.filter(c => !drill.conn[c.i]).length;
     body = drill.pick != null
-      ? `<div class="dchoose"><b>${esc(toks[drill.pick])}</b> 是哪种？<button class="btn" data-kind="并列">并列</button><button class="btn" data-kind="从句">从句</button></div>`
-      : `<div class="dact"><span class="small muted">${need.length ? `还剩 ${left} 个连接词没判` : '这句没有连接词'}</span>${need.length ? '' : '<button class="btn primary" id="d-next2">下一步 →</button>'}</div>`;
+      ? `<div class="dchoose"><button class="btn" data-kind="并列">并列</button><button class="btn" data-kind="从句">从句</button></div>`
+      : `<div class="dact">${need.length ? '' : '<button class="btn primary" id="d-next2">下一步 →</button>'}<button class="btn ghost" id="d-give">不会，看答案</button></div>`;
   } else if(drill.step === 3){
-    if(d.g.length === 1){
-      body = `<div class="dnote">这句没有把两套骨架连起来的并列连接词，整句就是一段。</div><div class="dact"><button class="btn primary" id="d-next3">知道了 →</button></div>`;
-    } else {
-      body = `<div class="dsegs">${d.g.map((g, si) => `<div class="dseg"><b>${segLabel(si)}</b><span>${esc(toks.slice(g[0], g[1]+1).join(' '))}</span></div>`).join('')}</div>
-      <div class="dchips">${d.v.map((g, gi) => {
-        const a = drill.assign[gi];
-        return `<div class="dchip ${a != null ? (a === -1 ? 'bad' : 'ok') : ''}"><b>${esc(g.map(i => toks[i]).join(' '))}</b>${a != null && a !== -1 ? `<span class="rl">${segLabel(a)}</span>` : d.g.map((_, si) => `<button class="btn tiny" data-g="${gi}" data-s="${si}">${segLabel(si)}</button>`).join('')}</div>`;
-      }).join('')}</div>`;
-    }
+    body = `<div class="dchips">${d.v.map((g, gi) => {
+      const a = drill.assign[gi];
+      const right = d.g.findIndex(([x, y]) => g[0] >= x && g[0] <= y);
+      return `<div class="dchip ${a != null ? (a === right ? 'ok' : 'bad') : ''}">
+        <b>${esc(g.map(i => toks[i]).join(' '))}</b>
+        ${a != null
+          ? `<span class="rl">${a === right ? '✓ ' : ''}${segLabel(right)}</span>`
+          : `<span class="ask">在哪一段？</span>` + d.g.map((_, si) => `<button class="btn tiny" data-g="${gi}" data-s="${si}">${segLabel(si)}</button>`).join('')}
+      </div>`;
+    }).join('')}</div>
+    <div class="dact"><button class="btn ghost" id="d-give">不会，看答案</button></div>`;
   } else if(drill.step === 4){
     const si = drill.seg, c = d.k[si], g = d.g[si];
     const mine = drill.core[si] || {};
-    body = `<div class="dnote">${d.g.length > 1 ? segLabel(si) + '：' : ''}<b>${esc(toks.slice(g[0], g[1]+1).join(' '))}</b></div>
-      <div class="dslots">
-        <div class="dslot ${drill.slot === 'w' ? 'cur' : ''}"><span class="sl">谁</span><b>${mine.w != null ? esc(toks[mine.w]) : '点一个词'}</b></div>
+    body = `<div class="dslots">
+        <div class="dslot ${drill.slot === 'w' ? 'cur' : ''}${mine.w != null ? ' filled' : ''}"><span class="sl">谁</span><b>${mine.w != null ? esc(toks[mine.w]) : '点一个词'}</b></div>
         <div class="dslot fix"><span class="sl">做</span><b>${esc(c.v.map(i => toks[i]).join(' '))}</b></div>
-        <div class="dslot ${drill.slot === 'o' ? 'cur' : ''}"><span class="sl">什么 / 表语</span><b>${mine.o === -1 ? '这段没有' : mine.o != null ? esc(toks[mine.o]) : '点一个词'}</b></div>
+        <div class="dslot ${drill.slot === 'o' ? 'cur' : ''}${mine.o != null ? ' filled' : ''}"><span class="sl">什么 / 表语</span><b>${mine.o === -1 ? '这段没有' : mine.o != null ? esc(toks[mine.o]) : '点一个词'}</b></div>
       </div>
-      ${drill.slot === 'o' ? '<div class="dact"><button class="btn" id="d-noobj">这段没有"什么"</button></div>' : ''}`;
+      <div class="dact">${drill.slot === 'o' ? '<button class="btn" id="d-noobj">这段没有"什么"</button>' : ''}<button class="btn ghost" id="d-give">不会，看答案</button></div>`;
   } else if(drill.step === 5){
     body = drill.done5
       ? `<div class="dmods">${d.m.map(m => `<div class="dmod"><span class="cat">${esc(m.c)}</span><b>${esc(m.i.map(i => toks[i]).join(' '))}</b>${m.to ? `<span class="ar">→ ${esc(m.to)}</span>` : ''}${m.cn ? `<div class="cn">${esc(m.cn)}</div>` : ''}</div>`).join('')}</div>
          <div class="dcn"><b>整句意思</b>${esc(trOf(drill.tid, drill.p, drill.s) || '（这句暂无译文）')}</div>
          <div class="dact"><button class="btn primary" id="d-fin">收工</button><button class="btn ghost" id="d-again">再来一遍</button></div>`
-      : `<div class="dact"><button class="btn primary" id="d-sub5">对一下</button><span class="small muted">点一下变灰，再点一次取消</span></div>`;
+      : `<div class="dact"><button class="btn primary" id="d-sub5"${drill.grey.size ? '' : ' disabled'}>对一下</button><button class="btn ghost" id="d-give">不会，看答案</button></div>`;
   }
+  const legend = '';
   box.innerHTML = `<div class="dhead"><span class="dstep">第 ${drill.step} 步 / 5 · ${esc(STEPN[drill.step-1])}</span><span class="ddots">${dots}</span></div>
-    <div class="dhint">${esc(STEPHINT[drill.step-1])}</div>
+    <div class="dorder">${drillOrder()}</div>
+    ${legend}
     <div class="dsent" id="dsent">${drillTokHtml()}</div>
     ${drill.msg ? `<div class="dmsg ${drill.msgCls}">${drill.msg}</div>` : ''}
-    ${body}`;
+    ${body}
+    <details class="dwhy"><summary>这一步在干嘛</summary><div>${esc(STEPHINT[drill.step-1])}</div></details>`;
   bindDrill();
 }
 function bindDrill(){
@@ -2520,87 +2994,100 @@ function bindDrill(){
   if(sent) sent.querySelectorAll('.dtk').forEach(el => el.addEventListener('click', () => drillTap(+el.dataset.i)));
   const on = (id, fn) => { const el = box.querySelector(id); if(el) el.addEventListener('click', fn); };
   on('#d-sub', drillCheck1);
-  on('#d-next2', () => { drill.step = 3; drill.msg = ''; renderDrill(); });
-  on('#d-next3', () => { drill.step = 4; drill.seg = 0; drill.slot = 'w'; drill.msg = ''; renderDrill(); });
+  on('#d-next2', () => enterStep3());
   on('#d-noobj', () => drillSlot(-1));
   on('#d-sub5', drillCheck5);
+  on('#d-give', drillReveal);
   on('#d-fin', () => { finishDrill(); afterDrill(); });
   on('#d-again', () => startDrill(drill.tid, drill.p, drill.s));
   box.querySelectorAll('[data-kind]').forEach(b => b.addEventListener('click', () => drillConn(drill.pick, b.dataset.kind)));
   box.querySelectorAll('[data-g]').forEach(b => b.addEventListener('click', () => drillAssign(+b.dataset.g, +b.dataset.s)));
 }
-function say(m, cls){ drill.msg = m; drill.msgCls = cls || ''; }
 function drillTap(i){
   const d = drill.d;
   if(drill.step === 1){ drill.sel.has(i) ? drill.sel.delete(i) : drill.sel.add(i); drill.msg = ''; drill.miss = null; drill.extra = null; renderDrill(); return; }
   if(drill.step === 2){
     const c = d.c.find(x => x.i === i);
-    if(!c){ say(`${esc(drill.toks[i])} 不是连接词。连接词是把两块东西接起来的那种词。`, 'bad'); renderDrill(); return; }
-    if(c.kind === 'skip'){ say(`${esc(drill.toks[i])} 在这句里不是连两套东西的连接词，先不管它。`, ''); renderDrill(); return; }
+    if(!c){ say(`<b>${esc(drill.toks[i])}</b> 不是连接词。连接词是把两块东西接起来的那种词。`, 'bad'); renderDrill(); return; }
+    if(c.kind === 'skip'){ say(`<b>${esc(drill.toks[i])}</b> 在这句里不是连两套东西的连接词，先不管它。`, ''); renderDrill(); return; }
     if(drill.conn[i]){ say('这个已经判过了。', ''); renderDrill(); return; }
     drill.pick = i; drill.msg = ''; renderDrill(); return;
   }
   if(drill.step === 4){
-    const si = drill.seg, c = d.k[si], g = d.g[si];
-    if(i < g[0] || i > g[1]){ say('先只看这一段里的词。', 'bad'); renderDrill(); return; }
+    const g = d.g[drill.seg];
+    if(i < g[0] || i > g[1]) return;          // 段外的词直接点不动，不再报错
     drillSlot(i); return;
   }
   if(drill.step === 5){ drill.grey.has(i) ? drill.grey.delete(i) : drill.grey.add(i); drill.msg = ''; renderDrill(); return; }
 }
+// ---- 第 1 步 ----
 function drillCheck1(){
   const right = new Set(); drill.d.v.forEach(g => g.forEach(i => right.add(i)));
   const extra = [...drill.sel].filter(i => !right.has(i));
   const miss = [...right].filter(i => !drill.sel.has(i));
   if(!extra.length && !miss.length){
     drill.miss = null; drill.extra = null;
-    say('对了。' + drill.d.v.map(g => '〔' + esc(g.map(i => drill.toks[i]).join(' ')) + '〕').join(' ') + ' —— 有几套"做"，这句就有几套骨架。', 'ok');
-    drill.step = 2; renderDrill(); return;
+    goStep(2);
+    renderDrill(); return;
   }
   drill.err[0]++;
   drill.miss = new Set(miss); drill.extra = new Set(extra);
   const bits = [];
-  if(miss.length) bits.push(`漏了 ${miss.length} 个（句子里<span class="mk miss">橙色</span>那几个）`);
+  if(miss.length) bits.push(`漏了 ${miss.length} 个（<span class="mk miss">橙色</span>那几个）`);
   if(extra.length) bits.push(`多圈了 ${extra.length} 个（<span class="mk over">划掉</span>那几个）`);
-  say(bits.join('；') + '。<br>第一步错了后面几步全会歪，改对了再往下走。', 'bad');
+  say(bits.join('；') + '。<br>第一步错了后面几步全会歪，改对了再往下走；实在找不出就点「不会，看答案」。', 'bad');
   renderDrill();
 }
+// ---- 第 2 步 ----
 function drillConn(i, ans){
   const c = drill.d.c.find(x => x.i === i);
   const w = drill.toks[i];
-  drill.pick = null;
+  drill.pick = null; drill.conn[i] = true;
   if(ans === c.kind){
-    drill.conn[i] = true;
     if(c.kind === '并列') say(`对了。<b>${esc(w)}</b> 是并列${c.wall ? ' —— 它两边各是一套骨架，谁也不比谁大，这就是一堵墙' : '，它连的是两个词，不是两套骨架'}。`, 'ok');
     else say(`对了。<b>${esc(w)}</b> 是从句，${ATTTXT[c.att] || '它塞在别人里面当零件'}。`, 'ok');
   } else {
-    drill.err[1]++; drill.conn[i] = true;
+    drill.err[1]++;
     if(c.kind === '从句') say(`<b>${esc(w)}</b> 是从句，不是并列 —— and / but / or / so 才是并列。${ATTTXT[c.att] || ''}。`, 'bad');
     else say(`<b>${esc(w)}</b> 是并列 —— and / but / or / so 这四个是并列，其余才是从句。`, 'bad');
   }
   const need = drill.d.c.filter(x => x.kind !== 'skip');
-  const hasWall = drill.d.c.some(x => x.kind === '并列' && x.wall);
-  const hasSub = need.some(x => x.kind === '从句');
   if(need.every(x => drill.conn[x.i])){
+    const hasWall = drill.d.c.some(x => x.kind === '并列' && x.wall);
+    const hasSub = need.some(x => x.kind === '从句');
     if(hasWall && hasSub) drill.msg += `<br><span class="rule">${NEAR1}<br>${NEAR2}</span>`;
-    drill.step = 3;
+    enterStep3();
   }
   renderDrill();
 }
+function enterStep3(keep, kc){
+  if(drill.d.g.length === 1){
+    drill.d.v.forEach((_, i) => drill.assign[i] = 0);
+    goStep(4, '这句没有把两套骨架连起来的并列连接词，整句就是一段，直接找骨架。', '');
+    drill.seg = 0; drill.slot = 'w';
+  } else {
+    goStep(3, keep || '', kc || '');
+  }
+}
+// ---- 第 3 步 ----
 function drillAssign(gi, si){
   const g = drill.d.v[gi];
   const seg = drill.d.g.findIndex(([a, b]) => g[0] >= a && g[0] <= b);
-  if(seg === si){ drill.assign[gi] = si; say(`对了。<b>${esc(g.map(i => drill.toks[i]).join(' '))}</b> 在${segLabel(si)}里。`, 'ok'); }
-  else { drill.err[2]++; drill.assign[gi] = seg; say(`<b>${esc(g.map(i => drill.toks[i]).join(' '))}</b> 其实在${segLabel(seg)}里 —— 段是被墙切开的，动词在墙的哪一边就属于哪一段。`, 'bad'); }
-  if(drill.d.v.every((_, i) => drill.assign[i] != null)){ drill.step = 4; drill.seg = 0; drill.slot = 'w'; }
+  drill.assign[gi] = si;
+  if(seg === si) say(`对了，<b>${esc(g.map(i => drill.toks[i]).join(' '))}</b> 在${segLabel(si)}里。`, 'ok');
+  else { drill.err[2]++; say(`<b>${esc(g.map(i => drill.toks[i]).join(' '))}</b> 其实在${segLabel(seg)}里 —— 动词站在墙的哪一边，就属于哪一段。`, 'bad'); }
+  if(drill.d.v.every((_, i) => drill.assign[i] != null)){ const m = drill.msg, c = drill.msgCls; goStep(4); if(c === 'bad'){ drill.msg = m; drill.msgCls = c; } drill.seg = 0; drill.slot = 'w'; }
   renderDrill();
 }
+// ---- 第 4 步 ----
 function drillSlot(i){
   const si = drill.seg, c = drill.d.k[si];
   drill.core[si] = drill.core[si] || {};
   const mine = drill.core[si];
   if(drill.slot === 'w'){
-    if(c.w.includes(i)){ mine.w = i; say(`对了，这段的"谁"就是 <b>${esc(drill.toks[i])}</b>。`, 'ok'); drill.slot = 'o'; }
-    else { drill.err[3]++; mine.w = c.w[c.w.length - 1]; say(`这段的"谁"是 <b>${esc(c.w.map(x => drill.toks[x]).join(' '))}</b> —— 就在"做"的前面那一块。`, 'bad'); drill.slot = 'o'; }
+    if(c.w.includes(i)){ mine.w = i; say(`对了，这段的"谁"就是 <b>${esc(c.w.map(x => drill.toks[x]).join(' '))}</b>。`, 'ok'); }
+    else { drill.err[3]++; mine.w = c.w[c.w.length - 1]; say(`这段的"谁"是 <b>${esc(c.w.map(x => drill.toks[x]).join(' '))}</b> —— 就在"做"的前面那一块。`, 'bad'); }
+    drill.slot = 'o';
   } else {
     const none = !c.o.length;
     if(i === -1){
@@ -2609,28 +3096,67 @@ function drillSlot(i){
     } else if(c.o.includes(i)){ mine.o = i; say(`对了，这段的"什么"是 <b>${esc(c.o.map(x => drill.toks[x]).join(' '))}</b>。`, 'ok'); }
     else { drill.err[3]++; mine.o = none ? -1 : c.o[0]; say(none ? '这段没有"什么"，只有"谁"和"做"。' : `这段的"什么"是 <b>${esc(c.o.map(x => drill.toks[x]).join(' '))}</b>。`, 'bad'); }
     if(si + 1 < drill.d.g.length){ drill.seg = si + 1; drill.slot = 'w'; }
-    else { drill.step = 5; }
+    else { const m = drill.msg, c = drill.msgCls; goStep(5); if(c === 'bad'){ drill.msg = m; drill.msgCls = c; } }
   }
   renderDrill();
 }
-function drillCheck5(){
-  const d = drill.d, need = new Set();
-  const skel = new Set();
+// ---- 第 5 步 ----
+function skelSet(){
+  const d = drill.d, skel = new Set();
   d.v.forEach(g => g.forEach(i => skel.add(i)));
   d.k.forEach(c => { c.w.forEach(i => skel.add(i)); c.o.forEach(i => skel.add(i)); });
-  d.m.forEach(m => m.i.forEach(i => { if(!skel.has(i)) need.add(i); }));
+  return skel;
+}
+function need5Set(){
+  const skel = skelSet(), need = new Set();
+  drill.d.m.forEach(m => m.i.forEach(i => { if(!skel.has(i)) need.add(i); }));
+  return need;
+}
+function drillCheck5(){
+  const need = need5Set(), skel = skelSet();
   const extra = [...drill.grey].filter(i => !need.has(i) && skel.has(i));
   const miss = [...need].filter(i => !drill.grey.has(i));
-  if(!extra.length && !miss.length){ say('对了，剩下的都是跟班。括掉之后剩的就是主干。', 'ok'); }
+  if(!extra.length && !miss.length) say('对了，剩下的都是跟班。括掉之后剩的就是主干。', 'ok');
   else {
     drill.err[4]++;
     const bits = [];
-    if(miss.length) bits.push('还没括掉 ' + miss.slice(0, 8).map(i => `<b>${esc(drill.toks[i])}</b>`).join('、'));
-    if(extra.length) bits.push('括错了 ' + extra.slice(0, 8).map(i => `<b>${esc(drill.toks[i])}</b>`).join('、') + '（这些是主干，不能括）');
+    if(miss.length) bits.push(`还没括掉 ${miss.length} 个`);
+    if(extra.length) bits.push(`括错了 ${extra.length} 个（那些是主干，不能括）`);
     say(bits.join('；') + '。下面是这句所有的跟班。', 'bad');
   }
   need.forEach(i => drill.grey.add(i)); skel.forEach(i => drill.grey.delete(i));
   drill.done5 = true; renderDrill();
+}
+// ---- 兜底：不会就看答案，不卡人 ----
+function drillReveal(){
+  const d = drill.d;
+  drill.err[drill.step - 1]++;
+  if(drill.step === 1){
+    drill.sel = new Set(); d.v.forEach(g => g.forEach(i => drill.sel.add(i)));
+    drill.miss = null; drill.extra = null;
+    goStep(2, '上一步答案：' + d.v.map(g => '〔' + esc(g.map(i => drill.toks[i]).join(' ')) + '〕') .join(' ') + ' —— 有几套"做"，这句就有几套骨架。', 'ans');
+  } else if(drill.step === 2){
+    const need = d.c.filter(c => c.kind !== 'skip');
+    need.forEach(c => drill.conn[c.i] = true);
+    const list = need.map(c => `<b>${esc(drill.toks[c.i])}</b> 是${c.kind}${c.kind === '从句' ? '（' + (ATTTXT[c.att] || '') + '）' : c.wall ? '（墙）' : ''}`).join('；');
+    enterStep3(need.length ? '上一步答案：' + list + '。' : '', 'ans');
+  } else if(drill.step === 3){
+    d.v.forEach((g, i) => { drill.assign[i] = d.g.findIndex(([a, b]) => g[0] >= a && g[0] <= b); });
+    goStep(4, '上一步答案：' + d.v.map((g, i) => `<b>${esc(g.map(x => drill.toks[x]).join(' '))}</b> 在${segLabel(drill.assign[i])}`).join('；') + '。', 'ans');
+    drill.seg = 0; drill.slot = 'w';
+  } else if(drill.step === 4){
+    const si = drill.seg, c = d.k[si];
+    drill.core[si] = { w: c.w[c.w.length - 1], o: c.o.length ? c.o[0] : -1 };
+    const t = `答案：${d.g.length > 1 ? segLabel(si) + ' ' : ''}谁 = <b>${esc(c.w.map(x => drill.toks[x]).join(' '))}</b>，做 = <b>${esc(c.v.map(x => drill.toks[x]).join(' '))}</b>，${c.o.length ? '什么 = <b>' + esc(c.o.map(x => drill.toks[x]).join(' ')) + '</b>' : '这段没有"什么"'}。`;
+    if(si + 1 < d.g.length){ drill.seg = si + 1; drill.slot = 'w'; say(t, 'ans'); }
+    else goStep(5, t, 'ans');
+  } else {
+    const need = need5Set(), skel = skelSet();
+    drill.grey = new Set(need);
+    say('答案：下面这些都是跟班，已经帮你括掉了。', 'ans');
+    drill.done5 = true;
+  }
+  renderDrill();
 }
 function finishDrill(){
   const r = drillRec(drill.k);
@@ -2674,19 +3200,19 @@ function tailsConn(){
         <h5>连接词表<span class="tag">拆长句用的</span></h5>
         <div class="trow"><span class="tk2">并列</span><div><b>and / but / or / so</b><div class="small muted">平级，两套骨架谁也不比谁大</div></div></div>
         <div class="trow"><span class="tk2">从句</span><div><b>其余全是</b><div class="small muted">低一层，塞在别人里面当零件。按它在干什么活分三类：</div></div></div>
-        <ol class="tlist">
-          <li><b>贴名词</b>（紧跟在一个名词屁股后面）：who / which / whose / that（紧跟名词时）/ where（跟地点名词）</li>
-          <li><b>贴整句</b>（说时间、原因、条件、让步）：though / although / because / if / when / while / since / unless / so that</li>
-          <li><b>占一个正主的格子</b>（当"谁"或"什么"用）：that（前面那格缺东西时）/ what / whether / how / why</li>
+        <ol class="clist">
+          <li><b>贴名词</b><i>紧跟在一个名词屁股后面</i><span class="wd3">who / which / whose / that（紧跟名词时）/ where（跟地点名词）</span></li>
+          <li><b>贴整句</b><i>说时间、原因、条件、让步</i><span class="wd3">though / although / because / if / when / while / since / unless / so that</span></li>
+          <li><b>占一个正主的格子</b><i>当"谁"或"什么"用</i><span class="wd3">that（前面那格缺东西时）/ what / whether / how / why</span></li>
         </ol>
         <div class="tnote"><b>that 的判断法</b>（唯一需要现场判的）：看 that 前面那一坨<b>缺不缺一个"什么"</b>。<br>缺 → that 从句来补那个格子（<i>It is not that…</i> is 后面缺表语；<i>found that…</i> found 缺宾语）<br>不缺 → that 贴前面那个名词（<i>the tea that I drank</i>）</div>
         <div class="tnote hi"><b>从句贴谁——就近原则</b><br>${NEAR1}<br>${NEAR2}</div>
       </div>
       <div class="tsec">
         <h5>四类修饰（第五步要括掉的就是这些）</h5>
-        <ol class="tlist">
-          <li><b>介词小尾巴</b>：of / in / on / with / for / to / by / from ＋ 东西</li>
-          <li><b>从句</b>：that / which / who / where / when / though 引出来的那一坨</li>
+        <ol class="clist">
+          <li><b>介词小尾巴</b><span class="wd3">of / in / on / with / for / to / by / from ＋ 东西</span></li>
+          <li><b>从句</b><span class="wd3">that / which / who / where / when / though 引出来的那一坨</span></li>
           <li><b>-ing 或 -ed 开头的那一坨</b></li>
           <li><b>两个逗号夹住的插入语</b></li>
         </ol>
@@ -2765,14 +3291,14 @@ function renderCard(sayit){
     ${r.ph && r.ph.base && r.ph.base.toLowerCase() !== w.toLowerCase() ? `<div class="small muted">原型搭配 <b style="color:var(--accent)">${esc(r.ph.base)}</b></div>` : ''}
     ${r.ctx && !r.src.has('look') ? `<div class="ctxs">${r.ph ? hlRange(r.ctx, r.ph.a, r.ph.b) : hlSent(r.ctx, w)}</div>${r.cn ? `<div class="ctxcn">${esc(r.cn)}</div>` : ''}` : ''}
     <div class="small muted" style="margin-top:auto">${esc([...r.from].join('、'))}</div>`;
-  box.innerHTML = tailPanel() + `<div class="fc" id="fc">
+  box.innerHTML = tailPanel() + `<div class="fc${deck.flip ? '' : ' front'}" id="fc">
       <div style="display:flex;align-items:center;gap:8px"><span class="tier t${tr}">${tr}</span><span class="small muted">${TIERNAME[tr]}</span><span style="margin-left:auto">${spkBtn(w)}</span></div>
       <div class="fw"${r.ph ? ' style="font-size:30px"' : ''}>${esc(w)}</div>${ph ? `<div class="fp">/${esc(ph)}/</div>` : ''}
       ${deck.flip ? back : (askPos ? posAsk('pa', gd) : '') + '<div class="hint">点卡片看意思 · 左右滑切换</div>'}
     </div>
     ${deck.flip ? '<div class="fcgrade"><button class="btn" id="fc-bad">没记住</button><button class="btn primary" id="fc-ok">记住了</button></div>' : ''}
     <div class="fcnav"><button class="btn ghost" id="fc-prev"${deck.i ? '' : ' disabled'}>← 上一张</button><span class="n">${deck.i + 1} / ${deck.list.length}</span><button class="btn ghost" id="fc-next">下一张 →</button></div>
-    <div class="fcacts"><button class="btn" id="fc-arch">会了 · 归档</button><button class="btn" id="fc-more">详细</button></div>
+    <div class="fcacts"><button class="btn" id="fc-arch">会了 · 归档</button><button class="btn ghost" id="fc-more">详细</button></div>
     ${deck.undo ? `<div class="small muted" style="text-align:center">已归档 ${esc(deck.undo.r.w)} · <button id="fc-undo" style="color:var(--accent);font-weight:600">撤销</button></div>` : ''}`;
   if(sayit) speak(w);
   const fc = box.querySelector('#fc');
