@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-19T05:24:55.424Z",
+ "updatedAt": "2026-09-19T05:27:06.478Z",
  "count": 8,
  "attempts": [
   {
@@ -1581,12 +1581,548 @@
    "phrases": [],
    "updatedAt": "2026-09-16T15:21:35.318Z",
    "qwords": []
+  },
+  "2013-2": {
+   "words": [
+    {
+     "w": "atlantic",
+     "raw": "Atlantic",
+     "p": 0,
+     "s": 0,
+     "sent": "A century ago, the immigrants from across the Atlantic included settlers and sojourners."
+    },
+    {
+     "w": "settlers",
+     "raw": "settlers",
+     "p": 0,
+     "s": 0,
+     "sent": "A century ago, the immigrants from across the Atlantic included settlers and sojourners."
+    },
+    {
+     "w": "sojourners",
+     "raw": "sojourners.",
+     "p": 0,
+     "s": 0,
+     "sent": "A century ago, the immigrants from across the Atlantic included settlers and sojourners."
+    },
+    {
+     "w": "folks",
+     "raw": "folks",
+     "p": 0,
+     "s": 1,
+     "sent": "Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay, and who would make some money and then go home."
+    },
+    {
+     "w": "permanent",
+     "raw": "permanent",
+     "p": 0,
+     "s": 1,
+     "sent": "Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay, and who would make some money and then go home."
+    },
+    {
+     "w": "departed",
+     "raw": "departed.",
+     "p": 0,
+     "s": 2,
+     "sent": "Between 1908 and 1915, about 7 million people arrived while about 2 million departed."
+    },
+    {
+     "w": "while",
+     "raw": "while",
+     "p": 0,
+     "s": 2,
+     "sent": "Between 1908 and 1915, about 7 million people arrived while about 2 million departed."
+    },
+    {
+     "w": "italian",
+     "raw": "Italian",
+     "p": 0,
+     "s": 3,
+     "sent": "About a quarter of all Italian immigrants, for example, eventually returned to Italy for good."
+    },
+    {
+     "w": "affectionate",
+     "raw": "affectionate",
+     "p": 0,
+     "s": 4,
+     "sent": "They even had an affectionate nickname, \"uccelli di passaggio,\" birds of passage."
+    },
+    {
+     "w": "rigid",
+     "raw": "rigid",
+     "p": 1,
+     "s": 0,
+     "sent": "Today, we are much more rigid about immigrants."
+    },
+    {
+     "w": "newcomers",
+     "raw": "newcomers",
+     "p": 1,
+     "s": 1,
+     "sent": "We divide newcomers into two categories: legal or illegal, good or bad."
+    },
+    {
+     "w": "hail",
+     "raw": "hail",
+     "p": 1,
+     "s": 2,
+     "sent": "We hail them as Americans in the making, or brand them as aliens to be kicked out."
+    },
+    {
+     "w": "brand",
+     "raw": "brand",
+     "p": 1,
+     "s": 2,
+     "sent": "We hail them as Americans in the making, or brand them as aliens to be kicked out."
+    },
+    {
+     "w": "aliens",
+     "raw": "aliens",
+     "p": 1,
+     "s": 2,
+     "sent": "We hail them as Americans in the making, or brand them as aliens to be kicked out."
+    },
+    {
+     "w": "framework",
+     "raw": "framework",
+     "p": 1,
+     "s": 3,
+     "sent": "That framework has contributed mightily to our broken immigration system and the long political paralysis over how to fix it."
+    },
+    {
+     "w": "mightily",
+     "raw": "mightily",
+     "p": 1,
+     "s": 3,
+     "sent": "That framework has contributed mightily to our broken immigration system and the long political paralysis over how to fix it."
+    },
+    {
+     "w": "paralysis",
+     "raw": "paralysis",
+     "p": 1,
+     "s": 3,
+     "sent": "That framework has contributed mightily to our broken immigration system and the long political paralysis over how to fix it."
+    },
+    {
+     "w": "political",
+     "raw": "political",
+     "p": 1,
+     "s": 3,
+     "sent": "That framework has contributed mightily to our broken immigration system and the long political paralysis over how to fix it."
+    },
+    {
+     "w": "strict",
+     "raw": "strict",
+     "p": 1,
+     "s": 5,
+     "sent": "We need to look beyond strict definitions of legal and illegal."
+    },
+    {
+     "w": "definitions",
+     "raw": "definitions",
+     "p": 1,
+     "s": 5,
+     "sent": "We need to look beyond strict definitions of legal and illegal."
+    },
+    {
+     "w": "thriving",
+     "raw": "thriving",
+     "p": 1,
+     "s": 6,
+     "sent": "To start, we can recognize the new birds of passage, those living and thriving in the gray areas."
+    },
+    {
+     "w": "solve",
+     "raw": "solve",
+     "p": 1,
+     "s": 7,
+     "sent": "We might then begin to solve our immigration challenges."
+    },
+    {
+     "w": "violinists",
+     "raw": "violinists,",
+     "p": 2,
+     "s": 0,
+     "sent": "Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage."
+    },
+    {
+     "w": "construction",
+     "raw": "construction",
+     "p": 2,
+     "s": 0,
+     "sent": "Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage."
+    },
+    {
+     "w": "entrepreneurs",
+     "raw": "entrepreneurs,",
+     "p": 2,
+     "s": 0,
+     "sent": "Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage."
+    },
+    {
+     "w": "aides",
+     "raw": "aides",
+     "p": 2,
+     "s": 0,
+     "sent": "Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage."
+    },
+    {
+     "w": "energetic",
+     "raw": "energetic",
+     "p": 2,
+     "s": 1,
+     "sent": "They are energetic participants in a global economy driven by the flow of work, money and ideas."
+    },
+    {
+     "w": "straddle",
+     "raw": "straddle",
+     "p": 3,
+     "s": 0,
+     "sent": "With or without permission, they straddle laws, jurisdictions and identities with ease."
+    },
+    {
+     "w": "jurisdictions",
+     "raw": "jurisdictions",
+     "p": 3,
+     "s": 0,
+     "sent": "With or without permission, they straddle laws, jurisdictions and identities with ease."
+    },
+    {
+     "w": "committing",
+     "raw": "committing",
+     "p": 3,
+     "s": 1,
+     "sent": "We need them to imagine the United States as a place where they can be productive for a while without committing themselves to staying forever."
+    },
+    {
+     "w": "honorably",
+     "raw": "honorably.",
+     "p": 3,
+     "s": 2,
+     "sent": "We need them to feel that home can be both here and there and that they can belong to two nations honorably."
+    },
+    {
+     "w": "accommodating",
+     "raw": "Accommodating",
+     "p": 4,
+     "s": 0,
+     "sent": "Accommodating this new world of people in motion will require new attitudes on both sides of the immigration battle."
+    },
+    {
+     "w": "logic",
+     "raw": "logic",
+     "p": 4,
+     "s": 1,
+     "sent": "Looking beyond the culture war logic of right or wrong means opening up the middle ground and understanding that managing immigration today requires multiple paths and multiple outcomes, including some that are not easy to accomplish legally in the existing system."
+    },
+    {
+     "w": "multiple",
+     "raw": "multiple",
+     "p": 4,
+     "s": 1,
+     "sent": "Looking beyond the culture war logic of right or wrong means opening up the middle ground and understanding that managing immigration today requires multiple paths and multiple outcomes, including some that are not easy to accomplish legally in the existing system."
+    },
+    {
+     "w": "accomplish",
+     "raw": "accomplish",
+     "p": 4,
+     "s": 1,
+     "sent": "Looking beyond the culture war logic of right or wrong means opening up the middle ground and understanding that managing immigration today requires multiple paths and multiple outcomes, including some that are not easy to accomplish legally in the existing system."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 1,
+     "text": "Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay, and who would make some money and then go home."
+    },
+    {
+     "p": 4,
+     "s": 0,
+     "text": "Accommodating this new world of people in motion will require new attitudes on both sides of the immigration battle."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "Along with",
+     "loc": "0:1",
+     "a": 0,
+     "b": 1,
+     "sent": "Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay, and who would make some money and then go home.",
+     "cn": "在众多想在美国安家落户的人当中，也有一些人并不打算留下，他们想挣些钱然后回国。",
+     "m": "与…一起（来的还有）",
+     "base": "along with",
+     "note": "",
+     "p": 0,
+     "s": 1
+    },
+    {
+     "text": "for good",
+     "loc": "0:3",
+     "a": 13,
+     "b": 14,
+     "sent": "About a quarter of all Italian immigrants, for example, eventually returned to Italy for good.",
+     "cn": "例如，大约四分之一的意大利移民最终永久返回了意大利。",
+     "m": "永久地（回到意大利）",
+     "base": "for good",
+     "note": "",
+     "p": 0,
+     "s": 3
+    },
+    {
+     "text": "divide newcomers into",
+     "loc": "1:1",
+     "a": 1,
+     "b": 3,
+     "sent": "We divide newcomers into two categories: legal or illegal, good or bad.",
+     "cn": "我们把新来者分为两类：合法的或非法的，好的或坏的。",
+     "m": "把新来者分成（两类）",
+     "base": "divide A into B",
+     "note": "",
+     "p": 1,
+     "s": 1
+    },
+    {
+     "text": "kicked out",
+     "loc": "1:2",
+     "a": 15,
+     "b": 16,
+     "sent": "We hail them as Americans in the making, or brand them as aliens to be kicked out.",
+     "cn": "我们要么把他们奉为未来的美国人，要么把他们打上外来者的烙印并加以驱逐。",
+     "m": "被驱逐出去",
+     "base": "kick out",
+     "note": "",
+     "p": 1,
+     "s": 2
+    },
+    {
+     "text": "in the making",
+     "loc": "1:2",
+     "a": 5,
+     "b": 7,
+     "sent": "We hail them as Americans in the making, or brand them as aliens to be kicked out.",
+     "cn": "我们要么把他们奉为未来的美国人，要么把他们打上外来者的烙印并加以驱逐。",
+     "m": "正在成长中的（美国人）",
+     "base": "in the making",
+     "note": "",
+     "p": 1,
+     "s": 2
+    },
+    {
+     "text": "look beyond",
+     "loc": "1:5",
+     "a": 3,
+     "b": 4,
+     "sent": "We need to look beyond strict definitions of legal and illegal.",
+     "cn": "我们需要超越“合法”与“非法”的僵硬界定。",
+     "m": "超越（严格定义）来看",
+     "base": "look beyond",
+     "note": "",
+     "p": 1,
+     "s": 5
+    },
+    {
+     "text": "for a while",
+     "loc": "3:1",
+     "a": 16,
+     "b": 18,
+     "sent": "We need them to imagine the United States as a place where they can be productive for a while without committing themselves to staying forever.",
+     "cn": "我们需要让他们把美国想象成这样一个地方：他们可以在此高效工作一段时间，而不必承诺永远留下。",
+     "m": "一段时间",
+     "base": "for a while",
+     "note": "",
+     "p": 3,
+     "s": 1
+    },
+    {
+     "text": "in motion",
+     "loc": "4:0",
+     "a": 6,
+     "b": 7,
+     "sent": "Accommodating this new world of people in motion will require new attitudes on both sides of the immigration battle.",
+     "cn": "要容纳这个人口流动的新世界，移民之争的双方都需要新的态度。",
+     "m": "（人口）流动中的",
+     "base": "in motion",
+     "note": "",
+     "p": 4,
+     "s": 0
+    },
+    {
+     "text": "opening up",
+     "loc": "4:1",
+     "a": 11,
+     "b": 12,
+     "sent": "Looking beyond the culture war logic of right or wrong means opening up the middle ground and understanding that managing immigration today requires multiple paths and multiple outcomes, including some that are not easy to accomplish legally in the existing system.",
+     "cn": "超越“非对即错”的文化战争逻辑，意味着开辟中间地带，并认识到当今的移民管理需要多种途径和多种结果，其中包括一些在现行制度下难以合法实现的途径和结果。",
+     "m": "开辟（中间地带）",
+     "base": "open up",
+     "note": "",
+     "p": 4,
+     "s": 1
+    },
+    {
+     "text": "refers to",
+     "loc": "q:26:stem",
+     "a": 3,
+     "b": 4,
+     "sent": "\"Birds of passage\" refers to those who ______",
+     "cn": "“候鸟”（birds of passage）指的是那些……的人",
+     "m": "指的是",
+     "base": "refer to",
+     "note": ""
+    },
+    {
+     "text": "meet challenges",
+     "loc": "q:27:C",
+     "a": 4,
+     "b": 5,
+     "sent": "should be adapted to meet challenges",
+     "cn": "应当加以调整以应对挑战",
+     "m": "应对挑战",
+     "base": "meet a challenge",
+     "note": ""
+    }
+   ],
+   "qwords": [
+    {
+     "key": "26:A:5",
+     "w": "temporarily",
+     "raw": "temporarily",
+     "n": 26,
+     "part": "A",
+     "sent": "stay in a foreign country temporarily",
+     "cn": "暂时待在外国"
+    },
+    {
+     "key": "26:D:1",
+     "w": "permanent",
+     "raw": "permanent",
+     "n": 26,
+     "part": "D",
+     "sent": "find permanent jobs overseas",
+     "cn": "在海外找到固定工作"
+    },
+    {
+     "key": "27:stem:2",
+     "w": "implied",
+     "raw": "implied",
+     "n": 27,
+     "part": "stem",
+     "sent": "It is implied in Paragraph 2 that the current immigration system in the US ______",
+     "cn": "第2段暗示，美国现行的移民制度……"
+    },
+    {
+     "key": "27:B:1",
+     "w": "loosened",
+     "raw": "loosened",
+     "n": 27,
+     "part": "B",
+     "sent": "has loosened control over immigrants",
+     "cn": "已经放松了对移民的管控"
+    },
+    {
+     "key": "27:C:2",
+     "w": "adapted",
+     "raw": "adapted",
+     "n": 27,
+     "part": "C",
+     "sent": "should be adapted to meet challenges",
+     "cn": "应当加以调整以应对挑战"
+    },
+    {
+     "key": "28:A:1",
+     "w": "incentives",
+     "raw": "incentives",
+     "n": 28,
+     "part": "A",
+     "sent": "financial incentives",
+     "cn": "经济上的激励"
+    },
+    {
+     "key": "28:B:2",
+     "w": "recognition",
+     "raw": "recognition",
+     "n": 28,
+     "part": "B",
+     "sent": "a global recognition",
+     "cn": "全球性的认可"
+    },
+    {
+     "key": "28:D:3",
+     "w": "regular",
+     "raw": "regular",
+     "n": 28,
+     "part": "D",
+     "sent": "opportunities to get regular jobs",
+     "cn": "获得正式工作的机会"
+    },
+    {
+     "key": "29:stem:11",
+     "w": "treated",
+     "raw": "treated",
+     "n": 29,
+     "part": "stem",
+     "sent": "The author suggests that the birds of passage today should be treated ______",
+     "cn": "作者建议，对待如今的候鸟应该……"
+    },
+    {
+     "key": "29:B:2",
+     "w": "tolerance",
+     "raw": "tolerance",
+     "n": 29,
+     "part": "B",
+     "sent": "with legal tolerance",
+     "cn": "在法律上予以宽容"
+    },
+    {
+     "key": "29:D:2",
+     "w": "rivals",
+     "raw": "rivals",
+     "n": 29,
+     "part": "D",
+     "sent": "as mighty rivals",
+     "cn": "把他们当作强大的对手"
+    },
+    {
+     "key": "29:D:1",
+     "w": "mighty",
+     "raw": "mighty",
+     "n": 29,
+     "part": "D",
+     "sent": "as mighty rivals",
+     "cn": "把他们当作强大的对手"
+    },
+    {
+     "key": "30:C:3",
+     "w": "great",
+     "raw": "Great",
+     "n": 30,
+     "part": "C",
+     "sent": "With or Without: Great Risk",
+     "cn": "有或没有：巨大风险"
+    },
+    {
+     "key": "30:stem:2",
+     "w": "appropriate",
+     "raw": "appropriate",
+     "n": 30,
+     "part": "stem",
+     "sent": "The most appropriate title for this text would be ______",
+     "cn": "本文最恰当的标题是……"
+    }
+   ],
+   "updatedAt": "2026-09-18T16:31:34.489Z"
   }
  },
  "prefs": {
   "tier": {
    "inherently": 1,
-   "urged": 1
+   "urged": 1,
+   "folks": 2,
+   "affectionate": 2,
+   "rigid": 1,
+   "solve": 1,
+   "accomplish": 1
   },
   "confuse": {
    "intrinsically": [
@@ -1608,9 +2144,8 @@
   "quiz": {
    "fuses": {
     "ok": 0,
-    "bad": 2,
-    "at": "2026-09-17T23:51:29.645Z",
-    "st": 0
+    "bad": 1,
+    "at": "2026-09-16T14:30:01.762Z"
    },
    "eliminate": {
     "ok": 1,
@@ -1817,92 +2352,62 @@
    "thorny": "2026-09-11T04:37:55.483Z",
    "conversely": "2026-09-11T04:38:01.350Z",
    "eliminate": "2026-09-11T04:38:03.365Z",
-   "atlantic": "2026-09-18T15:59:52.377Z"
+   "atlantic": "2026-09-18T15:59:52.377Z",
+   "settlers": "2026-09-18T16:03:04.521Z",
+   "sojourners": "2026-09-18T16:03:10.762Z",
+   "folks": "2026-09-18T16:03:42.636Z",
+   "permanent": "2026-09-18T16:03:58.965Z",
+   "departed": "2026-09-18T16:07:59.478Z",
+   "while": "2026-09-18T16:08:02.435Z",
+   "italian": "2026-09-18T16:08:29.503Z",
+   "good": "2026-09-18T16:08:56.885Z",
+   "affectionate": "2026-09-18T16:09:21.958Z",
+   "uccelli": "2026-09-18T16:09:38.779Z",
+   "rigid": "2026-09-18T16:11:47.286Z",
+   "newcomers": "2026-09-18T16:11:59.606Z",
+   "categories": "2026-09-18T16:12:22.734Z",
+   "hail": "2026-09-18T16:12:37.383Z",
+   "brand": "2026-09-18T16:12:58.645Z",
+   "aliens": "2026-09-18T16:13:08.932Z",
+   "kicked": "2026-09-18T16:13:14.467Z",
+   "making": "2026-09-18T16:13:41.170Z",
+   "framework": "2026-09-18T16:13:53.053Z",
+   "mightily": "2026-09-18T16:13:58.486Z",
+   "paralysis": "2026-09-18T16:14:09.239Z",
+   "political": "2026-09-18T16:14:45.788Z",
+   "strict": "2026-09-18T16:15:34.853Z",
+   "definitions": "2026-09-18T16:15:40.928Z",
+   "thriving": "2026-09-18T16:16:41.009Z",
+   "solve": "2026-09-18T16:16:58.717Z",
+   "violinists": "2026-09-18T16:18:05.962Z",
+   "construction": "2026-09-18T16:18:13.898Z",
+   "entrepreneurs": "2026-09-18T16:18:17.811Z",
+   "aides": "2026-09-18T16:18:45.093Z",
+   "energetic": "2026-09-18T16:19:00.494Z",
+   "straddle": "2026-09-18T16:20:01.076Z",
+   "jurisdictions": "2026-09-18T16:20:08.065Z",
+   "committing": "2026-09-18T16:20:49.178Z",
+   "can": "2026-09-18T16:21:09.570Z",
+   "honorably": "2026-09-18T16:21:12.902Z",
+   "accommodating": "2026-09-18T16:21:55.412Z",
+   "motion": "2026-09-18T16:22:26.152Z",
+   "logic": "2026-09-18T16:22:58.715Z",
+   "multiple": "2026-09-18T16:23:11.795Z",
+   "accomplish": "2026-09-18T16:23:21.475Z",
+   "legally": "2026-09-18T16:23:29.440Z",
+   "implied": "2026-09-18T16:26:28.088Z",
+   "loosened": "2026-09-18T16:26:45.596Z",
+   "adapted": "2026-09-18T16:26:52.316Z",
+   "incentives": "2026-09-18T16:28:06.946Z",
+   "recognition": "2026-09-18T16:28:12.202Z",
+   "regular": "2026-09-18T16:28:24.589Z",
+   "treated": "2026-09-18T16:28:39.740Z",
+   "tolerance": "2026-09-18T16:29:04.352Z",
+   "rivals": "2026-09-18T16:29:12.730Z",
+   "mighty": "2026-09-18T16:29:17.360Z",
+   "great": "2026-09-18T16:29:56.539Z",
+   "appropriate": "2026-09-18T16:31:33.115Z"
   },
-  "archived": {},
-  "plan": {
-   "card": {
-    "n": 15,
-    "u": 5
-   },
-   "quiz": {
-    "n": 6,
-    "u": 3
-   },
-   "sent": {
-    "n": 2,
-    "u": 1
-   },
-   "posGuess": true,
-   "exam": ""
-  },
-  "sched": {
-   "card": {
-    "fuses": {
-     "a": 20705000,
-     "s": 0,
-     "d": 0,
-     "st": "l"
-    },
-    "eliminate": {
-     "a": 20705001,
-     "s": 0,
-     "d": 0,
-     "st": "l"
-    },
-    "moral": {
-     "a": 20705002,
-     "s": 0,
-     "d": 0,
-     "st": "l"
-    },
-    "domain": {
-     "a": 20705003,
-     "s": 0,
-     "d": 0,
-     "st": "l"
-    }
-   },
-   "quiz": {
-    "fuses": {
-     "a": 20705000,
-     "s": 0,
-     "d": 20715,
-     "st": "l"
-    },
-    "eliminate": {
-     "a": 20705001,
-     "s": 1,
-     "d": 20716,
-     "st": "l"
-    },
-    "moral": {
-     "a": 20705002,
-     "s": 1,
-     "d": 20716,
-     "st": "l"
-    },
-    "domain": {
-     "a": 20705003,
-     "s": 1,
-     "d": 20716,
-     "st": "l"
-    }
-   },
-   "sent": {}
-  },
-  "run": {},
-  "drill": {},
-  "posg": {
-   "card": {
-    "ok": 0,
-    "bad": 0
-   },
-   "quiz": {
-    "ok": 0,
-    "bad": 0
-   }
-  },
-  "schedReady": 1
+  "archived": {}
  }
 }
