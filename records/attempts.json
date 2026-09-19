@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-19T15:51:16.226Z",
+ "updatedAt": "2026-09-19T16:05:33.906Z",
  "count": 9,
  "attempts": [
   {
@@ -2156,6 +2156,152 @@
     }
    ],
    "updatedAt": "2026-09-18T16:31:34.489Z"
+  },
+  "2013-3": {
+   "words": [],
+   "sentences": [],
+   "phrases": [
+    {
+     "text": "vary according to",
+     "loc": "q:31:D",
+     "a": 0,
+     "b": 2,
+     "sent": "vary according to the urgency of the situation",
+     "cn": "随情况的紧急程度而变化",
+     "m": "随（紧迫程度）变化",
+     "base": "vary according to",
+     "note": ""
+    }
+   ],
+   "qwords": [
+    {
+     "key": "31:D:4",
+     "w": "urgency",
+     "raw": "urgency",
+     "n": 31,
+     "part": "D",
+     "sent": "vary according to the urgency of the situation",
+     "cn": "随情况的紧急程度而变化"
+    },
+    {
+     "key": "31:A:0",
+     "w": "predetermine",
+     "raw": "predetermine",
+     "n": 31,
+     "part": "A",
+     "sent": "predetermine the accuracy of our judgment",
+     "cn": "预先决定我们判断的准确性"
+    },
+    {
+     "key": "31:A:2",
+     "w": "accuracy",
+     "raw": "accuracy",
+     "n": 31,
+     "part": "A",
+     "sent": "predetermine the accuracy of our judgment",
+     "cn": "预先决定我们判断的准确性"
+    },
+    {
+     "key": "31:B:2",
+     "w": "complexity",
+     "raw": "complexity",
+     "n": 31,
+     "part": "B",
+     "sent": "prove the complexity of our brain reaction",
+     "cn": "证明我们大脑反应的复杂性"
+    },
+    {
+     "key": "31:C:6",
+     "w": "assessment",
+     "raw": "assessment",
+     "n": 31,
+     "part": "C",
+     "sent": "depend on the importance of the assessment",
+     "cn": "取决于评估的重要性"
+    },
+    {
+     "key": "32:B:2",
+     "w": "unconscious",
+     "raw": "unconscious",
+     "n": 32,
+     "part": "B",
+     "sent": "are not unconscious",
+     "cn": "并非无意识的"
+    },
+    {
+     "key": "32:D:2",
+     "w": "impulsive",
+     "raw": "impulsive",
+     "n": 32,
+     "part": "D",
+     "sent": "are not impulsive",
+     "cn": "并非冲动的"
+    },
+    {
+     "key": "33:stem:1",
+     "w": "reverse",
+     "raw": "reverse",
+     "n": 33,
+     "part": "stem",
+     "sent": "To reverse the negative influences of snap decisions, we should ______",
+     "cn": "要扭转瞬间决定的负面影响，我们应该……"
+    },
+    {
+     "key": "33:stem:3",
+     "w": "negative",
+     "raw": "negative",
+     "n": 33,
+     "part": "stem",
+     "sent": "To reverse the negative influences of snap decisions, we should ______",
+     "cn": "要扭转瞬间决定的负面影响，我们应该……"
+    },
+    {
+     "key": "34:stem:4",
+     "w": "reliable",
+     "raw": "reliable",
+     "n": 34,
+     "part": "stem",
+     "sent": "John Gottman says that reliable snap reactions are based on ______",
+     "cn": "约翰·戈特曼说，可靠的瞬间反应基于……"
+    },
+    {
+     "key": "34:C:0",
+     "w": "adequate",
+     "raw": "adequate",
+     "n": 34,
+     "part": "C",
+     "sent": "adequate information",
+     "cn": "充分的信息"
+    },
+    {
+     "key": "34:D:0",
+     "w": "sensible",
+     "raw": "sensible",
+     "n": 34,
+     "part": "D",
+     "sent": "sensible explanation",
+     "cn": "合理的解释"
+    },
+    {
+     "key": "35:B:0",
+     "w": "optimistic",
+     "raw": "optimistic",
+     "n": 35,
+     "part": "B",
+     "sent": "optimistic",
+     "cn": "乐观的"
+    },
+    {
+     "key": "35:A:0",
+     "w": "tolerant",
+     "raw": "tolerant",
+     "n": 35,
+     "part": "A",
+     "sent": "tolerant",
+     "cn": "宽容的"
+    }
+   ],
+   "updatedAt": "2026-09-19T16:03:40.836Z"
   }
  },
  "prefs": {
@@ -2166,7 +2312,9 @@
    "affectionate": 2,
    "rigid": 1,
    "solve": 1,
-   "accomplish": 1
+   "accomplish": 1,
+   "reverse": 1,
+   "optimistic": 1
   },
   "confuse": {
    "intrinsically": [
@@ -2183,6 +2331,9 @@
    ],
    "stagnation": [
     "stagnant"
+   ],
+   "reliable": [
+    "rely依靠；信赖"
    ]
   },
   "quiz": {
@@ -2450,7 +2601,20 @@
    "rivals": "2026-09-18T16:29:12.730Z",
    "mighty": "2026-09-18T16:29:17.360Z",
    "great": "2026-09-18T16:29:56.539Z",
-   "appropriate": "2026-09-18T16:31:33.115Z"
+   "appropriate": "2026-09-18T16:31:33.115Z",
+   "urgency": "2026-09-19T15:51:29.617Z",
+   "predetermine": "2026-09-19T15:55:23.633Z",
+   "accuracy": "2026-09-19T15:55:31.278Z",
+   "complexity": "2026-09-19T15:55:44.674Z",
+   "assessment": "2026-09-19T15:55:53.813Z",
+   "unconscious": "2026-09-19T15:56:11.143Z",
+   "impulsive": "2026-09-19T15:56:21.171Z",
+   "reverse": "2026-09-19T16:00:05.686Z",
+   "negative": "2026-09-19T16:00:24.223Z",
+   "reliable": "2026-09-19T16:01:02.090Z",
+   "adequate": "2026-09-19T16:02:29.931Z",
+   "sensible": "2026-09-19T16:02:35.174Z",
+   "optimistic": "2026-09-19T16:03:28.628Z"
   },
   "archived": {
    "uccelli": {
