@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-09-20T07:17:11.314Z",
+ "updatedAt": "2026-09-20T17:35:21.945Z",
  "count": 10,
  "attempts": [
   {
@@ -2203,8 +2203,263 @@
    "updatedAt": "2026-09-18T16:31:34.489Z"
   },
   "2013-3": {
-   "words": [],
-   "sentences": [],
+   "words": [
+    {
+     "w": "prone",
+     "raw": "prone",
+     "p": 0,
+     "s": 0,
+     "sent": "Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses."
+    },
+    {
+     "w": "hard-wired",
+     "raw": "hard-wired",
+     "p": 0,
+     "s": 0,
+     "sent": "Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses."
+    },
+    {
+     "w": "mechanisms",
+     "raw": "mechanisms;",
+     "p": 1,
+     "s": 0,
+     "sent": "Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds."
+    },
+    {
+     "w": "defense",
+     "raw": "defense",
+     "p": 1,
+     "s": 0,
+     "sent": "Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds."
+    },
+    {
+     "w": "judging",
+     "raw": "judging",
+     "p": 1,
+     "s": 0,
+     "sent": "Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds."
+    },
+    {
+     "w": "assess",
+     "raw": "assess",
+     "p": 1,
+     "s": 1,
+     "sent": "But we need more time to assess other factors."
+    },
+    {
+     "w": "accurately",
+     "raw": "accurately",
+     "p": 1,
+     "s": 2,
+     "sent": "To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five."
+    },
+    {
+     "w": "sociable",
+     "raw": "sociable,",
+     "p": 1,
+     "s": 2,
+     "sent": "To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five."
+    },
+    {
+     "w": "personality",
+     "raw": "personality,",
+     "p": 1,
+     "s": 3,
+     "sent": "It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness."
+    },
+    {
+     "w": "neuroticism",
+     "raw": "neuroticism",
+     "p": 1,
+     "s": 3,
+     "sent": "It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness."
+    },
+    {
+     "w": "open-mindedness",
+     "raw": "open-mindedness.",
+     "p": 1,
+     "s": 3,
+     "sent": "It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness."
+    },
+    {
+     "w": "stimuli",
+     "raw": "stimuli",
+     "p": 2,
+     "s": 0,
+     "sent": "But snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm."
+    },
+    {
+     "w": "exclusive",
+     "raw": "exclusive",
+     "p": 2,
+     "s": 0,
+     "sent": "But snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm."
+    },
+    {
+     "w": "realm",
+     "raw": "realm.",
+     "p": 2,
+     "s": 0,
+     "sent": "But snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm."
+    },
+    {
+     "w": "primes",
+     "raw": "primes",
+     "p": 2,
+     "s": 1,
+     "sent": "Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating."
+    },
+    {
+     "w": "unconsciously",
+     "raw": "unconsciously",
+     "p": 2,
+     "s": 2,
+     "sent": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long."
+    },
+    {
+     "w": "impatience",
+     "raw": "impatience",
+     "p": 2,
+     "s": 2,
+     "sent": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long."
+    },
+    {
+     "w": "impulses",
+     "raw": "impulses",
+     "p": 2,
+     "s": 2,
+     "sent": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long."
+    },
+    {
+     "w": "exposed",
+     "raw": "exposed",
+     "p": 2,
+     "s": 2,
+     "sent": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long."
+    },
+    {
+     "w": "musical",
+     "raw": "musical",
+     "p": 2,
+     "s": 2,
+     "sent": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long."
+    },
+    {
+     "w": "lasts",
+     "raw": "lasts",
+     "p": 2,
+     "s": 2,
+     "sent": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long."
+    },
+    {
+     "w": "reverse",
+     "raw": "reverse",
+     "p": 3,
+     "s": 0,
+     "sent": "Yet we can reverse such influences."
+    },
+    {
+     "w": "representatives",
+     "raw": "representatives",
+     "p": 3,
+     "s": 1,
+     "sent": "If we know we will overreact to consumer products or housing options when we see a happy face (one reason good sales representatives and real estate agents are always smiling), we can take a moment before buying."
+    },
+    {
+     "w": "biases",
+     "raw": "biases",
+     "p": 3,
+     "s": 2,
+     "sent": "If we know female job screeners are more likely to reject attractive female applicants, we can help screeners understand their biases - or hire outside screeners."
+    },
+    {
+     "w": "reliably",
+     "raw": "reliably",
+     "p": 4,
+     "s": 0,
+     "sent": "John Gottman, the marriage expert, explains that we quickly \"thin slice\" information reliably only after we ground such snap reactions in \"thick sliced\" long-term study."
+    },
+    {
+     "w": "thick",
+     "raw": "\"thick",
+     "p": 4,
+     "s": 0,
+     "sent": "John Gottman, the marriage expert, explains that we quickly \"thin slice\" information reliably only after we ground such snap reactions in \"thick sliced\" long-term study."
+    },
+    {
+     "w": "retreat",
+     "raw": "retreat",
+     "p": 4,
+     "s": 1,
+     "sent": "When Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation: two days, not two seconds."
+    },
+    {
+     "w": "evaluation",
+     "raw": "evaluation:",
+     "p": 4,
+     "s": 1,
+     "sent": "When Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation: two days, not two seconds."
+    },
+    {
+     "w": "mute",
+     "raw": "mute",
+     "p": 5,
+     "s": 0,
+     "sent": "Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: dogs can think about the future only intermittently or for a few minutes."
+    },
+    {
+     "w": "pausing",
+     "raw": "pausing",
+     "p": 5,
+     "s": 0,
+     "sent": "Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: dogs can think about the future only intermittently or for a few minutes."
+    },
+    {
+     "w": "differentiates",
+     "raw": "differentiates",
+     "p": 5,
+     "s": 0,
+     "sent": "Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: dogs can think about the future only intermittently or for a few minutes."
+    },
+    {
+     "w": "intermittently",
+     "raw": "intermittently",
+     "p": 5,
+     "s": 0,
+     "sent": "Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: dogs can think about the future only intermittently or for a few minutes."
+    },
+    {
+     "w": "contemplating",
+     "raw": "contemplating",
+     "p": 5,
+     "s": 1,
+     "sent": "But historically we have spent about 12 percent of our days contemplating the longer term."
+    },
+    {
+     "w": "temptation",
+     "raw": "temptation",
+     "p": 5,
+     "s": 3,
+     "sent": "We still have the imaginative capacity to rise above temptation and reverse the high-speed trend."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 1,
+     "s": 3,
+     "text": "It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness."
+    },
+    {
+     "p": 2,
+     "s": 2,
+     "text": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long."
+    },
+    {
+     "p": 5,
+     "s": 1,
+     "text": "But historically we have spent about 12 percent of our days contemplating the longer term."
+    }
+   ],
    "phrases": [
     {
      "text": "vary according to",
@@ -2216,6 +2471,84 @@
      "m": "随（紧迫程度）变化",
      "base": "vary according to",
      "note": ""
+    },
+    {
+     "text": "are likely to",
+     "loc": "0:0",
+     "a": 21,
+     "b": 23,
+     "sent": "Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.",
+     "cn": "科学家发现，尽管我们容易做出瞬间的过度反应，但如果我们能稍作停顿，想一想自己可能会作何反应，就能减少甚至消除这种迅速的、与生俱来的反应所带来的负面影响。",
+     "m": "可能（作何反应）",
+     "base": "be likely to",
+     "note": "",
+     "p": 0,
+     "s": 0
+    },
+    {
+     "text": "It takes a while to",
+     "loc": "1:3",
+     "a": 0,
+     "b": 4,
+     "sent": "It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness.",
+     "cn": "而要判断性格中的复杂方面，如神经质或思想开放程度，则需要更长的时间。",
+     "m": "需要一段时间来",
+     "base": "it takes time to do",
+     "note": "",
+     "p": 1,
+     "s": 3
+    },
+    {
+     "text": "has little to do with",
+     "loc": "2:1",
+     "a": 27,
+     "b": 31,
+     "sent": "Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating.",
+     "cn": "多伦多大学的心理学家发现，仅仅看几毫秒的快餐标志，就会促使我们的阅读速度加快20%，尽管阅读与吃饭几乎毫无关系。",
+     "m": "与…几乎没关系",
+     "base": "have little to do with",
+     "note": "",
+     "p": 2,
+     "s": 1
+    },
+    {
+     "text": "exposed to",
+     "loc": "2:2",
+     "a": 19,
+     "b": 20,
+     "sent": "We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long.",
+     "cn": "我们无意识地把快餐与速度和急躁联系在一起，并把这种冲动带入我们正在做的其他任何事情中。接触过快餐标志闪现的受试者还倾向于认为一段音乐持续得太长了。",
+     "m": "接触到（快餐标志闪现）",
+     "base": "be exposed to",
+     "note": "",
+     "p": 2,
+     "s": 2
+    },
+    {
+     "text": "ground such snap reactions in",
+     "loc": "4:0",
+     "a": 16,
+     "b": 20,
+     "sent": "John Gottman, the marriage expert, explains that we quickly \"thin slice\" information reliably only after we ground such snap reactions in \"thick sliced\" long-term study.",
+     "cn": "婚姻专家约翰·戈特曼解释说，只有当我们把这类瞬间反应建立在“厚片”式的长期研究基础之上时，才能可靠地对信息进行快速的“薄片”式判断。",
+     "m": "把瞬间反应建立在…基础上",
+     "base": "ground A in B",
+     "note": "",
+     "p": 4,
+     "s": 0
+    },
+    {
+     "text": "rise above",
+     "loc": "5:3",
+     "a": 7,
+     "b": 8,
+     "sent": "We still have the imaginative capacity to rise above temptation and reverse the high-speed trend.",
+     "cn": "我们仍然拥有超越诱惑、扭转高速趋势的想象能力。",
+     "m": "超越（诱惑）",
+     "base": "rise above",
+     "note": "",
+     "p": 5,
+     "s": 3
     }
    ],
    "qwords": [
@@ -2346,7 +2679,360 @@
      "cn": "宽容的"
     }
    ],
-   "updatedAt": "2026-09-19T16:03:40.836Z"
+   "updatedAt": "2026-09-19T16:20:46.350Z"
+  },
+  "2013-4": {
+   "words": [
+    {
+     "w": "gender-equality",
+     "raw": "gender-equality",
+     "p": 0,
+     "s": 0,
+     "sent": "Europe is not a gender-equality heaven."
+    },
+    {
+     "w": "corporate",
+     "raw": "corporate",
+     "p": 0,
+     "s": 1,
+     "sent": "In particular, the corporate workplace will never be completely family-friendly until women are part of senior management decisions, and Europe's top corporate-governance positions remain overwhelmingly male."
+    },
+    {
+     "w": "corporate-governance",
+     "raw": "corporate-governance",
+     "p": 0,
+     "s": 1,
+     "sent": "In particular, the corporate workplace will never be completely family-friendly until women are part of senior management decisions, and Europe's top corporate-governance positions remain overwhelmingly male."
+    },
+    {
+     "w": "overwhelmingly",
+     "raw": "overwhelmingly",
+     "p": 0,
+     "s": 1,
+     "sent": "In particular, the corporate workplace will never be completely family-friendly until women are part of senior management decisions, and Europe's top corporate-governance positions remain overwhelmingly male."
+    },
+    {
+     "w": "boards",
+     "raw": "boards.",
+     "p": 0,
+     "s": 2,
+     "sent": "Indeed, women hold only 14 per cent of positions on European corporate boards."
+    },
+    {
+     "w": "workplace",
+     "raw": "workplace",
+     "p": 0,
+     "s": 1,
+     "sent": "In particular, the corporate workplace will never be completely family-friendly until women are part of senior management decisions, and Europe's top corporate-governance positions remain overwhelmingly male."
+    },
+    {
+     "w": "legislation",
+     "raw": "legislation",
+     "p": 1,
+     "s": 0,
+     "sent": "The European Union is now considering legislation to compel corporate boards to maintain a certain proportion of women - up to 60 per cent."
+    },
+    {
+     "w": "compel",
+     "raw": "compel",
+     "p": 1,
+     "s": 0,
+     "sent": "The European Union is now considering legislation to compel corporate boards to maintain a certain proportion of women - up to 60 per cent."
+    },
+    {
+     "w": "proportion",
+     "raw": "proportion",
+     "p": 1,
+     "s": 0,
+     "sent": "The European Union is now considering legislation to compel corporate boards to maintain a certain proportion of women - up to 60 per cent."
+    },
+    {
+     "w": "proposed",
+     "raw": "proposed",
+     "p": 1,
+     "s": 1,
+     "sent": "This proposed mandate was born of frustration."
+    },
+    {
+     "w": "mandate",
+     "raw": "mandate",
+     "p": 1,
+     "s": 1,
+     "sent": "This proposed mandate was born of frustration."
+    },
+    {
+     "w": "frustration",
+     "raw": "frustration.",
+     "p": 1,
+     "s": 1,
+     "sent": "This proposed mandate was born of frustration."
+    },
+    {
+     "w": "voluntary",
+     "raw": "voluntary",
+     "p": 1,
+     "s": 2,
+     "sent": "Last year, European Commission Vice President Viviane Reding issued a call to voluntary action."
+    },
+    {
+     "w": "appeal",
+     "raw": "appeal",
+     "p": 1,
+     "s": 4,
+     "sent": "But her appeal was considered a failure: only 24 companies took it up."
+    },
+    {
+     "w": "failure",
+     "raw": "failure:",
+     "p": 1,
+     "s": 4,
+     "sent": "But her appeal was considered a failure: only 24 companies took it up."
+    },
+    {
+     "w": "considered",
+     "raw": "considered",
+     "p": 1,
+     "s": 4,
+     "sent": "But her appeal was considered a failure: only 24 companies took it up."
+    },
+    {
+     "w": "quotas",
+     "raw": "quotas",
+     "p": 2,
+     "s": 0,
+     "sent": "Do we need quotas to ensure that women can continue to climb the corporate ladder fairly as they balance work and family?"
+    },
+    {
+     "w": "equality",
+     "raw": "equality",
+     "p": 3,
+     "s": 2,
+     "sent": "Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions."
+    },
+    {
+     "w": "binding",
+     "raw": "binding",
+     "p": 3,
+     "s": 2,
+     "sent": "Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions."
+    },
+    {
+     "w": "provisions",
+     "raw": "provisions",
+     "p": 3,
+     "s": 2,
+     "sent": "Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions."
+    },
+    {
+     "w": "reluctance",
+     "raw": "reluctance",
+     "p": 4,
+     "s": 0,
+     "sent": "I understand Reding's reluctance - and her frustration."
+    },
+    {
+     "w": "frustration",
+     "raw": "frustration.",
+     "p": 4,
+     "s": 0,
+     "sent": "I understand Reding's reluctance - and her frustration."
+    },
+    {
+     "w": "counter",
+     "raw": "counter",
+     "p": 4,
+     "s": 1,
+     "sent": "I don't like quotas either; they run counter to my belief in meritocracy, governance by the capable."
+    },
+    {
+     "w": "meritocracy",
+     "raw": "meritocracy,",
+     "p": 4,
+     "s": 1,
+     "sent": "I don't like quotas either; they run counter to my belief in meritocracy, governance by the capable."
+    },
+    {
+     "w": "obstacles",
+     "raw": "obstacles",
+     "p": 4,
+     "s": 2,
+     "sent": "But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered."
+    },
+    {
+     "w": "temporarily",
+     "raw": "temporarily",
+     "p": 4,
+     "s": 2,
+     "sent": "But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered."
+    },
+    {
+     "w": "ordered",
+     "raw": "ordered.",
+     "p": 4,
+     "s": 2,
+     "sent": "But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered."
+    },
+    {
+     "w": "evading",
+     "raw": "evading",
+     "p": 5,
+     "s": 0,
+     "sent": "After all, four decades of evidence has now shown that corporations in Europe as well as the US are evading the meritocratic hiring and promotion of women to top positions - no matter how much \"soft pressure\" is put upon them."
+    },
+    {
+     "w": "promotion",
+     "raw": "promotion",
+     "p": 5,
+     "s": 0,
+     "sent": "After all, four decades of evidence has now shown that corporations in Europe as well as the US are evading the meritocratic hiring and promotion of women to top positions - no matter how much \"soft pressure\" is put upon them."
+    },
+    {
+     "w": "pressure",
+     "raw": "pressure\"",
+     "p": 5,
+     "s": 0,
+     "sent": "After all, four decades of evidence has now shown that corporations in Europe as well as the US are evading the meritocratic hiring and promotion of women to top positions - no matter how much \"soft pressure\" is put upon them."
+    },
+    {
+     "w": "summit",
+     "raw": "summit",
+     "p": 5,
+     "s": 1,
+     "sent": "When women do break through to the summit of corporate power - as, for example, Sheryl Sandberg recently did at Facebook - they attract massive attention precisely because they remain the exception to the rule."
+    },
+    {
+     "w": "massive",
+     "raw": "massive",
+     "p": 5,
+     "s": 1,
+     "sent": "When women do break through to the summit of corporate power - as, for example, Sheryl Sandberg recently did at Facebook - they attract massive attention precisely because they remain the exception to the rule."
+    },
+    {
+     "w": "appropriate",
+     "raw": "appropriate",
+     "p": 6,
+     "s": 0,
+     "sent": "If appropriate public policies were in place to help all women - whether CEOs or their children's caregivers - and all families, Sandberg would be no more newsworthy than any other highly capable person living in a more just society."
+    },
+    {
+     "w": "newsworthy",
+     "raw": "newsworthy",
+     "p": 6,
+     "s": 0,
+     "sent": "If appropriate public policies were in place to help all women - whether CEOs or their children's caregivers - and all families, Sandberg would be no more newsworthy than any other highly capable person living in a more just society."
+    },
+    {
+     "w": "capable",
+     "raw": "capable",
+     "p": 6,
+     "s": 0,
+     "sent": "If appropriate public policies were in place to help all women - whether CEOs or their children's caregivers - and all families, Sandberg would be no more newsworthy than any other highly capable person living in a more just society."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 3,
+     "s": 2,
+     "text": "Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions."
+    },
+    {
+     "p": 4,
+     "s": 1,
+     "text": "I don't like quotas either; they run counter to my belief in meritocracy, governance by the capable."
+    },
+    {
+     "p": 4,
+     "s": 2,
+     "text": "But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered."
+    },
+    {
+     "p": 5,
+     "s": 1,
+     "text": "When women do break through to the summit of corporate power - as, for example, Sheryl Sandberg recently did at Facebook - they attract massive attention precisely because they remain the exception to the rule."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "up to",
+     "loc": "1:0",
+     "a": 19,
+     "b": 20,
+     "sent": "The European Union is now considering legislation to compel corporate boards to maintain a certain proportion of women - up to 60 per cent.",
+     "cn": "欧盟目前正在考虑立法，强制企业董事会保持一定比例的女性——最高可达60%。",
+     "m": "最高达（60%）",
+     "base": "up to",
+     "note": "",
+     "p": 1,
+     "s": 0
+    },
+    {
+     "text": "took it up",
+     "loc": "1:4",
+     "a": 10,
+     "b": 12,
+     "sent": "But her appeal was considered a failure: only 24 companies took it up.",
+     "cn": "但她的呼吁被认为以失败告终：只有24家公司响应。",
+     "m": "接受（呼吁）",
+     "base": "take up",
+     "note": "",
+     "p": 1,
+     "s": 4
+    },
+    {
+     "text": "glass ceiling",
+     "loc": "3:2",
+     "a": 14,
+     "b": 15,
+     "sent": "Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions.",
+     "cn": "配额能带来行动：雷丁表示，它们“为平等开辟了道路，并打破了玻璃天花板”，这一结果已在法国和其他一些就女性担任企业高层职位制定了具有法律约束力的规定的国家得到印证。",
+     "m": "（女性晋升的）无形障碍",
+     "base": "glass ceiling",
+     "note": "",
+     "p": 3,
+     "s": 2
+    },
+    {
+     "text": "run counter to",
+     "loc": "4:1",
+     "a": 6,
+     "b": 8,
+     "sent": "I don't like quotas either; they run counter to my belief in meritocracy, governance by the capable.",
+     "cn": "我也不喜欢配额；它们与我对精英管理——即由有能力者治理——的信念背道而驰。",
+     "m": "与（我的信念）相悖",
+     "base": "run counter to",
+     "note": "",
+     "p": 4,
+     "s": 1
+    },
+    {
+     "text": "look as if",
+     "loc": "4:2",
+     "a": 13,
+     "b": 15,
+     "sent": "But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered.",
+     "cn": "但是，考虑到实现精英管理理想所面临的重重障碍，看起来一个更公平的世界确实必须暂时通过强制手段来建立。",
+     "m": "看起来好像",
+     "base": "look as if",
+     "note": "",
+     "p": 4,
+     "s": 2
+    },
+    {
+     "text": "were in place",
+     "loc": "6:0",
+     "a": 4,
+     "b": 6,
+     "sent": "If appropriate public policies were in place to help all women - whether CEOs or their children's caregivers - and all families, Sandberg would be no more newsworthy than any other highly capable person living in a more just society.",
+     "cn": "如果有适当的公共政策来帮助所有女性——无论是首席执行官还是她们孩子的照料者——以及所有家庭，那么在一个更加公正的社会里，桑德伯格就不会比任何其他能力出众的人更具新闻价值。",
+     "m": "（政策）落实到位",
+     "base": "be in place",
+     "note": "",
+     "p": 6,
+     "s": 0
+    }
+   ],
+   "qwords": [],
+   "updatedAt": "2026-09-20T17:34:29.776Z"
   }
  },
  "prefs": {
@@ -2359,7 +3045,16 @@
    "solve": 1,
    "accomplish": 1,
    "reverse": 1,
-   "optimistic": 1
+   "optimistic": 1,
+   "judging": 1,
+   "impatience": 2,
+   "exposed": 1,
+   "biases": 1,
+   "thick": 1,
+   "evaluation": 1,
+   "pausing": 2,
+   "frustration": 1,
+   "reluctance": 1
   },
   "confuse": {
    "intrinsically": [
@@ -2670,7 +3365,74 @@
    "adequate": "2026-09-19T16:02:29.931Z",
    "sensible": "2026-09-19T16:02:35.174Z",
    "optimistic": "2026-09-19T16:03:28.628Z",
-   "culture": "2026-09-17T07:31:05.606Z"
+   "culture": "2026-09-17T07:31:05.606Z",
+   "prone": "2026-09-19T16:05:41.416Z",
+   "hard-wired": "2026-09-19T16:06:45.849Z",
+   "mechanisms": "2026-09-19T16:07:16.821Z",
+   "defense": "2026-09-19T16:07:20.909Z",
+   "judging": "2026-09-19T16:07:27.974Z",
+   "assess": "2026-09-19T16:07:54.224Z",
+   "accurately": "2026-09-19T16:08:21.032Z",
+   "sociable": "2026-09-19T16:08:26.035Z",
+   "personality": "2026-09-19T16:09:12.077Z",
+   "neuroticism": "2026-09-19T16:09:14.782Z",
+   "open-mindedness": "2026-09-19T16:09:20.767Z",
+   "stimuli": "2026-09-19T16:10:21.458Z",
+   "exclusive": "2026-09-19T16:10:27.124Z",
+   "realm": "2026-09-19T16:10:43.832Z",
+   "primes": "2026-09-19T16:11:20.876Z",
+   "unconsciously": "2026-09-19T16:12:18.260Z",
+   "impatience": "2026-09-19T16:12:22.987Z",
+   "impulses": "2026-09-19T16:12:31.905Z",
+   "exposed": "2026-09-19T16:12:57.395Z",
+   "flashes": "2026-09-19T16:13:21.813Z",
+   "musical": "2026-09-19T16:13:27.775Z",
+   "lasts": "2026-09-19T16:13:36.338Z",
+   "housing": "2026-09-19T16:14:45.278Z",
+   "representatives": "2026-09-19T16:15:31.818Z",
+   "biases": "2026-09-19T16:16:03.323Z",
+   "reliably": "2026-09-19T16:17:20.287Z",
+   "thick": "2026-09-19T16:17:46.067Z",
+   "retreat": "2026-09-19T16:18:34.166Z",
+   "evaluation": "2026-09-19T16:18:44.864Z",
+   "mute": "2026-09-19T16:19:01.471Z",
+   "pausing": "2026-09-19T16:19:21.784Z",
+   "differentiates": "2026-09-19T16:19:29.816Z",
+   "intermittently": "2026-09-19T16:19:38.574Z",
+   "contemplating": "2026-09-19T16:19:59.874Z",
+   "temptation": "2026-09-19T16:20:34.287Z",
+   "gender-equality": "2026-09-20T16:16:18.643Z",
+   "corporate": "2026-09-20T16:28:06.602Z",
+   "workplace": "2026-09-20T16:28:17.480Z",
+   "corporate-governance": "2026-09-20T16:28:44.997Z",
+   "overwhelmingly": "2026-09-20T16:28:56.508Z",
+   "boards": "2026-09-20T16:29:07.397Z",
+   "legislation": "2026-09-20T16:30:11.570Z",
+   "compel": "2026-09-20T16:30:15.306Z",
+   "proportion": "2026-09-20T16:30:26.644Z",
+   "proposed": "2026-09-20T16:30:51.202Z",
+   "mandate": "2026-09-20T16:30:58.673Z",
+   "frustration": "2026-09-20T16:31:03.677Z",
+   "voluntary": "2026-09-20T16:33:26.061Z",
+   "appeal": "2026-09-20T16:33:55.216Z",
+   "failure": "2026-09-20T16:34:00.068Z",
+   "quotas": "2026-09-20T16:36:13.149Z",
+   "ladder": "2026-09-20T16:36:32.569Z",
+   "equality": "2026-09-20T16:38:09.891Z",
+   "binding": "2026-09-20T16:38:39.552Z",
+   "provisions": "2026-09-20T16:38:49.786Z",
+   "reluctance": "2026-09-20T16:41:09.769Z",
+   "counter": "2026-09-20T16:41:50.569Z",
+   "meritocracy": "2026-09-20T16:42:02.552Z",
+   "obstacles": "2026-09-20T17:30:44.244Z",
+   "ordered": "2026-09-20T17:31:08.433Z",
+   "evading": "2026-09-20T17:32:06.566Z",
+   "promotion": "2026-09-20T17:32:20.284Z",
+   "pressure": "2026-09-20T17:32:37.731Z",
+   "summit": "2026-09-20T17:32:44.990Z",
+   "massive": "2026-09-20T17:33:03.952Z",
+   "newsworthy": "2026-09-20T17:34:22.359Z",
+   "capable": "2026-09-20T17:34:28.809Z"
   },
   "archived": {
    "uccelli": {
@@ -2702,1127 +3464,1511 @@
      "d": 0,
      "st": "l"
     },
-    "scorned": {
+    "eliminate": {
      "a": 20705001,
      "s": 0,
      "d": 0,
      "st": "l"
     },
-    "chaotic": {
+    "moral": {
      "a": 20705002,
      "s": 0,
      "d": 0,
      "st": "l"
     },
-    "agitated": {
+    "domain": {
+     "a": 20705003,
+     "s": 0,
+     "d": 0,
+     "st": "l"
+    },
+    "accommodating": {
      "a": 0,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "amplifying": {
+    "accomplish": {
      "a": 1,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "anti-immigrant": {
+    "agitated": {
      "a": 2,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "assured": {
+    "aliens": {
      "a": 3,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "constancy": {
+    "Along with": {
+     "a": 4,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "amplifying": {
      "a": 5,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "convention": {
+    "anti-immigrant": {
      "a": 6,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "conversely": {
+    "assured": {
      "a": 7,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "core": {
+    "chaotic": {
      "a": 8,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "correlations": {
+    "constancy": {
      "a": 9,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "counselled": {
+    "convention": {
      "a": 10,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "despaired": {
+    "conversely": {
      "a": 11,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "dictated": {
+    "core": {
      "a": 12,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "dimmed": {
+    "correlations": {
      "a": 13,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "discerning": {
+    "counselled": {
      "a": 14,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "domain": {
+    "despaired": {
      "a": 15,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "efficacy": {
+    "dictated": {
      "a": 16,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "eliminate": {
+    "dimmed": {
      "a": 17,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "elite": {
+    "discerning": {
      "a": 18,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "fabric": {
+    "divide newcomers into": {
      "a": 19,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "faithfulness": {
-     "a": 20,
-     "s": 0,
-     "d": 0,
-     "st": "u"
-    },
-    "femininity": {
+    "efficacy": {
      "a": 21,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "has never been": {
+    "elite": {
      "a": 23,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "imposes": {
+    "entrepreneurs": {
      "a": 24,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "impoverished": {
+    "fabric": {
      "a": 25,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "inclusive": {
+    "faithfulness": {
      "a": 26,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "infant": {
+    "femininity": {
      "a": 27,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "inherently": {
+    "for a while": {
      "a": 28,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "innocence": {
+    "for good": {
      "a": 29,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "innovation": {
-     "a": 30,
-     "s": 0,
-     "d": 0,
-     "st": "u"
-    },
-    "interact": {
+    "hail": {
      "a": 31,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "intimations": {
+    "has never been": {
      "a": 32,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "intrinsically": {
+    "implied": {
      "a": 33,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "isolated": {
+    "imposes": {
      "a": 34,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "landscape": {
+    "impoverished": {
      "a": 35,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "lean": {
+    "in motion": {
      "a": 36,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "lengthy": {
+    "in the making": {
      "a": 37,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "mandates": {
+    "incentives": {
      "a": 38,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "masculine": {
+    "inclusive": {
      "a": 39,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "materialistic": {
+    "infant": {
      "a": 40,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "mean-spirited": {
+    "inherently": {
      "a": 41,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "monopolies": {
+    "innocence": {
      "a": 42,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "obsessed": {
+    "innovation": {
      "a": 43,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "overturned": {
+    "interact": {
      "a": 44,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "particularly": {
+    "intimations": {
      "a": 45,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "perception": {
+    "intrinsically": {
      "a": 46,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "preliminary": {
+    "isolated": {
      "a": 47,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "prudent": {
+    "jurisdictions": {
      "a": 48,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "psychological": {
+    "kicked out": {
      "a": 49,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "publications": {
+    "landscape": {
      "a": 50,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "quickly": {
+    "lean": {
      "a": 51,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "recession": {
+    "lengthy": {
      "a": 52,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "reckless": {
+    "logic": {
      "a": 53,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "reinforce": {
+    "look beyond": {
      "a": 54,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "resentment": {
+    "loosened": {
      "a": 55,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "reversed": {
+    "mandates": {
      "a": 56,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "ritual": {
+    "masculine": {
      "a": 57,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "segment": {
+    "materialistic": {
+     "a": 58,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mean-spirited": {
      "a": 59,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "sentiment": {
+    "meet challenges": {
      "a": 60,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "sequencing": {
+    "mighty": {
      "a": 61,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "stagnation": {
+    "monopolies": {
      "a": 62,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "suppress": {
+    "multiple": {
      "a": 63,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "terribly": {
+    "obsessed": {
      "a": 64,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "thorny": {
+    "opening up": {
      "a": 65,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "tolerant": {
+    "overturned": {
      "a": 66,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "typically": {
+    "paralysis": {
      "a": 67,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "urged": {
+    "particularly": {
      "a": 68,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "across-the-board": {
+    "perception": {
      "a": 69,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "administrators": {
+    "preliminary": {
      "a": 70,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "blessing": {
+    "prudent": {
      "a": 71,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "brief": {
+    "psychological": {
      "a": 72,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "contradictory": {
+    "publications": {
      "a": 73,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "defined": {
+    "quickly": {
      "a": 74,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "domestic": {
+    "recession": {
      "a": 75,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "evolved": {
+    "reckless": {
      "a": 76,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "gender-neutral": {
+    "recognition": {
      "a": 77,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "genome": {
+    "refers to": {
      "a": 78,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "impact": {
+    "reinforce": {
      "a": 79,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "inequality": {
+    "resentment": {
      "a": 80,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "inflexible": {
+    "reversed": {
      "a": 81,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "joblessness": {
+    "rigid": {
      "a": 82,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "magnify": {
+    "ritual": {
      "a": 83,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "molecules": {
+    "rivals": {
      "a": 84,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "pastel": {
+    "scorned": {
      "a": 85,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "patents": {
+    "segment": {
      "a": 86,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "personalised": {
+    "sentiment": {
      "a": 87,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "pervasive": {
+    "sequencing": {
      "a": 88,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "polls": {
+    "solve": {
      "a": 89,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "relieved": {
+    "stagnation": {
      "a": 90,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "somehow": {
+    "suppress": {
      "a": 91,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "sure-fire": {
+    "terribly": {
      "a": 92,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "task-force": {
+    "thorny": {
      "a": 93,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "ultimately": {
+    "thriving": {
      "a": 94,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "unavoidable": {
+    "tolerance": {
      "a": 95,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "critical": {
+    "tolerant": {
      "a": 96,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "violently": {
+    "typically": {
      "a": 97,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "accepted": {
+    "urged": {
      "a": 98,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "advanced": {
+    "permanent": {
      "a": 99,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "alike": {
+    "across-the-board": {
      "a": 100,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "appearance": {
+    "administrators": {
      "a": 101,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "attempts": {
+    "affectionate": {
      "a": 102,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "aware": {
+    "blessing": {
      "a": 103,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "beneath": {
+    "brand": {
      "a": 104,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "broadly": {
+    "brief": {
      "a": 105,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "brought": {
+    "committing": {
      "a": 106,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "character": {
+    "contradictory": {
      "a": 107,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "complete": {
+    "defined": {
      "a": 108,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "conflict": {
+    "definitions": {
      "a": 109,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "consequences": {
+    "departed": {
      "a": 110,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "considered": {
+    "domestic": {
      "a": 111,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "consumerism": {
+    "evolved": {
      "a": 112,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "decades": {
+    "folks": {
      "a": 113,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "decrease": {
+    "framework": {
      "a": 114,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "determine": {
+    "gender-neutral": {
      "a": 115,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "disaster": {
+    "genome": {
      "a": 116,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "divides": {
+    "honorably": {
      "a": 117,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "dots": {
+    "impact": {
      "a": 118,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "eager": {
+    "inequality": {
      "a": 119,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "especially": {
+    "inflexible": {
      "a": 120,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "ever-tinier": {
+    "joblessness": {
      "a": 121,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "exactly": {
+    "magnify": {
      "a": 122,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "extremely": {
+    "mightily": {
      "a": 123,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "fairly": {
+    "molecules": {
      "a": 124,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "falls": {
+    "pastel": {
      "a": 125,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "fever": {
+    "patents": {
      "a": 126,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "filed": {
+    "personalised": {
      "a": 127,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "forecast": {
+    "pervasive": {
      "a": 128,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "graduating": {
+    "polls": {
      "a": 129,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "indeed": {
+    "relieved": {
      "a": 130,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "innocent": {
+    "settlers": {
      "a": 131,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "masses": {
+    "sojourners": {
      "a": 132,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "medicine": {
+    "somehow": {
      "a": 133,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "mixed": {
+    "straddle": {
      "a": 134,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "moral": {
+    "sure-fire": {
      "a": 135,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "necessary": {
+    "task-force": {
      "a": 136,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "nursery": {
+    "ultimately": {
      "a": 137,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "otherwise": {
+    "unavoidable": {
      "a": 138,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "packed": {
+    "critical": {
      "a": 139,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "practical": {
+    "motion": {
      "a": 140,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "precisely": {
+    "violently": {
      "a": 141,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "presents": {
+    "temporarily": {
      "a": 142,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "reform": {
+    "accepted": {
      "a": 143,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "respects": {
+    "adapted": {
      "a": 144,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "restrict": {
+    "advanced": {
      "a": 145,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "results": {
+    "aides": {
      "a": 146,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "separated": {
+    "alike": {
      "a": 147,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "sessions": {
+    "appearance": {
      "a": 148,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "shook": {
+    "appropriate": {
      "a": 149,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "shrunk": {
+    "atlantic": {
      "a": 150,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "since": {
+    "attempts": {
      "a": 151,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "socially": {
+    "aware": {
      "a": 152,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "strength": {
+    "beneath": {
      "a": 153,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "struggles": {
+    "broadly": {
      "a": 154,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "temporarily": {
+    "brought": {
      "a": 155,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "term": {
+    "character": {
      "a": 156,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "toddler": {
+    "complete": {
      "a": 157,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "unpatentable": {
+    "conflict": {
      "a": 158,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "violates": {
+    "consequences": {
      "a": 159,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "wore": {
+    "considered": {
      "a": 160,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "a": {
+    "construction": {
      "a": 161,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "advance": {
+    "consumerism": {
      "a": 162,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "advances": {
+    "decades": {
      "a": 163,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "among": {
+    "decrease": {
      "a": 164,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "and": {
+    "determine": {
      "a": 165,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "appeals": {
+    "disaster": {
      "a": 166,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "atlantic": {
+    "divides": {
      "a": 167,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "attraction": {
+    "dots": {
      "a": 168,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "awoken": {
+    "eager": {
      "a": 169,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "before": {
+    "energetic": {
      "a": 170,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "beginning": {
+    "especially": {
      "a": 171,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "certainly": {
+    "ever-tinier": {
      "a": 172,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "colour-coded": {
+    "exactly": {
      "a": 173,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "continue": {
+    "extremely": {
      "a": 174,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "could": {
+    "fairly": {
      "a": 175,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "course": {
+    "falls": {
      "a": 176,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "culture": {
+    "fever": {
      "a": 177,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "dna": {
+    "filed": {
      "a": 178,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "never": {
+    "forecast": {
      "a": 179,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "not": {
+    "graduating": {
      "a": 180,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "over": {
+    "great": {
      "a": 181,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "professor": {
+    "indeed": {
      "a": 182,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "slice": {
+    "innocent": {
      "a": 183,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "something": {
+    "italian": {
      "a": 184,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "tiny": {
+    "masses": {
      "a": 185,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "to": {
+    "medicine": {
      "a": 186,
      "s": 0,
      "d": 0,
      "st": "u"
     },
-    "tries": {
+    "mixed": {
      "a": 187,
      "s": 0,
      "d": 0,
      "st": "u"
+    },
+    "necessary": {
+     "a": 189,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "newcomers": {
+     "a": 190,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "nursery": {
+     "a": 191,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "otherwise": {
+     "a": 192,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "packed": {
+     "a": 193,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "political": {
+     "a": 194,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "practical": {
+     "a": 195,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "precisely": {
+     "a": 196,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "presents": {
+     "a": 197,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reform": {
+     "a": 198,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "regular": {
+     "a": 199,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "respects": {
+     "a": 200,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "restrict": {
+     "a": 201,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "results": {
+     "a": 202,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "separated": {
+     "a": 203,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sessions": {
+     "a": 204,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "shook": {
+     "a": 205,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "shrunk": {
+     "a": 206,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "since": {
+     "a": 207,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "socially": {
+     "a": 208,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "strength": {
+     "a": 209,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "strict": {
+     "a": 210,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "struggles": {
+     "a": 211,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "term": {
+     "a": 212,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "toddler": {
+     "a": 213,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "treated": {
+     "a": 214,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "unpatentable": {
+     "a": 215,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "violates": {
+     "a": 216,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "violinists": {
+     "a": 217,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "while": {
+     "a": 218,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "wore": {
+     "a": 219,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "a": {
+     "a": 220,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "advance": {
+     "a": 221,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "advances": {
+     "a": 222,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "among": {
+     "a": 223,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "and": {
+     "a": 224,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "appeals": {
+     "a": 225,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "attraction": {
+     "a": 226,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "awoken": {
+     "a": 227,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "before": {
+     "a": 228,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "beginning": {
+     "a": 229,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "can": {
+     "a": 230,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "categories": {
+     "a": 231,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "certainly": {
+     "a": 232,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "colour-coded": {
+     "a": 233,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "continue": {
+     "a": 234,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "could": {
+     "a": 235,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "course": {
+     "a": 236,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "dna": {
+     "a": 237,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "good": {
+     "a": 238,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "kicked": {
+     "a": 239,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "legally": {
+     "a": 240,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "making": {
+     "a": 241,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "never": {
+     "a": 242,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "not": {
+     "a": 243,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "over": {
+     "a": 244,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "professor": {
+     "a": 245,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "slice": {
+     "a": 246,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "something": {
+     "a": 247,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "tiny": {
+     "a": 248,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "to": {
+     "a": 249,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "tries": {
+     "a": 250,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "uccelli": {
+     "a": 251,
+     "s": 0,
+     "d": 0,
+     "st": "m"
     }
    },
    "quiz": {
@@ -3832,16 +4978,22 @@
      "d": 20715,
      "st": "l"
     },
-    "scorned": {
+    "eliminate": {
      "a": 20705001,
-     "s": 0,
-     "d": 20715,
+     "s": 1,
+     "d": 20716,
      "st": "l"
     },
-    "chaotic": {
+    "moral": {
      "a": 20705002,
-     "s": 0,
-     "d": 20715,
+     "s": 1,
+     "d": 20716,
+     "st": "l"
+    },
+    "domain": {
+     "a": 20705003,
+     "s": 1,
+     "d": 20716,
      "st": "l"
     }
    },
@@ -3851,31 +5003,33 @@
    "card": {
     "d": 20715,
     "ids": [
+     "accommodating",
+     "accomplish",
      "agitated",
+     "uccelli",
+     "tries",
+     "fuses",
+     "eliminate",
+     "moral",
+     "domain",
+     "aliens",
+     "Along with",
      "amplifying",
      "anti-immigrant",
-     "tries",
-     "to",
-     "fuses",
-     "scorned",
-     "chaotic",
      "assured",
-     "constancy",
-     "convention",
-     "conversely",
-     "core",
-     "correlations",
-     "counselled"
+     "chaotic"
     ],
-    "i": 2,
-    "done": []
+    "i": 14,
+    "done": [
+     "uccelli"
+    ]
    }
   },
   "drill": {},
   "posg": {
    "card": {
-    "ok": 1,
-    "bad": 1
+    "ok": 5,
+    "bad": 3
    },
    "quiz": {
     "ok": 0,
