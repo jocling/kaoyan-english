@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-04T18:37:43.226Z",
+ "updatedAt": "2026-10-04T18:50:26.926Z",
  "count": 12,
  "attempts": [
   {
@@ -3123,6 +3123,89 @@
    ],
    "qwords": [],
    "updatedAt": "2026-09-20T17:34:29.776Z"
+  },
+  "2014-2": {
+   "words": [
+    {
+     "w": "empirical",
+     "raw": "empirical",
+     "p": 0,
+     "s": 0,
+     "sent": "An article in Scientific American has pointed out that empirical research says that, actually, you think you're more beautiful than you are."
+    },
+    {
+     "w": "deep-seated",
+     "raw": "deep-seated",
+     "p": 0,
+     "s": 1,
+     "sent": "We have a deep-seated need to feel good about ourselves and we naturally employ a number of self-enhancing strategies to achieve this."
+    },
+    {
+     "w": "employ",
+     "raw": "employ",
+     "p": 0,
+     "s": 1,
+     "sent": "We have a deep-seated need to feel good about ourselves and we naturally employ a number of self-enhancing strategies to achieve this."
+    },
+    {
+     "w": "amassed",
+     "raw": "amassed",
+     "p": 0,
+     "s": 2,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    },
+    {
+     "w": "above",
+     "raw": "\"above",
+     "p": 0,
+     "s": 2,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    },
+    {
+     "w": "illusory",
+     "raw": "\"illusory",
+     "p": 0,
+     "s": 2,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 1,
+     "text": "We have a deep-seated need to feel good about ourselves and we naturally employ a number of self-enhancing strategies to achieve this."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "pointed out",
+     "loc": "0:0",
+     "a": 6,
+     "b": 7,
+     "sent": "An article in Scientific American has pointed out that empirical research says that, actually, you think you're more beautiful than you are.",
+     "cn": "《科学美国人》上的一篇文章指出，实证研究表明，实际上，你觉得自己比真实的你更好看。",
+     "m": "指出",
+     "base": "point out",
+     "note": "",
+     "p": 0,
+     "s": 0
+    },
+    {
+     "text": "oceans of research into",
+     "loc": "0:2",
+     "a": 4,
+     "b": 7,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities.",
+     "cn": "社会心理学家已经积累了海量研究，探讨他们所称的\"高于平均效应\"或\"虚幻的优越感\"，并证明，比如说，70%的人认为自己的领导能力高于平均水平，93%的人认为自己的驾驶技术高于平均水平，85%的人认为自己与人相处的能力高于平均水平——这些在统计学上显然都是不可能的。",
+     "m": "海量的（研究）",
+     "base": "oceans of",
+     "note": "",
+     "p": 0,
+     "s": 2
+    }
+   ],
+   "qwords": [],
+   "updatedAt": "2026-10-04T18:49:37.070Z"
   }
  },
  "prefs": {
@@ -3567,7 +3650,15 @@
    "summit": "2026-09-20T17:32:44.990Z",
    "massive": "2026-09-20T17:33:03.952Z",
    "newsworthy": "2026-09-20T17:34:22.359Z",
-   "capable": "2026-09-20T17:34:28.809Z"
+   "capable": "2026-09-20T17:34:28.809Z",
+   "out": "2026-10-04T18:37:56.782Z",
+   "empirical": "2026-10-04T18:38:18.506Z",
+   "deep-seated": "2026-10-04T18:44:35.256Z",
+   "employ": "2026-10-04T18:44:50.284Z",
+   "amassed": "2026-10-04T18:48:23.712Z",
+   "oceans": "2026-10-04T18:48:32.759Z",
+   "above": "2026-10-04T18:49:18.333Z",
+   "illusory": "2026-10-04T18:49:31.713Z"
   },
   "archived": {
    "uccelli": {
