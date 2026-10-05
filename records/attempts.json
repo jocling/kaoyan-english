@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-04T18:50:26.926Z",
+ "updatedAt": "2026-10-05T04:50:54.991Z",
  "count": 12,
  "attempts": [
   {
@@ -3167,6 +3167,251 @@
      "p": 0,
      "s": 2,
      "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    },
+    {
+     "w": "superiority",
+     "raw": "superiority\",",
+     "p": 0,
+     "s": 2,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    },
+    {
+     "w": "rate",
+     "raw": "rate",
+     "p": 0,
+     "s": 2,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    },
+    {
+     "w": "statistical",
+     "raw": "statistical",
+     "p": 0,
+     "s": 2,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    },
+    {
+     "w": "driving",
+     "raw": "driving",
+     "p": 0,
+     "s": 2,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities."
+    },
+    {
+     "w": "rose-tint",
+     "raw": "rose-tint",
+     "p": 1,
+     "s": 0,
+     "sent": "We rose-tint our memories and put ourselves into self-affirming situations."
+    },
+    {
+     "w": "self-affirming",
+     "raw": "self-affirming",
+     "p": 1,
+     "s": 0,
+     "sent": "We rose-tint our memories and put ourselves into self-affirming situations."
+    },
+    {
+     "w": "defensive",
+     "raw": "defensive",
+     "p": 1,
+     "s": 1,
+     "sent": "We become defensive when criticised, and apply negative stereotypes to others to boost our own esteem."
+    },
+    {
+     "w": "stereotypes",
+     "raw": "stereotypes",
+     "p": 1,
+     "s": 1,
+     "sent": "We become defensive when criticised, and apply negative stereotypes to others to boost our own esteem."
+    },
+    {
+     "w": "stalk",
+     "raw": "stalk",
+     "p": 1,
+     "s": 2,
+     "sent": "We stalk around thinking we're hot stuff."
+    },
+    {
+     "w": "oversaw",
+     "raw": "oversaw",
+     "p": 2,
+     "s": 0,
+     "sent": "Psychologist and behavioural scientist Nicholas Epley oversaw a key study into self-enhancement and attractiveness."
+    },
+    {
+     "w": "attractiveness",
+     "raw": "attractiveness.",
+     "p": 2,
+     "s": 0,
+     "sent": "Psychologist and behavioural scientist Nicholas Epley oversaw a key study into self-enhancement and attractiveness."
+    },
+    {
+     "w": "altered",
+     "raw": "altered",
+     "p": 2,
+     "s": 1,
+     "sent": "Rather than have people simply rate their beauty compared with others, he asked them to identify an original photograph of themselves from a lineup including versions that had been altered to appear more and less attractive."
+    },
+    {
+     "w": "lineup",
+     "raw": "lineup",
+     "p": 2,
+     "s": 1,
+     "sent": "Rather than have people simply rate their beauty compared with others, he asked them to identify an original photograph of themselves from a lineup including versions that had been altered to appear more and less attractive."
+    },
+    {
+     "w": "versions",
+     "raw": "versions",
+     "p": 2,
+     "s": 1,
+     "sent": "Rather than have people simply rate their beauty compared with others, he asked them to identify an original photograph of themselves from a lineup including versions that had been altered to appear more and less attractive."
+    },
+    {
+     "w": "occurring",
+     "raw": "occurring",
+     "p": 2,
+     "s": 2,
+     "sent": "Visual recognition, reads the study, is \"an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation\"."
+    },
+    {
+     "w": "intuitively",
+     "raw": "intuitively",
+     "p": 2,
+     "s": 2,
+     "sent": "Visual recognition, reads the study, is \"an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation\"."
+    },
+    {
+     "w": "apparent",
+     "raw": "apparent",
+     "p": 2,
+     "s": 2,
+     "sent": "Visual recognition, reads the study, is \"an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation\"."
+    },
+    {
+     "w": "conscious",
+     "raw": "conscious",
+     "p": 2,
+     "s": 2,
+     "sent": "Visual recognition, reads the study, is \"an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation\"."
+    },
+    {
+     "w": "falsely",
+     "raw": "falsely",
+     "p": 2,
+     "s": 3,
+     "sent": "If the subjects quickly chose a falsely flattering image - which most did - they genuinely believed it was really how they looked."
+    },
+    {
+     "w": "flattering",
+     "raw": "flattering",
+     "p": 2,
+     "s": 3,
+     "sent": "If the subjects quickly chose a falsely flattering image - which most did - they genuinely believed it was really how they looked."
+    },
+    {
+     "w": "genuinely",
+     "raw": "genuinely",
+     "p": 2,
+     "s": 3,
+     "sent": "If the subjects quickly chose a falsely flattering image - which most did - they genuinely believed it was really how they looked."
+    },
+    {
+     "w": "positively",
+     "raw": "positively",
+     "p": 3,
+     "s": 1,
+     "sent": "Nor was there any evidence that those who self-enhanced the most (that is, the participants who thought the most positively doctored pictures were real) were doing so to make up for profound insecurities."
+    },
+    {
+     "w": "doctored",
+     "raw": "doctored",
+     "p": 3,
+     "s": 1,
+     "sent": "Nor was there any evidence that those who self-enhanced the most (that is, the participants who thought the most positively doctored pictures were real) were doing so to make up for profound insecurities."
+    },
+    {
+     "w": "insecurities",
+     "raw": "insecurities.",
+     "p": 3,
+     "s": 1,
+     "sent": "Nor was there any evidence that those who self-enhanced the most (that is, the participants who thought the most positively doctored pictures were real) were doing so to make up for profound insecurities."
+    },
+    {
+     "w": "directly",
+     "raw": "directly",
+     "p": 3,
+     "s": 2,
+     "sent": "In fact, those who thought that the images higher up the attractiveness scale were real directly corresponded with those who showed other markers for having higher self-esteem."
+    },
+    {
+     "w": "markers",
+     "raw": "markers",
+     "p": 3,
+     "s": 2,
+     "sent": "In fact, those who thought that the images higher up the attractiveness scale were real directly corresponded with those who showed other markers for having higher self-esteem."
+    },
+    {
+     "w": "scale",
+     "raw": "scale",
+     "p": 3,
+     "s": 2,
+     "sent": "In fact, those who thought that the images higher up the attractiveness scale were real directly corresponded with those who showed other markers for having higher self-esteem."
+    },
+    {
+     "w": "delusion",
+     "raw": "delusion,\"",
+     "p": 3,
+     "s": 3,
+     "sent": "\"I don't think the findings that we have are any evidence of personal delusion,\" says Epley."
+    },
+    {
+     "w": "depressed",
+     "raw": "depressed,",
+     "p": 3,
+     "s": 5,
+     "sent": "If you are depressed, you won't be self-enhancing."
+    },
+    {
+     "w": "viscerally",
+     "raw": "viscerally",
+     "p": 4,
+     "s": 0,
+     "sent": "Knowing the results of Epley's study, it makes sense that many people hate photographs of themselves viscerally - on one level, they don't even recognise the person in the picture as themselves."
+    },
+    {
+     "w": "deliberation",
+     "raw": "deliberation\".",
+     "p": 2,
+     "s": 2,
+     "sent": "Visual recognition, reads the study, is \"an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation\"."
+    },
+    {
+     "w": "flattering",
+     "raw": "flattering",
+     "p": 4,
+     "s": 1,
+     "sent": "Facebook, therefore, is a self-enhancer's paradise, where people can share only the most flattering photos, the cream of their wit, style, beauty, intellect and lifestyles."
+    },
+    {
+     "w": "cream",
+     "raw": "cream",
+     "p": 4,
+     "s": 1,
+     "sent": "Facebook, therefore, is a self-enhancer's paradise, where people can share only the most flattering photos, the cream of their wit, style, beauty, intellect and lifestyles."
+    },
+    {
+     "w": "wit",
+     "raw": "wit,",
+     "p": 4,
+     "s": 1,
+     "sent": "Facebook, therefore, is a self-enhancer's paradise, where people can share only the most flattering photos, the cream of their wit, style, beauty, intellect and lifestyles."
+    },
+    {
+     "w": "portray",
+     "raw": "portray",
+     "p": 4,
+     "s": 2,
+     "sent": "It's not that people's profiles are dishonest, says Catalina Toma of Wisconsin-Madison University, \"but they portray an idealised version of themselves.\""
     }
    ],
    "sentences": [
@@ -3174,6 +3419,36 @@
      "p": 0,
      "s": 1,
      "text": "We have a deep-seated need to feel good about ourselves and we naturally employ a number of self-enhancing strategies to achieve this."
+    },
+    {
+     "p": 1,
+     "s": 1,
+     "text": "We become defensive when criticised, and apply negative stereotypes to others to boost our own esteem."
+    },
+    {
+     "p": 1,
+     "s": 2,
+     "text": "We stalk around thinking we're hot stuff."
+    },
+    {
+     "p": 2,
+     "s": 1,
+     "text": "Rather than have people simply rate their beauty compared with others, he asked them to identify an original photograph of themselves from a lineup including versions that had been altered to appear more and less attractive."
+    },
+    {
+     "p": 2,
+     "s": 3,
+     "text": "If the subjects quickly chose a falsely flattering image - which most did - they genuinely believed it was really how they looked."
+    },
+    {
+     "p": 2,
+     "s": 2,
+     "text": "Visual recognition, reads the study, is \"an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation\"."
+    },
+    {
+     "p": 3,
+     "s": 2,
+     "text": "In fact, those who thought that the images higher up the attractiveness scale were real directly corresponded with those who showed other markers for having higher self-esteem."
     }
    ],
    "phrases": [
@@ -3202,10 +3477,233 @@
      "note": "",
      "p": 0,
      "s": 2
+    },
+    {
+     "text": "rate ourselves as",
+     "loc": "0:2",
+     "a": 26,
+     "b": 28,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities.",
+     "cn": "社会心理学家已经积累了海量研究，探讨他们所称的\"高于平均效应\"或\"虚幻的优越感\"，并证明，比如说，70%的人认为自己的领导能力高于平均水平，93%的人认为自己的驾驶技术高于平均水平，85%的人认为自己与人相处的能力高于平均水平——这些在统计学上显然都是不可能的。",
+     "m": "把自己评为",
+     "base": "rate sb as",
+     "note": "",
+     "p": 0,
+     "s": 2
+    },
+    {
+     "text": "getting on well with",
+     "loc": "0:2",
+     "a": 39,
+     "b": 42,
+     "sent": "Social psychologists have amassed oceans of research into what they call the \"above average effect\", or \"illusory superiority\", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others - all obviously statistical impossibilities.",
+     "cn": "社会心理学家已经积累了海量研究，探讨他们所称的\"高于平均效应\"或\"虚幻的优越感\"，并证明，比如说，70%的人认为自己的领导能力高于平均水平，93%的人认为自己的驾驶技术高于平均水平，85%的人认为自己与人相处的能力高于平均水平——这些在统计学上显然都是不可能的。",
+     "m": "与（他人）相处融洽",
+     "base": "get on well with",
+     "note": "",
+     "p": 0,
+     "s": 2
+    },
+    {
+     "text": "hot stuff",
+     "loc": "1:2",
+     "a": 5,
+     "b": 6,
+     "sent": "We stalk around thinking we're hot stuff.",
+     "cn": "我们昂首阔步，自以为了不起。",
+     "m": "了不起的人物",
+     "base": "hot stuff",
+     "note": "",
+     "p": 1,
+     "s": 2
+    },
+    {
+     "text": "Rather than",
+     "loc": "2:1",
+     "a": 0,
+     "b": 1,
+     "sent": "Rather than have people simply rate their beauty compared with others, he asked them to identify an original photograph of themselves from a lineup including versions that had been altered to appear more and less attractive.",
+     "cn": "他没有让人们简单地把自己的美貌与他人作比较打分，而是让他们从一组照片中辨认出自己的原始照片，这组照片中还包括经过修改、变得更好看或更难看的版本。",
+     "m": "而不是",
+     "base": "rather than",
+     "note": "",
+     "p": 2,
+     "s": 1
+    },
+    {
+     "text": "make up for",
+     "loc": "3:1",
+     "a": 28,
+     "b": 30,
+     "sent": "Nor was there any evidence that those who self-enhanced the most (that is, the participants who thought the most positively doctored pictures were real) were doing so to make up for profound insecurities.",
+     "cn": "也没有任何证据表明，那些自我美化程度最高的人（即认为那些被修饰得最好看的照片是真实照片的受试者）这样做是为了弥补内心深处的不安全感。",
+     "m": "弥补（不安全感）",
+     "base": "make up for",
+     "note": "",
+     "p": 3,
+     "s": 1
+    },
+    {
+     "text": "corresponded with",
+     "loc": "3:2",
+     "a": 16,
+     "b": 17,
+     "sent": "In fact, those who thought that the images higher up the attractiveness scale were real directly corresponded with those who showed other markers for having higher self-esteem.",
+     "cn": "事实上，认为吸引力量表上较靠前的照片是真实照片的人，恰恰与那些表现出其他高自尊特征的人直接对应。",
+     "m": "与……相符、对应",
+     "base": "correspond with",
+     "note": "",
+     "p": 3,
+     "s": 2
     }
    ],
-   "qwords": [],
-   "updatedAt": "2026-10-04T18:49:37.070Z"
+   "qwords": [
+    {
+     "key": "26:A:1",
+     "w": "self-ratings",
+     "raw": "self-ratings",
+     "n": 26,
+     "part": "A",
+     "sent": "our self-ratings are unrealistically high",
+     "cn": "我们对自己的评价高得不切实际"
+    },
+    {
+     "key": "26:A:3",
+     "w": "unrealistically",
+     "raw": "unrealistically",
+     "n": 26,
+     "part": "A",
+     "sent": "our self-ratings are unrealistically high",
+     "cn": "我们对自己的评价高得不切实际"
+    },
+    {
+     "key": "26:B:4",
+     "w": "baseless",
+     "raw": "baseless",
+     "n": 26,
+     "part": "B",
+     "sent": "illusory superiority is a baseless effect",
+     "cn": "虚幻的优越感是一种毫无根据的效应"
+    },
+    {
+     "key": "26:B:5",
+     "w": "effect",
+     "raw": "effect",
+     "n": 26,
+     "part": "B",
+     "sent": "illusory superiority is a baseless effect",
+     "cn": "虚幻的优越感是一种毫无根据的效应"
+    },
+    {
+     "key": "26:D:3",
+     "w": "ineffective",
+     "raw": "ineffective",
+     "n": 26,
+     "part": "D",
+     "sent": "self-enhancing strategies are ineffective",
+     "cn": "自我美化策略是无效的"
+    },
+    {
+     "key": "27:A:0",
+     "w": "rapid",
+     "raw": "rapid",
+     "n": 27,
+     "part": "A",
+     "sent": "rapid matching",
+     "cn": "快速匹配"
+    },
+    {
+     "key": "27:B:0",
+     "w": "conscious",
+     "raw": "conscious",
+     "n": 27,
+     "part": "B",
+     "sent": "conscious choice",
+     "cn": "有意识的选择"
+    },
+    {
+     "key": "27:C:0",
+     "w": "intuitive",
+     "raw": "intuitive",
+     "n": 27,
+     "part": "C",
+     "sent": "intuitive response",
+     "cn": "直觉反应"
+    },
+    {
+     "key": "27:D:1",
+     "w": "self-defence",
+     "raw": "self-defence",
+     "n": 27,
+     "part": "D",
+     "sent": "automatic self-defence",
+     "cn": "自动的自我防卫"
+    },
+    {
+     "key": "28:A:0",
+     "w": "underestimate",
+     "raw": "underestimate",
+     "n": 28,
+     "part": "A",
+     "sent": "underestimate their insecurities",
+     "cn": "低估自己的不安全感"
+    },
+    {
+     "key": "28:A:2",
+     "w": "insecurities",
+     "raw": "insecurities",
+     "n": 28,
+     "part": "A",
+     "sent": "underestimate their insecurities",
+     "cn": "低估自己的不安全感"
+    },
+    {
+     "key": "29:A:0",
+     "w": "instinctively",
+     "raw": "instinctively",
+     "n": 29,
+     "part": "A",
+     "sent": "instinctively",
+     "cn": "本能地"
+    },
+    {
+     "key": "29:B:0",
+     "w": "occasionally",
+     "raw": "occasionally",
+     "n": 29,
+     "part": "B",
+     "sent": "occasionally",
+     "cn": "偶尔地"
+    },
+    {
+     "key": "29:D:0",
+     "w": "aggressively",
+     "raw": "aggressively",
+     "n": 29,
+     "part": "D",
+     "sent": "aggressively",
+     "cn": "咄咄逼人地"
+    },
+    {
+     "key": "30:stem:3",
+     "w": "inferred",
+     "raw": "inferred",
+     "n": 30,
+     "part": "stem",
+     "sent": "It can be inferred that Facebook is a self-enhancer's paradise because people can ______",
+     "cn": "可以推断，脸书是自我美化者的天堂，因为人们可以……"
+    },
+    {
+     "key": "30:stem:9",
+     "w": "paradise",
+     "raw": "paradise",
+     "n": 30,
+     "part": "stem",
+     "sent": "It can be inferred that Facebook is a self-enhancer's paradise because people can ______",
+     "cn": "可以推断，脸书是自我美化者的天堂，因为人们可以……"
+    }
+   ],
+   "updatedAt": "2026-10-05T04:49:54.483Z"
   }
  },
  "prefs": {
@@ -3227,7 +3725,13 @@
    "evaluation": 1,
    "pausing": 2,
    "frustration": 1,
-   "reluctance": 1
+   "reluctance": 1,
+   "rate": 1,
+   "statistical": 1,
+   "effect": 1,
+   "rose-tint": 2,
+   "self-affirming": 2,
+   "deliberation": 1
   },
   "confuse": {
    "intrinsically": [
@@ -3250,6 +3754,15 @@
    ],
    "dictated": [
     "predict，意思是“预测、预言”。"
+   ],
+   "illusory": [
+    "illustrate 说明"
+   ],
+   "rose-tint": [
+    "tint 染色"
+   ],
+   "stuff": [
+    "staff 员工"
    ]
   },
   "quiz": {
@@ -3658,7 +4171,59 @@
    "amassed": "2026-10-04T18:48:23.712Z",
    "oceans": "2026-10-04T18:48:32.759Z",
    "above": "2026-10-04T18:49:18.333Z",
-   "illusory": "2026-10-04T18:49:31.713Z"
+   "illusory": "2026-10-04T18:49:31.713Z",
+   "superiority": "2026-10-04T18:52:23.404Z",
+   "rate": "2026-10-04T18:52:47.972Z",
+   "driving": "2026-10-04T18:53:15.666Z",
+   "statistical": "2026-10-04T18:53:55.944Z",
+   "self-ratings": "2026-10-04T18:56:16.676Z",
+   "unrealistically": "2026-10-04T18:56:25.157Z",
+   "baseless": "2026-10-04T18:56:34.294Z",
+   "effect": "2026-10-04T18:56:39.549Z",
+   "ineffective": "2026-10-04T18:57:16.113Z",
+   "rose-tint": "2026-10-04T18:57:47.924Z",
+   "self-affirming": "2026-10-04T18:58:47.814Z",
+   "defensive": "2026-10-04T18:59:04.147Z",
+   "stereotypes": "2026-10-04T18:59:13.662Z",
+   "thinking": "2026-10-04T18:59:21.342Z",
+   "stalk": "2026-10-04T19:01:31.001Z",
+   "stuff": "2026-10-04T19:01:37.721Z",
+   "oversaw": "2026-10-04T19:03:37.248Z",
+   "attractiveness": "2026-10-04T19:03:48.359Z",
+   "altered": "2026-10-04T19:05:19.834Z",
+   "lineup": "2026-10-04T19:06:39.823Z",
+   "versions": "2026-10-04T19:06:57.240Z",
+   "occurring": "2026-10-04T19:12:18.562Z",
+   "intuitively": "2026-10-04T19:12:27.431Z",
+   "apparent": "2026-10-04T19:12:37.499Z",
+   "deliberation": "2026-10-04T19:12:40.131Z",
+   "conscious": "2026-10-04T19:12:43.425Z",
+   "falsely": "2026-10-04T19:13:32.698Z",
+   "flattering": "2026-10-04T19:13:36.463Z",
+   "subjects": "2026-10-04T19:14:59.476Z",
+   "genuinely": "2026-10-04T19:15:17.311Z",
+   "responses": "2026-10-05T03:28:12.610Z",
+   "positively": "2026-10-05T03:28:52.236Z",
+   "doctored": "2026-10-05T03:28:56.803Z",
+   "insecurities": "2026-10-05T03:32:32.325Z",
+   "directly": "2026-10-05T03:35:54.436Z",
+   "markers": "2026-10-05T03:36:06.832Z",
+   "scale": "2026-10-05T03:38:46.062Z",
+   "delusion": "2026-10-05T03:41:24.381Z",
+   "depressed": "2026-10-05T04:39:13.793Z",
+   "viscerally": "2026-10-05T04:43:59.741Z",
+   "rapid": "2026-10-05T04:44:41.396Z",
+   "intuitive": "2026-10-05T04:44:50.938Z",
+   "self-defence": "2026-10-05T04:45:57.406Z",
+   "underestimate": "2026-10-05T04:47:10.171Z",
+   "instinctively": "2026-10-05T04:47:56.268Z",
+   "occasionally": "2026-10-05T04:48:10.759Z",
+   "aggressively": "2026-10-05T04:48:13.774Z",
+   "inferred": "2026-10-05T04:48:20.728Z",
+   "paradise": "2026-10-05T04:48:33.336Z",
+   "cream": "2026-10-05T04:49:22.360Z",
+   "wit": "2026-10-05T04:49:26.026Z",
+   "portray": "2026-10-05T04:49:52.935Z"
   },
   "archived": {
    "uccelli": {
