@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T14:41:24.619Z",
+ "updatedAt": "2026-10-08T15:48:04.513Z",
  "count": 16,
  "attempts": [
   {
@@ -4991,6 +4991,284 @@
     }
    ],
    "updatedAt": "2026-10-08T14:19:53.795Z"
+  },
+  "2015-2": {
+   "words": [
+    {
+     "w": "factors",
+     "raw": "factors.",
+     "p": 0,
+     "s": 0,
+     "sent": "For years, studies have found that first-generation college students - those who do not have a parent with a college degree - lag other students on a range of education achievement factors."
+    },
+    {
+     "w": "dropout",
+     "raw": "dropout",
+     "p": 0,
+     "s": 1,
+     "sent": "Their grades are lower and their dropout rates are higher."
+    },
+    {
+     "w": "since",
+     "raw": "since",
+     "p": 0,
+     "s": 2,
+     "sent": "But since such students are most likely to advance economically if they succeed in higher education, colleges and universities have pushed for decades to recruit more of them."
+    },
+    {
+     "w": "recruit",
+     "raw": "recruit",
+     "p": 0,
+     "s": 2,
+     "sent": "But since such students are most likely to advance economically if they succeed in higher education, colleges and universities have pushed for decades to recruit more of them."
+    },
+    {
+     "w": "economically",
+     "raw": "economically",
+     "p": 0,
+     "s": 2,
+     "sent": "But since such students are most likely to advance economically if they succeed in higher education, colleges and universities have pushed for decades to recruit more of them."
+    },
+    {
+     "w": "depressing",
+     "raw": "depressing",
+     "p": 0,
+     "s": 3,
+     "sent": "This has created \"a paradox\" in that recruiting first-generation students, but then watching many of them fail, means that higher education has \"continued to reproduce and widen, rather than close\" an achievement gap based on social class, according to the depressing beginning of a paper forthcoming in the journal Psychological Science."
+    },
+    {
+     "w": "forthcoming",
+     "raw": "forthcoming",
+     "p": 0,
+     "s": 3,
+     "sent": "This has created \"a paradox\" in that recruiting first-generation students, but then watching many of them fail, means that higher education has \"continued to reproduce and widen, rather than close\" an achievement gap based on social class, according to the depressing beginning of a paper forthcoming in the journal Psychological Science."
+    },
+    {
+     "w": "outlines",
+     "raw": "outlines",
+     "p": 1,
+     "s": 0,
+     "sent": "But the article is actually quite optimistic, as it outlines a potential solution to this problem, suggesting that an approach (which involves a one-hour, next-to-no-cost program) can close 63 percent of the achievement gap (measured by such factors as grades) between first-generation and other students."
+    },
+    {
+     "w": "next-to-no-cost",
+     "raw": "next-to-no-cost",
+     "p": 1,
+     "s": 0,
+     "sent": "But the article is actually quite optimistic, as it outlines a potential solution to this problem, suggesting that an approach (which involves a one-hour, next-to-no-cost program) can close 63 percent of the achievement gap (measured by such factors as grades) between first-generation and other students."
+    },
+    {
+     "w": "defined",
+     "raw": "defined",
+     "p": 2,
+     "s": 1,
+     "sent": "First generation was defined as not having a parent with a four-year college degree."
+    },
+    {
+     "w": "recipients",
+     "raw": "recipients",
+     "p": 2,
+     "s": 2,
+     "sent": "Most of the first-generation students (59.1 percent) were recipients of Pell Grants, a federal grant for undergraduates with financial need, while this was true only for 8.6 percent of the students with at least one parent with a four-year degree."
+    },
+    {
+     "w": "grant",
+     "raw": "grant",
+     "p": 2,
+     "s": 2,
+     "sent": "Most of the first-generation students (59.1 percent) were recipients of Pell Grants, a federal grant for undergraduates with financial need, while this was true only for 8.6 percent of the students with at least one parent with a four-year degree."
+    },
+    {
+     "w": "undergraduates",
+     "raw": "undergraduates",
+     "p": 2,
+     "s": 2,
+     "sent": "Most of the first-generation students (59.1 percent) were recipients of Pell Grants, a federal grant for undergraduates with financial need, while this was true only for 8.6 percent of the students with at least one parent with a four-year degree."
+    },
+    {
+     "w": "while",
+     "raw": "while",
+     "p": 2,
+     "s": 2,
+     "sent": "Most of the first-generation students (59.1 percent) were recipients of Pell Grants, a federal grant for undergraduates with financial need, while this was true only for 8.6 percent of the students with at least one parent with a four-year degree."
+    },
+    {
+     "w": "intervention",
+     "raw": "intervention",
+     "p": 3,
+     "s": 0,
+     "sent": "Their thesis - that a relatively modest intervention could have a big impact - was based on the view that first-generation students may be most lacking not in potential but in practical knowledge about how to deal with the issues that face most college students."
+    },
+    {
+     "w": "cite",
+     "raw": "cite",
+     "p": 3,
+     "s": 1,
+     "sent": "They cite past research by several authors to show that this is the gap that must be narrowed to close the achievement gap."
+    },
+    {
+     "w": "navigate",
+     "raw": "navigate",
+     "p": 4,
+     "s": 0,
+     "sent": "Many first-generation students \"struggle to navigate the middle-class culture of higher education, learn the 'rules of the game,' and take advantage of college resources,\" they write."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 0,
+     "text": "For years, studies have found that first-generation college students - those who do not have a parent with a college degree - lag other students on a range of education achievement factors."
+    },
+    {
+     "p": 0,
+     "s": 3,
+     "text": "This has created \"a paradox\" in that recruiting first-generation students, but then watching many of them fail, means that higher education has \"continued to reproduce and widen, rather than close\" an achievement gap based on social class, according to the depressing beginning of a paper forthcoming in the journal Psychological Science."
+    },
+    {
+     "p": 4,
+     "s": 0,
+     "text": "Many first-generation students \"struggle to navigate the middle-class culture of higher education, learn the 'rules of the game,' and take advantage of college resources,\" they write."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "a range of",
+     "loc": "0:0",
+     "a": 26,
+     "b": 28,
+     "sent": "For years, studies have found that first-generation college students - those who do not have a parent with a college degree - lag other students on a range of education achievement factors.",
+     "cn": "多年来，研究一直发现，第一代大学生——即父母都没有大学学历的学生——在一系列教育成就指标上落后于其他学生。",
+     "m": "一系列",
+     "base": "a range of",
+     "note": "",
+     "p": 0,
+     "s": 0
+    },
+    {
+     "text": "for decades",
+     "loc": "0:2",
+     "a": 21,
+     "b": 22,
+     "sent": "But since such students are most likely to advance economically if they succeed in higher education, colleges and universities have pushed for decades to recruit more of them.",
+     "cn": "但由于这类学生若能在高等教育中取得成功，就最有可能在经济上实现向上流动，几十年来各高校一直在努力招收更多这样的学生。",
+     "m": "",
+     "base": "",
+     "note": "",
+     "p": 0,
+     "s": 2
+    },
+    {
+     "text": "college students",
+     "loc": "q:26:D",
+     "a": 1,
+     "b": 2,
+     "sent": "depressed college students",
+     "cn": "使大学生感到沮丧",
+     "m": "大学生",
+     "base": "college student",
+     "note": ""
+    },
+    {
+     "text": "appeal to",
+     "loc": "q:27:A",
+     "a": 2,
+     "b": 3,
+     "sent": "their findings appeal to students",
+     "cn": "他们的研究结论吸引了学生",
+     "m": "吸引",
+     "base": "appeal to",
+     "note": ""
+    },
+    {
+     "text": "take advantage of",
+     "loc": "4:0",
+     "a": 19,
+     "b": 21,
+     "sent": "Many first-generation students \"struggle to navigate the middle-class culture of higher education, learn the 'rules of the game,' and take advantage of college resources,\" they write.",
+     "cn": "他们写道，许多第一代大学生“难以适应高等教育中的中产阶级文化，难以学会‘游戏规则’，也难以利用大学的资源”。",
+     "m": "利用",
+     "base": "take advantage of",
+     "note": "",
+     "p": 4,
+     "s": 0
+    }
+   ],
+   "qwords": [
+    {
+     "key": "26:stem:0",
+     "w": "recruiting",
+     "raw": "Recruiting",
+     "n": 26,
+     "part": "stem",
+     "sent": "Recruiting more first-generation students has ______",
+     "cn": "招收更多第一代大学生……"
+    },
+    {
+     "key": "27:C:3",
+     "w": "solvable",
+     "raw": "solvable",
+     "n": 27,
+     "part": "C",
+     "sent": "the problem is solvable",
+     "cn": "这个问题是可以解决的"
+    },
+    {
+     "key": "29:B:1",
+     "w": "inexperienced",
+     "raw": "inexperienced",
+     "n": 29,
+     "part": "B",
+     "sent": "are inexperienced in handling their issues at college",
+     "cn": "在处理大学里遇到的问题方面缺乏经验"
+    },
+    {
+     "key": "27:A:2",
+     "w": "appeal",
+     "raw": "appeal",
+     "n": 27,
+     "part": "A",
+     "sent": "their findings appeal to students",
+     "cn": "他们的研究结论吸引了学生"
+    },
+    {
+     "key": "29:D:2",
+     "w": "indifferent",
+     "raw": "indifferent",
+     "n": 29,
+     "part": "D",
+     "sent": "are actually indifferent to the achievement gap",
+     "cn": "实际上对成就差距漠不关心"
+    },
+    {
+     "key": "30:A:2",
+     "w": "reject",
+     "raw": "reject",
+     "n": 30,
+     "part": "A",
+     "sent": "universities often reject the culture of the middle-class",
+     "cn": "大学常常排斥中产阶级文化"
+    },
+    {
+     "key": "30:B:4",
+     "w": "blame",
+     "raw": "blame",
+     "n": 30,
+     "part": "B",
+     "sent": "students are usually to blame for their lack of resources",
+     "cn": "学生通常应为自己缺少资源负责"
+    },
+    {
+     "key": "30:C:4",
+     "w": "enrich",
+     "raw": "enrich",
+     "n": 30,
+     "part": "C",
+     "sent": "social class greatly helps enrich educational experiences",
+     "cn": "社会阶层大大有助于丰富教育经历"
+    }
+   ],
+   "updatedAt": "2026-10-08T15:46:18.399Z"
   }
  },
  "prefs": {
@@ -5029,7 +5307,9 @@
    "contradicting": 1,
    "nonparents": 1,
    "front": 2,
-   "nutrition": 2
+   "nutrition": 2,
+   "appeal": 1,
+   "defined": 1
   },
   "confuse": {
    "intrinsically": [
@@ -5641,7 +5921,33 @@
    "nutrition": "2026-10-08T14:18:32.972Z",
    "in": "2026-10-08T14:18:45.717Z",
    "cozier": "2026-10-08T14:19:20.028Z",
-   "hardly": "2026-10-08T14:19:52.342Z"
+   "hardly": "2026-10-08T14:19:52.342Z",
+   "recruiting": "2026-10-08T14:41:38.113Z",
+   "solvable": "2026-10-08T14:42:18.336Z",
+   "inexperienced": "2026-10-08T14:42:38.041Z",
+   "first-generation": "2026-10-08T14:45:44.185Z",
+   "factors": "2026-10-08T14:46:33.853Z",
+   "dropout": "2026-10-08T14:47:39.272Z",
+   "recruit": "2026-10-08T14:48:49.270Z",
+   "pushed": "2026-10-08T14:50:03.368Z",
+   "paradox": "2026-10-08T14:53:22.422Z",
+   "economically": "2026-10-08T14:54:55.065Z",
+   "depressing": "2026-10-08T15:22:48.815Z",
+   "forthcoming": "2026-10-08T15:23:07.373Z",
+   "outlines": "2026-10-08T15:26:40.692Z",
+   "next-to-no-cost": "2026-10-08T15:27:18.869Z",
+   "recipients": "2026-10-08T15:30:04.808Z",
+   "grant": "2026-10-08T15:30:26.142Z",
+   "undergraduates": "2026-10-08T15:30:41.666Z",
+   "only": "2026-10-08T15:34:11.144Z",
+   "for": "2026-10-08T15:34:14.422Z",
+   "intervention": "2026-10-08T15:36:35.879Z",
+   "cite": "2026-10-08T15:38:44.416Z",
+   "indifferent": "2026-10-08T15:40:21.436Z",
+   "reject": "2026-10-08T15:41:28.140Z",
+   "enrich": "2026-10-08T15:42:54.381Z",
+   "navigate": "2026-10-08T15:43:20.773Z",
+   "advantages": "2026-10-08T15:46:56.365Z"
   },
   "archived": {
    "uccelli": {
