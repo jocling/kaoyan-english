@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T11:42:14.707Z",
+ "updatedAt": "2026-10-08T14:21:03.240Z",
  "count": 15,
  "attempts": [
   {
@@ -35,7 +35,10 @@
    },
    "causes": {},
    "traps": {},
-   "conf": {},
+   "conf": {
+    "21": "sure",
+    "23": "guess"
+   },
    "note": "",
    "words": [
     {
@@ -4578,6 +4581,371 @@
     }
    ],
    "updatedAt": "2026-10-08T10:21:12.404Z"
+  },
+  "2015-1": {
+   "words": [
+    {
+     "w": "contrary",
+     "raw": "contrary",
+     "p": 0,
+     "s": 0,
+     "sent": "A new study suggests that contrary to most surveys, people are actually more stressed at home than at work."
+    },
+    {
+     "w": "refuge",
+     "raw": "refuge.",
+     "p": 0,
+     "s": 1,
+     "sent": "Researchers measured people's cortisol, which is a stress marker, while they were at work and while they were at home and found it higher at what is supposed to be a place of refuge."
+    },
+    {
+     "w": "contradicting",
+     "raw": "contradicting",
+     "p": 1,
+     "s": 0,
+     "sent": "\"Further contradicting conventional wisdom, we found that women as well as men have lower levels of stress at work than at home,\" writes one of the researchers, Sarah Damaske."
+    },
+    {
+     "w": "wisdom",
+     "raw": "wisdom,",
+     "p": 1,
+     "s": 0,
+     "sent": "\"Further contradicting conventional wisdom, we found that women as well as men have lower levels of stress at work than at home,\" writes one of the researchers, Sarah Damaske."
+    },
+    {
+     "w": "nonparents",
+     "raw": "nonparents.",
+     "p": 1,
+     "s": 3,
+     "sent": "Another surprise is that the findings hold true for both those with children and without, but more so for nonparents."
+    },
+    {
+     "w": "kick",
+     "raw": "kick",
+     "p": 2,
+     "s": 1,
+     "sent": "For many men, the end of the workday is a time to kick back."
+    },
+    {
+     "w": "blurring",
+     "raw": "blurring",
+     "p": 2,
+     "s": 4,
+     "sent": "With the blurring of roles, and the fact that the home front lags well behind the workplace in making adjustments for working women, it's not surprising that women are more stressed at home."
+    },
+    {
+     "w": "lags",
+     "raw": "lags",
+     "p": 2,
+     "s": 4,
+     "sent": "With the blurring of roles, and the fact that the home front lags well behind the workplace in making adjustments for working women, it's not surprising that women are more stressed at home."
+    },
+    {
+     "w": "bargain",
+     "raw": "bargain",
+     "p": 3,
+     "s": 2,
+     "sent": "The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola."
+    },
+    {
+     "w": "life-sustaining",
+     "raw": "life-sustaining",
+     "p": 3,
+     "s": 2,
+     "sent": "The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola."
+    },
+    {
+     "w": "moola",
+     "raw": "moola.",
+     "p": 3,
+     "s": 2,
+     "sent": "The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola."
+    },
+    {
+     "w": "front",
+     "raw": "front,",
+     "p": 4,
+     "s": 0,
+     "sent": "On the home front, however, people have no such clarity."
+    },
+    {
+     "w": "clarity",
+     "raw": "clarity.",
+     "p": 4,
+     "s": 0,
+     "sent": "On the home front, however, people have no such clarity."
+    },
+    {
+     "w": "clinically",
+     "raw": "clinically",
+     "p": 4,
+     "s": 1,
+     "sent": "Rare is the household in which the division of labor is so clinically and methodically laid out."
+    },
+    {
+     "w": "methodically",
+     "raw": "methodically",
+     "p": 4,
+     "s": 1,
+     "sent": "Rare is the household in which the division of labor is so clinically and methodically laid out."
+    },
+    {
+     "w": "inadequate",
+     "raw": "inadequate",
+     "p": 4,
+     "s": 2,
+     "sent": "There are a lot of tasks to be done, there are inadequate rewards for most of them."
+    },
+    {
+     "w": "removal",
+     "raw": "removal",
+     "p": 4,
+     "s": 3,
+     "sent": "Your home colleagues - your family - have no clear rewards for their labor; they need to be talked into it, or if they're teenagers, threatened with complete removal of all electronic devices."
+    },
+    {
+     "w": "complete",
+     "raw": "complete",
+     "p": 4,
+     "s": 3,
+     "sent": "Your home colleagues - your family - have no clear rewards for their labor; they need to be talked into it, or if they're teenagers, threatened with complete removal of all electronic devices."
+    },
+    {
+     "w": "infinite",
+     "raw": "infinite,",
+     "p": 5,
+     "s": 1,
+     "sent": "Not only are the tasks apparently infinite, the co-workers are much harder to motivate."
+    },
+    {
+     "w": "motivate",
+     "raw": "motivate.",
+     "p": 5,
+     "s": 1,
+     "sent": "Not only are the tasks apparently infinite, the co-workers are much harder to motivate."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 1,
+     "text": "Researchers measured people's cortisol, which is a stress marker, while they were at work and while they were at home and found it higher at what is supposed to be a place of refuge."
+    },
+    {
+     "p": 1,
+     "s": 4,
+     "text": "This is why people who work outside the home have better health."
+    },
+    {
+     "p": 2,
+     "s": 0,
+     "text": "What the study doesn't measure is whether people are still doing work when they're at home, whether it is household work or work brought home from the office."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "hold true for",
+     "loc": "1:3",
+     "a": 6,
+     "b": 8,
+     "sent": "Another surprise is that the findings hold true for both those with children and without, but more so for nonparents.",
+     "cn": "另一个令人意外的发现是，这一结论对有孩子和没有孩子的人都成立，但对没有孩子的人更为明显。",
+     "m": "对……成立",
+     "base": "hold true (for)",
+     "note": "",
+     "p": 1,
+     "s": 3
+    },
+    {
+     "text": "more so",
+     "loc": "1:3",
+     "a": 16,
+     "b": 17,
+     "sent": "Another surprise is that the findings hold true for both those with children and without, but more so for nonparents.",
+     "cn": "另一个令人意外的发现是，这一结论对有孩子和没有孩子的人都成立，但对没有孩子的人更为明显。",
+     "m": "更是如此",
+     "base": "more so",
+     "note": "",
+     "p": 1,
+     "s": 3
+    },
+    {
+     "text": "kick back",
+     "loc": "2:1",
+     "a": 12,
+     "b": 13,
+     "sent": "For many men, the end of the workday is a time to kick back.",
+     "cn": "对许多男性来说，下班后是放松的时间。",
+     "m": "放松",
+     "base": "kick back",
+     "note": "",
+     "p": 2,
+     "s": 1
+    },
+    {
+     "text": "catch-up-with-household tasks",
+     "loc": "2:3",
+     "a": 12,
+     "b": 13,
+     "sent": "And for women who work outside the home, they often are playing catch-up-with-household tasks.",
+     "cn": "至于在外工作的女性，她们常常要赶着补做家务。",
+     "m": "",
+     "base": "",
+     "note": "",
+     "p": 2,
+     "s": 3
+    },
+    {
+     "text": "playing catch-up-with-household",
+     "loc": "2:3",
+     "a": 11,
+     "b": 12,
+     "sent": "And for women who work outside the home, they often are playing catch-up-with-household tasks.",
+     "cn": "至于在外工作的女性，她们常常要赶着补做家务。",
+     "m": "赶着补做（家务）",
+     "base": "play catch-up",
+     "note": "",
+     "p": 2,
+     "s": 3
+    },
+    {
+     "text": "supposed to",
+     "loc": "3:1",
+     "a": 8,
+     "b": 9,
+     "sent": "At work, people pretty much know what they're supposed to be doing: working, making money, doing the tasks they have to do in order to draw an income.",
+     "cn": "在工作时，人们非常清楚自己该做什么：干活、挣钱、完成为了获得收入而必须完成的任务。",
+     "m": "应该（做）",
+     "base": "be supposed to",
+     "note": "",
+     "p": 3,
+     "s": 1
+    },
+    {
+     "text": "draws out",
+     "loc": "3:2",
+     "a": 16,
+     "b": 17,
+     "sent": "The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola.",
+     "cn": "这种交易非常纯粹：雇员投入数小时的体力或脑力劳动，然后换取维持生计的钱。",
+     "m": "领取，换取",
+     "base": "draw out",
+     "note": "",
+     "p": 3,
+     "s": 2
+    },
+    {
+     "text": "laid out",
+     "loc": "4:1",
+     "a": 15,
+     "b": 16,
+     "sent": "Rare is the household in which the division of labor is so clinically and methodically laid out.",
+     "cn": "很少有哪个家庭把分工划分得如此清晰而有条理。",
+     "m": "规划，安排",
+     "base": "lay out",
+     "note": "",
+     "p": 4,
+     "s": 1
+    },
+    {
+     "text": "talked into",
+     "loc": "4:3",
+     "a": 18,
+     "b": 19,
+     "sent": "Your home colleagues - your family - have no clear rewards for their labor; they need to be talked into it, or if they're teenagers, threatened with complete removal of all electronic devices.",
+     "cn": "你的“家庭同事”——也就是你的家人——为他们的劳动得不到明确的回报；你得说服他们去干活，如果他们是青少年，还得威胁没收他们所有的电子设备。",
+     "m": "说服（他们）去做",
+     "base": "talk sb into (doing) sth",
+     "note": "",
+     "p": 4,
+     "s": 3
+    },
+    {
+     "text": "get to go",
+     "loc": "4:6",
+     "a": 3,
+     "b": 5,
+     "sent": "You never really get to go home from home.",
+     "cn": "你永远无法真正“从家里下班回家”。",
+     "m": "得以（回家），有机会",
+     "base": "get to do sth",
+     "note": "",
+     "p": 4,
+     "s": 6
+    },
+    {
+     "text": "refers to",
+     "loc": "q:23:stem",
+     "a": 6,
+     "b": 7,
+     "sent": "The blurring of working women's roles refers to the fact that ______",
+     "cn": "职业女性角色的模糊指的是这样一个事实：……",
+     "m": "指的是",
+     "base": "refer to",
+     "note": ""
+    },
+    {
+     "text": "bread winners",
+     "loc": "q:23:B",
+     "a": 3,
+     "b": 4,
+     "sent": "they are both bread winners and housewives",
+     "cn": "她们既是挣钱养家的人，又是家庭主妇",
+     "m": "养家糊口的人",
+     "base": "breadwinner",
+     "note": ""
+    },
+    {
+     "text": "in that",
+     "loc": "q:25:stem",
+     "a": 7,
+     "b": 8,
+     "sent": "The home front differs from the workplace in that ______",
+     "cn": "家庭与工作场所的不同之处在于……",
+     "m": "在于，因为",
+     "base": "in that",
+     "note": ""
+    }
+   ],
+   "qwords": [
+    {
+     "key": "21:stem:5",
+     "w": "previous",
+     "raw": "previous",
+     "n": 21,
+     "part": "stem",
+     "sent": "According to Paragraph 1, most previous surveys found that home ______",
+     "cn": "根据第一段，以往大多数调查发现，家……"
+    },
+    {
+     "key": "24:D:0",
+     "w": "nutrition",
+     "raw": "nutrition",
+     "n": 24,
+     "part": "D",
+     "sent": "nutrition",
+     "cn": "营养"
+    },
+    {
+     "key": "25:B:4",
+     "w": "cozier",
+     "raw": "cozier",
+     "n": 25,
+     "part": "B",
+     "sent": "home is hardly a cozier working environment",
+     "cn": "家几乎算不上一个更舒适的工作环境"
+    },
+    {
+     "key": "25:B:2",
+     "w": "hardly",
+     "raw": "hardly",
+     "n": 25,
+     "part": "B",
+     "sent": "home is hardly a cozier working environment",
+     "cn": "家几乎算不上一个更舒适的工作环境"
+    }
+   ],
+   "updatedAt": "2026-10-08T14:19:53.795Z"
   }
  },
  "prefs": {
@@ -4611,7 +4979,12 @@
    "conducted": 2,
    "nevertheless": 1,
    "coalition's": 2,
-   "commitment": 1
+   "commitment": 1,
+   "contrary": 1,
+   "contradicting": 1,
+   "nonparents": 1,
+   "front": 2,
+   "nutrition": 2
   },
   "confuse": {
    "intrinsically": [
@@ -4652,6 +5025,12 @@
    ],
    "commitment": [
     "commit 犯（罪、错）；调拨，投入；（使）承诺，承担义务；郑重承诺，"
+   ],
+   "nonparents": [
+    "无子女的人（nonparent"
+   ],
+   "clinically": [
+    "clinic临床"
    ]
   },
   "quiz": {
@@ -5185,7 +5564,39 @@
    "interference": "2026-10-08T10:11:27.156Z",
    "relieve": "2026-10-08T10:11:42.800Z",
    "implement": "2026-10-08T10:12:10.407Z",
-   "renew": "2026-10-08T10:21:10.173Z"
+   "renew": "2026-10-08T10:21:10.173Z",
+   "previous": "2026-10-08T11:43:15.940Z",
+   "contrary": "2026-10-08T11:43:36.161Z",
+   "refuge": "2026-10-08T11:59:58.107Z",
+   "contradicting": "2026-10-08T13:14:01.162Z",
+   "wisdom": "2026-10-08T13:14:19.416Z",
+   "nonparents": "2026-10-08T13:16:52.302Z",
+   "what": "2026-10-08T13:20:49.082Z",
+   "kick": "2026-10-08T13:23:52.643Z",
+   "catch-up-with-household": "2026-10-08T13:25:07.740Z",
+   "blurring": "2026-10-08T13:25:34.686Z",
+   "lags": "2026-10-08T13:57:39.850Z",
+   "they're": "2026-10-08T13:58:59.905Z",
+   "supposed": "2026-10-08T13:59:03.605Z",
+   "bargain": "2026-10-08T13:59:40.416Z",
+   "life-sustaining": "2026-10-08T13:59:57.752Z",
+   "moola": "2026-10-08T14:00:01.794Z",
+   "people": "2026-10-08T14:00:09.528Z",
+   "draws": "2026-10-08T14:00:17.150Z",
+   "front": "2026-10-08T14:01:36.647Z",
+   "clarity": "2026-10-08T14:01:47.334Z",
+   "clinically": "2026-10-08T14:02:00.757Z",
+   "methodically": "2026-10-08T14:03:21.472Z",
+   "inadequate": "2026-10-08T14:06:06.561Z",
+   "removal": "2026-10-08T14:06:59.095Z",
+   "infinite": "2026-10-08T14:08:58.652Z",
+   "motivate": "2026-10-08T14:09:07.884Z",
+   "as": "2026-10-08T14:11:29.195Z",
+   "refers": "2026-10-08T14:13:07.880Z",
+   "nutrition": "2026-10-08T14:18:32.972Z",
+   "in": "2026-10-08T14:18:45.717Z",
+   "cozier": "2026-10-08T14:19:20.028Z",
+   "hardly": "2026-10-08T14:19:52.342Z"
   },
   "archived": {
    "uccelli": {
