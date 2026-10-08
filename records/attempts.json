@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T09:06:38.092Z",
+ "updatedAt": "2026-10-08T10:05:01.527Z",
  "count": 14,
  "attempts": [
   {
@@ -4178,6 +4178,318 @@
     }
    ],
    "updatedAt": "2026-10-08T08:23:20.729Z"
+  },
+  "2014-4": {
+   "words": [
+    {
+     "w": "broadband",
+     "raw": "broadband",
+     "p": 0,
+     "s": 0,
+     "sent": "When the government talks about infrastructure contributing to the economy the focus is usually on roads, railways, broadband and energy."
+    },
+    {
+     "w": "shoulder",
+     "raw": "shoulder",
+     "p": 1,
+     "s": 1,
+     "sent": "To some extent the housing sector must shoulder the blame."
+    },
+    {
+     "w": "blame",
+     "raw": "blame.",
+     "p": 1,
+     "s": 1,
+     "sent": "To some extent the housing sector must shoulder the blame."
+    },
+    {
+     "w": "sector",
+     "raw": "sector",
+     "p": 1,
+     "s": 1,
+     "sent": "To some extent the housing sector must shoulder the blame."
+    },
+    {
+     "w": "then",
+     "raw": "Then",
+     "p": 1,
+     "s": 3,
+     "sent": "Then there is the scale of the typical housing project."
+    },
+    {
+     "w": "scale",
+     "raw": "scale",
+     "p": 1,
+     "s": 3,
+     "sent": "Then there is the scale of the typical housing project."
+    },
+    {
+     "w": "shove",
+     "raw": "shove",
+     "p": 1,
+     "s": 4,
+     "sent": "It is hard to shove for attention among multibillion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere."
+    },
+    {
+     "w": "inevitable",
+     "raw": "inevitable",
+     "p": 1,
+     "s": 4,
+     "sent": "It is hard to shove for attention among multibillion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere."
+    },
+    {
+     "w": "among",
+     "raw": "among",
+     "p": 1,
+     "s": 4,
+     "sent": "It is hard to shove for attention among multibillion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere."
+    },
+    {
+     "w": "charged",
+     "raw": "charged.",
+     "p": 1,
+     "s": 5,
+     "sent": "But perhaps the most significant reason is that the issue has always been so politically charged."
+    },
+    {
+     "w": "politically",
+     "raw": "politically",
+     "p": 1,
+     "s": 5,
+     "sent": "But perhaps the most significant reason is that the issue has always been so politically charged."
+    },
+    {
+     "w": "nevertheless",
+     "raw": "Nevertheless,",
+     "p": 2,
+     "s": 0,
+     "sent": "Nevertheless, the affordable housing situation is desperate."
+    },
+    {
+     "w": "desperate",
+     "raw": "desperate.",
+     "p": 2,
+     "s": 0,
+     "sent": "Nevertheless, the affordable housing situation is desperate."
+    },
+    {
+     "w": "comprehensive",
+     "raw": "comprehensive",
+     "p": 3,
+     "s": 0,
+     "sent": "The comprehensive spending review offers an opportunity for the government to help rectify this."
+    },
+    {
+     "w": "review",
+     "raw": "review",
+     "p": 3,
+     "s": 0,
+     "sent": "The comprehensive spending review offers an opportunity for the government to help rectify this."
+    },
+    {
+     "w": "rectify",
+     "raw": "rectify",
+     "p": 3,
+     "s": 0,
+     "sent": "The comprehensive spending review offers an opportunity for the government to help rectify this."
+    },
+    {
+     "w": "prejudices",
+     "raw": "prejudices",
+     "p": 3,
+     "s": 1,
+     "sent": "It needs to put historical prejudices to one side and take some steps to address our urgent housing need."
+    },
+    {
+     "w": "indications",
+     "raw": "indications",
+     "p": 4,
+     "s": 0,
+     "sent": "There are some indications that it is preparing to do just that."
+    },
+    {
+     "w": "hinted",
+     "raw": "hinted",
+     "p": 4,
+     "s": 1,
+     "sent": "The communities minister, Don Foster, has hinted that George Osborne, Chancellor of the Exchequer, may introduce more flexibility to the current cap on the amount that local authorities can borrow against their housing stock debt."
+    },
+    {
+     "w": "lifted",
+     "raw": "lifted,",
+     "p": 4,
+     "s": 2,
+     "sent": "Evidence shows that 60,000 extra new homes could be built over the next five years if the cap were lifted, increasing GDP by 0.6%."
+    },
+    {
+     "w": "fund",
+     "raw": "fund",
+     "p": 5,
+     "s": 0,
+     "sent": "Ministers should also look at creating greater certainty in the rental environment, which would have a significant impact on the ability of registered providers to fund new developments from revenues."
+    },
+    {
+     "w": "revenues",
+     "raw": "revenues.",
+     "p": 5,
+     "s": 0,
+     "sent": "Ministers should also look at creating greater certainty in the rental environment, which would have a significant impact on the ability of registered providers to fund new developments from revenues."
+    },
+    {
+     "w": "grants",
+     "raw": "grants",
+     "p": 6,
+     "s": 1,
+     "sent": "While these measures would be welcome in the short term, we must face up to the fact that the existing £4.5bn programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then."
+    },
+    {
+     "w": "expire",
+     "raw": "expire",
+     "p": 6,
+     "s": 1,
+     "sent": "While these measures would be welcome in the short term, we must face up to the fact that the existing £4.5bn programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then."
+    },
+    {
+     "w": "coalition's",
+     "raw": "coalition's",
+     "p": 6,
+     "s": 2,
+     "sent": "The Labour party has recently announced that it will retain a large part of the coalition's spending plans if it returns to power."
+    },
+    {
+     "w": "climate",
+     "raw": "climate.",
+     "p": 6,
+     "s": 4,
+     "sent": "We need to adjust to this changing climate."
+    },
+    {
+     "w": "commitment",
+     "raw": "commitment",
+     "p": 7,
+     "s": 0,
+     "sent": "While the government's commitment to long-term funding may have changed, the very pressing need for more affordable housing is real and is not going away."
+    },
+    {
+     "w": "pressing",
+     "raw": "pressing",
+     "p": 7,
+     "s": 0,
+     "sent": "While the government's commitment to long-term funding may have changed, the very pressing need for more affordable housing is real and is not going away."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 1,
+     "s": 3,
+     "text": "Then there is the scale of the typical housing project."
+    },
+    {
+     "p": 5,
+     "s": 0,
+     "text": "Ministers should also look at creating greater certainty in the rental environment, which would have a significant impact on the ability of registered providers to fund new developments from revenues."
+    },
+    {
+     "p": 6,
+     "s": 1,
+     "text": "While these measures would be welcome in the short term, we must face up to the fact that the existing £4.5bn programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "shoulder the blame",
+     "loc": "1:1",
+     "a": 7,
+     "b": 9,
+     "sent": "To some extent the housing sector must shoulder the blame.",
+     "cn": "在某种程度上，住房行业自身必须承担责任。",
+     "m": "承担责任",
+     "base": "shoulder the blame",
+     "note": "",
+     "p": 1,
+     "s": 1
+    },
+    {
+     "text": "cap on",
+     "loc": "4:1",
+     "a": 21,
+     "b": 22,
+     "sent": "The communities minister, Don Foster, has hinted that George Osborne, Chancellor of the Exchequer, may introduce more flexibility to the current cap on the amount that local authorities can borrow against their housing stock debt.",
+     "cn": "社区事务大臣唐·福斯特已经暗示，财政大臣乔治·奥斯本可能会放宽目前对地方政府以其住房存量债务为抵押进行借贷的额度上限。",
+     "m": "（借贷额度）上限",
+     "base": "a cap on",
+     "note": "",
+     "p": 4,
+     "s": 1
+    },
+    {
+     "text": "borrow against",
+     "loc": "4:1",
+     "a": 29,
+     "b": 30,
+     "sent": "The communities minister, Don Foster, has hinted that George Osborne, Chancellor of the Exchequer, may introduce more flexibility to the current cap on the amount that local authorities can borrow against their housing stock debt.",
+     "cn": "社区事务大臣唐·福斯特已经暗示，财政大臣乔治·奥斯本可能会放宽目前对地方政府以其住房存量债务为抵押进行借贷的额度上限。",
+     "m": "以……作抵押借款",
+     "base": "borrow against",
+     "note": "",
+     "p": 4,
+     "s": 1
+    },
+    {
+     "text": "down to",
+     "loc": "6:0",
+     "a": 5,
+     "b": 6,
+     "sent": "But it is not just down to the government.",
+     "cn": "但这并不完全取决于政府。",
+     "m": "取决于（政府）",
+     "base": "be down to",
+     "note": "",
+     "p": 6,
+     "s": 0
+    },
+    {
+     "text": "set to",
+     "loc": "6:1",
+     "a": 29,
+     "b": 30,
+     "sent": "While these measures would be welcome in the short term, we must face up to the fact that the existing £4.5bn programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then.",
+     "cn": "尽管这些措施在短期内会受到欢迎，但我们必须正视这样一个事实：现有的、用于资助新建保障性住房的45亿英镑拨款计划将于2015年到期，之后不太可能延续。",
+     "m": "定于",
+     "base": "be set to",
+     "note": "",
+     "p": 6,
+     "s": 1
+    },
+    {
+     "text": "adjust to",
+     "loc": "6:4",
+     "a": 3,
+     "b": 4,
+     "sent": "We need to adjust to this changing climate.",
+     "cn": "我们需要适应这种不断变化的环境。",
+     "m": "适应",
+     "base": "adjust to",
+     "note": "",
+     "p": 6,
+     "s": 4
+    },
+    {
+     "text": "commitment to",
+     "loc": "7:0",
+     "a": 3,
+     "b": 4,
+     "sent": "While the government's commitment to long-term funding may have changed, the very pressing need for more affordable housing is real and is not going away.",
+     "cn": "尽管政府对长期资助的承诺可能已经改变，但对更多保障性住房的迫切需求是真实存在的，而且不会消失。",
+     "m": "对（长期资助）的承诺",
+     "base": "commitment to",
+     "note": "",
+     "p": 7,
+     "s": 0
+    }
+   ],
+   "qwords": [],
+   "updatedAt": "2026-10-08T10:04:45.748Z"
   }
  },
  "prefs": {
@@ -4208,7 +4520,10 @@
    "deliberation": 1,
    "felt": 1,
    "performance": 2,
-   "conducted": 2
+   "conducted": 2,
+   "nevertheless": 1,
+   "coalition's": 2,
+   "commitment": 1
   },
   "confuse": {
    "intrinsically": [
@@ -4240,6 +4555,15 @@
    ],
    "stuff": [
     "staff 员工"
+   ],
+   "desperate": [
+    "separate 分离"
+   ],
+   "coalition's": [
+    "coalitions n. 联合；结盟"
+   ],
+   "commitment": [
+    "commit 犯（罪、错）；调拨，投入；（使）承诺，承担义务；郑重承诺，"
    ]
   },
   "quiz": {
@@ -4740,7 +5064,36 @@
    "outmode": "2026-10-08T08:09:27.101Z",
    "intact": "2026-10-08T08:15:05.260Z",
    "opportunities": "2026-10-08T08:20:52.309Z",
-   "stimulate": "2026-10-08T08:23:16.774Z"
+   "stimulate": "2026-10-08T08:23:16.774Z",
+   "infrastructure": "2026-10-08T09:08:03.525Z",
+   "broadband": "2026-10-08T09:08:27.677Z",
+   "shoulder": "2026-10-08T09:08:52.920Z",
+   "blame": "2026-10-08T09:09:11.186Z",
+   "sector": "2026-10-08T09:09:22.671Z",
+   "then": "2026-10-08T09:11:56.996Z",
+   "shove": "2026-10-08T09:11:59.451Z",
+   "inevitable": "2026-10-08T09:13:23.683Z",
+   "charged": "2026-10-08T09:14:09.194Z",
+   "politically": "2026-10-08T09:29:23.956Z",
+   "nevertheless": "2026-10-08T09:30:26.678Z",
+   "desperate": "2026-10-08T09:30:34.518Z",
+   "simply": "2026-10-08T09:32:21.341Z",
+   "comprehensive": "2026-10-08T09:33:38.371Z",
+   "review": "2026-10-08T09:33:57.312Z",
+   "rectify": "2026-10-08T09:34:11.283Z",
+   "prejudices": "2026-10-08T09:35:50.860Z",
+   "indications": "2026-10-08T09:40:14.471Z",
+   "hinted": "2026-10-08T09:41:28.465Z",
+   "lifted": "2026-10-08T09:43:35.113Z",
+   "fund": "2026-10-08T09:44:37.532Z",
+   "revenues": "2026-10-08T09:44:43.371Z",
+   "grants": "2026-10-08T09:55:33.966Z",
+   "expire": "2026-10-08T09:55:53.873Z",
+   "coalition's": "2026-10-08T10:00:49.772Z",
+   "party": "2026-10-08T10:01:18.964Z",
+   "climate": "2026-10-08T10:02:27.210Z",
+   "commitment": "2026-10-08T10:02:53.170Z",
+   "pressing": "2026-10-08T10:04:41.768Z"
   },
   "archived": {
    "uccelli": {
