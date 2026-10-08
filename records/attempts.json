@@ -1,8 +1,51 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T08:24:55.388Z",
- "count": 13,
+ "updatedAt": "2026-10-08T09:06:38.092Z",
+ "count": 14,
  "attempts": [
+  {
+   "id": "2014-4__20261008090636_d6f",
+   "textId": "2014-4",
+   "label": "2014 · Text 4",
+   "year": 2014,
+   "startedAt": "2026-10-08T08:47:39.246Z",
+   "submittedAt": "2026-10-08T09:06:36.320Z",
+   "durationSec": 1137,
+   "score": 1,
+   "answers": {
+    "36": "D",
+    "37": "B",
+    "38": "C",
+    "39": "C",
+    "40": "A"
+   },
+   "correct": {
+    "36": false,
+    "37": false,
+    "38": false,
+    "39": true,
+    "40": false
+   },
+   "qTimes": {
+    "36": 506,
+    "37": 623,
+    "38": 857,
+    "39": 948,
+    "40": 1134
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [],
+   "sentences": [
+    {
+     "p": 4,
+     "s": 0,
+     "text": "There are some indications that it is preparing to do just that."
+    }
+   ]
+  },
   {
    "id": "2014-3__20261005121440_4fo",
    "textId": "2014-3",
