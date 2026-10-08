@@ -1,8 +1,59 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T10:05:01.527Z",
- "count": 14,
+ "updatedAt": "2026-10-08T11:42:14.707Z",
+ "count": 15,
  "attempts": [
+  {
+   "id": "2015-1__20261008114213_1nl",
+   "textId": "2015-1",
+   "label": "2015 · Text 1",
+   "year": 2015,
+   "startedAt": "2026-10-08T11:29:54.266Z",
+   "submittedAt": "2026-10-08T11:42:13.178Z",
+   "durationSec": 739,
+   "score": 3,
+   "answers": {
+    "21": "C",
+    "22": "B",
+    "23": "C",
+    "24": "C",
+    "25": "D"
+   },
+   "correct": {
+    "21": false,
+    "22": true,
+    "23": false,
+    "24": true,
+    "25": true
+   },
+   "qTimes": {
+    "21": 484,
+    "22": 567,
+    "23": 695,
+    "24": 701,
+    "25": 735
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [
+    {
+     "w": "damaske",
+     "raw": "Damaske.",
+     "p": 1,
+     "s": 0,
+     "sent": "\"Further contradicting conventional wisdom, we found that women as well as men have lower levels of stress at work than at home,\" writes one of the researchers, Sarah Damaske."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 0,
+     "text": "A new study suggests that contrary to most surveys, people are actually more stressed at home than at work."
+    }
+   ]
+  },
   {
    "id": "2014-4__20261008090636_d6f",
    "textId": "2014-4",
@@ -4488,8 +4539,45 @@
      "s": 0
     }
    ],
-   "qwords": [],
-   "updatedAt": "2026-10-08T10:04:45.748Z"
+   "qwords": [
+    {
+     "key": "39:B:5",
+     "w": "interference",
+     "raw": "interference",
+     "n": 39,
+     "part": "B",
+     "sent": "lessen the impact of government interference",
+     "cn": "减轻政府干预的影响"
+    },
+    {
+     "key": "39:D:0",
+     "w": "relieve",
+     "raw": "relieve",
+     "n": 39,
+     "part": "D",
+     "sent": "relieve the ministers of responsibilities",
+     "cn": "免除大臣们的责任"
+    },
+    {
+     "key": "40:A:0",
+     "w": "implement",
+     "raw": "implement",
+     "n": 40,
+     "part": "A",
+     "sent": "implement more policies to support housing",
+     "cn": "实施更多支持住房的政策"
+    },
+    {
+     "key": "40:C:0",
+     "w": "renew",
+     "raw": "renew",
+     "n": 40,
+     "part": "C",
+     "sent": "renew the affordable housing grants programme",
+     "cn": "延续保障性住房拨款计划"
+    }
+   ],
+   "updatedAt": "2026-10-08T10:21:12.404Z"
   }
  },
  "prefs": {
@@ -5093,7 +5181,11 @@
    "party": "2026-10-08T10:01:18.964Z",
    "climate": "2026-10-08T10:02:27.210Z",
    "commitment": "2026-10-08T10:02:53.170Z",
-   "pressing": "2026-10-08T10:04:41.768Z"
+   "pressing": "2026-10-08T10:04:41.768Z",
+   "interference": "2026-10-08T10:11:27.156Z",
+   "relieve": "2026-10-08T10:11:42.800Z",
+   "implement": "2026-10-08T10:12:10.407Z",
+   "renew": "2026-10-08T10:21:10.173Z"
   },
   "archived": {
    "uccelli": {
@@ -6638,6 +6730,1488 @@
      "s": 0,
      "d": 0,
      "st": "m"
+    },
+    "conscious": {
+     "a": 0,
+     "s": 1,
+     "d": 20735,
+     "st": "l"
+    },
+    "downturns": {
+     "a": 1,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "flattering": {
+     "a": 2,
+     "s": 0,
+     "d": 20735,
+     "st": "l"
+    },
+    "frustration": {
+     "a": 4,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "initiative": {
+     "a": 5,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "insecurities": {
+     "a": 6,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reverse": {
+     "a": 7,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "adjust to": {
+     "a": 11,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "aggressively": {
+     "a": 12,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "altered": {
+     "a": 16,
+     "s": 0,
+     "d": 20735,
+     "st": "l"
+    },
+    "amassed": {
+     "a": 17,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "are likely to": {
+     "a": 20,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "at least": {
+     "a": 22,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "attractiveness": {
+     "a": 23,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "augment": {
+     "a": 24,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "baseless": {
+     "a": 25,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "biases": {
+     "a": 26,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "binding": {
+     "a": 27,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "borrow against": {
+     "a": 28,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "bust": {
+     "a": 29,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "cap on": {
+     "a": 30,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "commitment": {
+     "a": 32,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "commitment to": {
+     "a": 33,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "compel": {
+     "a": 34,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "complexity": {
+     "a": 35,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "comprehensive": {
+     "a": 36,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "contemplating": {
+     "a": 38,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "corporate": {
+     "a": 42,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "corresponded with": {
+     "a": 44,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "deliberation": {
+     "a": 46,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "delusion": {
+     "a": 47,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "down to": {
+     "a": 54,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "effect": {
+     "a": 55,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "empirical": {
+     "a": 59,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "evading": {
+     "a": 61,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "evaluation": {
+     "a": 62,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "exclusive": {
+     "a": 63,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "expire": {
+     "a": 64,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "exposed": {
+     "a": 65,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "exposed to": {
+     "a": 66,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "felt": {
+     "a": 69,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "formula": {
+     "a": 72,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "getting on well with": {
+     "a": 74,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "glass ceiling": {
+     "a": 75,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "grants": {
+     "a": 76,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "ground such snap reactions in": {
+     "a": 77,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hail from": {
+     "a": 79,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "has little to do with": {
+     "a": 80,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hinted": {
+     "a": 82,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hot stuff": {
+     "a": 83,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "illusory": {
+     "a": 84,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "immune": {
+     "a": 85,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "implement": {
+     "a": 86,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "impulses": {
+     "a": 90,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "impulsive": {
+     "a": 91,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "in the first place": {
+     "a": 93,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "ineffective": {
+     "a": 97,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "inevitable": {
+     "a": 98,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "inferred": {
+     "a": 100,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "innovate": {
+     "a": 103,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "insatiable": {
+     "a": 105,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "instinctively": {
+     "a": 106,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "intact": {
+     "a": 107,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "interference": {
+     "a": 109,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "intuitive": {
+     "a": 112,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "It takes a while to": {
+     "a": 114,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "judging": {
+     "a": 115,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "legislation": {
+     "a": 120,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "look as if": {
+     "a": 123,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "make up for": {
+     "a": 126,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mandate": {
+     "a": 127,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "massive": {
+     "a": 130,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mechanisms": {
+     "a": 133,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mute": {
+     "a": 138,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "negative": {
+     "a": 139,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "nevertheless": {
+     "a": 140,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "notion": {
+     "a": 141,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "occasionally": {
+     "a": 143,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "oceans of research into": {
+     "a": 144,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "optimistic": {
+     "a": 146,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "outmode": {
+     "a": 147,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "outmoded": {
+     "a": 148,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "oversaw": {
+     "a": 149,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "paradise": {
+     "a": 151,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "pointed out": {
+     "a": 155,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "portray": {
+     "a": 156,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "predetermine": {
+     "a": 157,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "primes": {
+     "a": 159,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "prone": {
+     "a": 160,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "proportion": {
+     "a": 161,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "provisions": {
+     "a": 162,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "put a giant target sign on": {
+     "a": 166,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "quotas": {
+     "a": 168,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rate": {
+     "a": 169,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rate ourselves as": {
+     "a": 170,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "Rather than": {
+     "a": 171,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "realm": {
+     "a": 172,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rectify": {
+     "a": 176,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "relieve": {
+     "a": 179,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reluctance": {
+     "a": 180,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "renew": {
+     "a": 181,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "retreat": {
+     "a": 183,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "revenues": {
+     "a": 184,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rise above": {
+     "a": 187,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "run counter to": {
+     "a": 190,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "scripted": {
+     "a": 192,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sector": {
+     "a": 193,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "self-defence": {
+     "a": 195,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "self-ratings": {
+     "a": 196,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sensible": {
+     "a": 197,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "set to": {
+     "a": 200,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "shoulder the blame": {
+     "a": 201,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "shove": {
+     "a": 202,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sociable": {
+     "a": 203,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stalk": {
+     "a": 206,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "standardized": {
+     "a": 207,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "statistical": {
+     "a": 208,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stereotypes": {
+     "a": 209,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stimulate": {
+     "a": 210,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stimuli": {
+     "a": 211,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "summit": {
+     "a": 212,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "superiority": {
+     "a": 213,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "thick": {
+     "a": 216,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "took it up": {
+     "a": 220,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "touched on": {
+     "a": 221,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "underestimate": {
+     "a": 223,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "unrealistically": {
+     "a": 224,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "up to": {
+     "a": 225,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "urgency": {
+     "a": 227,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "vary according to": {
+     "a": 228,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "versus": {
+     "a": 229,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "viscerally": {
+     "a": 230,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "vulnerable": {
+     "a": 231,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "were in place": {
+     "a": 232,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "scale": {
+     "a": 234,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "acutely": {
+     "a": 236,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "appeal": {
+     "a": 239,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "assess": {
+     "a": 240,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "capable": {
+     "a": 244,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "charged": {
+     "a": 245,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "coalition's": {
+     "a": 246,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "conducted": {
+     "a": 248,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "corporate-governance": {
+     "a": 250,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "deep-seated": {
+     "a": 251,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "defense": {
+     "a": 252,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "defensive": {
+     "a": 253,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "depressed": {
+     "a": 257,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "desperate": {
+     "a": 258,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "differentiates": {
+     "a": 259,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "directly": {
+     "a": 260,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "doctored": {
+     "a": 261,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "foresee": {
+     "a": 265,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "fragile": {
+     "a": 266,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "fund": {
+     "a": 268,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hard-wired": {
+     "a": 271,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "impatience": {
+     "a": 274,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "indications": {
+     "a": 275,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "intermittently": {
+     "a": 278,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "lineup": {
+     "a": 280,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "meritocracy": {
+     "a": 282,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "neuroticism": {
+     "a": 285,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "newsworthy": {
+     "a": 286,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "obstacles": {
+     "a": 287,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "overwhelmingly": {
+     "a": 288,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "pausing": {
+     "a": 291,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "performance": {
+     "a": 292,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "personality": {
+     "a": 294,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "positively": {
+     "a": 297,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "predictable": {
+     "a": 298,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "prejudices": {
+     "a": 299,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "pressing": {
+     "a": 300,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "promotion": {
+     "a": 301,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "proposed": {
+     "a": 302,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "recoveries": {
+     "a": 303,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reframe": {
+     "a": 304,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reinvent": {
+     "a": 305,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "restructure": {
+     "a": 307,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rose-tint": {
+     "a": 308,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "self-affirming": {
+     "a": 309,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "shoulder": {
+     "a": 311,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "tightly": {
+     "a": 317,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "voluntary": {
+     "a": 320,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "wit": {
+     "a": 321,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "infrastructure": {
+     "a": 323,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "opportunities": {
+     "a": 325,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "responses": {
+     "a": 326,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stuff": {
+     "a": 327,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "above": {
+     "a": 333,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "accuracy": {
+     "a": 335,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "accurately": {
+     "a": 336,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "adequate": {
+     "a": 338,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "apparent": {
+     "a": 343,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "appetite": {
+     "a": 345,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "assessment": {
+     "a": 346,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "blame": {
+     "a": 351,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "boards": {
+     "a": 352,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "broadband": {
+     "a": 353,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "climate": {
+     "a": 357,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "concept": {
+     "a": 359,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "counter": {
+     "a": 364,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "cream": {
+     "a": 365,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "driving": {
+     "a": 372,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "employ": {
+     "a": 374,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "equality": {
+     "a": 376,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "failure": {
+     "a": 381,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "falsely": {
+     "a": 384,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "gender-equality": {
+     "a": 388,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "genuinely": {
+     "a": 389,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "institutions": {
+     "a": 393,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "intuitively": {
+     "a": 394,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "lasts": {
+     "a": 396,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "lifted": {
+     "a": 397,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "markers": {
+     "a": 398,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "musical": {
+     "a": 403,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "occurring": {
+     "a": 407,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "open-mindedness": {
+     "a": 408,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "ordered": {
+     "a": 409,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "painful": {
+     "a": 412,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "politically": {
+     "a": 414,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "practices": {
+     "a": 416,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "pressure": {
+     "a": 419,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "pull": {
+     "a": 420,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rapid": {
+     "a": 421,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reliable": {
+     "a": 424,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reliably": {
+     "a": 425,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "representatives": {
+     "a": 426,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "review": {
+     "a": 430,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "scary": {
+     "a": 431,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "temptation": {
+     "a": 441,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "then": {
+     "a": 443,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "unconscious": {
+     "a": 446,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "unconsciously": {
+     "a": 447,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "versions": {
+     "a": 449,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "workplace": {
+     "a": 454,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "culture": {
+     "a": 471,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "flashes": {
+     "a": 473,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "housing": {
+     "a": 475,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "ladder": {
+     "a": 477,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "oceans": {
+     "a": 482,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "once": {
+     "a": 483,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "out": {
+     "a": 484,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "party": {
+     "a": 486,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "simply": {
+     "a": 488,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "subjects": {
+     "a": 490,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "thinking": {
+     "a": 491,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "why": {
+     "a": 494,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "yet": {
+     "a": 495,
+     "s": 0,
+     "d": 0,
+     "st": "u"
     }
    },
    "quiz": {
@@ -6664,64 +8238,1592 @@
      "s": 1,
      "d": 20716,
      "st": "l"
+    },
+    "ritual": {
+     "a": 0,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "terribly": {
+     "a": 1,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "particularly": {
+     "a": 2,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "scorned": {
+     "a": 3,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mandates": {
+     "a": 4,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "impoverished": {
+     "a": 5,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "chaotic": {
+     "a": 6,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "complete": {
+     "a": 7,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "imposes": {
+     "a": 8,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "thorny": {
+     "a": 9,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "conversely": {
+     "a": 10,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "has never been": {
+     "a": 12,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "obsessed": {
+     "a": 13,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "intrinsically": {
+     "a": 14,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "innocence": {
+     "a": 16,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "despaired": {
+     "a": 17,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "masculine": {
+     "a": 18,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "intimations": {
+     "a": 19,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "constancy": {
+     "a": 20,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "faithfulness": {
+     "a": 21,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "femininity": {
+     "a": 22,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "amplifying": {
+     "a": 23,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "inherently": {
+     "a": 24,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "defined": {
+     "a": 25,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "dictated": {
+     "a": 26,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "perception": {
+     "a": 27,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "psychological": {
+     "a": 28,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "publications": {
+     "a": 29,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "counselled": {
+     "a": 30,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "infant": {
+     "a": 31,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "evolved": {
+     "a": 32,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "accepted": {
+     "a": 33,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "segment": {
+     "a": 34,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "core": {
+     "a": 35,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "isolated": {
+     "a": 36,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "agitated": {
+     "a": 37,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "preliminary": {
+     "a": 38,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "assured": {
+     "a": 39,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "temporarily": {
+     "a": 40,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "overturned": {
+     "a": 41,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "suppress": {
+     "a": 42,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "innovation": {
+     "a": 43,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "monopolies": {
+     "a": 44,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "urged": {
+     "a": 45,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sequencing": {
+     "a": 46,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "interact": {
+     "a": 48,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "correlations": {
+     "a": 49,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "efficacy": {
+     "a": 50,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "convention": {
+     "a": 51,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "landscape": {
+     "a": 52,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "recession": {
+     "a": 53,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "materialistic": {
+     "a": 54,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "prudent": {
+     "a": 55,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reckless": {
+     "a": 56,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "lengthy": {
+     "a": 58,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stagnation": {
+     "a": 59,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mean-spirited": {
+     "a": 60,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "inclusive": {
+     "a": 61,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reversed": {
+     "a": 62,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "anti-immigrant": {
+     "a": 63,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sentiment": {
+     "a": 64,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "typically": {
+     "a": 65,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reinforce": {
+     "a": 66,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "dimmed": {
+     "a": 67,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "elite": {
+     "a": 68,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "quickly": {
+     "a": 69,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "resentment": {
+     "a": 70,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "discerning": {
+     "a": 71,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "lean": {
+     "a": 72,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "tolerant": {
+     "a": 73,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "fabric": {
+     "a": 74,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rigid": {
+     "a": 75,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hail": {
+     "a": 76,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "aliens": {
+     "a": 77,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "paralysis": {
+     "a": 78,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "thriving": {
+     "a": 79,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "solve": {
+     "a": 80,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "entrepreneurs": {
+     "a": 81,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "jurisdictions": {
+     "a": 82,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "accommodating": {
+     "a": 83,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "logic": {
+     "a": 84,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "multiple": {
+     "a": 85,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "accomplish": {
+     "a": 86,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "Along with": {
+     "a": 87,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "for good": {
+     "a": 88,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "divide newcomers into": {
+     "a": 89,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "kicked out": {
+     "a": 90,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "in the making": {
+     "a": 91,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "look beyond": {
+     "a": 92,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "for a while": {
+     "a": 93,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "in motion": {
+     "a": 94,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "opening up": {
+     "a": 95,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "refers to": {
+     "a": 96,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "meet challenges": {
+     "a": 97,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "implied": {
+     "a": 98,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "loosened": {
+     "a": 99,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "adapted": {
+     "a": 100,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "prone": {
+     "a": 101,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mechanisms": {
+     "a": 102,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "judging": {
+     "a": 103,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "assess": {
+     "a": 104,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sociable": {
+     "a": 105,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stimuli": {
+     "a": 106,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "exclusive": {
+     "a": 107,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "realm": {
+     "a": 108,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "primes": {
+     "a": 109,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "impulses": {
+     "a": 110,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "exposed": {
+     "a": 111,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reverse": {
+     "a": 112,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "biases": {
+     "a": 113,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "thick": {
+     "a": 114,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "retreat": {
+     "a": 115,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "evaluation": {
+     "a": 116,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mute": {
+     "a": 117,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "contemplating": {
+     "a": 118,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "vary according to": {
+     "a": 119,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "are likely to": {
+     "a": 120,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "It takes a while to": {
+     "a": 121,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "has little to do with": {
+     "a": 122,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "exposed to": {
+     "a": 123,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "ground such snap reactions in": {
+     "a": 124,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rise above": {
+     "a": 125,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "urgency": {
+     "a": 126,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "predetermine": {
+     "a": 127,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "complexity": {
+     "a": 128,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "negative": {
+     "a": 129,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reliable": {
+     "a": 130,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "corporate": {
+     "a": 131,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "legislation": {
+     "a": 132,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "compel": {
+     "a": 133,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "proportion": {
+     "a": 134,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "mandate": {
+     "a": 135,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "frustration": {
+     "a": 136,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "quotas": {
+     "a": 137,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "binding": {
+     "a": 138,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "provisions": {
+     "a": 139,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "reluctance": {
+     "a": 140,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "evading": {
+     "a": 141,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "summit": {
+     "a": 142,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "massive": {
+     "a": 143,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "up to": {
+     "a": 144,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "took it up": {
+     "a": 145,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "glass ceiling": {
+     "a": 146,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "run counter to": {
+     "a": 147,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "look as if": {
+     "a": 148,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "were in place": {
+     "a": 149,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "empirical": {
+     "a": 150,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "employ": {
+     "a": 151,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "amassed": {
+     "a": 152,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "illusory": {
+     "a": 153,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "superiority": {
+     "a": 154,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rate": {
+     "a": 155,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "statistical": {
+     "a": 156,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rose-tint": {
+     "a": 157,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stereotypes": {
+     "a": 158,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stalk": {
+     "a": 159,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "oversaw": {
+     "a": 160,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "attractiveness": {
+     "a": 161,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "altered": {
+     "a": 162,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "conscious": {
+     "a": 163,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "flattering": {
+     "a": 164,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "insecurities": {
+     "a": 165,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "delusion": {
+     "a": 166,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "viscerally": {
+     "a": 167,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "deliberation": {
+     "a": 168,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "portray": {
+     "a": 169,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "pointed out": {
+     "a": 170,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "oceans of research into": {
+     "a": 171,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rate ourselves as": {
+     "a": 172,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "getting on well with": {
+     "a": 173,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hot stuff": {
+     "a": 174,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "Rather than": {
+     "a": 175,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "make up for": {
+     "a": 176,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "corresponded with": {
+     "a": 177,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "self-ratings": {
+     "a": 178,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "unrealistically": {
+     "a": 179,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "baseless": {
+     "a": 180,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "effect": {
+     "a": 181,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "ineffective": {
+     "a": 182,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "inferred": {
+     "a": 183,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "paradise": {
+     "a": 184,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "versus": {
+     "a": 185,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "felt": {
+     "a": 186,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "downturns": {
+     "a": 187,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "bust": {
+     "a": 188,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "outmoded": {
+     "a": 189,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "insatiable": {
+     "a": 190,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "immune": {
+     "a": 191,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "vulnerable": {
+     "a": 192,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "scripted": {
+     "a": 193,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "standardized": {
+     "a": 194,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "initiative": {
+     "a": 195,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "formula": {
+     "a": 196,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "notion": {
+     "a": 197,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "augment": {
+     "a": 198,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "innovate": {
+     "a": 199,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hail from": {
+     "a": 200,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "in the first place": {
+     "a": 201,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "put a giant target sign on": {
+     "a": 202,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "touched on": {
+     "a": 203,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "at least": {
+     "a": 204,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "outmode": {
+     "a": 205,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "intact": {
+     "a": 206,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "stimulate": {
+     "a": 207,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "sector": {
+     "a": 208,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "shove": {
+     "a": 209,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "inevitable": {
+     "a": 210,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "nevertheless": {
+     "a": 211,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "desperate": {
+     "a": 212,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "comprehensive": {
+     "a": 213,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "rectify": {
+     "a": 214,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "hinted": {
+     "a": 215,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "revenues": {
+     "a": 216,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "grants": {
+     "a": 217,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "expire": {
+     "a": 218,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "commitment": {
+     "a": 219,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "shoulder the blame": {
+     "a": 220,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "cap on": {
+     "a": 221,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "borrow against": {
+     "a": 222,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "down to": {
+     "a": 223,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "set to": {
+     "a": 224,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "adjust to": {
+     "a": 225,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "commitment to": {
+     "a": 226,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "interference": {
+     "a": 227,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "relieve": {
+     "a": 228,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "implement": {
+     "a": 229,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "renew": {
+     "a": 230,
+     "s": 0,
+     "d": 0,
+     "st": "u"
     }
    },
-   "sent": {}
+   "sent": {
+    "2014-4|4:0": {
+     "a": 0,
+     "s": 0,
+     "d": 20735,
+     "st": "l"
+    },
+    "2012-1|0:0": {
+     "a": 1,
+     "s": 0,
+     "d": 20735,
+     "st": "l"
+    },
+    "2012-1|0:1": {
+     "a": 2,
+     "s": 0,
+     "d": 20735,
+     "st": "l"
+    },
+    "2012-2|0:1": {
+     "a": 3,
+     "s": 0,
+     "d": 20735,
+     "st": "l"
+    },
+    "2012-3|0:0": {
+     "a": 4,
+     "s": 0,
+     "d": 20735,
+     "st": "l"
+    },
+    "2012-3|2:1": {
+     "a": 5,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2012-3|2:5": {
+     "a": 6,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2012-3|5:2": {
+     "a": 7,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2012-4|1:0": {
+     "a": 8,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2013-2|4:0": {
+     "a": 9,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2013-3|5:1": {
+     "a": 10,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2014-2|0:1": {
+     "a": 11,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2014-2|2:2": {
+     "a": 12,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2014-3|3:1": {
+     "a": 13,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2014-4|1:3": {
+     "a": 14,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2014-4|5:0": {
+     "a": 15,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    },
+    "2014-4|6:1": {
+     "a": 16,
+     "s": 0,
+     "d": 0,
+     "st": "u"
+    }
+   }
   },
   "run": {
    "card": {
-    "d": 20715,
+    "d": 20734,
     "ids": [
-     "accommodating",
      "accomplish",
      "agitated",
-     "uccelli",
-     "tries",
-     "fuses",
-     "eliminate",
-     "moral",
-     "domain",
      "aliens",
+     "thinking",
+     "subjects",
+     "tolerant",
+     "adjust to",
+     "aggressively",
      "Along with",
+     "altered",
+     "amassed",
      "amplifying",
      "anti-immigrant",
-     "assured",
-     "chaotic"
+     "are likely to",
+     "assured"
     ],
-    "i": 14,
+    "i": 10,
     "done": [
-     "uccelli"
+     "conscious",
+     "flattering",
+     "altered"
     ]
    },
    "quiz": {
-    "d": 20716,
+    "d": 20734,
     "ids": [
-     "particularly",
-     "scorned",
-     "complexity",
-     "domain",
-     "mandates",
-     "impoverished"
-    ],
-    "i": 3,
-    "done": [
      "ritual",
      "terribly",
-     "reliable",
-     "moral",
-     "negative",
-     "reverse",
-     "imposes",
-     "complexity"
+     "renew",
+     "fuses",
+     "eliminate",
+     "moral"
     ],
-    "round": 3
+    "i": 0,
+    "done": []
+   },
+   "sent": {
+    "d": 20734,
+    "ids": [
+     "2012-3|0:0",
+     "2012-3|2:1"
+    ],
+    "i": 1,
+    "done": [
+     "2014-4|4:0",
+     "2012-1|0:0",
+     "2012-1|0:1",
+     "2012-2|0:1",
+     "2012-3|0:0"
+    ]
    }
   },
-  "drill": {},
+  "drill": {
+   "2014-4|4:0": {
+    "n": 1,
+    "e": [
+     1,
+     0,
+     0,
+     0,
+     1
+    ],
+    "last": "2026-10-08T10:29:20.305Z"
+   },
+   "2012-1|0:0": {
+    "n": 1,
+    "e": [
+     2,
+     1,
+     0,
+     1,
+     0
+    ],
+    "last": "2026-10-08T10:33:05.995Z"
+   },
+   "2012-1|0:1": {
+    "n": 1,
+    "e": [
+     2,
+     1,
+     0,
+     0,
+     0
+    ],
+    "last": "2026-10-08T10:36:22.746Z"
+   },
+   "2012-2|0:1": {
+    "n": 1,
+    "e": [
+     2,
+     0,
+     0,
+     0,
+     1
+    ],
+    "last": "2026-10-08T10:42:02.536Z"
+   },
+   "2012-3|0:0": {
+    "n": 1,
+    "e": [
+     0,
+     0,
+     0,
+     1,
+     0
+    ],
+    "last": "2026-10-08T10:53:17.982Z"
+   }
+  },
   "posg": {
    "card": {
-    "ok": 5,
-    "bad": 3
+    "ok": 14,
+    "bad": 9
    },
    "quiz": {
     "ok": 0,
