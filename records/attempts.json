@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T08:09:54.129Z",
+ "updatedAt": "2026-10-08T08:24:55.388Z",
  "count": 13,
  "attempts": [
   {
@@ -4081,6 +4081,19 @@
      "note": "",
      "p": 5,
      "s": 0
+    },
+    {
+     "text": "at least",
+     "loc": "0:0",
+     "a": 7,
+     "b": 8,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries.",
+     "cn": "\"人与机器之争\"的概念至少和工业革命一样古老，但这种现象往往在经济衰退和脆弱的复苏期间感受最为强烈。",
+     "m": "至少",
+     "base": "at least",
+     "note": "",
+     "p": 0,
+     "s": 0
     }
    ],
    "qwords": [
@@ -4101,9 +4114,27 @@
      "part": "D",
      "sent": "outmode our current economic structure",
      "cn": "使我们当前的经济结构过时"
+    },
+    {
+     "key": "32:C:4",
+     "w": "intact",
+     "raw": "intact",
+     "n": 32,
+     "part": "C",
+     "sent": "certain jobs will remain intact after automation",
+     "cn": "某些工作在自动化之后仍会完好保留"
+    },
+    {
+     "key": "35:D:2",
+     "w": "stimulate",
+     "raw": "Stimulate",
+     "n": 35,
+     "part": "D",
+     "sent": "Economic Downturns Stimulate Innovations",
+     "cn": "经济衰退激发创新"
     }
    ],
-   "updatedAt": "2026-10-08T08:09:29.860Z"
+   "updatedAt": "2026-10-08T08:23:20.729Z"
   }
  },
  "prefs": {
@@ -4663,7 +4694,10 @@
    "innovate": "2026-10-08T08:07:39.428Z",
    "institutions": "2026-10-08T08:07:47.635Z",
    "practices": "2026-10-08T08:08:01.647Z",
-   "outmode": "2026-10-08T08:09:27.101Z"
+   "outmode": "2026-10-08T08:09:27.101Z",
+   "intact": "2026-10-08T08:15:05.260Z",
+   "opportunities": "2026-10-08T08:20:52.309Z",
+   "stimulate": "2026-10-08T08:23:16.774Z"
   },
   "archived": {
    "uccelli": {
