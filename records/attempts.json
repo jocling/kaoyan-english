@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-05T12:15:11.328Z",
+ "updatedAt": "2026-10-08T08:09:54.129Z",
  "count": 13,
  "attempts": [
   {
@@ -3745,6 +3745,365 @@
     }
    ],
    "updatedAt": "2026-10-05T04:49:54.483Z"
+  },
+  "2014-3": {
+   "words": [
+    {
+     "w": "versus",
+     "raw": "versus",
+     "p": 0,
+     "s": 0,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries."
+    },
+    {
+     "w": "acutely",
+     "raw": "acutely",
+     "p": 0,
+     "s": 0,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries."
+    },
+    {
+     "w": "felt",
+     "raw": "felt",
+     "p": 0,
+     "s": 0,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries."
+    },
+    {
+     "w": "downturns",
+     "raw": "downturns",
+     "p": 0,
+     "s": 0,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries."
+    },
+    {
+     "w": "fragile",
+     "raw": "fragile",
+     "p": 0,
+     "s": 0,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries."
+    },
+    {
+     "w": "recoveries",
+     "raw": "recoveries.",
+     "p": 0,
+     "s": 0,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries."
+    },
+    {
+     "w": "concept",
+     "raw": "concept",
+     "p": 0,
+     "s": 0,
+     "sent": "The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries."
+    },
+    {
+     "w": "painful",
+     "raw": "painful",
+     "p": 0,
+     "s": 1,
+     "sent": "And yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom and bust cycle."
+    },
+    {
+     "w": "bust",
+     "raw": "bust",
+     "p": 0,
+     "s": 1,
+     "sent": "And yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom and bust cycle."
+    },
+    {
+     "w": "outmoded",
+     "raw": "outmoded",
+     "p": 0,
+     "s": 2,
+     "sent": "Certain jobs have gone away for good, outmoded by machines."
+    },
+    {
+     "w": "appetite",
+     "raw": "appetite",
+     "p": 0,
+     "s": 3,
+     "sent": "Since technology has such an insatiable appetite for eating up human jobs, this phenomenon will continue to restructure our economy in ways we cannot immediately foresee."
+    },
+    {
+     "w": "insatiable",
+     "raw": "insatiable",
+     "p": 0,
+     "s": 3,
+     "sent": "Since technology has such an insatiable appetite for eating up human jobs, this phenomenon will continue to restructure our economy in ways we cannot immediately foresee."
+    },
+    {
+     "w": "restructure",
+     "raw": "restructure",
+     "p": 0,
+     "s": 3,
+     "sent": "Since technology has such an insatiable appetite for eating up human jobs, this phenomenon will continue to restructure our economy in ways we cannot immediately foresee."
+    },
+    {
+     "w": "foresee",
+     "raw": "foresee.",
+     "p": 0,
+     "s": 3,
+     "sent": "Since technology has such an insatiable appetite for eating up human jobs, this phenomenon will continue to restructure our economy in ways we cannot immediately foresee."
+    },
+    {
+     "w": "performance",
+     "raw": "performance",
+     "p": 1,
+     "s": 0,
+     "sent": "When there is rapid improvement in the price and performance of technology, jobs that were once thought to be immune from automation suddenly become threatened."
+    },
+    {
+     "w": "immune",
+     "raw": "immune",
+     "p": 1,
+     "s": 0,
+     "sent": "When there is rapid improvement in the price and performance of technology, jobs that were once thought to be immune from automation suddenly become threatened."
+    },
+    {
+     "w": "scary",
+     "raw": "scary",
+     "p": 2,
+     "s": 0,
+     "sent": "This is a powerful argument, and a scary one."
+    },
+    {
+     "w": "pull",
+     "raw": "Pull",
+     "p": 2,
+     "s": 1,
+     "sent": "And yet, John Hagel, author of The Power of Pull and other books, says Brynjolfsson and McAfee miss the reason why these jobs are so vulnerable to technology in the first place."
+    },
+    {
+     "w": "vulnerable",
+     "raw": "vulnerable",
+     "p": 2,
+     "s": 1,
+     "sent": "And yet, John Hagel, author of The Power of Pull and other books, says Brynjolfsson and McAfee miss the reason why these jobs are so vulnerable to technology in the first place."
+    },
+    {
+     "w": "scripted",
+     "raw": "scripted\"",
+     "p": 3,
+     "s": 0,
+     "sent": "Hagel says we have designed jobs in the U.S. that tend to be \"tightly scripted\" and \"highly standardized\" ones that leave no room for \"individual initiative or creativity\"."
+    },
+    {
+     "w": "tightly",
+     "raw": "\"tightly",
+     "p": 3,
+     "s": 0,
+     "sent": "Hagel says we have designed jobs in the U.S. that tend to be \"tightly scripted\" and \"highly standardized\" ones that leave no room for \"individual initiative or creativity\"."
+    },
+    {
+     "w": "standardized",
+     "raw": "standardized\"",
+     "p": 3,
+     "s": 0,
+     "sent": "Hagel says we have designed jobs in the U.S. that tend to be \"tightly scripted\" and \"highly standardized\" ones that leave no room for \"individual initiative or creativity\"."
+    },
+    {
+     "w": "initiative",
+     "raw": "initiative",
+     "p": 3,
+     "s": 0,
+     "sent": "Hagel says we have designed jobs in the U.S. that tend to be \"tightly scripted\" and \"highly standardized\" ones that leave no room for \"individual initiative or creativity\"."
+    },
+    {
+     "w": "reinvent",
+     "raw": "reinvent",
+     "p": 4,
+     "s": 0,
+     "sent": "It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, Hagel says."
+    },
+    {
+     "w": "formula",
+     "raw": "formula",
+     "p": 4,
+     "s": 0,
+     "sent": "It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, Hagel says."
+    },
+    {
+     "w": "conducted",
+     "raw": "conducted,",
+     "p": 4,
+     "s": 0,
+     "sent": "It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, Hagel says."
+    },
+    {
+     "w": "notion",
+     "raw": "notion",
+     "p": 4,
+     "s": 0,
+     "sent": "It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, Hagel says."
+    },
+    {
+     "w": "initiative",
+     "raw": "initiative",
+     "p": 4,
+     "s": 1,
+     "sent": "In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination \"to respond to unexpected events\"."
+    },
+    {
+     "w": "predictable",
+     "raw": "predictable",
+     "p": 4,
+     "s": 3,
+     "sent": "They are designed to perform very predictable activities."
+    },
+    {
+     "w": "indeed",
+     "raw": "indeed",
+     "p": 5,
+     "s": 0,
+     "sent": "As Hagel notes, Brynjolfsson and McAfee indeed touched on this point in their book."
+    },
+    {
+     "w": "reframe",
+     "raw": "reframe",
+     "p": 5,
+     "s": 1,
+     "sent": "We need to reframe race against the machine as race with the machine."
+    },
+    {
+     "w": "augment",
+     "raw": "augment",
+     "p": 5,
+     "s": 2,
+     "sent": "In other words, we need to look at the ways in which machines can augment human labor rather than replace it."
+    },
+    {
+     "w": "innovate",
+     "raw": "innovate",
+     "p": 5,
+     "s": 3,
+     "sent": "So then the problem is not really about technology, but rather, \"how do we innovate our institutions and our work practices?\""
+    },
+    {
+     "w": "institutions",
+     "raw": "institutions",
+     "p": 5,
+     "s": 3,
+     "sent": "So then the problem is not really about technology, but rather, \"how do we innovate our institutions and our work practices?\""
+    },
+    {
+     "w": "practices",
+     "raw": "practices?\"",
+     "p": 5,
+     "s": 3,
+     "sent": "So then the problem is not really about technology, but rather, \"how do we innovate our institutions and our work practices?\""
+    }
+   ],
+   "sentences": [
+    {
+     "p": 1,
+     "s": 0,
+     "text": "When there is rapid improvement in the price and performance of technology, jobs that were once thought to be immune from automation suddenly become threatened."
+    },
+    {
+     "p": 3,
+     "s": 1,
+     "text": "In short, these are the types of jobs that machines can perform much better at than human beings."
+    },
+    {
+     "p": 5,
+     "s": 1,
+     "text": "We need to reframe race against the machine as race with the machine."
+    },
+    {
+     "p": 5,
+     "s": 3,
+     "text": "So then the problem is not really about technology, but rather, \"how do we innovate our institutions and our work practices?\""
+    }
+   ],
+   "phrases": [
+    {
+     "text": "for good",
+     "loc": "0:2",
+     "a": 5,
+     "b": 6,
+     "sent": "Certain jobs have gone away for good, outmoded by machines.",
+     "cn": "有些工作已经一去不复返，被机器淘汰了。",
+     "m": "永远，一去不复返",
+     "base": "for good",
+     "note": "",
+     "p": 0,
+     "s": 2
+    },
+    {
+     "text": "hail from",
+     "loc": "1:1",
+     "a": 27,
+     "b": 28,
+     "sent": "This argument has attracted a lot of attention, via the success of the book Race A gainst the Machine, by Erik Brynjolfsson and Andrew McAfee, who both hail from MIT's Center for Digital Business.",
+     "cn": "这一论点引起了广泛关注，这得益于埃里克·布林约尔松和安德鲁·麦卡菲所著《与机器赛跑》一书的成功，两位作者均来自麻省理工学院数字商业中心。",
+     "m": "来自（麻省理工）",
+     "base": "hail from",
+     "note": "",
+     "p": 1,
+     "s": 1
+    },
+    {
+     "text": "in the first place",
+     "loc": "2:1",
+     "a": 28,
+     "b": 31,
+     "sent": "And yet, John Hagel, author of The Power of Pull and other books, says Brynjolfsson and McAfee miss the reason why these jobs are so vulnerable to technology in the first place.",
+     "cn": "然而，《拉动的力量》等书的作者约翰·哈格尔说，布林约尔松和麦卡菲没有看到这些工作之所以如此容易受技术冲击的根本原因。",
+     "m": "根本上，起初",
+     "base": "in the first place",
+     "note": "",
+     "p": 2,
+     "s": 1
+    },
+    {
+     "text": "put a giant target sign on",
+     "loc": "3:2",
+     "a": 5,
+     "b": 10,
+     "sent": "That is how we have put a giant target sign on the backs of American workers, Hagel says.",
+     "cn": "哈格尔说，我们就是这样在美国工人的背上贴了一个巨大的靶子。",
+     "m": "使（美国工人）成为攻击目标",
+     "base": "put a target on sb's back",
+     "note": "",
+     "p": 3,
+     "s": 2
+    },
+    {
+     "text": "touched on",
+     "loc": "5:0",
+     "a": 7,
+     "b": 8,
+     "sent": "As Hagel notes, Brynjolfsson and McAfee indeed touched on this point in their book.",
+     "cn": "正如哈格尔所指出的，布林约尔松和麦卡菲在书中确实谈到了这一点。",
+     "m": "谈到，提及",
+     "base": "touch on",
+     "note": "",
+     "p": 5,
+     "s": 0
+    }
+   ],
+   "qwords": [
+    {
+     "key": "31:stem:6",
+     "w": "downturns",
+     "raw": "downturns",
+     "n": 31,
+     "part": "stem",
+     "sent": "According to the first paragraph, economic downturns would ______",
+     "cn": "根据第一段，经济衰退会……"
+    },
+    {
+     "key": "31:D:0",
+     "w": "outmode",
+     "raw": "outmode",
+     "n": 31,
+     "part": "D",
+     "sent": "outmode our current economic structure",
+     "cn": "使我们当前的经济结构过时"
+    }
+   ],
+   "updatedAt": "2026-10-08T08:09:29.860Z"
   }
  },
  "prefs": {
@@ -3772,7 +4131,10 @@
    "effect": 1,
    "rose-tint": 2,
    "self-affirming": 2,
-   "deliberation": 1
+   "deliberation": 1,
+   "felt": 1,
+   "performance": 2,
+   "conducted": 2
   },
   "confuse": {
    "intrinsically": [
@@ -4264,7 +4626,44 @@
    "paradise": "2026-10-05T04:48:33.336Z",
    "cream": "2026-10-05T04:49:22.360Z",
    "wit": "2026-10-05T04:49:26.026Z",
-   "portray": "2026-10-05T04:49:52.935Z"
+   "portray": "2026-10-05T04:49:52.935Z",
+   "versus": "2026-10-05T12:15:16.288Z",
+   "acutely": "2026-10-05T12:15:46.273Z",
+   "felt": "2026-10-05T12:15:59.489Z",
+   "downturns": "2026-10-05T12:16:57.623Z",
+   "fragile": "2026-10-05T12:17:01.870Z",
+   "recoveries": "2026-10-05T12:17:06.874Z",
+   "concept": "2026-10-05T12:17:27.324Z",
+   "painful": "2026-10-05T12:22:36.923Z",
+   "bust": "2026-10-05T12:22:50.206Z",
+   "yet": "2026-10-05T12:24:27.764Z",
+   "outmoded": "2026-10-05T12:25:48.809Z",
+   "appetite": "2026-10-05T12:25:51.755Z",
+   "insatiable": "2026-10-05T12:26:09.856Z",
+   "restructure": "2026-10-05T12:26:21.505Z",
+   "foresee": "2026-10-05T12:26:27.815Z",
+   "performance": "2026-10-08T07:37:15.063Z",
+   "immune": "2026-10-08T07:38:20.373Z",
+   "once": "2026-10-08T07:39:35.951Z",
+   "scary": "2026-10-08T07:41:51.870Z",
+   "why": "2026-10-08T07:42:14.816Z",
+   "pull": "2026-10-08T07:42:16.935Z",
+   "vulnerable": "2026-10-08T07:42:35.677Z",
+   "scripted": "2026-10-08T07:43:59.118Z",
+   "tightly": "2026-10-08T07:44:17.465Z",
+   "standardized": "2026-10-08T07:44:31.302Z",
+   "initiative": "2026-10-08T07:46:28.267Z",
+   "reinvent": "2026-10-08T07:51:55.727Z",
+   "formula": "2026-10-08T07:52:00.699Z",
+   "conducted": "2026-10-08T07:52:16.350Z",
+   "notion": "2026-10-08T07:52:48.967Z",
+   "predictable": "2026-10-08T07:53:46.738Z",
+   "reframe": "2026-10-08T07:54:30.957Z",
+   "augment": "2026-10-08T08:06:51.708Z",
+   "innovate": "2026-10-08T08:07:39.428Z",
+   "institutions": "2026-10-08T08:07:47.635Z",
+   "practices": "2026-10-08T08:08:01.647Z",
+   "outmode": "2026-10-08T08:09:27.101Z"
   },
   "archived": {
    "uccelli": {
