@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T17:19:13.637Z",
+ "updatedAt": "2026-10-08T17:33:40.758Z",
  "count": 17,
  "attempts": [
   {
@@ -5348,6 +5348,224 @@
     }
    ],
    "updatedAt": "2026-10-08T15:46:18.399Z"
+  },
+  "2015-3": {
+   "words": [
+    {
+     "w": "fulfillment",
+     "raw": "fulfillment",
+     "p": 3,
+     "s": 0,
+     "sent": "This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance."
+    },
+    {
+     "w": "motivated",
+     "raw": "motivated",
+     "p": 3,
+     "s": 0,
+     "sent": "This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance."
+    },
+    {
+     "w": "loud",
+     "raw": "loud",
+     "p": 3,
+     "s": 0,
+     "sent": "This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance."
+    },
+    {
+     "w": "amid",
+     "raw": "amid",
+     "p": 3,
+     "s": 0,
+     "sent": "This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance."
+    },
+    {
+     "w": "prompting",
+     "raw": "prompting",
+     "p": 3,
+     "s": 1,
+     "sent": "The \"mommy wars\" of the 1990s are still going on today, prompting arguments about why women still can't have it all and books like Sheryl Sandberg's Lean In, whose title has become a buzzword in its own right."
+    },
+    {
+     "w": "buzzword",
+     "raw": "buzzword",
+     "p": 3,
+     "s": 1,
+     "sent": "The \"mommy wars\" of the 1990s are still going on today, prompting arguments about why women still can't have it all and books like Sheryl Sandberg's Lean In, whose title has become a buzzword in its own right."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 3,
+     "s": 0,
+     "text": "This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "debates over",
+     "loc": "3:0",
+     "a": 14,
+     "b": 15,
+     "sent": "This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance.",
+     "cn": "在关于工作与生活平衡的争论日益激烈之际，这种对个人成就感的新关注有助于让员工保持干劲。",
+     "m": "",
+     "base": "",
+     "note": "关于，，，，争论",
+     "p": 3,
+     "s": 0
+    },
+    {
+     "text": "in its own right",
+     "loc": "3:1",
+     "a": 34,
+     "b": 37,
+     "sent": "The \"mommy wars\" of the 1990s are still going on today, prompting arguments about why women still can't have it all and books like Sheryl Sandberg's Lean In, whose title has become a buzzword in its own right.",
+     "cn": "上世纪90年代的“妈妈战争”至今仍在延续，引发了关于女性为何仍无法拥有一切的争论，也催生了谢丽尔·桑德伯格的《向前一步》之类的书籍——该书书名本身已成为一个流行语。",
+     "m": "本身（就）",
+     "base": "in one's own right",
+     "note": "",
+     "p": 3,
+     "s": 1
+    },
+    {
+     "text": "even if",
+     "loc": "3:3",
+     "a": 16,
+     "b": 17,
+     "sent": "But if your work is your \"passion,\" you'll be more likely to devote yourself to it, even if that means going home for dinner and then working long after the kids are in bed.",
+     "cn": "但如果工作是你的“激情”所在，你就更可能全身心投入其中，哪怕这意味着回家吃完晚饭，等孩子睡下后还要工作到深夜。",
+     "m": "即使",
+     "base": "even if",
+     "note": "",
+     "p": 3,
+     "s": 3
+    },
+    {
+     "text": "long after",
+     "loc": "3:3",
+     "a": 27,
+     "b": 28,
+     "sent": "But if your work is your \"passion,\" you'll be more likely to devote yourself to it, even if that means going home for dinner and then working long after the kids are in bed.",
+     "cn": "但如果工作是你的“激情”所在，你就更可能全身心投入其中，哪怕这意味着回家吃完晚饭，等孩子睡下后还要工作到深夜。",
+     "m": "很久以后",
+     "base": "long after",
+     "note": "",
+     "p": 3,
+     "s": 3
+    }
+   ],
+   "qwords": [
+    {
+     "key": "31:C:1",
+     "w": "objective",
+     "raw": "objective",
+     "n": 31,
+     "part": "C",
+     "sent": "more objective",
+     "cn": "更加客观了"
+    },
+    {
+     "key": "32:C:1",
+     "w": "incidents",
+     "raw": "incidents",
+     "n": 32,
+     "part": "C",
+     "sent": "historical incidents",
+     "cn": "历史事件"
+    },
+    {
+     "key": "32:D:0",
+     "w": "athletic",
+     "raw": "athletic",
+     "n": 32,
+     "part": "D",
+     "sent": "athletic executives",
+     "cn": "擅长运动的高管"
+    },
+    {
+     "key": "32:D:1",
+     "w": "executives",
+     "raw": "executives",
+     "n": 32,
+     "part": "D",
+     "sent": "athletic executives",
+     "cn": "擅长运动的高管"
+    },
+    {
+     "key": "33:A:0",
+     "w": "revive",
+     "raw": "revive",
+     "n": 33,
+     "part": "A",
+     "sent": "revive historical terms",
+     "cn": "复兴历史上的术语"
+    },
+    {
+     "key": "33:B:0",
+     "w": "promote",
+     "raw": "promote",
+     "n": 33,
+     "part": "B",
+     "sent": "promote company image",
+     "cn": "提升公司形象"
+    },
+    {
+     "key": "33:C:0",
+     "w": "foster",
+     "raw": "foster",
+     "n": 33,
+     "part": "C",
+     "sent": "foster corporate cooperation",
+     "cn": "促进企业合作"
+    },
+    {
+     "key": "34:C:1",
+     "w": "debates",
+     "raw": "debates",
+     "n": 34,
+     "part": "C",
+     "sent": "triggers debates among mommies",
+     "cn": "引发了妈妈们之间的争论"
+    },
+    {
+     "key": "34:D:0",
+     "w": "praises",
+     "raw": "praises",
+     "n": 34,
+     "part": "D",
+     "sent": "praises motivated employees",
+     "cn": "赞扬了干劲十足的员工"
+    },
+    {
+     "key": "35:B:2",
+     "w": "mock",
+     "raw": "mock",
+     "n": 35,
+     "part": "B",
+     "sent": "Regular people mock it but accept it",
+     "cn": "普通人嘲笑它却又接受它"
+    },
+    {
+     "key": "35:C:5",
+     "w": "fundamental",
+     "raw": "fundamental",
+     "n": 35,
+     "part": "C",
+     "sent": "Companies find it to be fundamental",
+     "cn": "公司认为它是根本性的"
+    },
+    {
+     "key": "35:D:1",
+     "w": "admire",
+     "raw": "admire",
+     "n": 35,
+     "part": "D",
+     "sent": "Managers admire it but avoid it",
+     "cn": "管理者欣赏它却回避它"
+    }
+   ],
+   "updatedAt": "2026-10-08T17:32:40.360Z"
   }
  },
  "prefs": {
@@ -5388,7 +5606,8 @@
    "front": 2,
    "nutrition": 2,
    "appeal": 1,
-   "defined": 1
+   "defined": 1,
+   "debates": 1
   },
   "confuse": {
    "intrinsically": [
@@ -6026,7 +6245,26 @@
    "reject": "2026-10-08T15:41:28.140Z",
    "enrich": "2026-10-08T15:42:54.381Z",
    "navigate": "2026-10-08T15:43:20.773Z",
-   "advantages": "2026-10-08T15:46:56.365Z"
+   "advantages": "2026-10-08T15:46:56.365Z",
+   "objective": "2026-10-08T17:19:27.805Z",
+   "incidents": "2026-10-08T17:19:45.231Z",
+   "executives": "2026-10-08T17:20:11.358Z",
+   "athletic": "2026-10-08T17:20:17.427Z",
+   "revive": "2026-10-08T17:20:45.989Z",
+   "promote": "2026-10-08T17:21:17.252Z",
+   "foster": "2026-10-08T17:21:21.049Z",
+   "debates": "2026-10-08T17:21:41.773Z",
+   "praises": "2026-10-08T17:22:01.531Z",
+   "mock": "2026-10-08T17:22:22.825Z",
+   "fundamental": "2026-10-08T17:22:37.634Z",
+   "admire": "2026-10-08T17:22:44.516Z",
+   "fulfillment": "2026-10-08T17:23:11.854Z",
+   "motivated": "2026-10-08T17:23:26.892Z",
+   "loud": "2026-10-08T17:27:44.068Z",
+   "amid": "2026-10-08T17:29:01.762Z",
+   "prompting": "2026-10-08T17:29:24.415Z",
+   "buzzword": "2026-10-08T17:29:55.066Z",
+   "unplug": "2026-10-08T17:30:52.822Z"
   },
   "archived": {
    "uccelli": {
