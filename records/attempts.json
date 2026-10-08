@@ -1,8 +1,81 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-08T15:48:25.826Z",
- "count": 16,
+ "updatedAt": "2026-10-08T17:18:46.807Z",
+ "count": 17,
  "attempts": [
+  {
+   "id": "2015-3__20261008171844_phj",
+   "textId": "2015-3",
+   "label": "2015 · Text 3",
+   "year": 2015,
+   "startedAt": "2026-10-08T16:59:52.220Z",
+   "submittedAt": "2026-10-08T17:18:44.608Z",
+   "durationSec": 1132,
+   "score": 5,
+   "answers": {
+    "31": "D",
+    "32": "A",
+    "33": "D",
+    "34": "A",
+    "35": "B"
+   },
+   "correct": {
+    "31": true,
+    "32": true,
+    "33": true,
+    "34": true,
+    "35": true
+   },
+   "qTimes": {
+    "31": 630,
+    "32": 649,
+    "33": 814,
+    "34": 964,
+    "35": 1100
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [
+    {
+     "w": "nancy",
+     "raw": "Nancy",
+     "p": 0,
+     "s": 0,
+     "sent": "Even in traditional offices, \"the lingua franca of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago,\" said Harvard Business School professor Nancy Koehn."
+    },
+    {
+     "w": "koehn",
+     "raw": "Koehn",
+     "p": 1,
+     "s": 0,
+     "sent": "Koehn pointed out that this new era of corporate vocabulary is very \"team\"-oriented - and not by coincidence."
+    },
+    {
+     "w": "in",
+     "raw": "In,",
+     "p": 3,
+     "s": 1,
+     "sent": "The \"mommy wars\" of the 1990s are still going on today, prompting arguments about why women still can't have it all and books like Sheryl Sandberg's Lean In, whose title has become a buzzword in its own right."
+    },
+    {
+     "w": "lean",
+     "raw": "Lean",
+     "p": 3,
+     "s": 1,
+     "sent": "The \"mommy wars\" of the 1990s are still going on today, prompting arguments about why women still can't have it all and books like Sheryl Sandberg's Lean In, whose title has become a buzzword in its own right."
+    },
+    {
+     "w": "khurana",
+     "raw": "Khurana,",
+     "p": 2,
+     "s": 0,
+     "sent": "These terms are also intended to infuse work with meaning - and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm."
+    }
+   ],
+   "sentences": []
+  },
   {
    "id": "2015-2__20261008144113_xgb",
    "textId": "2015-2",
