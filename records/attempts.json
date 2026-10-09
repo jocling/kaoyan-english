@@ -1,8 +1,67 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-09T06:05:41.442Z",
- "count": 17,
+ "updatedAt": "2026-10-09T06:17:59.274Z",
+ "count": 18,
  "attempts": [
+  {
+   "id": "2015-4__20261009061757_q7k",
+   "textId": "2015-4",
+   "label": "2015 · Text 4",
+   "year": 2015,
+   "startedAt": "2026-10-09T06:06:21.448Z",
+   "submittedAt": "2026-10-09T06:17:57.771Z",
+   "durationSec": 696,
+   "score": 4,
+   "answers": {
+    "36": "B",
+    "37": "C",
+    "38": "A",
+    "39": "D",
+    "40": "B"
+   },
+   "correct": {
+    "36": true,
+    "37": true,
+    "38": true,
+    "39": true,
+    "40": false
+   },
+   "qTimes": {
+    "36": 448,
+    "37": 502,
+    "38": 623,
+    "39": 657,
+    "40": 694
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [
+    {
+     "w": "obamacare",
+     "raw": "Obamacare",
+     "p": 5,
+     "s": 0,
+     "sent": "The issue of voluntary part-time relates to Obamacare because one of the main purposes was to allow people to get insurance outside of employment."
+    },
+    {
+     "w": "however",
+     "raw": "However,",
+     "p": 1,
+     "s": 0,
+     "sent": "However, there is another important part of the jobs picture that was largely overlooked."
+    },
+    {
+     "w": "obamacare",
+     "raw": "Obamacare,",
+     "p": 2,
+     "s": 0,
+     "sent": "Before explaining the connection to the Obamacare, it is worth making an important distinction."
+    }
+   ],
+   "sentences": []
+  },
   {
    "id": "2015-3__20261008171844_phj",
    "textId": "2015-3",
