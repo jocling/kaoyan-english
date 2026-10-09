@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-09T06:18:32.614Z",
+ "updatedAt": "2026-10-09T07:30:54.161Z",
  "count": 18,
  "attempts": [
   {
@@ -5828,6 +5828,277 @@
     }
    ],
    "updatedAt": "2026-10-09T06:05:36.922Z"
+  },
+  "2015-4": {
+   "words": [
+    {
+     "w": "appears",
+     "raw": "appears",
+     "p": 0,
+     "s": 2,
+     "sent": "For now it appears the economy is creating jobs at a decent pace."
+    },
+    {
+     "w": "overlooked",
+     "raw": "overlooked.",
+     "p": 1,
+     "s": 0,
+     "sent": "However, there is another important part of the jobs picture that was largely overlooked."
+    },
+    {
+     "w": "figure",
+     "raw": "figure",
+     "p": 1,
+     "s": 2,
+     "sent": "This figure is now 830,000 (4.4 percent) above its year ago level."
+    },
+    {
+     "w": "above",
+     "raw": "above",
+     "p": 1,
+     "s": 2,
+     "sent": "This figure is now 830,000 (4.4 percent) above its year ago level."
+    },
+    {
+     "w": "distinction",
+     "raw": "distinction.",
+     "p": 2,
+     "s": 0,
+     "sent": "Before explaining the connection to the Obamacare, it is worth making an important distinction."
+    },
+    {
+     "w": "survey",
+     "raw": "survey",
+     "p": 4,
+     "s": 1,
+     "sent": "The survey used by the Labor Department asks people if they worked less than 35 hours in the reference week."
+    },
+    {
+     "w": "reference",
+     "raw": "reference",
+     "p": 4,
+     "s": 1,
+     "sent": "The survey used by the Labor Department asks people if they worked less than 35 hours in the reference week."
+    },
+    {
+     "w": "classified",
+     "raw": "classified",
+     "p": 4,
+     "s": 2,
+     "sent": "If the answer is \"yes,\" they are classified as working part-time."
+    },
+    {
+     "w": "insurance",
+     "raw": "insurance.",
+     "p": 5,
+     "s": 1,
+     "sent": "For many people, especially those with serious health conditions or family members with serious health conditions, before Obamacare the only way to get insurance was through a job that provided health insurance."
+    },
+    {
+     "w": "conditions",
+     "raw": "conditions",
+     "p": 5,
+     "s": 1,
+     "sent": "For many people, especially those with serious health conditions or family members with serious health conditions, before Obamacare the only way to get insurance was through a job that provided health insurance."
+    },
+    {
+     "w": "relates",
+     "raw": "relates",
+     "p": 5,
+     "s": 0,
+     "sent": "The issue of voluntary part-time relates to Obamacare because one of the main purposes was to allow people to get insurance outside of employment."
+    },
+    {
+     "w": "exchanges",
+     "raw": "exchanges.",
+     "p": 6,
+     "s": 0,
+     "sent": "However, Obamacare has allowed more than 12 million people to either get insurance through Medicaid or the exchanges."
+    },
+    {
+     "w": "previously",
+     "raw": "previously",
+     "p": 6,
+     "s": 1,
+     "sent": "These are people who may previously have felt the need to get a full-time job that provided insurance in order to cover themselves and their families."
+    },
+    {
+     "w": "felt",
+     "raw": "felt",
+     "p": 6,
+     "s": 1,
+     "sent": "These are people who may previously have felt the need to get a full-time job that provided insurance in order to cover themselves and their families."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 1,
+     "s": 0,
+     "text": "However, there is another important part of the jobs picture that was largely overlooked."
+    },
+    {
+     "p": 1,
+     "s": 2,
+     "text": "This figure is now 830,000 (4.4 percent) above its year ago level."
+    },
+    {
+     "p": 2,
+     "s": 3,
+     "text": "An increase in involuntary part-time work is evidence of weakness in the labor market and it means that many people will be having a very hard time making ends meet."
+    },
+    {
+     "p": 4,
+     "s": 4,
+     "text": "They are only classified as voluntary part-time workers if they tell the survey taker they chose to work less than 35 hours a week."
+    },
+    {
+     "p": 6,
+     "s": 2,
+     "text": "With Obamacare there is no longer a link between employment and insurance."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "make ends meet",
+     "loc": "q:37:B",
+     "a": 5,
+     "b": 7,
+     "sent": "feel that is enough to make ends meet",
+     "cn": "觉得兼职足以维持生计",
+     "m": "维持生计",
+     "base": "make ends meet",
+     "note": ""
+    },
+    {
+     "text": "get their hands on",
+     "loc": "q:37:C",
+     "a": 1,
+     "b": 4,
+     "sent": "cannot get their hands on full-time jobs",
+     "cn": "找不到全职工作",
+     "m": "得到，找到",
+     "base": "get one's hands on",
+     "note": ""
+    },
+    {
+     "text": "at a decent pace",
+     "loc": "0:2",
+     "a": 9,
+     "b": 12,
+     "sent": "For now it appears the economy is creating jobs at a decent pace.",
+     "cn": "目前看来，经济正以相当不错的速度创造就业。",
+     "m": "以相当不错的速度",
+     "base": "at a … pace",
+     "note": "",
+     "p": 0,
+     "s": 2
+    },
+    {
+     "text": "jump in",
+     "loc": "1:1",
+     "a": 4,
+     "b": 5,
+     "sent": "There was a big jump in the number of people who report voluntarily working part-time.",
+     "cn": "报告自己自愿从事兼职工作的人数出现了大幅跃升。",
+     "m": "激增，跃升",
+     "base": "a jump in",
+     "note": "",
+     "p": 1,
+     "s": 1
+    },
+    {
+     "text": "having a very hard time",
+     "loc": "2:3",
+     "a": 22,
+     "b": 26,
+     "sent": "An increase in involuntary part-time work is evidence of weakness in the labor market and it means that many people will be having a very hard time making ends meet.",
+     "cn": "非自愿兼职人数的增加是劳动力市场疲软的证据，也意味着许多人将难以维持生计。",
+     "m": "很难（做到）",
+     "base": "have a hard time (doing)",
+     "note": "",
+     "p": 2,
+     "s": 3
+    },
+    {
+     "text": "felt the need to",
+     "loc": "6:1",
+     "a": 7,
+     "b": 10,
+     "sent": "These are people who may previously have felt the need to get a full-time job that provided insurance in order to cover themselves and their families.",
+     "cn": "这些人此前可能觉得有必要找一份提供医保的全职工作，以便为自己和家人提供保障。",
+     "m": "觉得有必要",
+     "base": "feel the need to do",
+     "note": "",
+     "p": 6,
+     "s": 1
+    }
+   ],
+   "qwords": [
+    {
+     "key": "40:B:1",
+     "w": "classification",
+     "raw": "classification",
+     "n": 40,
+     "part": "B",
+     "sent": "part-timer classification",
+     "cn": "兼职人员的分类"
+    },
+    {
+     "key": "40:C:2",
+     "w": "medicaid",
+     "raw": "Medicaid",
+     "n": 40,
+     "part": "C",
+     "sent": "insurance through Medicaid",
+     "cn": "通过医疗补助计划获得的保险"
+    },
+    {
+     "key": "36:A:1",
+     "w": "prospect",
+     "raw": "prospect",
+     "n": 36,
+     "part": "A",
+     "sent": "The prospect of a thriving job market",
+     "cn": "就业市场繁荣的前景"
+    },
+    {
+     "key": "36:A:4",
+     "w": "thriving",
+     "raw": "thriving",
+     "n": 36,
+     "part": "A",
+     "sent": "The prospect of a thriving job market",
+     "cn": "就业市场繁荣的前景"
+    },
+    {
+     "key": "36:D:1",
+     "w": "acceleration",
+     "raw": "acceleration",
+     "n": 36,
+     "part": "D",
+     "sent": "The acceleration of job creation",
+     "cn": "就业岗位创造的加速"
+    },
+    {
+     "key": "37:A:0",
+     "w": "prefer",
+     "raw": "prefer",
+     "n": 37,
+     "part": "A",
+     "sent": "prefer part-time jobs to full-time jobs",
+     "cn": "更喜欢兼职而不是全职工作"
+    },
+    {
+     "key": "39:D:5",
+     "w": "precondition",
+     "raw": "precondition",
+     "n": 39,
+     "part": "D",
+     "sent": "employment is no longer a precondition to get insurance",
+     "cn": "就业不再是获得保险的前提条件"
+    }
+   ],
+   "updatedAt": "2026-10-09T07:30:51.196Z"
   }
  },
  "prefs": {
@@ -5870,7 +6141,9 @@
    "appeal": 1,
    "defined": 1,
    "debates": 1,
-   "spinning": 1
+   "spinning": 1,
+   "prefer": 1,
+   "appears": 1
   },
   "confuse": {
    "intrinsically": [
@@ -6553,7 +6826,31 @@
    "devote": "2026-10-09T06:02:39.509Z",
    "irony": "2026-10-09T06:02:55.041Z",
    "absorb": "2026-10-09T06:03:33.464Z",
-   "fundamentally": "2026-10-09T06:03:54.421Z"
+   "fundamentally": "2026-10-09T06:03:54.421Z",
+   "classification": "2026-10-09T06:18:42.134Z",
+   "medicaid": "2026-10-09T06:18:59.500Z",
+   "prospect": "2026-10-09T06:19:10.515Z",
+   "acceleration": "2026-10-09T06:30:18.703Z",
+   "prefer": "2026-10-09T06:30:31.792Z",
+   "ends": "2026-10-09T06:30:48.847Z",
+   "precondition": "2026-10-09T06:38:18.363Z",
+   "appears": "2026-10-09T06:41:10.813Z",
+   "overlooked": "2026-10-09T06:42:01.776Z",
+   "figure": "2026-10-09T06:59:24.137Z",
+   "market": "2026-10-09T07:00:35.185Z",
+   "distinction": "2026-10-09T07:02:15.278Z",
+   "an": "2026-10-09T07:03:44.915Z",
+   "very": "2026-10-09T07:04:27.002Z",
+   "survey": "2026-10-09T07:07:51.987Z",
+   "used": "2026-10-09T07:07:54.214Z",
+   "reference": "2026-10-09T07:08:17.805Z",
+   "classified": "2026-10-09T07:08:52.185Z",
+   "purposes": "2026-10-09T07:14:28.932Z",
+   "insurance": "2026-10-09T07:15:49.509Z",
+   "conditions": "2026-10-09T07:15:52.923Z",
+   "relates": "2026-10-09T07:15:57.677Z",
+   "exchanges": "2026-10-09T07:16:11.774Z",
+   "previously": "2026-10-09T07:17:11.067Z"
   },
   "archived": {
    "uccelli": {
