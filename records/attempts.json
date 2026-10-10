@@ -1,7 +1,7 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-10T11:10:35.902Z",
- "count": 19,
+ "updatedAt": "2026-10-10T11:11:07.457Z",
+ "count": 20,
  "attempts": [
   {
    "id": "2012-1__202609091611",
@@ -870,6 +870,37 @@
     "23": 3,
     "24": 4,
     "25": 5
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [],
+   "sentences": []
+  },
+  {
+   "id": "2016-1__20261010111105_vsj",
+   "textId": "2016-1",
+   "label": "2016 · Text 1",
+   "year": 2016,
+   "startedAt": "2026-10-10T11:10:58.803Z",
+   "submittedAt": "2026-10-10T11:11:05.572Z",
+   "durationSec": 7,
+   "score": 0,
+   "answers": {
+    "21": "A",
+    "25": "B"
+   },
+   "correct": {
+    "21": false,
+    "22": false,
+    "23": false,
+    "24": false,
+    "25": false
+   },
+   "qTimes": {
+    "21": 2,
+    "25": 3
    },
    "causes": {},
    "traps": {},
@@ -6954,7 +6985,8 @@
      "44": "A",
      "__submitted": 1
     }
-   }
+   },
+   "readingDrafts": {}
   },
   "sched": {
    "card": {},
