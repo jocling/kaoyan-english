@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<title>英语工作台 v19 · 2012—2022</title>
+<title>英语工作台 v20 · 2012—2022</title>
 <style>
 :root{
   --paper:#FAF8F2; --paper-2:#F1EEE5; --ink:#20242C; --ink-2:#5C6270; --ink-3:#8B909C; --line:#DCD8CC;
@@ -1155,11 +1155,22 @@ td.wd{font-size:18px}
 #btn-quick-save.dirty{border-color:var(--accent);color:var(--accent)}
 @media(max-width:640px){.top .right{flex-shrink:0;gap:5px}.top .cloud{max-width:108px}.top .cloud span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#btn-quick-save{min-width:58px;padding:7px 9px;font-size:12px}}
 
+/* 保存始终可用，网络同步是独立按钮；窄屏分两行，不挤掉操作入口。 */
+#btn-quick-save,#btn-cloud-sync,#btn-redo{white-space:nowrap;min-width:56px;padding:8px 11px}
+#btn-cloud-sync,#btn-redo{background:var(--paper-2);color:var(--accent);border:1px solid var(--line);border-radius:9px;font:inherit;font-size:13px;font-weight:600}
+#btn-cloud-sync:disabled{opacity:.6;cursor:wait}
+#btn-redo{color:var(--ink-2)}
+.reading20-progress{color:var(--ink-2);font-size:12px;margin-left:auto}
+.token20-help{padding:10px 12px;margin-bottom:12px;border:1px solid var(--line);border-radius:10px;font-size:13px;line-height:1.7}
+.token20-help summary{cursor:pointer;color:var(--accent);font-weight:600}.token20-help ol{padding-left:20px}.token20-help a{color:var(--accent)}
+#gh-show-token{font-size:12px;padding:6px 9px;margin-top:6px}
+@media(max-width:640px){body>.top{flex-wrap:wrap;gap:6px;padding:8px 12px}body>.top .tabs{flex:1;justify-content:space-between;min-width:0}body>.top .right{width:100%;margin-left:0;justify-content:flex-end;gap:6px}body>.top .cloud{width:auto;height:34px;min-height:34px;padding:6px 8px;border-radius:8px;max-width:130px;margin-left:0;margin-right:auto}body>.top .cloud span{display:inline!important;font-size:11px}#btn-quick-save,#btn-cloud-sync,#btn-redo{padding:7px 9px;font-size:12px;min-width:48px}.reading20-progress{width:100%;margin-left:0}}
+
 </style>
 </head>
 <body>
 <div class="top">
-  <span class="brand">英语工作台 <small style="font:600 10px/1 sans-serif;color:var(--accent)">v19</small></span>
+  <span class="brand">英语工作台 <small style="font:600 10px/1 sans-serif;color:var(--accent)">v20</small></span>
   <div class="tabs" role="tablist">
     <button role="tab" data-tab="home" aria-selected="true">习题</button>
     <button role="tab" data-tab="sheet" aria-selected="false">答题卡</button>
@@ -1169,14 +1180,17 @@ td.wd{font-size:18px}
   </div>
   <div class="right">
     <button class="cloud" id="cloud" title="云端同步设置"><i></i><span>本机</span></button>
-    <button class="savebtn" id="btn-quick-save" title="同步全部题型、译文与收藏">同步</button>
+    <button class="savebtn" id="btn-quick-save" title="先保存到本机；有上传权限时同时尝试云同步">保存</button><button class="savebtn" id="btn-cloud-sync" title="上传本机改动并读取云端记录">同步</button><button class="savebtn hide" id="btn-redo" title="开始新一轮，不删除历史成绩和收藏">再做一次</button>
   </div>
 </div>
 <div id="settings" class="modal hide">
   <div class="modal-card">
     <h3 style="margin:0 0 6px">云端同步</h3>
+    <p class="small muted" style="margin:0 0 12px">「保存」先存到当前浏览器，不需要令牌，也不会被网络卡住；「同步」负责云端上传和读取。电脑没有令牌也能做题、保存本机、读取 iPad 已上传的记录。</p>
+    <details class="token20-help"><summary>令牌是什么？电脑如何开通上传？</summary><p>令牌是一把允许网页向你的 GitHub 仓库写入记录的授权钥匙，不是网址，也不是 GitHub 登录密码。它不会自动从 iPad 传到电脑，也不能公开写进 index.html。</p><ol><li>如果你保留了 iPad 使用的有效令牌，可在电脑这里粘贴同一个令牌，不需要重新生成。</li><li>如果原令牌找不到，登录 GitHub，进入 Settings → Developer settings → Personal access tokens → Fine-grained tokens，生成一个新令牌。</li><li>仅选择 <code>kaoyan-english</code> 仓库，设置 Contents 为 Read and write；其他权限不增加。</li><li>复制新令牌，粘贴到下方，点「保存并同步」。GitHub 登录状态本身不能代替这一步。</li></ol><p>令牌按密码保管，不要发到聊天里，也不要放进公开仓库。iPad 已设置的有效令牌不需要改。</p><a href="https://github.com/settings/personal-access-tokens" target="_blank" rel="noopener noreferrer">打开 GitHub 令牌设置</a></details>
     <p class="small muted" style="margin:0 0 12px">阅读、完型、新题型、翻译的记录、译文草稿及生词／短语／长难句收藏，统一同步到 <code>jocling/kaoyan-english</code> 的 <code>records/attempts.json</code>。提交或保存译文后自动尝试上传；任何页面右上角都可点「同步」上传全部本机改动并读取云端。已有令牌继续使用，更新页面不用重填。未设置令牌的设备可读取公开云端记录，但不能上传本机改动。令牌只保存在当前浏览器，不会上传。</p>
     <input id="gh-token" type="password" placeholder="github_pat_…" autocomplete="off" style="width:100%;font:inherit;padding:9px 10px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink)">
+    <button class="btn ghost" id="gh-show-token" type="button" aria-pressed="false">显示已保存的令牌</button>
     <div style="display:flex;gap:10px;margin-top:12px;flex-wrap:wrap">
       <button class="btn primary" id="gh-save">保存并同步</button>
       <button class="btn" id="gh-check">同步自检</button>
@@ -2133,7 +2147,7 @@ function bindQ(box, t, rec, live){
         d.querySelectorAll('.opt').forEach(x => x.classList.remove('sel')); o.classList.add('sel');
         cur.answers[n] = o.dataset.k;
         if(cur.qTimes[n] == null) cur.qTimes[n] = elapsed();
-        const sb = document.getElementById('btn-submit'); if(sb) sb.disabled = Object.keys(cur.answers).length < 5;
+        const sb = document.getElementById('btn-submit'); if(sb) sb.disabled = false;
       }));
     }
     d.querySelectorAll('.chip.cf').forEach(c => c.addEventListener('click', () => {
@@ -2169,7 +2183,7 @@ function renderExam(){
   const live = !!(cur && cur.started && !cur.submitted);
   const fresh = !cur && !viewRound;
   let bar = '';
-  if(live) bar = `<div class="bar"><span class="timer num" id="timer">00:00</span><button class="btn primary" id="btn-submit" disabled>提交</button><div class="legend"><span><b style="background:var(--unk)"></b>不认识</span><span><b style="background:var(--hard)"></b>没读懂</span></div></div>`;
+  if(live) bar = `<div class="bar"><span class="timer num" id="timer">00:00</span><button class="btn primary" id="btn-submit">提交</button><div class="legend"><span><b style="background:var(--unk)"></b>不认识</span><span><b style="background:var(--hard)"></b>没读懂</span></div></div>`;
   else if(cur && !cur.started) bar = `<div class="bar"><span class="timer num" id="timer">00:00</span><button class="btn primary" id="btn-start">开始</button><span class="muted small">限时 18 分钟。读的时候点不认识的词、点句首圆点标"没读懂"。</span></div>`;
   else if(rec) bar = `<div class="donebar"><span class="sc">${rec.score}/5</span><span class="muted num">用时 ${fmt(rec.durationSec)}${rec.durationSec > LIMIT ? ' · 超时' : ''}</span><span class="muted">${fmtDate(rec.submittedAt)}</span><span class="muted small">标了 ${rec.words.length} 词 · ${rec.sentences.length} 句</span>${cur ? '' : `<button class="btn ghost" id="btn-again" style="margin-left:auto">再做一次</button>`}</div>`;
   else bar = `<div class="bar"><button class="btn primary" id="btn-first">开始做这篇</button></div>`;
@@ -2192,7 +2206,7 @@ function renderExam(){
   if(bs) bs.addEventListener('click', startTimer);
   const bf = document.getElementById('btn-first'); if(bf) bf.addEventListener('click', () => { newAttempt(); });
   const ba = document.getElementById('btn-again'); if(ba) ba.addEventListener('click', () => { newAttempt(); });
-  const sub = document.getElementById('btn-submit'); if(sub){ sub.disabled = Object.keys(cur.answers).length < 5; sub.addEventListener('click', submitExam); }
+  const sub = document.getElementById('btn-submit'); if(sub){ sub.disabled = false; sub.addEventListener('click', submitExam); }
   wrap.querySelectorAll('.rounds button').forEach(b => b.addEventListener('click', () => {
     if(b.dataset.r === 'new'){ newAttempt(); return; }
     if(!b.dataset.r) return;
@@ -4625,6 +4639,130 @@ const sync19OldSpecialSave=spSaveAttempt;
 spSaveAttempt=function(rec){sync19OldSpecialSave(rec);if(ghToken())ghPush();};
 // 缺少上传权限时不删除已有令牌；显式「清除令牌」仍保留原入口。
 // 不把 gh_token 放进 payload、导出文件或 sync19_base。
+
+// v20：保存到本机与云同步分开；各题型都有保存、再做一次。
+// 云端合并保留正在编辑的对象身份，避免译文／收藏按钮闭包指向旧 prefs.plan。
+function sync20RowKey(v){return v&&typeof v==='object'?(v.id||v.wk||JSON.stringify([v.w||v.text||'',v.p,v.s,v.i,v.a,v.b])):JSON.stringify(v);}
+function sync20Pin(value){
+  if(Array.isArray(value))return {ref:value,array:true,children:new Map(value.map(v=>[sync20RowKey(v),sync20Pin(v)]))};
+  if(value&&typeof value==='object')return {ref:value,children:Object.fromEntries(Object.entries(value).map(([k,v])=>[k,sync20Pin(v)]))};
+  return {ref:value};
+}
+function sync20Restore(pin,source){
+  if(pin?.array&&Array.isArray(source)){
+    const next=source.map(v=>sync20Restore(pin.children.get(sync20RowKey(v)),v));pin.ref.splice(0,pin.ref.length,...next);return pin.ref;
+  }
+  if(pin?.ref&&typeof pin.ref==='object'&&!Array.isArray(pin.ref)&&source&&typeof source==='object'&&!Array.isArray(source)){
+    const entries=Object.entries(source);for(const k of Object.keys(pin.ref))if(!Object.prototype.hasOwnProperty.call(source,k))delete pin.ref[k];
+    for(const [k,v] of entries)pin.ref[k]=sync20Restore(pin.children[k],v);return pin.ref;
+  }
+  return sync19Copy(source);
+}
+const sync20OldMerge=sync19MergeRemote;
+sync19MergeRemote=function(remote){
+  // mergePrefs 会原地替换 plan 属性；只记根对象不够，必须先固定每层旧引用。
+  const roots={attempts:sync20Pin(attempts),notes:sync20Pin(notes),prefs:sync20Pin(prefs)};sync20OldMerge(remote);
+  attempts=sync20Restore(roots.attempts,attempts);notes=sync20Restore(roots.notes,notes);prefs=sync20Restore(roots.prefs,prefs);persist();
+};
+const sync20OldMergePrefs=mergePrefs;
+mergePrefs=function(remote){
+  const local=prefs.plan||{},drafts=Object.assign({},remote?.plan?.readingDrafts||{},local.readingDrafts||{});
+  const versions={};for(const key of ['readingDraftVersions','examDraftVersions']){
+    if(remote?.plan?.[key]||local[key])versions[key]=sync19Merge([],local[key]||[],remote?.plan?.[key]||[]);
+  }
+  sync20OldMergePrefs(remote);
+  if(remote?.plan?.readingDrafts||local.readingDrafts)prefs.plan.readingDrafts=drafts;
+  Object.assign(prefs.plan||{},versions);
+};
+function sync20CaptureReading(){
+  if(!cur||!curText||cur.submitted)return;
+  const p=spStore();p.readingDrafts=p.readingDrafts||{};
+  const seconds=cur.started&&cur.startedAt?Math.max(0,elapsed()):cur._resumeSec||0;
+  p.readingDrafts[curText.id]={textId:curText.id,answers:sync19Copy(cur.answers||{}),words:[...cur.words],sents:[...cur.sents],qTimes:sync19Copy(cur.qTimes||{}),causes:sync19Copy(cur.causes||{}),traps:sync19Copy(cur.traps||{}),conf:sync19Copy(cur.conf||{}),note:cur.note||'',durationSec:seconds,at:new Date().toISOString()};
+  touch();
+}
+function sync20LocalSave(){
+  sync20CaptureReading();
+  try{
+    for(const [key,value] of Object.entries({attempts,notes,prefs}))localStorage.setItem(key,JSON.stringify(value));
+    const hasToken=!!ghToken(),msg=hasToken?'已保存到本机，正在尝试云同步':'已保存到本机；尚未上传云端（此浏览器没有上传令牌）';
+    document.getElementById('gh-status').textContent=msg;toast(msg);
+    if(hasToken)ghPush();else setCloud('','本机已保存');
+    updateSaveBtn();return Promise.resolve(true);
+  }catch(e){toast('本机保存失败：'+e.message+'。请先导出记录备份。');return Promise.resolve(false);}
+}
+saveAll=sync20LocalSave;
+updateSaveBtn=function(){
+  saveBtn.classList.remove('hide');saveBtn.disabled=false;saveBtn.textContent='保存';saveBtn.classList.toggle('dirty',dirty||sync19Pending);saveBtn.title='保存全部本机记录、当前答题草稿和收藏；不依赖网络';
+  const cloudBtn=document.getElementById('btn-cloud-sync');cloudBtn.disabled=!!sync19Flight;cloudBtn.textContent=sync19Flight?'同步中…':syncErr?'重试同步':'同步';
+  const redo=document.getElementById('btn-redo'),exercise=!document.getElementById('view-exam').classList.contains('hide')||!document.getElementById('view-special').classList.contains('hide');redo.classList.toggle('hide',!exercise);redo.disabled=false;
+};
+document.getElementById('btn-cloud-sync').onclick=()=>{sync20CaptureReading();sync19Now();};
+document.getElementById('gh-show-token').onclick=function(){const input=document.getElementById('gh-token'),show=input.type==='password';input.type=show?'text':'password';this.textContent=show?'隐藏令牌':'显示已保存的令牌';this.setAttribute('aria-pressed',String(show));};
+document.getElementById('gh-close').addEventListener('click',()=>{document.getElementById('gh-token').type='password';const b=document.getElementById('gh-show-token');b.textContent='显示已保存的令牌';b.setAttribute('aria-pressed','false');});
+
+// 阅读未做满也允许提交；未答题先提醒，再按未答判分，不偷偷提交。
+const sync20OldSubmit=submitExam;
+submitExam=function(){
+  if(!cur||!cur.started||cur.submitted)return;
+  const missing=cur.text.questions.filter(q=>!cur.answers[q.n]);
+  if(missing.length&&!confirm(`还有 ${missing.length} 题未答（${missing.map(q=>q.n).join('、')}）。未答题按答错计分，仍然提交吗？`))return;
+  const p=spStore();if(p.readingDrafts)delete p.readingDrafts[cur.text.id];sync20OldSubmit();
+};
+const sync20OldRenderExam=renderExam;
+renderExam=function(){
+  sync20OldRenderExam();const sub=document.getElementById('btn-submit');
+  if(sub){sub.disabled=false;sub.title='提交当前作答；有未答题时会先确认';}
+  const first=document.getElementById('btn-first');if(first){first.textContent='开始作答';first.replaceWith(first.cloneNode(true));document.getElementById('btn-first').onclick=()=>{newAttempt();startTimer();};}
+  const again=document.getElementById('btn-again');if(again){again.textContent='再做一次';again.replaceWith(again.cloneNode(true));document.getElementById('btn-again').onclick=sync20Redo;}
+  const start=document.getElementById('btn-start');if(start&&cur?._restored)start.textContent='继续作答';
+  const bar=document.querySelector('#mode-exam .bar');if(bar&&cur){const n=Object.keys(cur.answers||{}).length;bar.insertAdjacentHTML('beforeend',`<span class="reading20-progress">已选 ${n}/5 · 草稿自动存本机，可点右上角保存</span>`);}
+};
+const sync20OldStart=startTimer;
+startTimer=function(){const resume=cur?._resumeSec||0;sync20OldStart();if(resume)cur.startedAt=Date.now()-resume*1000;if(cur){delete cur._resumeSec;delete cur._restored;}sync20CaptureReading();};
+const sync20OldOpen=openExam;
+openExam=function(id,m){
+  sync20OldOpen(id,m);
+  if(!byId[id]||m==='read'||!curText||curText.id!==id||cur)return;
+  const draft=prefs.plan?.readingDrafts?.[id];if(!draft)return;
+  cur={text:byId[id],started:false,submitted:false,startedAt:null,words:new Set(draft.words||[]),sents:new Set(draft.sents||[]),answers:sync19Copy(draft.answers||{}),qTimes:sync19Copy(draft.qTimes||{}),causes:sync19Copy(draft.causes||{}),traps:sync19Copy(draft.traps||{}),conf:sync19Copy(draft.conf||{}),note:draft.note||'',_resumeSec:draft.durationSec||0,_restored:true};
+  viewRound=null;justId=null;renderExam();practiceFitPanes();
+};
+leaveExam=function(){sync20CaptureReading();clearInterval(tick);cur=null;return true;};
+document.addEventListener('click',e=>{
+  if(!e.target.closest('#qs .opt,#passage .w,#passage .dot'))return;
+  if(!cur?.started||cur.submitted)return;
+  sync20CaptureReading();const progress=document.querySelector('.reading20-progress');if(progress)progress.textContent=`已选 ${Object.keys(cur.answers).length}/5 · 草稿自动存本机，可点右上角保存`;
+});
+window.addEventListener('pagehide',()=>{sync20CaptureReading();persist();});
+document.addEventListener('visibilitychange',()=>{if(document.hidden){sync20CaptureReading();persist();}});
+
+// 翻译新记录保存完整译文；重做只清当前草稿，另存旧草稿版本，不删历史／收藏。
+const sync20OldSpecialSave=spSaveAttempt;
+spSaveAttempt=function(rec){if(rec.kind==='translation')rec=Object.assign({},rec,{text:spStore().examDrafts[spKey('translation',rec.year)]||''});sync20OldSpecialSave(rec);};
+function sync20Archive(p,key,field,value){
+  p[field]=p[field]||[];p[field].push({id:'draft-'+Date.now()+'-'+Math.random().toString(36).slice(2,7),key,value:sync19Copy(value),at:new Date().toISOString(),reason:'再做一次前保留'});
+}
+function sync20Redo(){
+  const reading=!document.getElementById('view-exam').classList.contains('hide');
+  if(reading){
+    if(!curText)return;
+    if(cur&&!cur.submitted&&Object.keys(cur.answers||{}).length&&!confirm('开始新一轮作答？当前草稿会另存保留，历史成绩和收藏不会删除。'))return;
+    sync20CaptureReading();const p=spStore(),draft=p.readingDrafts?.[curText.id];if(draft)sync20Archive(p,curText.id,'readingDraftVersions',draft);if(p.readingDrafts)delete p.readingDrafts[curText.id];
+    clearInterval(tick);cur=null;viewRound=null;justId=null;setMode('exam');newAttempt();startTimer();touch();return;
+  }
+  const p=spStore(),key=spKey(spKind,spYear),value=spKind==='translation'?p.examDrafts[key]||'':Object.assign({},practiceSavedAnswers());
+  const hasDraft=spKind==='translation'?!!value.trim():Object.keys(value).some(k=>/^\d+$/.test(k));
+  if(hasDraft&&!confirm('开始新一轮作答？当前草稿会另存保留，历史成绩和收藏不会删除。'))return;
+  if(hasDraft)sync20Archive(p,key,'examDraftVersions',value);
+  if(spKind==='translation')p.examDrafts[key]='';
+  spAnswers={};practiceSaveAnswers();spMode='exam';spStudyPick=null;spSideTab='questions';practiceActiveQ=null;renderSpecial();updateSaveBtn();
+}
+document.getElementById('btn-redo').onclick=sync20Redo;
+const sync20OldFooter=practiceAnswerFooter;
+practiceAnswerFooter=function(total){return sync20OldFooter(total).replace('>重新作答</button>','>再做一次</button>');};
+const sync20OldBindAnswers=practiceBindAnswers;
+practiceBindAnswers=function(questions,kind){sync20OldBindAnswers(questions,kind);const reset=document.getElementById('sp-reset');if(reset)reset.onclick=sync20Redo;};
 
 load();
 render();
