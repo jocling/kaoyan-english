@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-10T11:23:53.055Z",
+ "updatedAt": "2026-10-10T11:24:23.346Z",
  "count": 21,
  "attempts": [
   {
@@ -7021,15 +7021,30 @@
       "7": "A",
       "__submitted": 1
      }
+    },
+    {
+     "id": "sp-1791631462434-p3pps",
+     "at": "2026-10-10T11:24:22.434Z",
+     "kind": "cloze",
+     "year": 2016,
+     "score": 0,
+     "total": 20,
+     "answers": {
+      "4": "A",
+      "6": "D",
+      "9": "A",
+      "12": "B",
+      "__submitted": 1
+     }
     }
    ],
    "examDrafts": {},
    "examChoices": {
     "cloze-2016": {
-     "1": "A",
-     "3": "B",
-     "5": "C",
-     "7": "A",
+     "4": "A",
+     "6": "D",
+     "9": "A",
+     "12": "B",
      "__submitted": 1
     },
     "newtype-2017": {
@@ -7038,7 +7053,22 @@
      "__submitted": 1
     }
    },
-   "readingDrafts": {}
+   "readingDrafts": {},
+   "examDraftVersions": [
+    {
+     "id": "draft-1791631448464-2gc23",
+     "key": "cloze-2016",
+     "value": {
+      "1": "A",
+      "3": "B",
+      "5": "C",
+      "7": "A",
+      "__submitted": 1
+     },
+     "at": "2026-10-10T11:24:08.465Z",
+     "reason": "再做一次前保留"
+    }
+   ]
   },
   "sched": {
    "card": {},
