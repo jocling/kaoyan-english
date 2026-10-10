@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-10T11:23:36.794Z",
+ "updatedAt": "2026-10-10T11:23:53.055Z",
  "count": 21,
  "attempts": [
   {
@@ -7006,11 +7006,32 @@
       "44": "A",
       "__submitted": 1
      }
+    },
+    {
+     "id": "sp-1791631432383-mlofw",
+     "at": "2026-10-10T11:23:52.383Z",
+     "kind": "cloze",
+     "year": 2016,
+     "score": 1,
+     "total": 20,
+     "answers": {
+      "1": "A",
+      "3": "B",
+      "5": "C",
+      "7": "A",
+      "__submitted": 1
+     }
     }
    ],
    "examDrafts": {},
    "examChoices": {
-    "cloze-2016": {},
+    "cloze-2016": {
+     "1": "A",
+     "3": "B",
+     "5": "C",
+     "7": "A",
+     "__submitted": 1
+    },
     "newtype-2017": {
      "41": "B",
      "44": "A",
