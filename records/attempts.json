@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-10T10:15:27.369Z",
+ "updatedAt": "2026-10-10T10:18:03.086Z",
  "count": 19,
  "attempts": [
   {
@@ -6918,9 +6918,29 @@
    },
    "posGuess": true,
    "exam": "",
-   "examAttempts": [],
+   "examAttempts": [
+    {
+     "id": "sp-1791627347057-7axam",
+     "at": "2026-10-10T10:15:47.057Z",
+     "kind": "cloze",
+     "year": 2016,
+     "score": 1,
+     "total": 20,
+     "answers": {
+      "11": "A",
+      "12": "D",
+      "__submitted": 1
+     }
+    }
+   ],
    "examDrafts": {},
-   "examChoices": {}
+   "examChoices": {
+    "cloze-2016": {
+     "11": "A",
+     "12": "D",
+     "__submitted": 1
+    }
+   }
   },
   "sched": {
    "card": {
