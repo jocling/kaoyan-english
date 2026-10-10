@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-09T07:30:54.161Z",
+ "updatedAt": "2026-10-10T10:15:20.253Z",
  "count": 18,
  "attempts": [
   {
@@ -6880,7 +6880,10 @@
     "u": 1
    },
    "posGuess": true,
-   "exam": ""
+   "exam": "",
+   "examAttempts": [],
+   "examDrafts": {},
+   "examChoices": {}
   },
   "sched": {
    "card": {
