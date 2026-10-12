@@ -1,7 +1,7 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-10T11:26:07.260Z",
- "count": 21,
+ "updatedAt": "2026-10-12T14:59:14.004Z",
+ "count": 22,
  "attempts": [
   {
    "id": "2012-1__202609091611",
@@ -938,6 +938,79 @@
    "conf": {},
    "note": "",
    "words": [],
+   "sentences": []
+  },
+  {
+   "id": "2016-1__20261012145911_103",
+   "textId": "2016-1",
+   "label": "2016 · Text 1",
+   "year": 2016,
+   "startedAt": "2026-10-12T14:46:57.811Z",
+   "submittedAt": "2026-10-12T14:59:11.496Z",
+   "durationSec": 734,
+   "score": 4,
+   "answers": {
+    "21": "B",
+    "22": "B",
+    "23": "B",
+    "24": "C",
+    "25": "A"
+   },
+   "correct": {
+    "21": true,
+    "22": true,
+    "23": false,
+    "24": true,
+    "25": true
+   },
+   "qTimes": {
+    "21": 455,
+    "22": 529,
+    "23": 611,
+    "24": 700,
+    "25": 732
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [
+    {
+     "w": "cortina",
+     "raw": "Cortina,",
+     "p": 0,
+     "s": 1,
+     "sent": "Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science."
+    },
+    {
+     "w": "cortina",
+     "raw": "Cortina",
+     "p": 1,
+     "s": 0,
+     "sent": "However, Cortina said, early exposure is beneficial."
+    },
+    {
+     "w": "flatiron",
+     "raw": "Flatiron",
+     "p": 3,
+     "s": 0,
+     "sent": "The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that's become popular for adults looking for a career change."
+    },
+    {
+     "w": "friedman",
+     "raw": "Friedman,",
+     "p": 3,
+     "s": 1,
+     "sent": "The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor."
+    },
+    {
+     "w": "deborah",
+     "raw": "Deborah",
+     "p": 4,
+     "s": 2,
+     "sent": "But the skills they learn - how to think logically through a problem and organize the results - apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina."
+    }
+   ],
    "sentences": []
   }
  ],
