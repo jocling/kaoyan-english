@@ -1,7 +1,7 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-12T15:38:27.093Z",
- "count": 22,
+ "updatedAt": "2026-10-13T15:57:13.922Z",
+ "count": 23,
  "attempts": [
   {
    "id": "2012-1__202609091611",
@@ -1018,6 +1018,85 @@
     }
    ],
    "sentences": []
+  },
+  {
+   "id": "2016-2__20261013155657_hw8",
+   "textId": "2016-2",
+   "label": "2016 · Text 2",
+   "year": 2016,
+   "startedAt": "2026-10-13T15:37:00.001Z",
+   "submittedAt": "2026-10-13T15:56:57.304Z",
+   "durationSec": 1197,
+   "score": 3,
+   "answers": {
+    "26": "A",
+    "27": "B",
+    "28": "D",
+    "29": "D",
+    "30": "C"
+   },
+   "correct": {
+    "26": true,
+    "27": false,
+    "28": false,
+    "29": true,
+    "30": true
+   },
+   "qTimes": {
+    "26": 690,
+    "27": 800,
+    "28": 1061,
+    "29": 1125,
+    "30": 1195
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [
+    {
+     "w": "ashe",
+     "raw": "Ashe.",
+     "p": 1,
+     "s": 1,
+     "sent": "\"The lesser prairie chicken is in a desperate situation,\" said USFWS Director Daniel Ashe."
+    },
+    {
+     "w": "lininger",
+     "raw": "Lininger.",
+     "p": 3,
+     "s": 3,
+     "sent": "\"The federal government is giving responsibility for managing the bird to the same industries that are pushing it to extinction,\" says biologist Jay Lininger."
+    },
+    {
+     "w": "threatened",
+     "raw": "threatened.",
+     "p": 1,
+     "s": 0,
+     "sent": "The crash was a major reason the U. S. Fish and Wildlife Service (USFWS) decided to formally list the bird as threatened."
+    },
+    {
+     "w": "endangered",
+     "raw": "\"endangered,\"",
+     "p": 1,
+     "s": 3,
+     "sent": "They had pushed the agency to designate the bird as \"endangered,\" a status that gives federal officials greater regulatory power to crack down on threats."
+    },
+    {
+     "w": "ashe",
+     "raw": "Ashe",
+     "p": 2,
+     "s": 5,
+     "sent": "Overall, the idea is to let \"states remain in the driver's seat for managing the species,\" Ashe said."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 2,
+     "s": 0,
+     "text": "Under the plan, for example, the agency said it would not prosecute landowners or businesses that unintentionally kill, harm, or disturb the bird, as long as they had signed a range-wide management plan to restore prairie chicken habitat."
+    }
+   ]
   }
  ],
  "notes": {
