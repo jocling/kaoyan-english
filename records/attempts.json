@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:59:27.546Z",
+ "updatedAt": "2026-10-22T16:00:54.455Z",
  "count": 23,
  "attempts": [
   {
@@ -7476,8 +7476,8 @@
      "traps": {},
      "conf": {},
      "note": "",
-     "durationSec": 0.005,
-     "at": "2026-10-22T15:59:17.529Z"
+     "durationSec": 36.185,
+     "at": "2026-10-22T15:59:53.710Z"
     }
    },
    "examDraftVersions": [
@@ -16039,9 +16039,9 @@
      "essential",
      "instructor"
     ],
-    "sessionAt": 1792684752178
+    "sessionAt": 1792684841528
    },
-   "updatedAt": 1792684752178
+   "updatedAt": 1792684841528
   }
  }
 }
