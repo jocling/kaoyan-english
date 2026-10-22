@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T16:24:30.271Z",
+ "updatedAt": "2026-10-22T16:47:31.979Z",
  "count": 24,
  "attempts": [
   {
@@ -6653,12 +6653,121 @@
      "p": 1,
      "s": 0,
      "sent": "What makes the problem thornier is that the usual time-management techniques don't seem sufficient."
+    },
+    {
+     "w": "flywheel",
+     "raw": "flywheel",
+     "p": 1,
+     "s": 3,
+     "sent": "Sit down to read and the flywheel of work-related thoughts keeps spinning - or else you're so exhausted that a challenging book's the last thing you need."
+    },
+    {
+     "w": "thoughts",
+     "raw": "thoughts",
+     "p": 1,
+     "s": 3,
+     "sent": "Sit down to read and the flywheel of work-related thoughts keeps spinning - or else you're so exhausted that a challenging book's the last thing you need."
+    },
+    {
+     "w": "spinning",
+     "raw": "spinning",
+     "p": 1,
+     "s": 3,
+     "sent": "Sit down to read and the flywheel of work-related thoughts keeps spinning - or else you're so exhausted that a challenging book's the last thing you need."
+    },
+    {
+     "w": "exhausted",
+     "raw": "exhausted",
+     "p": 1,
+     "s": 3,
+     "sent": "Sit down to read and the flywheel of work-related thoughts keeps spinning - or else you're so exhausted that a challenging book's the last thing you need."
+    },
+    {
+     "w": "overwhelmingly",
+     "raw": "overwhelmingly",
+     "p": 1,
+     "s": 4,
+     "sent": "The modern mind, Tim Parks, a novelist and critic, writes, \"is overwhelmingly inclined toward communication..."
+    },
+    {
+     "w": "interrupted",
+     "raw": "interrupted;",
+     "p": 1,
+     "s": 5,
+     "sent": "It is not simply that one is interrupted; it is that one is actually inclined to interruption.\""
+    },
+    {
+     "w": "merely",
+     "raw": "merely",
+     "p": 1,
+     "s": 6,
+     "sent": "Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient."
+    },
+    {
+     "w": "efficient",
+     "raw": "efficient.",
+     "p": 1,
+     "s": 6,
+     "sent": "Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient."
     }
    ],
-   "sentences": [],
-   "phrases": [],
+   "sentences": [
+    {
+     "p": 1,
+     "s": 3,
+     "text": "Sit down to read and the flywheel of work-related thoughts keeps spinning - or else you're so exhausted that a challenging book's the last thing you need."
+    },
+    {
+     "p": 0,
+     "s": 0,
+     "text": "That everyone's too busy these days is a cliché."
+    },
+    {
+     "p": 1,
+     "s": 0,
+     "text": "What makes the problem thornier is that the usual time-management techniques don't seem sufficient."
+    },
+    {
+     "p": 1,
+     "s": 5,
+     "text": "It is not simply that one is interrupted; it is that one is actually inclined to interruption.\""
+    },
+    {
+     "p": 1,
+     "s": 6,
+     "text": "Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "free up",
+     "loc": "1:2",
+     "a": 8,
+     "b": 9,
+     "sent": "But in my experience, using such methods to free up the odd 30 minutes doesn't work.",
+     "cn": "但依我的经验，靠这些办法零零碎碎地腾出30分钟并不起作用。",
+     "m": "开放 （市场、经济或体制）; 释放",
+     "base": "free up",
+     "note": "",
+     "p": 1,
+     "s": 2
+    },
+    {
+     "text": "or else",
+     "loc": "1:3",
+     "a": 13,
+     "b": 14,
+     "sent": "Sit down to read and the flywheel of work-related thoughts keeps spinning - or else you're so exhausted that a challenging book's the last thing you need.",
+     "cn": "坐下来读书时，与工作有关的思绪仍像飞轮一样不停转动；要不就是你已经筋疲力尽，最不想碰的恰恰是一本有难度的书。",
+     "m": "否则",
+     "base": "or else",
+     "note": "",
+     "p": 1,
+     "s": 3
+    }
+   ],
    "qwords": [],
-   "updatedAt": "2026-10-22T16:23:18.367Z"
+   "updatedAt": "2026-10-22T16:32:04.154Z"
   }
  },
  "prefs": {
@@ -6704,7 +6813,8 @@
    "spinning": 1,
    "prefer": 1,
    "appears": 1,
-   "introductory": 1
+   "introductory": 1,
+   "flywheel": 2
   },
   "confuse": {
    "intrinsically": [
@@ -7440,7 +7550,13 @@
    "mournfully": "2026-10-22T16:21:47.956Z",
    "techniques": "2026-10-22T16:23:01.120Z",
    "sufficient": "2026-10-22T16:23:05.288Z",
-   "thornier": "2026-10-22T16:23:10.697Z"
+   "thornier": "2026-10-22T16:23:10.697Z",
+   "flywheel": "2026-10-22T16:27:24.119Z",
+   "thoughts": "2026-10-22T16:27:41.717Z",
+   "exhausted": "2026-10-22T16:29:28.629Z",
+   "interrupted": "2026-10-22T16:30:37.729Z",
+   "merely": "2026-10-22T16:31:15.521Z",
+   "efficient": "2026-10-22T16:31:57.601Z"
   },
   "archived": {
    "uccelli": {
@@ -14766,6 +14882,15 @@
       "at": 0,
       "original": "allegiant 忠诚"
      }
+    ],
+    "thornier": [
+     {
+      "id": "legacy:thornier:0",
+      "text": "irony 讽刺的",
+      "kind": "confuse",
+      "at": 0,
+      "original": "irony 讽刺的"
+     }
     ]
    },
    "session": {
@@ -16164,9 +16289,9 @@
      "essential",
      "instructor"
     ],
-    "sessionAt": 1792686259124
+    "sessionAt": 1792687643032
    },
-   "updatedAt": 1792686259124
+   "updatedAt": 1792687643032
   }
  }
 }
