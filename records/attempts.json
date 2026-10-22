@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T16:16:29.605Z",
+ "updatedAt": "2026-10-22T16:16:57.355Z",
  "count": 24,
  "attempts": [
   {
@@ -1130,7 +1130,12 @@
    },
    "causes": {},
    "traps": {},
-   "conf": {},
+   "conf": {
+    "32": "sure",
+    "33": "hmm",
+    "34": "sure",
+    "35": "sure"
+   },
    "note": "",
    "words": [
     {
