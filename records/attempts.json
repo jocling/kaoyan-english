@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:58:10.342Z",
+ "updatedAt": "2026-10-22T15:58:42.721Z",
  "count": 23,
  "attempts": [
   {
@@ -14646,7 +14646,7 @@
    },
    "session": {
     "v": 4,
-    "stage": "cards",
+    "stage": "screen",
     "batch": 4,
     "listPassed": [
      "paper",
@@ -14778,8 +14778,8 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 397.8910000000006,
-    "paused": false,
+    "elapsed": 401.90700000000066,
+    "paused": true,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
     "personalIDs": [
@@ -16427,9 +16427,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684685757
+    "sessionAt": 1792684694762
    },
-   "updatedAt": 1792684685757
+   "updatedAt": 1792684694762
   }
  }
 }
