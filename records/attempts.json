@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:50:48.796Z",
+ "updatedAt": "2026-10-22T15:51:12.452Z",
  "count": 23,
  "attempts": [
   {
@@ -14188,6 +14188,94 @@
      "streak": 0,
      "nextDue": 1793289017969,
      "at": 1792684217969
+    },
+    "chaotic": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
+    },
+    "advance": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
+    },
+    "administrator": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
+    },
+    "across-the-board": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
+    },
+    "impose": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
+    },
+    "thorny": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
+    },
+    "particular": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
+    },
+    "population": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770653989,
+     "at": 1792684253989
     }
    },
    "notes": {
@@ -14339,7 +14427,7 @@
    "session": {
     "v": 4,
     "stage": "screen",
-    "batch": 2,
+    "batch": 3,
     "listPassed": [
      "paper",
      "in",
@@ -14360,7 +14448,17 @@
      "mandate",
      "contradictory",
      "industry",
-     "economy"
+     "economy",
+     "impoverished",
+     "chaotic",
+     "complete",
+     "advance",
+     "administrator",
+     "across-the-board",
+     "impose",
+     "thorny",
+     "particular",
+     "population"
     ],
     "started": true,
     "supplement": true,
@@ -14386,12 +14484,20 @@
      "contradictory": "study",
      "industry": "study",
      "impoverished": "known",
-     "complete": "known"
+     "complete": "known",
+     "chaotic": "study",
+     "advance": "study",
+     "administrator": "study",
+     "across-the-board": "study",
+     "impose": "study",
+     "thorny": "study",
+     "particular": "study",
+     "population": "study"
     },
-    "showAll": false,
+    "showAll": true,
     "menu": false,
     "editor": null,
-    "revealed": "chaotic",
+    "revealed": "has never been",
     "ids": [],
     "index": 0,
     "flip": false,
@@ -14401,7 +14507,7 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 222.22599999999932,
+    "elapsed": 242.30499999999915,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -16050,9 +16156,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684247185
+    "sessionAt": 1792684268742
    },
-   "updatedAt": 1792684247185
+   "updatedAt": 1792684268742
   }
  }
 }
