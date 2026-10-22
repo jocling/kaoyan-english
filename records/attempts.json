@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:47:15.467Z",
+ "updatedAt": "2026-10-22T15:47:40.854Z",
  "count": 23,
  "attempts": [
   {
@@ -13977,8 +13977,41 @@
      "source": "list",
      "mastered": false,
      "streak": 0,
-     "nextDue": 1793288834151,
-     "at": 1792684034151
+     "nextDue": 1793288837444,
+     "at": 1792684037444
+    },
+    "in": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288849530,
+     "at": 1792684049530
+    },
+    "obamacare": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288853282,
+     "at": 1792684053282
+    },
+    "threaten": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288858061,
+     "at": 1792684058061
     }
    },
    "notes": {
@@ -14137,7 +14170,10 @@
     "marks": {
      "paper": "known",
      "however": "known",
-     "to": "known"
+     "to": "known",
+     "in": "known",
+     "obamacare": "known",
+     "threaten": "known"
     },
     "showAll": false,
     "menu": false,
@@ -14152,7 +14188,7 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 39.496,
+    "elapsed": 62.586999999999996,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -15801,9 +15837,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684034151
+    "sessionAt": 1792684058645
    },
-   "updatedAt": 1792684034151
+   "updatedAt": 1792684058645
   }
  }
 }
