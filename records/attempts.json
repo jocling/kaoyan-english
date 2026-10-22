@@ -1,7 +1,7 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T16:02:24.730Z",
- "count": 23,
+ "updatedAt": "2026-10-22T16:16:29.605Z",
+ "count": 24,
  "attempts": [
   {
    "id": "2012-1__202609091611",
@@ -1097,6 +1097,58 @@
      "text": "Under the plan, for example, the agency said it would not prosecute landowners or businesses that unintentionally kill, harm, or disturb the bird, as long as they had signed a range-wide management plan to restore prairie chicken habitat."
     }
    ]
+  },
+  {
+   "id": "2016-3__20261022161617_2j3",
+   "textId": "2016-3",
+   "label": "2016 · Text 3",
+   "year": 2016,
+   "startedAt": "2026-10-22T16:01:17.609Z",
+   "submittedAt": "2026-10-22T16:16:17.705Z",
+   "durationSec": 900,
+   "score": 3,
+   "answers": {
+    "31": "D",
+    "32": "B",
+    "33": "C",
+    "34": "D",
+    "35": "B"
+   },
+   "correct": {
+    "31": true,
+    "32": true,
+    "33": false,
+    "34": false,
+    "35": true
+   },
+   "qTimes": {
+    "31": 626,
+    "32": 729,
+    "33": 761,
+    "34": 873,
+    "35": 895
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [
+    {
+     "w": "eberle",
+     "raw": "Eberle",
+     "p": 2,
+     "s": 4,
+     "sent": "\"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and \"we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\""
+    },
+    {
+     "w": "eberle",
+     "raw": "Eberle",
+     "p": 3,
+     "s": 2,
+     "sent": "You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\""
+    }
+   ],
+   "sentences": []
   }
  ],
  "notes": {
@@ -7465,21 +7517,7 @@
      "__submitted": 1
     }
    },
-   "readingDrafts": {
-    "2016-3": {
-     "textId": "2016-3",
-     "answers": {},
-     "words": [],
-     "sents": [],
-     "qTimes": {},
-     "causes": {},
-     "traps": {},
-     "conf": {},
-     "note": "",
-     "durationSec": 36.185,
-     "at": "2026-10-22T16:01:53.794Z"
-    }
-   },
+   "readingDrafts": {},
    "examDraftVersions": [
     {
      "id": "draft-1791631448464-2gc23",
