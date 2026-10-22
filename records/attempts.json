@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:59:06.423Z",
+ "updatedAt": "2026-10-22T15:59:27.546Z",
  "count": 23,
  "attempts": [
   {
@@ -7465,7 +7465,21 @@
      "__submitted": 1
     }
    },
-   "readingDrafts": {},
+   "readingDrafts": {
+    "2016-3": {
+     "textId": "2016-3",
+     "answers": {},
+     "words": [],
+     "sents": [],
+     "qTimes": {},
+     "causes": {},
+     "traps": {},
+     "conf": {},
+     "note": "",
+     "durationSec": 0.005,
+     "at": "2026-10-22T15:59:17.529Z"
+    }
+   },
    "examDraftVersions": [
     {
      "id": "draft-1791631448464-2gc23",
@@ -16025,9 +16039,9 @@
      "essential",
      "instructor"
     ],
-    "sessionAt": 1792684743765
+    "sessionAt": 1792684752178
    },
-   "updatedAt": 1792684743765
+   "updatedAt": 1792684752178
   }
  }
 }
