@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:47:40.854Z",
+ "updatedAt": "2026-10-22T15:48:06.289Z",
  "count": 23,
  "attempts": [
   {
@@ -14012,6 +14012,50 @@
      "streak": 0,
      "nextDue": 1793288858061,
      "at": 1792684058061
+    },
+    "something": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288862828,
+     "at": 1792684062828
+    },
+    "financial": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288868816,
+     "at": 1792684068816
+    },
+    "lean": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770471933,
+     "at": 1792684071933
+    },
+    "increasingly": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770471933,
+     "at": 1792684071933
     }
    },
    "notes": {
@@ -14163,8 +14207,19 @@
    "session": {
     "v": 4,
     "stage": "screen",
-    "batch": 0,
-    "listPassed": [],
+    "batch": 1,
+    "listPassed": [
+     "paper",
+     "in",
+     "lean",
+     "obamacare",
+     "however",
+     "threaten",
+     "to",
+     "something",
+     "increasingly",
+     "financial"
+    ],
     "started": true,
     "supplement": true,
     "marks": {
@@ -14173,12 +14228,16 @@
      "to": "known",
      "in": "known",
      "obamacare": "known",
-     "threaten": "known"
+     "threaten": "known",
+     "something": "known",
+     "financial": "known",
+     "lean": "study",
+     "increasingly": "study"
     },
     "showAll": false,
     "menu": false,
     "editor": null,
-    "revealed": null,
+    "revealed": "endangered",
     "ids": [],
     "index": 0,
     "flip": false,
@@ -14188,7 +14247,7 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 62.586999999999996,
+    "elapsed": 85.67700000000004,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -15837,9 +15896,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684058645
+    "sessionAt": 1792684083221
    },
-   "updatedAt": 1792684058645
+   "updatedAt": 1792684083221
   }
  }
 }
