@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:46:54.722Z",
+ "updatedAt": "2026-10-22T15:47:15.467Z",
  "count": 23,
  "attempts": [
   {
@@ -13946,7 +13946,41 @@
   "schedReady": 1,
   "vocab26": {
    "version": 26,
-   "learning": {},
+   "learning": {
+    "paper": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288817276,
+     "at": 1792684017276
+    },
+    "however": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288830011,
+     "at": 1792684030011
+    },
+    "to": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288834151,
+     "at": 1792684034151
+    }
+   },
    "notes": {
     "intrinsically": [
      {
@@ -14100,11 +14134,15 @@
     "listPassed": [],
     "started": true,
     "supplement": true,
-    "marks": {},
+    "marks": {
+     "paper": "known",
+     "however": "known",
+     "to": "known"
+    },
     "showAll": false,
     "menu": false,
     "editor": null,
-    "revealed": "paper",
+    "revealed": null,
     "ids": [],
     "index": 0,
     "flip": false,
@@ -14114,7 +14152,7 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 19.416999999999998,
+    "elapsed": 39.496,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -15763,9 +15801,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684014403
+    "sessionAt": 1792684034151
    },
-   "updatedAt": 1792684014403
+   "updatedAt": 1792684034151
   }
  }
 }
