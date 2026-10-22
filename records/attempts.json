@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:49:00.620Z",
+ "updatedAt": "2026-10-22T15:49:22.012Z",
  "count": 23,
  "attempts": [
   {
@@ -14067,6 +14067,17 @@
      "streak": 0,
      "nextDue": 1792770520700,
      "at": 1792684120700
+    },
+    "mandate": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793288941787,
+     "at": 1792684141787
     }
    },
    "notes": {
@@ -14244,12 +14255,13 @@
      "financial": "known",
      "lean": "study",
      "increasingly": "study",
-     "terribly": "study"
+     "terribly": "study",
+     "mandate": "known"
     },
     "showAll": false,
     "menu": false,
     "editor": null,
-    "revealed": "mandate",
+    "revealed": "particularly",
     "ids": [],
     "index": 0,
     "flip": false,
@@ -14259,7 +14271,7 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 137.88300000000004,
+    "elapsed": 151.9399999999999,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -15908,9 +15920,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684140008
+    "sessionAt": 1792684154891
    },
-   "updatedAt": 1792684140008
+   "updatedAt": 1792684154891
   }
  }
 }
