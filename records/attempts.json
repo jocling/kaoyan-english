@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:53:24.810Z",
+ "updatedAt": "2026-10-22T15:53:45.328Z",
  "count": 23,
  "attempts": [
   {
@@ -14386,6 +14386,116 @@
      "streak": 0,
      "nextDue": 1792770691370,
      "at": 1792684291370
+    },
+    "innocent": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "innocence": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "despair": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "appearance": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "unavoidable": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "somehow": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "domestic": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "gender-neutral": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "economic": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
+    },
+    "success": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "unassessed",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1792770811564,
+     "at": 1792684411564
     }
    },
    "notes": {
@@ -14536,7 +14646,7 @@
    },
    "session": {
     "v": 4,
-    "stage": "screen",
+    "stage": "cards",
     "batch": 4,
     "listPassed": [
      "paper",
@@ -14578,7 +14688,17 @@
      "fuse",
      "present",
      "means",
-     "business"
+     "business",
+     "innocent",
+     "innocence",
+     "despair",
+     "appearance",
+     "unavoidable",
+     "somehow",
+     "domestic",
+     "gender-neutral",
+     "economic",
+     "success"
     ],
     "started": true,
     "supplement": true,
@@ -14622,22 +14742,43 @@
      "pervasive": "study",
      "intrinsically": "study",
      "present": "study",
-     "means": "study"
+     "means": "study",
+     "innocent": "study",
+     "innocence": "study",
+     "despair": "study",
+     "appearance": "study",
+     "unavoidable": "study",
+     "somehow": "study",
+     "domestic": "study",
+     "gender-neutral": "study",
+     "economic": "study",
+     "success": "study"
     },
     "showAll": true,
     "menu": false,
     "editor": null,
     "revealed": null,
-    "ids": [],
+    "ids": [
+     "innocent",
+     "innocence",
+     "despair",
+     "appearance",
+     "unavoidable",
+     "somehow",
+     "domestic",
+     "gender-neutral",
+     "economic",
+     "success"
+    ],
     "index": 0,
-    "flip": false,
+    "flip": true,
     "tab": 0,
     "grades": [],
     "contexts": [],
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 347.72600000000006,
+    "elapsed": 361.79000000000013,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -16286,9 +16427,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684403724
+    "sessionAt": 1792684418727
    },
-   "updatedAt": 1792684403724
+   "updatedAt": 1792684418727
   }
  }
 }
