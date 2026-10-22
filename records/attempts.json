@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-22T15:48:39.735Z",
+ "updatedAt": "2026-10-22T15:49:00.620Z",
  "count": 23,
  "attempts": [
   {
@@ -14065,8 +14065,8 @@
      "source": "list",
      "mastered": false,
      "streak": 0,
-     "nextDue": 1792770517984,
-     "at": 1792684117984
+     "nextDue": 1792770520700,
+     "at": 1792684120700
     }
    },
    "notes": {
@@ -14249,7 +14249,7 @@
     "showAll": false,
     "menu": false,
     "editor": null,
-    "revealed": null,
+    "revealed": "mandate",
     "ids": [],
     "index": 0,
     "flip": false,
@@ -14259,7 +14259,7 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 117.8040000000001,
+    "elapsed": 137.88300000000004,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -15908,9 +15908,9 @@
      "twist",
      "unique"
     ],
-    "sessionAt": 1792684118661
+    "sessionAt": 1792684140008
    },
-   "updatedAt": 1792684118661
+   "updatedAt": 1792684140008
   }
  }
 }
