@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-23T16:18:09.313Z",
+ "updatedAt": "2026-10-23T16:34:22.550Z",
  "count": 24,
  "attempts": [
   {
@@ -15583,6 +15583,14 @@
      "techniques",
      "sufficient",
      "thornier",
+     "flywheel",
+     "thoughts",
+     "exhausted",
+     "interrupted",
+     "merely",
+     "efficient",
+     "free up",
+     "or else",
      "never",
      "slice",
      "tiny",
@@ -15666,6 +15674,14 @@
      "faithfulness",
      "femininity",
      "amplify",
+     "flywheel",
+     "thoughts",
+     "exhausted",
+     "interrupted",
+     "merely",
+     "efficient",
+     "free up",
+     "or else",
      "specific",
      "complaint",
      "mournfully",
@@ -16289,9 +16305,9 @@
      "essential",
      "instructor"
     ],
-    "sessionAt": 1792687643032
+    "sessionAt": 1792773243814
    },
-   "updatedAt": 1792687643032
+   "updatedAt": 1792773243814
   }
  }
 }
