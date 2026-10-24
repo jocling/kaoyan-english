@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T07:49:10.570Z",
+ "updatedAt": "2026-10-24T08:52:32.835Z",
  "count": 25,
  "attempts": [
   {
@@ -7015,12 +7015,238 @@
      "p": 0,
      "s": 0,
      "sent": "Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest poll has found."
+    },
+    {
+     "w": "strikingly",
+     "raw": "strikingly",
+     "p": 1,
+     "s": 1,
+     "sent": "But while young and old mostly agree on what constitutes the finish line of a fulfilling life, they offer strikingly different paths for reaching it."
+    },
+    {
+     "w": "constitutes",
+     "raw": "constitutes",
+     "p": 1,
+     "s": 1,
+     "sent": "But while young and old mostly agree on what constitutes the finish line of a fulfilling life, they offer strikingly different paths for reaching it."
+    },
+    {
+     "w": "prioritize",
+     "raw": "prioritize",
+     "p": 2,
+     "s": 0,
+     "sent": "Young people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more public services and a faster pace of life, to agree that couples should be financially secure before getting married or having children, and to maintain that children are best served by two parents working outside the home, the survey found."
+    },
+    {
+     "w": "regularly",
+     "raw": "regularly",
+     "p": 2,
+     "s": 0,
+     "sent": "Young people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more public services and a faster pace of life, to agree that couples should be financially secure before getting married or having children, and to maintain that children are best served by two parents working outside the home, the survey found."
+    },
+    {
+     "w": "contrasts",
+     "raw": "contrasts",
+     "p": 3,
+     "s": 0,
+     "sent": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "w": "aftermath",
+     "raw": "aftermath",
+     "p": 3,
+     "s": 0,
+     "sent": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "w": "searing",
+     "raw": "searing",
+     "p": 3,
+     "s": 0,
+     "sent": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "w": "defining",
+     "raw": "defining",
+     "p": 3,
+     "s": 0,
+     "sent": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "w": "expectations",
+     "raw": "expectations",
+     "p": 3,
+     "s": 0,
+     "sent": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "w": "virtually",
+     "raw": "virtually",
+     "p": 3,
+     "s": 0,
+     "sent": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "w": "preferences",
+     "raw": "preferences",
+     "p": 3,
+     "s": 0,
+     "sent": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "w": "converge",
+     "raw": "converge",
+     "p": 4,
+     "s": 0,
+     "sent": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations."
+    },
+    {
+     "w": "majorities",
+     "raw": "majorities",
+     "p": 4,
+     "s": 0,
+     "sent": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations."
+    },
+    {
+     "w": "overwhelming",
+     "raw": "Overwhelming",
+     "p": 4,
+     "s": 0,
+     "sent": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations."
+    },
+    {
+     "w": "somewhat",
+     "raw": "somewhat",
+     "p": 4,
+     "s": 1,
+     "sent": "While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing."
+    },
+    {
+     "w": "optimistic",
+     "raw": "optimistic",
+     "p": 4,
+     "s": 1,
+     "sent": "While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing."
+    },
+    {
+     "w": "prospects",
+     "raw": "prospects",
+     "p": 4,
+     "s": 1,
+     "sent": "While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing."
+    },
+    {
+     "w": "tougher",
+     "raw": "tougher",
+     "p": 4,
+     "s": 1,
+     "sent": "While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing."
+    },
+    {
+     "w": "signpost",
+     "raw": "signpost",
+     "p": 4,
+     "s": 1,
+     "sent": "While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing."
+    },
+    {
+     "w": "securing",
+     "raw": "securing",
+     "p": 4,
+     "s": 1,
+     "sent": "While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing."
+    },
+    {
+     "w": "suburbs",
+     "raw": "suburbs,",
+     "p": 5,
+     "s": 1,
+     "sent": "Schneider, a 27-year-old auto technician from the Chicago suburbs, says he struggled to find a job after graduating from college."
+    },
+    {
+     "w": "steadily",
+     "raw": "steadily,",
+     "p": 5,
+     "s": 2,
+     "sent": "Even now that he is working steadily, he said, \"I can't afford to pay my monthly mortgage payments on my own, so I have to rent rooms out to people to make that happen.\""
+    },
+    {
+     "w": "mortgage",
+     "raw": "mortgage",
+     "p": 5,
+     "s": 2,
+     "sent": "Even now that he is working steadily, he said, \"I can't afford to pay my monthly mortgage payments on my own, so I have to rent rooms out to people to make that happen.\""
+    },
+    {
+     "w": "struck",
+     "raw": "struck",
+     "p": 5,
+     "s": 3,
+     "sent": "Looking back, he is struck that his parents could provide a comfortable life for their children even though neither had completed college when he was young."
     }
    ],
-   "sentences": [],
-   "phrases": [],
-   "qwords": [],
-   "updatedAt": "2026-10-24T07:48:01.152Z"
+   "sentences": [
+    {
+     "p": 2,
+     "s": 0,
+     "text": "Young people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more public services and a faster pace of life, to agree that couples should be financially secure before getting married or having children, and to maintain that children are best served by two parents working outside the home, the survey found."
+    },
+    {
+     "p": 3,
+     "s": 0,
+     "text": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics."
+    },
+    {
+     "p": 4,
+     "s": 0,
+     "text": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "converge on",
+     "loc": "4:0",
+     "a": 3,
+     "b": 4,
+     "sent": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations.",
+     "cn": "年轻人与年长者在一个关键问题上意见一致：两组中绝大多数人都认为，与前几代相比，如今年轻人更难在生活中站稳脚跟。",
+     "m": "",
+     "base": "",
+     "note": "",
+     "p": 4,
+     "s": 0
+    }
+   ],
+   "qwords": [
+    {
+     "key": "37:B:2",
+     "w": "occupation",
+     "raw": "occupation",
+     "n": 37,
+     "part": "B",
+     "sent": "hold an occupation longer",
+     "cn": "长期从事同一职业"
+    },
+    {
+     "key": "37:C:0",
+     "w": "attach",
+     "raw": "attach",
+     "n": 37,
+     "part": "C",
+     "sent": "attach importance to pre-marital finance",
+     "cn": "重视婚前经济状况"
+    },
+    {
+     "key": "38:B:2",
+     "w": "materialistic",
+     "raw": "materialistic",
+     "n": 38,
+     "part": "B",
+     "sent": "focus on materialistic issues",
+     "cn": "集中于物质问题"
+    }
+   ],
+   "updatedAt": "2026-10-24T08:51:57.056Z"
   }
  },
  "prefs": {
@@ -7069,7 +7295,10 @@
    "introductory": 1,
    "flywheel": 2,
    "instrumentally": 2,
-   "against": 2
+   "against": 2,
+   "expectations": 3,
+   "preferences": 1,
+   "suburbs": 2
   },
   "confuse": {
    "intrinsically": [
@@ -7831,7 +8060,34 @@
    "backdrop": "2026-10-24T07:46:38.393Z",
    "drastic": "2026-10-24T07:46:48.321Z",
    "against": "2026-10-24T07:46:57.582Z",
-   "latest": "2026-10-24T07:48:00.187Z"
+   "latest": "2026-10-24T07:48:00.187Z",
+   "prize": "2026-10-24T07:49:44.945Z",
+   "strikingly": "2026-10-24T07:51:57.446Z",
+   "constitutes": "2026-10-24T07:52:21.043Z",
+   "prioritize": "2026-10-24T07:54:29.838Z",
+   "regularly": "2026-10-24T07:55:33.229Z",
+   "contrasts": "2026-10-24T08:20:16.013Z",
+   "aftermath": "2026-10-24T08:20:32.685Z",
+   "of": "2026-10-24T08:20:34.871Z",
+   "searing": "2026-10-24T08:29:14.554Z",
+   "defining": "2026-10-24T08:29:45.241Z",
+   "expectations": "2026-10-24T08:30:07.094Z",
+   "virtually": "2026-10-24T08:30:24.025Z",
+   "preferences": "2026-10-24T08:35:02.810Z",
+   "converge": "2026-10-24T08:38:16.216Z",
+   "majorities": "2026-10-24T08:39:55.105Z",
+   "overwhelming": "2026-10-24T08:40:11.012Z",
+   "somewhat": "2026-10-24T08:43:04.794Z",
+   "prospects": "2026-10-24T08:43:32.205Z",
+   "tougher": "2026-10-24T08:44:15.813Z",
+   "signpost": "2026-10-24T08:44:21.058Z",
+   "securing": "2026-10-24T08:44:28.111Z",
+   "suburbs": "2026-10-24T08:45:36.962Z",
+   "steadily": "2026-10-24T08:45:51.080Z",
+   "mortgage": "2026-10-24T08:45:58.496Z",
+   "struck": "2026-10-24T08:46:11.359Z",
+   "occupation": "2026-10-24T08:49:53.025Z",
+   "attach": "2026-10-24T08:51:19.523Z"
   },
   "archived": {
    "uccelli": {
@@ -15265,6 +15521,7 @@
      "advance",
      "advantage",
      "affectionate",
+     "against",
      "aggressively",
      "agitated",
      "aide",
@@ -15306,6 +15563,7 @@
      "augment",
      "awake",
      "aware",
+     "backdrop",
      "bargain",
      "baseless",
      "before",
@@ -15431,6 +15689,7 @@
      "dot",
      "down to",
      "downturn",
+     "drastic",
      "draw",
      "draws out",
      "drive",
@@ -15621,6 +15880,7 @@
      "laid out",
      "landscape",
      "last",
+     "latest",
      "lean",
      "legally",
      "legislation",
@@ -16617,7 +16877,11 @@
      "dip",
      "so far as",
      "so",
-     "willing"
+     "willing",
+     "backdrop",
+     "drastic",
+     "against",
+     "latest"
     ],
     "sessionAt": 1792827204464,
     "screenJudgments": {},
@@ -16633,7 +16897,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792776250427
    },
-   "updatedAt": 1792828136703
+   "updatedAt": 1792831935425
   }
  }
 }
