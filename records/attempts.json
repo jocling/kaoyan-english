@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T07:46:23.871Z",
+ "updatedAt": "2026-10-24T07:49:10.570Z",
  "count": 25,
  "attempts": [
   {
@@ -6985,6 +6985,42 @@
    ],
    "qwords": [],
    "updatedAt": "2026-10-24T05:55:12.137Z"
+  },
+  "2016-4": {
+   "words": [
+    {
+     "w": "backdrop",
+     "raw": "backdrop",
+     "p": 0,
+     "s": 0,
+     "sent": "Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest poll has found."
+    },
+    {
+     "w": "drastic",
+     "raw": "drastic",
+     "p": 0,
+     "s": 0,
+     "sent": "Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest poll has found."
+    },
+    {
+     "w": "against",
+     "raw": "Against",
+     "p": 0,
+     "s": 0,
+     "sent": "Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest poll has found."
+    },
+    {
+     "w": "latest",
+     "raw": "latest",
+     "p": 0,
+     "s": 0,
+     "sent": "Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest poll has found."
+    }
+   ],
+   "sentences": [],
+   "phrases": [],
+   "qwords": [],
+   "updatedAt": "2026-10-24T07:48:01.152Z"
   }
  },
  "prefs": {
@@ -7032,7 +7068,8 @@
    "appears": 1,
    "introductory": 1,
    "flywheel": 2,
-   "instrumentally": 2
+   "instrumentally": 2,
+   "against": 2
   },
   "confuse": {
    "intrinsically": [
@@ -7790,7 +7827,11 @@
    "fuel": "2026-10-24T05:52:52.147Z",
    "ritualistic": "2026-10-24T05:53:21.443Z",
    "distractions": "2026-10-24T05:53:36.705Z",
-   "dip": "2026-10-24T05:54:26.619Z"
+   "dip": "2026-10-24T05:54:26.619Z",
+   "backdrop": "2026-10-24T07:46:38.393Z",
+   "drastic": "2026-10-24T07:46:48.321Z",
+   "against": "2026-10-24T07:46:57.582Z",
+   "latest": "2026-10-24T07:48:00.187Z"
   },
   "archived": {
    "uccelli": {
@@ -15247,6 +15288,7 @@
      "appearance",
      "appetite",
      "apply to",
+     "approach",
      "appropriate",
      "are likely to",
      "as",
@@ -15332,6 +15374,7 @@
      "contradict",
      "contradictory",
      "contrary",
+     "contrast",
      "convention",
      "conversely",
      "core",
@@ -15373,10 +15416,12 @@
      "dictate",
      "differentiate",
      "dim",
+     "dip",
      "directly",
      "disaster",
      "discern",
      "distinction",
+     "distractions",
      "divide",
      "divide newcomers into",
      "dna",
@@ -15462,6 +15507,8 @@
      "frighten",
      "front",
      "frustration",
+     "fuel",
+     "fulfilling",
      "fulfillment",
      "fund",
      "fundamental",
@@ -15475,6 +15522,7 @@
      "get their hands on",
      "get to go",
      "getting on well with",
+     "given moment",
      "glass ceiling",
      "good",
      "graduate",
@@ -15520,6 +15568,7 @@
      "indication",
      "indifferent",
      "ineffective",
+     "inefficiency",
      "inequality",
      "inevitable",
      "inexperience",
@@ -15541,6 +15590,7 @@
      "instinctively",
      "institution",
      "instructor",
+     "instrumentally",
      "insurance",
      "intact",
      "interact",
@@ -15597,6 +15647,7 @@
      "mass",
      "massive",
      "materialistic",
+     "maximised",
      "mean-spirited",
      "mechanism",
      "medicaid",
@@ -15708,6 +15759,7 @@
      "previously",
      "prime",
      "professor",
+     "progress",
      "promote",
      "promotion",
      "prompt",
@@ -15772,11 +15824,15 @@
      "rigid",
      "rise above",
      "ritual",
+     "ritualistic",
      "rival",
      "rose-tint",
      "run counter to",
+     "sacred",
      "scale",
      "scary",
+     "scheduling",
+     "schneider",
      "scorn",
      "scripted",
      "sector",
@@ -15799,6 +15855,9 @@
      "simply",
      "since",
      "slice",
+     "slot",
+     "so",
+     "so far as",
      "sociable",
      "socially",
      "sojourner",
@@ -15892,10 +15951,12 @@
      "what",
      "while",
      "why",
+     "willing",
      "wisdom",
      "wit",
      "workplace",
-     "yet"
+     "yet",
+     "young"
     ],
     "queueIDs": [
      "nursery",
@@ -16537,7 +16598,26 @@
      "very",
      "used",
      "essential",
-     "instructor"
+     "instructor",
+     "young",
+     "schneider",
+     "instrumentally",
+     "approach",
+     "maximised",
+     "progress",
+     "inefficiency",
+     "contrast",
+     "slot",
+     "fulfilling",
+     "sacred",
+     "scheduling",
+     "fuel",
+     "ritualistic",
+     "distractions",
+     "dip",
+     "so far as",
+     "so",
+     "willing"
     ],
     "sessionAt": 1792827204464,
     "screenJudgments": {},
@@ -16553,7 +16633,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792776250427
    },
-   "updatedAt": 1792827204464
+   "updatedAt": 1792828136703
   }
  }
 }
