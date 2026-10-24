@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T08:52:32.835Z",
+ "updatedAt": "2026-10-24T08:55:14.743Z",
  "count": 25,
  "attempts": [
   {
@@ -7244,9 +7244,27 @@
      "part": "B",
      "sent": "focus on materialistic issues",
      "cn": "集中于物质问题"
+    },
+    {
+     "key": "39:A:4",
+     "w": "available",
+     "raw": "available",
+     "n": 39,
+     "part": "A",
+     "sent": "good-paying jobs are less available",
+     "cn": "高薪工作更难找到"
+    },
+    {
+     "key": "39:C:6",
+     "w": "obtain",
+     "raw": "obtain",
+     "n": 39,
+     "part": "C",
+     "sent": "housing loans today are easy to obtain",
+     "cn": "如今住房贷款容易获得"
     }
    ],
-   "updatedAt": "2026-10-24T08:51:57.056Z"
+   "updatedAt": "2026-10-24T08:53:43.243Z"
   }
  },
  "prefs": {
@@ -8087,7 +8105,9 @@
    "mortgage": "2026-10-24T08:45:58.496Z",
    "struck": "2026-10-24T08:46:11.359Z",
    "occupation": "2026-10-24T08:49:53.025Z",
-   "attach": "2026-10-24T08:51:19.523Z"
+   "attach": "2026-10-24T08:51:19.523Z",
+   "available": "2026-10-24T08:53:29.728Z",
+   "obtain": "2026-10-24T08:53:38.964Z"
   },
   "archived": {
    "uccelli": {
