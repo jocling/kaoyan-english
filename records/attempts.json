@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T08:57:34.835Z",
+ "updatedAt": "2026-10-24T08:58:15.791Z",
  "count": 25,
  "attempts": [
   {
@@ -15287,6 +15287,17 @@
      "streak": 0,
      "nextDue": 1792770811564,
      "at": 1792684411564
+    },
+    "nursery": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793437090640,
+     "at": 1792832290640
     }
    },
    "notes": {
@@ -15498,7 +15509,8 @@
      "domestic",
      "gender-neutral",
      "economic",
-     "success"
+     "success",
+     "nursery"
     ],
     "started": true,
     "supplement": false,
@@ -16961,11 +16973,33 @@
      "of"
     ],
     "sessionAt": 1792832202205,
-    "screenJudgments": {},
+    "screenJudgments": {
+     "nursery": {
+      "grade": "known",
+      "at": 1792832290640
+     }
+    },
     "doneChanges30": {},
     "preciseDone": {},
-    "dailyStats": {},
-    "statChanges30": {},
+    "dailyStats": {
+     "2026-10-24": {
+      "screened": {
+       "nursery": 1792832290640
+      },
+      "cards": {}
+     }
+    },
+    "statChanges30": {
+     "2026-10-24": {
+      "screened": {
+       "nursery": {
+        "at": 1792832290640,
+        "value": 1792832290640
+       }
+      },
+      "cards": {}
+     }
+    },
     "groupsEpoch30": 0,
     "screenGroups": [],
     "dailyGoal": 100,
@@ -16974,7 +17008,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792776250427
    },
-   "updatedAt": 1792832209960
+   "updatedAt": 1792832295075
   }
  }
 }
