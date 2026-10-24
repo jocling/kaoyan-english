@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T08:56:39.268Z",
+ "updatedAt": "2026-10-24T08:56:48.850Z",
  "count": 25,
  "attempts": [
   {
@@ -16960,7 +16960,7 @@
      "prize",
      "of"
     ],
-    "sessionAt": 1792832194375,
+    "sessionAt": 1792832202205,
     "screenJudgments": {},
     "doneChanges30": {},
     "preciseDone": {},
@@ -16974,7 +16974,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792776250427
    },
-   "updatedAt": 1792832194375
+   "updatedAt": 1792832205105
   }
  }
 }
