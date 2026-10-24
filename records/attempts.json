@@ -1,7 +1,7 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T03:21:24.723Z",
- "count": 24,
+ "updatedAt": "2026-10-24T07:46:11.451Z",
+ "count": 25,
  "attempts": [
   {
    "id": "2012-1__202609091611",
@@ -1151,6 +1151,58 @@
      "p": 3,
      "s": 2,
      "sent": "You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\""
+    }
+   ],
+   "sentences": []
+  },
+  {
+   "id": "2016-4__20261024074609_rww",
+   "textId": "2016-4",
+   "label": "2016 · Text 4",
+   "year": 2016,
+   "startedAt": "2026-10-24T07:33:25.842Z",
+   "submittedAt": "2026-10-24T07:46:09.876Z",
+   "durationSec": 764,
+   "score": 5,
+   "answers": {
+    "36": "B",
+    "37": "C",
+    "38": "D",
+    "39": "D",
+    "40": "C"
+   },
+   "correct": {
+    "36": true,
+    "37": true,
+    "38": true,
+    "39": true,
+    "40": true
+   },
+   "qTimes": {
+    "36": 416,
+    "37": 510,
+    "38": 657,
+    "39": 690,
+    "40": 762
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [
+    {
+     "w": "young",
+     "raw": "Young",
+     "p": 2,
+     "s": 0,
+     "sent": "Young people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more public services and a faster pace of life, to agree that couples should be financially secure before getting married or having children, and to maintain that children are best served by two parents working outside the home, the survey found."
+    },
+    {
+     "w": "schneider",
+     "raw": "Schneider",
+     "p": 5,
+     "s": 0,
+     "sent": "Pete Schneider considers the climb tougher today."
     }
    ],
    "sentences": []
@@ -6709,6 +6761,125 @@
      "p": 1,
      "s": 6,
      "sent": "Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient."
+    },
+    {
+     "w": "instrumentally",
+     "raw": "instrumentally,",
+     "p": 2,
+     "s": 1,
+     "sent": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal."
+    },
+    {
+     "w": "approach",
+     "raw": "approach",
+     "p": 2,
+     "s": 1,
+     "sent": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal."
+    },
+    {
+     "w": "maximised",
+     "raw": "maximised",
+     "p": 2,
+     "s": 1,
+     "sent": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal."
+    },
+    {
+     "w": "advances",
+     "raw": "advances",
+     "p": 2,
+     "s": 1,
+     "sent": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal."
+    },
+    {
+     "w": "progress",
+     "raw": "progress",
+     "p": 2,
+     "s": 1,
+     "sent": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal."
+    },
+    {
+     "w": "inefficiency",
+     "raw": "inefficiency,",
+     "p": 2,
+     "s": 2,
+     "sent": "Immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting."
+    },
+    {
+     "w": "contrast",
+     "raw": "contrast,",
+     "p": 2,
+     "s": 2,
+     "sent": "Immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting."
+    },
+    {
+     "w": "slot",
+     "raw": "slot",
+     "p": 2,
+     "s": 3,
+     "sent": "Try to slot it in as a to-do list item and you'll manage only goal-focused reading - useful, sometimes, but not the most fulfilling kind."
+    },
+    {
+     "w": "fulfilling",
+     "raw": "fulfilling",
+     "p": 2,
+     "s": 3,
+     "sent": "Try to slot it in as a to-do list item and you'll manage only goal-focused reading - useful, sometimes, but not the most fulfilling kind."
+    },
+    {
+     "w": "infinite",
+     "raw": "infinite",
+     "p": 2,
+     "s": 4,
+     "sent": "\"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and \"we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\""
+    },
+    {
+     "w": "sacred",
+     "raw": "Sacred",
+     "p": 2,
+     "s": 4,
+     "sent": "\"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and \"we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\""
+    },
+    {
+     "w": "scheduling",
+     "raw": "scheduling",
+     "p": 3,
+     "s": 1,
+     "sent": "Perhaps surprisingly, scheduling regular times for reading."
+    },
+    {
+     "w": "regular",
+     "raw": "regular",
+     "p": 3,
+     "s": 1,
+     "sent": "Perhaps surprisingly, scheduling regular times for reading."
+    },
+    {
+     "w": "fuel",
+     "raw": "fuel",
+     "p": 3,
+     "s": 2,
+     "sent": "You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\""
+    },
+    {
+     "w": "ritualistic",
+     "raw": "ritualistic",
+     "p": 3,
+     "s": 2,
+     "sent": "You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\""
+    },
+    {
+     "w": "distractions",
+     "raw": "distractions",
+     "p": 3,
+     "s": 3,
+     "sent": "You could limit distractions by reading only physical books, or on single-purpose e-readers."
+    },
+    {
+     "w": "dip",
+     "raw": "dip",
+     "p": 3,
+     "s": 4,
+     "sent": "\"Carry a book with you at all times\" can actually work, too - providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down."
     }
    ],
    "sentences": [
@@ -6736,6 +6907,26 @@
      "p": 1,
      "s": 6,
      "text": "Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient."
+    },
+    {
+     "p": 2,
+     "s": 1,
+     "text": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal."
+    },
+    {
+     "p": 2,
+     "s": 3,
+     "text": "Try to slot it in as a to-do list item and you'll manage only goal-focused reading - useful, sometimes, but not the most fulfilling kind."
+    },
+    {
+     "p": 2,
+     "s": 5,
+     "text": "No mind-set could be worse for losing yourself in a book."
+    },
+    {
+     "p": 3,
+     "s": 4,
+     "text": "\"Carry a book with you at all times\" can actually work, too - providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down."
     }
    ],
    "phrases": [
@@ -6764,10 +6955,36 @@
      "note": "",
      "p": 1,
      "s": 3
+    },
+    {
+     "text": "given moment",
+     "loc": "2:1",
+     "a": 16,
+     "b": 17,
+     "sent": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal.",
+     "cn": "把时间视作一种要尽量充分利用的资源，意味着你会用工具化的方式对待时间：只有当某一刻推动你朝某个目标前进时，你才会认为这段时间花得值得。",
+     "m": "",
+     "base": "",
+     "note": "",
+     "p": 2,
+     "s": 1
+    },
+    {
+     "text": "so far as",
+     "loc": "2:1",
+     "a": 23,
+     "b": 25,
+     "sent": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal.",
+     "cn": "把时间视作一种要尽量充分利用的资源，意味着你会用工具化的方式对待时间：只有当某一刻推动你朝某个目标前进时，你才会认为这段时间花得值得。",
+     "m": "远至…;就…来说,在…范围内,至于",
+     "base": "so far as",
+     "note": "",
+     "p": 2,
+     "s": 1
     }
    ],
    "qwords": [],
-   "updatedAt": "2026-10-22T16:32:04.154Z"
+   "updatedAt": "2026-10-24T05:55:12.137Z"
   }
  },
  "prefs": {
@@ -6814,7 +7031,8 @@
    "prefer": 1,
    "appears": 1,
    "introductory": 1,
-   "flywheel": 2
+   "flywheel": 2,
+   "instrumentally": 2
   },
   "confuse": {
    "intrinsically": [
@@ -7556,7 +7774,23 @@
    "exhausted": "2026-10-22T16:29:28.629Z",
    "interrupted": "2026-10-22T16:30:37.729Z",
    "merely": "2026-10-22T16:31:15.521Z",
-   "efficient": "2026-10-22T16:31:57.601Z"
+   "efficient": "2026-10-22T16:31:57.601Z",
+   "instrumentally": "2026-10-24T05:39:38.670Z",
+   "approach": "2026-10-24T05:39:50.863Z",
+   "so": "2026-10-24T05:41:03.026Z",
+   "maximised": "2026-10-24T05:42:29.691Z",
+   "progress": "2026-10-24T05:44:09.584Z",
+   "inefficiency": "2026-10-24T05:45:12.807Z",
+   "contrast": "2026-10-24T05:45:20.494Z",
+   "willing": "2026-10-24T05:45:32.345Z",
+   "slot": "2026-10-24T05:47:15.181Z",
+   "fulfilling": "2026-10-24T05:48:10.058Z",
+   "sacred": "2026-10-24T05:50:09.307Z",
+   "scheduling": "2026-10-24T05:52:31.671Z",
+   "fuel": "2026-10-24T05:52:52.147Z",
+   "ritualistic": "2026-10-24T05:53:21.443Z",
+   "distractions": "2026-10-24T05:53:36.705Z",
+   "dip": "2026-10-24T05:54:26.619Z"
   },
   "archived": {
    "uccelli": {
@@ -16305,7 +16539,7 @@
      "essential",
      "instructor"
     ],
-    "sessionAt": 1792776250427,
+    "sessionAt": 1792827204464,
     "screenJudgments": {},
     "doneChanges30": {},
     "preciseDone": {},
@@ -16319,7 +16553,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792776250427
    },
-   "updatedAt": 1792776250427
+   "updatedAt": 1792827204464
   }
  }
 }
