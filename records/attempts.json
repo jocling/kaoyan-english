@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T09:01:20.475Z",
+ "updatedAt": "2026-10-24T09:01:29.750Z",
  "count": 25,
  "attempts": [
   {
@@ -15320,6 +15320,17 @@
      "streak": 0,
      "nextDue": 1792918878260,
      "at": 1792832478260
+    },
+    "consider": {
+     "disposition": "skip",
+     "needsReview": false,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793437287094,
+     "at": 1792832487094
     }
    },
    "notes": {
@@ -15534,7 +15545,8 @@
      "success",
      "nursery",
      "strength",
-     "constancy"
+     "constancy",
+     "consider"
     ],
     "started": true,
     "supplement": false,
@@ -16998,6 +17010,10 @@
     ],
     "sessionAt": 1792832202205,
     "screenJudgments": {
+     "consider": {
+      "grade": "known",
+      "at": 1792832487094
+     },
      "constancy": {
       "grade": "wrong",
       "at": 1792832478260
@@ -17016,6 +17032,7 @@
     "dailyStats": {
      "2026-10-24": {
       "screened": {
+       "consider": 1792832487094,
        "constancy": 1792832478260,
        "nursery": 1792832290640,
        "strength": 1792832460739
@@ -17026,6 +17043,10 @@
     "statChanges30": {
      "2026-10-24": {
       "screened": {
+       "consider": {
+        "at": 1792832487094,
+        "value": 1792832487094
+       },
        "constancy": {
         "at": 1792832478260,
         "value": 1792832478260
@@ -17050,7 +17071,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792776250427
    },
-   "updatedAt": 1792832478260
+   "updatedAt": 1792832489105
   }
  }
 }
