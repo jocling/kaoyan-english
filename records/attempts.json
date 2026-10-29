@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T15:48:43.390Z",
+ "updatedAt": "2026-10-29T15:50:57.350Z",
  "count": 26,
  "attempts": [
   {
@@ -7346,6 +7346,13 @@
      "p": 0,
      "s": 1,
      "sent": "The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad."
+    },
+    {
+     "w": "staffed",
+     "raw": "staffed",
+     "p": 0,
+     "s": 2,
+     "sent": "Events are free, staffed by thousands of volunteers."
     }
    ],
    "sentences": [],
@@ -7365,7 +7372,7 @@
     }
    ],
    "qwords": [],
-   "updatedAt": "2026-10-29T15:07:33.613Z"
+   "updatedAt": "2026-10-29T15:49:36.414Z"
   }
  },
  "prefs": {
@@ -8211,7 +8218,10 @@
    "obtain": "2026-10-24T08:53:38.964Z",
    "phenomenon": "2026-10-29T15:07:14.937Z",
    "parkrun": "2026-10-29T15:07:21.662Z",
-   "inspired": "2026-10-29T15:07:30.959Z"
+   "inspired": "2026-10-29T15:07:30.959Z",
+   "staffed": "2026-10-29T15:49:33.730Z",
+   "times": "2026-10-29T15:50:08.265Z",
+   "legacy": "2026-10-29T15:50:26.999Z"
   },
   "archived": {
    "uccelli": {
@@ -16026,6 +16036,7 @@
      "innovation",
      "insatiable",
      "insecurity",
+     "inspired",
      "instance",
      "instinctively",
      "institution",
@@ -16184,6 +16195,7 @@
      "personality",
      "persuade",
      "pervasive",
+     "phenomenon",
      "playing catch-up-with-household",
      "pointed out",
      "political",
@@ -17116,7 +17128,9 @@
      "prize",
      "of",
      "but",
-     "set off"
+     "set off",
+     "phenomenon",
+     "inspired"
     ],
     "sessionAt": 1793285628141,
     "screenJudgments": {
@@ -17181,7 +17195,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793287874022
+   "updatedAt": 1793289038510
   },
   "sentenceReview27": {
    "version": 27,
