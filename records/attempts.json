@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T15:50:57.350Z",
+ "updatedAt": "2026-10-29T15:56:02.845Z",
  "count": 26,
  "attempts": [
   {
@@ -7353,6 +7353,34 @@
      "p": 0,
      "s": 2,
      "sent": "Events are free, staffed by thousands of volunteers."
+    },
+    {
+     "w": "failing",
+     "raw": "failing.",
+     "p": 1,
+     "s": 0,
+     "sent": "Parkrun is succeeding where London's Olympic \"legacy\" is failing."
+    },
+    {
+     "w": "succeeding",
+     "raw": "succeeding",
+     "p": 1,
+     "s": 0,
+     "sent": "Parkrun is succeeding where London's Olympic \"legacy\" is failing."
+    },
+    {
+     "w": "pledged",
+     "raw": "pledged",
+     "p": 1,
+     "s": 2,
+     "sent": "Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches."
+    },
+    {
+     "w": "lever",
+     "raw": "lever",
+     "p": 1,
+     "s": 2,
+     "sent": "Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches."
     }
    ],
    "sentences": [],
@@ -7372,7 +7400,7 @@
     }
    ],
    "qwords": [],
-   "updatedAt": "2026-10-29T15:49:36.414Z"
+   "updatedAt": "2026-10-29T15:53:37.257Z"
   }
  },
  "prefs": {
@@ -7424,7 +7452,8 @@
    "against": 2,
    "expectations": 3,
    "preferences": 1,
-   "suburbs": 2
+   "suburbs": 2,
+   "succeeding": 2
   },
   "confuse": {
    "intrinsically": [
@@ -8221,7 +8250,11 @@
    "inspired": "2026-10-29T15:07:30.959Z",
    "staffed": "2026-10-29T15:49:33.730Z",
    "times": "2026-10-29T15:50:08.265Z",
-   "legacy": "2026-10-29T15:50:26.999Z"
+   "legacy": "2026-10-29T15:50:26.999Z",
+   "failing": "2026-10-29T15:52:17.102Z",
+   "succeeding": "2026-10-29T15:52:25.179Z",
+   "pledged": "2026-10-29T15:53:15.251Z",
+   "lever": "2026-10-29T15:53:33.205Z"
   },
   "archived": {
    "uccelli": {
@@ -16074,6 +16107,7 @@
      "last",
      "latest",
      "lean",
+     "legacy",
      "legally",
      "legislation",
      "lengthy",
@@ -16340,6 +16374,7 @@
      "specific",
      "spin",
      "spinning off",
+     "staffed",
      "stagnation",
      "stalk",
      "standardized",
@@ -16384,6 +16419,7 @@
      "threaten",
      "thrive",
      "tightly",
+     "time",
      "tiny",
      "to",
      "toddler",
@@ -17130,7 +17166,10 @@
      "but",
      "set off",
      "phenomenon",
-     "inspired"
+     "inspired",
+     "staffed",
+     "time",
+     "legacy"
     ],
     "sessionAt": 1793285628141,
     "screenJudgments": {
@@ -17195,7 +17234,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793289038510
+   "updatedAt": 1793289260627
   },
   "sentenceReview27": {
    "version": 27,
