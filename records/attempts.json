@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T15:06:26.153Z",
+ "updatedAt": "2026-10-29T15:48:43.390Z",
  "count": 26,
  "attempts": [
   {
@@ -7332,7 +7332,22 @@
    "updatedAt": "2026-10-24T08:53:43.243Z"
   },
   "2017-1": {
-   "words": [],
+   "words": [
+    {
+     "w": "phenomenon",
+     "raw": "phenomenon",
+     "p": 0,
+     "s": 1,
+     "sent": "The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad."
+    },
+    {
+     "w": "inspired",
+     "raw": "inspired",
+     "p": 0,
+     "s": 1,
+     "sent": "The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad."
+    }
+   ],
    "sentences": [],
    "phrases": [
     {
@@ -7350,7 +7365,7 @@
     }
    ],
    "qwords": [],
-   "updatedAt": "2026-10-29T15:05:56.725Z"
+   "updatedAt": "2026-10-29T15:07:33.613Z"
   }
  },
  "prefs": {
@@ -8193,7 +8208,10 @@
    "occupation": "2026-10-24T08:49:53.025Z",
    "attach": "2026-10-24T08:51:19.523Z",
    "available": "2026-10-24T08:53:29.728Z",
-   "obtain": "2026-10-24T08:53:38.964Z"
+   "obtain": "2026-10-24T08:53:38.964Z",
+   "phenomenon": "2026-10-29T15:07:14.937Z",
+   "parkrun": "2026-10-29T15:07:21.662Z",
+   "inspired": "2026-10-29T15:07:30.959Z"
   },
   "archived": {
    "uccelli": {
@@ -15743,6 +15761,7 @@
      "broadband",
      "broadly",
      "bust",
+     "but",
      "buzzword",
      "can",
      "cap on",
@@ -16150,6 +16169,8 @@
      "paradise",
      "paradox",
      "paralysis",
+     "parkrun",
+     "parkun",
      "particularly",
      "party",
      "pastel",
@@ -16280,6 +16301,7 @@
      "separate",
      "sequencing",
      "session",
+     "set off",
      "set to",
      "settler",
      "shake",
@@ -17092,7 +17114,9 @@
      "available",
      "obtain",
      "prize",
-     "of"
+     "of",
+     "but",
+     "set off"
     ],
     "sessionAt": 1793285628141,
     "screenJudgments": {
@@ -17157,7 +17181,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793285628141
+   "updatedAt": 1793287874022
   },
   "sentenceReview27": {
    "version": 27,
