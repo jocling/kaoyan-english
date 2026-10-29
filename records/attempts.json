@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T16:48:14.562Z",
+ "updatedAt": "2026-10-29T16:49:44.598Z",
  "count": 26,
  "attempts": [
   {
@@ -7570,6 +7570,11 @@
      "p": 3,
      "s": 0,
      "text": "Indeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally \"grassroots\" concept as community sports associations."
+    },
+    {
+     "p": 3,
+     "s": 3,
+     "text": "Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive."
     }
    ],
    "phrases": [
@@ -7686,7 +7691,7 @@
      "cn": ""
     }
    ],
-   "updatedAt": "2026-10-29T16:42:52.994Z"
+   "updatedAt": "2026-10-29T16:48:58.230Z"
   }
  },
  "prefs": {
