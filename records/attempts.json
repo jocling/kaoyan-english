@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T15:56:02.845Z",
+ "updatedAt": "2026-10-29T15:57:23.716Z",
  "count": 26,
  "attempts": [
   {
@@ -15954,6 +15954,7 @@
      "extremely",
      "fabric",
      "factor",
+     "failing",
      "failure",
      "fairly",
      "faithfulness",
@@ -16111,6 +16112,7 @@
      "legally",
      "legislation",
      "lengthy",
+     "lever",
      "life-sustaining",
      "lift",
      "lineup",
@@ -16231,6 +16233,7 @@
      "pervasive",
      "phenomenon",
      "playing catch-up-with-household",
+     "pledged",
      "pointed out",
      "political",
      "politically",
@@ -16392,6 +16395,7 @@
      "stuff",
      "subject",
      "suburbs",
+     "succeeding",
      "sufficient",
      "summit",
      "superiority",
@@ -17169,7 +17173,11 @@
      "inspired",
      "staffed",
      "time",
-     "legacy"
+     "legacy",
+     "failing",
+     "succeeding",
+     "pledged",
+     "lever"
     ],
     "sessionAt": 1793285628141,
     "screenJudgments": {
@@ -17234,7 +17242,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793289260627
+   "updatedAt": 1793289430418
   },
   "sentenceReview27": {
    "version": 27,
