@@ -1,7 +1,7 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-24T09:12:03.829Z",
- "count": 25,
+ "updatedAt": "2026-10-29T15:05:05.050Z",
+ "count": 26,
  "attempts": [
   {
    "id": "2012-1__202609091611",
@@ -1203,6 +1203,67 @@
      "p": 5,
      "s": 0,
      "sent": "Pete Schneider considers the climb tougher today."
+    }
+   ],
+   "sentences": []
+  },
+  {
+   "id": "2017-1__20261029150451_1u0",
+   "textId": "2017-1",
+   "label": "2017 · Text 1",
+   "year": 2017,
+   "startedAt": "2026-10-29T14:53:50.389Z",
+   "submittedAt": "2026-10-29T15:04:51.495Z",
+   "durationSec": 661,
+   "score": 3,
+   "answers": {
+    "21": "A",
+    "22": "A",
+    "23": "B",
+    "24": "D",
+    "25": "B"
+   },
+   "correct": {
+    "21": true,
+    "22": false,
+    "23": false,
+    "24": true,
+    "25": true
+   },
+   "qTimes": {
+    "21": 313,
+    "22": 447,
+    "23": 503,
+    "24": 643,
+    "25": 659
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {
+    "23": "hmm"
+   },
+   "note": "",
+   "words": [
+    {
+     "w": "parkrun",
+     "raw": "Parkrun",
+     "p": 0,
+     "s": 1,
+     "sent": "The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad."
+    },
+    {
+     "w": "parkun",
+     "raw": "Parkun",
+     "p": 2,
+     "s": 0,
+     "sent": "Parkun is not a race but a time trial: Your only competitor is the clock."
+    },
+    {
+     "w": "but",
+     "raw": "But",
+     "p": 3,
+     "s": 2,
+     "sent": "But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education."
     }
    ],
    "sentences": []
@@ -17008,7 +17069,7 @@
      "prize",
      "of"
     ],
-    "sessionAt": 1792833015545,
+    "sessionAt": 1793285628141,
     "screenJudgments": {
      "consider": {
       "grade": "known",
@@ -17071,7 +17132,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1792833015545
+   "updatedAt": 1793285628141
   },
   "sentenceReview27": {
    "version": 27,
