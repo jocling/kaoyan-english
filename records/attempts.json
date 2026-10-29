@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T16:10:56.340Z",
+ "updatedAt": "2026-10-29T16:44:47.302Z",
  "count": 26,
  "attempts": [
   {
@@ -7402,6 +7402,132 @@
      "p": 1,
      "s": 3,
      "sent": "The population would be fitter, healthier and produce more winners."
+    },
+    {
+     "w": "opposition",
+     "raw": "opposition",
+     "p": 1,
+     "s": 7,
+     "sent": "The opposition claims primary school pupils doing at least two hours of sport a week have nearly halved."
+    },
+    {
+     "w": "halved",
+     "raw": "halved.",
+     "p": 1,
+     "s": 7,
+     "sent": "The opposition claims primary school pupils doing at least two hours of sport a week have nearly halved."
+    },
+    {
+     "w": "retrospections",
+     "raw": "retrospections",
+     "p": 1,
+     "s": 9,
+     "sent": "Official retrospections continue as to why London 2012 failed to \"inspire a generation.\""
+    },
+    {
+     "w": "trial",
+     "raw": "trial:",
+     "p": 2,
+     "s": 0,
+     "sent": "Parkun is not a race but a time trial: Your only competitor is the clock."
+    },
+    {
+     "w": "ethos",
+     "raw": "ethos",
+     "p": 2,
+     "s": 1,
+     "sent": "The ethos welcomes anybody."
+    },
+    {
+     "w": "joy",
+     "raw": "joy",
+     "p": 2,
+     "s": 2,
+     "sent": "There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining."
+    },
+    {
+     "w": "clapped",
+     "raw": "clapped",
+     "p": 2,
+     "s": 2,
+     "sent": "There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining."
+    },
+    {
+     "w": "talent",
+     "raw": "talent",
+     "p": 2,
+     "s": 2,
+     "sent": "There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining."
+    },
+    {
+     "w": "shining",
+     "raw": "shining.",
+     "p": 2,
+     "s": 2,
+     "sent": "There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining."
+    },
+    {
+     "w": "bidders",
+     "raw": "bidders,",
+     "p": 2,
+     "s": 3,
+     "sent": "The Olympic bidders, by contrast, wanted to get more people doing sport and to produce more elite athletes."
+    },
+    {
+     "w": "dual",
+     "raw": "dual",
+     "p": 2,
+     "s": 4,
+     "sent": "The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers."
+    },
+    {
+     "w": "intimidating",
+     "raw": "intimidating",
+     "p": 2,
+     "s": 4,
+     "sent": "The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers."
+    },
+    {
+     "w": "absurd",
+     "raw": "absurd",
+     "p": 3,
+     "s": 0,
+     "sent": "Indeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally \"grassroots\" concept as community sports associations."
+    },
+    {
+     "w": "grassroots",
+     "raw": "\"grassroots\"",
+     "p": 3,
+     "s": 0,
+     "sent": "Indeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally \"grassroots\" concept as community sports associations."
+    },
+    {
+     "w": "provision",
+     "raw": "provision",
+     "p": 3,
+     "s": 1,
+     "sent": "If there is a role for government, it should really be getting involved in providing common goods - making sure there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision of all these activities in schools."
+    },
+    {
+     "w": "successive",
+     "raw": "successive",
+     "p": 3,
+     "s": 2,
+     "sent": "But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education."
+    },
+    {
+     "w": "presided",
+     "raw": "presided",
+     "p": 3,
+     "s": 2,
+     "sent": "But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education."
+    },
+    {
+     "w": "wordy",
+     "raw": "wordy,",
+     "p": 3,
+     "s": 3,
+     "sent": "Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive."
     }
    ],
    "sentences": [
@@ -7419,6 +7545,31 @@
      "p": 1,
      "s": 5,
      "text": "The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 - but the general population was growing faster."
+    },
+    {
+     "p": 1,
+     "s": 9,
+     "text": "Official retrospections continue as to why London 2012 failed to \"inspire a generation.\""
+    },
+    {
+     "p": 2,
+     "s": 0,
+     "text": "Parkun is not a race but a time trial: Your only competitor is the clock."
+    },
+    {
+     "p": 2,
+     "s": 2,
+     "text": "There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining."
+    },
+    {
+     "p": 2,
+     "s": 4,
+     "text": "The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers."
+    },
+    {
+     "p": 3,
+     "s": 0,
+     "text": "Indeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally \"grassroots\" concept as community sports associations."
     }
    ],
    "phrases": [
@@ -7447,10 +7598,95 @@
      "note": "",
      "p": 1,
      "s": 5
+    },
+    {
+     "text": "as to",
+     "loc": "1:9",
+     "a": 3,
+     "b": 4,
+     "sent": "Official retrospections continue as to why London 2012 failed to \"inspire a generation.\"",
+     "cn": "官方仍在反思伦敦2012为何没能“激励一代人”。",
+     "m": "根据,按照,依照;关于,至于,就…而言",
+     "base": "as to",
+     "note": "",
+     "p": 1,
+     "s": 9
+    },
+    {
+     "text": "puffed-out first-timer",
+     "loc": "2:2",
+     "a": 7,
+     "b": 8,
+     "sent": "There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining.",
+     "cn": "一个气喘吁吁的初次参加者在掌声中越过终点，带来的喜悦和顶尖选手大放异彩一样多。",
+     "m": "",
+     "base": "",
+     "note": "",
+     "p": 2,
+     "s": 2
+    },
+    {
+     "text": "stress on",
+     "loc": "2:4",
+     "a": 7,
+     "b": 8,
+     "sent": "The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers.",
+     "cn": "这两个目标混在了一起：比起参与，过度强调成功会让新手望而却步。",
+     "m": "强调",
+     "base": "stress on",
+     "note": "",
+     "p": 2,
+     "s": 4
     }
    ],
-   "qwords": [],
-   "updatedAt": "2026-10-29T16:10:11.896Z"
+   "qwords": [
+    {
+     "key": "21:A:2",
+     "w": "popularity",
+     "raw": "popularity",
+     "n": 21,
+     "part": "A",
+     "sent": "gained great popularity",
+     "cn": ""
+    },
+    {
+     "key": "23:A:3",
+     "w": "talents",
+     "raw": "talents",
+     "n": 23,
+     "part": "A",
+     "sent": "aims at discovering talents",
+     "cn": ""
+    },
+    {
+     "key": "24:B:0",
+     "w": "supervise",
+     "raw": "supervise",
+     "n": 24,
+     "part": "B",
+     "sent": "supervise local sports associations",
+     "cn": ""
+    },
+    {
+     "key": "25:A:0",
+     "w": "tolerant",
+     "raw": "tolerant",
+     "n": 25,
+     "part": "A",
+     "sent": "tolerant",
+     "cn": ""
+    },
+    {
+     "key": "25:D:0",
+     "w": "sympathetic",
+     "raw": "sympathetic",
+     "n": 25,
+     "part": "D",
+     "sent": "sympathetic",
+     "cn": ""
+    }
+   ],
+   "updatedAt": "2026-10-29T16:42:52.994Z"
   }
  },
  "prefs": {
@@ -7503,7 +7739,13 @@
    "expectations": 3,
    "preferences": 1,
    "suburbs": 2,
-   "succeeding": 2
+   "succeeding": 2,
+   "opposition": 1,
+   "trial": 1,
+   "joy": 2,
+   "bidders": 2,
+   "intimidating": 1,
+   "wordy": 1
   },
   "confuse": {
    "intrinsically": [
@@ -8308,7 +8550,30 @@
    "couches": "2026-10-29T16:07:00.941Z",
    "population": "2026-10-29T16:07:59.995Z",
    "fitter": "2026-10-29T16:08:03.096Z",
-   "worse": "2026-10-29T16:09:12.488Z"
+   "worse": "2026-10-29T16:09:12.488Z",
+   "opposition": "2026-10-29T16:13:33.083Z",
+   "halved": "2026-10-29T16:13:55.291Z",
+   "retrospections": "2026-10-29T16:14:15.139Z",
+   "trial": "2026-10-29T16:28:24.719Z",
+   "ethos": "2026-10-29T16:28:51.054Z",
+   "joy": "2026-10-29T16:29:27.651Z",
+   "intimidating": "2026-10-29T16:29:46.575Z",
+   "clapped": "2026-10-29T16:30:17.438Z",
+   "talent": "2026-10-29T16:30:26.873Z",
+   "shining": "2026-10-29T16:30:29.790Z",
+   "bidders": "2026-10-29T16:31:21.868Z",
+   "dual": "2026-10-29T16:31:47.905Z",
+   "absurd": "2026-10-29T16:33:32.271Z",
+   "grassroots": "2026-10-29T16:33:56.974Z",
+   "provision": "2026-10-29T16:35:16.240Z",
+   "successive": "2026-10-29T16:35:28.466Z",
+   "presided": "2026-10-29T16:35:34.669Z",
+   "wordy": "2026-10-29T16:35:57.803Z",
+   "popularity": "2026-10-29T16:37:19.447Z",
+   "faster": "2026-10-29T16:40:16.980Z",
+   "talents": "2026-10-29T16:41:01.067Z",
+   "supervise": "2026-10-29T16:42:37.555Z",
+   "sympathetic": "2026-10-29T16:42:51.825Z"
   },
   "archived": {
    "uccelli": {
@@ -17241,7 +17506,7 @@
      "fitter",
      "bad"
     ],
-    "sessionAt": 1793290216162,
+    "sessionAt": 1793292196760,
     "screenJudgments": {
      "consider": {
       "grade": "known",
@@ -17304,7 +17569,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793290241717
+   "updatedAt": 1793292196760
   },
   "sentenceReview27": {
    "version": 27,
