@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T15:59:57.422Z",
+ "updatedAt": "2026-10-29T16:10:31.544Z",
  "count": 26,
  "attempts": [
   {
@@ -7381,9 +7381,46 @@
      "p": 1,
      "s": 2,
      "sent": "Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches."
+    },
+    {
+     "w": "couches",
+     "raw": "couches.",
+     "p": 1,
+     "s": 2,
+     "sent": "Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches."
+    },
+    {
+     "w": "population",
+     "raw": "population",
+     "p": 1,
+     "s": 3,
+     "sent": "The population would be fitter, healthier and produce more winners."
+    },
+    {
+     "w": "fitter",
+     "raw": "fitter,",
+     "p": 1,
+     "s": 3,
+     "sent": "The population would be fitter, healthier and produce more winners."
     }
    ],
-   "sentences": [],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 1,
+     "text": "The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad."
+    },
+    {
+     "p": 1,
+     "s": 2,
+     "text": "Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches."
+    },
+    {
+     "p": 1,
+     "s": 5,
+     "text": "The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 - but the general population was growing faster."
+    }
+   ],
    "phrases": [
     {
      "text": "set off",
@@ -7397,10 +7434,23 @@
      "note": "",
      "p": 0,
      "s": 0
+    },
+    {
+     "text": "run-up to",
+     "loc": "1:5",
+     "a": 15,
+     "b": 16,
+     "sent": "The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 - but the general population was growing faster.",
+     "cn": "在2012年奥运会前的筹备期，每周参加体育活动的成年人确实增加了近200万，但总人口增长得更快。",
+     "m": "",
+     "base": "",
+     "note": "",
+     "p": 1,
+     "s": 5
     }
    ],
    "qwords": [],
-   "updatedAt": "2026-10-29T15:53:37.257Z"
+   "updatedAt": "2026-10-29T16:10:11.896Z"
   }
  },
  "prefs": {
@@ -8254,7 +8304,11 @@
    "failing": "2026-10-29T15:52:17.102Z",
    "succeeding": "2026-10-29T15:52:25.179Z",
    "pledged": "2026-10-29T15:53:15.251Z",
-   "lever": "2026-10-29T15:53:33.205Z"
+   "lever": "2026-10-29T15:53:33.205Z",
+   "couches": "2026-10-29T16:07:00.941Z",
+   "population": "2026-10-29T16:07:59.995Z",
+   "fitter": "2026-10-29T16:08:03.096Z",
+   "worse": "2026-10-29T16:09:12.488Z"
   },
   "archived": {
    "uccelli": {
@@ -17179,7 +17233,7 @@
      "pledged",
      "lever"
     ],
-    "sessionAt": 1793289470193,
+    "sessionAt": 1793290216162,
     "screenJudgments": {
      "consider": {
       "grade": "known",
@@ -17242,7 +17296,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793289470193
+   "updatedAt": 1793290216162
   },
   "sentenceReview27": {
    "version": 27,
@@ -17348,7 +17402,10 @@
      "2016-3_3_4": "\"Carry a book with you at all times\" can actually work, too - providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down.",
      "2016-4_2_0": "Young people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more public services and a faster pace of life, to agree that couples should be financially secure before getting married or having children, and to maintain that children are best served by two parents working outside the home, the survey found.",
      "2016-4_3_0": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics.",
-     "2016-4_4_0": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations."
+     "2016-4_4_0": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations.",
+     "2017-1_0_1": "The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad.",
+     "2017-1_1_2": "Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches.",
+     "2017-1_1_5": "The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 - but the general population was growing faster."
     },
     "clocks": {
      "notes": {},
@@ -17431,13 +17488,16 @@
       "2016-3_3_4": 0,
       "2016-4_2_0": 0,
       "2016-4_3_0": 0,
-      "2016-4_4_0": 0
+      "2016-4_4_0": 0,
+      "2017-1_0_1": 0,
+      "2017-1_1_2": 0,
+      "2017-1_1_5": 0
      }
     }
    },
-   "current": "2016-2|2:0",
+   "current": "2012-2|0:1",
    "stage": "original",
-   "updatedAt": 1793289585418
+   "updatedAt": 1793290218961
   }
  }
 }
