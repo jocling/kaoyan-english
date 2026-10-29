@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T16:10:31.544Z",
+ "updatedAt": "2026-10-29T16:10:56.340Z",
  "count": 26,
  "attempts": [
   {
@@ -15836,6 +15836,7 @@
      "awake",
      "aware",
      "backdrop",
+     "bad",
      "bargain",
      "baseless",
      "before",
@@ -15918,6 +15919,7 @@
      "correlation",
      "corresponded with",
      "cortina",
+     "couches",
      "could",
      "counsel",
      "counter",
@@ -16021,6 +16023,7 @@
      "figure",
      "file",
      "first-generation",
+     "fitter",
      "flash",
      "flatiron",
      "flattering",
@@ -16292,6 +16295,7 @@
      "political",
      "politically",
      "poll",
+     "population",
      "portray",
      "positively",
      "practical",
@@ -16385,6 +16389,7 @@
      "rival",
      "rose-tint",
      "run counter to",
+     "run-up to",
      "sacred",
      "scale",
      "scary",
@@ -17231,7 +17236,10 @@
      "failing",
      "succeeding",
      "pledged",
-     "lever"
+     "lever",
+     "couches",
+     "fitter",
+     "bad"
     ],
     "sessionAt": 1793290216162,
     "screenJudgments": {
@@ -17296,7 +17304,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793290216162
+   "updatedAt": 1793290241717
   },
   "sentenceReview27": {
    "version": 27,
