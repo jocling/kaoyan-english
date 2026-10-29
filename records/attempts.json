@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T15:05:38.763Z",
+ "updatedAt": "2026-10-29T15:06:26.153Z",
  "count": 26,
  "attempts": [
   {
@@ -7330,6 +7330,27 @@
     }
    ],
    "updatedAt": "2026-10-24T08:53:43.243Z"
+  },
+  "2017-1": {
+   "words": [],
+   "sentences": [],
+   "phrases": [
+    {
+     "text": "set off",
+     "loc": "0:0",
+     "a": 10,
+     "b": 11,
+     "sent": "Every Saturday morning, at 9 am, more than 50,000 runners set off to run 5km around their local park.",
+     "cn": "每周六上午9点，超过5万名跑者会出发，在各自附近的公园跑5公里。",
+     "m": "出发, 开始, 引起, 衬托, 点缀, 抵销, 分开, 划分；[法] 抵销",
+     "base": "set off",
+     "note": "",
+     "p": 0,
+     "s": 0
+    }
+   ],
+   "qwords": [],
+   "updatedAt": "2026-10-29T15:05:56.725Z"
   }
  },
  "prefs": {
