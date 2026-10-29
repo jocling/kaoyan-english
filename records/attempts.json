@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-29T15:57:23.716Z",
+ "updatedAt": "2026-10-29T15:57:47.996Z",
  "count": 26,
  "attempts": [
   {
@@ -17179,7 +17179,7 @@
      "pledged",
      "lever"
     ],
-    "sessionAt": 1793285628141,
+    "sessionAt": 1793289453625,
     "screenJudgments": {
      "consider": {
       "grade": "known",
@@ -17242,7 +17242,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793289430418
+   "updatedAt": 1793289453625
   },
   "sentenceReview27": {
    "version": 27,
