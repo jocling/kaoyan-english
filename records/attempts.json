@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-30T03:29:01.156Z",
+ "updatedAt": "2026-10-30T03:41:09.257Z",
  "count": 26,
  "attempts": [
   {
@@ -8579,7 +8579,8 @@
    "faster": "2026-10-29T16:40:16.980Z",
    "talents": "2026-10-29T16:41:01.067Z",
    "supervise": "2026-10-29T16:42:37.555Z",
-   "sympathetic": "2026-10-29T16:42:51.825Z"
+   "sympathetic": "2026-10-29T16:42:51.825Z",
+   "parkun": "2026-10-30T03:34:44.837Z"
   },
   "archived": {
    "uccelli": {
@@ -17586,7 +17587,7 @@
      "fast",
      "some"
     ],
-    "sessionAt": 1793292196760,
+    "sessionAt": 1793331667944,
     "screenJudgments": {
      "consider": {
       "grade": "known",
@@ -17649,7 +17650,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1792832657415
    },
-   "updatedAt": 1793330937934
+   "updatedAt": 1793331667944
   },
   "sentenceReview27": {
    "version": 27,
@@ -17855,14 +17856,22 @@
   "sent36": {
    "states": {
     "2016-2|2:0": {
-     "chunks": {},
+     "chunks": {
+      "0": "修饰",
+      "1": "修饰",
+      "2": "主句",
+      "3": "从句",
+      "4": "从句",
+      "5": "从句",
+      "6": "修饰"
+     },
      "roles": [],
      "chunkChecked": false,
      "roleChecked": false,
-     "updatedAt": ""
+     "updatedAt": "2026-10-30T03:36:36.351Z"
     }
    },
-   "updatedAt": ""
+   "updatedAt": "2026-10-30T03:36:36.351Z"
   }
  }
 }
