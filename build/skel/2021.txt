@@ -1,0 +1,742 @@
+# 2021-1|0:0
+type 主从复合句｜定语从句内嵌条件与地点定语从句
+chunks "Reskilling" is something〔主〕 that sounds like a buzzword but is actually a requirement〔C1〕 if we plan to have a future〔C2〕 where a lot of would-be workers do not get left behind.〔C3〕
+main 主语:"Reskilling" | 谓语:is | 表语:something
+gist 技能重塑是一种实际必需，而非仅仅流行语
+C1 定语从句 | 修饰 something | that | 前面是不定代词something，后面sounds…与is…都缺主语；that代指something，两个谓语共用关系词主语 | 主语:that | 谓语:sounds | 表语:like a buzzword | 谓语:is | 表语:a requirement
+C2 条件状语从句 in C1 | 限定何时是必需 | if | 前面is a requirement已完整，if后we plan…主谓和补足完整；整块给出希望劳动者不掉队的条件 | 主语:we | 谓语:plan | 宾语:to have a future
+C3 定语从句 in C2 | 修饰 future | where | 前面是抽象处境名词future，后面workers do not get left behind主谓完整；where作处境状语，相当于in which | 主语:a lot of would-be workers | 谓语:do not get left behind
+mod actually → is | 评述状语 | 实际上是必需
+point would-be修饰workers，表示准备进入劳动力市场的人；get left behind是被落下，不是workers主动离开。
+
+# 2021-1|0:1
+type 主从复合句｜省略that的宾语从句；where定语从句；as倒装比较补充
+chunks We know〔主〕 we are moving into a period〔C1〕 where the jobs〔C2〕 in demand〔C2修〕 will change rapidly,〔C2〕 as will the requirements〔C3〕 of the jobs〔C3修〕 that remain.〔C4〕
+main 主语:We | 谓语:know | 宾语:C1
+gist 我们知道，正在进入岗位及岗位要求快速变化的时期
+C1 宾语从句 | 作know的宾语 | （省略 that） | 前面know缺知道的内容，后面we are moving…主谓完整，省略that引出宾语内容 | 主语:we | 谓语:are moving
+C2 定语从句 in C1 | 修饰 period | where | 前面period表示时期处境，后面the jobs will change主谓完整；where作处境状语，关联这个时期 | 主语:the jobs | 谓语:will change
+C3 比较状语从句 in C2 | 说明岗位要求也会同样变化 | as | 前面jobs will change已完整，as后will置于主语requirements前，省略change rapidly；说明后者也如此 | 主语:the requirements | 谓语:will
+C4 定语从句 in C3 | 修饰 jobs | that | 前面是名词jobs，后面remain缺主语；that代指jobs作主语 | 主语:that | 谓语:remain
+mod into a period → moving | 介词补足 | 进入一个时期
+mod in demand → jobs | 后置定语 | 有需求的岗位
+mod rapidly → change | 方式状语 | 快速变化
+mod of the jobs → requirements | 介词短语作定语 | 岗位的要求，后面再限定为保留下来的岗位
+point as will…不是另一个主句的疑问倒装；它表示要求也会变化，will后省略相同动作。
+
+# 2021-1|0:2
+type 主从复合句｜that宾语从句
+chunks Research〔主〕 by the World Economic Forum〔修〕 finds〔主〕 that on average 42 per cent of the"core skills"within job roles will change〔C1〕 by 2022.〔C1修〕
+main 主语:Research | 谓语:finds | 宾语:C1
+gist 研究发现，到2022年岗位中平均42%的核心技能将改变
+C1 宾语从句 | 作finds宾语 | that | 前面finds缺研究发现的内容，后面百分比主语加will change主谓完整；that只连接，不作成分 | 主语:42 per cent of the"core skills"within job roles | 谓语:will change
+mod by the World Economic Forum → Research | 介词短语作定语 | 世界经济论坛所做的研究
+mod on average → C1 | 范围状语 | 平均而言
+mod by 2022 → change | 时间状语 | 到2022年为止的变化预期
+point 原文the"core skills"within存在词间粘连，按现有原文保留；百分比统计对象为岗位的核心技能，不是42%的工作岗位消失。
+
+# 2021-1|0:3
+type 简单句｜系表结构
+chunks That is a very short timeline.〔主〕
+main 主语:That | 谓语:is | 表语:a … timeline
+gist 这给技能更新留下的时间很短
+mod very short → timeline | 形容词定语 | 时间窗口非常短
+
+# 2021-1|1:0
+type 主从复合句｜who宾语从句作of宾语
+chunks The question〔主〕 of〔修〕 who should pay for reskilling〔C1〕 is a thorny one.〔主〕
+main 主语:The question | 谓语:is | 表语:a thorny one
+gist 谁为技能重塑付钱是个棘手问题
+C1 宾语从句 | 作of的宾语，说明问题内容 | who | 前面介词of需要宾语，后面should pay缺主语；who是疑问代词，作从句主语，不是修饰人的定语从句 | 主语:who | 谓语:should pay
+mod for reskilling → pay | 介词补足 | 为技能重塑付费
+point 主句中心是question，不是离is更近的reskilling。
+
+# 2021-1|1:1
+type 主从复合句｜不定式并列表语；两个whose定语从句
+chunks For individual companies,〔修〕 the temptation is always to let go of workers〔主〕 whose skills are no longer in demand〔C1〕 and replace them with those〔主〕 whose skills are.〔C2〕
+main 主语:the temptation | 谓语:is | 表语:to let go of workers … replace them with those
+gist 公司很容易想解雇技能过时的人，再换成技能符合需求的人
+C1 定语从句 | 修饰workers | whose | 前面是workers，后面skills are…成分完整但缺所属限定；whose修饰skills，表示这些工人的技能 | 主语:whose skills | 谓语:are | 表语:in demand
+C2 定语从句 | 修饰those所指的工人 | whose | 前面those代指workers，后面skills are省略重复表语in demand；whose限定skills，说明另一批工人的技能 | 主语:whose skills | 谓语:are
+mod For individual companies → 整句 | 观察范围状语 | 对单个企业来说
+mod always → is | 频率状语 | 总有这样的诱惑
+mod no longer → are | 时间否定状语 | 不再处于有需求的状态
+point let go of和replace同在不定式表语中，不是两个主句谓语；第二个are后省略in demand。
+
+# 2021-1|1:2
+type 简单句｜部分否定
+chunks That does not always happen.〔主〕
+main 主语:That | 谓语:does not … happen
+gist 企业并不总是选择解雇再招聘
+mod always → happen | 频率状语 | not always表示不总是，而非总是不
+point That回指前句的解雇替换策略，下句提供再培训的反例。
+
+# 2021-1|1:3
+type 主从复合句｜who定语从句；rather than连接选择
+chunks AT&T is often given〔主〕 as the gold standard of a company〔修〕 who decided to do a massive reskilling program rather than go with a fire-and-hire strategy.〔C1〕
+main 主语:AT&T | 谓语:is … given
+gist AT&T常被作为选择大规模再培训的企业典范
+C1 定语从句 | 修饰company | who | 前面company指企业组织，原文用who；后面decided缺主语，who代指company，而非前面的standard | 主语:who | 谓语:decided | 宾语:to do a massive reskilling program … go with a fire-and-hire strategy
+mod often → given | 频率状语 | 经常被举为典范
+mod as the gold standard of a company → given | 评价补足 | 被作为公司的优秀标准或典范
+point rather than对照再培训与解雇再招，后面的go和to do形成不定式内部的选择，不独立作谓语。
+
+# 2021-1|1:4
+type 简单句｜过去完成时＋不定式宾语
+chunks Other companies〔主〕 including Amazon and Disney〔修〕 had also pledged to create their own plans.〔主〕
+main 主语:Other companies | 谓语:had … pledged | 宾语:to create their own plans
+gist 亚马逊、迪士尼等也承诺制定自己的计划
+mod including Amazon and Disney → Other companies | 举例说明 | 其他公司包括亚马逊和迪士尼
+mod also → pledged | 添加状语 | 这些企业也有承诺
+point had pledged才是限定谓语；to create给出承诺内容。
+
+# 2021-1|1:5
+type 主从复合句｜when状语从句
+chunks When the skills mismatch is in the broader economy though,〔C1〕 the focus usually turns to government〔主〕 to handle.〔修〕
+main 主语:the focus | 谓语:turns
+C1 时间兼条件状语从句 | 说明何时转向政府 | When | When后the skills mismatch is…主系表完整，前面没有时间名词；整块提供技能错配扩大到整个经济的情形 | 主语:the skills mismatch | 谓语:is | 表语:in the broader economy
+gist 技能错配蔓延到更广经济时，人们通常转向政府处理
+mod though → C1 | 转折连接语 | though在此是句中副词“不过”，不另引从句
+mod usually → turns | 频率状语 | 通常如此
+mod to government → turns | 介词补足 | 焦点转到政府
+mod to handle → government | 不定式补充说明 | 交由政府处理技能错配，处理对象依上下文省略
+
+# 2021-1|1:6
+type 主从复合句｜并列谓语；两个where定语从句
+chunks Efforts〔主〕 in Canada and elsewhere〔修〕 have been arguably languid at best,〔主〕 and〔连〕 have given us a situation〔主〕 where we frequently hear of employers begging for workers,〔C1〕 even at times and in regions〔C1修〕 where unemployment is high.〔C2〕
+main 主语:Efforts | 谓语:have been | 表语:languid || &and || 谓语:have given | 间接宾语:us | 直接宾语:a situation
+gist 加拿大等地行动迟缓，造成一边高失业、一边企业招不到人的局面
+C1 定语从句 | 修饰situation | where | 前面situation是处境名词，后面we hear of…主谓及补足完整；where作处境状语，相当于in which | 主语:we | 谓语:hear of | 宾语:employers begging for workers
+C2 定语从句 in C1 | 修饰times和regions组成的时空背景 | where | 前面是times and regions，后面unemployment is high主系表完整；where着重关联regions，整体说明这些时间地点的失业情况 | 主语:unemployment | 谓语:is | 表语:high
+mod in Canada and elsewhere → Efforts | 地点定语 | 加拿大及其他地区的努力
+mod arguably → languid | 评述状语 | 可以说行动迟缓
+mod at best → languid | 限定状语 | 充其量也只能这样评价
+mod frequently → hear | 频率状语 | 经常听到
+mod begging for workers → employers | 现在分词作后置定语 | 正在求着招工的雇主；begging不是主句谓语
+mod even at times and in regions → hear | 时间地点状语 | 甚至在失业率高的时期和地区也是如此
+
+# 2021-1|2:0
+type 简单句｜背景状语前置
+chunks With the pandemic,〔修〕 unemployment is very high indeed.〔主〕
+main 主语:unemployment | 谓语:is | 表语:high
+gist 疫情之下失业率确实非常高
+mod With the pandemic → is | 背景状语 | 在疫情背景下
+mod very → high | 程度状语 | 非常高
+mod indeed → 整句 | 强调状语 | 的确如此
+
+# 2021-1|2:1
+type 并列句｜失业率与用工短缺同时出现
+chunks In February,at 3.5 per cent and 5.5 per cent respectively,〔修〕 unemployment rates〔主〕 in Canada and the United States〔修〕 were at generational lows〔主〕 and〔连〕 worker shortages were everywhere.〔主〕
+main 主语:unemployment rates | 谓语:were | 表语:at generational lows || &and || 主语:worker shortages | 谓语:were | 表语:everywhere
+gist 2月失业率处于很低水平，同时到处都缺工
+mod In February,at 3.5 per cent and 5.5 per cent respectively → were | 时间与数值补充 | 原文给出2月及两个失业率；February,at因缺空格粘连，按原文整体定位
+mod in Canada and the United States → rates | 地点定语 | 加拿大和美国的失业率
+point 原文两国名称顺序和数据依原样保留，不在此凭常识交换；and后出现新主语worker shortages，是并列句。
+
+# 2021-1|2:2
+type 并列复合句｜although让步从句，原文cent,and粘连
+chunks As of May,〔修〕 those rates had spiked up to 13.3 per cent and 13.7 per cent,and〔主〕 although many worker shortages had disappeared,〔C1〕 not all had done so.〔主〕
+main 主语:those rates | 谓语:had spiked up || 主语:not all | 谓语:had done
+gist 到5月失业率激增，尽管许多缺工现象消失，却并非全部消失
+C1 让步状语从句 | 限定not all had done so | although | although后many worker shortages had disappeared主谓完整；整块承认许多短缺已消失，与并非全部消失形成让步 | 主语:many worker shortages | 谓语:had disappeared
+mod As of May → had spiked up | 时间状语 | 到5月时
+mod to 13.3 per cent and 13.7 per cent,and → had spiked up | 数值补足 | 激增到两个百分比；末尾and因原数据粘连不能独立切开
+mod so → had done | 动作替代 | done so替代disappeared，all指所有worker shortages
+point not all是部分否定，仍存在某些岗位缺工；原文cent,and的粘连不改变and连接两分句的关系。
+
+# 2021-1|2:3
+type 主从复合句｜that宾语从句
+chunks In the medical field,〔修〕 to take an obvious example,〔修〕 the pandemic meant〔主〕 that there were still clear shortages〔C1〕 of doctors, nurses and other medical personnel.〔C1修〕
+main 主语:the pandemic | 谓语:meant | 宾语:C1
+gist 以医疗为例，疫情意味着仍有明显的医护短缺
+C1 宾语从句 | 作meant宾语 | that | 前面meant缺意味着什么，后面there were shortages是完整存在句；that不作内部成分，连接整块内容 | 谓语:were | 主语:clear shortages
+mod In the medical field → meant | 范围状语 | 医疗领域
+mod to take an obvious example → 整句 | 插入说明 | 举一个明显例子
+mod still → were | 时间状语 | 仍存在
+mod of doctors, nurses and other medical personnel → shortages | 介词短语作定语 | 缺少医生、护士及其他医务人员
+
+# 2021-1|3:0
+type 主从复合句｜like引出内容，no matter who让步从句
+chunks Of course,〔修〕 it is not〔主〕 like you can take an unemployed waiter and train him to be a doctor〔C1〕 in a few weeks,〔C1修〕 no matter who pays for it.〔C2〕
+main 主语:it | 谓语:is not | 表语:C1
+gist 不可能几周内把失业服务员培训成医生，无论谁付钱
+C1 表语从句 | 补足like所引出的情境 | like | 前面it is not like引出一种被否定的情境，后面you can take…and train…主谓宾完整；内容从句接在like之后 | 主语:you | 谓语:can take … train | 宾语:an unemployed waiter … him
+C2 让步状语从句 | 不论付费者是谁 | no matter who | 前面培训情境已完整，后面pays for it缺主语；who作主语，no matter标明无条件让步 | 主语:who | 谓语:pays
+mod Of course → 整句 | 评述状语 | 当然如此
+mod to be a doctor → him | 不定式作宾补 | 被训练成为医生的是him所指的服务员
+mod in a few weeks → train | 时间状语 | 仅几周内
+mod for it → pays | 介词补足 | 为这项培训付费
+point 主句的it是形式化情境指代；原文like相当于as if引出情境，不是与waiter相连的定语。
+
+# 2021-1|3:1
+type 并列复合句｜even if让步从句；doing so作主语
+chunks But〔连〕 even if you cannot close that gap,〔C1〕 maybe〔修〕 you can close others,〔主〕 and〔连〕 doing so would be to the benefit of all concerned.〔主〕
+main 主语:you | 谓语:can close | 宾语:others || &and || 主语:doing so | 谓语:would be | 表语:to the benefit of all concerned
+gist 即使不能弥合某个技能缺口，也能弥合其他缺口，让相关各方受益
+C1 让步状语从句 | 承认某个缺口难弥合 | even if | even if后you cannot close that gap主谓宾完整；整块让步，不作为close的宾语 | 主语:you | 谓语:cannot close | 宾语:that gap
+mod maybe → can close | 可能性状语 | 也许可以
+mod concerned → all | 后置定语 | 所有相关的人
+point doing so整体是第二主句的主语；others指其他技能缺口，不是其他劳动者。
+
+# 2021-1|3:2
+type 主从复合句｜冒号后例证；when省略从句与that定语从句
+chunks That seems to be the case〔主〕 in Sweden:〔修〕 When forced to furlough 90 per cent of their cabin staff,〔C1〕 Scandinavian Airlines decided to start up a short retraining program〔主〕 that reskilled the laid-off workers to support hospital staff.〔C2〕
+main 主语:That | 谓语:seems | 表语:to be the case || 主语:Scandinavian Airlines | 谓语:decided | 宾语:to start up a short retraining program
+gist 瑞典的例子说明可再培训停工航空员工，转而支持医院
+C1 省略的时间状语从句 | 说明决定发生的背景 | When | When后forced缺主语和be，省略了与主句相同的Scandinavian Airlines及was；完整义为航空公司被迫安排员工停工时 | 谓语:forced | 主语补足语:to furlough 90 per cent of their cabin staff
+C2 定语从句 | 修饰program | that | 前面是program，后面reskilled缺主语；that代指培训项目作主语 | 主语:that | 谓语:reskilled | 宾语:the laid-off workers
+mod in Sweden → case | 地点限定 | 在瑞典是这种情况
+mod to support hospital staff → workers | 不定式作宾补 | 再培训使停工员工能够支援医护人员，而非训练成医生
+
+# 2021-1|3:3
+type 简单句｜共用主语的并列谓语
+chunks The effort was a collective one〔主〕 and〔连〕 involved other companies as well as a Swedish university.〔主〕
+main 主语:The effort | 谓语:was | 表语:a collective one || &and || 谓语:involved | 宾语:other companies … a Swedish university
+gist 这是多方参与的集体行动，包括其他企业及一所瑞典大学
+point and后没有新主语，was与involved共用The effort；as well as连接involved的两个宾语对象。
+
+# 2021-2|0:0
+type 主从复合句｜with背景结构中包含that同位语从句
+chunks With the global population predicted to hit close to 10 billion by 2050, and forecasts〔修〕 that agricultural production〔C1〕 in some regions〔C1修〕 will need to nearly double〔C1〕 to keep pace,〔C1修〕 food security is increasingly making headlines.〔主〕
+main 主语:food security | 谓语:is … making | 宾语:headlines
+gist 粮食安全日益成为新闻焦点
+C1 同位语从句 | 解释forecasts的内容 | that | 前面是预测名词forecasts，后面production will need to double主谓完整，不缺主宾；that不充当内部成分而说明预测内容 | 主语:agricultural production | 谓语:will need to … double
+mod With the global population predicted to hit close to 10 billion by 2050, and forecasts → 整句 | 背景状语 | with带出人口预测与产量预测两项背景；predicted为人口的被动补足，非主句谓语
+mod in some regions → production | 范围定语 | 部分地区的农业产量
+mod to keep pace → double | 不定式作目的状语 | 增产以跟上人口需求
+mod increasingly → making | 趋势状语 | 日益成为头条
+point 主句从food security开始；前面with框架虽很长，不能把population当作is making的主语。
+
+# 2021-2|0:1
+type 简单句｜系表结构，冒号解释原因
+chunks In the UK,〔修〕 it has become a big talking point〔主〕 recently too,〔修〕 for a rather particular reason: Brexit.〔修〕
+main 主语:it | 谓语:has become | 表语:a … talking point
+gist 粮食安全最近在英国也成为热议话题，原因是脱欧
+mod In the UK → has become | 地点状语 | 在英国
+mod big → talking point | 定语 | 重要的话题
+mod recently too → has become | 时间与添加状语 | 最近也成为话题
+mod for a rather particular reason: Brexit → has become | 原因状语 | 冒号后Brexit具体说明原因
+point it回指food security，不是形式主语。
+
+# 2021-2|1:0
+type 简单句｜被动结构与不定式定语
+chunks Brexit is seen〔主〕 by some〔修〕 as an opportunity〔修〕 to reverse a recent trend〔修〕 towards the UK importing food.〔修〕
+main 主语:Brexit | 谓语:is seen | 主语补足语:an opportunity
+gist 有人把脱欧视为逆转食品进口趋势的机会
+mod by some → seen | 被动施事 | 一些人这样认为，不是作者认同
+mod as an opportunity → seen | 评价补足 | be seen as表示被看作
+mod to reverse a recent trend → opportunity | 不定式作后置定语 | 逆转近期趋势的机会
+mod towards the UK importing food → trend | 介词短语作定语 | 朝向英国进口食品的趋势；the UK是importing的逻辑主语
+
+# 2021-2|1:1
+type 主从复合句｜food后省略that的定语从句
+chunks The country produces only about 60 per cent〔主〕 of the food〔修〕 it eats,〔C1〕 down from almost three-quarters〔修〕 in the late 1980s.〔修〕
+main 主语:The country | 谓语:produces | 宾语:only about 60 per cent
+gist 英国自产食品仅占所吃食品的约60%，低于过去近四分之三
+C1 定语从句 | 修饰food | （省略 that） | 前面是名词food，后面it eats缺宾语；省略的关系词代指food，作eats的宾语 | 主语:it | 谓语:eats
+mod of the food → 60 per cent | 介词短语作补足 | 明确百分比的统计对象是消费的食品
+mod down from almost three-quarters → 60 per cent | 比较补充 | 从近四分之三降至如今约60%
+mod in the late 1980s → three-quarters | 时间限定 | 近四分之三是20世纪80年代末的水平
+
+# 2021-2|1:2
+type 简单句｜插入引述语隔开主语与谓语
+chunks A move back to self-sufficiency,the argument goes,〔主〕 would boost the farming industry, political sovereignty and even the nation's health.〔主〕
+main 主语:A move | 谓语:would boost | 宾语:the farming industry, political sovereignty … the nation's health
+gist 支持者认为回归自给自足会促进农业、主权和国民健康
+mod back to self-sufficiency,the argument goes → move | 插入说明及方向定语 | back to self-sufficiency修饰move；the argument goes是引述语“这种论点认为”，原文缺空格粘连，无法独立切分
+point 真正主句是A move would boost…；the argument goes不是would boost的主语。原文self-sufficiency,the粘连，按原样保留，结构在此说明。
+
+# 2021-2|1:3
+type 并列结构｜省略主语的评论与疑问句转折
+chunks Sounds great〔修〕 - but〔连〕 how feasible is this vision?〔主〕
+main 主语:this vision | 谓语:is | 表语:feasible
+gist 这个愿景听起来很好，但究竟有多可行？
+mod Sounds great → 整句 | 省略的评价句 | 省略主语it，完整意思是“听起来很好”，先让步再追问
+mod how → feasible | 程度疑问 | 问的是可行程度，不是询问愿景是什么
+point 疑问句中is在this vision之前，分析主干时仍对应this vision is feasible。
+
+# 2021-2|2:0
+type 简单句｜报告来源状语很长
+chunks According to a report on UK food production from the University of Leeds,UK,〔修〕 85 per cent of the country's total land area is associated〔主〕 with meat and dairy production.〔修〕
+main 主语:85 per cent of the country's total land area | 谓语:is associated
+gist 报告说英国85%的土地与肉类乳制品生产相关
+mod According to a report on UK food production from the University of Leeds,UK → 整句 | 依据状语 | 来源为英国利兹大学的食品生产报告
+mod with meat and dairy production → associated | 介词补足 | be associated with表示与肉奶生产相关
+point 85%是土地占比，不是肉奶消费自给率；Leeds,UK是原文粘连，不改其字元。
+
+# 2021-2|2:1
+type 并列复合句｜what宾语从句；动名词短语作第二句主语
+chunks That supplies 80 per cent〔主〕 of〔修〕 what is consumed,〔C1〕 so〔连〕 even covering the whole country in livestock farms wouldn't allow us to cover all our meat and dairy needs.〔主〕
+main 主语:That | 谓语:supplies | 宾语:80 per cent || &so || 主语:covering the whole country in livestock farms | 谓语:wouldn't allow | 宾语:us | 宾补:to cover all our meat and dairy needs
+gist 现有土地只能供应80%的肉奶，即便全国都养牲畜也无法完全自给
+C1 宾语从句 | 作of的宾语 | what | 前面介词of需要宾语，后面is consumed缺主语；what作主语，整块指被消费的肉奶食品 | 主语:what | 谓语:is consumed
+mod even → covering | 强调限定 | 即使采取全国养殖这样极端的做法
+point covering…整体是动名词主语，限定谓语是wouldn't allow；That指前文用于肉奶生产的土地所形成的产出。
+
+# 2021-2|3:0
+type 并列句｜there be与转折分句
+chunks There are many caveats to those figures,but〔主〕 they are still grave.〔主〕
+main 谓语:are | 主语:many caveats || 主语:they | 谓语:are | 表语:grave
+gist 这些数字有不少限制条件，但呈现的形势仍然严峻
+mod to those figures,but → caveats | 介词补足及转折连接 | caveats针对这些数字，末尾but属于后面转折；原文figures,but缺空格而粘连
+mod still → grave | 时间或让步状语 | 即使有条件限制仍然严峻
+point they回指figures；原文figures,but无法逐词拆开，语法上but连接两个分句，不是figures的一部分。
+
+# 2021-2|3:1
+type 简单句｜need后的并列不定式；meaning补充结果
+chunks To become much more self-sufficient,〔修〕 the UK would need to drastically reduce its consumption〔主〕 of animal foods,〔修〕 and probably also farm more intensively〔主〕 - meaning fewer green fields and more factory-style production.〔修〕
+main 主语:the UK | 谓语:would need | 宾语:to … reduce its consumption … farm
+gist 为提高自给率，英国需减少动物食品消费并可能更集约生产
+mod To become much more self-sufficient → need | 不定式作目的状语 | 为了显著提高自给程度
+mod of animal foods → consumption | 介词短语作定语 | 动物性食品消费
+mod drastically → reduce | 程度状语 | 大幅减少
+mod probably also → farm | 情态及添加状语 | 可能还需要另一措施
+mod more intensively → farm | 方式状语 | 更集约地生产
+mod meaning fewer green fields and more factory-style production → 整句 | 现在分词作结果补充 | 集约化意味着绿地减少和工厂式生产增多
+point reduce与farm共同处于need的不定式宾语内部，不是两个独立主句谓语。
+
+# 2021-2|4:0
+type 简单句｜动名词短语作主语
+chunks But〔连〕 switching to a mainly plant-based diet wouldn't help.〔主〕
+main 主语:switching to a mainly plant-based diet | 谓语:wouldn't help
+gist 但转为以植物为主的饮食也解决不了自给问题
+point switching…是整个主语，wouldn't help才带时态；but转向种植业的自然条件限制。
+
+# 2021-2|4:1
+type 主从复合句｜why定语从句；冒号后解释原因
+chunks There is a good reason〔主〕 why the UK is dominated〔C1〕 by animal husbandry:〔C1修〕 most of its terrain doesn't have the right soil or climate〔主〕 to grow crops on a commercial basis.〔修〕
+main 谓语:is | 主语:a good reason || 主语:most of its terrain | 谓语:doesn't have | 宾语:the right soil or climate
+gist 英国以畜牧业为主有原因：多数土地缺少商业种植作物的条件
+C1 定语从句 | 修饰reason | why | 前面reason表示原因，后面the UK is dominated主谓完整；why作原因状语，关联前面的reason | 主语:the UK | 谓语:is dominated
+mod by animal husbandry → dominated | 被动结构施事说明 | 由畜牧业占主导
+mod to grow crops on a commercial basis → soil or climate | 不定式作后置定语 | 用于商业规模种植作物所需要的土壤或气候
+point most of its terrain是数量结构，“大部分地形土地”作主语，不把terrain后的doesn't误挂给UK。
+
+# 2021-2|4:2
+type 主从复合句｜most of which非限制性定语从句
+chunks Just 25 per cent of the country's land is suitable〔主〕 for crop-growing,〔修〕 most of which is already occupied〔C1〕 by arable fields.〔C1修〕
+main 主语:Just 25 per cent of the country's land | 谓语:is | 表语:suitable
+gist 仅四分之一土地适宜种植，其中大多已经是耕地
+C1 非限制性定语从句 | 补充适种土地中大部分已被利用 | which | 前面指25%这一适合种植的土地，后面most of which整体作主语，is occupied缺主语；which作of宾语，和most构成分量关系 | 主语:most of which | 谓语:is … occupied
+mod for crop-growing → suitable | 形容词补足 | 适合种植作物
+mod already → occupied | 时间状语 | 已经在被使用，不是仍有大片闲置地
+mod by arable fields → occupied | 被动结构补充 | 已作为耕地占用
+
+# 2021-2|4:3
+type 主从复合句｜even if条件让步中嵌which定语从句
+chunks Even if we converted all the suitable land to fields of fruit and veg〔C1〕 - which would involve taking out all the nature reserves and removing thousands of people from their homes〔C2〕 - we would achieve only a 30 per cent boost〔主〕 in crop production.〔修〕
+main 主语:we | 谓语:would achieve | 宾语:only a 30 per cent boost
+gist 即使付出破坏保护区和搬迁的代价，作物增产也只有30%
+C1 让步状语从句 | 提出极端假设 | Even if | Even if后we converted land to fields主谓宾完整；整块是假设条件下的让步，不是说已经实施 | 主语:we | 谓语:converted | 宾语:all the suitable land
+C2 非限制性定语从句 in C1 | 指代改造全部适种土地这件事 | which | 前面是整个改地行为，后面would involve缺主语；which代指该行为作主语，不只指最近的veg | 主语:which | 谓语:would involve | 宾语:taking out all the nature reserves … removing thousands of people from their homes
+mod to fields of fruit and veg → converted | 介词补足 | 将土地改成种果蔬的田地
+mod in crop production → boost | 范围定语 | 作物产量的增长幅度
+point 两个doing短语是involve的并列宾语；30%是增产幅度，不是果蔬需求自给率。
+
+# 2021-2|5:0
+type 并列句｜过去分词定语；so连接结果
+chunks Just 23 per cent of the fruit and vegetables〔主〕 consumed in the UK〔修〕 are currently home-grown,〔主〕 so〔连〕 even with the most extreme measures〔修〕 we could meet only 30 per cent〔主〕 of our fresh produce needs.〔修〕
+main 主语:Just 23 per cent of the fruit and vegetables | 谓语:are | 表语:home-grown || &so || 主语:we | 谓语:could meet | 宾语:only 30 per cent
+gist 果蔬自产率只有23%，极端措施下也仅能满足30%的需求
+mod consumed in the UK → fruit and vegetables | 过去分词作后置定语 | 在英国被消费的果蔬
+mod currently → are | 时间状语 | 当前的自给水平
+mod even with the most extreme measures → could meet | 让步背景状语 | 即便动用最极端的措施
+mod of our fresh produce needs → 30 per cent | 介词短语作补足 | 需求的30%，不能读成增产30%
+
+# 2021-2|5:1
+type 主从复合句｜before状语从句与that定语从句
+chunks That is〔主〕 before we look for the space〔C1〕 to grow the grains, sugars, seeds and oils〔C1修〕 that provide us with the vast bulk〔C2〕 of our current calorie intake.〔C2修〕
+main 主语:That | 谓语:is | 表语:C1
+gist 这还未考虑为提供大量热量的谷物等作物寻找种植空间
+C1 时间状语从句 | 位于is后说明计算尚未计入的阶段 | before | 前面That is需要说明此估算的阶段，before后we look for the space主谓宾完整；整块表达尚未考虑另一需求之前 | 主语:we | 谓语:look for | 宾语:the space
+C2 定语从句 in C1 | 修饰grains, sugars, seeds and oils | that | 前面是并列食物名词，后面provide us…缺主语；that代指整组食物作主语 | 主语:that | 谓语:provide | 宾语:us
+mod to grow the grains, sugars, seeds and oils → space | 不定式作后置定语 | 用于种植这些食物的空间
+mod with the vast bulk → provide | 介词补足 | provide us with…，向我们提供大量热量
+mod of our current calorie intake → bulk | 介词短语作定语 | 当前热量摄入的绝大部分
+point That回指此前的自给率推算；不是要人们减少热量摄入。
+
+# 2021-3|0:0
+type 主从复合句｜when状语从句与that定语从句
+chunks When Microsoft bought task management app Wunderlist and mobile calendar Sunrise〔C1〕 in 2015,it〔C1修〕 picked two newcomers〔主〕 that were attracting considerable buzz〔C2〕 in Silicon Valley.〔C2修〕
+main 主语:2015,it | 谓语:picked | 宾语:two newcomers
+gist 微软选中了两个在硅谷备受关注的应用新秀
+C1 时间状语从句 | 说明收购的时间情境 | When | When后Microsoft bought两个应用主谓宾完整，主句谓语在后面的picked；When引出时间背景，不修饰名词 | 主语:Microsoft | 谓语:bought | 宾语:task management app Wunderlist … mobile calendar Sunrise
+C2 定语从句 | 修饰newcomers | that | 前面是newcomers，后面were attracting缺主语；that代指两家新秀企业作主语 | 主语:that | 谓语:were attracting | 宾语:considerable buzz
+mod in 2015,it → bought | 时间状语及粘连主语说明 | 时间状语本应到2015结束；逗号后的it是picked的主语，但原文2015,it粘成一词，无法独立定位
+mod in Silicon Valley → attracting | 地点状语 | 在硅谷引起关注
+point 原文2015,it缺空格，主干栏将粘连词元整体列为主语定位；语法上主句是it picked two newcomers，2015并非主语的一部分。
+
+# 2021-3|0:1
+type 并列句｜but连接两种技术地位；过去分词定语
+chunks Microsoft's own Office dominates the market〔主〕 for "productivity" software,〔修〕 but〔连〕 the start-ups represented a new wave〔主〕 of technology〔修〕 designed from the ground up for the smartphone world.〔修〕
+main 主语:Microsoft's own Office | 谓语:dominates | 宾语:the market || &but || 主语:the start-ups | 谓语:represented | 宾语:a new wave
+gist Office主宰生产力软件市场，而新公司代表面向手机的新技术潮流
+mod for "productivity" software → market | 介词短语作定语 | 生产力软件的市场
+mod of technology → wave | 介词短语作定语 | 技术的新潮流
+mod designed from the ground up for the smartphone world → technology | 过去分词作后置定语 | 从零起点为智能手机环境设计的技术
+point designed没有助动词，修饰technology，不是第三个限定谓语。
+
+# 2021-3|1:0
+type 主从复合句｜after状语从句内含宾语从句
+chunks Both apps,〔主〕 however,〔修〕 were later scrapped,〔主〕 after Microsoft said〔C1〕 it had used their best features〔C2〕 in its own products.〔C2修〕
+main 主语:Both apps | 谓语:were … scrapped
+gist 微软说已利用两款应用的优点，之后将它们停止运营
+C1 时间状语从句 | 说明停止运营发生在何后 | after | 前面apps were scrapped主谓完整，after后Microsoft said加内容从句结构完整；整块说明时间先后 | 主语:Microsoft | 谓语:said | 宾语:C2
+C2 宾语从句 in C1 | 作said宾语 | （省略 that） | 前面said缺说的内容，后面it had used their best features主谓宾完整，省略that引出内容 | 主语:it | 谓语:had used | 宾语:their best features
+mod however → 整句 | 转折连接语 | 与两款应用先前受到关注形成转折
+mod later → scrapped | 时间状语 | 后来停止运营
+mod in its own products → used | 范围状语 | 将特色用于微软自家产品
+
+# 2021-3|1:1
+type 主从复合句｜making结果补充，that定语从句
+chunks Their teams〔主〕 of engineers〔修〕 stayed on,making them two of the many " acqui-hires"that〔修〕 the biggest companies have used〔C1〕 to feed their great hunger for tech talent.〔C1修〕
+main 主语:Their teams | 谓语:stayed
+gist 工程师团队留任，使这些收购成为巨头获取人才的收购式招聘
+C1 定语从句 | 修饰acqui-hires | that | 前面是收购式招聘名词，关系词that与前词粘连；后面companies have used缺宾语，that代指这类收购作used的宾语 | 主语:the biggest companies | 谓语:have used
+mod of engineers → teams | 介词短语作定语 | 工程师团队
+mod on,making them two of the many " acqui-hires"that → stayed | 结果补充及词元限制 | on属于stayed on，making引出结果“使它们成为收购式招聘”；原文on,making及acqui-hires"that均粘连，无法独立分开定位
+mod to feed their great hunger for tech talent → used | 不定式作目的状语 | 利用收购满足技术人才需求
+point 主句谓语是stayed on；making本身不带时态。因词元粘连，限定谓语栏只独立定位stayed，两个边界的真实关系在此说明。
+
+# 2021-3|2:0
+type 主从复合句｜that定语从句
+chunks To Microsoft's critics,the〔修〕 fates〔主〕 of Wunderlist and Sunrise〔修〕 are examples〔主〕 of a remorseless drive〔修〕 by Big Tech〔修〕 to chew up any innovative companies〔修〕 that lie〔C1〕 in their path.〔C1修〕
+main 主语:fates | 谓语:are | 表语:examples
+gist 批评者认为两款应用的命运体现巨头吞噬创新企业的冲动
+C1 定语从句 | 修饰companies | that | 前面是companies，后面lie in their path缺主语；that代指创新企业作主语 | 主语:that | 谓语:lie
+mod To Microsoft's critics,the → 整句 | 观点来源及粘连说明 | To Microsoft's critics表示在微软批评者看来；末尾the语法上属于后面的fates，因原文粘连无法独立切开
+mod of Wunderlist and Sunrise → fates | 介词短语作定语 | 两款应用的命运
+mod of a remorseless drive → examples | 介词短语作定语 | 是无情吞并冲动的例子
+mod by Big Tech → drive | 主体说明 | 发动吞并的是科技巨头
+mod to chew up any innovative companies → drive | 不定式作后置定语 | 吞下任何创新企业的冲动
+mod in their path → lie | 地点状语 | 挡在巨头发展道路上
+point chew up是吞并的比喻；原文critics,the粘连不改变fates为主语中心。
+
+# 2021-3|2:1
+type 主从复合句｜引语内并列谓语，分词补充含定语从句
+chunks "They bought the seedlings〔主〕 and〔连〕 closed them down,"〔主〕 complained Paul Arnold,〔修〕 a partner at San Francisco-based Switch Ventures,〔修〕 putting an end to businesses〔修〕 that might one day turn into competitors.〔C1〕
+main 主语:"They | 谓语:bought | 宾语:the seedlings || &and || 谓语:closed | 宾语:them
+gist 巨头买下幼苗般的新公司后将其关闭，终结未来竞争者
+C1 定语从句 | 修饰businesses | that | 前面是businesses，后面might turn into competitors缺主语；that代指企业作主语 | 主语:that | 谓语:might … turn | 表语:into competitors
+mod down → closed | 动词小品词补充 | close down表示关闭企业
+mod complained Paul Arnold → 整句 | 倒装引述语 | complained是谓语，Paul Arnold为后置主语
+mod a partner at San Francisco-based Switch Ventures → Paul Arnold | 同位语 | 介绍他的投资机构合伙人身份
+mod putting an end to businesses → 整句 | 现在分词作结果补充 | 关闭应用导致那些企业被终结，不是Arnold在关闭企业
+mod one day → turn | 时间状语 | 企业本来可能有朝一日成为竞争者
+
+# 2021-3|2:2
+type 简单句｜decline to do整体谓语
+chunks Microsoft declined to comment.〔主〕
+main 主语:Microsoft | 谓语:declined to comment
+gist 微软拒绝评论
+point declined带过去时，to comment说明拒绝做什么，decline to do整体表达拒绝评论的谓语内容。
+
+# 2021-3|3:0
+type 主从复合句｜though让步从句；引语中think宾语从句嵌if条件
+chunks Like other start-up investors,〔修〕 Mr. Arnold's own business often depends〔主〕 on selling start-ups to larger tech companies,〔修〕 though he admits to mixed feelings〔C1〕 about the result:〔C1修〕 "I think〔主〕 these things are good〔C2〕 for me,〔C2修〕 if I put my selfish hat on.〔C3〕
+main 主语:Mr. Arnold's own business | 谓语:depends
+gist 阿诺德自己的生意依靠向巨头出售初创公司，但他对结果心情复杂
+C1 让步状语从句 | 说明依赖出售不等于毫无顾虑 | though | though前business depends…主句完整，后面he admits to mixed feelings结构完整；整块承认复杂态度形成让步 | 主语:he | 谓语:admits to | 宾语:mixed feelings
+C2 宾语从句 | 作引语中think的宾语 | （省略 that） | 前面引语I think缺思想内容，后面these things are good主系表完整，省略that连接内容 | 主语:these things | 谓语:are | 表语:good
+C3 条件状语从句 in C2 | 限定good for me的立场 | if | 前面these things are good for me已经完整，if后I put my selfish hat on主谓宾完整；整块设定仅从私利考虑的条件 | 主语:I | 谓语:put | 宾语:my selfish hat
+mod Like other start-up investors → 整句 | 比较状语 | 像其他初创投资者一样
+mod often → depends | 频率状语 | 生意经常依靠出售
+mod on selling start-ups to larger tech companies → depends | 介词补足 | depend on后为动名词，说明依赖什么
+mod about the result → feelings | 介词短语作定语 | 对收购结果感情复杂
+mod "I think → 整句 | 引述内容的入口 | 冒号后开始他的话，I为主语，think为谓语，所想内容为从句②；不是与外层business depends并列的主句
+mod for me → good | 形容词补足 | 对我本人有利
+mod on → put | 动词小品词 | put…on表示戴上，“戴自私帽子”比喻只顾自己
+point 引号在此条末未关闭，后两条继续引语；不能把阿诺德个人获利等同于美国经济获利。
+
+# 2021-3|3:1
+type 简单句｜一般疑问句
+chunks But〔连〕 are they good〔主〕 for the American economy?〔修〕
+main 主语:they | 谓语:are | 表语:good
+gist 但这些收购对美国经济有利吗？
+mod for the American economy → good | 形容词补足 | 从全国经济角度判断
+point they指这些小规模收购，而非投资者；问句把are提前，不改变主系表关系。
+
+# 2021-3|3:2
+type 简单句｜否定陈述结束引语
+chunks I don't know."〔主〕
+main 主语:I | 谓语:don't know
+gist 阿诺德说自己不知道这些收购是否有利于美国经济
+point know的内容承接上一个疑问句，这里没有实际写出的that从句，不凭空补标。
+
+# 2021-3|4:0
+type 主从复合句｜省略that的宾语从句
+chunks The US Federal Trade Commission says〔主〕 it wants to find the answer〔C1〕 to that question.〔C1修〕
+main 主语:The US Federal Trade Commission | 谓语:says | 宾语:C1
+gist 美国联邦贸易委员会说想找出该问题的答案
+C1 宾语从句 | 作says宾语 | （省略 that） | 前面says缺说的内容，后面it wants…是完整陈述，省略that引出宾语从句 | 主语:it | 谓语:wants to find | 宾语:the answer
+mod to that question → answer | 介词短语作定语 | 对收购是否有利于美国经济这个问题的答案
+point it指贸易委员会，不是形式主语；want to find整体说明想找到。
+
+# 2021-3|4:1
+type 简单句｜ask…for…结构
+chunks This week,〔修〕 it asked the five most valuable US tech companies〔主〕 for information〔修〕 about their many small acquisitions〔修〕 over the past decade.〔修〕
+main 主语:it | 谓语:asked | 宾语:the five most valuable US tech companies
+gist 贸易委员会要求五家科技巨头提供过去十年小收购的信息
+mod This week → asked | 时间状语 | 本周提出要求
+mod for information → asked | 介词补足 | ask somebody for information向公司索要信息
+mod about their many small acquisitions → information | 介词短语作定语 | 所需信息针对众多小规模收购
+mod over the past decade → acquisitions | 时间定语 | 过去十年间的收购
+
+# 2021-3|4:2
+type 主从复合句｜although省略从句及that定语从句
+chunks Although only a research project〔C1〕 at this stage,〔C1修〕 the request has raised the prospect〔主〕 of regulators wading into early-stage tech markets〔修〕 that until now have been beyond their reach.〔C2〕
+main 主语:the request | 谓语:has raised | 宾语:the prospect
+gist 这项要求带来了监管者介入早期科技市场的可能
+C1 让步状语从句 | 承认调查仍处研究阶段 | Although | Although后仅名词短语a research project，省略与主句相同主语the request及is；与监管可能性形成让步 | 表语:a research project
+C2 定语从句 | 修饰markets | that | 前面markets是名词，后面have been beyond their reach缺主语；that代指市场作主语 | 主语:that | 谓语:have been | 表语:beyond their reach
+mod at this stage → C1 | 时间状语 | 当前阶段
+mod of regulators wading into early-stage tech markets → prospect | 介词短语作定语 | prospect内容是监管者进入早期市场；regulators是wading的逻辑主语
+mod until now → have been | 时间状语 | 直到此前一直如此
+point wading是动名词结构内部动作，不是request的谓语；their指监管者。
+
+# 2021-3|5:0
+type 简单句｜动名词主语，given背景与独立补充
+chunks Given their combined market value of more than $5.5 trillion,〔修〕 rifling through such small deals-many of them much less prominent than Wunderlist and Sunrise-might〔主〕 seem beside the point.〔主〕
+main 主语:rifling through such small deals-many of them much less prominent than Wunderlist and Sunrise-might | 谓语:seem | 表语:beside the point
+gist 考虑巨头市值，追查这类小交易似乎无关紧要
+mod Given their combined market value of more than $5.5 trillion → 整句 | 背景状语 | 考虑到它们合计超过5.5万亿美元的市值
+point 原文deals-many与Sunrise-might两端粘连，完整动名词主语实际是rifling through such small deals；many of them much less prominent…是插入补充，might seem才是谓语。因词元限制主语栏整体定位该段，谓语栏仅定位seem，不把might或插入段真当主语内容。
+
+# 2021-3|5:1
+type 主从复合句｜金额同位补充及that定语从句
+chunks Between them,〔修〕 the five biggest tech companies have spent an average of only $3.4 billion a year〔主〕 on sub- $ 1 billion acquisitions〔修〕 over the past five years-a drop in the ocean〔修〕 compared with their massive financial reserves, and the more than $130 billion of venture capital〔修〕 that was invested〔C1〕 in the US last year.〔C1修〕
+main 主语:the five biggest tech companies | 谓语:have spent | 宾语:an average of only $3.4 billion
+gist 五大巨头小收购的年均开支仅34亿美元，相比其财力很小
+C1 定语从句 | 修饰venture capital | that | 前面是venture capital，后面was invested缺主语；that代指风险投资资金作主语 | 主语:that | 谓语:was invested
+mod Between them → have spent | 合计范围状语 | 五家合起来算
+mod a year → $3.4 billion | 频率限定 | 年均金额
+mod on sub- $ 1 billion acquisitions → spent | 介词补足 | 用于低于10亿美元的收购
+mod over the past five years-a drop in the ocean → have spent | 时间及同位补充 | 过去五年；a drop in the ocean把这一金额比作沧海一粟。原文years-a粘连，无法精确独立定位边界
+mod compared with their massive financial reserves, and the more than $130 billion of venture capital → $3.4 billion | 比较状语 | 与储备及风险投资总额相比很小，and连接的是两个比较对象
+mod in the US last year → invested | 地点时间状语 | 去年在美国投入的风险资本
+
+# 2021-3|6:0
+type 主从复合句｜say宾语从句中嵌before时间从句
+chunks However,〔修〕 critics say〔主〕 the big companies use such deals〔C1〕 to buy their most threatening potential competitors〔C1修〕 before their businesses have a chance〔C2〕 to gain momentum,〔C2修〕 in some cases as part of a" buy and kill"tactic to simply close them down.〔C1修〕
+main 主语:critics | 谓语:say | 宾语:C1
+gist 批评者说巨头趁潜在竞争者尚未壮大就买下，有时再关闭
+C1 宾语从句 | 作say宾语 | （省略 that） | 前面say缺观点内容，后面the big companies use such deals主谓宾完整，省略that引出内容 | 主语:the big companies | 谓语:use | 宾语:such deals
+C2 时间状语从句 in C1 | 说明收购发生的时机 | before | 前面to buy…动宾已完整，before后their businesses have a chance主谓宾完整；整块表示企业壮大之前 | 主语:their businesses | 谓语:have | 宾语:a chance
+mod However → 整句 | 转折连接语 | 转向批评者对小交易的担忧
+mod to buy their most threatening potential competitors → use | 不定式作目的状语 | 通过交易买下最有威胁的潜在竞争者
+mod to gain momentum → chance | 不定式作后置定语 | 发展壮大的机会
+mod in some cases as part of a" buy and kill"tactic to simply close them down → buy | 情境与目的补充 | 有些收购属于买下关闭的策略，to close说明策略目的，them指被收购企业
+point before不意味着等竞争者发展起来才买；in some cases限定只是部分情况，不能概括所有收购都为关闭。
+
+# 2021-4|0:0
+type 并列句｜同位语补充first impressions；not only…but…并列表语
+chunks We're fairly good〔主〕 at judging people based on first impressions,〔修〕 thin slices of experience〔修〕 ranging from a glimpse of a photo to five-minute interaction,〔修〕 and〔连〕 deliberation can be not only extraneous but intrusive.〔主〕
+main 主语＋谓语:We're | 表语:good || &and || 主语:deliberation | 谓语:can be | 表语:not only extraneous but intrusive
+gist 我们擅长凭第一印象判断人，深思有时反而多余且干扰判断
+mod fairly → good | 程度状语 | 相当擅长
+mod at judging people based on first impressions → good | 形容词补足 | 擅长依据第一印象判断他人
+mod based on first impressions → judging | 过去分词补充 | 判断以第一印象为依据
+mod thin slices of experience → first impressions | 同位语 | 第一印象就是很短的经验片段
+mod ranging from a glimpse of a photo to five-minute interaction → slices | 现在分词作后置定语 | 经验片段从看一眼照片到五分钟互动不等
+point We're是We are；not only…but…连接extraneous和intrusive两个表语，不另起第三个主句。
+
+# 2021-4|0:1
+type 主从复合句｜省略that的定语从句及宾补不定式
+chunks In one study〔修〕 of the ability〔修〕 she called"thin slicing,"〔C1〕 the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips〔主〕 of professors〔修〕 and to rate the instructor's overall effectiveness.〔主〕
+main 主语:the late psychologist Nalini Ambady | 谓语:asked | 宾语:participants | 宾补:to watch silent 10-second video clips … to rate the instructor's overall effectiveness
+gist 安巴迪让参与者看十秒无声教学片段并评教师效果
+C1 定语从句 | 修饰ability | （省略 that） | 前面是ability，后面she called…缺被称呼的对象，省略关系词作宾语；thin slicing是名称宾补，但与called粘连 | 主语:she | 谓语:called"thin | 宾补:slicing
+mod In one study → asked | 研究情境状语 | 在其中一项研究里
+mod of the ability → study | 介词短语作定语 | 研究一种能力
+mod of professors → clips | 介词短语作定语 | 教授的视频片段
+point 原文called"thin粘连，无法单独定位called；真实结构是she called该能力thin slicing，called为谓语，thin slicing为宾补。上方定位的词元跨越二者，语法关系以此说明为准。
+
+# 2021-4|0:2
+type 简单句｜correlate with表相关关系
+chunks Their ratings correlated strongly〔主〕 with students' end-of-semester ratings.〔修〕
+main 主语:Their ratings | 谓语:correlated
+gist 参与者评分与学生期末评分高度相关
+mod strongly → correlated | 程度状语 | 相关程度高
+mod with students' end-of-semester ratings → correlated | 介词补足 | 与学生学期末的评分相比较
+point Their指观看十秒片段的参与者；高度相关提供第一印象可靠性的证据，不代表参与者上过整学期课程。
+
+# 2021-4|0:3
+type 主从复合句｜as时间从句＋分词结果补充
+chunks Another set〔主〕 of participants〔修〕 had to count backward〔主〕 from 1,000 by nines〔修〕 as they watched the clips,〔C1〕 occupying their conscious working memory.〔修〕
+main 主语:Another set | 谓语:had to count
+gist 另一组参与者一边看视频一边倒数，以占用有意识的工作记忆
+C1 时间状语从句 | 说明倒数同时观看视频 | as | 前面count backward结构已完整，as后they watched the clips主谓宾完整；此处as表示同时发生，不是原因 | 主语:they | 谓语:watched | 宾语:the clips
+mod of participants → set | 介词短语作定语 | 另一组参与者
+mod backward → count | 方向状语 | 倒着数
+mod from 1,000 by nines → count | 起点和方式状语 | 从1000起每次减9
+mod occupying their conscious working memory → 整句 | 现在分词作结果补充 | 倒数占用有意识的工作记忆，不是说明视频有另一独立谓语
+
+# 2021-4|0:4
+type 简单句｜分词短语说明实验结果含义
+chunks Their ratings were just as accurate,〔主〕 demonstrating the intuitive nature〔修〕 of the social processing.〔修〕
+main 主语:Their ratings | 谓语:were | 表语:accurate
+gist 他们评分依然准确，说明这种判断具有直觉性质
+mod just as → accurate | 程度状语 | 和前一组同样准确
+mod demonstrating the intuitive nature → 整句 | 现在分词作结果补充 | 该结果说明直觉性质；demonstrating不带独立时态
+mod of the social processing → nature | 介词短语作定语 | 社会信息处理的性质
+
+# 2021-4|1:0
+type 简单句｜被动谓语＋不定式主语补足
+chunks Critically,〔修〕 another group was asked to spend a minute writing down reasons〔主〕 for their judgment,〔修〕 before giving the rating.〔修〕
+main 主语:another group | 谓语:was asked | 主语补足语:to spend a minute writing down reasons
+gist 关键的是，另一组被要求先花一分钟写理由再评分
+mod Critically → 整句 | 评述状语 | 标明关键对照条件
+mod for their judgment → reasons | 介词短语作定语 | 作判断的理由
+mod before giving the rating → spend | 时间状语 | 评分之前；before后是动名词短语，不是带独立主谓的从句
+point spend time doing中writing为非谓语，限定谓语是was asked。
+
+# 2021-4|1:1
+type 简单句｜主动谓语
+chunks Accuracy dropped dramatically.〔主〕
+main 主语:Accuracy | 谓语:dropped
+gist 准确率大幅下降
+mod dramatically → dropped | 程度状语 | 下降幅度明显
+point 本句承接写理由这一条件，不能把下降误归因于前一组倒数或短视频时长。
+
+# 2021-4|1:2
+type 主从复合句｜that宾语从句，rather than对照两种判断过程
+chunks Ambady suspected〔主〕 that deliberation focused them〔C1〕 on vivid but misleading cues,〔C1修〕 such as certain gestures or utterances,〔C1修〕 rather than letting the complex interplay of subtle signals form a holistic impression.〔C1修〕
+main 主语:Ambady | 谓语:suspected | 宾语:C1
+gist 安巴迪推测，深思使人盯住显眼细节，而不让细微信号形成整体印象
+C1 宾语从句 | 作suspected宾语 | that | 前面suspected缺推测内容，后面deliberation focused them…主谓宾完整；that只连接整块观点 | 主语:deliberation | 谓语:focused | 宾语:them
+mod on vivid but misleading cues → focused | 介词补足 | 注意力集中于鲜明却误导人的线索
+mod such as certain gestures or utterances → cues | 举例说明 | 如某些动作或话语
+mod rather than letting the complex interplay of subtle signals form a holistic impression → focused | 对照补充 | 对照盯细节与让信号互动形成整体印象，letting后the complex interplay作宾语，form…作宾补
+point rather than对照的是处理信息的方式；form为let后的不带to不定式宾补，不能当主句谓语。
+
+# 2021-4|1:3
+type 主从复合句｜when时间从句内嵌whether宾语从句
+chunks She found similar interference〔主〕 when participants watched 15-second clips〔C1〕 of pairs of people〔C1修〕 and judged〔C1〕 whether they were strangers, friends, or dating partners.〔C2〕
+main 主语:She | 谓语:found | 宾语:similar interference
+gist 判断两人的关系时，她也发现过度思考造成类似干扰
+C1 时间状语从句 | 说明发现干扰的实验情境 | when | 前面She found interference主谓宾完整，when后participants watched…and judged…主谓宾完整；整块表示实验条件下的时间情境 | 主语:participants | 谓语:watched | 宾语:15-second clips | 谓语:judged | 宾语:C2
+C2 宾语从句 in C1 | 作judged宾语 | whether | 前面judged缺判断内容，后面they were…主系表完整；whether引出有待确定的关系类型 | 主语:they | 谓语:were | 表语:strangers, friends, or dating partners
+mod of pairs of people → clips | 介词短语作定语 | 视频里是两人一组
+point whether不是条件if，而是judged的宾语内容；they指视频里的人，不是实验参与者。
+
+# 2021-4|2:0
+type 主从复合句｜省略that宾语从句内有when状语从句
+chunks Other research shows〔主〕 we're better〔C1〕 at detecting deception from thin slices〔C1修〕 when we rely〔C2〕 on intuition instead of reflection.〔C2修〕
+main 主语:Other research | 谓语:shows | 宾语:C1
+gist 研究表明，依靠直觉时更善于从片段中识破欺骗
+C1 宾语从句 | 作shows宾语 | （省略 that） | 前面shows缺研究结论，后面we're better…主系表完整；省略that引出宾语从句 | 主语＋谓语:we're | 表语:better
+C2 时间兼条件状语从句 in C1 | 说明何时识别更好 | when | 前面we're better at…结构已完整，when后we rely on…主谓及补足完整；整块表示依赖直觉的情形 | 主语:we | 谓语:rely
+mod at detecting deception from thin slices → better | 形容词补足 | 更善于从短片段中识别欺骗
+mod on intuition instead of reflection → rely | 介词补足 | 依靠直觉而不是刻意思索
+
+# 2021-4|2:1
+type 并列复合句｜as if表语从句；if条件及what宾语从句
+chunks "It's〔主〕 as if you're driving a stick shift,"〔C1〕 says Judith Hall,〔修〕 a psychologist at Northeastern University,〔修〕 "and〔连〕 if you start thinking about it too much,〔C2〕 you can't remember〔主〕 what you're doing.〔C3〕
+main 主语＋谓语:"It's | 表语:C1 || 主语:you | 谓语:can't remember | 宾语:C3
+gist 想得过多可能像开手动挡时思考动作那样，反而忘记自己在做什么
+C1 表语从句 | 说明比喻情境 | as if | 前面It's缺具体情境，as if后you're driving a stick shift主谓宾完整；整块在系动词后作表语 | 主语＋谓语:you're driving | 宾语:a stick shift
+C2 条件状语从句 | 限定can't remember | if | if后you start thinking…主谓完整，后面you can't remember给出条件结果；不是remember的宾语 | 主语:you | 谓语:start thinking
+C3 宾语从句 | 作remember宾语 | what | 前面remember缺记住的内容，后面you're doing缺宾语；what既连接又作doing宾语 | 主语＋谓语:you're doing | 宾语:what
+mod says Judith Hall → 整句 | 倒装引述语 | says是谓语，Judith Hall为后置主语，不与引语并列
+mod a psychologist at Northeastern University → Judith Hall | 同位语 | 她是东北大学心理学家
+mod about it too much → thinking | 内容及程度状语 | 对自动化动作想得太多
+point 引语中的and连接前后陈述，中间插入引述语；It's与you're均为主语及助动词的缩写，不能把doing单独当限定谓语。
+
+# 2021-4|2:2
+type 主从复合句｜if条件从句，原文pilot,you're粘连
+chunks But〔连〕 if you go on automatic pilot,you're〔C1〕 fine.〔主〕
+main 主语＋谓语:pilot,you're | 表语:fine
+gist 若让熟练动作自动运行，就会表现正常
+C1 条件状语从句 | 限定fine成立的条件 | if | if后you go on automatic pilot主谓及补足完整；逗号后you're fine为主句，二者因缺空格共用一个词元 | 主语:you | 谓语:go
+mod on automatic pilot,you're → go | 方式补足及词元说明 | on automatic pilot表示自动驾驶式运作；逗号后的you're实际属于主句，不属于该介词短语
+point pilot,you're为原文粘连词元，无法独立切块；语法上从句止于pilot，主句为you're fine，pilot不是主语的一部分。
+
+# 2021-4|2:3
+type 简单句｜系表结构
+chunks Much of our social life is like that."〔主〕
+main 主语:Much of our social life | 谓语:is | 表语:like that
+gist 我们很多社交活动也像自动驾驶一样依赖熟练直觉
+point that指不经刻意思索的熟练运作，不是说社交生活等于驾驶汽车。
+
+# 2021-4|3:0
+type 简单句｜动名词短语作主语，不定式修饰ability
+chunks Thinking too much can also harm our ability〔主〕 to form preferences.〔修〕
+main 主语:Thinking too much | 谓语:can … harm | 宾语:our ability
+gist 思考过多也可能损害形成偏好的能力
+mod also → harm | 添加状语 | 从判断他人转到形成个人偏好
+mod to form preferences → ability | 不定式作后置定语 | 形成偏好的能力
+point Thinking作主语而非谓语；can harm给出可能性，不是断言所有思考都有害。
+
+# 2021-4|3:1
+type 主从复合句｜when时间兼条件状语从句
+chunks College students' ratings〔主〕 of strawberry jams and college courses〔修〕 aligned better〔主〕 with experts' opinions〔修〕 when the students weren't asked to analyze their rationale.〔C1〕
+main 主语:College students' ratings | 谓语:aligned
+gist 没有被要求解释理由时，大学生的评分与专家意见更一致
+C1 时间兼条件状语从句 | 说明更一致的实验条件 | when | 前面ratings aligned…主谓及补足完整，when后students weren't asked…是完整被动句；整块限定实验情形 | 主语:the students | 谓语:weren't asked | 主语补足语:to analyze their rationale
+mod of strawberry jams and college courses → ratings | 介词短语作定语 | 对果酱和大学课程的评分
+mod better → aligned | 程度状语 | 更为一致
+mod with experts' opinions → aligned | 介词补足 | 与专家看法相一致
+point weren't asked是否定被动，不能读成学生没有任何理由；实验控制的是是否要求分析理由。
+
+# 2021-4|3:2
+type 主从复合句｜that定语从句；when省略从句与only if条件
+chunks And〔连〕 people made car-buying decisions〔主〕 that were both objectively better and more personally satisfying〔C1〕 when asked to focus on their feelings rather than on details,〔C2〕 but only if the decision was complex-when they had a lot of information〔C3〕 to process.〔C3修〕
+main 主语:people | 谓语:made | 宾语:car-buying decisions
+gist 复杂决策中，关注感受而非细节的人所作购车决定更好
+C1 定语从句 | 修饰decisions | that | 前面decisions为名词，后面were…缺主语；that代指决定作主语，两个形容词短语并列表语 | 主语:that | 谓语:were | 表语:better … more … satisfying
+C2 时间兼条件状语从句 | 说明作出更好决定的实验要求 | when | when后asked省略与people一致的主语及were；完整意为当人们被要求关注感受时，后接不定式补足被动结构 | 谓语:asked | 主语补足语:to focus on their feelings rather than on details
+C3 条件状语从句 | 限定这一效果只在复杂决定中成立 | if | only if后the decision was complex主系表完整；后面的when they had…解释复杂的含义，complex-when因原文粘连不能准确另切 | 主语:the decision | 谓语:was | 表语:complex-when
+mod to process → information | 不定式作后置定语 | 需要处理的信息
+point only if明确限制，不能推广到所有决定。原文complex-when粘连，语法上complex为表语，when另起解释性的时间从句they had a lot of information to process；由于同词元边界限制，从句③合并展示并在这里说明内层主谓they had。
+
+# 2021-4|4:0
+type 简单句｜被动谓语与only条件范围
+chunks Intuition's special powers are unleashed〔主〕 only in certain circumstances.〔修〕
+main 主语:Intuition's special powers | 谓语:are unleashed
+gist 直觉的特殊力量只在特定情形中发挥
+mod only in certain circumstances → unleashed | 限定范围状语 | 只有某些情形，并非任何任务都适用
+
+# 2021-4|4:1
+type 主从复合句｜including举例中含两个that定语从句
+chunks In one study,participants〔修〕 completed a battery〔主〕 of eight tasks,〔修〕 including four〔修〕 that tapped reflective thinking〔C1〕 (discerning rules, comprehending vocabulary)〔C1修〕 and four〔修〕 that tapped intuition and creativity〔C2〕 (generating new products or figures of speech).〔C2修〕
+main 主语:study,participants | 谓语:completed | 宾语:a battery
+gist 参与者完成八项任务，一半调用反思，一半调用直觉与创造力
+C1 定语从句 | 修饰第一个four所指任务 | that | 前面four省略tasks，后面tapped reflective thinking缺主语；that代指四项任务作主语 | 主语:that | 谓语:tapped | 宾语:reflective thinking
+C2 定语从句 | 修饰第二个four所指任务 | that | 前面and four表示另一组任务，后面tapped intuition and creativity缺主语；that代指第二组四项任务作主语 | 主语:that | 谓语:tapped | 宾语:intuition and creativity
+mod In one study,participants → 整句 | 情境状语及粘连主语说明 | 语法上In one study是状语，逗号后participants才是主语，因原文study,participants粘连不能独立定位
+mod of eight tasks → battery | 介词短语作定语 | 一套八项任务
+mod including four → tasks | 举例补充 | 其中四项，后接定语从句说明其类型
+mod (discerning rules, comprehending vocabulary) → thinking | 同位例证 | 辨别规则、理解词汇是反思思维的例子
+mod and four → tasks | 并列补充 | 还有另外四项任务
+mod (generating new products or figures of speech) → creativity | 同位例证 | 构思新产品或修辞，举直觉与创造力的例子
+point battery这里指一套任务；study,participants的完整词元包含状语末尾及真正主语，不能真的将study视为completed的主语。
+
+# 2021-4|4:2
+type 主从复合句｜to which定语从句
+chunks Then〔修〕 they rated the degree〔主〕 to which they had used intuition〔C1〕 ("gut feelings," " hunches," "my heart").〔C1修〕
+main 主语:they | 谓语:rated | 宾语:the degree
+gist 随后参与者评估自己使用直觉的程度
+C1 定语从句 | 修饰degree | to which | 前面degree表示程度，后面they had used intuition主谓宾完整；which作to宾语，to which在从句作程度状语 | 主语:they | 谓语:had used | 宾语:intuition
+mod Then → rated | 时间顺序状语 | 完成任务之后再评估
+mod ("gut feelings," " hunches," "my heart") → intuition | 同位解释 | 列出描述直觉的几种表达
+point rate是评定程度，不是又做一次任务；to which不是不定式，which为关系代词。
+
+# 2021-4|4:3
+type 主从复合句｜并列谓语与as省略状语从句
+chunks Use〔主〕 of their gut〔修〕 hurt their performance〔主〕 on the first four tasks,〔修〕 as expected,〔C1〕 and〔连〕 helped them〔主〕 on the rest.〔修〕
+main 主语:Use | 谓语:hurt | 宾语:their performance || &and || 谓语:helped | 宾语:them
+gist 使用直觉损害反思任务的表现，却帮助其余任务
+C1 方式状语从句（省略） | 说明结果符合预期 | as | 前面已经是完整的主谓宾，as后expected省略it was；整块表示正如预期，并非expected作新主句谓语 | 谓语:expected
+mod of their gut → Use | 介词短语作定语 | 直觉的使用
+mod on the first four tasks → performance | 介词短语作定语 | 在前四项反思任务中的表现
+mod on the rest → helped | 范围状语 | 在其余四项直觉创造任务上有帮助
+point hurt与helped共用主语Use；前四项和其余任务类型不同，不能概括为直觉总有益或总有害。
+
+# 2021-4|4:4
+type 主从复合句｜than比较状语省略
+chunks Sometimes〔修〕 the heart is smarter〔主〕 than the head.〔C1〕
+main 主语:the heart | 谓语:is | 表语:smarter
+gist 有时直觉比刻意思考更聪明
+C1 比较状语从句（省略） | 比较heart与head | than | 前面smarter是比较级，than后仅the head，省略重复谓语is smart；整块提供比较对象 | 主语:the head
+mod Sometimes → is | 频率限定状语 | 只在有些时候成立，与特定任务类型限制呼应
+point heart与head比喻直觉和反思；Sometimes保留条件性，不能背成“凭感觉总比思考好”。

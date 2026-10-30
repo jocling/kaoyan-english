@@ -11,7 +11,7 @@ def rep(old,new,count=1):
     s=s.replace(old,new)
 rep('#view-sent>*:not(#sr27-frame){display:none!important}','')
 rep('window.innerHeight-g.getBoundingClientRect().top-18','(window.visualViewport?window.visualViewport.height:window.innerHeight)-(g.getBoundingClientRect().top+window.scrollY)-18')
-rep('font:600 10px/1 sans-serif;color:var(--accent)">v35</small>','font:600 10px/1 sans-serif;color:var(--accent)">v47</small>')
+rep('font:600 10px/1 sans-serif;color:var(--accent)">v35</small>','font:600 10px/1 sans-serif;color:var(--accent)">v48</small>')
 rep('<span>点词看释义 · 拖选或点「划短语」存短语 · 点句子编号看拆解</span>','<span>点词看释义 · 拖选两个以上的词存短语 · 点句子编号看拆解</span>')
 skel=json.load(open(os.path.join(B,'data','skel.json')))
 # QCHOICE overrides

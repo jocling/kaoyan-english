@@ -1,0 +1,834 @@
+# 2019-1|0:0
+type 简单句｜对比状语前置
+chunks Unlike so-called basic emotions such as sadness, fear, and anger,〔修〕 guilt emerges〔主〕 a little later, in conjunction with a child's growing grasp of social and moral norms.〔修〕
+main 主语:guilt | 谓语:emerges
+gist 内疚随着规范理解能力发展而稍晚出现
+mod Unlike so-called basic emotions such as sadness, fear, and anger → guilt | 对比状语 | 内疚与悲伤、恐惧、愤怒等基本情绪不同
+mod in conjunction with a child's growing grasp of social and moral norms → emerges | 伴随状语 | 随着儿童逐步理解社会和道德规范而出现
+
+# 2019-1|0:1
+type 并列复合句｜knowing补充状态；that宾语从句
+chunks Children aren't born〔主〕 knowing how to say "I'm sorry";〔修〕 rather,〔修〕 they learn〔主〕 over time〔修〕 that such statements appease parents and friends - and their own consciences.〔C1〕
+main 主语:Children | 谓语:aren't born || 主语:they | 谓语:learn | 宾语:C1
+gist 孩子并非生来就懂道歉，而是逐渐学会道歉的作用
+C1 宾语从句 | 作learn的宾语 | that | 前面learn缺学习的内容；后面such statements appease…主谓宾完整，that不作成分，整块作宾语 | 主语:such statements | 谓语:appease | 宾语:parents and friends … their own consciences
+mod knowing how to say "I'm sorry" → Children | 现在分词作状态补充 | 表示出生时并非已经知道如何道歉；how to say是疑问词加不定式，不是有限从句
+mod over time → learn | 时间状语 | 随着时间逐渐学会
+point rather引出分号后的转折。and their own consciences与parents and friends并列，都是appease的宾语；I’m sorry是被引用的道歉用语。
+
+# 2019-1|0:2
+type 主从复合句｜why表语从句
+chunks This is〔主〕 why researchers generally regard so-called moral guilt,〔C1〕 in the right amount,〔C1修〕 to be a good thing.〔C1〕
+main 主语:This | 谓语:is | 表语:C1
+gist 这就是研究者认为适量内疚有益的原因
+C1 表语从句 | 作is的表语 | why | 前面is缺表语；后面researchers regard guilt to be…主谓宾补完整，why作原因状语，整块作表语 | 主语:researchers | 谓语:regard | 宾语:so-called moral guilt | 宾补:to be a good thing
+mod generally → regard | 频率状语 | 研究人员通常如此看待
+mod in the right amount → guilt | 范围限制 | 适量的内疚有益，不是越多越好
+
+# 2019-1|1:0
+type 简单句
+chunks In the popular imagination, of course,〔修〕 guilt still gets a bad rap.〔主〕
+main 主语:guilt | 谓语:gets | 宾语:a bad rap
+gist 内疚在大众观念中仍然名声不佳
+mod In the popular imagination → gets | 范围状语 | 在大众观念中
+mod of course → 整句 | 评述语 | 当然
+mod still → gets | 时间状语 | 这种看法仍然存在
+
+# 2019-1|1:1
+type 并列句｜破折号解释难受的感受
+chunks It is deeply uncomfortable〔主〕 - it's the emotional equivalent〔主〕 of wearing a jacket weighted with stones.〔修〕
+main 主语:It | 谓语:is | 表语:uncomfortable || 主语＋谓语:it's | 表语:the emotional equivalent
+gist 内疚让人难受，如同穿上装满石头的夹克
+mod deeply → uncomfortable | 程度状语 | 非常难受
+mod of wearing a jacket weighted with stones → equivalent | 介词短语补足 | 类比穿着装满石头的夹克的感受
+mod weighted with stones → jacket | 过去分词作后置定语 | 被石头加重的夹克
+point it's等于it is；weighted没有助动词，不是主句谓语。
+
+# 2019-1|1:2
+type 简单句
+chunks Yet this understanding is outdated.〔主〕
+main 主语:this understanding | 谓语:is | 表语:outdated
+gist 这种对内疚的理解已经过时
+mod Yet → 整句 | 转折连接语 | 转向新的情绪研究
+
+# 2019-1|1:3
+type 主从复合句｜引述语、分词补充与多层名词从句
+chunks "There has been a kind of revival or a rethinking〔主〕 about〔修〕 what guilt is〔C1〕 and what role guilt can serve,"〔C2〕 says Amrisha Vaish, a psychology researcher at the University of Virginia,〔修〕 adding〔修〕 that this revival is part of a larger recognition〔C3〕 that emotions aren't binary -〔C4〕 feelings〔主〕 that may be advantageous in one context〔C5〕 may be harmful in another.〔主〕
+main 谓语:has been | 主语:a kind || 主语:feelings | 谓语:may be | 表语:harmful
+gist 人们正在重新思考内疚的性质与作用
+C1 宾语从句 | 作about的宾语 | what | 前面介词about缺内容；后面guilt is缺表语，what作is的表语，整块作宾语 | 主语:guilt | 谓语:is | 表语:what
+C2 并列宾语从句 | 与C1并列作about的宾语 | what | 前面and连接两个疑问内容；what role作serve的宾语，guilt can serve有主谓，缺的是所起作用 | 主语:guilt | 谓语:can serve | 宾语:what role
+C3 宾语从句 | 作adding的宾语 | that | 前面adding缺补充内容，后面this revival is part…主系表完整；that不作成分，整块作宾语 | 主语:this revival | 谓语:is | 表语:part
+C4 同位语从句 in C3 | 解释recognition的内容 | that | 前面是抽象名词recognition；后面emotions aren't binary主系表完整，that不作成分，说明认识的内容 | 主语:emotions | 谓语:aren't | 表语:binary
+C5 定语从句 | 修饰feelings | that | 前面是名词feelings；后面may be advantageous缺主语，that代指feelings作主语 | 主语:that | 谓语:may be | 表语:advantageous
+mod of revival or a rethinking → a kind | 介词短语补足 | 对内疚的复兴式关注或重新思考
+mod says Amrisha Vaish, a psychology researcher at the University of Virginia → 整句 | 倒装引述语 | says为引述谓语，Amrisha Vaish是其后置主语，后接同位语说明身份
+mod adding → Amrisha Vaish | 现在分词作补充说明 | 她还补充后面的that内容
+mod of a larger recognition → part | 介词短语补足 | 属于更广泛认识的一部分
+mod in one context → advantageous | 情境状语 | 在一种情境中有利
+mod in another → harmful | 情境状语 | 在另一情境中有害
+point 破折号后的完整句是feelings…may be harmful，解释情绪并非非好即坏；它不是recognition之后另一层that从句。主干栏分别列出引语中的存在句与破折号后用于解释的独立陈述。
+
+# 2019-1|1:4
+type 简单句｜情态完成式
+chunks Jealousy and anger,〔主〕 for example,〔修〕 may have evolved〔主〕 to alert us to important inequalities.〔修〕
+main 主语:Jealousy and anger | 谓语:may have evolved
+gist 嫉妒和愤怒可能为提醒不平等而进化
+mod for example → 整句 | 举例连接语 | 说明负面情绪也可能有价值
+mod to alert us to important inequalities → evolved | 不定式作目的状语 | 提醒我们关注重要的不平等，alert us to中to是介词
+
+# 2019-1|1:5
+type 简单句
+chunks Too much happiness can be destructive.〔主〕
+main 主语:Too much happiness | 谓语:can be | 表语:destructive
+gist 快乐过多也可能有破坏性
+
+# 2019-1|2:0
+type 简单句｜插入方式状语
+chunks And guilt,〔主〕 by prompting us to think more deeply about our goodness,〔修〕 can encourage humans to make up for errors and fix relationships.〔主〕
+main 主语:guilt | 谓语:can encourage | 宾语:humans | 宾补:to make up for errors and fix relationships
+gist 内疚促使人弥补错误并修复关系
+mod by prompting us to think more deeply about our goodness → encourage | 方式状语 | 通过促使我们深入反思自己的善良；prompt后us为宾语、to think为宾补
+point to make up与省略to的fix并列作宾补，共同说明humans被鼓励去做什么；不是两个新的主句谓语。
+
+# 2019-1|2:1
+type 简单句｜help后不定式省略to
+chunks Guilt,〔主〕 in other words,〔修〕 can help hold a cooperative species together.〔主〕
+main 主语:Guilt | 谓语:can help | 宾语:hold a cooperative species together
+gist 内疚帮助合作物种维系在一起
+mod in other words → 整句 | 换言说明 | 归纳前面修复关系的作用
+point hold后a cooperative species为宾语，together为宾补；hold是help后的不定式，省略to。
+
+# 2019-1|2:2
+type 简单句
+chunks It is a kind of social glue.〔主〕
+main 主语:It | 谓语:is | 表语:a kind
+gist 内疚是一种社会黏合剂
+mod of social glue → a kind | 介词短语补足 | 说明这种情绪维系社会关系
+
+# 2019-1|3:0
+type 简单句｜过去分词状语
+chunks Viewed in this light,〔修〕 guilt is an opportunity.〔主〕
+main 主语:guilt | 谓语:is | 表语:an opportunity
+gist 从这个角度看，内疚是一种机会
+mod Viewed in this light → guilt | 过去分词作条件或方式状语 | 从维系合作这一角度看待内疚，viewed不带独立时态
+
+# 2019-1|3:1
+type 主从复合句｜that宾语从句
+chunks Work〔主〕 by Tina Malti, a psychology professor at the University of Toronto,〔修〕 suggests〔主〕 that guilt may compensate for an emotional deficiency.〔C1〕
+main 主语:Work | 谓语:suggests | 宾语:C1
+gist 研究表明内疚可能弥补情感缺陷
+C1 宾语从句 | 作suggests的宾语 | that | 前面suggests缺提示的内容，后面guilt may compensate…主谓与介词补足完整；that只连接不作成分 | 主语:guilt | 谓语:may compensate
+mod by Tina Malti, a psychology professor at the University of Toronto → Work | 介词短语作定语 | 马尔蒂的研究；人名后同位语介绍教授身份
+mod for an emotional deficiency → compensate | 介词补足 | compensate for表示弥补某种情感缺陷
+
+# 2019-1|3:2
+type 主从复合句｜that宾语从句
+chunks In a number of studies,〔修〕 Malti and others have shown〔主〕 that guilt and sympathy may represent different pathways to cooperation and sharing.〔C1〕
+main 主语:Malti and others | 谓语:have shown | 宾语:C1
+gist 内疚和同情可能是合作分享的不同途径
+C1 宾语从句 | 作shown的宾语 | that | 前面have shown缺展示的内容；后面guilt and sympathy may represent…主谓宾完整，that不作成分 | 主语:guilt and sympathy | 谓语:may represent | 宾语:different pathways
+mod In a number of studies → have shown | 范围状语 | 结论来自多项研究
+mod to cooperation and sharing → pathways | 介词短语作定语 | 通向合作与分享的途径
+
+# 2019-1|3:3
+type 主从复合句｜who与which定语从句
+chunks Some kids〔主〕 who are low in sympathy〔C1〕 may make up for that shortfall〔主〕 by experiencing more guilt,〔修〕 which can rein in their nastier impulses.〔C2〕
+main 主语:Some kids | 谓语:may make up for | 宾语:that shortfall
+gist 低同情的孩子可能以更多内疚弥补不足
+C1 定语从句 | 修饰kids | who | 前面是人的名词kids，后面are low…缺主语，who代指kids作主语 | 主语:who | 谓语:are | 表语:low
+C2 非限制性定语从句 | 修饰guilt | which | 前面是名词guilt，后面can rein in…缺主语，which代指内疚感作主语 | 主语:which | 谓语:can rein in | 宾语:their nastier impulses
+mod in sympathy → low | 方面补足 | 同情水平低
+mod by experiencing more guilt → make up for | 方式状语 | 通过体验更多内疚来弥补
+point which指内疚，不是说恶劣冲动自身能约束冲动。
+
+# 2019-1|3:4
+type 简单句｜冒号前省略表达
+chunks And vice versa:〔修〕 High sympathy can substitute for low guilt.〔主〕
+main 主语:High sympathy | 谓语:can substitute for | 宾语:low guilt
+gist 高度同情也能弥补内疚不足
+mod And vice versa → 整句 | 省略的转向说明 | 反过来也成立：不只有内疚补同情，同情也可补内疚
+
+# 2019-1|4:0
+type 简单句
+chunks In a 2014 study, for example,〔修〕 Malti looked at 244 children.〔主〕
+main 主语:Malti | 谓语:looked at | 宾语:244 children
+gist 马尔蒂在一项研究中观察244名儿童
+mod In a 2014 study → looked at | 研究背景状语 | 2014年开展的研究
+mod for example → 整句 | 举例语 | 用具体研究支持前述结论
+
+# 2019-1|4:1
+type 简单句｜分词表方法；两个并列宾语
+chunks Using caregiver assessments and the children's self-observations,〔修〕 she rated each child's overall sympathy level and his or her tendency〔主〕 to feel negative emotions after moral transgressions.〔修〕
+main 主语:she | 谓语:rated | 宾语:each child's overall sympathy level … his or her tendency
+gist 她评估每个孩子的同情水平与犯错后负面情绪倾向
+mod Using caregiver assessments and the children's self-observations → rated | 现在分词作方式状语 | 利用照料者评价与儿童自我观察
+mod to feel negative emotions after moral transgressions → tendency | 不定式作后置定语 | 犯道德过失后感受负面情绪的倾向
+mod after moral transgressions → feel | 时间状语 | 道德违规之后，和后文guilt语境相连
+
+# 2019-1|4:2
+type 简单句｜被动并列谓语共享were
+chunks Then〔修〕 the kids were handed chocolate coins,〔主〕 and given a chance〔主〕 to share them with an anonymous child.〔修〕
+main 主语:the kids | 谓语:were handed | 直接宾语:chocolate coins || &and || 谓语:given | 直接宾语:a chance
+gist 孩子们收到巧克力硬币，并获机会与匿名儿童分享
+mod to share them with an anonymous child → chance | 不定式作后置定语 | 有机会分享巧克力硬币，them指coins
+point given前省略were，两被动动作共用the kids；chocolate coins、a chance是双宾语结构转被动后保留的宾语，不是形容词式主语补语。
+
+# 2019-1|4:3
+type 主从复合句｜how much主语从句＋how宾语从句
+chunks For the low-sympathy kids,〔修〕 how much they shared〔C1〕 appeared to turn on〔主〕 how inclined they were to feel guilty.〔C2〕
+main 主语:C1 | 谓语:appeared to turn on
+gist 分享多少似乎取决于多容易感到内疚
+C1 主语从句 | 作appeared的主语 | how much | how much在句首内容块中作shared的宾语，they shared缺数量内容；整块到appeared前结束，作主句主语 | 主语:they | 谓语:shared | 宾语:how much
+C2 宾语从句 | 作turn on的宾语 | how | 前面turn on意为取决于，缺所依赖的内容；后面they were inclined主系表完整，how修饰inclined表示程度 | 主语:they | 谓语:were | 表语:inclined
+mod For the low-sympathy kids → 整句 | 范围状语 | 只针对同情心较弱的儿童
+mod to feel guilty → inclined | 不定式补足 | 容易产生内疚的倾向
+point turn on这里表示取决于，不是打开设备；how inclined前置后从句仍用they were的陈述语序。
+
+# 2019-1|4:4
+type 主从复合句｜even though让步
+chunks The guilt-prone ones shared more,〔主〕 even though they hadn't magically become more sympathetic to the other child's deprivation.〔C1〕
+main 主语:The guilt-prone ones | 谓语:shared | 宾语:more
+gist 容易内疚的孩子分享更多，尽管同情心并未增加
+C1 让步状语从句 | 说明分享增加并非同情增加 | even though | 前面shared more主谓宾完整；后面they hadn't become more sympathetic主系表完整，even though表示尽管 | 主语:they | 谓语:hadn't … become | 表语:more sympathetic
+mod magically → become | 方式状语 | 并未神奇地变得更同情
+mod to the other child's deprivation → sympathetic | 形容词补足 | 对另一个孩子物资匮乏的处境表示同情
+
+# 2019-1|5:0
+type 简单句｜引述语后置
+chunks "That's good news, "〔主〕 Malti says.〔修〕
+main 主语＋谓语:"That's | 表语:good news
+gist 这是好消息
+mod Malti says → 整句 | 引述语 | Malti是主语，says是谓语，前面的引语是其内容
+point That's等于That is；指同情心不足仍可通过内疚形成利他行为的结果。
+
+# 2019-1|5:1
+type 主从复合句｜because原因从句内并列两主句
+chunks "We can be prosocial〔主〕 because we caused harm and we feel regret."〔C1〕
+main 主语:We | 谓语:can be | 表语:prosocial
+gist 我们可因伤害他人后后悔而做出利他行为
+C1 原因状语从句 | 说明为何作出利他行为 | because | 前面We can be prosocial主系表完整；后面we caused harm和we feel regret各自主谓宾完整，because统领并列原因 | 主语:we | 谓语:caused | 宾语:harm | 主语:we | 谓语:feel | 宾语:regret
+
+# 2019-2|0:0
+type 简单句｜give双宾语
+chunks Forests give us shade, quiet and one of the harder challenges in the fight against climate change.〔主〕
+main 主语:Forests | 谓语:give | 间接宾语:us | 直接宾语:shade, quiet and one of the harder challenges
+gist 森林带来阴凉宁静，也带来气候挑战
+mod in the fight against climate change → challenges | 介词短语作定语 | 应对气候变化过程中的挑战
+
+# 2019-2|0:1
+type 主从复合句｜even as让步与省略关系词的定语从句
+chunks Even as we humans count on forests to soak up a good share of the carbon dioxide〔C1〕 we produce,〔C2〕 we are threatening their ability〔主〕 to do so.〔修〕
+main 主语:we | 谓语:are threatening | 宾语:their ability
+gist 人类依赖森林吸碳，却也威胁其吸碳能力
+C1 让步状语从句 | 对照依赖与破坏的矛盾 | Even as | Even as后we humans count on forests…主谓宾完整，表示即使正在依靠，与主句形成让步对照 | 主语:we humans | 谓语:count on | 宾语:forests | 宾补:to soak up a good share
+C2 定语从句 in C1 | 修饰carbon dioxide | （省略 that） | 前面是名词carbon dioxide，后面we produce缺宾语；省略关系词作produce的宾语 | 主语:we | 谓语:produce
+mod of the carbon dioxide → share | 介词短语作定语 | 所排二氧化碳中相当一部分
+mod to do so → ability | 不定式作后置定语 | 森林吸收二氧化碳的能力，so回指soak up
+
+# 2019-2|0:2
+type 主从复合句｜两定语从句及than比较从句
+chunks The climate change〔主〕 we are hastening〔C1〕 could one day leave us〔主〕 with forests〔修〕 that emit more carbon〔C2〕 than they absorb.〔C3〕
+main 主语:The climate change | 谓语:could … leave | 宾语:us
+gist 气候变化可能让森林排碳超过吸碳
+C1 定语从句 | 修饰climate change | （省略 that） | 前面是名词climate change，后面we are hastening缺宾语，省略关系词指气候变化 | 主语:we | 谓语:are hastening
+C2 定语从句 | 修饰forests | that | 前面是forests，后面emit more carbon缺主语，that代指forests作主语 | 主语:that | 谓语:emit | 宾语:more carbon
+C3 比较状语从句 in C2 | 对比碳排放与碳吸收量 | than | 前面more carbon提出数量比较，后面they absorb省略所比较的carbon，than连接比较从句 | 主语:they | 谓语:absorb
+mod one day → leave | 时间状语 | 将来某一天
+mod with forests → leave | 介词短语作宾语补足 | leave us with…让我们面对这样的森林
+
+# 2019-2|1:0
+type 并列句｜there be与but转折
+chunks Thankfully,〔修〕 there is a way〔主〕 out of this trap -〔修〕 but it involves striking a subtle balance.〔主〕
+main 谓语:is | 主语:a way || &but || 主语:it | 谓语:involves | 宾语:striking a subtle balance
+gist 有办法摆脱陷阱，但需取得微妙平衡
+mod Thankfully → 整句 | 评述语 | 幸好还有解决办法
+mod out of this trap → way | 介词短语作定语 | 摆脱森林吸碳能力遭破坏的困境
+point striking是involves的动名词宾语，不是第二个限定谓语。
+
+# 2019-2|1:1
+type 简单句｜动名词短语作主语
+chunks Helping forests flourish〔主〕 as valuable "carbon sinks" long into the future〔修〕 may require reducing their capacity〔主〕 to absorb carbon now.〔修〕
+main 主语:Helping forests flourish | 谓语:may require | 宾语:reducing their capacity
+gist 保持森林长期繁茂，也许要降低当前吸碳能力
+mod as valuable "carbon sinks" long into the future → flourish | 身份与时间状语 | 长期作为宝贵碳汇繁茂
+mod to absorb carbon now → capacity | 不定式作后置定语 | 现在吸收碳的能力
+point Helping…整块作主语；require后的reducing作宾语，真正带时态的主句谓语是may require。
+
+# 2019-2|1:2
+type 主从复合句｜as非限制性定语从句
+chunks California is leading the way,〔主〕 as it does on so many climate efforts,〔C1〕 in figuring out the details.〔修〕
+main 主语:California | 谓语:is leading | 宾语:the way
+gist 加州带头研究具体做法
+C1 非限制性定语从句 | 回指加州带头这一整件事 | as | as前主句完整，后面it does缺代替的动作内容；as回指leading the way，表示正如加州在其他气候行动中所做的 | 主语:it | 谓语:does
+mod on so many climate efforts → does | 范围状语 | 在许多气候行动上也领先
+mod in figuring out the details → leading | 方面状语 | 在确定具体办法方面带头
+
+# 2019-2|2:0
+type 简单句｜aim不定式宾语
+chunks The state's proposed Forest Carbon Plan aims to double efforts〔主〕 to thin out young trees and clear brush in parts of the forest.〔修〕
+main 主语:The state's proposed Forest Carbon Plan | 谓语:aims | 宾语:to double efforts
+gist 该计划旨在加倍疏伐幼树和清灌木
+mod to thin out young trees and clear brush in parts of the forest → efforts | 不定式作后置定语 | 努力做两件事：疏伐幼树与清除灌木；clear共用to
+mod in parts of the forest → thin out … clear | 范围状语 | 只在部分森林实施
+
+# 2019-2|2:1
+type 简单句
+chunks This temporarily lowers carbon-carrying capacity.〔主〕
+main 主语:This | 谓语:lowers | 宾语:carbon-carrying capacity
+gist 这种做法暂时降低碳承载量
+mod temporarily → lowers | 时间状语 | 降低是暂时的，不代表长期计划失败
+
+# 2019-2|2:2
+type 并列句｜so结果；分词作结果补充
+chunks But the remaining trees draw a greater share〔主〕 of the available moisture,〔修〕 so they grow and thrive,〔主〕 restoring the forest's capacity to pull carbon from the air.〔修〕
+main 主语:the remaining trees | 谓语:draw | 宾语:a greater share || &so || 主语:they | 谓语:grow … thrive
+gist 剩余树木获得更多水分，生长繁茂并恢复吸碳能力
+mod of the available moisture → share | 介词短语作定语 | 可用水分的更大份额
+mod restoring the forest's capacity to pull carbon from the air → 整句 | 现在分词作结果补充 | 水分更多使树木繁茂，进而恢复森林吸碳能力
+mod to pull carbon from the air → capacity | 不定式作后置定语 | 从空气中吸收碳的能力
+point they指剩余树木；restoring没有独立时态，不是第三套主句谓语。
+
+# 2019-2|2:3
+type 简单句｜形容词表语＋不定式补足
+chunks Healthy trees are also better able〔主〕 to fend off insects.〔修〕
+main 主语:Healthy trees | 谓语:are | 表语:better able
+gist 健康树木也更能抵御昆虫
+mod also → are | 添加状语 | 除吸碳优势外还有抗虫优势
+mod to fend off insects → able | 不定式补足形容词 | 能更好地抵御昆虫
+
+# 2019-2|2:4
+type 简单句｜被动结构带主语补足语
+chunks The landscape is rendered less easily burnable.〔主〕
+main 主语:The landscape | 谓语:is rendered | 主语补足语:less easily burnable
+gist 整个地区更不容易燃烧
+point render A B转被动后为A is rendered B；burnable说明地区变得怎样，不是另一个动作。
+
+# 2019-2|2:5
+type 简单句｜被动谓语
+chunks Even in the event of a fire,〔修〕 fewer trees are consumed.〔主〕
+main 主语:fewer trees | 谓语:are consumed
+gist 即使起火，被烧掉的树也更少
+mod Even in the event of a fire → are consumed | 让步状语 | 即使发生火灾；in the event of后是名词，不是从句
+
+# 2019-2|3:0
+type 简单句
+chunks The need for such planning is increasingly urgent.〔主〕
+main 主语:The need | 谓语:is | 表语:urgent
+gist 这类计划的需求越来越迫切
+mod for such planning → need | 介词短语作定语 | 对上述森林管理计划的需要
+mod increasingly → urgent | 程度状语 | 越来越迫切
+
+# 2019-2|3:1
+type 并列句｜独立主格补充死亡树木时间
+chunks Already, since 2010,〔修〕 drought and insects have killed over 100 million trees〔主〕 in California,〔修〕 most of them in 2016 alone,〔修〕 and wildfires have burned hundreds of thousands of acres.〔主〕
+main 主语:drought and insects | 谓语:have killed | 宾语:over 100 million trees || &and || 主语:wildfires | 谓语:have burned | 宾语:hundreds of thousands of acres
+gist 干旱虫害杀死大量树木，山火烧毁大片土地
+mod Already, since 2010 → have killed | 时间状语 | 自2010年以来已经发生
+mod in California → killed | 地点状语 | 加州境内
+mod most of them in 2016 alone → trees | 独立主格补充 | 其中多数树木仅在2016年就死亡，省略重复的死亡表达
+
+# 2019-2|4:0
+type 简单句｜plan不定式宾语及省略并列
+chunks California plans to treat 35, 000 acres〔主〕 of forest a year〔修〕 by 2020,〔修〕 and 60,000〔主〕 by 2030 -〔修〕 financed from the proceeds of the state's emissions-permit auctions.〔修〕
+main 主语:California | 谓语:plans | 宾语:to treat 35, 000 acres … 60,000
+gist 加州计划分阶段扩大森林治理面积
+mod of forest a year → acres | 范围及频率补充 | 这里指每年治理的森林面积
+mod by 2020 → treat | 时间状语 | 到2020年每年3.5万英亩
+mod by 2030 → 60,000 | 时间状语 | 到2030年每年6万英亩，省略to treat及acres
+mod financed from the proceeds of the state's emissions-permit auctions → 整句 | 过去分词作补充说明 | 计划资金来自排放许可拍卖所得
+point 35, 000按原文空格保留，表示35,000；financed为被动含义的非谓语，不是新主句谓语。
+
+# 2019-2|4:1
+type 并列复合句｜定语从句；it形式主语
+chunks That's only a small share〔主〕 of the total acreage〔修〕 that could benefit,〔C1〕 about half a million acres in all,〔修〕 so it will be vital to prioritize areas〔主〕 at greatest risk of fire or drought.〔修〕
+main 主语＋谓语:That's | 表语:only a small share || &so || 形式主语:it | 谓语:will be | 表语:vital | 真正主语:to prioritize areas
+gist 这只是受益面积一小部分，因此必须优先处理高风险地区
+C1 定语从句 | 修饰acreage | that | 前面是名词acreage，后面could benefit缺主语，that代指面积作主语 | 主语:that | 谓语:could benefit
+mod of the total acreage → share | 介词短语作定语 | 受益总面积中的份额
+mod about half a million acres in all → total acreage | 同位语补充 | 可受益的面积共约50万英亩
+mod at greatest risk of fire or drought → areas | 介词短语作后置定语 | 最容易发生火灾或干旱的地区
+point it是真正主语to prioritize areas的占位；That's等于That is。
+
+# 2019-2|5:0
+type 主从复合句｜ensure宾语从句内含过去分词定语及关系从句
+chunks The strategy also aims to ensure〔主〕 that carbon〔C1〕 in woody material〔C1修〕 removed from the forests〔C1修〕 is locked away〔C1〕 in the form of solid lumber〔C1修〕 or burned〔C1〕 as biofuel in vehicles〔C1修〕 that would otherwise run on fossil fuels.〔C2〕
+main 主语:The strategy | 谓语:aims | 宾语:to ensure
+gist 战略确保清出的木材储碳或替代化石燃料
+C1 宾语从句 | 作ensure的宾语 | that | 前面ensure缺确保的内容，后面carbon is locked away or burned主语和被动谓语完整；that不作成分 | 主语:carbon | 谓语:is locked away … burned
+C2 定语从句 in C1 | 修饰vehicles | that | 前面是名词vehicles，后面would otherwise run缺主语，that指车辆作主语 | 主语:that | 谓语:would … run
+mod in woody material → carbon | 介词短语作定语 | 木质材料中的碳
+mod removed from the forests → material | 过去分词作后置定语 | 从森林中移出的材料
+mod in the form of solid lumber → locked away | 方式状语 | 以实木木材形式封存
+mod as biofuel in vehicles → burned | 身份与地点补足 | 作为车辆生物燃料燃烧
+mod on fossil fuels → run | 介词补足 | 车辆原本会使用化石燃料
+point is统领locked away与burned两个并列被动谓语；otherwise表示如果不使用这种生物燃料。
+
+# 2019-2|5:1
+type 简单句
+chunks New research on transportation biofuels is already under way.〔主〕
+main 主语:New research | 谓语:is | 表语:under way
+gist 交通生物燃料研究已在开展
+mod on transportation biofuels → research | 介词短语作定语 | 研究交通运输用生物燃料
+mod already → is | 时间状语 | 研究已开始
+
+# 2019-2|6:0
+type 并列句｜accustomed to doing
+chunks State governments are well accustomed〔主〕 to managing forests,〔修〕 but traditionally〔修〕 they've focused〔主〕 on wildlife, watersheds and opportunities for recreation.〔修〕
+main 主语:State governments | 谓语:are | 表语:accustomed || &but || 主语＋谓语:they've focused
+gist 州政府熟悉森林管理，但传统关注其他用途
+mod well → accustomed | 程度状语 | 很习惯于
+mod to managing forests → accustomed | 介词短语补足 | accustomed to后to是介词，接动名词managing
+mod traditionally → focused | 时间状语 | 传统上的关注点
+mod on wildlife, watersheds and opportunities for recreation → focused | 介词补足 | 关注野生动物、流域与休闲机会
+point they've是they have，focused与have构成完成时，不能把focused单独误认为新过去式。
+
+# 2019-2|6:1
+type 主从复合句｜only前置部分倒装，省略关系词的定语从句
+chunks Only recently〔修〕 have they come to see the vital part〔主〕 forests will have to play〔C1〕 in storing carbon.〔C1修〕
+main 主语:they | 谓语:have … come to see | 宾语:the vital part
+gist 州政府直到最近才认识到森林储碳的关键作用
+C1 定语从句 | 修饰part | （省略 that） | 前面是名词part，后面forests will have to play缺宾语，省略关系词代指part作play的宾语 | 主语:forests | 谓语:will have to play
+mod Only recently → have … come | 时间状语 | only修饰时间状语前置，触发have与they倒装
+mod in storing carbon → play | 方面状语 | 在储碳方面发挥作用
+
+# 2019-2|6:2
+type 主从复合句｜which非限制性定语从句
+chunks California's plan,〔主〕 which is expected to be finalized by the governor next year,〔C1〕 should serve〔主〕 as a model.〔修〕
+main 主语:California's plan | 谓语:should serve
+gist 加州计划应作为其他地区的范本
+C1 非限制性定语从句 | 补充plan的敲定时间 | which | 前面是名词plan，后面is expected…缺主语，which代指计划作主语 | 主语:which | 谓语:is expected | 主语补足语:to be finalized
+mod by the governor next year → finalized | 施事与时间状语 | 预计由州长在明年最终确定，按文章时间理解
+mod as a model → serve | 介词补足 | 发挥示范作用
+
+# 2019-3|0:0
+type 简单句｜现在完成进行时
+chunks American farmers have been complaining of labor shortages〔主〕 for several years.〔修〕
+main 主语:American farmers | 谓语:have been complaining of | 宾语:labor shortages
+gist 美国农民多年持续抱怨缺工
+mod for several years → have been complaining | 时间状语 | 抱怨已持续数年
+point have been complaining整体构成完成进行时；complaining不是没有助动词的独立动名词。
+
+# 2019-3|0:1
+type 简单句｜unlikely不定式补足
+chunks The complaints are unlikely〔主〕 to stop without an overhaul of immigration rules for farm workers.〔修〕
+main 主语:The complaints | 谓语:are | 表语:unlikely
+gist 不改革农业移民规则，抱怨就难以停止
+mod to stop without an overhaul of immigration rules for farm workers → unlikely | 不定式补足形容词 | 如果不彻底改革农业移民规则，抱怨不太会停
+mod for farm workers → immigration rules | 介词短语作定语 | 针对农业工人的移民规则
+
+# 2019-3|1:0
+type 主从复合句｜that定语从句内并列不定式
+chunks Congress has obstructed efforts〔主〕 to create a more straightforward visa for agricultural workers〔修〕 that would let foreign workers stay longer in the U. S. and change jobs within the industry.〔C1〕
+main 主语:Congress | 谓语:has obstructed | 宾语:efforts
+gist 国会阻挠建立更便捷的农业工人签证
+C1 定语从句 | 修饰visa | that | 前面是名词visa，后面would let…缺主语，that代指签证作主语，并非修饰workers | 主语:that | 谓语:would let | 宾语:foreign workers | 宾补:stay longer … change jobs
+mod to create a more straightforward visa for agricultural workers → efforts | 不定式作后置定语 | 努力建立更简明的农业签证
+mod in the U. S. → stay | 地点状语 | 让外来工人在美国停留更久
+mod within the industry → change | 范围状语 | 允许在农业内部更换工作
+point stay与change共用let后的省略to不定式位置；would let才是从句限定谓语。
+
+# 2019-3|1:1
+type 主从复合句｜if条件状语从句
+chunks If this doesn't change,〔C1〕 American businesses, communities, and consumers will be the losers.〔主〕
+main 主语:American businesses, communities, and consumers | 谓语:will be | 表语:the losers
+gist 不改变现状，美国企业社区消费者都会受损
+C1 条件状语从句 | 说明受损的条件 | If | If后this doesn't change主谓完整，没有名词先行词，整块限定主句何种条件下成立 | 主语:this | 谓语:doesn't change
+
+# 2019-3|2:0
+type 简单句｜数量主语
+chunks Perhaps〔修〕 half of U. S. farm laborers are undocumented immigrants.〔主〕
+main 主语:half of U. S. farm laborers | 谓语:are | 表语:undocumented immigrants
+gist 美国农场工人可能有一半是无证移民
+mod Perhaps → 整句 | 推测状语 | 约有一半，非确定精确统计
+
+# 2019-3|2:1
+type 主从复合句｜as伴随变化
+chunks As fewer such workers enter the country,〔C1〕 the characteristics〔主〕 of the agricultural workforce〔修〕 are changing.〔主〕
+main 主语:the characteristics | 谓语:are changing
+gist 随着此类工人减少，农业劳动力特征正变化
+C1 时间状语从句 | 说明伴随变化的背景 | As | As后fewer such workers enter the country主谓宾完整，表示随着进入人数减少，不是修饰某名词 | 主语:fewer such workers | 谓语:enter | 宾语:the country
+mod of the agricultural workforce → characteristics | 介词短语作定语 | 变化的是劳动力的特征，中心词characteristics决定谓语用are
+
+# 2019-3|2:2
+type 主从复合句｜while省略让步从句；并列表语
+chunks Today's farm laborers,〔主〕 while still predominantly born in Mexico,〔C1〕 are more likely to be settled rather than migrating and more likely to be married than single.〔主〕
+main 主语:Today's farm laborers | 谓语:are | 表语:more likely … more likely
+gist 农场工人更倾向于定居且已婚
+C1 让步状语从句（省略） | 承认出生地未变 | while | 前面farm laborers是被补充对象，while后born in Mexico省略主语they与be；完整义为虽然他们仍主要出生于墨西哥 | 谓语:born
+mod to be settled rather than migrating → likely | 不定式补足形容词 | 更可能定居而非迁移
+mod to be married than single → likely | 不定式补足形容词 | 更可能已婚而非单身
+point born前的they are在省略从句中未出现；主句唯一限定谓语是are，不把settled或married当独立过去式。
+
+# 2019-3|2:3
+type 简单句｜缩写进行时
+chunks They're also aging.〔主〕
+main 主语＋谓语:They're … aging
+gist 他们也在老龄化
+mod also → aging | 添加状语 | 另一个变化是年龄上升
+point They're是They are，are aging整体是进行时谓语。
+
+# 2019-3|2:4
+type 简单句｜数量主语
+chunks At the start of this century,〔修〕 about one-third of crop workers were over the age of 35.〔主〕
+main 主语:about one-third of crop workers | 谓语:were | 表语:over the age of 35
+gist 本世纪初约三分之一农作物工人超过35岁
+mod At the start of this century → were | 时间状语 | 本世纪初，按文章发表时的时间理解
+
+# 2019-3|2:5
+type 简单句｜省略重复表语
+chunks Now〔修〕 more than half are.〔主〕
+main 主语:more than half | 谓语:are
+gist 如今超过一半工人超过35岁
+mod Now → are | 时间状语 | 与前面的本世纪初作对比
+point are后省略over the age of 35；half后省略of crop workers，不能认为现在只剩半数工人。
+
+# 2019-3|2:6
+type 简单句｜动名词主语
+chunks And picking crops is hard〔主〕 on older bodies.〔修〕
+main 主语:picking crops | 谓语:is | 表语:hard
+gist 采摘对年长者身体负担重
+mod on older bodies → hard | 形容词补足 | 对年长者身体而言吃力
+point picking crops整块是主语，picking没有时态；限定谓语为is。
+
+# 2019-3|2:7
+type 主从复合句｜as比较从句；冒号后解释方案
+chunks One oft-debated cure〔主〕 for this labor shortage〔修〕 remains as implausible〔主〕 as it's been all along:〔C1〕 Native U. S. workers won't be returning〔主〕 to the farm.〔修〕
+main 主语:One oft-debated cure | 谓语:remains | 表语:implausible || 主语:Native U. S. workers | 谓语:won't be returning
+gist 让本土工人重返农场的方案仍不现实
+C1 比较状语从句 | 说明依然和过去一样不现实 | as | 前面as implausible提出程度，后面it's been省略重复表语implausible；第二个as引比较从句 | 主语＋谓语:it's been
+mod for this labor shortage → cure | 介词短语作定语 | 针对劳动力短缺的办法
+mod all along → been | 时间状语 | 一直以来
+mod to the farm → returning | 方向状语 | 回到农场
+point it's been等于it has been；冒号后解释被争论的方案是什么，并直接否定其可行性。
+
+# 2019-3|3:0
+type 简单句｜否定系表
+chunks Mechanization isn't the answer,〔主〕 either - not yet, at least.〔修〕
+main 主语:Mechanization | 谓语:isn't | 表语:the answer
+gist 机械化也还不是解决方案
+mod either - not yet, at least → 整句 | 否定补充 | 也不是，至少目前还不是，不排除未来技术发展
+
+# 2019-3|3:1
+type 并列句｜被动与主动对照
+chunks Production〔主〕 of corn, cotton, rice, soybeans, and wheat〔修〕 has been largely mechanized,〔主〕 but many high-value, labor-intensive crops,〔主〕 such as strawberries,〔修〕 need labor.〔主〕
+main 主语:Production | 谓语:has been … mechanized || &but || 主语:many high-value, labor-intensive crops | 谓语:need | 宾语:labor
+gist 部分作物已机械化，但高价值劳动密集作物仍需人工
+mod of corn, cotton, rice, soybeans, and wheat → Production | 介词短语作定语 | 已机械化的是这些谷物经济作物的生产
+mod largely → mechanized | 程度状语 | 大体实现机械化
+mod such as strawberries → crops | 举例定语 | 草莓是仍需人工的高价值作物
+
+# 2019-3|3:2
+type 主从复合句｜where定语；before时间状语
+chunks Even〔修〕 dairy farms,〔主〕 where robots do a small share of milking,〔C1〕 have a long way〔主〕 to go〔修〕 before they're automated.〔C2〕
+main 主语:dairy farms | 谓语:have | 宾语:a long way
+gist 奶牛场距离全面自动化也还有很长路
+C1 非限制性定语从句 | 修饰dairy farms | where | 前面是地点名词farms，后面robots do a small share…主谓宾完整，where在从句作地点状语 | 主语:robots | 谓语:do | 宾语:a small share
+C2 时间状语从句 | 说明距离哪一状态还有很长路 | before | 前面主句完整，before后they're automated含主语与被动谓语，表示在实现自动化之前 | 主语＋谓语:they're automated
+mod of milking → share | 介词短语作定语 | 只承担少部分挤奶任务
+mod to go → way | 不定式作后置定语 | 还有长路要走
+
+# 2019-3|4:0
+type 简单句｜完成时系表；分词修饰工人
+chunks As a result,〔修〕 farms have grown increasingly reliant〔主〕 on temporary guest workers〔修〕 using the H-2A visa〔修〕 to fill the gaps in the workforce.〔修〕
+main 主语:farms | 谓语:have grown | 表语:reliant
+gist 农场越来越依赖临时外籍工人
+mod As a result → 整句 | 因果连接语 | 本土劳动力和机械化无法解决，所以依赖外籍工人
+mod increasingly → reliant | 程度状语 | 依赖程度加深
+mod on temporary guest workers → reliant | 形容词补足 | 依赖临时外籍工人
+mod using the H-2A visa → workers | 现在分词作后置定语 | 使用H-2A签证的工人
+mod to fill the gaps in the workforce → 整句 | 不定式作目的状语 | 依赖外籍工人是为了填补劳动力缺口
+
+# 2019-3|4:1
+type 并列句｜分号连接两组统计
+chunks Starting around 2012,〔修〕 requests for the visas rose〔主〕 sharply;〔修〕 from 2011 to 2016〔修〕 the number〔主〕 of visas issued〔修〕 more than doubled.〔主〕
+main 主语:requests | 谓语:rose || 主语:the number | 谓语:doubled
+gist 签证需求猛增，签发数量翻倍有余
+mod Starting around 2012 → rose | 现在分词作时间状语 | 大约从2012年起
+mod for the visas → requests | 介词短语作定语 | 对签证的申请
+mod from 2011 to 2016 → doubled | 时间状语 | 2011至2016年
+mod of visas issued → number | 介词短语作定语 | 签发签证的数量，issued在其中作过去分词定语
+mod sharply → rose | 程度状语 | 急剧增加
+mod more than → doubled | 程度状语 | 翻了一倍还多
+
+# 2019-3|4:2
+type 主从复合句｜unlike比较；which定语从句
+chunks The H-2A visa has no numerical cap,〔主〕 unlike the H-2B visa for nonagricultural work,〔修〕 which is limited to 66,000 a year.〔C1〕
+main 主语:The H-2A visa | 谓语:has | 宾语:no numerical cap
+gist H-2A没有数量上限，而H-2B有
+C1 非限制性定语从句 | 修饰H-2B visa | which | 前面是H-2B visa，后面is limited…缺主语，which代指H-2B，不是前面的H-2A | 主语:which | 谓语:is limited
+mod unlike the H-2B visa for nonagricultural work → 整句 | 对比状语 | 与用于非农业工作的H-2B签证不同
+mod to 66,000 a year → limited | 数量补足 | H-2B每年限额66,000份
+
+# 2019-3|4:3
+type 主从复合句｜两层省略that
+chunks Even so,〔修〕 employers complain〔主〕 they aren't given all the workers〔C1〕 they need.〔C2〕
+main 主语:employers | 谓语:complain | 宾语:C1
+gist 雇主仍抱怨得不到所需全部工人
+C1 宾语从句 | 作complain的宾语 | （省略 that） | 前面complain缺抱怨内容，后面they aren't given…是完整被动句，省略that引宾语从句 | 主语:they | 谓语:aren't given | 直接宾语:all the workers
+C2 定语从句 in C1 | 修饰workers | （省略 that） | 前面是名词workers，后面they need缺宾语，省略关系词作need的宾语 | 主语:they | 谓语:need
+mod Even so → 整句 | 让步连接语 | 即使签证无数量上限，实际获得工人仍困难
+
+# 2019-3|4:4
+type 简单句｜三个并列表语
+chunks The process is cumbersome, expensive, and unreliable.〔主〕
+main 主语:The process | 谓语:is | 表语:cumbersome, expensive, and unreliable
+gist 签证程序繁琐昂贵且不可靠
+
+# 2019-3|4:5
+type 主从复合句｜that宾语；lead宾补
+chunks One survey found〔主〕 that bureaucratic delays led the average H-2A worker to arrive on the job 22 days late.〔C1〕
+main 主语:One survey | 谓语:found | 宾语:C1
+gist 调查发现行政延误导致工人到岗晚22天
+C1 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，后面delays led the worker to arrive…主谓宾补完整，that不作成分 | 主语:bureaucratic delays | 谓语:led | 宾语:the average H-2A worker | 宾补:to arrive
+mod on the job → arrive | 地点状语 | 到达工作岗位
+mod 22 days late → arrive | 时间补充 | 晚到22天
+
+# 2019-3|4:6
+type 跨条目句段｜被动句尚未结束
+chunks The shortage is compounded〔主〕 by federal immigration〔修〕
+main 主语:The shortage | 谓语:is compounded
+gist 短缺被联邦移民执法突袭进一步加剧
+mod by federal immigration → compounded | 被动施事前段 | 下一条的raids补全by federal immigration raids
+point 本条与下一条5:0原本同一句。完整为The shortage is compounded by federal immigration raids, which remove some workers and drive others underground. immigration不是施事名词中心，下一条raids才是，勿在此当句末。
+
+# 2019-3|5:0
+type 跨条目句段｜承接raids并带which定语从句
+chunks raids,〔主〕 which remove some workers and drive others underground.〔C1〕
+main 宾语:raids
+gist 执法突袭带走工人或迫使其转入地下
+C1 非限制性定语从句 | 修饰raids | which | 前面raids接上条by federal immigration，后面remove…与drive…共用缺失主语；which代指突袭作主语 | 主语:which | 谓语:remove | 宾语:some workers | 谓语:drive | 宾语:others | 宾补:underground
+point raids是上条by的宾语中心，本条没有独立主句谓语，需接4:6连读；remove和drive是which从句里的并列谓语。
+
+# 2019-3|6:0
+type 主从复合句｜said省略that宾语从句
+chunks In a 2012 survey,〔修〕 71 percent of tree-fruit growers and almost 80 percent of raisin and berry growers said〔主〕 they were short of labor.〔C1〕
+main 主语:71 percent of tree-fruit growers and almost 80 percent of raisin and berry growers | 谓语:said | 宾语:C1
+gist 大多数受调查的果树和浆果种植者表示缺工
+C1 宾语从句 | 作said的宾语 | （省略 that） | 前面said缺说的内容，后面they were short…主系表完整，省略that连接宾语从句 | 主语:they | 谓语:were | 表语:short
+mod In a 2012 survey → said | 调查背景状语 | 2012年调查中的回答
+mod of labor → short | 形容词补足 | 劳动力短缺
+
+# 2019-3|6:1
+type 简单句｜by动名词表方式
+chunks Some western farmers have responded〔主〕 by moving operations to Mexico.〔修〕
+main 主语:Some western farmers | 谓语:have responded
+gist 一些西部农场主以搬迁到墨西哥应对
+mod by moving operations to Mexico → responded | 方式状语 | 把经营迁往墨西哥，moving是介词by后的动名词
+
+# 2019-3|6:2
+type 主从复合句｜省略关系词的定语从句
+chunks From 1998 to 2000,〔修〕 14.5 percent of the fruit〔主〕 Americans consumed〔C1〕 was imported.〔主〕
+main 主语:14.5 percent of the fruit | 谓语:was imported
+gist 1998至2000年消费水果的14.5%来自进口
+C1 定语从句 | 修饰fruit | （省略 that） | 前面是名词fruit，后面Americans consumed缺宾语，省略关系词作consumed的宾语 | 主语:Americans | 谓语:consumed
+mod From 1998 to 2000 → was imported | 时间状语 | 这组数据对应1998至2000年
+
+# 2019-3|6:3
+type 简单句
+chunks Little more than a decade later,〔修〕 the share of imports was 25.8 percent.〔主〕
+main 主语:the share | 谓语:was | 表语:25.8 percent
+gist 十多年后水果进口占比升至25.8%
+mod Little more than a decade later → was | 时间状语 | 仅十多年后
+mod of imports → share | 介词短语作定语 | 进口的份额
+
+# 2019-3|7:0
+type 并列复合句｜or选择并列；who定语从句
+chunks In effect,〔修〕 the U. S. can import food〔主〕 or it can import the workers〔主〕 who pick it.〔C1〕
+main 主语:the U. S. | 谓语:can import | 宾语:food || &or || 主语:it | 谓语:can import | 宾语:the workers
+gist 美国可进口食物，也可引进采摘食物的工人
+C1 定语从句 | 修饰workers | who | 前面是人的名词workers，后面pick it缺主语，who代指workers作主语 | 主语:who | 谓语:pick | 宾语:it
+mod In effect → 整句 | 归纳语 | 实际上，这是文章最终归结的选择
+point 第二主句it指美国，who从句中的it指食物，两处指代不同。
+
+# 2019-4|0:0
+type 并列句｜冒号后引出传达内容，it形式主语
+chunks Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message〔主〕 for you:〔修〕 It's easy to beat plastic.〔主〕
+main 主语:Arnold Schwarzenegger, Dia Mirza and Adrian Grenier | 谓语:have | 宾语:a message || 形式主语＋谓语:It's | 表语:easy | 真正主语:to beat plastic
+gist 几位名人传达战胜塑料很容易的信息
+mod for you → message | 介词短语作定语 | 给消费者的信息
+point It's是It is；第二句中it占位，真正被评价为easy的是to beat plastic。
+
+# 2019-4|0:1
+type 简单句｜现在分词定语与补充说明
+chunks They're part〔主〕 of a bunch of celebrities〔修〕 starring in a new video for World Environment Day -〔修〕 encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery to combat the plastics crisis.〔修〕
+main 主语＋谓语:They're | 表语:part
+gist 这些名人出演视频，鼓励消费者替换一次性塑料
+mod of a bunch of celebrities → part | 介词短语补足 | 他们属于一群名人
+mod starring in a new video for World Environment Day → celebrities | 现在分词作后置定语 | 出演世界环境日新视频的名人
+mod encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery to combat the plastics crisis → 整句 | 现在分词作补充说明 | 视频鼓励消费者替换吸管餐具等一次性塑料用品；you后the consumer是同位语
+mod to combat the plastics crisis → swap out | 不定式作目的状语 | 替换一次性塑料的目的在应对塑料危机
+point They're等于They are；starring和encouraging没有各自的助动词，不另作主句限定谓语。
+
+# 2019-4|1:0
+type 主从复合句｜that定语从句隔开主谓
+chunks The key messages〔主〕 that have been put together for World Environment Day〔C1〕 do include a call〔主〕 for governments to enact legislation to curb single-use plastics.〔修〕
+main 主语:The key messages | 谓语:do include | 宾语:a call
+gist 核心信息确实包含呼吁政府立法限塑
+C1 定语从句 | 修饰messages | that | 前面是名词messages，后面have been put together缺主语，that代指messages作主语 | 主语:that | 谓语:have been put together
+mod for World Environment Day → put together | 目的状语 | 为世界环境日汇集的信息
+mod for governments to enact legislation to curb single-use plastics → call | 不定式复合结构作后置定语 | 呼吁政府立法，for引出enact的逻辑主语governments
+mod to curb single-use plastics → enact | 不定式作目的状语 | 立法的目的是限制一次性塑料
+point do include里的do用于强调，不能把include和do拆成两个谓语。
+
+# 2019-4|1:1
+type 简单句｜被动结构
+chunks But the overarching message is directed〔主〕 at individuals.〔修〕
+main 主语:the overarching message | 谓语:is directed
+gist 但总体信息面向个人
+mod at individuals → directed | 对象补足 | 传达给个人，而非主要要求政府行动
+
+# 2019-4|2:0
+type 主从复合句｜what宾语从句
+chunks My concern〔主〕 with leaving it up to the individual,〔修〕 however,〔修〕 is our limited sense〔主〕 of〔修〕 what needs to be achieved.〔C1〕
+main 主语:My concern | 谓语:is | 表语:our limited sense
+gist 把责任交给个人，问题在于对任务认识有限
+C1 宾语从句 | 作of的宾语 | what | 前面介词of缺内容，后面needs to be achieved缺主语，what作主语，整块作of的宾语 | 主语:what | 谓语:needs to be achieved
+mod with leaving it up to the individual → concern | 介词短语作定语 | 对把责任留给个人这种做法的担心
+mod however → 整句 | 转折语 | 从宣传信息转向作者疑虑
+point leaving是with后的动名词；主语中心是concern，is的表语是sense。
+
+# 2019-4|2:1
+type 简单句｜两个动名词主语及并列谓语
+chunks On their own,〔修〕 taking our own bags〔主〕 to the grocery store〔修〕 or quitting plastic straws,〔主〕 for example,〔修〕 will accomplish little and require very little of us.〔主〕
+main 主语:taking our own bags … quitting plastic straws | 谓语:will accomplish | 宾语:little || &and || 谓语:require | 宾语:very little
+gist 单靠带袋子或不用吸管收效小，所需付出也少
+mod On their own → 整句 | 条件限定 | 如果只有这些个人小行动
+mod to the grocery store → taking | 方向状语 | 带自己的袋子去杂货店
+mod for example → 整句 | 举例语 | 以带袋子、不用吸管举例
+mod of us → require | 对象补足 | 对我们提出的要求很少
+point taking与quitting都是动名词，or连接两种行动；will统领accomplish与require，不是新主句。
+
+# 2019-4|2:2
+type 主从复合句｜分词补充；moral licensing后定语从句
+chunks They could〔主〕 even〔修〕 be detrimental,〔主〕 satisfying a need to have "done our bit" without ever progressing onto bigger, bolder, more effective actions - a kind of "moral licensing"〔修〕 that allays our concerns and stops us doing more and asking more of those in charge.〔C1〕
+main 主语:They | 谓语:could … be | 表语:detrimental
+gist 小行动甚至可能使人自满，阻碍更大行动
+C1 定语从句 | 修饰moral licensing | that | 前面是名词moral licensing，后面allays与stops共用缺失主语，that代指这种道德许可作主语 | 主语:that | 谓语:allays | 宾语:our concerns | 谓语:stops | 宾语:us | 宾补:doing more and asking more
+mod even → detrimental | 程度状语 | 甚至可能有害
+mod satisfying a need to have "done our bit" without ever progressing onto bigger, bolder, more effective actions → 整句 | 现在分词作补充说明 | 小行动满足尽过力的心理需要，却没有推进到更有效的行动
+mod a kind of "moral licensing" → 整句 | 同位式补充 | 把这种自我许可心理命名为道德许可
+mod of those in charge → asking | 介词补足 | 向掌权者提出更多要求
+point to have done是不定式完成式，不是主句完成时；stops后us是宾语，doing与asking并列作宾补。
+
+# 2019-4|3:0
+type 主从复合句｜while时间兼对比；that定语从句内嵌宾语从句
+chunks While the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws,〔C1〕 we're ignoring the balance〔主〕 of power〔修〕 that implies〔C2〕 that as "consumers" we must shop sustainably, rather than as "citizens" hold our governments and industries to account to push for real systemic change.〔C3〕
+main 主语＋谓语:we're ignoring | 宾语:the balance
+gist 只关注购物袋吸管，会忽视需要公民问责的权力格局
+C1 时间状语从句 | 说明忽视权力结构时的讨论焦点 | While | While后conversation remains centered主谓补足完整，整块表示讨论还围绕小物品时，与主句形成对照 | 主语:the conversation | 谓语:remains | 表语:centered
+C2 定语从句 | 修饰balance of power | that | 前面是名词balance of power，后面implies缺主语，that代指这种权力安排作主语 | 主语:that | 谓语:implies | 宾语:C3
+C3 宾语从句 in C2 | 作implies的宾语 | that | 前面implies缺暗示的内容；后面we must shop…主谓及状语完整，that不作成分 | 主语:we | 谓语:must shop
+mod around our environment and our responsibility toward it → conversation | 介词短语作定语 | 关于环境以及我们对环境责任的讨论
+mod on shopping bags and straws → centered | 介词补足 | 讨论聚焦购物袋和吸管
+mod of power → balance | 介词短语作定语 | 权力的配置与均衡
+mod as "consumers" → shop | 身份状语 | 以消费者身份购物
+mod rather than as "citizens" hold our governments and industries to account to push for real systemic change → C3 | 对照补充 | 而不是以公民身份问责政府与行业、推动系统改变；hold承接省略的we must
+mod to push for real systemic change → hold | 不定式作目的状语 | 问责是为了推动真正的制度改变
+point we're是we are；rather than后hold与shop处于对照结构，共用we must。两处that分别是关系词主语和不作成分的宾语从句连接词。
+
+# 2019-4|4:0
+type 主从复合句｜it形式主语＋宾语从句
+chunks It's important〔主〕 to acknowledge〔主〕 that the environment isn't everyone's priority - or even most people's.〔C1〕
+main 形式主语＋谓语:It's | 表语:important | 真正主语:to acknowledge
+gist 必须承认环境并非人人最关心的事
+C1 宾语从句 | 作acknowledge的宾语 | that | 前面acknowledge缺承认的内容，后面the environment isn't everyone's priority主系表完整，that不作成分 | 主语:the environment | 谓语:isn't | 表语:everyone's priority … most people's
+point or even most people's省略priority；it不指环境，是to acknowledge…的形式主语。
+
+# 2019-4|4:1
+type 简单句｜expect宾补及省略
+chunks We shouldn't expect it to be.〔主〕
+main 主语:We | 谓语:shouldn't expect | 宾语:it | 宾补:to be
+gist 不应期待环境成为所有人的优先事项
+point to be后省略everyone's priority；it指环境，不是形式主语。
+
+# 2019-4|4:2
+type 主从复合句｜argues宾语从句
+chunks In her latest book, Why Good People Do Bad Environmental Things,〔修〕 Wellesley College professor Elizabeth R. DeSombre argues〔主〕 that the best way〔C1〕 to collectively change the behavior of large numbers of people〔C1修〕 is for the change to be structural.〔C1〕
+main 主语:Wellesley College professor Elizabeth R. DeSombre | 谓语:argues | 宾语:C1
+gist 德桑布尔认为集体行为改变需要结构改变
+C1 宾语从句 | 作argues的宾语 | that | 前面argues缺观点内容，后面the best way is…主系表完整，that不作成分 | 主语:the best way | 谓语:is | 表语:for the change to be structural
+mod In her latest book, Why Good People Do Bad Environmental Things → argues | 出处状语 | 在她的新书中提出观点，书名内部不另作主句分析
+mod to collectively change the behavior of large numbers of people → way | 不定式作后置定语 | 集体改变大量人群行为的方式
+point for the change to be structural是不定式复合结构作表语，the change是to be的逻辑主语。
+
+# 2019-4|5:0
+type 主从复合句｜mean后并列动名词；that定语从句
+chunks This might mean implementing policy〔主〕 such as a plastic tax〔修〕 that adds a cost to environmentally problematic action,〔C1〕 or banning single-use plastics altogether.〔主〕
+main 主语:This | 谓语:might mean | 宾语:implementing policy … banning single-use plastics
+gist 这可能意味着征塑料税或全面禁一次性塑料
+C1 定语从句 | 修饰plastic tax | that | 前面是名词plastic tax，后面adds a cost缺主语，that代指税作主语 | 主语:that | 谓语:adds | 宾语:a cost
+mod such as a plastic tax → policy | 举例定语 | 用塑料税举例说明结构性政策
+mod to environmentally problematic action → adds | 对象补足 | 让危害环境的行为增加成本
+mod altogether → banning | 程度状语 | 完全禁止
+point implementing和banning是mean后的并列动名词宾语，不是有时态的谓语。
+
+# 2019-4|5:1
+type 主从复合句｜announce后省略that
+chunks India has just announced〔主〕 it will "eliminate all single-use plastic in the country by 2022."〔C1〕
+main 主语:India | 谓语:has … announced | 宾语:C1
+gist 印度宣布将在2022年前消除一次性塑料
+C1 宾语从句 | 作announced的宾语 | （省略 that） | 前面announced缺宣布内容，后面it will eliminate…主谓宾完整，省略that连接宾语从句 | 主语:it | 谓语:will … eliminate | 宾语:all single-use plastic
+mod just → announced | 时间状语 | 当时刚刚宣布
+mod in the country by 2022 → eliminate | 范围和时间状语 | 按原文当年的计划，在全国于2022年前消除，不据此断言目标已经实现
+
+# 2019-4|5:2
+type 主从复合句｜there be；确保后宾语从句内as比较
+chunks There are also incentive-based ways〔主〕 of making better environmental choices easier,〔修〕 such as ensuring〔修〕 recycling is at least as easy〔C1〕 as trash disposal.〔C2〕
+main 谓语:are | 主语:incentive-based ways
+gist 也可用激励机制让环保选择更容易
+C1 宾语从句 | 作ensuring的宾语 | （省略 that） | 前面ensuring缺确保内容，后面recycling is at least as easy主系表完整，省略that | 主语:recycling | 谓语:is | 表语:easy
+C2 比较状语从句（省略） in C1 | 对比回收与扔垃圾的便利程度 | as | 前面as easy提出程度，后面trash disposal省略is easy，作比较基准；不是新的独立主句 | 主语:trash disposal
+mod of making better environmental choices easier → ways | 介词短语作定语 | 使更环保的选择更容易的方法，choices是making的宾语、easier是宾补
+mod such as ensuring → ways | 举例框架 | 用确保回收方便这项做法作例子，内容见从句①
+mod at least → easy | 程度限制 | 至少一样方便
+
+# 2019-4|6:0
+type 主从复合句｜saying后省略that
+chunks DeSombre isn't saying〔主〕 people should stop caring about the environment.〔C1〕
+main 主语:DeSombre | 谓语:isn't saying | 宾语:C1
+gist 德桑布尔并没有要求人们不再关心环境
+C1 宾语从句 | 作saying的宾语 | （省略 that） | 前面saying缺所说内容，后面people should stop…主谓宾完整，省略that引从句 | 主语:people | 谓语:should stop | 宾语:caring
+mod about the environment → caring | 对象补足 | 关心环境，caring为stop的动名词宾语
+
+# 2019-4|6:1
+type 主从复合句｜It is that解释结构；too…for…to
+chunks It's〔主〕 just〔修〕 that individual actions are too slow,〔C1〕 she says,〔修〕 for that to be the only, or even primary, approach to changing widespread behavior.〔C1修〕
+main 主语＋谓语:It's | 表语:C1
+gist 个人行动太慢，不能成为改变普遍行为的主要方法
+C1 表语从句 | 解释所要表达的意思 | that | 前面It's just表解释，that后individual actions are too slow主系表完整；that不作从句成分，整块说明只是个人行动太慢 | 主语:individual actions | 谓语:are | 表语:too slow
+mod just → 整句 | 限定评述 | 她强调的只是速度不足，不是否定环保关切
+mod she says → 整句 | 引述语 | she作主语、says作谓语，说明观点出处
+mod for that to be the only, or even primary, approach to changing widespread behavior → slow | 不定式复合结构作结果补充 | too slow for…to…表示慢到不能作为唯一甚至主要途径；that回指个人行动
+point for后that是代词，作to be的逻辑主语，不是第二个that连接词。
+
+# 2019-4|7:0
+type 简单句｜about动名词表语
+chunks None of this is about writing off the individual.〔主〕
+main 主语:None of this | 谓语:is | 表语:about writing off the individual
+gist 这些主张都不是要否定个人
+point None是主语中心；writing off在介词about后作动名词，表示全盘否定。
+
+# 2019-4|7:1
+type 简单句｜缩写系表
+chunks It's just about putting things into perspective.〔主〕
+main 主语＋谓语:It's | 表语:about putting things into perspective
+gist 只是把个人行动放在适当位置看待
+mod just → 整句 | 限定语 | 强调不是取消个人责任，而是正确认识其作用
+
+# 2019-4|7:2
+type 简单句｜否定主动
+chunks We don't have time〔主〕 to wait.〔修〕
+main 主语:We | 谓语:don't have | 宾语:time
+gist 我们没有时间继续等待
+mod to wait → time | 不定式作后置定语 | 没有用来等待的时间
+
+# 2019-4|7:3
+type 主从复合句｜that定语从句＋with式伴随补充
+chunks We need progressive policies〔主〕 that shape collective action (and rein in polluting businesses),〔C1〕 alongside engaged citizens pushing for change.〔修〕
+main 主语:We | 谓语:need | 宾语:progressive policies
+gist 需要政策引领集体行动，同时需要公民推动改变
+C1 定语从句 | 修饰policies | that | 前面是名词policies，后面shape与rein in共用缺失主语，that代指政策作主语 | 主语:that | 谓语:shape | 宾语:collective action | 谓语:rein in | 宾语:polluting businesses
+mod alongside engaged citizens pushing for change → 整句 | 伴随状语 | 在政策之外，还需积极参与的公民推动改变
+mod pushing for change → citizens | 现在分词作后置定语 | 推动变革的公民
+point polluting修饰businesses，不是新的谓语；政策和公民行动是并行配合，不是互相替代。

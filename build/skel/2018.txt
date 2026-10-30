@@ -1,0 +1,787 @@
+# 2018-1|0:0
+type 主从复合句｜it 形式主语；that 主语从句内嵌 as though 表语从句
+chunks It is curious〔主〕 that Stephen Koziatek feels almost〔C1〕 as though he has to justify his efforts〔C2〕 to give his students a better future.〔C2修〕
+main 形式主语:It | 谓语:is | 表语:curious | 真正主语:C1
+gist 令人不解的是科齐亚泰克竟觉得自己的努力需要辩解
+C1 主语从句 | 说明什么令人不解 | that | 前面 It is curious 中 It 占位，后面 Stephen Koziatek feels…主系表完整，that 不作成分，整块是真正主语 | 主语:Stephen Koziatek | 谓语:feels | 表语:C2
+C2 表语从句 in C1 | 作 feels 的表语，说明他的感受 | as though | 前面 feels 是表示感受的系动词，后面 he has to justify his efforts 成分完整；as though 引出仿佛如此的感受 | 主语:he | 谓语:has to justify | 宾语:his efforts
+mod almost → feels | 程度状语 | 几乎觉得，削弱断言力度
+mod to give his students a better future → efforts | 不定式作后置定语 | 努力的内容是给学生更好的未来；give 后 his students 是间接宾语，a better future 是直接宾语
+point has to justify 是带时态的谓语结构；to give 不带时态，只说明 efforts 的内容。
+
+# 2018-1|1:0
+type 简单句｜系表结构
+chunks Mr. Koziatek is part of something pioneering.〔主〕
+main 主语:Mr. Koziatek | 谓语:is | 表语:part
+gist 科齐亚泰克是某项开创性事业的一分子
+mod of something pioneering → part | 介词短语作补足说明 | 说明是哪项事业的一部分
+mod pioneering → something | 形容词后置定语 | something 等不定代词后用形容词修饰：开创性的事情
+
+# 2018-1|1:1
+type 主从复合句｜where 定语从句内含 not…but…并列表语
+chunks He is a teacher〔主〕 at a New Hampshire high school〔修〕 where learning is not something of books and tests and mechanical memorization, but practical.〔C1〕
+main 主语:He | 谓语:is | 表语:a teacher
+gist 他是一名教师，任教学校强调实践学习
+C1 定语从句 | 修饰 high school，说明学校里的学习方式 | where | 前面是地点名词 high school，后面 learning is…主系表完整，不缺主宾语；where 在从句中作地点状语，相当于 at which | 主语:learning | 谓语:is | 表语:not something … practical
+mod at a New Hampshire high school → a teacher | 介词短语作后置定语 | 在新罕布什尔州一所高中任教的教师
+mod of books and tests and mechanical memorization → something | 介词短语作后置定语 | 与书本、考试和机械记忆有关的东西
+point not…but…对照的是 learning 的两种性质；but practical 省略重复的 learning is，不是一个新主句。
+
+# 2018-1|1:2
+type 主从复合句｜疑问句；it 形式主语，that 从句内有并列谓语
+chunks When did it become accepted wisdom〔主〕 that students should be able to name the 13th president of the United States〔C1〕 but〔连〕 be utterly overwhelmed by a broken bike chain?〔C1〕
+main 形式主语:it | 谓语:did … become | 表语:accepted wisdom | 真正主语:C1
+gist 这种重书本轻动手的观念何时成了公认常识？
+C1 主语从句 | 说明被当成常识的具体观念 | that | 前面 it become accepted wisdom 中 it 占位；that 后 students should be…主系表完整，整块说明真正的主语是什么 | 主语:students | 谓语:should be | 表语:able | 谓语:be … overwhelmed
+mod When → become | 时间疑问状语 | 追问这种观念从何时开始被接受
+mod to name the 13th president of the United States → able | 不定式补足形容词 | 能做什么：说出美国第13任总统的名字
+mod of the United States → president | 介词短语作定语 | 美国的总统
+mod utterly → overwhelmed | 程度状语 | 完全被难倒
+mod by a broken bike chain → overwhelmed | 被动结构的施事或原因 | 被断掉的自行车链难倒
+point but 后共用 students 和 should；should be able 与 should be overwhelmed 并列，不能把 be 当成没有时态支撑的独立谓语。
+
+# 2018-1|2:0
+type 主从复合句｜as 非限制性定语从句＋there be 存在句
+chunks As Koziatek knows,〔C1〕 there is learning〔主〕 in just about everything.〔修〕
+main 谓语:is | 主语:learning
+gist 几乎所有事情中都有可学的东西
+C1 非限制性定语从句 | 指代后面整句，表示“正如科齐亚泰克所知” | As | As 位于句首，后面 Koziatek knows 缺知道的内容；as 作 knows 的宾语，指向后面整个事实，不能按“因为”理解 | 主语:Koziatek | 谓语:knows | 宾语:As
+mod in just about everything → is | 范围状语 | 几乎任何事情中都有学习
+point there 是存在句的引导词，不是发出动作的“那里”；learning 在这里是名词。
+
+# 2018-1|2:1
+type 简单句｜被动谓语＋动名词短语作介词宾语
+chunks Nothing is necessarily gained〔主〕 by forcing students to learn geometry〔修〕 at a graffitied desk〔修〕 stuck with generations of discarded chewing gum.〔修〕
+main 主语:Nothing | 谓语:is … gained
+gist 这样强迫学生学习不一定能带来收获
+mod necessarily → is … gained | 情态状语 | Nothing…necessarily 表示并不一定有收获，不能理解为绝不可能有收获
+mod by forcing students to learn geometry → gained | 方式状语 | 通过强迫学生学几何；forcing 是 by 的动名词宾语，students 是 forcing 的宾语，to learn 是宾补
+mod at a graffitied desk → learn | 地点状语 | 在涂满乱画的课桌前学习
+mod stuck with generations of discarded chewing gum → desk | 过去分词短语作后置定语 | 桌子上粘着多届学生丢弃的口香糖；stuck 没有助动词，不是主句谓语
+
+# 2018-1|2:2
+type 简单句｜情态谓语＋by 表学习方式
+chunks They can also learn geometry〔主〕 by assembling a bicycle.〔修〕
+main 主语:They | 谓语:can … learn | 宾语:geometry
+gist 他们也能通过组装自行车学习几何
+mod also → learn | 添加状语 | 除在课桌前学习外，还可以有另一种学习方式
+mod by assembling a bicycle → learn | 方式状语 | by 后接动名词，表示通过组装自行车来学
+
+# 2018-1|3:0
+type 简单句｜现在完成时
+chunks But〔连〕 he's also found a kind of insidious prejudice.〔主〕
+main 主语＋谓语:he's … found | 宾语:a kind
+gist 但他也发现了一种隐蔽的偏见
+mod of insidious prejudice → a kind | 介词短语作补足说明 | 这种东西是隐蔽而有害的偏见
+point he's 在 found 前是 he has；found 是过去分词，和 has 共同构成现在完成时谓语。
+
+# 2018-1|3:1
+type 简单句｜动名词短语作主语＋被动结构
+chunks Working with your hands〔主〕 is seen as almost a mark of inferiority.〔主〕
+main 主语:Working with your hands | 谓语:is seen | 主语补足语:a mark
+gist 动手劳动几乎被视为低人一等的标志
+mod as almost a mark of inferiority → is seen | 身份或评价补足 | be seen as 表示被看作；almost 表示几乎
+mod of inferiority → a mark | 介词短语作定语 | 被当作低人一等的标志
+point Working with your hands 整体作主语，Working 不因处于句首就变成谓语；带时态的谓语是 is seen。
+
+# 2018-1|3:2
+type 主从复合句｜引语作 says 的内容；stereotype 后为同位语从句
+chunks Schools〔主〕 in the family of vocational education〔修〕 "have that stereotype...that〔主〕 it's for kids〔C1〕 who can't make it academically,"〔C2〕 he says.〔修〕
+main 主语:Schools | 谓语:have | 宾语:that
+gist 他说职业教育类学校背着一种“给学业不行的孩子准备”的成见
+C1 同位语从句 | 解释 stereotype 的内容 | that | 前面是抽象名词 stereotype，后面 it's for kids 主系表完整；that 不充当成分，整块交代成见的具体内容 | 主语＋谓语:it's | 表语:for kids
+C2 定语从句 in C1 | 修饰 kids | who | 前面是人的名词 kids，后面 can't make it academically 缺主语；who 代指 kids 作主语 | 主语:who | 谓语:can't make | 宾语:it
+mod he says → 整句 | 引述语 | he 是主语，says 是谓语；前面的引语是他说的内容，不是与它并列的主句
+mod in the family of vocational education → Schools | 介词短语作后置定语 | 属于职业教育类别的学校
+mod academically → make | 方面状语 | 在学业方面；make it 是成功、达到要求，不是制作某物
+point 完整宾语是 that stereotype，宾语中心词是 stereotype。原文 stereotype...that 粘在本条同一词元中，并非位于下一条；当前格式不能单独定位 stereotype，骨架栏仅定位 that，第二个 that 引出同位语从句。he says 是引述语，Schools have…是被引述的完整内容，二者不是没有连词却硬并列的两个主句；it's 还原为 it is。
+
+# 2018-1|4:0
+type 简单句｜系表结构
+chunks On one hand,〔修〕 that viewpoint is a logical product〔主〕 of America's evolution.〔修〕
+main 主语:that viewpoint | 谓语:is | 表语:a logical product
+gist 一方面，这种观点是美国发展变化的合理产物
+mod On one hand → 整句 | 篇章连接语 | 先承认这种看法有历史成因，后文再指出片面之处
+mod of America's evolution → product | 介词短语作定语 | 是美国经济社会演变的产物
+
+# 2018-1|4:1
+type 主从复合句｜that 定语从句中作表语
+chunks Manufacturing is not the economic engine〔主〕 that it once was.〔C1〕
+main 主语:Manufacturing | 谓语:is not | 表语:the economic engine
+gist 制造业不再是过去那样的经济引擎
+C1 定语从句 | 修饰 engine，比较过去的地位 | that | 前面是名词 engine，后面 it once was 缺表语；that 代指 engine 作 was 的表语，不是引出完整陈述的宾语从句 | 主语:it | 谓语:was | 表语:that
+mod once → was | 时间状语 | 曾经是，和现在 is not 对照
+
+# 2018-1|4:2
+type 主从复合句｜that 定语从句隔开主语和谓语
+chunks The job security〔主〕 that the US economy once offered to high school graduates〔C1〕 has largely evaporated.〔主〕
+main 主语:The job security | 谓语:has … evaporated
+gist 曾经给高中毕业生的就业保障大多已经消失
+C1 定语从句 | 修饰 job security | that | 前面是名词 job security，后面 the US economy once offered to…缺 offered 的直接宾语；that 代指就业保障作宾语 | 主语:the US economy | 谓语:offered | 宾语:that
+mod once → offered | 时间状语 | 过去曾经提供
+mod to high school graduates → offered | 接受对象说明 | 提供给高中毕业生
+mod largely → has … evaporated | 程度状语 | 大体上消失，不是全部岗位消失
+
+# 2018-1|4:3
+type 简单句｜系表结构
+chunks More education is the new principle.〔主〕
+main 主语:More education | 谓语:is | 表语:the new principle
+gist 接受更多教育成为新原则
+
+# 2018-1|4:4
+type 并列结构｜主句后补充省略的评价
+chunks We want more〔主〕 for our kids,〔修〕 and〔连〕 rightfully so.〔修〕
+main 主语:We | 谓语:want | 宾语:more
+gist 我们希望孩子得到更多，这样想合情合理
+mod for our kids → want | 受益对象状语 | 希望自己的孩子得到更多机会
+mod rightfully so → 整句 | 省略的评述 | so 回指“希望孩子得到更多”；相当于说这样想是正当的，不另造一个完整谓语
+
+# 2018-1|5:0
+type 主从复合句｜主语后插入补充；冒号后说明 point，含省略 that 的定语从句
+chunks But〔连〕 the headlong push〔主〕 into bachelor's degrees for all〔修〕 - and〔连〕 the subtle devaluing of anything less -〔修〕 misses an important point:〔主〕 That's not the only thing〔主〕 the American economy needs.〔C1〕
+main 主语:the headlong push | 谓语:misses | 宾语:an important point || 主语＋谓语:That's | 表语:not the only thing
+gist 一味推崇人人读学士忽略了一点：美国经济还需要其他人才
+C1 定语从句 | 修饰 thing | （省略 that） | 前面是名词 thing，后面 the American economy needs 缺宾语，省略的关系词代指 thing 作 needs 的宾语 | 主语:the American economy | 谓语:needs
+mod into bachelor's degrees for all → push | 介词短语作后置定语 | 推动所有人去读学士学位
+mod and the subtle devaluing of anything less → push | 插入补充 | 在两个破折号间补充一味推学士学位伴随的另一面：暗中贬低其他资历；主语中心仍是 push
+mod of anything less → devaluing | 动名词的对象补足 | 贬低低于学士学位的其他教育或资历
+point That's 是 That is；That 回指学士学位。破折号中的 and the subtle devaluing…是插入补充，谓语 misses 仍与主语中心 push 呼应。
+
+# 2018-1|5:1
+type 简单句｜主动谓语
+chunks Yes,〔修〕 a bachelor's degree opens more doors.〔主〕
+main 主语:a bachelor's degree | 谓语:opens | 宾语:more doors
+gist 学士学位确实能带来更多机会
+mod Yes → 整句 | 让步式肯定 | 承认大学学位有价值，再转向技能岗位的需求
+point opens doors 是机会的比喻，不是实际开门。
+
+# 2018-1|5:2
+type 简单句｜百分比名词短语作主语
+chunks But〔连〕 even now,〔修〕 54 percent of the jobs in the country are middle-skill jobs,〔主〕 such as construction and high-skill manufacturing.〔修〕
+main 主语:54 percent of the jobs | 谓语:are | 表语:middle-skill jobs
+gist 目前全国54%的岗位是中等技能岗位
+mod even now → are | 时间状语 | 即使在现在，技能岗位仍占很大比例
+mod in the country → jobs | 介词短语作定语 | 全国范围的岗位
+mod such as construction and high-skill manufacturing → middle-skill jobs | 举例说明 | 例如建筑业与高技能制造业的岗位
+point 百分比结构说明 jobs 中有多大比例，不能把 percent of 后的 jobs 完全删掉而丢失统计对象。
+
+# 2018-1|5:3
+type 简单句｜被动结构
+chunks But〔连〕 only 44 percent of workers are adequately trained.〔主〕
+main 主语:only 44 percent of workers | 谓语:are … trained
+gist 但仅44%的劳动者受过充分训练
+mod adequately → trained | 程度状语 | 训练达到岗位要求，和前句54%的岗位需求形成缺口
+
+# 2018-1|6:0
+type 主从复合句｜when 定语从句内含形容词补充、that 内容从句及定语从句
+chunks In other words,〔修〕 at a time〔修〕 when the working class has turned the country on its political head,〔C1〕 frustrated〔C1修〕 that the opportunity〔C2〕 that once defined America〔C3〕 is vanishing,〔C2〕 one obvious solution is staring us in the face.〔主〕
+main 主语:one obvious solution | 谓语:is staring | 宾语:us
+gist 一个明显的解决办法就在我们眼前
+C1 定语从句 | 修饰 time，交代当时的社会背景 | when | 前面是时间名词 time，后面 the working class has turned the country…主谓宾完整；when 作时间状语，相当于 at which | 主语:the working class | 谓语:has turned | 宾语:the country
+C2 宾语从句 in C1 | 说明 frustrated 的原因与内容 | that | 前面 frustrated 表示沮丧的情绪，后面 the opportunity…is vanishing 主谓完整；that 不作成分，说明为何沮丧 | 主语:the opportunity | 谓语:is vanishing
+C3 定语从句 in C2 | 修饰 opportunity | that | 前面是名词 opportunity，后面 once defined America 缺主语；that 代指 opportunity 作 defined 的主语 | 主语:that | 谓语:defined | 宾语:America
+mod In other words → 整句 | 换言说明 | 把前面的技能缺口转化为解决就业问题的思路
+mod at a time → is staring | 时间状语 | 在这样一个时期，后面的 when 从句进一步限定时期
+mod on its political head → turned | 结果或状态补充 | turn…on its head 表示颠覆；political 限定为政治层面的变化
+mod frustrated → the working class | 形容词作补充说明 | 沮丧的是工人阶层，不是 solution
+mod in the face → is staring | 习语补足 | stare someone in the face 表示显而易见、就在眼前
+
+# 2018-1|6:1
+type 并列复合句｜there be 与 but 主句并列；who 定语从句
+chunks There is a gap〔主〕 in working-class jobs,〔修〕 but〔连〕 the workers〔主〕 who need those jobs most〔C1〕 aren't equipped〔主〕 to do them.〔修〕
+main 谓语:is | 主语:a gap || &but || 主语:the workers | 谓语:aren't equipped
+gist 岗位有缺口，但最需要岗位的人却没有胜任能力
+C1 定语从句 | 修饰 workers | who | 前面是人的名词 workers，后面 need those jobs most 缺主语，who 代指 workers 作 need 的主语 | 主语:who | 谓语:need | 宾语:those jobs
+mod in working-class jobs → gap | 介词短语作定语 | 工人阶层岗位方面的缺口
+mod most → need | 程度状语 | 最需要这些工作
+mod to do them → equipped | 不定式补足说明 | 胜任这些工作，them 指 those jobs
+point 第二句谓语是 aren't equipped；to do 不带时态，只补足“具备什么能力”。
+
+# 2018-1|6:2
+type 简单句｜进行时＋不定式作宾语
+chunks Koziatek's Manchester School of Technology High School is trying to fill that gap.〔主〕
+main 主语:Koziatek's Manchester School of Technology High School | 谓语:is trying | 宾语:to fill that gap
+gist 科齐亚泰克所在学校正努力填补技能供求缺口
+point is trying 是带时态的主句谓语；to fill 是 trying 的不定式宾语，不是第二个谓语。gap 回指岗位需求与劳动者技能之间的缺口。
+
+# 2018-1|7:0
+type 简单句｜系表结构
+chunks Koziatek's school is a wake-up call.〔主〕
+main 主语:Koziatek's school | 谓语:is | 表语:a wake-up call
+gist 科齐亚泰克的学校给教育界敲响警钟
+point wake-up call 强调提醒人重新思考教育模式，不是在批评学校办得差。
+
+# 2018-1|7:1
+type 主从复合句｜when 条件或时间状语从句
+chunks When education becomes one-size-fits-all,〔C1〕 it risks overlooking a nation's diversity of gifts.〔主〕
+main 主语:it | 谓语:risks | 宾语:overlooking a nation's diversity of gifts
+gist 教育一旦千篇一律，就可能忽视人的多样才能
+C1 状语从句 | 说明风险出现的条件 | When | When 前面没有被修饰的时间名词，后面 education becomes one-size-fits-all 主系表完整；整块限制主句风险何时出现 | 主语:education | 谓语:becomes | 表语:one-size-fits-all
+mod of gifts → diversity | 介词短语作定语 | 才能的多样性；gifts 在这里是天赋，不是礼物
+point overlooking…是 risks 的动名词宾语，不是主句谓语；it 指 education。
+
+# 2018-2|0:0
+type 主从复合句｜while 让步从句；it 形式主语＋that 主语从句
+chunks While fossil fuels〔C1〕 - coal, oil, gas -〔C1修〕 still generate roughly 85 percent of the world's energy supply,〔C1〕 it's clearer than ever〔主〕 that the future belongs to renewable sources〔C2〕 such as wind and solar.〔C2修〕
+main 主语＋谓语:it's | 表语:clearer | 真正主语:C2
+gist 尽管化石燃料仍占大头，未来属于可再生能源已更加清楚
+C1 让步状语从句 | 承认化石燃料当前的主导地位 | While | While 在句首，后面 fossil fuels still generate…主谓宾完整；它不修饰名词，而与主句“未来属于可再生能源”构成让步 | 主语:fossil fuels | 谓语:generate | 宾语:roughly 85 percent of the world's energy supply
+C2 主语从句 | 说明什么越来越清楚 | that | 前面 it's clearer 中 it 是形式主语；that 后 the future belongs to renewable sources 主谓和介词补足完整，整块为真正主语 | 主语:the future | 谓语:belongs
+mod coal, oil, gas → fossil fuels | 同位语 | 列举化石燃料：煤、石油、天然气
+mod still → generate | 时间状语 | 目前仍然占主导
+mod than ever → clearer | 比较补足 | 比以往任何时候都更清楚
+mod to renewable sources → belongs | 介词补足 | belong to 表示属于
+mod such as wind and solar → renewable sources | 举例说明 | 风能、太阳能等可再生能源
+point it's 是 it is，主语与系动词缩在同一词中。
+
+# 2018-2|0:1
+type 并列句｜冒号后提供转型加速的证据
+chunks The move〔主〕 to renewables〔修〕 is picking up momentum〔主〕 around the world:〔修〕 They now account for more than half of new power sources〔主〕 going on line.〔修〕
+main 主语:The move | 谓语:is picking up | 宾语:momentum || 主语:They | 谓语:account for | 宾语:more than half of new power sources
+gist 转向可再生能源的势头在增强，新投产电源已有一半以上来自它们
+mod to renewables → move | 介词短语作定语 | 向可再生能源的转变
+mod around the world → is picking up | 范围状语 | 全球范围内
+mod now → account for | 时间状语 | 目前的占比
+mod going on line → new power sources | 现在分词作后置定语 | 正在并网投产的新电源，不是所有存量能源
+point They 指 renewables；going 没有 be，不是第三套谓语。
+
+# 2018-2|1:0
+type 简单句｜stem from 表原因；不定式说明 commitment 内容
+chunks Some growth stems〔主〕 from a commitment〔修〕 by governments and farsighted businesses〔修〕 to fund cleaner energy sources.〔修〕
+main 主语:Some growth | 谓语:stems
+gist 部分增长来自政府和企业资助清洁能源的承诺
+mod from a commitment → stems | 原因补足 | stem from 表示源于
+mod by governments and farsighted businesses → commitment | 介词短语作定语 | 作出承诺的是政府和有远见的企业
+mod to fund cleaner energy sources → commitment | 不定式作后置定语 | 承诺的内容是为更清洁的能源提供资金
+
+# 2018-2|1:1
+type 简单句｜about 介词短语作表语
+chunks But〔连〕 increasingly〔修〕 the story is about the plummeting prices of renewables,〔主〕 especially wind and solar.〔修〕
+main 主语:the story | 谓语:is | 表语:about the plummeting prices
+gist 但越来越重要的原因是可再生能源价格急降
+mod of renewables → prices | 介词短语作定语 | 可再生能源的价格
+mod especially wind and solar → renewables | 举例限定 | 特别是风能和太阳能
+mod increasingly → 整句 | 趋势状语 | 价格因素在解释增长时越来越重要
+point plummeting 修饰 prices，表示急剧下降，不是本句谓语；带时态的谓语是 is。
+
+# 2018-2|1:2
+type 并列句｜and 后省略重复的 has dropped
+chunks The cost of solar panels has dropped〔主〕 by 80 percent〔修〕 and〔连〕 the cost of wind turbines〔主〕 by close to one-third〔修〕 in the past eight years.〔修〕
+main 主语:The cost | 谓语:has dropped || &and || 主语:the cost
+gist 八年间太阳能板成本降80%，风机成本降近三分之一
+mod of solar panels → The cost | 介词短语作定语 | 太阳能板的成本
+mod by 80 percent → has dropped | 幅度状语 | 下降了80%，不是降到80%
+mod of wind turbines → the cost | 介词短语作定语 | 风力涡轮机的成本
+mod by close to one-third → the cost | 省略谓语后的幅度说明 | 第二分句补回 has dropped，下降近三分之一
+mod in the past eight years → 整句 | 时间状语 | 两种成本都在过去八年下降
+point and 后有新主语 the cost of wind turbines，是省略谓语的并列分句；不能误认两种成本共用一个主语。
+
+# 2018-2|2:0
+type 简单句｜地点状语前置
+chunks In many parts of the world〔修〕 renewable energy is already a principal energy source.〔主〕
+main 主语:renewable energy | 谓语:is | 表语:a principal energy source
+gist 在许多地区，可再生能源已经成为主要能源
+mod In many parts of the world → is | 范围状语 | 世界许多地方，并非每个地方
+mod already → is | 时间状语 | 已经成为现实
+
+# 2018-2|2:1
+type 简单句｜不定式修饰 enough electricity
+chunks In Scotland,〔修〕 for example,〔修〕 wind turbines provide enough electricity〔主〕 to power 95 percent of homes.〔修〕
+main 主语:wind turbines | 谓语:provide | 宾语:enough electricity
+gist 苏格兰风机提供的电力足以满足95%的家庭用电
+mod In Scotland → provide | 地点状语 | 以苏格兰为例
+mod for example → 整句 | 举例连接语 | 支持上一句“许多地区已把可再生能源作为主要能源”
+mod to power 95 percent of homes → enough electricity | 不定式作后置定语 | enough…to…说明电量足够做什么
+
+# 2018-2|2:2
+type 主从复合句｜while 让步或对比状语从句
+chunks While the rest of the world takes the lead,〔C1〕 notably China and Europe,〔C1修〕 the United States is also seeing a remarkable shift.〔主〕
+main 主语:the United States | 谓语:is … seeing | 宾语:a remarkable shift
+gist 其他地区领先，美国也在发生显著转变
+C1 让步兼对比状语从句 | 对照其他地区与美国的发展 | While | While 后 the rest of the world takes the lead 主谓宾完整，前面没有被修饰的名词；整块与美国也在转变构成对比 | 主语:the rest | 谓语:takes | 宾语:the lead
+mod of the world → rest | 介词短语作补足说明 | 世界其他地区
+mod notably China and Europe → the rest | 举例说明 | 特别是中国与欧洲
+mod also → seeing | 添加状语 | 美国也有进展，不等于发展程度已经相同
+
+# 2018-2|2:3
+type 倒装引述句｜报告内容在前，reported 后主语倒装
+chunks In March,〔修〕 for the first time,〔修〕 wind and solar power accounted for more than 10 percent of the power〔主〕 generated in the US,〔修〕 reported the US Energy Information Administration.〔修〕
+main 主语:wind and solar power | 谓语:accounted for | 宾语:more than 10 percent of the power
+gist 美国能源信息署报告：风能和太阳能首次贡献了超过10%的发电量
+mod reported the US Energy Information Administration → 整句 | 倒装引述语 | reported 是谓语，后面的 the US Energy Information Administration 是主语；引述语交代信息来源，不是与报告内容并列的主句
+mod In March → accounted for | 时间状语 | 数据对应3月份，不自行补上文章未给的年份
+mod for the first time → accounted for | 时间状语 | 首次超过该占比
+mod generated in the US → power | 过去分词作后置定语 | 美国所发的电；generated 没有助动词，不是主句谓语
+point reported 的主语在它后面；前面的 wind…accounted…是报告内容，不能把 Administration 当 accounted 的主语。
+
+# 2018-2|3:0
+type 简单句｜underline…as…说明强调的地位
+chunks President Trump has underlined fossil fuels〔主〕 - especially coal -〔修〕 as the path to economic growth.〔修〕
+main 主语:President Trump | 谓语:has underlined | 宾语:fossil fuels
+gist 特朗普强调化石燃料是经济增长之路
+mod especially coal → fossil fuels | 举例强调 | 尤其强调煤炭
+mod as the path to economic growth → fossil fuels | 宾语补足说明 | 把化石燃料视为通向经济增长的道路
+mod to economic growth → path | 介词短语作定语 | 通向经济增长
+
+# 2018-2|3:1
+type 简单句｜dismiss…as…表示斥为
+chunks In a recent speech〔修〕 in Iowa,〔修〕 he dismissed wind power〔主〕 as an unreliable energy source.〔修〕
+main 主语:he | 谓语:dismissed | 宾语:wind power
+gist 他把风能斥为不可靠的能源
+mod In a recent speech → dismissed | 场合状语 | 在最近的一次演讲中
+mod in Iowa → speech | 地点定语 | 在艾奥瓦州所作的演讲
+mod as an unreliable energy source → wind power | 宾语补足说明 | 他给风能的负面评价，并非作者认可这个判断
+
+# 2018-2|3:2
+type 主从复合句｜两个并列的 where 定语从句；前一从句有并列谓语
+chunks But〔连〕 that message did not play well〔主〕 with many in Iowa,〔修〕 where wind turbines dot the fields and provide 36 percent of the state's electricity generation〔C1〕 - and〔连〕 where tech giants〔C2〕 like Microsoft〔C2修〕 are being attracted〔C2〕 by the availability of clean energy〔C2修〕 to power their data centers.〔C2修〕
+main 主语:that message | 谓语:did not play
+gist 那番话没有得到艾奥瓦州许多人的认同
+C1 非限制性定语从句 | 补充 Iowa 的风电发展情况 | where | 前面是地点名词 Iowa，后面 wind turbines dot…and provide…主谓宾完整；where 作地点状语，两个动词共用 wind turbines | 主语:wind turbines | 谓语:dot | 宾语:the fields | 谓语:provide | 宾语:36 percent of the state's electricity generation
+C2 非限制性定语从句 | 同样补充 Iowa，说明科技企业被吸引 | where | 前面 and 连接的是两个修饰 Iowa 的 where 从句；后面 tech giants are being attracted 主谓完整，where 作地点状语 | 主语:tech giants | 谓语:are being attracted
+mod well → play | 方式状语 | play well with 表示受到某群体欢迎，此处是否定
+mod with many in Iowa → play | 接受对象状语 | 当地许多人不认同
+mod like Microsoft → tech giants | 举例定语 | 例如微软这样的科技巨头
+mod by the availability of clean energy → attracted | 被动结构的原因说明 | 吸引它们的是当地可获得清洁能源
+mod to power their data centers → clean energy | 不定式作后置定语 | 可用于给数据中心供电的能源
+
+# 2018-2|4:0
+type 主从复合句｜引述的疑问句说明 question，含 when 状语从句
+chunks The question〔主〕 "what happens〔C1〕 when the wind doesn't blow or the sun doesn't shine?"〔C2〕 has provided a quick put-down〔主〕 for skeptics.〔修〕
+main 主语:The question | 谓语:has provided | 宾语:a quick put-down
+gist 这个问题给怀疑者提供了迅速贬低可再生能源的说辞
+C1 同位语从句 | 引述 question 的具体问题 | what | 前面是名词 question，引号内 what happens 是直接问句，what 本身作 happens 的主语；整句是对 question 内容的说明 | 主语:what | 谓语:happens
+C2 时间状语从句 in C1 | 限定 happens 的情境 | when | 前面 what happens 已有主谓，when 后 the wind doesn't blow 与 the sun doesn't shine 各自主谓完整，整块说明何时发生问题 | 主语:the wind | 谓语:doesn't blow | 主语:the sun | 谓语:doesn't shine
+mod for skeptics → has provided | 受益对象状语 | 给怀疑者提供反驳说辞
+point what 是被引用问句里的疑问代词，不是连接两个陈述句的关系代词；or 后有新主语 the sun。
+
+# 2018-2|4:1
+type 简单句｜make＋宾语＋宾补；ability 后接不定式
+chunks But〔连〕 a boost〔主〕 in the storage capacity of batteries〔修〕 is making their ability〔主〕 to keep power flowing around the clock〔修〕 more likely.〔主〕
+main 主语:a boost | 谓语:is making | 宾语:their ability | 宾补:more likely
+gist 储能能力增强，让全天候持续供电更有可能实现
+mod in the storage capacity of batteries → boost | 介词短语作定语 | 电池储能容量方面的提升
+mod of batteries → capacity | 介词短语作定语 | 电池的容量
+mod to keep power flowing around the clock → ability | 不定式作后置定语 | 这种能力是让电力全天不断供应；keep 后 power 作宾语，flowing 作宾补
+mod around the clock → flowing | 时间状语 | 全天候，连续不断
+point their 指前文讨论的可再生能源。flowing 在 keep power flowing 中作宾补，不是主句谓语。
+
+# 2018-2|5:0
+type 主从复合句｜被动主句＋who 非限制性定语从句
+chunks The advance is driven〔主〕 in part〔修〕 by vehicle manufacturers,〔修〕 who are placing big bets〔C1〕 on battery-powered electric vehicles.〔C1修〕
+main 主语:The advance | 谓语:is driven
+gist 这一进展部分是汽车制造商推动的
+C1 非限制性定语从句 | 补充说明 manufacturers 的投资行为 | who | 前面是人的群体 manufacturers，后面 are placing big bets 缺主语；who 代指制造商作主语 | 主语:who | 谓语:are placing | 宾语:big bets
+mod in part → is driven | 程度状语 | 部分由此推动，不是唯一因素
+mod by vehicle manufacturers → driven | 被动结构的施事 | 汽车制造商是推动者
+mod on battery-powered electric vehicles → bets | 介词短语作补足说明 | 巨额押注于电池驱动的电动汽车
+
+# 2018-2|5:1
+type 主从复合句｜although 让步状语从句
+chunks Although electric cars are still a rarity〔C1〕 on roads now,〔C1修〕 this massive investment could change the picture〔主〕 rapidly in coming years.〔修〕
+main 主语:this massive investment | 谓语:could change | 宾语:the picture
+gist 尽管电动汽车目前少见，巨额投资可能很快改变局面
+C1 让步状语从句 | 承认电动汽车当前尚不普及 | Although | Although 后 electric cars are still a rarity 主系表完整，前面没有被修饰的名词；整块与主句将来可能改变构成让步 | 主语:electric cars | 谓语:are | 表语:a rarity
+mod still → are | 时间状语 | 当前仍然如此
+mod on roads now → a rarity | 范围和时间说明 | 现在道路上的电动汽车仍少见
+mod rapidly in coming years → change | 方式与时间状语 | 未来几年可能迅速改变；could 表可能，不是保证
+
+# 2018-2|6:0
+type 主从复合句｜while 让步状语从句
+chunks While there's a long way〔C1〕 to go,〔C1修〕 the trend lines〔主〕 for renewables〔修〕 are spiking.〔主〕
+main 主语:the trend lines | 谓语:are spiking
+gist 虽然路还很长，可再生能源的发展趋势正在猛升
+C1 让步状语从句 | 承认转型仍需时间 | While | While 后 there's a long way 是完整存在结构，there 是引导词；没有被修饰的时间名词，整块与主句的快速上升构成让步 | 谓语:there's | 主语:a long way
+mod to go → way | 不定式作后置定语 | 仍要走的路，表示还有发展空间
+mod for renewables → trend lines | 介词短语作定语 | 可再生能源的发展曲线
+
+# 2018-2|6:1
+type 简单句｜appear＋不定式；目的或结果补充
+chunks The pace〔主〕 of change in energy sources〔修〕 appears to be speeding up〔主〕 - perhaps just in time〔修〕 to have a meaningful effect〔修〕 in slowing climate change.〔修〕
+main 主语:The pace | 谓语:appears to be speeding up
+gist 能源转型的速度似乎正在加快，或许赶得及帮助减缓气候变化
+mod of change in energy sources → pace | 介词短语作定语 | 能源来源变化的速度，不是气候变化的速度
+mod perhaps just in time → 整句 | 推测及时间补充 | 也许恰好赶得及，并非确定预测
+mod to have a meaningful effect → in time | 不定式补足说明 | 赶得及产生实质作用
+mod in slowing climate change → effect | 介词短语作后置定语 | 作用在于减缓气候变化；slowing 是介词后的动名词
+point appear to do 整体作谓语；本句谓语为 appears to be speeding up，时态由 appears 承担，to be speeding up 不单独构成第二个谓语。
+
+# 2018-2|6:2
+type 主从复合句｜what 主语从句内含 does or doesn't do
+chunks What Washington does〔C1〕 - or doesn't do -〔C1〕 to promote alternative energy〔C1修〕 may mean less and less〔主〕 at a time of a global shift in thought.〔修〕
+main 主语:C1 | 谓语:may mean | 宾语:less and less
+gist 在全球观念转变之际，华盛顿是否推动替代能源可能越来越不重要
+C1 主语从句 | 整块作 may mean 的主语 | What | What 位于句首，到 may mean 之前形成一整块；Washington does 或 doesn't do 缺宾语，What 既引导从句又作 do 的宾语 | 主语:Washington | 谓语:does … doesn't do | 宾语:What
+mod to promote alternative energy → does … doesn't do | 不定式作目的状语 | 为推动替代能源而采取或未采取的行动
+mod at a time of a global shift in thought → may mean | 时间背景状语 | 在全球观念已经转向的时期
+point Washington 借指美国联邦政府；less and less 是影响越来越小，不能读成可再生能源越来越不重要。
+
+# 2018-3|0:0
+type 简单句｜并列名词作主语，原文连字符粘连
+chunks The power and ambition〔主〕 of the giants of the digital economy〔修〕 is astonishing-〔主〕
+main 主语:The power … ambition | 谓语:is | 表语:astonishing-
+gist 数字经济巨头的实力和野心令人震惊
+mod of the giants of the digital economy → power … ambition | 介词短语作定语 | 实力和野心属于数字经济巨头
+mod of the digital economy → giants | 介词短语作定语 | 数字经济领域的巨头
+point 原文 is 为单数，astonishing 后粘着连字符，均按已有原文保留。astonishing 是形容词表语，不是动作进行时。
+
+# 2018-3|1:0
+type 并列复合句｜but 并列两主句；which 定语从句
+chunks Amazon has just announced the purchase〔主〕 of the upmarket grocery chain Whole Foods〔修〕 for ＄ 13.5bn,〔修〕 but〔连〕 two years ago〔修〕 Facebook paid even more than that〔主〕 to acquire the WhatsApp messaging service,〔修〕 which doesn't have any physical product at all.〔C1〕
+main 主语:Amazon | 谓语:has … announced | 宾语:the purchase || &but || 主语:Facebook | 谓语:paid | 宾语:even more than that
+gist 亚马逊刚宣布收购全食超市，而脸书更早花更多钱收购WhatsApp
+C1 非限制性定语从句 | 补充 WhatsApp 服务没有实体产品 | which | 前面是名词 the WhatsApp messaging service，后面 doesn't have…缺主语；which 代指该服务作主语 | 主语:which | 谓语:doesn't have | 宾语:any physical product
+mod just → announced | 时间状语 | 刚刚宣布
+mod of the upmarket grocery chain Whole Foods → purchase | 介词短语作定语 | 收购的对象是高端食品杂货连锁全食超市
+mod for ＄ 13.5bn → purchase | 金额说明 | 收购金额为135亿美元，保留原文货币符号与空格
+mod two years ago → paid | 时间状语 | 两年前
+mod to acquire the WhatsApp messaging service → paid | 不定式作目的状语 | 花钱收购即时通信服务
+mod at all → doesn't have | 否定强调 | 根本没有实体产品
+
+# 2018-3|1:1
+type 主从复合句｜what 主语从句＋系表结构
+chunks What WhatsApp offered Facebook〔C1〕 was an intricate and finely detailed web〔主〕 of its users' friendships and social lives.〔修〕
+main 主语:C1 | 谓语:was | 表语:an … web
+gist WhatsApp提供给脸书的是用户社交关系的精细网络
+C1 主语从句 | 整块作 was 的主语 | What | What 位于句首，到 was 前构成整体；WhatsApp offered Facebook 有间接宾语但缺所提供的东西，What 作直接宾语 | 主语:WhatsApp | 谓语:offered | 间接宾语:Facebook | 直接宾语:What
+mod intricate and finely detailed → web | 形容词定语 | 网络错综复杂，而且细节非常丰富
+mod of its users' friendships and social lives → web | 介词短语作定语 | 网络呈现用户的友谊与社交生活
+point Facebook 是 offered 的间接宾语，不是从句主语；What 既是连接词，又承担所提供之物的成分。
+
+# 2018-3|2:0
+type 并列复合句｜promise 双宾语；as soon as 时间状语从句
+chunks Facebook promised the European commission〔主〕 then〔修〕 that it would not link phone numbers to Facebook identities,〔C1〕 but〔连〕 it broke the promise〔主〕 almost〔修〕 as soon as the deal went through.〔C2〕
+main 主语:Facebook | 谓语:promised | 间接宾语:the European commission | 直接宾语:C1 || &but || 主语:it | 谓语:broke | 宾语:the promise
+gist 脸书承诺不关联电话号码与身份，却在交易完成后很快违约
+C1 宾语从句 | 作 promised 的直接宾语，说明承诺内容 | that | 前面 promised 已有接受承诺的对象 the European commission，但缺承诺的内容；that 后 it would not link…成分完整，that 不作成分 | 主语:it | 谓语:would not link | 宾语:phone numbers
+C2 时间状语从句 | 说明 broke the promise 何时发生 | as soon as | 前面 it broke the promise 已有主谓宾，后面 the deal went through 主谓完整；as soon as 引出时间关系“一…就…” | 主语:the deal | 谓语:went through
+mod then → promised | 时间状语 | 当时作出的承诺
+mod to Facebook identities → link | 介词补足 | link A to B，把电话号码与脸书身份关联
+mod almost → C2 | 程度限制 | 几乎刚完成就违约，突出间隔短
+
+# 2018-3|2:1
+type 主从复合句｜what 宾语从句；who 与省略的 to whom 从句；并列谓语
+chunks Even without knowing〔修〕 what was in the messages,〔C1〕 the knowledge〔主〕 of〔修〕 who sent them〔C2〕 and to whom〔C3〕 was enormously revealing〔主〕 and〔连〕 still could be.〔主〕
+main 主语:the knowledge | 谓语:was | 表语:revealing || &and || 谓语:could be
+gist 仅知道消息来往对象，就曾经且仍可能透露大量信息
+C1 宾语从句 | 作 knowing 的宾语 | what | 前面 knowing 是需要内容的动名词，后面 was in the messages 缺主语；what 作主语，整块是知道的内容 | 主语:what | 谓语:was | 表语:in the messages
+C2 宾语从句 | 作 of 的宾语，说明掌握什么信息 | who | 前面介词 of 需要宾语，后面 sent them 缺主语；who 作 sent 的主语，意为谁发了消息 | 主语:who | 谓语:sent | 宾语:them
+C3 省略的并列宾语从句 | 与 C2 并列，同作 of 的宾语 | whom | 前面 and 连接两个疑问内容，to whom 是介词前置的接收对象，省略重复的主谓宾，完整义为消息被发给谁 | 宾语:whom
+mod Even without knowing → 整句 | 让步状语框架 | 即使不知道消息内容；knowing 后接从句①
+mod enormously → revealing | 程度状语 | 能透露大量信息
+mod still → could be | 时间状语 | 现在仍可能如此；be 后省略 revealing
+point 主语中心是 knowledge，不是 who；and still could be 与 was revealing 共用主语，could be 后省略相同表语。
+
+# 2018-3|2:2
+type 主从复合句｜反问句；in which 定语从句
+chunks What political journalist, what party whip, would not want to know the makeup〔主〕 of the WhatsApp groups〔修〕 in which Theresa May's enemies are currently plotting?〔C1〕
+main 主语:What political journalist, what party whip | 谓语:would not want | 宾语:to know the makeup
+gist 哪个政治记者或党鞭会不想知道这些群组由谁组成？
+C1 定语从句 | 修饰 WhatsApp groups | in which | 前面是名词 groups，后面 Theresa May's enemies are currently plotting 主谓完整，which 作介词 in 的宾语，整组在从句中作地点状语 | 主语:Theresa May's enemies | 谓语:are … plotting
+mod of the WhatsApp groups → makeup | 介词短语作定语 | WhatsApp群组的成员构成
+mod currently → plotting | 时间状语 | 当时正在密谋
+point 句首 What 修饰两个表示人的名词短语，构成反问主语，不是主语从句连接词。反问传达“都想知道”，不是说无人关心。
+
+# 2018-3|2:3
+type 主从复合句｜it 形式主语；that 主语从句内含定语从句和介词后的宾语从句
+chunks It may be〔主〕 that the value〔C1〕 of Whole Foods to Amazon〔C1修〕 is not so much the 460 shops〔C1〕 it owns,〔C2〕 but the records〔C1〕 of〔C1修〕 which customers have purchased what.〔C3〕
+main 形式主语:It | 谓语:may be | 真正主语:C1
+gist 全食对亚马逊的价值，或许主要在购物记录而非门店
+C1 主语从句 | it 占位，that 从句给出可能成立的事实 | that | 前面 It may be 中 It 不指具体事物；that 后 the value is…主系表完整，整块作真正主语，相当于“可能的情况是…” | 主语:the value | 谓语:is | 表语:not so much the 460 shops … the records
+C2 定语从句 in C1 | 修饰 shops | （省略 that） | 前面是名词 shops，后面 it owns 缺宾语；省略的关系词指 shops，作 owns 的宾语 | 主语:it | 谓语:owns
+C3 宾语从句 in C1 | 作 of 的宾语，说明记录的内容 | which | 前面介词 of 缺宾语，后面 which customers have purchased what 中 which 限定 customers，what 作 purchased 的宾语；整个疑问内容作 of 的宾语 | 主语:which customers | 谓语:have purchased | 宾语:what
+mod of Whole Foods to Amazon → value | 介词短语作定语 | 全食对亚马逊的价值
+point not so much A but B 是“与其说A，不如说B”；which customers 是哪些顾客，which 不单独作主语。It may be that…也可称外置的内容从句结构，不能把 may be 与后面的 is 合成一个谓语。
+
+# 2018-3|3:0
+type 简单句｜appear 后不定式说明表面判断
+chunks Competition law appears to be the only way〔主〕 to address these imbalances of power.〔修〕
+main 主语:Competition law | 谓语:appears | 表语:to be the only way
+gist 竞争法似乎是解决这些权力失衡的唯一途径
+mod to address these imbalances of power → way | 不定式作后置定语 | 说明解决什么问题的方法
+mod of power → imbalances | 介词短语作定语 | 权力的失衡
+point appears 带时态；to be 是其不定式补足语，不是第二个独立谓语。
+
+# 2018-3|3:1
+type 简单句｜系表结构
+chunks But〔连〕 it is clumsy.〔主〕
+main 主语:it | 谓语:is | 表语:clumsy
+gist 但竞争法应对这些问题显得笨拙
+point it 指 competition law；后文分别解释反应慢和保护对象不匹配。
+
+# 2018-3|3:2
+type 简单句｜过去分词短语表比较
+chunks For one thing,〔修〕 it is very slow〔主〕 compared to the pace of change within the digital economy.〔修〕
+main 主语:it | 谓语:is | 表语:slow
+gist 首先，相比数字经济变化，竞争法反应很慢
+mod For one thing → 整句 | 列举连接语 | 先说第一个问题
+mod very → slow | 程度状语 | 很缓慢
+mod compared to the pace of change within the digital economy → slow | 过去分词短语作比较状语 | 与数字经济内的变化速度相比；compared 无独立时态
+mod within the digital economy → change | 介词短语作定语 | 数字经济内部的变化
+
+# 2018-3|3:3
+type 主从复合句｜by the time 时间状语从句＋不定式结果补充
+chunks By the time a problem has been addressed and remedied〔C1〕 it may have vanished〔主〕 in the marketplace,〔修〕 to be replaced by new abuses of power.〔修〕
+main 主语:it | 谓语:may have vanished
+gist 等法律处理完，旧问题可能早已消失，却又被新的权力滥用取代
+C1 时间状语从句 | 给出主句发生的时间界限 | By the time | By the time 后 a problem has been addressed and remedied 主语、并列被动谓语完整，整块作时间状语，意思是到处理完时 | 主语:a problem | 谓语:has been addressed … remedied
+mod in the marketplace → vanished | 地点状语 | 从市场上消失
+mod to be replaced by new abuses of power → 整句 | 不定式作结果补充 | 随之却被新的权力滥用替代，不是旧问题主动想被替换
+mod of power → abuses | 介词短语作定语 | 对权力的滥用
+point addressed 与 remedied 共用 has been；主句 may have vanished 表示到那时可能已经消失，不是将来才开始消失。
+
+# 2018-3|3:4
+type 简单句｜there be 存在句
+chunks But〔连〕 there is a deeper conceptual problem,〔主〕 too.〔修〕
+main 谓语:is | 主语:a deeper conceptual problem
+gist 此外还存在一个更深层的概念问题
+mod too → 整句 | 添加状语 | 除了反应慢，还有保护对象界定的问题
+
+# 2018-3|3:5
+type 并列复合句｜省略的被动状语从句＋when 状语从句
+chunks Competition law〔主〕 as presently interpreted〔C1〕 deals with financial disadvantage〔主〕 to consumers〔修〕 and〔连〕 this is not obvious〔主〕 when the users〔C2〕 of these services〔C2修〕 don't pay for them.〔C2〕
+main 主语:Competition law | 谓语:deals with | 宾语:financial disadvantage || &and || 主语:this | 谓语:is not | 表语:obvious
+gist 现行解释关注消费者的金钱损失，而免费用户的这类损失不明显
+C1 省略的方式状语从句 | 限定按当前解释理解的竞争法 | as | 前面是 Competition law，as 后 presently interpreted 缺主语和 be，是 as it is presently interpreted 的省略；不是新的完整限定谓语 | 谓语:interpreted
+C2 时间兼条件状语从句 | 说明金钱损失何时不明显 | when | 前面 this is not obvious 主系表完整，后面 the users don't pay for them 主谓和介词补足完整；when 引出免费使用的情形 | 主语:the users | 谓语:don't pay
+mod presently → interpreted | 时间状语 | 目前对法律的解释
+mod to consumers → disadvantage | 介词短语作定语 | 消费者遭受的不利
+mod of these services → users | 介词短语作定语 | 使用这些服务的人
+mod for them → pay | 介词补足 | 为这些服务付费，them 指 services
+point this 指 financial disadvantage，不是说用户没有任何风险；as 从句中省略的 it is 不能当作原文中实际出现的词来标注。
+
+# 2018-3|3:6
+type 简单句｜否定系表结构
+chunks The users〔主〕 of their services〔修〕 are not their customers.〔主〕
+main 主语:The users | 谓语:are not | 表语:their customers
+gist 服务的用户并不是这些公司的付费顾客
+mod of their services → users | 介词短语作定语 | 数字巨头服务的使用者
+
+# 2018-3|3:7
+type 主从复合句的前段｜原有数据在 advertising 后错误断开，须接下两个条目
+chunks That would be the people〔主〕 who buy advertising〔C1〕
+main 主语:That | 谓语:would be | 表语:the people
+gist 真正的顾客是购买广告的人；后面的 from them 接在 buy advertising 后
+C1 定语从句 | 修饰 people；下一条开头 from them 仍属此从句 | who | 前面是人的名词 people，后面 buy advertising 缺主语；who 代指 people 作主语，from them 在下一条补出购买来源 | 主语:who | 谓语:buy | 宾语:advertising
+point 原文分句数据有断句问题。请连读本条、4:0、5:0：That would be the people who buy advertising from them - and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies. 本条不是在 advertising 处真正句末。
+
+# 2018-3|4:0
+type 跨条目句段｜开头承接 who 从句，and 后另起并列主句；宾语延至下一条
+chunks from them〔修〕 - and〔连〕 Facebook and Google,〔主〕 the two virtual giants,〔修〕 dominate digital〔主〕
+main 主语:Facebook and Google | 谓语:dominate
+gist 脸书与谷歌主宰数字广告；宾语的中心词 advertising 在下一条
+mod from them → 整句 | 承接上一条的介词补足 | 接在上一条 buy advertising 后，意思是向数字巨头购买广告；不修饰 dominate
+mod the two virtual giants → Facebook and Google | 同位语 | 这两个数字世界巨头
+point 这是已有原文的中段，不是独立句。digital 是下一条 advertising 的形容词定语，不能独自作 dominate 的完整宾语；完整宾语是跨条目的 digital advertising。
+
+# 2018-3|5:0
+type 跨条目句段｜advertising 补齐上一条 dominate 的宾语，本条没有独立谓语
+chunks advertising〔主〕 to the disadvantage of all other media and entertainment companies.〔修〕
+main 宾语:advertising
+gist 数字广告的主导地位使其他媒体和娱乐公司处于不利地位
+mod to the disadvantage of all other media and entertainment companies → 整句 | 结果状语 | 修饰上一条的 dominate digital advertising，表示这种支配让所有其他媒体和娱乐公司吃亏
+point 本条必须接在4:0的 digital 后读，不能给 advertising 硬配一个谓语。完整句及跨条目结构已在3:7说明；此处只标本条实际出现的宾语中心。
+
+# 2018-3|6:0
+type 并列复合句｜product 后省略 that 的定语从句；we 后同位语
+chunks The product〔主〕 they're selling〔C1〕 is data,〔主〕 and〔连〕 we,〔主〕 the users,〔修〕 convert our lives to data〔主〕 for the benefit of the digital giants.〔修〕
+main 主语:The product | 谓语:is | 表语:data || &and || 主语:we | 谓语:convert | 宾语:our lives
+C1 定语从句 | 修饰 product | （省略 that） | 前面是名词 product，后面 they're selling 缺宾语；省略的关系词指 product 作 selling 的宾语 | 主语＋谓语:they're selling
+gist 巨头卖的是数据，而我们把自己的生活转为数据让它们获益
+mod the users → we | 同位语 | 明确我们就是这些服务的用户
+mod to data → convert | 介词补足 | convert A to B，把生活转化为数据
+mod for the benefit of the digital giants → convert | 受益对象状语 | 最终使数字巨头获益
+point they're 是 they are，are selling 共同构成从句谓语；and 后有新主语 we，是并列主句。
+
+# 2018-3|6:1
+type 主从复合句｜just as…so…类比；内含省略 that 的定语从句和 when 状语从句
+chunks Just as some ants farm the bugs〔C1〕 called aphids〔C1修〕 for the honeydew〔C1修〕 they produce〔C2〕 when they feed,〔C3〕 so〔修〕 Google farms us〔主〕 for the data〔修〕 that our digital lives yield.〔C4〕
+main 主语:Google | 谓语:farms | 宾语:us
+gist 谷歌获取我们的生活数据，就像蚂蚁饲养蚜虫以获取蜜露
+C1 方式状语从句 | 提供蚂蚁与蚜虫的类比 | Just as | 句首 Just as 后 some ants farm the bugs 主谓宾完整，与主句 so Google farms us 相呼应，表示正如…也…，不是定语从句 | 主语:some ants | 谓语:farm | 宾语:the bugs
+C2 定语从句 in C1 | 修饰 honeydew | （省略 that） | 前面是名词 honeydew，后面 they produce 缺宾语，省略的关系词代指蜜露，作 produce 的宾语 | 主语:they | 谓语:produce
+C3 时间状语从句 in C2 | 修饰 produce，说明产生蜜露的时间 | when | 前面 they produce 加上关系词所代的宾语已完整，when 后 they feed 主谓完整；整块说明在蚜虫进食时产生蜜露 | 主语:they | 谓语:feed
+C4 定语从句 | 修饰 data | that | 前面是名词 data，后面 our digital lives yield 缺宾语，that 指数据，作 yield 的宾语 | 主语:our digital lives | 谓语:yield | 宾语:that
+mod called aphids → bugs | 过去分词作后置定语 | 被称为蚜虫的虫子
+mod for the honeydew → farm | 目的状语 | 蚂蚁养蚜虫为的是蜜露
+mod for the data → farms | 目的状语 | 谷歌“养”用户为的是数据
+mod so → 整句 | 类比呼应词 | 与 Just as 相呼应，不能机械译成因果关系“所以”
+point C2和C3中的 they 都指蚜虫，不是蚂蚁；类比双方是蚂蚁与蚜虫、谷歌与用户。
+
+# 2018-3|6:2
+type 并列复合句｜分号并列；where 宾语从句作 from 的宾语
+chunks Ants keep predatory insects away〔主〕 from〔修〕 where their aphids feed;〔C1〕 Gmail keeps the spammers out〔主〕 of our inboxes.〔修〕
+main 主语:Ants | 谓语:keep | 宾语:predatory insects | 宾补:away || 主语:Gmail | 谓语:keeps | 宾语:the spammers | 宾补:out
+gist 蚂蚁保护蚜虫免受捕食，Gmail则把垃圾邮件挡在收件箱外
+C1 宾语从句（地点名词性从句） | 作介词 from 的宾语 | where | 前面介词 from 缺地点宾语，后面 their aphids feed 主谓完整；where 在从句中作地点状语，整块指蚜虫取食的地方 | 主语:their aphids | 谓语:feed
+mod of our inboxes → out | 介词补足 | out of our inboxes，离开我们的收件箱
+point 这里 from 后直接接 where 从句，没有地点名词先行词，不能标成修饰某名词的定语从句。
+
+# 2018-3|6:3
+type 主从复合句｜even if 让步状语从句
+chunks It doesn't feel like a human or democratic relationship,〔主〕 even if both sides benefit.〔C1〕
+main 主语:It | 谓语:doesn't feel | 表语:like a human or democratic relationship
+gist 即使双方受益，这种关系也不像合乎人性或民主的关系
+C1 让步状语从句 | 承认双方受益仍不改变作者评价 | even if | 前面 It doesn't feel like…主句完整，后面 both sides benefit 主谓完整；even if 表示即使如此也成立的让步关系 | 主语:both sides | 谓语:benefit
+point It 指巨头与用户的关系；mutual benefit 不等于民主平等，作者借蚂蚁类比提出的正是这种权力关系问题。
+
+# 2018-4|0:0
+type 简单句｜目的状语前置＋同位语＋动名词宾语
+chunks To combat the trap〔修〕 of putting a premium on being busy,〔修〕 Cal Newport,〔主〕 author of Deep Work: Rules for Focused Success in a Distracted World,〔修〕 recommends building a habit of "deep work"〔主〕 - the ability to focus without distraction.〔修〕
+main 主语:Cal Newport | 谓语:recommends | 宾语:building a habit
+gist 纽波特建议培养深度工作的习惯，以避免把忙碌看得过重
+mod To combat the trap → recommends | 不定式作目的状语 | 提出建议是为了摆脱这种陷阱
+mod of putting a premium on being busy → trap | 介词短语作定语 | 陷阱在于过度看重忙碌；putting 和 being 均在介词后作动名词
+mod author of Deep Work: Rules for Focused Success in a Distracted World → Cal Newport | 同位语 | 介绍纽波特是《深度工作》一书作者，书名中的冒号不另起句子
+mod of "deep work" → habit | 介词短语作定语 | 深度工作的习惯
+mod the ability to focus without distraction → "deep work" | 同位语 | 解释深度工作：不受干扰地集中注意力的能力
+mod to focus without distraction → ability | 不定式作后置定语 | 具体是什么能力
+point recommends 带时态；building 是其动名词宾语，句首 To combat 是目的，不是主句谓语。
+
+# 2018-4|1:0
+type 主从复合句｜there be；be it…倒装让步补充；when 省略谓语
+chunks There are a number of approaches〔主〕 to mastering the art of deep work〔修〕 - be it lengthy retreats〔C1〕 dedicated to a specific task;〔C1修〕 developing a daily ritual; or taking a "journalistic" approach〔C1〕 to seizing moments of deep work〔C1修〕 when you can〔C2〕 throughout the day.〔C1修〕
+main 谓语:are | 主语:a number of approaches
+gist 掌握深度工作有多种方法，可闭关、建立日常仪式或随时抓住专注机会
+C1 让步状语从句（倒装） | 列举无论采用哪种方法 | be | 前面 there are…主句已成立，be it 是 whether it be 的倒装省略；后面的 retreats、developing、taking 并列作表语，无论是哪一种都属于 approaches | 主语:it | 谓语:be | 表语:lengthy retreats … developing a daily ritual … taking a "journalistic" approach
+C2 时间状语从句 in C1 | 说明何时抓住深度工作机会 | when | 前面 seizing moments 已有动宾，when 后 you can 省略重复的 seize moments of deep work；整块说明有机会时，不修饰某个时间名词 | 主语:you | 谓语:can
+mod to mastering the art of deep work → approaches | 介词短语作定语 | 掌握深度工作的方法；to 是介词，后接 mastering
+mod dedicated to a specific task → retreats | 过去分词作后置定语 | 专为某项任务而安排的长时间闭关
+mod to seizing moments of deep work → approach | 介词短语作定语 | 记者式方法：抓住能专注的片刻
+mod throughout the day → seizing | 时间状语 | 一整天中有机会便抓住
+point be it 里的 be 是固定让步倒装所用的虚拟形式，不能套用“没有时态就是动词原形短语”的判断；分号在此分隔列举项目，不是三个独立主句。
+
+# 2018-4|1:1
+type 主从复合句｜Whichever approach 为省略的让步状语
+chunks Whichever approach,〔C1〕 the key is to determine your length of focus time and stick to it.〔主〕
+main 主语:the key | 谓语:is | 表语:to determine your length of focus time … stick to it
+gist 无论采用哪种方法，关键都是确定并坚持自己的专注时长
+C1 省略的让步状语从句 | 表示方法任选，关键不变 | Whichever | 前面没有先行名词，Whichever approach 是 whichever approach you choose 的省略；approach 是被选择的宾语，省略主语 you 和谓语 choose | 宾语:Whichever approach
+point to determine 与省略 to 的 stick 并列，同作 is 的不定式表语；stick to it 的 it 指确定的专注时长。
+
+# 2018-4|2:0
+type 简单句｜并列不定式表目的
+chunks Newport also recommends "deep scheduling"〔主〕 to combat constant interruptions and get more done in less time.〔修〕
+main 主语:Newport | 谓语:recommends | 宾语:"deep scheduling"
+gist 纽波特还建议深度日程安排，以减少打断并提高效率
+mod also → recommends | 添加状语 | 在培养深度工作习惯外，还建议预排专注时间
+mod to combat constant interruptions and get more done in less time → recommends | 不定式作目的状语 | combat 和 get 共用 to，目的有两个：对抗打断、在更少时间做更多事
+mod in less time → get | 时间状语 | 用更少的时间
+point get more done 中 more 作宾语，done 作宾补，表示让更多事情被完成；done 不是独立谓语。
+
+# 2018-4|2:1
+type 简单句｜have＋宾语＋过去分词宾补；引号续至下一条
+chunks "At any given point,〔修〕 I should have deep work scheduled〔主〕 for roughly the next month.〔修〕
+main 主语:I | 谓语:should have | 宾语:deep work | 宾补:scheduled
+gist 我在任何时候都应预排好大约未来一个月的深度工作
+mod At any given point → should have | 时间状语 | 在任何一个时点
+mod for roughly the next month → scheduled | 时间范围补充 | 安排大约未来一个月的工作
+point should have deep work scheduled 是 have something done，不是 should have done 的完成式；deep work 隔在 have 与 scheduled 之间，是宾语。
+
+# 2018-4|2:2
+type 主从复合句｜省略的 once 从句；like 方式从句；句末引述语
+chunks Once on the calendar,〔C1〕 I protect this time〔主〕 like I would a doctor's appointment or important meeting",〔C2〕 he writes.〔修〕
+main 主语:I | 谓语:protect | 宾语:this time
+gist 时间一排入日历，我就像保护重要预约一样保护它
+C1 省略的时间状语从句 | 说明保护时间的起点 | Once | Once 后 on the calendar 是介词短语，省略的是时间段作主语及 be；完整义是 once this time is on the calendar，不是日历自己发出动作 | 表语:on the calendar
+C2 方式状语从句 | 说明怎样保护这段时间 | like | 前面 I protect this time 主谓宾完整，like 后 I would…含新主语和情态动词，省略重复的 protect；宾语是 appointment 或 meeting | 主语:I | 谓语:would | 宾语:a doctor's appointment … important meeting
+mod he writes → 整句 | 引述语 | he 是主语，writes 是谓语；说明前面的第一人称是纽波特写下的话
+point would 后省略 protect，不能把 a doctor's appointment 当表语；Once 的省略主语指已安排的时间。
+
+# 2018-4|3:0
+type 主从复合句｜不定式表语内含 how 宾语从句；破折号后补充另一 how 从句
+chunks Another approach〔主〕 to getting more done in less time〔修〕 is to rethink〔主〕 how you prioritise your day〔C1〕 - in particular〔修〕 how we craft our to-do lists.〔C2〕
+main 主语:Another approach | 谓语:is | 表语:to rethink
+gist 提高效率的另一办法是重想如何安排优先事项，尤其如何制作待办清单
+C1 宾语从句 | 作 rethink 的宾语 | how | 前面 rethink 缺思考的内容，后面 you prioritise your day 主谓宾完整；how 作方式状语，整块是宾语 | 主语:you | 谓语:prioritise | 宾语:your day
+C2 宾语从句（补充说明） | 具体说明 rethink 的重点 | how | 前面 in particular 提示进一步具体化，从句承接 rethink；后面 we craft our to-do lists 主谓宾完整，how 作方式状语 | 主语:we | 谓语:craft | 宾语:our to-do lists
+mod to getting more done in less time → approach | 介词短语作定语 | 在更少时间完成更多事的方法；approach to 后接动名词
+mod in particular → C2 | 聚焦状语 | 尤其聚焦待办清单如何编制
+point 主句谓语只有 is；to rethink 是表语，其中的思考内容另由 how 从句承担。
+
+# 2018-4|3:1
+type 主从复合句｜that 定语从句；冒号后两个分句展开研究分组
+chunks Tim Harford,〔主〕 author of Messy: The Power of Disorder to Transform Our Lives,〔修〕 points to a study〔主〕 in the early 1980s〔修〕 that divided undergraduates into two groups:〔C1〕 some were advised to set out monthly goals and study activities;〔主〕 others were told to plan activities and goals〔主〕 in much more detail, day by day.〔修〕
+main 主语:Tim Harford | 谓语:points to | 宾语:a study || 主语:some | 谓语:were advised | 主语补足语:to set out monthly goals and study activities || 主语:others | 谓语:were told | 主语补足语:to plan activities and goals
+gist 哈福德引用一项分组研究：一组定月目标，另一组按天做详细计划
+C1 定语从句 | 修饰 study | that | 前面是名词 study，后面 divided undergraduates into two groups 缺主语；that 指研究，作 divided 的主语 | 主语:that | 谓语:divided | 宾语:undergraduates
+mod author of Messy: The Power of Disorder to Transform Our Lives → Tim Harford | 同位语 | 介绍哈福德为《混乱》的作者；书名中的不定式不是句子谓语
+mod in the early 1980s → study | 时间定语 | 20世纪80年代初的研究
+mod into two groups → divided | 介词补足 | divide A into B，把大学生分为两组
+mod in much more detail, day by day → plan | 方式状语 | 更加详细地逐日规划
+point 冒号后的 some…与 others…用分号并列，具体解释 two groups；它们是两个有独立主语的分句。to set out 和 to plan 都补足被动结构，不是主句谓语。
+
+# 2018-4|4:0
+type 主从复合句｜while 让步从句内嵌 that 宾语及 when 状语；冒号后揭示实验结果
+chunks While the researchers assumed〔C1〕 that the well-structured daily plans would be most effective〔C2〕 when it came to the execution of tasks,〔C3〕 they were wrong:〔主〕 the detailed daily plans demotivated students.〔主〕
+main 主语:they | 谓语:were | 表语:wrong || 主语:the detailed daily plans | 谓语:demotivated | 宾语:students
+gist 研究者原本认为详细日计划最有效，结果却发现它削弱了学生动力
+C1 让步状语从句 | 承认原先假设，再与实验结果转折 | While | While 后 the researchers assumed 加上 that 内容主谓宾完整；整块与 they were wrong 构成让步，并非同时发生的时间关系 | 主语:the researchers | 谓语:assumed | 宾语:C2
+C2 宾语从句 in C1 | 作 assumed 的宾语 | that | 前面 assumed 缺假设内容，后面 the well-structured daily plans would be most effective 主系表完整；that 不作成分 | 主语:the well-structured daily plans | 谓语:would be | 表语:most effective
+C3 状语从句 in C2 | 限定 effective 的评价范围 | when | 前面 would be most effective 已完整，后面 it came to…为固定表达 when it comes to 的过去式，表示谈到任务执行时，不修饰时间名词 | 主语:it | 谓语:came
+mod to the execution of tasks → came | 介词补足 | when it comes to 表示涉及、谈到
+point they 指 researchers；冒号后提供“他们错了”的具体证据，不是另一个研究者假设。
+
+# 2018-4|4:1
+type 主从复合句｜that 宾语从句内含 while 对比从句，动名词短语作其主语
+chunks Harford argues〔主〕 that inevitable distractions often render the daily to-do list ineffective,〔C1〕 while leaving room for improvisation in such a list can reap the best results.〔C2〕
+main 主语:Harford | 谓语:argues | 宾语:C1
+gist 哈福德认为，干扰会让死板清单失效，留出调整空间反而能获最佳结果
+C1 宾语从句 | 作 argues 的宾语，包括后面的对比 | that | 前面 argues 缺观点内容，后面 distractions render the list ineffective 主谓宾补齐全；that 不作成分 | 主语:inevitable distractions | 谓语:render | 宾语:the daily to-do list | 宾补:ineffective
+C2 对比状语从句 in C1 | 对照死板计划与留有弹性的清单 | while | 前面已是完整的 render…ineffective 结构；while 后 leaving room…整体是动名词主语，can reap 是限定谓语，成分完整，表示对比而非时间 | 主语:leaving room for improvisation in such a list | 谓语:can reap | 宾语:the best results
+mod often → render | 频率状语 | 经常使清单失效
+point while 后的 leaving 不是谓语。leaving room…整个活动作主语，意思是留出临场调整余地，不是故意制造干扰。
+
+# 2018-4|5:0
+type 主从复合句｜目的状语＋as 非限制性定语从句＋同义补充
+chunks In order to make the most of our focus and energy,〔修〕 we also need to embrace downtime,〔主〕 or〔连〕 as Newport suggests,〔C1〕 "be lazy".〔主〕
+main 主语:we | 谓语:need | 宾语:to embrace downtime … "be lazy"
+gist 为充分利用注意力与精力，我们也需要接纳休息，也就是纽波特说的懒一点
+C1 非限制性定语从句 | 引出 Newport 的原话，指代 be lazy 这项建议 | as | as 后 Newport suggests 缺建议的内容；as 指向“be lazy”这一说法并作 suggests 的宾语，前面不是一个名词先行词 | 主语:Newport | 谓语:suggests | 宾语:as
+mod In order to make the most of our focus and energy → need | 不定式作目的状语 | 为充分发挥专注力和精力
+mod also → need | 添加状语 | 除了安排专注时间，也需要休息
+point or 在这里表示换个说法，不是要求二选一；be lazy 与 embrace downtime 共享 need 后的不定式位置，省略重复的 to。
+
+# 2018-4|6:0
+type 并列复合句｜分号并列；as…as 比较从句；省略号后的追加陈述
+chunks "Idleness is not just a vacation, an indulgence or a vice;〔主〕 it is as indispensable〔主〕 to the brain〔修〕 as vitamin D is〔C1〕 to the body…[idleness]〔C1修〕 is,〔主〕 paradoxically,〔修〕 necessary〔主〕 to getting any work done,"〔修〕 he argues.〔修〕
+main 主语:Idleness | 谓语:is | 表语:not just a vacation, an indulgence or a vice || 主语:it | 谓语:is | 表语:indispensable
+gist 休息不只是消遣，它对大脑不可或缺，也是完成工作的必要条件
+C1 比较状语从句 | 比较休息对大脑与维生素D对身体的重要性 | as | 前面 as indispensable 提出同等程度，后面 vitamin D is to the body 省略重复表语 indispensable；后一个 as 引出比较从句 | 主语:vitamin D | 谓语:is
+mod to the brain → indispensable | 形容词补足 | 对大脑不可或缺
+mod paradoxically → necessary | 评述状语 | 看似矛盾：休息反而是工作的前提
+mod to getting any work done → necessary | 形容词补足 | necessary to 后的 to 是介词，getting 为动名词；get work done 中 done 是宾补
+mod he argues → 整句 | 引述语 | he 作主语，argues 作谓语，介绍前面的观点属于纽波特
+point 原文 body…[idleness] 粘在同一词元，显示无法单独标出第三分句的主语 [idleness]。语法上第三段是 [idleness] is necessary…，主语重提，绝不是 vitamin D is necessary。骨架栏先列能完整定位的前两句；第三句在本条说明中还原，不把残缺骨架误标为共用主语的并列谓语。
+
+# 2018-4|7:0
+type 主从复合句｜believes 后省略 that 的宾语从句；way 后定语从句
+chunks Srini Pillay,〔主〕 an assistant professor of psychiatry at Harvard Medical School,〔修〕 believes〔主〕 this counterintuitive link〔C1〕 between downtime and productivity〔C1修〕 may be due to the way〔C1〕 our brains operate.〔C2〕
+main 主语:Srini Pillay | 谓语:believes | 宾语:C1
+gist 皮莱认为，休息与效率的联系可能源于大脑的运行方式
+C1 宾语从句 | 作 believes 的宾语 | （省略 that） | 前面 believes 缺相信的内容，后面 this counterintuitive link may be…是完整陈述，省略 that，整块作宾语 | 主语:this counterintuitive link | 谓语:may be | 表语:due to the way
+C2 定语从句 in C1 | 修饰 way，说明运行方式 | （省略 that/in which） | 前面是方式名词 way，后面 our brains operate 主谓完整但需表达方式关联；省略的是 that 或 in which，不能凭后面不缺主宾就判成同位语 | 主语:our brains | 谓语:operate
+mod an assistant professor of psychiatry at Harvard Medical School → Srini Pillay | 同位语 | 说明其哈佛医学院精神病学助理教授身份
+mod between downtime and productivity → link | 介词短语作定语 | 休息与生产率之间的联系
+point due to 表示由于；may 表可能。the way 后定语从句可省略关系词，不必补一个原文没有的 how。
+
+# 2018-4|7:1
+type 主从复合句｜when 时间状语从句
+chunks When our brains switch〔C1〕 between being focused and unfocused on a task,〔C1修〕 they tend to be more efficient.〔主〕
+main 主语:they | 谓语:tend | 表语:to be more efficient
+gist 大脑在专注与不专注之间切换时，往往效率更高
+C1 时间状语从句 | 说明大脑何时更高效 | When | When 后 our brains switch…主谓及介词补足完整，前面没有时间名词；整块作主句的时间条件 | 主语:our brains | 谓语:switch
+mod between being focused and unfocused on a task → switch | 介词补足 | 在专注任务与不专注任务两种状态之间切换；第二项省略重复的 being
+point they 指 our brains；主句谓语 tend，不定式 to be 说明趋向的状态，不能将 focused 误判为过去式谓语。
+
+# 2018-4|8:0
+type 主从复合句｜what 主语从句＋that 表语从句；插入目的状语
+chunks "What people don't realise〔C1〕 is〔主〕 that〔C2〕 in order to complete these tasks〔C2修〕 they need to use both the focus and unfocus circuits〔C2〕 in their brain,"〔C2修〕 says Pillay.〔修〕
+main 主语:C1 | 谓语:is | 表语:C2
+gist 人们没意识到，完成任务需要同时使用专注和非专注回路
+C1 主语从句 | 整块作 is 的主语 | What | What 位于句首，到 is 前结束；people don't realise 缺宾语，What 既连接从句又作 realise 的宾语 | 主语:people | 谓语:don't realise | 宾语:What
+C2 表语从句 | 位于 is 后，解释没被意识到的内容 | that | 前面系动词 is 缺表语，that 后移开目的状语仍是 they need to use…完整陈述；that 不作成分，整块作表语 | 主语:they | 谓语:need | 宾语:to use both the focus and unfocus circuits
+mod in order to complete these tasks → need | 不定式作目的状语 | 为了完成这些任务，解释为何两种回路都要用
+mod in their brain → circuits | 介词短语作定语 | 大脑中的两种回路
+mod says Pillay → 整句 | 倒装引述语 | says 为谓语，Pillay 为其后置主语，不是与引语内容并列的另一个观点
+point 两个名词性从句分别作 is 的主语和表语；不能因为 that 前隔着目的状语，就把 they need 误切成新主句。

@@ -1,0 +1,731 @@
+# 2020-1|0:0
+type 主从复合句｜so 结果或目的从句；不定式后置定语
+chunks Rats and other animals need to be highly attuned〔主〕 to social signals from others〔修〕 so they can identify friends〔C1〕 to cooperate with〔C1修〕 and enemies〔C1〕 to avoid.〔C1修〕
+main 主语:Rats and other animals | 谓语:need | 宾语:to be highly attuned
+gist 老鼠等动物需要对社交信号敏锐，才能识别朋友与敌人
+C1 目的兼结果状语从句 | 说明识别信号的作用 | so | 前面 need to be attuned 已成句，后面 they can identify friends and enemies 主谓宾完整；so 引出这种能力使其能够做到的事情 | 主语:they | 谓语:can identify | 宾语:friends … enemies
+mod to social signals from others → attuned | 形容词补足 | 对来自其他个体的社交信号敏锐
+mod to cooperate with → friends | 不定式作后置定语 | 可以与之合作的朋友，with 的宾语由 friends 提供
+mod to avoid → enemies | 不定式作后置定语 | 要避开的敌人
+point need 是限定谓语，to be 是其不定式内容；friends 和 enemies 是两个并列宾语。
+
+# 2020-1|0:1
+type 主从复合句｜目的短语内含 if 宾语从句；tested 后 whether 宾语从句
+chunks To find out〔修〕 if this extends to non-living beings,〔C1〕 Laleh Quinn〔主〕 at the University of California, San Diego,〔修〕 and her colleagues tested〔主〕 whether rats can detect social signals〔C2〕 from robotic rats.〔C2修〕
+main 主语:Laleh Quinn … her colleagues | 谓语:tested | 宾语:C2
+gist 奎因及同事测试老鼠能否识别机器老鼠的社交信号
+C1 宾语从句 | 作 find out 的宾语 | if | 前面 find out 缺想查明的内容，后面 this extends to…主谓补足完整；if 意为是否，不表条件 | 主语:this | 谓语:extends
+C2 宾语从句 | 作 tested 的宾语 | whether | 前面 tested 缺测试内容，后面 rats can detect social signals 主谓宾完整；whether 引出是否能识别的问题 | 主语:rats | 谓语:can detect | 宾语:social signals
+mod To find out → tested | 不定式作目的状语 | 测试是为了查明从句①提出的问题
+mod to non-living beings → extends | 介词补足 | 这种识别能力是否延伸至非生命体
+mod at the University of California, San Diego → Laleh Quinn | 介词短语作定语 | 介绍研究者所属机构
+mod from robotic rats → social signals | 介词短语作定语 | 来自机器老鼠的信号
+
+# 2020-1|1:0
+type 简单句｜house A with B；原文连字符粘连
+chunks They housed eight adult rats〔主〕 with two types of robotic rat-one social and one asocial-for four days.〔修〕
+main 主语:They | 谓语:housed | 宾语:eight adult rats
+gist 研究者让八只成年老鼠与两类机器老鼠共同生活四天
+mod with two types of robotic rat-one social and one asocial-for four days → housed | 共同居住对象及时间说明 | 两类分别为社交型与非社交型，for four days 表持续四天；原文 rat-one、asocial-for 连写，不能据此把它们当成一个英语单词
+point one social and one asocial 是对 two types 的列举，不是有谓语的新从句。
+
+# 2020-1|1:1
+type 简单句｜分词短语补充外形
+chunks The robot rats were quite minimalist,〔主〕 resembling a chunkier version of a computer mouse〔修〕 with wheels〔修〕 to move around〔修〕 and colourful markings.〔修〕
+main 主语:The robot rats | 谓语:were | 表语:minimalist
+gist 机器老鼠设计简约，像装有轮子与彩色标记的厚实鼠标
+mod quite → minimalist | 程度状语 | 相当简约
+mod resembling a chunkier version of a computer mouse → The robot rats | 现在分词作补充说明 | 机器老鼠外形像厚实版电脑鼠标
+mod with wheels … colourful markings → The robot rats | 配置说明 | 轮子和彩色标记是机器老鼠的配置
+mod to move around → wheels | 不定式作后置定语 | 轮子的用途是帮助四处移动
+point resembling 没有独立时态，不是第二个谓语；and 在此连接 wheels 与 colourful markings。
+
+# 2020-1|2:0
+type 简单句｜同一主语的三个并列谓语
+chunks During the experiment,〔修〕 the social robot rat followed the living rats〔主〕 around,〔修〕 played with the same toys,〔主〕 and〔连〕 opened cage doors〔主〕 to let trapped rats escape.〔修〕
+main 主语:the social robot rat | 谓语:followed | 宾语:the living rats || 谓语:played with | 宾语:the same toys || &and || 谓语:opened | 宾语:cage doors
+gist 社交型机器老鼠跟随、一起玩玩具，并开门救老鼠
+mod During the experiment → 整句 | 时间状语 | 在实验期间
+mod around → followed | 方向状语 | 跟着活老鼠四处活动
+mod to let trapped rats escape → opened | 不定式作目的状语 | 开门是为让受困老鼠逃出；let 后 rats 是宾语，escape 是不带 to 的宾补
+point played、opened 前没有新主语，三个动作共用 social robot rat。
+
+# 2020-1|2:1
+type 简单句｜单一谓语配并列方向
+chunks Meanwhile,〔修〕 the asocial robot simply moved〔主〕 forwards and backwards and side to side.〔修〕
+main 主语:the asocial robot | 谓语:moved
+gist 非社交型机器老鼠只独自前后左右移动
+mod Meanwhile → 整句 | 时间和对比状语 | 与社交型机器老鼠的活动同时发生
+mod simply → moved | 限制状语 | 仅仅移动，未与活鼠互动
+mod forwards and backwards and side to side → moved | 方向状语 | 前后左右移动；and 连接方向，不是并列谓语
+
+# 2020-1|3:0
+type 简单句｜并列谓语＋双宾语
+chunks Next,〔修〕 the researchers trapped the robots〔主〕 in cages〔修〕 and〔连〕 gave the rats the opportunity〔主〕 to release them〔修〕 by pressing a lever.〔修〕
+main 主语:the researchers | 谓语:trapped | 宾语:the robots || &and || 谓语:gave | 间接宾语:the rats | 直接宾语:the opportunity
+gist 研究者关起机器鼠，再给活鼠按杠杆救它们的机会
+mod Next → 整句 | 顺序状语 | 实验进入救助测试阶段
+mod in cages → trapped | 地点状语 | 关在笼内
+mod to release them → opportunity | 不定式作后置定语 | 释放机器鼠的机会；them 指 robots
+mod by pressing a lever → release | 方式状语 | 通过按杠杆实现释放
+
+# 2020-1|3:1
+type 主从复合句｜比较结构，than 后省略重复主谓及动作
+chunks Across 18 trials each,〔修〕 the living rats were 52 per cent more likely〔主〕 on average〔修〕 to set the social robot free〔修〕 than the asocial one.〔C1〕
+main 主语:the living rats | 谓语:were | 表语:more likely
+gist 活鼠释放社交型机器鼠的可能性平均高52%
+C1 省略的比较状语从句 | 比较两类机器鼠获救的可能性 | than | 前面 more likely 提出比较，than 后 the asocial one 省略重复的活鼠主语、谓语与释放动作，完整义为比释放非社交型机器鼠更可能 | 宾语:the asocial one
+mod Across 18 trials each → 整句 | 实验范围状语 | 每只活鼠各试验18次
+mod 52 per cent → more likely | 差额说明 | 可能性高52%，不是获救率恰为52%
+mod on average → more likely | 统计状语 | 平均而言
+mod to set the social robot free → likely | 不定式补足 | set后 the social robot 为宾语，free 为宾补
+
+# 2020-1|3:2
+type 主从复合句｜that 宾语从句＋句末引述语
+chunks This suggests〔主〕 that the rats perceived the social robot as a genuine social being,〔C1〕 says Quinn.〔修〕
+main 主语:This | 谓语:suggests | 宾语:C1
+gist 结果提示，活鼠把社交型机器鼠视为真正社会成员
+C1 宾语从句 | 作 suggests 的宾语 | that | 前面 suggests 缺提示的内容，后面 rats perceived the robot as…主谓宾补完整；that 不作成分 | 主语:the rats | 谓语:perceived | 宾语:the social robot | 宾补:a genuine social being
+mod says Quinn → 整句 | 倒装引述语 | Quinn 是 says 的后置主语，不与实验结果构成并列主句
+
+# 2020-1|3:3
+type 主从复合句｜because 原因状语从句
+chunks The rats may have bonded more〔主〕 with the social robot〔修〕 because it displayed behaviors〔C1〕 like communal exploring and playing.〔C1修〕
+main 主语:The rats | 谓语:may have bonded
+gist 老鼠可能因机器鼠的共同活动而与它关系更亲近
+C1 原因状语从句 | 解释为何联系更强 | because | 前面 rats may have bonded 主谓完整，后面 it displayed behaviors 主谓宾完整；because 引出原因 | 主语:it | 谓语:displayed | 宾语:behaviors
+mod more → bonded | 程度状语 | 相比非社交型联系更多
+mod with the social robot → bonded | 交往对象补足 | 与社交型机器鼠建立联系
+mod like communal exploring and playing → behaviors | 举例定语 | 共同探索和玩耍等行为
+
+# 2020-1|3:4
+type 主从复合句｜lead to 后动名词结构含 when 从句
+chunks This could lead〔主〕 to the rats better remembering having freed it earlier, and wanting the robot to return the favour〔修〕 when they get trapped,〔C1〕 she says .〔修〕
+main 主语:This | 谓语:could lead
+gist 这可能使老鼠记住救助经历，并期待以后得到回报
+C1 时间状语从句 | 限定期待回报的时机 | when | 前面 return the favour 已有动宾，后面 they get trapped 主谓完整；when 引出活鼠被困时的情境 | 主语:they | 谓语:get trapped
+mod to the rats better remembering having freed it earlier, and wanting the robot to return the favour → lead | 介词补足 | lead to 的 to 是介词；rats 是 remembering 和 wanting 的逻辑主语，having freed 表示此前救过机器鼠
+mod she says → 整句 | 引述语 | she 指Quinn；引述语不与 This could lead 并列
+point wanting 后 robot 为宾语，to return 为宾补；having freed 不是主句完成时谓语。
+
+# 2020-1|4:0
+type 主从复合句｜被动主句＋what 宾语从句，内嵌 where 与 that 定语从句
+chunks "Rats have been shown to engage〔主〕 in multiple forms of reciprocal help and cooperation,〔修〕 including〔修〕 what is referred to as direct reciprocity〔C1〕 where a rat will help another rat〔C2〕 that has previously helped them,"〔C3〕 says Quinn.〔修〕
+main 主语:Rats | 谓语:have been shown | 主语补足语:to engage
+gist 研究已表明老鼠参与多种互助，包括直接互惠
+C1 宾语从句 | 作 including 的宾语 | what | 前面 including 需要列举内容，后面 is referred to as…缺主语；what 作主语，整块指被称为直接互惠的做法 | 主语:what | 谓语:is referred to | 表语:as direct reciprocity
+C2 定语从句 in C1 | 修饰 direct reciprocity | where | 前面是抽象情境 direct reciprocity，后面 a rat will help another rat 主谓宾完整；where 作情境状语，解释在这种互惠中怎样互助 | 主语:a rat | 谓语:will help | 宾语:another rat
+C3 定语从句 in C2 | 修饰 another rat | that | 前面是名词 rat，后面 has previously helped them 缺主语；that 代指另一只老鼠作主语 | 主语:that | 谓语:has … helped | 宾语:them
+mod in multiple forms of reciprocal help and cooperation → engage | 介词补足 | 参与多种互助与合作形式
+mod including → multiple forms | 列举引导语 | 包括从句①表示的直接互惠
+mod previously → helped | 时间状语 | 另一只老鼠此前已经帮助过自己
+mod says Quinn → 整句 | 倒装引述语 | Quinn 是说话人
+
+# 2020-1|5:0
+type 简单句｜不定式修饰 readiness；given 介词短语
+chunks The readiness〔主〕 of the rats〔修〕 to befriend the social robot〔修〕 was surprising〔主〕 given its minimal design.〔修〕
+main 主语:The readiness | 谓语:was | 表语:surprising
+gist 考虑到机器鼠设计简陋，活鼠愿意与之交友令人惊讶
+mod of the rats → readiness | 介词短语作定语 | 活鼠的意愿
+mod to befriend the social robot → readiness | 不定式作后置定语 | 愿意与社交机器鼠交朋友
+mod given its minimal design → surprising | 原因背景状语 | 考虑到机器鼠的简约设计；given 后是名词短语，没有从句
+
+# 2020-1|5:1
+type 多句合并条目｜外形陈述＋引语＋who 定语从句；原有词元粘连
+chunks The robot was the same size as a regular rat〔主〕 but〔连〕 resembled a simple plastic box〔主〕 on wheels.〔修〕 " We'd assumed〔主〕 we'd have to give it a moving head and tail, facial features, and put a scent on it〔C1〕 to make it smell like a real rat,〔C1修〕 but〔连〕 that wasn't necessary,"says Janet Wiles〔主〕 at the University of Queensland in Australia,〔修〕 who helped with the research.〔C2〕
+main 主语:The robot | 谓语:was | 表语:the same size || &but || 谓语:resembled | 宾语:a simple plastic box
+C1 宾语从句 | 作引语中 assumed 的宾语 | （省略 that） | 前面 We'd assumed 缺假设内容，后面 we'd have to give…and put…主谓宾完整；省略that，两个动作共用we would have to | 主语＋谓语:we'd have to give | 间接宾语:it | 直接宾语:a moving head and tail, facial features | 谓语:put | 宾语:a scent
+C2 非限制性定语从句 | 修饰 Janet Wiles | who | 前面是人的姓名Janet Wiles，后面 helped with the research 缺主语，who作主语介绍她参与研究 | 主语:who | 谓语:helped
+gist 机器鼠大小与真鼠相同却像塑料盒，研究者原以为还须增加逼真特征
+mod as a regular rat → the same size | 比较补足 | 与普通老鼠大小一样
+mod on wheels → box | 介词短语作定语 | 装着轮子的盒子
+mod " We'd assumed → 整句 | 引语的外层主干 | We'd=We had；assumed 是引语谓语，后接从句①，不是原陈述的并列谓语
+mod to make it smell like a real rat → put | 不定式作目的状语 | 加气味为了让它闻起来像真鼠，make后it为宾语、smell为宾补
+mod but that wasn't necessary,"says Janet Wiles → 整句 | 转折及引述说明 | that wasn't necessary为引语第二主句；says Janet Wiles为倒装引述语，necessary与says粘成词元使界限无法独立定位
+mod at the University of Queensland in Australia → Janet Wiles | 介词短语作定语 | 澳大利亚昆士兰大学的研究者
+mod with the research → helped | 介词补足 | 参与这项研究
+point 此条实际合并两句，且necessary,"says无空格。主干栏先列能完整定位的外形陈述；引语真实结构为 We had assumed [we would have to give…and put…], but that wasn't necessary。不把says或assumed假作robot的谓语。
+
+# 2020-1|6:0
+type 主从复合句｜how 宾语从句内含 even when；原文句点后附引述语
+chunks The finding shows〔主〕 how sensitive rats are〔C1〕 to social cues,〔C1修〕 even when they come〔C2〕 from basic robots.〔C2修〕 says Wiles.〔修〕
+main 主语:The finding | 谓语:shows | 宾语:C1
+gist 这一发现表明老鼠对社交信号十分敏感，即使信号来自简单机器人
+C1 宾语从句 | 作 shows 的宾语 | how | 前面 shows 缺显示的内容，后面 rats are sensitive 主系表完整，how修饰sensitive并前置，整块作宾语 | 主语:rats | 谓语:are | 表语:sensitive
+C2 让步状语从句 in C1 | 即使信号来自简单机器人也成立 | even when | 前面rats are sensitive主系表完整，后面they come from…主谓补足完整；even when强调极端情形仍成立 | 主语:they | 谓语:come
+mod to social cues → sensitive | 形容词补足 | 对社交线索敏感
+mod from basic robots → come | 来源状语 | 来自最基本的机器人
+mod says Wiles → 整句 | 引述语 | 原数据在其前保留句点，语义上仍是Wiles所说，不把says另配finding作主语
+
+# 2020-1|6:1
+type 主从复合句｜as if 方式状语从句＋even when让步从句
+chunks Similarly,〔修〕 children tend to treat robots〔主〕 as if they are fellow beings,〔C1〕 even when they display only simple social signals.〔C2〕
+main 主语:children | 谓语:tend | 表语:to treat robots
+gist 儿童也倾向于把只发简单信号的机器人当作同伴
+C1 方式状语从句 | 说明怎样对待机器人 | as if | 前面treat robots有主谓宾，后面they are fellow beings主系表完整；as if引出对待方式“仿佛是同伴” | 主语:they | 谓语:are | 表语:fellow beings
+C2 让步状语从句 | 简单信号也能触发这种反应 | even when | 前面主句已完整，后面they display social signals主谓宾完整；even when补充即使只发简单信号也成立 | 主语:they | 谓语:display | 宾语:only simple social signals
+mod Similarly → 整句 | 类比连接语 | 将儿童的反应与老鼠对照
+
+# 2020-1|6:2
+type 并列复合句｜and并列，turns out 后省略that主语从句
+chunks "We humans seem to be fascinated〔主〕 by robots,〔修〕 and〔连〕 it turns out〔主〕 other animals are too,"〔C1〕 says Wiles.〔修〕
+main 主语:We humans | 谓语:seem | 表语:to be fascinated || &and || 形式主语:it | 谓语:turns out | 真正主语:C1
+gist 不只人类着迷于机器人，其他动物也一样
+C1 主语从句 | it占位，说明事实证明什么 | （省略 that） | 前面it turns out中it占位，后面other animals are too省略重复表语fascinated by robots；整体为事实证明的内容 | 主语:other animals | 谓语:are
+mod by robots → fascinated | 被动结构补足 | 对机器人着迷
+mod too → are | 添加状语 | 其他动物也如此，are后省略相同表语
+mod says Wiles → 整句 | 引述语 | Wiles为says的后置主语
+
+# 2020-2|0:0
+type 主从复合句｜形式主语；后附两项薪酬数据，原文up-top粘连
+chunks It is true〔主〕 that CEO pay has gone up-top ones may make 300 times the pay of typical workers〔C1〕 on average,〔C1修〕 and〔连〕 since the mid-1970s,〔修〕 CEO pay〔主〕 for large publicly traded American corporations〔修〕 has,〔主〕 by varying estimates,〔修〕 gone up〔主〕 by about 500%.〔修〕
+main 形式主语:It | 谓语:is | 表语:true | 真正主语:C1 || &and || 主语:CEO pay | 谓语:has … gone up
+gist CEO薪酬确实上涨；顶级薪酬可达普通员工300倍，长期涨幅约500%
+C1 主语从句 | 说明什么属实，后接补充数据 | that | 前面It is true中的It占位，后面CEO pay has gone up是完整陈述；that引出真正主语。up-top粘连处之后实际另起top ones may make…这一补充句 | 主语:CEO pay | 谓语:has gone
+mod on average → 整句 | 统计状语 | 顶级CEO平均薪酬可达普通工人300倍
+mod since the mid-1970s → has … gone up | 时间状语 | 自20世纪70年代中期以来
+mod for large publicly traded American corporations → CEO pay | 介词短语作定语 | 美国大型上市公司的CEO薪酬
+mod by varying estimates → has … gone up | 估算依据状语 | 按不同估算
+mod by about 500% → gone up | 幅度状语 | 上涨约500%，不是涨到原来的500%
+point up-top是原文粘连，真实结构为CEO pay has gone up—top ones may make 300 times the pay of typical workers。C1首个谓语的up与下一分句top共用词元，无法分别定位，故只定位has gone；不把may make错误并入CEO pay的谓语。
+
+# 2020-2|0:1
+type 简单句｜主语后有of定语
+chunks The typical CEO〔主〕 of a top American corporation〔修〕 now makes about $18.9 million〔主〕 a year.〔修〕
+main 主语:The typical CEO | 谓语:makes | 宾语:about $18.9 million
+gist 顶级美国公司普通CEO年薪约1890万美元
+mod of a top American corporation → CEO | 介词短语作定语 | 说明是哪类公司的CEO
+mod now → makes | 时间状语 | 文章所述当时的水平，不表示今天最新薪酬
+mod a year → makes | 频率状语 | 每年
+
+# 2020-2|1:0
+type 主从复合句｜where修饰world；that代指model
+chunks The best model〔主〕 for understanding the growth of CEO pay〔修〕 is that〔主〕 of limited CEO talent in a world〔修〕 where business opportunities〔C1〕 for the top firms〔C1修〕 are growing rapidly.〔C1〕
+main 主语:The best model | 谓语:is | 表语:that
+gist 最佳解释是：顶级CEO人才有限，而顶尖企业机会迅速增长
+C1 定语从句 | 修饰world，说明这种世界的情形 | where | 前面是情境名词world，后面business opportunities are growing主谓完整；where在从句中作情境状语 | 主语:business opportunities | 谓语:are growing
+mod for understanding the growth of CEO pay → model | 介词短语作定语 | 用于理解CEO薪酬增长的模型
+mod of limited CEO talent in a world → that | 介词短语作定语 | that代指model，解释框架是人才稀缺与商业机会扩张并存
+mod for the top firms → opportunities | 介词短语作定语 | 顶尖企业拥有的商业机会
+mod rapidly → growing | 方式状语 | 迅速增长
+point is后的that是代词，后面接of短语，不是引导从句的that。
+
+# 2020-2|1:1
+type 简单句｜主语中心efforts，非of后的收入群体
+chunks The efforts〔主〕 of America' s highest-earning 1%〔修〕 have been one〔主〕 of the more dynamic elements of the global economy.〔修〕
+main 主语:The efforts | 谓语:have been | 表语:one
+gist 美国收入最高的1%人群的努力是全球经济中较有活力的因素之一
+mod of America' s highest-earning 1% → efforts | 介词短语作定语 | 谁作出的努力；原文America' s分开写，保持原样
+mod of the more dynamic elements of the global economy → one | 介词短语作定语 | 全球经济中较有活力的因素之一
+
+# 2020-2|1:2
+type 主从复合句｜形式主语；reason后定语从句及that表语从句
+chunks It's not popular to say.〔主〕 but〔连〕 one reason〔主〕 their pay has gone up so much〔C1〕 is〔主〕 that CEOs really have upped their game〔C2〕 relative to many other workers in the U. S. economy.〔C2修〕
+main 主语＋谓语:It's | 表语:not popular | 真正主语:to say || &but || 主语:one reason | 谓语:is | 表语:C2
+gist 这话虽不讨喜，但CEO高薪的一个原因是其本领确有提升
+C1 定语从句 | 修饰reason，说明薪酬上涨的原因 | （省略 that/why） | 前面是原因名词reason，后面their pay has gone up主谓完整；省略why或that，关系词承担原因联系，不是把整个从句当reason的宾语 | 主语:their pay | 谓语:has gone up
+C2 表语从句 | 说明one reason的具体内容 | that | 前面系动词is缺表语，后面CEOs have upped their game主谓宾完整；that不作成分，整块作表语 | 主语:CEOs | 谓语:have upped | 宾语:their game
+mod so much → gone up | 程度状语 | 薪酬涨得如此多
+mod really → have upped | 评述状语 | 作者强调提升确实存在
+mod relative to many other workers in the U. S. economy → have upped | 比较状语 | 相对于美国经济中许多其他劳动者
+point 原文say后有句点却用but续接，保留原样。It's=It is；to say在这里是真正主语。upped their game指提高表现，不是玩游戏。
+
+# 2020-2|2:0
+type 主从复合句｜than引出省略比较；原文mere保留
+chunks Today' s CEO,〔主〕 at least for major American firms,〔修〕 must have many mere skills〔主〕 than simply being able to "run the company."〔C1〕
+main 主语:Today' s CEO | 谓语:must have | 宾语:many mere skills
+gist 当代CEO所需技能已超出单纯经营公司
+C1 比较状语从句（省略） | 比较技能要求与传统经营能力 | than | 前面many mere skills在语境中意为更多技能，原文mere疑为more误录；than后being able…是比较基准，省略重复要求结构，并非新主句谓语 | 主语:being able to "run the company."
+mod at least for major American firms → 整句 | 范围状语 | 至少美国大公司如此
+point 原文many mere skills保留，疑似more的转录问题需后续核对；不据此解释成CEO只需“许多微不足道的技能”。
+
+# 2020-2|2:1
+type 主从复合句｜how宾语从句与financial markets并列
+chunks CEOs must have a good sense〔主〕 of financial markets and maybe even〔修〕 how the company should trade〔C1〕 in them .〔C1修〕
+main 主语:CEOs | 谓语:must have | 宾语:a good sense
+gist CEO必须了解金融市场，甚至懂得公司如何参与交易
+C1 宾语从句 | 与financial markets并列作of的宾语 | how | 前面介词of的两个宾语由and连接，how后the company should trade主谓完整；how作方式状语，整块说明交易方式 | 主语:the company | 谓语:should trade
+mod of financial markets and maybe even → sense | 介词短语及并列引导 | 对金融市场的了解，甚至还包括从句①的内容
+mod in them → trade | 范围状语 | 在金融市场中交易，them指markets
+
+# 2020-2|2:2
+type 主从复合句｜than省略比较；as原因从句
+chunks They also need better public relations skills〔主〕 than their predecessors,〔C1〕 as the costs〔C2〕 of even a minor slipup〔C2修〕 can be significant.〔C2〕
+main 主语:They | 谓语:need | 宾语:better public relations skills
+gist 当代CEO需要比前任更强的公关能力，因为小错也可能代价高昂
+C1 比较状语从句（省略） | 与前任的公关能力比较 | than | 前面better提出比较，than后their predecessors省略had或needed等重复谓语，比较的是前任所需技能 | 主语:their predecessors
+C2 原因状语从句 | 解释公关要求提高 | as | 前面They need skills主谓宾完整，后面the costs can be significant主系表完整；as在此表原因 | 主语:the costs | 谓语:can be | 表语:significant
+mod also → need | 添加状语 | 还需要公关能力
+mod of even a minor slipup → costs | 介词短语作定语 | 即使小失误也会造成的代价
+
+# 2020-2|2:3
+type 主从复合句｜there be＋that同位语从句＋with复合结构
+chunks Then there's the fact〔主〕 that large American companies are much more globalized〔C1〕 than ever before,〔C2〕 with supply chains spread across a larger number of countries.〔C1修〕
+main 谓语:there's | 主语:the fact
+gist 还要考虑美国大公司全球化程度更高、供应链遍布更多国家
+C1 同位语从句 | 说明fact的具体内容 | that | 前面是抽象名词fact，后面companies are more globalized主系表完整；that不充当成分而交代事实内容 | 主语:large American companies | 谓语:are | 表语:more globalized
+C2 比较状语从句（省略） in C1 | 与过去的全球化程度比较 | than | 前面more globalized提出比较，than后ever before省略公司及系表结构，表示比过去任何时候 | 状语:ever before
+mod Then → 整句 | 添加连接语 | 再补充一个能力要求提高的背景
+mod much → more globalized | 程度状语 | 修饰比较级，表示程度高得多
+mod with supply chains spread across a larger number of countries → companies | with复合结构 | supply chains为逻辑主语，spread为过去分词，说明供应链遍布更多国家
+point there's=there is，there是存在结构引导成分；spread没有独立助动词，不是主句谓语。
+
+# 2020-2|2:4
+type 主从复合句｜不定式主语＋that定语从句
+chunks To lead in that system requires knowledge〔主〕 that is fairly mind-boggling.〔C1〕
+main 主语:To lead in that system | 谓语:requires | 宾语:knowledge
+gist 在这种全球体系中领导公司，需要掌握极复杂的知识
+C1 定语从句 | 修饰knowledge | that | 前面是名词knowledge，后面is fairly mind-boggling缺主语；that指knowledge并作主语 | 主语:that | 谓语:is | 表语:mind-boggling
+mod fairly → mind-boggling | 程度状语 | 复杂得相当令人难以想象
+point To lead…整体作主语；requires才是限定谓语。
+
+# 2020-2|2:5
+type 简单句｜系表结构
+chunks Plus,〔修〕 virtually all major American companies are becoming tech companies,〔主〕 one way or another.〔修〕
+main 主语:virtually all major American companies | 谓语:are becoming | 表语:tech companies
+gist 几乎所有美国大公司都正以某种方式转成科技公司
+mod Plus → 整句 | 添加连接语 | 再添科技能力要求
+mod one way or another → are becoming | 方式状语 | 以这样或那样的方式
+
+# 2020-2|2:6
+type 主从复合句｜work后省略that的定语从句
+chunks Beyond this,〔修〕 major CEOs still have to do all the day-to-day work〔主〕 they have always done.〔C1〕
+main 主语:major CEOs | 谓语:have to do | 宾语:all the day-to-day work
+gist 除新增要求外，CEO仍须完成一贯的日常工作
+C1 定语从句 | 修饰work | （省略 that） | 前面是名词work，后面they have always done缺宾语；省略的关系词代指work作done的宾语 | 主语:they | 谓语:have … done
+mod Beyond this → have to do | 添加状语 | 这些新增要求之外
+mod still → have to do | 时间状语 | 仍然要做
+mod always → done | 频率状语 | 历来一直做的日常事务
+
+# 2020-2|3:0
+type 主从复合句｜idea后同位语从句
+chunks The common idea〔主〕 that high CEO pay is mainly about ripping people off〔C1〕 doesn't explain history〔主〕 very well.〔修〕
+main 主语:The common idea | 谓语:doesn't explain | 宾语:history
+gist 把CEO高薪主要归因于盘剥的观念解释不了历史
+C1 同位语从句 | 说明idea内容 | that | 前面是抽象名词idea，后面high CEO pay is about…主系表完整；that不作成分，解释观点内容 | 主语:high CEO pay | 谓语:is | 表语:about ripping people off
+mod mainly → is | 限定状语 | 主要归因于盘剥
+mod very well → explain | 程度状语 | 否定其解释历史的能力
+
+# 2020-2|3:1
+type 简单句｜比较级并列表语
+chunks By most measures,〔修〕 corporate governance has become a lot tighter and more rigorous〔主〕 since the 1970s.〔修〕
+main 主语:corporate governance | 谓语:has become | 表语:tighter … more rigorous
+gist 自70年代以来，公司治理变得严密严格得多
+mod By most measures → 整句 | 判断依据状语 | 按多数衡量标准
+mod a lot → tighter | 程度状语 | 严密得多
+mod since the 1970s → has become | 时间状语 | 自20世纪70年代以来
+
+# 2020-2|3:2
+type 强调句｜it is…that强调时间状语
+chunks Yet〔连〕 it is principally〔修〕 during this period of stronger governance〔修〕 that〔修〕 CEO pay has been high and rising.〔主〕
+main 主语:CEO pay | 谓语:has been | 表语:high || 谓语:has been … rising
+gist CEO薪酬高企上涨，恰恰发生于公司治理更严的时期
+mod it is … that → 整句 | 强调句框架 | it is与that共同强调中间的时间状语，去掉框架后才看见普通陈述CEO pay has been high and rising
+mod principally → during this period | 焦点状语 | 主要就是这一时期
+mod during this period of stronger governance → 整句 | 被强调的时间状语 | 在公司治理更严的这段时间
+point 此处it is…that是强调句，不是普通形式主语结构；骨架栏列解除强调框架后的陈述结构，真正强调的是during时间短语。rising共用has been，表示薪酬一直在涨，不是单独带时态的ing。
+
+# 2020-2|3:3
+type 主从复合句｜suggests后省略that的宾语从句；形式主语内嵌
+chunks That suggests〔主〕 it is〔C1〕 in the broader corporate interest〔C1〕 to recruit top candidates〔C1〕 for increasingly tough jobs.〔C1修〕
+main 主语:That | 谓语:suggests | 宾语:C1
+gist 这说明为愈发艰难的岗位招揽顶尖人才符合公司利益
+C1 宾语从句 | 作suggests的宾语 | （省略 that） | 前面suggests缺说明的内容，后面it is in the corporate interest…为完整判断；it为形式主语，后面不定式是真正主语 | 形式主语:it | 谓语:is | 表语:in the broader corporate interest | 真正主语:to recruit top candidates
+mod for increasingly tough jobs → recruit | 岗位目的说明 | 为越来越难做的岗位招人
+
+# 2020-2|4:0
+type 主从复合句｜sign同位语补充内含that同位语从句
+chunks Furthermore,〔修〕 the highest CEO salaries are paid〔主〕 to outside candidates,〔修〕 not to the cozy insider picks,〔修〕 another sign〔修〕 that high CEO pay is not some kind of depredation〔C1〕 at the expense of the rest of the company.〔C1修〕
+main 主语:the highest CEO salaries | 谓语:are paid
+gist 最高薪给外部候选人，进一步说明高薪不是内部人掠夺公司
+C1 同位语从句 | 说明sign所指的信号 | that | 前面是抽象名词sign，后面high CEO pay is not…主系表完整；that不作成分而说明信号内容 | 主语:high CEO pay | 谓语:is not | 表语:some kind of depredation
+mod Furthermore → 整句 | 添加连接语 | 给出另一项证据
+mod to outside candidates → paid | 接受对象补足 | 最高薪酬付给外部候选人
+mod not to the cozy insider picks → paid | 对比补足 | 不是给关系亲密的内部人选
+mod another sign → 整句 | 名词短语作补充说明 | 前面的事实是另一个信号，具体含义由that从句说明
+mod at the expense of the rest of the company → depredation | 介词短语作定语 | 以公司其他部分的利益为代价
+
+# 2020-2|4:1
+type 主从复合句｜when时间从句＋sign的that同位语从句
+chunks And〔连〕 the stock market reacts positively〔主〕 when companies tie CEO pay〔C1〕 to, say, stock prices,〔C1修〕 a sign〔修〕 that those practices build up corporate value〔C2〕 not just for the CEO.〔C2修〕
+main 主语:the stock market | 谓语:reacts
+gist 薪酬挂钩股价时市场反应积极，显示这种做法增加公司价值
+C1 时间状语从句 | 说明市场何时积极反应 | when | 前面stock market reacts主谓完整，后面companies tie CEO pay to…主谓宾及补足完整；when引出情境 | 主语:companies | 谓语:tie | 宾语:CEO pay
+C2 同位语从句 | 解释a sign的内容 | that | 前面是抽象名词sign，后面those practices build up value主谓宾完整；that不作成分，说明信号内容 | 主语:those practices | 谓语:build up | 宾语:corporate value
+mod positively → reacts | 方式状语 | 市场作积极反应
+mod to, say, stock prices → tie | 介词补足及插入语 | tie A to B表示挂钩，say是“比如”
+mod a sign → 整句 | 名词短语作补充说明 | 积极市场反应是一个信号
+mod not just for the CEO → build up | 受益范围补充 | 增加的价值不仅属于CEO个人
+
+# 2020-3|0:0
+type 主从复合句｜when时间状语从句
+chunks Madrid was hailed〔主〕 as a public health beacon〔修〕 last November〔修〕 when it rolled out ambitious restrictions〔C1〕 on the most polluting cars.〔C1修〕
+main 主语:Madrid | 谓语:was hailed | 主语补足语:a public health beacon
+gist 马德里推出限制高污染汽车的措施，被誉为公共卫生灯塔
+C1 时间状语从句 | 说明被赞誉时发生的事情 | when | 前面Madrid was hailed主谓完整，后面it rolled out restrictions主谓宾完整；when联系去年11月这个时间，也可理解为修饰November的时间定语 | 主语:it | 谓语:rolled out | 宾语:ambitious restrictions
+mod as a public health beacon → hailed | 评价补足 | 被誉为公共卫生方面的灯塔
+mod last November → was hailed | 时间状语 | 文章所述的去年11月
+mod on the most polluting cars → restrictions | 介词短语作定语 | 针对污染最严重汽车的限制
+
+# 2020-3|0:1
+type 简单句｜同位补充说明政策倒退
+chunks Seven months and one election day later,〔修〕 a new conservative city council suspended enforcement〔主〕 of the clean air zone,〔修〕 a first step〔修〕 toward its possible demise.〔修〕
+main 主语:a new conservative city council | 谓语:suspended | 宾语:enforcement
+gist 七个月后新议会暂停执法，迈出可能废除清洁区的第一步
+mod Seven months and one election day later → suspended | 时间状语 | 过了七个月并经历一次选举
+mod of the clean air zone → enforcement | 介词短语作定语 | 清洁空气区规定的执行
+mod a first step → 整句 | 同位补充 | 暂停执法是政策可能消亡的第一步
+mod toward its possible demise → step | 介词短语作定语 | 朝着可能被废除的方向，并非已经废除
+
+# 2020-3|1:0
+type 简单句｜make＋宾语＋宾补，despite让步短语
+chunks Mayor José Luis Martinez-Almeida made opposition〔主〕 to the zone〔修〕 a centrepiece〔主〕 of his election campaign,〔修〕 despite its success〔修〕 in improving air quality.〔修〕
+main 主语:Mayor José Luis Martinez-Almeida | 谓语:made | 宾语:opposition | 宾补:a centrepiece
+gist 市长把反对清洁区作为竞选核心，尽管政策改善空气有效
+mod to the zone → opposition | 介词短语作定语 | 反对清洁空气区
+mod of his election campaign → centrepiece | 介词短语作定语 | 竞选活动的核心
+mod despite its success → made | 让步状语 | despite后为名词短语，不是让步从句
+mod in improving air quality → success | 介词短语作定语 | 在改善空气质量方面的成功
+
+# 2020-3|1:1
+type 简单句｜过去分词宾补内嵌于ordering短语
+chunks A judge has now overruled the city's decision〔主〕 to stop levying fines,〔修〕 ordering them reinstated.〔修〕
+main 主语:A judge | 谓语:has … overruled | 宾语:the city's decision
+gist 法官推翻停止罚款的决定，并命令恢复罚款
+mod now → has … overruled | 时间状语 | 已作出裁决
+mod to stop levying fines → decision | 不定式作后置定语 | 停止征收罚款的决定，stop后levying作宾语
+mod ordering them reinstated → A judge | 现在分词作伴随状语 | 法官命令恢复罚款，them指fines，reinstated为过去分词宾补
+
+# 2020-3|1:2
+type 简单句｜with复合结构表背景
+chunks But〔连〕 with legal battles ahead,〔修〕 the zone's future looks uncertain〔主〕 at best.〔修〕
+main 主语:the zone's future | 谓语:looks | 表语:uncertain
+gist 法律争斗尚未结束，清洁区前景充其量只能说不确定
+mod with legal battles ahead → looks | 背景状语 | with后legal battles为宾语，ahead作补足说明
+mod at best → uncertain | 程度限定 | 最乐观也只是“不确定”，语气并不乐观
+
+# 2020-3|2:0
+type 主从复合句｜measures定语从句内含when省略状语从句
+chunks Among other weaknesses,〔修〕 the measures〔主〕 cities must employ〔C1〕 when left to tackle dirty air on their own〔C2〕 are politically contentious,〔主〕 and therefore vulnerable.〔主〕
+main 主语:the measures | 谓语:are | 表语:contentious … vulnerable
+gist 城市独自治污时采用的措施争议大，因而脆弱
+C1 定语从句 | 修饰measures | （省略 that） | 前面是名词measures，后面cities must employ缺宾语；省略关系词指measures作employ的宾语 | 主语:cities | 谓语:must employ
+C2 时间状语从句（省略） in C1 | 说明城市在何种情况下采用措施 | when | 前面cities must employ加上关系词宾语已完整；when后left…省略cities are，表示城市被留给自己处理污染时 | 谓语:left | 主语补足语:to tackle dirty air
+mod Among other weaknesses → 整句 | 篇章补充 | 除其他弱点外，还存在政治上的脆弱性
+mod on their own → tackle | 方式状语 | 城市单独处理
+mod politically → contentious | 方面状语 | 在政治上有争议
+mod therefore → vulnerable | 因果连接 | 有争议所以易被推翻
+point C2的left是省略被动结构中的分词，不是独立过去式谓语；are支配两个形容词表语。
+
+# 2020-3|2:1
+type 主从复合句｜because表语从句内嵌who、whose定语从句；破折号粘连
+chunks That's〔主〕 because they inevitably put the costs〔C1〕 of cleaning the air〔C1修〕 on to individual drivers-who〔C1〕 must pay fees or buy better vehicles-rather〔C2〕 than on to the car manufacturers〔C1〕 whose cheating is the real cause〔C3〕 of our toxic pollution.〔C3修〕
+main 主语＋谓语:That's | 表语:C1
+gist 因为成本落在司机身上，而没有落在造成污染的制造商身上
+C1 表语从句 | 在That's后解释原因 | because | 前面That's为That is，后面they put the costs on to…主谓宾及补足完整；because整块回答为何政策脆弱 | 主语:they | 谓语:put | 宾语:the costs
+C2 非限制性定语从句 in C1 | 修饰drivers，说明司机的成本负担 | who | 前面是人的名词drivers，后面must pay fees or buy better vehicles缺主语，who作主语；原文who与drivers由连字符粘在同词元，无法单独标出连接词 | 谓语:must pay … buy | 宾语:fees
+C3 定语从句 in C1 | 修饰manufacturers | whose | 前面是名词manufacturers，后面cheating is the cause为主系表，whose限定cheating表制造商的作弊行为 | 主语:whose cheating | 谓语:is | 表语:the real cause
+mod of cleaning the air → costs | 介词短语作定语 | 净化空气的成本
+mod inevitably → put | 方式状语 | 难免把负担转到个人头上
+mod on to individual drivers-who … than on to the car manufacturers → put | 成本承担者及内嵌定语说明 | 实际含who must pay fees or buy better vehicles非限制性定语从句，修饰drivers；who前后词元与破折号粘连，按整块定位。rather than对比司机与制造商
+mod of our toxic pollution → cause | 介词短语作定语 | 有毒污染的根源
+point 原文drivers-who与vehicles-rather粘连，无法独立切出who从句。真实从句骨架为who—must pay fees or buy better vehicles，两个动作共用who和must；不把它们算作they的谓语。
+
+# 2020-3|3:0
+type 简单句｜形式主语及不定式真正主语
+chunks It's not hard to imagine a similar reversal happening in London.〔主〕
+main 主语＋谓语:It's | 表语:not hard | 真正主语:to imagine a similar reversal happening in London
+gist 不难想象伦敦会发生类似政策逆转
+point imagine后a similar reversal为宾语，happening in London作宾补；happening没有独立时态，不是主句谓语。
+
+# 2020-3|3:1
+type 简单句｜be likely to表可能
+chunks The new ultra-low emission zone (Ulez) is likely to be a big issue〔主〕 in next year's mayoral election.〔修〕
+main 主语:The new ultra-low emission zone | 谓语:is | 表语:likely to be a big issue
+gist 新超低排放区可能成为明年市长选举的大议题
+mod (Ulez) → zone | 同位说明 | ultra-low emission zone的简称
+mod in next year's mayoral election → issue | 介词短语作定语 | 明年市长选举中的议题
+
+# 2020-3|3:2
+type 主从复合句｜if条件从句内含as方式从句；who定语从句
+chunks And〔连〕 if Sadiq khan wins and extends it〔C1〕 to the North and South Circular roads in 2021〔C1修〕 as he intends,〔C2〕 it is sure to spark intense opposition〔主〕 from the far larger number of motorists〔修〕 who will then be affected.〔C3〕
+main 主语:it | 谓语:is | 表语:sure to spark intense opposition
+gist 若汗获胜并扩区，大量受影响司机必将激烈反对
+C1 条件状语从句 | 说明激烈反对出现的前提 | if | if后Sadiq khan wins and extends it有主语与并列谓语，主句另有it is sure，整块设条件 | 主语:Sadiq khan | 谓语:wins … extends | 宾语:it
+C2 方式状语从句 in C1 | 按其计划扩展 | as | 前面extends it主谓宾完整，后面he intends省略重复的扩区内容；as引出按计划的方式 | 主语:he | 谓语:intends
+C3 定语从句 | 修饰motorists | who | 前面是人的名词motorists，后面will then be affected缺主语；who代指司机作主语 | 主语:who | 谓语:will … be affected
+mod to the North and South Circular roads in 2021 → extends | 范围与时间状语 | 于2021年扩展到南北环路
+mod from the far larger number of motorists → opposition | 介词短语作定语 | 反对来自数量大得多的司机
+mod then → affected | 时间状语 | 扩区后将受影响
+
+# 2020-3|4:0
+type 主从复合句｜It's not that否定某种解释
+chunks It's not〔主〕 that measures〔C1〕 such as London's Ulez〔C1修〕 are useless.〔C1〕
+main 主语＋谓语:It's | 表语:not | 真正主语:C1
+gist 这并不是说清洁空气区毫无用处
+C1 主语从句 | it占位，否定“这些措施无用”的判断 | that | 前面It's not that为否定说明框架，后面measures are useless主系表完整；that不作成分，引出被否定的解释内容 | 主语:measures | 谓语:are | 表语:useless
+mod such as London's Ulez → measures | 举例定语 | 例如伦敦超低排放区
+point 不能漏读not，把作者理解为反对清洁区；下句Far from it立即强化否定。
+
+# 2020-3|4:1
+type 省略句｜固定否定回应，无独立谓语
+chunks Far from it.〔修〕
+main 表语:Far from it
+gist 远非如此：这些措施并非无效
+point 这是回应上句的省略表达，没有实际出现的主语和限定谓语，不能硬找动词。it指“措施无用”这一观点。
+
+# 2020-3|4:2
+type 主从复合句｜that定语从句＋不定式目的状语
+chunks Local officials are using the levers〔主〕 that are available to them〔C1〕 to safeguard residents' health〔修〕 in the face of a serious threat.〔修〕
+main 主语:Local officials | 谓语:are using | 宾语:the levers
+gist 地方官员在用手边可用工具保护居民健康
+C1 定语从句 | 修饰levers | that | 前面是名词levers，后面are available to them缺主语；that代指工具作主语 | 主语:that | 谓语:are | 表语:available
+mod to them → available | 形容词补足 | 地方官员可使用的
+mod to safeguard residents' health → using | 不定式作目的状语 | 使用政策工具为保护居民健康
+mod in the face of a serious threat → safeguard | 背景状语 | 面对污染的严重威胁
+
+# 2020-3|4:3
+type 并列复合句｜tell双宾语及省略that的宾语从句
+chunks The zones do deliver some improvements〔主〕 to air quality,〔修〕 and〔连〕 the science tells us〔主〕 that means real health benefits-fewer heart attacks, strokes and premature births, less cancer, dementia and asthma.〔C1〕
+main 主语:The zones | 谓语:do deliver | 宾语:some improvements || &and || 主语:the science | 谓语:tells | 间接宾语:us | 直接宾语:C1
+gist 清洁区确有空气改善效果，并由此带来真实健康收益
+C1 宾语从句 | 作tells的直接宾语 | （省略 that） | 前面tells us有接受者但缺内容，后面that means…有主语that、谓语means、宾语benefits；省略的是位于这个that之前的连接词 | 主语:that | 谓语:means | 宾语:real health
+mod to air quality → improvements | 介词短语作定语 | 空气质量方面的改善
+mod benefits-fewer heart attacks, strokes and premature births, less cancer, dementia and asthma → C1 | 健康收益的列举说明 | 真实宾语是real health benefits；benefits与破折号后fewer粘连，不能单独定位。列举心脏病、卒中、早产、癌症、痴呆和哮喘减少
+point 句中that是代词主语“这种改善”，不是单独引导宾语从句的连接词。do强调确实有效。health只是可定位部分，完整宾语real health benefits在此说明。
+
+# 2020-3|4:4
+type 名词性省略句｜补充上一句健康收益
+chunks Fewer untimely deaths.〔主〕
+main 宾语:Fewer untimely deaths
+gist 还有更少的过早死亡
+point 这是承接前句real health benefits的名词短语，省略重复的陈述框架；本条没有实际出现的主语和谓语。
+
+# 2020-3|5:0
+type 主从复合句｜that定语从句内含than比较
+chunks But〔连〕 mayors and councilors can only do so much〔主〕 about a problem〔修〕 that is far bigger〔C1〕 than any one city or town.〔C2〕
+main 主语:mayors and councilors | 谓语:can … do | 宾语:so much
+gist 面对超出单个城市的问题，地方官员能做的有限
+C1 定语从句 | 修饰problem | that | 前面是名词problem，后面is far bigger缺主语，that作主语指污染问题 | 主语:that | 谓语:is | 表语:bigger
+C2 比较状语从句（省略） in C1 | 比较问题的范围与单一城市 | than | 前面bigger提出比较，than后any one city or town为比较对象，省略重复的范围判断结构 | 主语:any one city or town
+mod only → do | 限制状语 | 能做到的只有这么多，表示能力有限
+mod about a problem → do | 处理对象说明 | 对于污染这一问题
+mod far → bigger | 程度状语 | 远远超出
+
+# 2020-3|5:1
+type 主从复合句｜because原因从句；主语内有粘连插入语
+chunks They are acting〔主〕 because national governments-Britain's and others across Europe-have failed to do so.〔C1〕
+main 主语:They | 谓语:are acting
+gist 地方行动是因为各国中央政府未采取行动
+C1 原因状语从句 | 说明地方官员为何行动 | because | 前面They are acting主谓完整，because后national governments…have failed to do so也主谓完整，说明原因；中间破折号插入英国及欧洲其他国家 | 主语:national | 谓语:failed | 宾语:to do so
+point governments-Britain's与Europe-have粘连，导致完整主语national governments及谓语have failed无法独立定位，骨架只标可独立定位部分。真实从句为national governments have failed to do so；Britain's and others across Europe为插入说明，不是谓语主语。
+
+# 2020-3|6:0
+type 主从复合句｜that定语从句；目的不定式内含宾补
+chunks Restrictions〔主〕 that keep highly polluting cars out of certain areas-city centres, "school streets", even individual roads-are〔C1〕 a response〔主〕 to the absence of a larger effort〔修〕 to properly enforce existing regulations and require auto companies to bring their vehicles into compliance.〔修〕
+main 主语:Restrictions | 表语:a response
+gist 各地限行是对更大范围执法和制造商整改缺位的回应
+C1 定语从句 | 修饰Restrictions | that | 前面是名词Restrictions，后面keep cars out of areas缺主语；that指限制措施作keep的主语。原文roads-are粘连处的are实际已回到主句，不属于从句 | 主语:that | 谓语:keep | 宾语:highly polluting cars | 宾补:out of certain
+mod to the absence of a larger effort → response | 介词短语作定语 | 是对更大范围行动缺失的回应
+mod to properly enforce existing regulations and require auto companies to bring their vehicles into compliance → effort | 不定式作后置定语 | 应有的行动是切实执行既有法规，并要求车企让车辆达标；enforce与require共用to
+point areas-city与roads-are为原文粘连，真实定语从句到areas，后面列举市中心、学校街道及单条道路；主句真实谓语are与roads粘连无法单独定位，主干栏不伪标另一个谓语。keep的完整宾补为out of certain areas。
+
+# 2020-3|6:1
+type 简单句｜不定式目的状语
+chunks Wales has introduced special low speed limits〔主〕 to minimise pollution.〔修〕
+main 主语:Wales | 谓语:has introduced | 宾语:special low speed limits
+gist 威尔士推出特殊低速限制以减少污染
+mod to minimise pollution → introduced | 不定式作目的状语 | 限低车速是为减少污染
+
+# 2020-3|6:2
+type 主从复合句｜everything but排除；insist后that宾语从句
+chunks We're doing everything〔主〕 but insist〔修〕 that manufacturers clean up their cars.〔C1〕
+main 主语＋谓语:We're doing | 宾语:everything
+gist 我们什么都做了，唯独未坚持要求制造商清理车辆污染
+C1 宾语从句 | 作insist的宾语 | that | 前面insist缺所坚持的要求，后面manufacturers clean up their cars主谓宾完整；that不作成分，clean为要求类动词后的虚拟原形 | 主语:manufacturers | 谓语:clean up | 宾语:their cars
+mod but insist → everything | 排除补充 | everything but表示除坚持要求车企整改以外，并非“但我们坚持”
+point We're=We are；insist在but排除结构中用原形，不是新主句的独立限定谓语。
+
+# 2020-4|0:0
+type 主从复合句｜now that原因从句；定义插入句与粘连词元
+chunks Now that members〔C1〕 of Generation Z〔C1修〕 are graduating college this spring-the〔C1〕 most commonly-accepted definition says〔修〕 this generation was born after 1995,〔C2〕 give or take a year-the〔修〕 attention has been rising steadily in recent weeks.〔主〕
+main 主语:attention | 谓语:has been rising
+gist Z世代开始大学毕业，因此近几周所受关注持续增加
+C1 原因状语从句 | 说明关注增加的新背景 | Now that | Now that后members are graduating college是完整主谓宾，意为既然现在Z世代开始毕业；后面the attention has been rising才是主句，二者被粘连的插入定义隔开 | 主语:members | 谓语:are graduating | 宾语:college
+C2 宾语从句 | 作插入定义中says的宾语 | （省略 that） | 前面definition says缺定义内容，后面this generation was born…是完整被动陈述；省略that，整个陈述作宾语，不是与主句attention并列 | 主语:this generation | 谓语:was born
+mod most commonly-accepted definition says → 整句 | 插入说明的外层主干 | 说明采用何种定义；主语为the most commonly-accepted definition，the与spring粘连，实际谓语says
+mod give or take a year-the → C2 | 插入的近似范围说明 | give or take a year意为前后差一年；末尾the实际上是主句attention的限定词，因粘连无法分开
+mod after 1995 → born | 时间状语 | 定义中指出大约1995年以后出生
+mod of Generation Z → members | 介词短语作定语 | Z世代的成员
+mod steadily → has been rising | 方式状语 | 持续稳定上升
+mod in recent weeks → has been rising | 时间状语 | 最近几周
+point 原文spring-the与year-the粘连，无法按完整句法边界切块。真实结构为Now that…this spring—[定义插入：the most commonly-accepted definition says (that) this generation was born after 1995, give or take a year]—the attention has been rising…。定义句中says后省略that，this generation为宾语从句主语，was born为被动谓语。C1句尾spring-the的the实际属于插入定义，C2的give or take是一年左右的范围补充；主句attention has been rising从插入后接回，不属于C1。
+
+# 2020-4|0:1
+type 主从复合句｜that定语从句及than比较从句
+chunks Gen Zs are about to hit the streets〔主〕 looking for work〔修〕 in a labor market〔修〕 that's tighter〔C1〕 than it's been〔C2〕 in decades.〔C2修〕
+main 主语:Gen Zs | 谓语:are about to hit | 宾语:the streets
+gist Z世代即将在几十年来最紧俏的劳动力市场找工作
+C1 定语从句 | 修饰market | that | 前面是名词market，后面that's tighter中that's=that is，that作从句主语，tighter为表语 | 主语＋谓语:that's | 表语:tighter
+C2 比较状语从句 in C1 | 与过去几十年的劳动力市场比较 | than | 前面tighter提出比较，后面it's been=it has been，省略表语tight；整块比较现在与过去 | 主语＋谓语:it's been
+mod looking for work → Gen Zs | 现在分词作伴随状语 | 走出去是为寻找工作
+mod in a labor market → looking | 范围状语 | 在劳动力市场中求职
+mod in decades → been | 时间状语 | 过去数十年间
+point tighter在此描述劳动力市场供求紧张，不代表毕业生找工作更困难；下句说明雇主扩大招聘。
+
+# 2020-4|0:2
+type 主从复合句｜than省略比较；according to提供来源
+chunks And〔连〕 employers are planning〔主〕 on hiring about 17 percent more new graduates for jobs in the U. S. this year〔修〕 than last,〔C1〕 according to a survey〔修〕 conducted by the National Association of Colleges and Employers.〔修〕
+main 主语:employers | 谓语:are planning
+gist 调查显示雇主今年计划招聘的应届毕业生比去年多约17%
+C1 比较状语从句（省略） | 比较两年招聘数量 | than | 前面17 percent more提出差额，than后last省略year及重复招聘内容；表示比去年多，不是仅招17%的毕业生 | 状语:last
+mod on hiring about 17 percent more new graduates for jobs in the U. S. this year → planning | 介词补足 | plan on doing计划做某事；今年在美国招聘更多毕业生
+mod according to a survey → 整句 | 来源状语 | 根据一项调查
+mod conducted by the National Association of Colleges and Employers → survey | 过去分词作后置定语 | 美国大学与雇主协会开展的调查
+
+# 2020-4|0:3
+type 主从复合句｜how宾语从句内含两个who定语从句
+chunks Everybody wants to know〔主〕 how the people〔C1〕 who will soon inhabit those empty office cubicles〔C2〕 will differ〔C1〕 from those〔C1修〕 who came before them.〔C3〕
+main 主语:Everybody | 谓语:wants | 宾语:to know
+gist 所有人都想知道新一代职员与前辈有什么不同
+C1 宾语从句 | 作know的宾语 | how | 前面know缺想知道的内容，后面the people will differ主谓完整；how作方式或程度状语 | 主语:the people | 谓语:will differ
+C2 定语从句 in C1 | 修饰people | who | 前面people指人，后面will inhabit cubicles缺主语；who代指新职员 | 主语:who | 谓语:will … inhabit | 宾语:those empty office cubicles
+C3 定语从句 in C1 | 修饰those | who | 前面those指先前的人，后面came before them缺主语；who代指前辈作主语 | 主语:who | 谓语:came
+mod soon → inhabit | 时间状语 | 很快进入职场
+mod from those → differ | 比较对象补足 | 与前辈不同
+mod before them → came | 时间状语 | 比Z世代更早进入职场
+
+# 2020-4|1:0
+type 主从复合句｜if对照条件；过去分词修饰adjective
+chunks If "entitled" is the most common adjective,〔C1〕 fairly or not,〔C1修〕 applied to millennials (those born between 1981 and 1995),〔C1修〕 the catchwords〔主〕 for Generation Z〔修〕 are practical and cautious.〔主〕
+main 主语:the catchwords | 谓语:are | 表语:practical and cautious
+gist 若千禧一代被称有特权感，Z世代的关键词便是务实和谨慎
+C1 条件状语从句 | 为两代人的标签提供对照前提 | If | If后entitled is the adjective主系表完整，主句另有catchwords are…；这里借条件形式对照两代，不表示研究结论尚未发生 | 主语:"entitled" | 谓语:is | 表语:the most common adjective
+mod fairly or not → applied | 评述状语 | 不论这种标签是否公平
+mod applied to millennials (those born between 1981 and 1995) → adjective | 过去分词作后置定语 | 用于形容千禧一代的；括号中those为同位说明，born短语修饰those，指出出生年代
+mod for Generation Z → catchwords | 介词短语作定语 | 用来概括Z世代的关键词
+
+# 2020-4|1:1
+type 主从复合句｜来源短语内含who定语从句
+chunks According to the career counselors and experts〔修〕 who study them,〔C1〕 Generation Zs are clear-eyed, economic pragmatists.〔主〕
+main 主语:Generation Zs | 谓语:are | 表语:clear-eyed, economic pragmatists
+C1 定语从句 | 修饰counselors and experts | who | 前面是表示人的并列名词，后面study them缺主语；who代指这些顾问专家作主语 | 主语:who | 谓语:study | 宾语:them
+gist 研究这一代的专家认为，Z世代是头脑清醒的经济实用主义者
+mod According to the career counselors and experts → 整句 | 来源状语 | 根据职业顾问与专家的观察
+point them指Z世代；clear-eyed描述头脑清醒，而非视力情况。
+
+# 2020-4|1:2
+type 主从复合句｜despite动名词短语＋what宾语从句
+chunks Despite graduating〔修〕 into the best economy in the past 50 years,〔修〕 Gen Zs know〔主〕 what an economic train wreck looks like.〔C1〕
+main 主语:Gen Zs | 谓语:know | 宾语:C1
+gist 虽然毕业时经济很好，Z世代仍知道经济崩溃是什么样
+C1 宾语从句 | 作know的宾语 | what | 前面know缺知道的内容，后面an economic train wreck looks like缺like的宾语；what前置并作like的宾语 | 主语:an economic train wreck | 谓语:looks
+mod Despite graduating → know | 让步状语框架 | 尽管毕业时赶上好经济；despite为介词，graduating为动名词
+mod into the best economy in the past 50 years → graduating | 毕业背景补足 | 进入过去50年来最好的经济环境
+point economic train wreck比喻经济灾难，不是实际火车事故；what不是looks的主语。
+
+# 2020-4|1:3
+type 主从复合句｜when非限制性定语从句
+chunks They were impressionable kids〔主〕 during the crash of 2008,〔修〕 when many of their parents lost their jobs or their life savings or both.〔C1〕
+main 主语:They | 谓语:were | 表语:impressionable kids
+gist 2008年危机时他们还年幼，父母失业或损失积蓄令其印象深刻
+C1 非限制性定语从句 | 补充2008年危机时期的情况 | when | 前面是时间2008及crash，后面many of their parents lost…主谓宾完整；when作时间状语，说明那时发生什么 | 主语:many of their parents | 谓语:lost | 宾语:their jobs … their life savings … both
+mod during the crash of 2008 → were | 时间状语 | 在2008年经济危机期间
+point or连接失去的对象，both指工作和毕生积蓄两者，不是另一个主语。
+
+# 2020-4|1:4
+type 简单句｜be interested in doing
+chunks They aren't interested〔主〕 in taking any chances.〔修〕
+main 主语:They | 谓语:aren't | 表语:interested
+gist 他们不愿冒险
+mod in taking any chances → interested | 形容词补足 | interested in后用动名词，taking chances为冒风险
+
+# 2020-4|1:5
+type 主从复合句｜who定语从句＋完成不定式
+chunks The booming economy seems to have done little〔主〕 to assuage this underlying generational sense of anxious urgency,〔修〕 especially for those〔修〕 who have college debt.〔C1〕
+main 主语:The booming economy | 谓语:seems to have done | 宾语:little
+gist 繁荣经济似乎未能缓解这一代的焦虑，负债者尤甚
+C1 定语从句 | 修饰those | who | 前面those指人，后面have college debt缺主语；who代指背债者作主语 | 主语:who | 谓语:have | 宾语:college debt
+mod to assuage this underlying generational sense of anxious urgency → done | 不定式作结果或作用说明 | 经济繁荣未发挥多少缓解焦虑的作用
+mod especially for those → 整句 | 适用范围补充 | 对背大学债务的人尤其如此
+point seem to have done整体表达似乎已经产生的作用；little说明缓解作用少，不是焦虑程度低。
+
+# 2020-4|1:6
+type 简单句｜stand at表示达到某数值
+chunks College loan balances〔主〕 in the U. S.〔修〕 now stand〔主〕 at a record $1.5 trillion,〔修〕 according to the Federal Reserve.〔修〕
+main 主语:College loan balances | 谓语:stand
+gist 美国大学贷款余额当时达到创纪录的1.5万亿美元
+mod in the U. S. → balances | 介词短语作定语 | 美国的贷款余额
+mod now → stand | 时间状语 | 文章当时的情况，不冒充当前统计
+mod at a record $1.5 trillion → stand | 数值补足 | 达到创纪录的金额
+mod according to the Federal Reserve → 整句 | 来源状语 | 数据来自美联储
+
+# 2020-4|2:0
+type 主从复合句｜that宾语从句
+chunks One survey〔主〕 from Accenture〔修〕 found〔主〕 that 88 percent of graduating seniors〔C1〕 this year〔C1修〕 chose their major〔C1〕 with a job in mind.〔C1修〕
+main 主语:One survey | 谓语:found | 宾语:C1
+gist 调查发现88%的毕业班学生选专业时已考虑就业
+C1 宾语从句 | 作found的宾语 | that | 前面found缺发现的内容，后面88 percent of seniors chose their major主谓宾完整；that不作成分，整块作宾语 | 主语:88 percent of graduating seniors | 谓语:chose | 宾语:their major
+mod from Accenture → survey | 来源定语 | 埃森哲的调查
+mod this year → graduating seniors | 时间限定 | 当年的毕业班学生
+mod with a job in mind → chose | 背景状语 | 心里想着将来找工作，体现务实选择
+
+# 2020-4|2:1
+type 主从复合句｜found后省略that宾语从句；括号内排序补充
+chunks In a 2019 survey of University of Georgia students,〔修〕 meanwhile,〔修〕 the career office found〔主〕 the most desirable trait〔C1〕 in a future employer〔C1修〕 was the ability〔C1〕 to offer secure employment〔C1修〕 (followed by professional development and training, and then inspiring purpose).〔C1修〕
+main 主语:the career office | 谓语:found | 宾语:C1
+gist 另一调查发现理想雇主首要特质是能提供稳定就业
+C1 宾语从句 | 作found的宾语 | （省略 that） | 前面found缺发现内容，后面trait was the ability主系表完整，省略that；不能只把trait当found的名词宾语而丢掉was | 主语:the most desirable trait | 谓语:was | 表语:the ability
+mod In a 2019 survey of University of Georgia students → found | 调查背景状语 | 2019年对佐治亚大学学生的调查
+mod meanwhile → 整句 | 补充连接语 | 与前一调查互相补充
+mod in a future employer → trait | 介词短语作定语 | 未来雇主身上的特质
+mod to offer secure employment → ability | 不定式作后置定语 | 提供稳定就业的能力
+mod (followed by professional development and training, and then inspiring purpose) → secure employment | 过去分词作排序补充 | 排在稳定就业之后的是职业发展培训，再后才是鼓舞人心的使命
+
+# 2020-4|2:2
+type 并列补充句｜括号内独立句；原文goal括号粘连
+chunks Job security or stability was the second most important career goal(work-life balance was number one),〔主〕 followed by a sense of being dedicated to a cause or to feel good about serving the greater good.〔修〕
+main 主语:Job security or stability | 谓语:was | 表语:the second most important career
+gist 工作稳定是第二职业目标，第一为工作生活平衡，使命感排在后面
+mod followed by a sense of being dedicated to a cause or to feel good about serving the greater good → 整句 | 过去分词作排序补充 | 随后才是投身事业、服务公共利益带来的感受；不另立限定谓语
+point 原文goal(work-life粘连，完整表语为the second most important career goal，括号内是work-life balance was number one这一独立说明。骨架栏不把career当完整表语，因无法分开词元，只标可定位部分并在此补齐。or后to feel与前面of being形式不平行，按原文保留，含义仍为服务公共利益带来的良好感受。
+
+# 2020-4|3:0
+type 简单句｜系表结构
+chunks That's a big change〔主〕 from the previous generation.〔修〕
+main 主语＋谓语:That's | 表语:a big change
+gist 这与上一代相比是显著变化
+mod from the previous generation → change | 比较对象补足 | 与上一代的就业价值取向相比较
+point That's=That is；That指稳定优先的求职目标。
+
+# 2020-4|3:1
+type 主从复合句｜引语及倒装引述语；同位语内含that定语从句
+chunks "Millennials wanted more flexibility〔主〕 in their lives,"〔修〕 notes Tanya Michelsen,〔修〕 Associate Director of YouthSight, a UK-based brand manager〔修〕 that conducts regular 60-day surveys〔C1〕 of British youth,〔C1修〕 in findings〔修〕 that might just as well apply〔C2〕 to American youth.〔C2修〕
+main 主语:Millennials | 谓语:wanted | 宾语:more flexibility
+gist 千禧一代希望更灵活的生活，英国调查的发现也可能适用于美国青年
+C1 定语从句 | 修饰brand manager，即YouthSight机构 | that | 前面是机构名词brand manager，后面conducts surveys缺主语；that作主语，不能把它理解为青年作调查 | 主语:that | 谓语:conducts | 宾语:regular 60-day surveys
+C2 定语从句 | 修饰findings | that | 前面是名词findings，后面might apply缺主语；that代指研究发现，作apply的主语 | 主语:that | 谓语:might … apply
+mod in their lives → flexibility | 范围定语 | 生活方面的灵活性
+mod notes Tanya Michelsen → 整句 | 倒装引述语 | Michelsen为notes的后置主语
+mod Associate Director of YouthSight, a UK-based brand manager → Tanya Michelsen | 同位语 | 介绍Michelsen职位及所属机构，brand manager补充YouthSight
+mod of British youth → surveys | 介词短语作定语 | 对英国青年作的调查
+mod in findings → 整句 | 发现背景补充 | 以上观点属于研究发现
+mod just as well → apply | 程度及可能性状语 | 也完全可能适用
+mod to American youth → apply | 适用对象补足 | 美国青年也可能如此，不表示已另做同样调查
+
+# 2020-4|3:2
+type 简单句｜because of介词短语表原因；引号续至下条
+chunks "Generation Zs are looking〔主〕 for more certainty and stability,〔修〕 because of the rise of the gig economy.〔修〕
+main 主语:Generation Zs | 谓语:are looking
+gist 零工经济兴起使Z世代更追求确定性与稳定性
+mod for more certainty and stability → looking | 介词补足 | 寻求更确定、更稳定的就业
+mod because of the rise of the gig economy → are looking | 原因状语 | because of后是名词短语，不是原因从句
+
+# 2020-4|3:3
+type 并列句｜and后有新主语they
+chunks They have troubles〔主〕 seeing a financial future〔修〕 and〔连〕 they are quite risk averse."〔主〕
+main 主语:They | 谓语:have | 宾语:troubles || &and || 主语:they | 谓语:are | 表语:risk averse
+gist 他们难以看清经济未来，因此很不愿冒风险
+mod seeing a financial future → troubles | 动名词补足 | have trouble doing表示做某事有困难，原文troubles复数保留
+mod quite → risk averse | 程度状语 | 相当厌恶风险
+point and后重出现they，是两个并列句；seeing是动名词，不是主句谓语。

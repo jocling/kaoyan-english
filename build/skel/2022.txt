@@ -1,0 +1,763 @@
+# 2022-1|0:0
+type 简单句｜地点和时间状语
+chunks On a recent sunny day,〔修〕 13,000 chickens roam〔主〕 over Larry Brown's 40 windswept acres〔修〕 in Shiner, Texas.〔修〕
+main 主语:13,000 chickens | 谓语:roam
+gist 一万三千只鸡在布朗的土地上四处活动
+mod On a recent sunny day → roam | 时间状语 | 最近的一个晴天
+mod over Larry Brown's 40 windswept acres → roam | 地点状语 | 在布朗那片强风吹拂的40英亩土地上
+mod in Shiner, Texas → acres | 地点定语 | 土地位于得克萨斯州沙伊纳
+
+# 2022-1|0:1
+type 简单句｜Some 指一部分鸡
+chunks Some rest〔主〕 in the shade of a parked car.〔修〕
+main 主语:Some | 谓语:rest
+gist 一些鸡在车的阴影里休息
+mod in the shade of a parked car → rest | 地点状语 | 在一辆停着的车投下的阴影中
+point Some 是代词，承接 chickens，不是修饰 rest 的形容词。
+
+# 2022-1|0:2
+type 简单句｜Others 与前句 Some 对应
+chunks Others drink water〔主〕 with the cows.〔修〕
+main 主语:Others | 谓语:drink | 宾语:water
+gist 另一些鸡和奶牛一起饮水
+mod with the cows → drink | 伴随状语 | 与奶牛在一起喝水
+
+# 2022-1|0:3
+type 并列复合句｜but 对照随机与设计；what 从句内有嵌入的 bets
+chunks This all seems random,〔主〕 but〔连〕 it's by design, part〔主〕 of〔修〕 what the $ 6.1 billion U. S. egg industry bets will be its next big thing:〔C1〕 climate-friendly eggs.〔修〕
+main 主语:This all | 谓语:seems | 表语:random || &but || 主语＋谓语:it's | 表语:by design, part
+gist 一切看似随机，其实属于鸡蛋行业押注的气候友好型鸡蛋计划
+C1 宾语从句（融合关系结构） | 作 of 的宾语，指行业相信会成热门的东西 | what | 前面介词 of 缺宾语；the…industry bets 后嵌入的 will be its next big thing 缺主语，what 同时连接整块并作 will be 的主语 | 主语:the $ 6.1 billion U. S. egg industry | 谓语:bets | 主语:what | 谓语:will be | 表语:its next big thing
+mod climate-friendly eggs → its next big thing | 同位语 | 冒号后揭示这个热门产品是气候友好型鸡蛋
+point it's 是 it is。bets 的主语是行业，will be 的主语是 what 所指产品；不要把 industry 同时硬当两个动作的主语。
+
+# 2022-1|1:0
+type 并列复合句｜which 补充鸡蛋上市；that 定语从句层层限定鸟、农场和土壤
+chunks These eggs,〔主〕 which are making their debut〔C1〕 now on shelves for as much as $ 8 a dozen,〔C1修〕 are still labeled organic and animal-friendly,〔主〕 but〔连〕 they're also from birds〔主〕 that live on farms〔C2〕 using regenerative agriculture-special techniques〔C2修〕 to cultivate rich soils〔C2修〕 that can trap greenhouse gases.〔C3〕
+main 主语:These eggs | 谓语:are … labeled | 主语补足语:organic and animal-friendly || &but || 主语＋谓语:they're | 表语:from birds
+gist 这些鸡蛋仍具备有机和动物友好属性，还来自再生农业农场
+C1 非限制性定语从句 | 补充 eggs 的上市与售价 | which | 前面是 eggs，后面 are making their debut 缺主语；which 代指鸡蛋作主语 | 主语:which | 谓语:are making | 宾语:their debut
+C2 定语从句 | 修饰 birds | that | 前面是名词 birds，后面 live on farms 缺主语；that 作 live 的主语，指下蛋的鸡 | 主语:that | 谓语:live
+C3 定语从句 in C2 | 修饰 soils | that | 前面是名词 soils，后面 can trap greenhouse gases 缺主语；that 代指土壤作主语，不指 techniques | 主语:that | 谓语:can trap | 宾语:greenhouse gases
+mod now on shelves for as much as $ 8 a dozen → making | 时间地点和价格状语 | 如今首次上架，每打价格最高8美元，as much as 表高达
+mod still → labeled | 时间状语 | 仍然具有这些标签
+mod also → from birds | 添加状语 | 在有机与动物友好之外再加一层来源特点
+mod on farms → live | 地点状语 | 鸡生活在农场
+mod using regenerative agriculture-special techniques → farms | 现在分词作后置定语 | 农场采用再生农业；原文 agriculture-special 连字，语义上 special techniques 解释 regenerative agriculture，不当成一个完整英语单词教学
+mod to cultivate rich soils → techniques | 不定式作后置定语 | 技术用于培育肥沃土壤
+point they're 是 they are；using 无独立时态，不是与 live 并列的谓语。agriculture-special 的原始粘连保留并说明，未改写。
+
+# 2022-1|1:1
+type 简单句｜被动谓语＋as doing
+chunks Such eggs could be marketed〔主〕 as helping to fight climate change.〔修〕
+main 主语:Such eggs | 谓语:could be marketed
+gist 这种鸡蛋可以以有助于应对气候变化作为卖点
+mod as helping to fight climate change → marketed | 营销定位补足 | 被宣传成有助于应对气候变化的产品，helping 接不定式 to fight
+point could 表可能的宣传方式，不是科学证明已消除气候变化。
+
+# 2022-1|2:0
+type 主从复合句｜引语；who 从句含并列谓语与 that 从句
+chunks "I'm excited〔主〕 about our progress,"〔修〕 says Brown,〔修〕 who harvests eggs〔C1〕 for Denver- based Nest Fresh Eggs〔C1修〕 and is adding more cover crops〔C1〕 that draw worms and crickets〔C2〕 for the chickens to eat.〔C2修〕
+main 主语＋谓语:I'm | 表语:excited
+gist 布朗为进展兴奋，正在增加覆盖作物供鸡觅食
+C1 非限制性定语从句 | 修饰 Brown，交代其工作和改善措施 | who | 前面是人名 Brown，后面 harvests eggs 与 is adding…都缺共用主语；who 作两项谓语的主语 | 主语:who | 谓语:harvests | 宾语:eggs | 谓语:is adding | 宾语:more cover crops
+C2 定语从句 in C1 | 修饰 cover crops | that | 前面是 crops，后面 draw worms and crickets 缺主语；that 指覆盖作物作 draw 的主语 | 主语:that | 谓语:draw | 宾语:worms and crickets
+mod about our progress → excited | 形容词补足 | 为我们的进展感到兴奋
+mod says Brown → 整句 | 倒装引述语 | Brown 是 says 的主语，不与引语内容构成并列句
+mod for Denver- based Nest Fresh Eggs → harvests | 服务对象状语 | 为丹佛的公司供应鸡蛋；Denver- based 的断开按原文保留
+mod for the chickens to eat → worms and crickets | 带逻辑主语的不定式作后置定语 | 虫子供鸡吃；the chickens 是 eat 的逻辑主语，不能当主句主语
+
+# 2022-1|2:1
+type 简单句｜名词 waste 作主语
+chunks The birds' waste then fertilizes fields.〔主〕
+main 主语:The birds' waste | 谓语:fertilizes | 宾语:fields
+gist 鸡的排泄物又为土地施肥
+mod then → fertilizes | 顺序状语 | 作物供鸡觅食后，排泄物再回到田地形成循环
+
+# 2022-1|2:2
+type 主从复合句｜allow＋宾语＋不定式；两层 that 定语从句
+chunks Such improvements "allow our hens to forage〔主〕 for higher-quality natural feed〔修〕 that will be good〔C1〕 for the land, the hens, and the eggs〔C1修〕 that we supply〔C2〕 to our customers."〔C2修〕
+main 主语:Such improvements | 谓语:allow | 宾语:our hens | 宾补:to forage
+gist 这些改善让母鸡能觅食更优质饲料，并使土地、鸡和鸡蛋受益
+C1 定语从句 | 修饰 feed | that | 前面是名词 feed，后面 will be good 缺主语；that 指饲料作主语，good for 后列出受益对象 | 主语:that | 谓语:will be | 表语:good
+C2 定语从句 in C1 | 修饰 eggs | that | 前面是 eggs，后面 we supply to our customers 缺直接宾语；that 指鸡蛋作 supply 的宾语 | 主语:we | 谓语:supply | 宾语:that
+mod for higher-quality natural feed → forage | 介词补足 | 觅食更优质的天然饲料
+mod for the land, the hens, and the eggs → good | 形容词补足 | 对土地、母鸡与鸡蛋都有好处
+mod to our customers → supply | 接受对象说明 | 把鸡蛋供应给顾客
+point forage 是 hens 做的动作，但原句限定谓语仍是 allow；to forage 作宾补，不另立主句。
+
+# 2022-1|3:0
+type 主从复合句｜whether 从句作 of 的宾语
+chunks The egg industry's push is the first major test〔主〕 of〔修〕 whether animal products〔C1〕 from regenerative farms〔C1修〕 can become the next premium offering.〔C1〕
+main 主语:The egg industry's push | 谓语:is | 表语:the first major test
+gist 鸡蛋行业正在首次重大检验再生产品能否成为高端商品
+C1 宾语从句 | 作 of 的宾语，说明检验内容 | whether | 前面介词 of 缺内容宾语，后面 animal products can become…主系表完整；whether 不作主宾成分，表示是否 | 主语:animal products | 谓语:can become | 表语:the next premium offering
+mod from regenerative farms → animal products | 介词短语作定语 | 来自再生农场的动物产品
+
+# 2022-1|3:1
+type 简单句｜went from…to…中的两个被动动名词结构
+chunks In barely more than a decade,〔修〕 organic eggs went〔主〕 from being dismissed as a niche product in natural foods stores〔修〕 to being sold at Walmart.〔修〕
+main 主语:organic eggs | 谓语:went
+gist 有机鸡蛋仅十多年就从小众走进大众超市
+mod In barely more than a decade → went | 时间状语 | 仅仅十多年，强调发展很快
+mod from being dismissed as a niche product in natural foods stores → went | 起点补足 | 从天然食品店里被轻视的小众产品起步；being dismissed 是介词后的被动动名词
+mod to being sold at Walmart → went | 终点补足 | 到在沃尔玛销售；to 是介词，不是不定式标记
+point 主句限定谓语只有 went；dismissed 与 sold 各由 being 引出被动形式，但整个结构在介词后，不是新主句谓语。
+
+# 2022-1|3:2
+type 并列句｜there be 与 but 主句对比
+chunks More recently〔修〕 there were similar doubts〔主〕 about probiotics and plant-based meats,〔修〕 but〔连〕 both have exploded〔主〕 into major supermarket categories.〔修〕
+main 谓语:were | 主语:similar doubts || &but || 主语:both | 谓语:have exploded
+gist 益生菌和植物肉也曾受质疑，却都迅速成为超市大品类
+mod More recently → were | 时间状语 | 更近的一段时期
+mod about probiotics and plant-based meats → doubts | 介词短语作定语 | 针对益生菌和植物肉的疑虑
+mod into major supermarket categories → exploded | 结果补足 | 迅速发展为超市重要品类
+point both 指 probiotics 与 plant-based meats，不指前面的 doubts。
+
+# 2022-1|3:3
+type 主从复合句｜if 条件状语从句
+chunks If the sustainable-egg rollout is successful,〔C1〕 it could open the floodgates〔主〕 for regenerative beef, broccoli, and beyond.〔修〕
+main 主语:it | 谓语:could open | 宾语:the floodgates
+gist 可持续鸡蛋上市若成功，就可能为其他再生产品打开市场
+C1 条件状语从句 | 说明打开市场的前提 | If | If 后 the sustainable-egg rollout is successful 主系表完整，无被修饰的名词；整块限制主句的条件 | 主语:the sustainable-egg rollout | 谓语:is | 表语:successful
+mod for regenerative beef, broccoli, and beyond → floodgates | 对象补足 | 为再生牛肉、西兰花及更多产品打开机会
+point it 指上市成功这件事；could 保留可能性，open the floodgates 是打开发展空间的比喻。
+
+# 2022-1|4:0
+type 主从复合句｜because 原因从句；句末倒装引述语
+chunks Regenerative products could be a hard sell,〔主〕 because the concept is tough〔C1〕 to define quickly,〔C1修〕 says Julie Stanton,〔修〕 associate professor of agricultural economics at Pennsylvania State University Brandywine.〔修〕
+main 主语:Regenerative products | 谓语:could be | 表语:a hard sell
+gist 再生产品可能难卖，因为概念很难迅速说清
+C1 原因状语从句 | 解释产品难卖的原因 | because | 前面 could be a hard sell 已完整，后面 the concept is tough 主系表完整；because 连接因果，不作名词成分 | 主语:the concept | 谓语:is | 表语:tough
+mod to define quickly → tough | 不定式补足形容词 | 很难迅速界定这个概念；concept 是 define 的逻辑宾语，主动形式表被动含义
+mod says Julie Stanton → 整句 | 倒装引述语 | Julie Stanton 是 says 的后置主语，整段是她的判断
+mod associate professor of agricultural economics at Pennsylvania State University Brandywine → Julie Stanton | 同位语 | 交代其农业经济学副教授身份
+
+# 2022-1|4:1
+type 主从复合句｜if any 省略让步；though 让步从句内嵌宾语从句
+chunks Such farming also brings minimal,〔主〕 if any,〔C1〕 improvement〔主〕 to the food products〔修〕 (though some producers say〔C2〕 their eggs have more protein).〔C3〕
+main 主语:Such farming | 谓语:brings | 宾语:minimal … improvement
+gist 这种种植养殖方式对食品本身几乎没有改善
+C1 省略的让步状语从句 | 插入限制 improvement 的存在与数量 | if | if any 是 if there is any improvement 的省略，只有 any 留在原文；不是完整独立主谓，更不是某类食品名词 | 主语:any
+C2 让步状语从句 | 承认某些生产商声称有营养改善 | though | though 后 some producers say 加宾语内容成分完整，与主句 minimal improvement 构成让步 | 主语:some producers | 谓语:say | 宾语:C3
+C3 宾语从句 in C2 | 作 say 的宾语 | （省略 that） | 前面 say 缺说的内容，后面 their eggs have more protein 主谓宾完整，省略 that | 主语:their eggs | 谓语:have | 宾语:more protein
+mod also → brings | 添加状语 | 除概念难解释之外，产品本身改善也少
+mod to the food products → improvement | 对象补足 | 对食品本身的改善，不是对环境的改善
+point if any 强调即使有也很少；生产商的营养声称位于让步中，不是作者确认的普遍效果。
+
+# 2022-1|5:0
+type 主从复合句｜that 宾语从句；paying 分词修饰消费者
+chunks The industry is betting〔主〕 that the same consumers〔C1〕 paying more for premium attributes〔C1修〕 such as free-range, non-GMO, and pasture-raised eggs〔C1修〕 will embrace sustainability.〔C1〕
+main 主语:The industry | 谓语:is betting | 宾语:C1
+gist 行业押注：愿为高端属性多付钱的消费者也会接受可持续性
+C1 宾语从句 | 作 betting 的宾语 | that | 前面 is betting 缺押注内容，后面 consumers…will embrace sustainability 主谓宾完整；that 不在从句内作成分 | 主语:the same consumers | 谓语:will embrace | 宾语:sustainability
+mod paying more for premium attributes → consumers | 现在分词作后置定语 | 愿为产品高端属性支付更多的消费者，paying 无助动词，不是从句谓语
+mod such as free-range, non-GMO, and pasture-raised eggs → premium attributes | 举例说明 | 散养、非转基因、牧场饲养等鸡蛋卖点
+
+# 2022-1|5:1
+type 并列复合句｜that宾语从句与后续主句并列
+chunks Surveys show〔主〕 that younger generations are more concerned〔C1〕 about climate change,〔C1修〕 and〔连〕 some of the success of plant-based meat can be chalked up〔主〕 to shoppers〔修〕 wanting to signal their desire〔修〕 to protect the environment.〔修〕
+main 主语:Surveys | 谓语:show | 宾语:C1 || &and || 主语:some of the success | 谓语:can be chalked up
+gist 调查表明年轻人关心气候，植物肉的部分成功也反映环保诉求
+C1 宾语从句 | 作show的宾语，说明年轻人更关注气候 | that | 前面show缺调查内容，后面younger generations are more concerned主系表完整；that不作成分，逗号后and接新的主句 | 主语:younger generations | 谓语:are | 表语:more concerned
+mod about climate change → concerned | 形容词补足 | 关心的是气候变化
+mod of plant-based meat → success | 介词短语作定语 | 植物肉的市场成功
+mod to shoppers → chalked up | 原因补足 | chalk up A to B，把部分成功归因于购物者的动机
+mod wanting to signal their desire → shoppers | 现在分词作后置定语 | 想表明自身愿望的购物者
+mod to protect the environment → desire | 不定式作后置定语 | 想保护环境的愿望
+point some of the success 是部分成功，不能理解成植物肉成功的全部原因。
+
+# 2022-1|5:2
+type 主从复合句｜口语引语，结构不完全规范
+chunks Young adults " really care〔主〕 about the planet,"〔修〕 says John Brunnquell,〔修〕 president of Egg Innovations.〔修〕 " They are absolutely altering the food chain〔主〕 beyond〔修〕 what〔C1〕 I think〔C1修〕 even they understand〔C1〕 what they're doing."〔C2〕
+main 主语:Young adults | 谓语:care || 主语:They | 谓语:are … altering | 宾语:the food chain
+gist 年轻人关心地球，正在深刻改变食物链，程度甚至超出自己的理解
+C1 宾语从句 | 作beyond的宾语：what (I think) even they understand | what | 前面beyond需要内容宾语；去掉插入语I think后，even they understand缺宾语，what既连接从句又作understand的宾语，表示他们所能理解的范围 | 主语:they | 谓语:understand | 宾语:what
+C2 宾语从句 in C1 | 口语中追加补说理解的内容，语法上与C1的宾语重复 | what | 后面they're doing缺宾语，what作doing的宾语；这整块在口语里又补说了一遍understand的内容，与前面的what重复，不把两块硬合成完全规范的书面结构 | 主语＋谓语:they're doing | 宾语:what
+mod about the planet → care | 介词补足 | 关心地球
+mod says John Brunnquell → 整句 | 倒装引述语 | Brunnquell 是 says 的主语
+mod president of Egg Innovations → John Brunnquell | 同位语 | 交代其公司总裁身份
+mod absolutely → altering | 程度状语 | 强调确实在改变
+mod I think → C1 | 插入语 | I为主语，think为谓语；说话人插入“我认为”，不占even they understand的骨架位置
+point 原题如此，口语引语，不必强求唯一骨架。Claude已核对原题PDF，两个what均为原文，不是录入错误。读成“超出他们自己能理解的程度”即可；I think为插入语，后一个what从句是对理解内容的追加补说，此条已结案。
+
+# 2022-2|0:0
+type 主从复合句｜同位语补充趋势，that 定语从句
+chunks More Americans are opting to work〔主〕 well into retirement,〔修〕 a growing trend〔修〕 that threatens to upend the old workforce model.〔C1〕
+main 主语:More Americans | 谓语:are opting | 宾语:to work
+gist 更多美国人选择退休年龄之后继续工作，这一趋势可能颠覆旧劳动力模式
+C1 定语从句 | 修饰 trend | that | 前面是名词 trend，后面 threatens to upend…缺主语；that 代指趋势作 threatens 的主语 | 主语:that | 谓语:threatens | 宾语:to upend the old workforce model
+mod well into retirement → work | 时间状语 | 达到退休年龄后仍工作很久
+mod a growing trend → 整句 | 同位补充 | 把前面整个选择退休后工作的现象概括为增长趋势
+point opting 带 are 构成进行时；to work 是选择的内容，不能把 to upend 当主句动作。
+
+# 2022-2|1:0
+type 主从复合句｜who 定语从句；have or plan to have 并列谓语
+chunks One in three Americans〔主〕 who are at least 40〔C1〕 have or plan to have a job〔主〕 in retirement〔修〕 to prepare for a longer life,〔修〕 according to a survey〔修〕 conducted by Harris Poll for TD Ameritrade.〔修〕
+main 主语:One in three Americans | 谓语:have | 宾语:a job || &or || 谓语:plan | 宾语:to have a job
+gist 40岁以上美国人中，三分之一已有或计划退休后有一份工作
+C1 定语从句 | 修饰 Americans | who | 前面是人的名词 Americans，后面 are at least 40 缺主语；who 作 are 的主语，限定年龄 | 主语:who | 谓语:are | 表语:at least 40
+mod in retirement → job | 时间定语 | 退休期间的工作
+mod to prepare for a longer life → have … plan | 不定式作目的状语 | 为更长寿命做好准备
+mod according to a survey → 整句 | 信息来源状语 | 数据来自一项调查
+mod conducted by Harris Poll for TD Ameritrade → survey | 过去分词作后置定语 | 哈里斯民调受委托开展的调查，不是另一个谓语
+point have 与 plan 并列，plan 内又接 to have；原文按复数 Americans 使用 have，数量表达整体理解为每三人有一人。
+
+# 2022-2|1:1
+type 主从复合句｜表语前置倒装；that 内容从句含who定语、if让步
+chunks Even more surprising is〔主〕 that more than half〔C1〕 of "unretirees"-those〔C1修〕 who plan to work〔C2〕 in retirement〔C2修〕 or went back to work〔C2〕 after retiring-said〔C2修〕 they would be employed〔C3〕 in their later years〔C3修〕 even if they had enough money〔C4〕 to settle down,〔C4修〕 the survey showed.〔修〕
+main 表语:Even more surprising | 谓语:is | 主语:C1
+gist 更意外的是，半数以上不退休者即使有钱也打算晚年工作
+C1 主语从句 | 倒装后置的主语，解释什么更令人意外 | that | 前面表语 Even more surprising 和 is 前置；that 后本应为 more than half…said…完整陈述，但原文 retiring-said 粘连，said 不能准确独立定位，结构见point | 主语:more than half | 宾语:C3
+C2 定语从句 in C1 | 修饰 those，说明不退休者的两种情况 | who | 前面 those 指人，后面 plan…或 went…都缺共用主语；who 作主语，or 连接计划退休后工作与退休后返岗 | 主语:who | 谓语:plan | 宾语:to work | 谓语:went back
+C3 宾语从句 in C1 | 作原文粘连词元中 said 的宾语 | （省略 that） | 前面实际引述动词为 said，后面 they would be employed 主谓完整，省略that，内容是晚年仍会就业 | 主语:they | 谓语:would be employed
+C4 让步状语从句 in C3 | 即使有钱也仍工作 | even if | 前面 they would be employed 已完整，后面 they had enough money 主谓宾完整；even if 引出让步条件 | 主语:they | 谓语:had | 宾语:enough money
+mod to work#2 → went back | 目标补足 | go back to work指重返工作岗位；不是go back的表语
+mod in retirement → work | 时间状语 | 在退休期间
+mod after retiring-said → went back | 原文粘连处的时间说明 | after retiring 说明退休后返岗，-said 本应在插入说明结束后引出主句谓语；此词元跨层，只能整体定位
+mod in their later years → employed | 时间状语 | 在他们晚年
+mod to settle down → money | 不定式作后置定语 | 足以安顿生活的钱
+mod the survey showed → 整句 | 引述语 | 调查显示前面的结果，非并列的另一个事实
+point 原文 unretirees"-those 与 retiring-said 使主干、插入说明粘连。真实外层是 more than half of unretirees said C3；said 在 retiring-said 词元内，当前骨架仅标能准确定位的部分。第二处to work为返回工作的目标，非系动词表语；词元问题留待原文修正，不静默拆写。
+
+# 2022-2|2:0
+type 简单句｜否定系表结构
+chunks Financial needs aren't the only culprit〔主〕 for the "unretirement" trend.〔修〕
+main 主语:Financial needs | 谓语:aren't | 表语:the only culprit
+gist 经济需求不是不退休趋势的唯一原因
+mod for the "unretirement" trend → culprit | 介词短语作定语 | 引发不退休趋势的原因
+point not the only 是“不只是”，保留经济原因存在，同时引出精神方面的动机。
+
+# 2022-2|2:1
+type 简单句｜插入信息来源；动名词并列举例
+chunks Other reasons,〔主〕 according to the study,〔修〕 include personal fulfillment〔主〕 such as staying mentally fit, preventing boredom or avoiding depression.〔修〕
+main 主语:Other reasons | 谓语:include | 宾语:personal fulfillment
+gist 其他原因包括保持思维敏锐、免于无聊和抑郁等个人满足
+mod according to the study → 整句 | 信息来源状语 | 根据这项研究
+mod such as staying mentally fit, preventing boredom or avoiding depression → personal fulfillment | 举例说明 | 三个动名词短语并列说明个人满足，均不是主句谓语
+
+# 2022-2|2:2
+type 并列复合句｜while对比两个比例，各含宾语从句
+chunks About 72% of "unretiree" respondents said〔主〕 that they would return〔C1〕 to work〔C1修〕 once retired〔C2〕 to keep mentally fit〔C1修〕 while 59% said〔C3〕 it would be tied〔C4〕 to making ends meet.〔C4修〕
+main 主语:About 72% of "unretiree" respondents | 谓语:said | 宾语:C1
+gist 72%为保持头脑敏锐返岗，59%则出于收支需要
+C1 宾语从句 | 作said的宾语 | that | 前面said缺内容，后面they would return…主谓完整；that不作成分，整块交代返岗计划 | 主语:they | 谓语:would return
+C2 时间状语从句 in C1 | 说明返岗发生在退休后 | once | once retired省略they were，前面返岗结构已完整；retired说明退休状态，不是另一个过去式主句 | 表语:retired
+C3 对比状语从句 | 与72%的回答形成对照 | while | while后59% said C4主谓宾完整，前面也有完整回答；while表示两种动机比例对照，不是同时发生 | 主语:59% | 谓语:said | 宾语:C4
+C4 宾语从句 in C3 | 作第二个said的宾语 | （省略 that） | said后缺说的内容，it would be tied…主谓完整，省略that | 主语:it | 谓语:would be tied
+mod to work → return | 目标补足 | 回到工作岗位
+mod to keep mentally fit → return | 不定式作目的状语 | 为保持精神与思维状态
+mod to making ends meet → tied | 介词补足 | 与维持收支有关，to后making是动名词
+point 两个比例可涉及同一受访者的不同动机，不能相加当成两类互斥人群。
+
+# 2022-2|3:0
+type 简单句｜引语与引述语
+chunks "The concept of retirement is evolving,"〔主〕 said Christine Russell,〔修〕 senior manager of retirement at TD Ameritrade.〔修〕
+main 主语:The concept | 谓语:is evolving
+gist 退休的概念正在演变
+mod of retirement → concept | 介词短语作定语 | 关于退休的概念
+mod said Christine Russell → 整句 | 倒装引述语 | Russell是said的主语，说明观点来源
+mod senior manager of retirement at TD Ameritrade → Christine Russell | 同位语 | 交代其退休业务高级经理身份
+
+# 2022-2|3:1
+type 简单句｜否定不完全排除金钱因素
+chunks "It's not just about finances.〔主〕
+main 主语＋谓语:It's | 表语:not just about finances
+gist 这不只是钱的问题
+point It's为It is；not just表示不限于，而不是与钱完全无关。引号在后续条目才结束。
+
+# 2022-2|3:2
+type 简单句｜drive＋宾语＋不定式宾补
+chunks The value〔主〕 of work〔修〕 is also driving folks to continue working〔主〕 past retirement."〔修〕
+main 主语:The value | 谓语:is … driving | 宾语:folks | 宾补:to continue working
+gist 工作的价值也推动人们超过退休年龄继续就业
+mod of work → value | 介词短语作定语 | 工作本身的价值
+mod also → driving | 添加状语 | 经济需要之外的推动因素
+mod past retirement → working | 时间状语 | 过了通常退休年龄仍继续
+point 主语中心是value；folks是被推动的人，不是driving的主语。
+
+# 2022-2|4:0
+type 简单句｜冒号前是名词性话题，后给具体原因
+chunks One reason〔修〕 for the change in retirement patterns:〔修〕 Americans are living longer.〔主〕
+main 主语:Americans | 谓语:are living
+gist 退休模式变化的一个原因是美国人寿命延长
+mod One reason for the change in retirement patterns → 整句 | 话题提示 | 冒号前只提出“变化的一个原因”，没有独立限定谓语
+mod longer → living | 时间长度状语 | 活得更久
+
+# 2022-2|4:1
+type 简单句｜统计比例与增幅说明
+chunks The share〔主〕 of the population 65 and older〔修〕 was 16%〔主〕 in 2018,〔修〕 up 32% from the prior year,〔修〕 according to the US Census Bureau.〔修〕
+main 主语:The share | 谓语:was | 表语:16%
+gist 文中报告2018年老龄人口占16%，并补充与上年比较的数据
+mod of the population 65 and older → share | 介词短语作定语 | 65岁及以上人口所占比例
+mod in 2018 → was | 时间状语 | 数据所属年份
+mod up 32% from the prior year → 16% | 增幅补充 | 原文所列同比增幅，up为形容或副词性补充，不是独立过去式动词
+mod according to the US Census Bureau → 整句 | 信息来源状语 | 原文引用美国人口普查局
+point 原始条目中的32%数值疑似存在转录问题，这里仅保留原文并解释结构，不据此背诵统计结论；待原文修正机制核对。
+
+# 2022-2|4:2
+type 简单句｜That's缩写＋up状态表语
+chunks That's also up 302%〔主〕 since 2010.〔修〕
+main 主语＋谓语:That's | 表语:up 302%
+gist 该比例还被拿来与2010年比较，呈上升状态
+mod also → up | 添加状语 | 在同比说明外，补充较早基准
+mod since 2010 → up | 时间基准状语 | 自2010年以来
+point That's为That is；302%按原始数据保留，数值疑似转录缺失小数点，未擅自更改，需原文核对后使用。
+
+# 2022-2|4:3
+type 并列句｜and连接两个完整主句
+chunks Older Americans are also the fastest-growing segment〔主〕 of the US. workforce,〔修〕 and〔连〕 boomers are expected to live longer〔主〕 than previous generations.〔修〕
+main 主语:Older Americans | 谓语:are | 表语:the fastest-growing segment || &and || 主语:boomers | 谓语:are expected | 主语补足语:to live longer
+gist 老年人是增长最快的劳动力群体，婴儿潮一代预计更长寿
+mod also → are | 添加状语 | 补充老年群体增长情况
+mod of the US. workforce → segment | 介词短语作定语 | 美国劳动力中的群体，US.按原文保留
+mod than previous generations → longer | 比较补足 | 比此前几代人活得更久
+point and后有新主语boomers，为并列句；expected与are组成被动谓语，to live补足预期内容。
+
+# 2022-2|4:4
+type 简单句｜现在完成时
+chunks The percentage〔主〕 of retirement-age people in the labor force〔修〕 has doubled〔主〕 over the past three decades.〔修〕
+main 主语:The percentage | 谓语:has doubled
+gist 过去三十年，退休年龄人群仍就业的比例翻了一倍
+mod of retirement-age people in the labor force → percentage | 介词短语作定语 | 达到退休年龄仍在劳动力队伍中的比例
+mod over the past three decades → has doubled | 时间状语 | 过去三十年间
+point 主语中心是percentage，故用has；people不是本句谓语的语法主语。
+
+# 2022-2|4:5
+type 简单句｜百分比主语；up from补充变化起点
+chunks About 20% of people 65 and older were in the workforce〔主〕 in February,〔修〕 up from an all-time low of 10% in January 1985,〔修〕 according to money manager United Income.〔修〕
+main 主语:About 20% of people 65 and older | 谓语:were | 表语:in the workforce
+gist 65岁及以上者约20%仍在工作，高于过去10%的低点
+mod in February → were | 时间状语 | 原文说2月份，不自行补具体年份
+mod up from an all-time low of 10% in January 1985 → 20% | 比较补充 | 从1985年1月10%的历史最低点升上来
+mod according to money manager United Income → 整句 | 信息来源状语 | 数据来自该资产管理机构
+
+# 2022-2|5:0
+type 主从复合句｜研究显示的内容前置，which补充研究样本
+chunks Because of longer life spans,〔修〕 Americans are also boosting their savings〔主〕 to preserve their nest eggs,〔修〕 the TD Ameritrade study showed,〔修〕 which surveyed 2000 adults〔C1〕 between 40 to 79.〔C1修〕
+main 主语:Americans | 谓语:are … boosting | 宾语:their savings
+gist 寿命延长使美国人增加储蓄，以保住养老积蓄
+C1 非限制性定语从句 | 修饰study，补充调查对象 | which | 前面有名词study，后面surveyed 2000 adults缺主语；which代指研究作主语，不能代指Americans | 主语:which | 谓语:surveyed | 宾语:2000 adults
+mod Because of longer life spans → boosting | 原因状语 | because of后接名词短语，不是原因从句
+mod also → boosting | 添加状语 | 除了延长工作，还增加积蓄
+mod to preserve their nest eggs → boosting | 不定式作目的状语 | 保护养老或应急积蓄，nest eggs是比喻
+mod the TD Ameritrade study showed → 整句 | 引述语 | study作showed的主语，前面的内容是调查发现
+mod between 40 to 79 → adults | 年龄定语 | 原文表示40到79岁，between与to搭配按转录保留，不当成规范搭配教学
+
+# 2022-2|5:1
+type 简单句｜比例主语＋目的背景
+chunks Six in 10 "unretirees" are increasing their savings〔主〕 in anticipation of a longer life,〔修〕 according to the survey.〔修〕
+main 主语:Six in 10 "unretirees" | 谓语:are increasing | 宾语:their savings
+gist 每十名不退休者有六人为长寿预期增加储蓄
+mod in anticipation of a longer life → increasing | 原因与预期状语 | 预期自己活得更久，提前做准备
+mod according to the survey → 整句 | 信息来源状语 | 调查所得
+
+# 2022-2|5:2
+type 主从复合句｜方式短语前置倒装，ways后省略关系词
+chunks Among the most popular ways〔修〕 they are doing this,〔C1〕 the company said,〔修〕 is by reducing their overall expenses, securing life insurance or maximizing their contributions to retirement accounts.〔主〕
+main 谓语:is | 主语:by reducing their overall expenses, securing life insurance or maximizing their contributions to retirement accounts
+gist 常见储蓄办法包括减开支、买寿险和提高退休账户缴款
+C1 定语从句 | 修饰ways | （省略 that/in which） | 前面是方式名词ways，后面they are doing this主谓宾完整；省略的关系表达承担方式联系，相当于以这些方式增加储蓄 | 主语:they | 谓语:are doing | 宾语:this
+mod Among the most popular ways → 整句 | 倒装的范围说明 | among短语前置，后接is与by…，原句结构不够整齐，按“常见办法有…”理解
+mod the company said → 整句 | 插入引述语 | 信息来自公司，而非新并列主句
+point 本句is后的by短语承担倒装后所列办法，内部reducing、securing、maximizing在by后并列，不是三个限定谓语。原文单数is及介词短语充当倒装主体的表达需核对原题，保留不改。
+
+# 2022-2|6:0
+type 主从复合句｜who定语从句；because原因从句
+chunks Unfortunately,〔修〕 many people〔主〕 who are opting to work〔C1〕 in retirement〔C1修〕 are preparing to do so〔主〕 because they are worried〔C2〕 about making ends meet〔C2修〕 in their later years,〔C2修〕 said Brent Weiss,〔修〕 a co-founder at Baltimore-based financial-planning firm Facet Wealth.〔修〕
+main 主语:many people | 谓语:are preparing | 宾语:to do so
+gist 很多人准备退休后工作，是担心晚年入不敷出
+C1 定语从句 | 修饰people | who | 前面people指人，后面are opting to work缺主语，who代指这些人作主语 | 主语:who | 谓语:are opting | 宾语:to work
+C2 原因状语从句 | 说明为何准备退休后工作 | because | 前面are preparing to do so已完整，because后they are worried主系表完整，整块说明原因 | 主语:they | 谓语:are | 表语:worried
+mod Unfortunately → 整句 | 评述状语 | 对不得不为财务忧虑工作表示遗憾
+mod in retirement → work | 时间状语 | 退休后工作
+mod about making ends meet → worried | 形容词补足 | 担心收支是否平衡
+mod in their later years → making | 时间状语 | 在晚年生活中
+mod said Brent Weiss → 整句 | 倒装引述语 | Weiss说了前面的判断
+mod a co-founder at Baltimore-based financial-planning firm Facet Wealth → Brent Weiss | 同位语 | 交代其理财规划公司联合创始人身份
+
+# 2022-2|6:1
+type 主从复合句｜that宾语从句，to set表目的
+chunks He suggested〔主〕 that preretirees should speak〔C1〕 with a financial adviser〔C1修〕 to set long-term financial goals.〔C1修〕
+main 主语:He | 谓语:suggested | 宾语:C1
+gist 他建议退休前的人与财务顾问商定长期目标
+C1 宾语从句 | 作suggested的宾语 | that | suggested后缺建议内容，preretirees should speak…主谓完整；that只连接，不承担内部主宾语 | 主语:preretirees | 谓语:should speak
+mod with a financial adviser → speak | 对话对象补足 | 与财务顾问讨论
+mod to set long-term financial goals → speak | 不定式作目的状语 | 设定长期财务目标
+
+# 2022-2|7:0
+type 简单句｜三个动名词短语并列表语
+chunks "The most challenging moments〔主〕 in life〔修〕 are getting married, starting a family and ultimately retiring,"〔主〕 Weiss said.〔修〕
+main 主语:The most challenging moments | 谓语:are | 表语:getting married, starting a family … retiring
+gist 人生最具挑战的时刻是结婚、成家和退休
+mod in life → moments | 介词短语作定语 | 人生中的时刻
+mod ultimately → retiring | 顺序状语 | 最后进入退休阶段
+mod Weiss said → 整句 | 引述语 | Weiss说的话
+point are后不是主语正在同时做三个动作，而是用三项活动解释这些时刻；三个-ing结构并列作表语。
+
+# 2022-2|7:1
+type 简单句｜not just…but…并列表语
+chunks "It's not just a financial decision, but an emotional one.〔主〕
+main 主语＋谓语:It's | 表语:not just a financial decision, but an emotional one
+gist 退休不只是财务决定，也是情感决定
+point one代替decision，避免重复；not just…but…连接两项性质，不是两个有独立主语的句子。
+
+# 2022-2|7:2
+type 主从复合句｜believe后省略that
+chunks Many people believe〔主〕 they can't retire"〔C1〕
+main 主语:Many people | 谓语:believe | 宾语:C1
+gist 很多人认为自己无法退休
+C1 宾语从句 | 作believe的宾语 | （省略 that） | believe后缺相信的内容，they can't retire主谓完整；省略that，不是两个主句直接并排 | 主语:they | 谓语:can't retire
+
+# 2022-3|0:0
+type 简单句｜现在完成时与范围补充
+chunks We have all encountered them,〔主〕 in both our personal and professional lives.〔修〕
+main 主语:We | 谓语:have … encountered | 宾语:them
+gist 我们在私人生活和工作中都遇到过这种设计
+mod all → have … encountered | 范围状语 | 指大家都有类似经历
+mod in both our personal and professional lives → encountered | 范围状语 | 私人与职业生活两个领域
+point them先提出后文才命名的dark patterns，不是指一群特定的人。
+
+# 2022-3|0:1
+type 主从复合句｜祈使句；times与subscription各带定语从句
+chunks Think about the times〔主〕 you felt tricked or frustrated〔C1〕 by a membership or subscription〔C1修〕 that had a seamless sign-up process but was later difficult〔C2〕 to cancel.〔C2修〕
+main 谓语:Think about | 宾语:the times
+gist 想想注册容易、取消困难的订阅让你受骗和沮丧的那些时刻
+C1 定语从句 | 修饰times | （省略 when） | 前面是时间名词times，后面you felt tricked or frustrated主系表完整；省略时间关系词，说明在哪些时刻有此感受 | 主语:you | 谓语:felt | 表语:tricked or frustrated
+C2 定语从句 in C1 | 修饰membership or subscription | that | 前面是会员或订阅名词，后面had…与was…都缺共用主语；that代指订阅，but连接两种相反属性 | 主语:that | 谓语:had | 宾语:a seamless sign-up process | 谓语:was | 表语:difficult
+mod by a membership or subscription → tricked or frustrated | 原因补足 | 感觉被骗或沮丧源于会员或订阅安排
+mod later → difficult | 时间状语 | 之后想取消时才出现困难
+mod to cancel → difficult | 不定式补足形容词 | difficult to cancel：取消困难，订阅是cancel的逻辑宾语
+point Think是省略主语you的祈使句；后面的you属于定语从句，不是Think的主语。
+
+# 2022-3|0:2
+type 主从复合句｜两个that定语从句；中间为被动或状态结构
+chunks Something〔主〕 that should be simple and transparent〔C1〕 can be complicated,〔主〕 intentionally or unintentionally,〔修〕 in ways〔修〕 that impair consumer choice.〔C2〕
+main 主语:Something | 谓语:can be | 表语:complicated
+gist 本应简单透明的事情可能被弄复杂，损害消费者选择
+C1 定语从句 | 修饰Something | that | 前面是不定代词Something，后面should be simple and transparent缺主语；that作主语，说明本来应有的性质 | 主语:that | 谓语:should be | 表语:simple and transparent
+C2 定语从句 | 修饰ways | that | 前面是名词ways，后面impair consumer choice缺主语；that作impair的主语，不能只因先行词是ways就当方式状语 | 主语:that | 谓语:impair | 宾语:consumer choice
+mod intentionally or unintentionally → complicated | 方式状语 | 有意或无意地复杂化
+mod in ways → complicated | 方式状语 | 以会损害消费者选择的方式
+point can be complicated既可着重复杂状态，也可理解为被复杂化；两种理解都不能把that impair里的动词当主句谓语。
+
+# 2022-3|0:3
+type 简单句｜系表结构
+chunks These are examples〔主〕 of dark patterns.〔修〕
+main 主语:These | 谓语:are | 表语:examples
+gist 这些是暗黑模式的例子
+mod of dark patterns → examples | 介词短语作定语 | 前面注册容易取消难是暗黑模式的例子
+
+# 2022-3|1:0
+type 主从复合句｜过去分词前置；that定语从句内含不定式目的
+chunks First coined〔修〕 in 2010 by user experience expert Harry Brignull,〔修〕 " dark patterns" is a catch-all term〔主〕 for practices〔修〕 that manipulate user interfaces〔C1〕 to influence the decision-making ability of users.〔C1修〕
+main 主语:" dark patterns" | 谓语:is | 表语:a catch-all term
+gist 暗黑模式是操纵界面、影响用户决策能力的做法的统称
+C1 定语从句 | 修饰practices | that | 前面是practices，后面manipulate user interfaces缺主语；that指这些做法，作manipulate的主语 | 主语:that | 谓语:manipulate | 宾语:user interfaces
+mod First coined → " dark patterns" | 过去分词作补充说明 | 该术语最早被提出，coined没有限定助动词
+mod in 2010 by user experience expert Harry Brignull → coined | 时间与施事补充 | 2010年由用户体验专家提出
+mod for practices → term | 介词短语作定语 | 对这些做法的统称
+mod to influence the decision-making ability of users → manipulate | 不定式作目的状语 | 操纵界面以影响用户决策能力
+point 整个术语作为一个名称用is；users是of后的名词，不是manipulate的主语。
+
+# 2022-3|1:1
+type 主从复合句｜ranging分词列范围；where定语内含when时间从句
+chunks Brignull identifies 12 types〔主〕 of common dark patterns,〔修〕 ranging from misdirection and hidden costs to "roach motel,"〔修〕 where a user experience seems easy and intuitive〔C1〕 at the start,〔C1修〕 but turns difficult〔C1〕 when the user tries to get out.〔C2〕
+main 主语:Brignull | 谓语:identifies | 宾语:12 types
+gist 专家列出12类暗黑模式，包括进入容易退出困难的蟑螂旅馆式设计
+C1 非限制性定语从句 | 解释roach motel式情境 | where | 前面是表示场景的roach motel，后面a user experience seems…and turns…主系表完整；where在从句内说明情境，非独立问句 | 主语:a user experience | 谓语:seems | 表语:easy and intuitive | 谓语:turns | 表语:difficult
+C2 时间状语从句 in C1 | 说明何时变得困难 | when | 前面turns difficult已完整，后面the user tries to get out主谓宾完整；when表示用户试图退出时 | 主语:the user | 谓语:tries | 宾语:to get out
+mod of common dark patterns → types | 介词短语作定语 | 常见暗黑模式的类型
+mod ranging from misdirection and hidden costs to "roach motel," → 12 types | 现在分词作后置定语 | 从误导、隐藏成本到蟑螂旅馆式设计
+mod at the start → seems | 时间状语 | 开始时似乎顺畅
+point but后没有新主语，seems与turns共用a user experience；ranging没有限定助动词，不是主句谓语。
+
+# 2022-3|2:0
+type 主从复合句｜that宾语从句
+chunks In a 2019 study〔修〕 of 53,000 product pages and 11,000 websites,〔修〕 researchers found〔主〕 that about one in 10 employs these design practices.〔C1〕
+main 主语:researchers | 谓语:found | 宾语:C1
+gist 研究者发现约十分之一采用这些设计手法
+C1 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，后面about one in 10 employs these design practices主谓宾完整；that仅连接 | 主语:about one in 10 | 谓语:employs | 宾语:these design practices
+mod In a 2019 study → found | 研究背景状语 | 在2019年的一项研究中发现
+mod of 53,000 product pages and 11,000 websites → study | 介词短语作定语 | 研究涉及的样本规模
+point 主语比例中中心one为单数，因此employs用三单；这里的研究结果用于说明普遍程度。
+
+# 2022-3|2:1
+type 主从复合句｜Though省略让步；原文of断成o f
+chunks Though widely prevalent,〔C1〕 the concept o f dark patterns is still not well understood.〔主〕
+main 主语:the concept | 谓语:is … not … understood
+gist 虽然广泛存在，人们对暗黑模式概念仍不理解
+C1 让步状语从句（省略） | 承认暗黑模式普遍存在 | Though | Though后widely prevalent没有显式主语和be，为省略结构；与主句不被充分理解形成让步，语义上普遍的是暗黑模式 | 表语:prevalent
+mod widely → prevalent | 程度状语 | 广泛存在
+mod o f dark patterns → concept | 原文断词处的定语 | o f按语义为of，原字元保留，不把o和f当独立英语单词
+mod still → understood | 时间状语 | 仍然
+mod well → understood | 程度状语 | 没有得到充分理解
+point 省略从句的逻辑对象是暗黑模式；主句主语中心为concept，不把dark patterns当is的主语。
+
+# 2022-3|2:2
+type 主从复合句｜并列谓语；areas后省略that
+chunks Business and nonprofit leaders should be aware〔主〕 of dark patterns〔修〕 and〔连〕 try to avoid the gray areas〔主〕 they engender.〔C1〕
+main 主语:Business and nonprofit leaders | 谓语:should be | 表语:aware || &and || 谓语:try | 宾语:to avoid the gray areas
+gist 企业与非营利组织领导者应认识暗黑模式并避开其灰色地带
+C1 定语从句 | 修饰areas | （省略 that） | 前面gray areas是名词，后面they engender缺宾语；省略关系词代指areas作宾语 | 主语:they | 谓语:engender
+mod of dark patterns → aware | 形容词补足 | 认识暗黑模式
+point try与be共用should及主语，实际是should be aware与should try；they指暗黑模式，不是领导者。
+
+# 2022-3|3:0
+type 简单疑问句｜Where为疑问状语
+chunks Where is the line〔主〕 between ethical, persuasive design and dark patterns?〔修〕
+main 谓语:is | 主语:the line
+mod between ethical, persuasive design and dark patterns → line | 介词短语作定语 | 合乎伦理的说服性设计与暗黑模式之间的界线
+gist 正当的说服性设计与暗黑模式之间界线在哪里？
+point Where引出直接问句，问界线的位置，不是接在另一个主句后的从句连接词。
+
+# 2022-3|3:1
+type 简单句｜两个共用should的并列谓语；include宾语后置
+chunks Businesses should engage〔主〕 in conversations with IT, compliance, risk, and legal teams〔修〕 to review their privacy policy,〔修〕 and〔连〕 include〔主〕 in the discussion〔修〕 the customer/user experience designers and coders〔主〕 responsible for the company's user interface,〔修〕 as well as the marketers and advertisers〔主〕 responsible for sign-ups, checkout baskets, pricing, and promotions.〔修〕
+main 主语:Businesses | 谓语:should engage || &and || 谓语:include | 宾语:the customer/user experience designers and coders … the marketers and advertisers
+gist 企业应与有关团队审查隐私政策，并把设计、编码、营销人员纳入讨论
+mod in conversations with IT, compliance, risk, and legal teams → engage | 介词补足 | 与IT、合规、风险及法务团队展开对话
+mod to review their privacy policy → engage | 不定式作目的状语 | 为审查隐私政策而对话
+mod in the discussion → include | 介词补足 | 把相关人员纳入讨论；长宾语放在该短语后
+mod responsible for the company's user interface → designers and coders | 形容词后置定语 | 负责用户界面的设计师与编码人员
+mod responsible for sign-ups, checkout baskets, pricing, and promotions → marketers and advertisers | 形容词后置定语 | 负责注册、购物车、定价及促销的营销广告人员
+point include共用should；as well as在这里连接两组宾语，而不是另起第三个主句。
+
+# 2022-3|3:2
+type 简单句｜情态谓语与动名词补充
+chunks Any or all these teams can play a role〔主〕 in creating or avoiding "digital deception."〔修〕
+main 主语:Any or all these teams | 谓语:can play | 宾语:a role
+gist 这些团队都可能参与制造或避免数字欺骗
+mod in creating or avoiding "digital deception." → role | 介词短语作定语 | 在制造或避免数字欺骗方面发挥作用，creating与avoiding在in后并列
+
+# 2022-3|4:0
+type 简单句｜start后接不定式
+chunks Lawmakers and regulators are slowly starting to address the ambiguity〔主〕 around dark patterns,〔修〕 most recently at the state level.〔修〕
+main 主语:Lawmakers and regulators | 谓语:are … starting | 宾语:to address the ambiguity
+gist 立法与监管者正开始处理暗黑模式的模糊性，最近主要在州级行动
+mod slowly → starting | 方式状语 | 推进较慢
+mod around dark patterns → ambiguity | 介词短语作定语 | 围绕暗黑模式的界定与规范不清
+mod most recently at the state level → address | 时间地点补充 | 最近的行动发生在州一级
+
+# 2022-3|4:1
+type 主从复合句｜that定语内嵌that宾语及when省略状语
+chunks In March,〔修〕 the California Attorney General announced the approval〔主〕 of additional regulations〔修〕 under the California Consumer Privacy Act (CCPA)〔修〕 that "ensure〔C1〕 that consumers will not be confused or misled〔C2〕 when seeking to exercise their data privacy rights."〔C3〕
+main 主语:the California Attorney General | 谓语:announced | 宾语:the approval
+gist 加州批准补充规定，确保消费者行使隐私权时不受迷惑或误导
+C1 定语从句 | 修饰regulations | that | 前面是复数名词regulations，后面ensure缺主语；that代指规定作主语，不指单数approval | 主语:that | 谓语:ensure | 宾语:C2
+C2 宾语从句 in C1 | 作ensure宾语 | that | 前面ensure缺确保的内容，后面consumers will not be confused or misled主谓完整；that不作成分 | 主语:consumers | 谓语:will not be confused … misled
+C3 时间状语从句（省略） in C2 | 说明不受误导的情境 | when | when后seeking省略consumers are，逻辑主语与主句consumers一致；表示消费者寻求行使权利时 | 谓语:seeking | 宾语:to exercise their data privacy rights
+mod In March → announced | 时间状语 | 在3月宣布
+mod of additional regulations → approval | 介词短语作定语 | 对补充规定的批准
+mod under the California Consumer Privacy Act (CCPA) → regulations | 依据定语 | 这些规定依据该法制定
+point seeking在省略从句里展示保留部分，完整语义是consumers are seeking；不把它当主句的独立时态谓语。
+
+# 2022-3|4:2
+type 主从复合句｜原文patterns-this粘连；why定语从句
+chunks The regulations aim to ban dark patterns-this means prohibiting companies〔主〕 from using u confusing language or unnecessary steps〔修〕 such as forcing them to click through multiple screens or listen to reasons〔修〕 why they shouldn't opt out."〔C1〕
+main 主语:The regulations | 谓语:aim | 宾语:to ban dark patterns-this || 主语:patterns-this | 谓语:means | 宾语:prohibiting companies
+C1 定语从句 | 修饰reasons | why | 前面是原因名词reasons，后面they shouldn't opt out主谓完整；why作原因状语，解释所谓不应退出的理由 | 主语:they | 谓语:shouldn't opt out
+gist 规定旨在禁止用混淆语言或多余步骤阻挠用户退出
+mod from using u confusing language or unnecessary steps → prohibiting | 介词补足 | prohibit companies from doing，禁止公司采用混淆语言或多余步骤；u是原文异常字元，未自行删除
+mod such as forcing them to click through multiple screens or listen to reasons → unnecessary steps | 举例说明 | 例如逼用户连续点击多个界面或听取不退出的理由
+point 原文patterns-this把第一分句宾语尾部与第二分句主语粘连，不能准确分别高亮；此处第一组宾语仅展示含粘连的原词元，第二分句真实主语this也在该词元内，骨架栏不应将其他位置的the regulations误作means主语。原字元u及连字符均待原文机制修正。
+
+# 2022-3|5:0
+type 主从复合句｜As背景状语与there be
+chunks As more states consider promulgating additional regulations,〔C1〕 there is a need〔主〕 for greater accountability〔修〕 from within the business community.〔修〕
+main 谓语:is | 主语:a need
+gist 随着更多州考虑加规，商业界内部也需要承担更大责任
+C1 时间状语从句 | 交代规范不断增加的背景 | As | As后more states consider…主谓宾完整，前面没有先行名词；表示随着各州考虑规定，主句责任要求更突出 | 主语:more states | 谓语:consider | 宾语:promulgating additional regulations
+mod for greater accountability → need | 介词短语作定语 | 对更强问责与责任意识的需要
+mod from within the business community → accountability | 来源补充 | 责任应从商业界内部落实
+point promulgating是consider的动名词宾语，不是states后第二个限定谓语。
+
+# 2022-3|5:1
+type 主从复合句｜only if必要条件；not just…but also连接责任对象
+chunks Dark patterns also can be addressed〔主〕 on a self-regulatory basis,〔修〕 but〔连〕 only if organizations hold themselves accountable,〔C1〕 not just to legal requirements but also to industry best practices and standards.〔C1修〕
+main 主语:Dark patterns | 谓语:can be addressed
+gist 暗黑模式可通过自律应对，但组织必须对法律和行业准则负责
+C1 条件状语从句 | 给出自律有效的必要条件 | only if | 前面can be addressed主谓完整，if后organizations hold themselves accountable主谓宾补完整；only限定条件，只有负责才谈得上自律 | 主语:organizations | 谓语:hold | 宾语:themselves | 宾补:accountable
+mod also → can be addressed | 添加状语 | 除外部法规外还有内部自律
+mod on a self-regulatory basis → addressed | 方式状语 | 通过行业自我约束处理
+mod not just to legal requirements but also to industry best practices and standards → accountable | 形容词补足 | 不仅满足法律底线，也遵循行业最佳实践与标准
+point only if不是if only的“要是…就好了”；but后省略重复主句，仅留下必要条件。
+
+# 2022-4|0:0
+type 并列复合句｜Although让步；if宾语；分号后独立陈述
+chunks Although ethics classes are common〔C1〕 around the world,〔C1修〕 scientists are unsure〔主〕 if their lessons can actually change behavior;〔C2〕 evidence either way is weak,〔主〕 relying on contrived laboratory tests or sometimes unreliable self-reports.〔修〕
+main 主语:scientists | 谓语:are | 表语:unsure || 主语:evidence | 谓语:is | 表语:weak
+gist 科学家尚不确定伦理课能否改变行为，因为现有证据薄弱
+C1 让步状语从句 | 承认伦理课很普遍 | Although | Although后ethics classes are common主系表完整，和主句unsure形成让步；不是时间名词后的定语 | 主语:ethics classes | 谓语:are | 表语:common
+C2 宾语从句 | 补足unsure，表达不确定内容 | if | 前面unsure表示不确定，后面their lessons can change behavior主谓宾完整，if表是否，不作条件假设 | 主语:their lessons | 谓语:can … change | 宾语:behavior
+mod around the world → common | 范围状语 | 世界各地
+mod actually → change | 情态状语 | 是否真的改变行为，而非仅教知识
+mod either way → evidence | 范围定语 | 支持有效或无效的两方面证据
+mod relying on contrived laboratory tests or sometimes unreliable self-reports → evidence | 现在分词作补充说明 | 证据依赖人为实验或有时不可靠的自我报告
+
+# 2022-4|0:1
+type 主从复合句｜过去分词定语；that宾语从句
+chunks But〔连〕 a new study〔主〕 published in Cognition〔修〕 found〔主〕 that,〔C1〕 in at least one real-world situation,〔C1修〕 a single ethics lesson may have had lasting effects.〔C1〕
+main 主语:a new study | 谓语:found | 宾语:C1
+gist 新研究发现至少一种真实情境中，一节伦理课可能有持久影响
+C1 宾语从句 | 作found的宾语 | that | found后缺研究发现内容，移开插入状语后a single ethics lesson may have had lasting effects主谓宾完整；that不作成分 | 主语:a single ethics lesson | 谓语:may have had | 宾语:lasting effects
+mod published in Cognition → study | 过去分词作后置定语 | 发表在《认知》上的研究，published无独立助动词
+mod in at least one real-world situation → may have had | 范围状语 | 至少一种现实情境，不推广为所有情境
+point may have had表示可能已经产生，保留研究结论的谨慎程度。
+
+# 2022-4|1:0
+type 简单句｜impact on doing
+chunks The researchers investigated one class session's impact〔主〕 on eating meat.〔修〕
+main 主语:The researchers | 谓语:investigated | 宾语:one class session's impact
+gist 研究者考察一节课对吃肉行为的影响
+mod on eating meat → impact | 介词短语作定语 | 影响的对象是吃肉行为，eating在on后作动名词
+
+# 2022-4|1:1
+type 主从复合句｜冒号后并列三条原因；that宾语含because原因
+chunks They chose this particular behavior〔主〕 for three reasons,〔修〕 according to study co-author Eric Schwitzgebel,〔修〕 a philosopher at the University of California, Riverside:〔修〕 students' attitudes〔主〕 on the topic〔修〕 are variable and unstable,〔主〕 behavior is easily measurable,〔主〕 and〔连〕 ethics literature largely agrees〔主〕 that eating less meat is good〔C1〕 because it reduces environmental harm and animal suffering.〔C2〕
+main 主语:They | 谓语:chose | 宾语:this particular behavior || 主语:students' attitudes | 谓语:are | 表语:variable and unstable || 主语:behavior | 谓语:is | 表语:measurable || &and || 主语:ethics literature | 谓语:agrees | 宾语:C1
+gist 研究选择吃肉：态度可变、行为易测，而且伦理上少吃肉有益
+C1 宾语从句 | 作agrees的宾语 | that | 前面agrees缺认同内容，后面eating less meat is good主系表完整；动名词短语eating less meat整体作主语 | 主语:eating less meat | 谓语:is | 表语:good
+C2 原因状语从句 in C1 | 解释为何少吃肉有益 | because | 前面is good已完整，后面it reduces…主谓宾完整；because给出减少环境损害和动物痛苦的原因 | 主语:it | 谓语:reduces | 宾语:environmental harm and animal suffering
+mod for three reasons → chose | 原因数量状语 | 冒号后依次解释三个原因
+mod according to study co-author Eric Schwitzgebel → 整句 | 信息来源状语 | 合著者提供说明
+mod a philosopher at the University of California, Riverside → Eric Schwitzgebel | 同位语 | 加州大学河滨分校哲学家
+mod on the topic → attitudes | 介词短语作定语 | 对吃肉这个话题的态度
+mod easily → measurable | 程度状语 | 行为容易衡量
+mod largely → agrees | 范围状语 | 文献大体认同，不是每一篇都一致
+point 冒号前提出三条原因，冒号后三个独立陈述共同展开，不能把students当chose的宾语。
+
+# 2022-4|1:2
+type 简单句｜同一主语下三个并列谓语
+chunks Half of the students〔主〕 in four large philosophy classes〔修〕 read an article〔主〕 on the ethics of factory-farmed meat,〔修〕 optionally〔修〕 watched an 11-minute video〔主〕 on the topic〔修〕 and〔连〕 joined a 50-minute discussion.〔主〕
+main 主语:Half of the students | 谓语:read | 宾语:an article || 谓语:watched | 宾语:an 11-minute video || &and || 谓语:joined | 宾语:a 50-minute discussion
+gist 半数学生读文章、可选看视频，并参与讨论
+mod in four large philosophy classes → students | 介词短语作定语 | 四个大型哲学班的学生
+mod on the ethics of factory-farmed meat → article | 介词短语作定语 | 关于工厂养殖肉类伦理的文章
+mod optionally → watched | 方式状语 | 看视频是可选，不是三种活动全都自愿
+mod on the topic → video | 介词短语作定语 | 同一肉食伦理话题的视频
+point read是与watched、joined呼应的过去式；三项共用Half of the students，不是三个独立主句。
+
+# 2022-4|1:3
+type 简单句｜focus on补足关注对象
+chunks The other half focused〔主〕 on charitable giving〔修〕 instead.〔修〕
+main 主语:The other half | 谓语:focused
+gist 另一半学生学习慈善捐赠
+mod on charitable giving → focused | 介词补足 | 关注或讨论慈善捐赠
+mod instead → focused | 对照状语 | 替代前一组的肉食伦理，形成对照组
+
+# 2022-4|1:4
+type 简单句｜插入状态说明与破折号样本补充
+chunks Then,〔修〕 unknown to the students,〔修〕 the researchers studied their anonymized meal-card purchases〔主〕 for that semester-nearly 14,000 receipts for almost 500 students.〔修〕
+main 主语:the researchers | 谓语:studied | 宾语:their anonymized meal-card purchases
+gist 研究者在学生不知情时分析了该学期匿名餐卡记录
+mod Then → studied | 顺序状语 | 教学干预之后
+mod unknown to the students → 整句 | 形容词作补充说明 | 学生不知道研究者正在分析购买记录
+mod for that semester-nearly 14,000 receipts for almost 500 students → purchases | 时间与数量补充 | 该学期近500名学生约14000张小票；semester-nearly为原文连字符粘连，nearly不是semester的词缀
+point unknown形容研究安排不为学生所知，不是学生是“不认识的人”；anonymized修饰记录，不是另一个限定谓语。
+
+# 2022-4|2:0
+type 并列复合句｜分号前后主句均含宾语从句
+chunks Schwitzgebel predicted〔主〕 the intervention would have no effect;〔C1〕 he had previously found〔主〕 that ethics professors do not differ〔C2〕 from other professors〔C2修〕 on a range of behaviors,〔C2修〕 including voting rates, blood donation and returning library books.〔C2修〕
+main 主语:Schwitzgebel | 谓语:predicted | 宾语:C1 || 主语:he | 谓语:had … found | 宾语:C2
+gist 他原预测干预无效，因为此前发现伦理教授行为并不更优
+C1 宾语从句 | 作predicted的宾语 | （省略 that） | 前面predicted缺预测内容，后面the intervention would have no effect主谓宾完整，省略that | 主语:the intervention | 谓语:would have | 宾语:no effect
+C2 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，后面ethics professors do not differ主谓完整，that只连接 | 主语:ethics professors | 谓语:do not differ
+mod previously → found | 时间状语 | 更早的研究发现
+mod from other professors → differ | 比较补足 | 与其他学科教授相比
+mod on a range of behaviors → differ | 比较范围状语 | 在一系列实际行为上
+mod including voting rates, blood donation and returning library books → behaviors | 举例说明 | 包括投票、献血、还书等，非仅道德知识掌握
+
+# 2022-4|2:1
+type 并列复合句｜who定语、containing分词；percent-and粘连
+chunks But〔连〕 among student subjects〔修〕 who discussed meat ethics,〔C1〕 meal purchases〔主〕 containing meat〔修〕 decreased〔主〕 from 52 to 45 percent-and〔修〕 this effect held steady〔主〕 for the study's duration of several weeks.〔修〕
+main 主语:meal purchases | 谓语:decreased || 主语:this effect | 谓语:held | 表语:steady
+gist 肉食伦理组含肉餐食购买比例由52%降到45%，效果持续数周
+C1 定语从句 | 修饰student subjects | who | 前面subjects指学生参与者，后面discussed meat ethics缺主语；who作主语，限定实验组 | 主语:who | 谓语:discussed | 宾语:meat ethics
+mod among student subjects → decreased | 范围状语 | 在讨论过肉食伦理的学生中
+mod containing meat → purchases | 现在分词作后置定语 | 买的是含肉的餐食，不是直接买生肉的次数
+mod from 52 to 45 percent-and → decreased | 幅度说明及原粘连处 | 从52%到45%；词元末-and在语法上连接下一主句，不能当百分比单位的一部分
+mod for the study's duration of several weeks → held | 持续时间状语 | 在研究覆盖的数周内保持
+point held steady是保持稳定；原文percent-and使连接词不能单独定位，已保留字元并说明。不能由数周观察外推永久有效。
+
+# 2022-4|2:2
+type 简单句｜remain表状态
+chunks Purchases〔主〕 from the other group〔修〕 remained at 52 percent.〔主〕
+main 主语:Purchases | 谓语:remained | 表语:at 52 percent
+gist 另一组购买含肉餐食的比例仍为52%
+mod from the other group → Purchases | 介词短语作定语 | 对照组的购买记录，承接前句的同一统计口径
+
+# 2022-4|3:0
+type 简单句｜引语评价干预效果
+chunks "That's actually a pretty large effect〔主〕 for a pretty small intervention,"〔修〕 Schwitzgebel says.〔修〕
+main 主语＋谓语:That's | 表语:a pretty large effect
+gist 相对于很小的干预，产生了相当大的效果
+mod actually → 整句 | 评述状语 | 强调实测结果超出原预期
+mod for a pretty small intervention → effect | 比较基准补充 | 相对于小规模干预而言
+mod Schwitzgebel says → 整句 | 引述语 | 评价来自该研究者
+
+# 2022-4|3:1
+type 主从复合句｜who非限制性定语；says后省略that
+chunks Psychologist Nina Strohminger〔主〕 at the University of Pennsylvania,〔修〕 who was not involved〔C1〕 in the study,〔C1修〕 says〔主〕 she wants the effect to be real〔C2〕 but cannot rule out some unknown confounding variable.〔C2〕
+main 主语:Psychologist Nina Strohminger | 谓语:says | 宾语:C2
+gist 她希望效果真实，但不能排除未知混杂因素
+C1 非限制性定语从句 | 修饰Nina Strohminger | who | 前面是人名，后面was not involved缺主语；who指她，并非宾夕法尼亚大学 | 主语:who | 谓语:was not involved
+C2 宾语从句 | 作says的宾语，含两个并列谓语 | （省略 that） | says后she wants…主谓宾补完整，but后cannot rule out共用she；整块为她表达的观点 | 主语:she | 谓语:wants | 宾语:the effect | 宾补:to be real | 谓语:cannot rule out | 宾语:some unknown confounding variable
+mod at the University of Pennsylvania → Psychologist Nina Strohminger | 机构定语 | 在宾夕法尼亚大学任职
+mod in the study → involved | 介词补足 | 没有参与这项研究
+point cannot rule out表示尚不能排除，既不是已证明无效，也不是确认效果真实。
+
+# 2022-4|3:2
+type 主从复合句｜if省略条件，句末引语概括可逆性
+chunks And〔连〕 if real,〔C1〕 she notes,〔修〕 it might be reversible〔主〕 by another nudge:〔修〕 "Easy come, easy go."〔修〕
+main 主语:it | 谓语:might be | 表语:reversible
+gist 即使效果真实，也可能被另一次轻推逆转
+C1 条件状语从句（省略） | 先假定效果确实存在 | if | if后real省略it is，前面没有被修饰名词；表示若效果真实，主句才进一步讨论是否可逆 | 表语:real
+mod she notes → 整句 | 插入引述语 | 这仍是Strohminger的提醒
+mod by another nudge → reversible | 作用方式补充 | 另一种推动可能使效果反转
+mod "Easy come, easy go." → 整句 | 引语概括 | 来得容易去得快，概括效果未必持久，不是实验已测得逆转
+
+# 2022-4|4:0
+type 主从复合句｜suspects后省略that；连字符后补充解释
+chunks Schwitzgebel suspects〔主〕 the greatest impact came〔C1〕 from social influence-〔C1修〕 classmates or teaching assistants〔主〕 leading the discussions〔修〕 may have shared their own vegetarianism,〔主〕 showing it as achievable or more common.〔修〕
+main 主语:Schwitzgebel | 谓语:suspects | 宾语:C1 || 主语:classmates or teaching assistants | 谓语:may have shared | 宾语:their own vegetarianism
+gist 他推测社会影响最大：同学或助教的素食分享让做法显得可行且常见
+C1 宾语从句 | 作suspects的宾语 | （省略 that） | 前面suspects缺推测内容，后面the greatest impact came主谓完整，省略that；连字符后具体解释社会影响如何发生 | 主语:the greatest impact | 谓语:came
+mod from social influence- → came | 来源补足 | 来自社会影响；词末连字符是解释性边界，按原文保留
+mod leading the discussions → classmates or teaching assistants | 现在分词作后置定语 | 指主持讨论的同学或助教
+mod showing it as achievable or more common → 整句 | 现在分词作结果补充 | 分享使素食习惯显得做得到或更普遍，it指vegetarianism
+point suspects与may保留推测，不是已分离检验了各因素的因果强度；leading不能升为主句谓语。
+
+# 2022-4|4:1
+type 简单句｜情态完成形式
+chunks Second,〔修〕 the video may have had an emotional impact.〔主〕
+main 主语:the video | 谓语:may have had | 宾语:an emotional impact
+gist 视频可能还产生了情感影响
+mod Second → 整句 | 列举连接语 | 在社会影响之后提出第二个可能因素
+
+# 2022-4|4:2
+type 主从复合句｜表语前置倒装；although让步内含宾语从句
+chunks Least rousing,〔主〕 he thinks,〔修〕 was rational argument,〔主〕 although his co-authors say〔C1〕 reason might play a bigger role.〔C2〕
+main 表语:Least rousing | 谓语:was | 主语:rational argument
+gist 他认为理性论证作用最小，合著者则认为理性作用可能更大
+C1 让步状语从句 | 承认合著者不同意见 | although | although后his co-authors say加观点内容主谓宾完整，与前面的最小作用判断相对照 | 主语:his co-authors | 谓语:say | 宾语:C2
+C2 宾语从句 in C1 | 作say的宾语 | （省略 that） | say后缺内容，reason might play a bigger role主谓宾完整，省略that | 主语:reason | 谓语:might play | 宾语:a bigger role
+mod he thinks → 整句 | 插入引述语 | 最小作用是他本人的判断
+point 主语rational argument在was后；least rousing描述最不激发行动，不是说论证有语法错误。
+
+# 2022-4|4:3
+type 简单句｜研究对象为三个并列因素的效果
+chunks Now〔修〕 the researchers are probing the specific effects〔主〕 of teaching style, teaching assistants' eating habits and students' video exposure.〔修〕
+main 主语:the researchers | 谓语:are probing | 宾语:the specific effects
+gist 研究者正进一步检验教学方式、助教习惯和视频接触各自的作用
+mod Now → are probing | 时间状语 | 当前继续研究
+mod of teaching style, teaching assistants' eating habits and students' video exposure → effects | 介词短语作定语 | 三个并列因素的具体影响，不是已确定单一解释
+
+# 2022-4|4:4
+type 主从复合句｜原文主语、who从句、will粘连
+chunks Meanwhile,〔修〕 Schwitzgebel-who had predicted no effect-will〔C1〕 be eating his words.〔主〕
+main 主语:Schwitzgebel-who | 谓语:effect-will … be eating | 宾语:his words
+gist 曾预言没有效果的施维茨格贝尔如今要收回自己的话
+C1 非限制性定语从句 | 修饰Schwitzgebel，提醒他原来的预测 | who | 原文Schwitzgebel-who把先行人名与who粘连，had predicted后有宾语no effect，实际缺主语，由who承担；effect-will又跨到主句助动词，定位不能精确分开 | 谓语:had predicted | 宾语:no effect-will
+mod Meanwhile → 整句 | 时间与篇章状语 | 与继续研究并行，研究者需要修正原先判断
+point 原文Schwitzgebel-who与effect-will为跨成分粘连词元。真实主干是Schwitzgebel will be eating his words；从句是who had predicted no effect。骨架中含整词元只为保留可定位原文，不能把-who当姓名词缀，或把effect当will的组成部分。eat one's words表示收回先前判断，不是字面吃话。

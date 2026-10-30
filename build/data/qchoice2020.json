@@ -1,0 +1,130 @@
+{
+  "2020-1": {
+    "21": {
+      "A": "定位开篇测试目的“whether rats can detect social signals from robotic rats”：研究要看老鼠能否从机器老鼠这一非生命体识别社交信号，non-living rats对应robotic rats。",
+      "B": "错在把已知能力当成本次研究问题。首句识别合作朋友与应避敌人是研究背景，本次明确把问题扩展到non-living beings，而非只测试真鼠之间的敌友区分。",
+      "C": "错在添加特殊训练。研究把活鼠与两类机器鼠共同饲养，并测试它们救助谁，没有说通过训练让老鼠后天获得新的社交性格或特征。",
+      "D": "错在把接收信号改成发送警告。原文用detect social signals说明测试识别能力，未设计向同伴报警的任务，也未测量警告信号。"
+    },
+    "22": {
+      "A": "错在转移主体。原文followed the living rats around的主体是社交型机器鼠，跟随对象是活老鼠；非社交型没有跟随社交型机器鼠的行为。",
+      "B": "错在把社交型的行为安到非社交型身上。played with the same toys描述社交型与活鼠一起玩玩具，不是两类机器人都有这种表现。",
+      "C": "错在把助鼠行为转移给非社交型。opened cage doors to let trapped rats escape仍属于社交型机器鼠的行为，而非社交型只是移动。",
+      "D": "定位“the asocial robot simply moved forwards and backwards and side to side”：它只有前后左右的移动，没有跟随、玩耍或救助互动，概括为独自移动。"
+    },
+    "23": {
+      "A": "错在把救助对象换成自己。试验中活鼠按杠杆释放被困机器鼠，原文随后解释它们记得曾经救过它并期待回报，没有说按杠杆是在训练自己逃生。",
+      "B": "定位“wanting the robot to return the favour when they get trapped”：老鼠希望自己被困时机器鼠回报救助，与下一段direct reciprocity所说明的直接互惠一致。",
+      "C": "错在虚构展示智力的动机。研究观察释放行为并用bonded与reciprocity解释，全文没有说老鼠想让研究者看到自己聪明。",
+      "D": "错在把建立联系的活动当成放鼠动机。playing是社交型机器鼠此前表现的行为，奎因对释放行为的解释是记忆与期待回报，不是把释放本身当游戏。"
+    },
+    "24": {
+      "A": "错在把原先设想当成实验发现。研究者原以为必须加facial features，结果that wasn’t necessary，未测试老鼠能否记忆其他老鼠的面部。",
+      "B": "错在添加未做的比较。size、scent都出现在机器鼠外形设计的讨论中，原文没有测量气味和体型的辨别能力，更没有比较哪种更强。",
+      "C": "定位简陋外形仍能交友的发现：机器鼠像塑料盒，研究者原想加头尾、面部与气味却发现不必；结合对social cues的敏感，说明社交行为比逼真外形更重要。",
+      "D": "错在把惊讶主体和情绪颠倒。surprising是研究者对活鼠愿意交友的惊讶，活鼠并未表现出被塑料盒吓到，反而愿意救助它。"
+    },
+    "25": {
+      "A": "错在把社会信号识别换成环境适应。研究考察的是对机器鼠的救助与互动，未比较新旧环境，也未以适应环境能力作为结论。",
+      "B": "错在无依据地横向排名。文中说人类与其他动物都可能迷恋机器人，没有比较老鼠与其他动物谁更活跃、更善交际。",
+      "C": "错在与结尾类比相反。作者用Similarly介绍儿童也会把简单社交机器人当同伴，意在说明相似反应，而非突出两者不同。",
+      "D": "定位“readiness…was surprising”与“how sensitive rats are to social cues”：如此简单的机器人仍被接纳，超出研究者对逼真外形必要性的原先预期。"
+    }
+  },
+  "2020-2": {
+    "26": {
+      "A": "错在把商业机会增长换成公司数量增长。原文明确business opportunities for the top firms are growing rapidly，没有说公司家数增加导致CEO高薪。",
+      "B": "错在泛化成所有人的普遍加薪。作者解释CEO人才有限、能力要求增加，还特意与many other workers比较，未以全民薪酬同步上涨说明CEO涨薪。",
+      "C": "定位最佳解释模型：limited CEO talent与顶尖企业business opportunities…growing rapidly并存，机会增长增加对优秀CEO的需求，支撑薪酬上涨。",
+      "D": "错在把全球化换成经济体合作。supply chains跨更多国家说明企业经营复杂，未论述主要经济体密切合作促成CEO涨薪。"
+    },
+    "27": {
+      "A": "错在添加团队合作要求。技能段具体讲金融市场、公关、全球供应链与科技转型，没有把更强的团队合作意识列为对比前任的新要求。",
+      "B": "错在把技术转型直接推成研发融资。原文说公司正在成为tech companies，并未规定CEO要增加研发资助，也没有提供研发预算比较。",
+      "C": "错在把自身转型换成外部关系。virtually all major American companies are becoming tech companies说这些公司本身科技化，不是CEO必须与别的科技公司拉近关系。",
+      "D": "定位“large American companies are much more globalized than ever before”及供应链跨更多国家：当代CEO需领导这种体系，因此要经营更全球化的公司。"
+    },
+    "28": {
+      "A": "错在虚构公司内部反对。作者讨论治理更严格却薪酬仍上涨，未说员工或董事持续反对，更未以内部斗争解释这一历史。",
+      "B": "定位“corporate governance has become…tighter and more rigorous”及“during this period…CEO pay has been high and rising”：严格治理并未阻止高薪增长。",
+      "C": "错在添加战略取向。文中强调商业机会增加、全球化和技术转型，没有把企业战略称作保守，更未说保守战略构成高薪上涨的阻碍。",
+      "D": "错在无中生有的政府警告。相关段落讲corporate governance，即公司治理，并未提政府发出薪酬警告，更没有反复警告的次数信息。"
+    },
+    "29": {
+      "A": "错在把公司利益换成个人地位。作者说招揽顶尖候选人符合broader corporate interest，末句还强调not just for the CEO，没有论证薪酬用于确认身份地位。",
+      "B": "错在对象相反。最高薪明确付给outside candidates，而不是cozy insider picks；该事实用来排除内部人掠夺的解释，不是强调激励内部人选。",
+      "C": "错在添加效率因果。作者说岗位更难、顶尖人才需要高薪，并以市场反应说明公司受益，没有证明高薪直接使CEO工作效率提高。",
+      "D": "定位末句“those practices build up corporate value not just for the CEO”：把薪酬与股价挂钩获得市场积极反应，说明高薪安排能够增加整体公司价值。"
+    },
+    "30": {
+      "A": "全文先承认CEO薪酬高，再以人才稀缺、能力要求提高、治理严格及增加公司价值解释其合理性，因此“CEO并未拿过高薪酬”概括了作者的辩护立场。",
+      "B": "错在把论证文章改成中立历史介绍。虽有70年代至今的数据，但它们服务于反驳ripping people off的解释，标题应体现高薪合理性的核心判断。",
+      "C": "错在只覆盖中间技能段。全球化、金融、公关等挑战确实出现，但后半篇还论证公司治理与公司价值，这些都服务于解释薪酬，不能只以挑战概括全文。",
+      "D": "错在把争论对象换成难以定义的个人特质。作者没有讨论如何界定CEO性格，而是解释高薪与岗位要求、人才市场、公司利益的关系。"
+    }
+  },
+  "2020-3": {
+    "31": {
+      "A": "错在把政策命运与效果混淆。原文明确“despite its success in improving air quality”，成功受到承认；不确定的是法律斗争后的前途，不是改善效果。",
+      "B": "错在法官立场相反。法官overruled停止罚款的决定，并命令罚款reinstated，实际支持恢复清洁区执法，而非反对清洁区。",
+      "C": "错在把恢复执法强化为更严厉执法。原文说法官命令恢复已有罚款，没有提出加重罚款或制定更强执法标准，tougher缺少依据。",
+      "D": "定位“with legal battles ahead, the zone’s future looks uncertain at best”：法官裁决后仍有法律争斗，因此该区命运仍未定。"
+    },
+    "32": {
+      "A": "错在成本承担对象相反。原文说成本落在individual drivers身上而不是制造商，批评的是没有要求车企为作弊负责，并非措施歧视车企。",
+      "B": "错在把政治争议换成无法实践。马德里和伦敦已有实际政策，作者承认do deliver improvements，问题在于争议导致易被推翻，并非不可实施。",
+      "C": "错在虚构力度评价。politically contentious说有政治争议，全文没有说政治人物认为措施太温和，更没有借此要求加严司机限行。",
+      "D": "定位“put the costs of cleaning the air on to individual drivers”：司机须pay fees or buy better vehicles，负担集中在个人身上，使地方措施政治上脆弱。"
+    },
+    "33": {
+      "A": "定位“sure to spark intense opposition”及更多motorists受影响：若扩区，司机群体扩大，作者预期强烈反对，正对应strong resistance。",
+      "B": "错在条件与结果颠倒。原句if Sadiq khan wins and extends it把胜选作为扩区的前提，不是说扩区确保胜选；预测结果反而是激烈反对。",
+      "C": "错在把治污目标换成交通改善。该段讨论扩区的政治阻力，未评价拥堵、通勤或交通效率，不能由限制汽车推断选项所述交通效果。",
+      "D": "错在把限行区域扩大换成制造业缩减。原文没有预计汽车生产下降，更没有说扩区用于抑制制造业，论述焦点是驾驶者反对。"
+    },
+    "34": {
+      "A": "错在责任方向。作者已批评把清洁空气成本转给个体司机，后文强调更大范围执法；没有把本该由中央承担的责任再次交给居民。",
+      "B": "错在将已经行动但能力有限的人当作缺位者。原文说mayors…can only do so much，说明单城市无法独立解决，而非市长不行动。",
+      "C": "错在忽略议员权力范围。councilors与mayors并列，面临far bigger than any one city的问题，作者没有说仅靠地方议员就足够解决。",
+      "D": "定位“They are acting because national governments…have failed to do so”：地方之所以行动是因各国中央政府失职，作者明确追究国家层面的责任。"
+    },
+    "35": {
+      "A": "错在把应当整改变成已可预测的生产安排。末段要求执行既有法规、让车辆合规，没有宣布或预测车企会扩大低排放汽车产量。",
+      "B": "定位“properly enforce existing regulations and require auto companies to bring their vehicles into compliance”及末句反讽：作者主张强制车企依法让车辆达标。",
+      "C": "错在把合规要求限定为设计升级。原文只要求clean up their cars、bring vehicles into compliance，未给出具体技术或设计方案，也未预测车企一定升级设计。",
+      "D": "错在替换监管机制。末段强调enforce existing regulations，即公共权力执行既有法规，没有提出由公众监督车企这一特定方案。"
+    }
+  },
+  "2020-4": {
+    "36": {
+      "A": "错在把关注增长换成能力认可。第一句只说attention has been rising steadily，未评价其能力已获承认，更未列出能力表现证据。",
+      "B": "错在把客观机会当成主观情绪。开篇就业市场好、雇主多招人，但后文说Z世代谨慎焦虑、不愿冒险，不能推出他们对市场乐观。",
+      "C": "错在把场景描述换成就业偏好。empty office cubicles只是即将进入职场的画面，作者没有比较办公室与其他工作，也没有说他们偏爱办公室岗位。",
+      "D": "定位首句“the attention has been rising steadily in recent weeks”：随着Z世代毕业求职，公众对他们的关注持续增加，与growing public attention对应。"
+    },
+    "37": {
+      "A": "错在把父母受危机影响改成父母期望。原文说父母在2008年失去工作或积蓄，这解释孩子对危机的记忆，没有讨论父母希望他们成为什么人。",
+      "B": "错在把信息来源当成Z世代自我认知。career counselors and experts是作者对务实谨慎判断的来源，没有说Z世代认识到顾问建议的价值。",
+      "C": "定位“know what an economic train wreck looks like”及父母失业、积蓄损失的经历：他们了解经济灾难的样子，即清楚艰难经济形势。",
+      "D": "错在把读者的问题当成毕业生已有认知。开头Everybody wants to know两代差别，表示公众希望了解，不是说Z世代已经清楚自身代际区别。"
+    },
+    "38": {
+      "A": "错在与上下文逻辑相反。经济繁荣本应减少焦虑，原句done little to assuage强调未发挥多少缓解作用，而不是繁荣未能加深焦虑。",
+      "B": "错在把情绪调节换成概念定义。assuage的宾语是anxious urgency这一焦虑感，语境讨论繁荣能否减轻情绪，并未界定概念边界。",
+      "C": "错在把缓和焦虑换成维持焦虑。前文说他们知道危机、害怕冒险，后文说繁荣仍不能消除这种不安；maintain不能表达本应改善但作用有限的关系。",
+      "D": "定位“booming economy seems to have done little”与仍然存在的焦虑，繁荣原本应减轻不安却未奏效，因此relieve最接近assuage。"
+    },
+    "39": {
+      "A": "错在排序。调查把secure employment列为理想雇主最重要特质，professional development and training排在其后，不能说培训是第一优先。",
+      "B": "定位88%选专业时考虑工作，以及对雇主和职业目标的明确排序：稳定就业、职业发展、工作生活平衡等表明其对未来工作有清晰诉求。",
+      "C": "错在凭空推出不重表现。第3段介绍求职目标与稳定偏好，没有评价他们在岗位上的表现态度，更不能从重稳定推成不关心表现。",
+      "D": "错在把优先目标改成实现困难。work-life balance was number one仅说工作生活平衡列第一，没有说他们认为难以达到，选项添加了障碍判断。"
+    },
+    "40": {
+      "A": "错在与代际描述相反。前文直接称Z世代practical、economic pragmatists，结尾又说更追求确定稳定，不能概括为更不务实。",
+      "B": "定位结尾“more certainty and stability”与“quite risk averse”：千禧一代要灵活，Z世代因零工经济更怕不确定，所以相对更不愿冒险。",
+      "C": "错在没有勤奋比较。两代对照是灵活性与确定性的偏好，全文没有比较工作时长、努力程度或劳动投入，不能推出Z世代更勤奋。",
+      "D": "错在把服务公共利益的职业目标当成慷慨程度。该目标位于前段调查且排在稳定之后，米切尔森结尾并未比较两代是否乐于给别人金钱或帮助。"
+    }
+  }
+}
