@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-30T04:57:01.818Z",
+ "updatedAt": "2026-10-30T04:57:07.034Z",
  "count": 26,
  "attempts": [
   {
@@ -15831,13 +15831,13 @@
     "masculine": {
      "disposition": "review",
      "needsReview": true,
-     "recall": null,
-     "evidence": "selfcheck",
-     "source": "list",
+     "recall": "fuzzy",
+     "evidence": "recall",
+     "source": "card",
      "mastered": false,
      "streak": 0,
-     "nextDue": 1793422231655,
-     "at": 1793335831655
+     "nextDue": 1793422622067,
+     "at": 1793336222067
     },
     "pastel": {
      "disposition": "review",
@@ -16559,16 +16559,33 @@
      "access",
      "acclaim"
     ],
-    "index": 0,
-    "flip": true,
+    "index": 1,
+    "flip": false,
     "tab": 0,
-    "grades": [],
+    "grades": [
+     {
+      "id": "masculine",
+      "grade": "fuzzy",
+      "at": 1793336222066,
+      "previous": {
+       "disposition": "review",
+       "needsReview": true,
+       "recall": null,
+       "evidence": "selfcheck",
+       "source": "list",
+       "mastered": false,
+       "streak": 0,
+       "nextDue": 1793422231655,
+       "at": 1793335831655
+      }
+     }
+    ],
     "contexts": [],
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 787.8660000000027,
-    "paused": false,
+    "elapsed": 790.8430000000027,
+    "paused": true,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
     "personalIDs": [
@@ -18854,7 +18871,7 @@
      "yield",
      "zone"
     ],
-    "sessionAt": 1793336221014,
+    "sessionAt": 1793336224855,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -19053,8 +19070,15 @@
       "at": 1793335974777
      }
     },
-    "doneChanges30": {},
-    "preciseDone": {},
+    "doneChanges30": {
+     "masculine": {
+      "at": 1793336222067,
+      "value": 1793336222066
+     }
+    },
+    "preciseDone": {
+     "masculine": 1793336222066
+    },
     "dailyStats": {
      "2026-10-24": {
       "screened": {
@@ -19104,7 +19128,9 @@
        "thoughts": 1793335833792,
        "wear": 1793335974777
       },
-      "cards": {}
+      "cards": {
+       "masculine": 1793336222067
+      }
      }
     },
     "statChanges30": {
@@ -19276,7 +19302,12 @@
         "value": 1793335974777
        }
       },
-      "cards": {}
+      "cards": {
+       "masculine": {
+        "at": 1793336222067,
+        "value": 1793336222067
+       }
+      }
      }
     },
     "groupsEpoch30": 0,
@@ -19289,10 +19320,10 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1793336212188,
+    "cursorAt30": 1793336224855,
     "quick39": false
    },
-   "updatedAt": 1793336221014
+   "updatedAt": 1793336224855
   },
   "sentenceReview27": {
    "version": 27,
