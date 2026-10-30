@@ -1,8 +1,8 @@
-import json,sys,re,subprocess,os
+import json,sys,re,subprocess,os,glob
 B=os.path.dirname(os.path.abspath(__file__))
 ROOT=os.path.dirname(B)
 src=os.path.join(ROOT,'index.html')
-base=subprocess.run(['git','-C',ROOT,'show','e0d140d:index.html'],capture_output=True).stdout.decode('utf-8')
+base=open(os.path.join(B,'base_v35.html'),encoding='utf-8').read()  # v35（提交 e0d140d）的页面，作为生成底稿
 s=base
 def rep(old,new,count=1):
     global s
@@ -18,6 +18,25 @@ skel=json.load(open(os.path.join(B,'data','skel.json')))
 try:
     qc=json.load(open(os.path.join(B,'data','qchoice2017.json')))
 except FileNotFoundError: qc={}
+
+# ---- 新增真题年份（2023–2026 等）：build/data/papers/<年份>.json ----
+papers={}
+for f in sorted(glob.glob(os.path.join(B,'data','papers','*.json'))):
+    papers[os.path.splitext(os.path.basename(f))[0]]=json.load(open(f,encoding='utf-8'))
+if papers:
+    early='const PAPERS='+json.dumps(papers,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';\n'+"""for(const [y,p] of Object.entries(PAPERS)){
+ if(p.reading&&p.reading.length){let e=DATA.find(x=>String(x.year)===String(y));if(!e){e={year:+y,texts:[]};DATA.push(e);DATA.sort((a,b)=>a.year-b.year);}for(const t of p.reading){if(!e.texts.some(x=>x.id===t.id))e.texts.push(t);}}
+ for(const k of ['EXAM_DATA','WRITING_CHARTS'])if(p[k])Object.assign({EXAM_DATA,WRITING_CHARTS}[k],p[k]);
+ for(const k of ['ANN','ANN2','QTR','QCHOICE'])if(p[k])for(const [id,v] of Object.entries(p[k])){const o={ANN,ANN2,QTR,QCHOICE}[k];o[id]=Object.assign(o[id]||{},v);}
+}
+"""
+    marker='const TEXTS = DATA.flatMap'
+    assert s.count(marker)==1
+    s=s.replace(marker,early+marker)
+    late="""for(const [y,p] of Object.entries(PAPERS)){for(const k of ['CLOZE_STUDY','NEWTYPE_STUDY','TRANSLATION_STUDY'])if(p[k])Object.assign({CLOZE_STUDY,NEWTYPE_STUDY,TRANSLATION_STUDY}[k],p[k]);}\n"""
+else:
+    late=''
+
 css=open(os.path.join(B,'src','g36.css')).read()
 qtr=json.load(open(os.path.join(B,'data','qtr2017.json')))
 core=json.load(open(os.path.join(B,'data','core926.json')))
@@ -37,7 +56,7 @@ js=open(os.path.join(B,'src','g36.js')).read()
 qjs=''
 if qc:
     qjs='for(const [tid,qs] of Object.entries(QC36))QCHOICE[tid]=Object.assign(QCHOICE[tid]||{},qs);\n'
-inj='<style>'+css+'</style>\n<script>\nconst SKEL36='+json.dumps(skel,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';\nconst QC36='+json.dumps(qc,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';\nconst CORE926='+json.dumps(core,ensure_ascii=False,separators=(',',':'))+';\nconst CORE926CAT='+corecat.replace('</','<\\/')+';\nconst KDICT='+kdict.replace('</','<\\/')+';\nconst GROOT='+groot.replace('</','<\\/')+';\nconst QTR37='+json.dumps(qtr,ensure_ascii=False,separators=(',',':'))+';\nfor(const [tid,qs] of Object.entries(QTR37))QTR[tid]=Object.assign(QTR[tid]||{},qs);\n'+qjs+js+'\n'+open(os.path.join(B,'src','v39host.js')).read()+'\n</script>\n'
+inj='<style>'+css+'</style>\n<script>\nconst SKEL36='+json.dumps(skel,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';\nconst QC36='+json.dumps(qc,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';\nconst CORE926='+json.dumps(core,ensure_ascii=False,separators=(',',':'))+';\nconst CORE926CAT='+corecat.replace('</','<\\/')+';\nconst KDICT='+kdict.replace('</','<\\/')+';\nconst GROOT='+groot.replace('</','<\\/')+';\nconst QTR37='+json.dumps(qtr,ensure_ascii=False,separators=(',',':'))+';\nfor(const [tid,qs] of Object.entries(QTR37))QTR[tid]=Object.assign(QTR[tid]||{},qs);\n'+qjs+late+js+'\n'+open(os.path.join(B,'src','v39host.js')).read()+'\n</script>\n'
 i=s.rfind('</body>')
 s=s[:i]+inj+s[i:]
 open(src,'w',encoding='utf-8').write(s)

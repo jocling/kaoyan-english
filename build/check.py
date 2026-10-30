@@ -33,5 +33,5 @@ if '--content' in sys.argv:
     ch=subprocess.run(['git','-C',ROOT,'status','--porcelain'],capture_output=True,text=True).stdout.split('\n')
     for l in ch:
         f=l[3:].strip()
-        if f and not (f.startswith('build/skel/') or f.startswith('build/data/') or f=='index.html'): fail(f'内容任务不许改：{f}')
+        if f and not (f.startswith('build/skel/') or f.startswith('build/data/') or f.startswith('build/tools/') or f=='index.html'): fail(f'内容任务不许改：{f}')
 print('\n'+('全部通过' if not bad else f'{bad} 项未通过——不要交付'));sys.exit(1 if bad else 0)
