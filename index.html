@@ -5389,8 +5389,7 @@ function g36Fallback(raw,pre,cn,opts){
  const core=typeof grammar23Core==='function'?grammar23Core(pre,raw):new Set();
  const sent=T.map((t,i)=>`<span class="g36-t ${core.has(i)?'m':''}" data-i="${i}">${esc(t)}</span>`).join(' ');
  let no=0;const sec=[];
- const how=g36How(T,sk);
- sec.push(`<li><h5>${G36_NO[no++]} 主句怎样成立</h5><div class="fb" style="font-family:'Source Serif 4',Georgia,serif;color:var(--ink)">${esc(pre.trunk||'')}</div>${pre.why?`<div class="fb" style="margin-top:6px">${esc(pre.why)}</div>`:''}</li>`);
+  sec.push(`<li><h5>${G36_NO[no++]} 主句怎样成立</h5><div class="fb" style="font-family:'Source Serif 4',Georgia,serif;color:var(--ink)">${esc(pre.trunk||'')}</div>${pre.why?`<div class="fb" style="margin-top:6px">${esc(pre.why)}</div>`:''}</li>`);
  if((pre.mods||[]).length)sec.push(`<li><h5>${G36_NO[no++]} 从句、短语与句内关系</h5>${pre.mods.map(m=>{const h=modRanges(raw,m);const rg=s=>{const a=[...s].sort((x,y)=>x-y);const out=[];for(const i of a){const l=out[out.length-1];if(l&&l[1]===i-1)l[1]=i;else out.push([i,i]);}return g36RgStr(out);};return `<button type="button" class="g36-mod" data-hl="${rg(h.mod)}" data-tg="${rg(h.to)}"><div class="mt">${esc(m.t)}</div><div class="ar">→ <b>${esc(m.to)}</b><span class="rl">${esc(m.role)}</span></div><div class="cn">${esc(m.cn)}</div></button>`;}).join('')}</li>`);
  return `<section class="g36"><div class="pa-head"><span class="pa-type">${esc(pre.type||'句子结构')}</span></div><div class="g36-old">这句还是旧版拆解（未按“主句骨架→从句→修饰”重排）。</div><div class="g36-sent">${sent}</div><ol class="g36-flow">${sec.join('')}${g36Tail(null,pre,cn,no)}</ol>${opts.noCn?'':g36Cn(cn)}</section>`;
 }
