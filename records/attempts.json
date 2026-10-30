@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-30T04:51:55.735Z",
+ "updatedAt": "2026-10-30T04:52:58.211Z",
  "count": 26,
  "attempts": [
   {
@@ -16113,6 +16113,116 @@
      "streak": 0,
      "nextDue": 1793422234294,
      "at": 1793335834294
+    },
+    "sufficient": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "thornier": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "eberle": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "inherently": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "define": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "wear": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "academic": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "accelerate": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "access": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
+    },
+    "acclaim": {
+     "disposition": "review",
+     "needsReview": true,
+     "recall": null,
+     "evidence": "selfcheck",
+     "source": "list",
+     "mastered": false,
+     "streak": 0,
+     "nextDue": 1793422374777,
+     "at": 1793335974777
     }
    },
    "notes": {
@@ -16272,7 +16382,7 @@
    },
    "session": {
     "v": 4,
-    "stage": "screen",
+    "stage": "cards",
     "batch": 3,
     "listPassed": [
      "paper",
@@ -16354,7 +16464,17 @@
      "absolute",
      "abstract",
      "abundantly",
-     "abuse"
+     "abuse",
+     "sufficient",
+     "thornier",
+     "eberle",
+     "inherently",
+     "define",
+     "wear",
+     "academic",
+     "accelerate",
+     "access",
+     "acclaim"
     ],
     "started": true,
     "supplement": true,
@@ -16384,7 +16504,17 @@
      "absolute": "study",
      "abstract": "study",
      "abundantly": "study",
-     "abuse": "study"
+     "abuse": "study",
+     "sufficient": "study",
+     "thornier": "study",
+     "eberle": "study",
+     "inherently": "study",
+     "define": "study",
+     "wear": "study",
+     "academic": "study",
+     "accelerate": "study",
+     "access": "study",
+     "acclaim": "study"
     },
     "showAll": true,
     "menu": false,
@@ -16417,17 +16547,27 @@
      "absolute",
      "abstract",
      "abundantly",
-     "abuse"
+     "abuse",
+     "sufficient",
+     "thornier",
+     "eberle",
+     "inherently",
+     "define",
+     "wear",
+     "academic",
+     "accelerate",
+     "access",
+     "acclaim"
     ],
     "index": 0,
-    "flip": false,
+    "flip": true,
     "tab": 0,
     "grades": [],
     "contexts": [],
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 650.0390000000027,
+    "elapsed": 711.0390000000027,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -18714,7 +18854,7 @@
      "yield",
      "zone"
     ],
-    "sessionAt": 1793335912277,
+    "sessionAt": 1793335976293,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -18756,6 +18896,26 @@
       "implicit": true,
       "at": 1793335834294
      },
+     "academic": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
+     "accelerate": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
+     "access": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
+     "acclaim": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
      "amplify": {
       "grade": "fuzzy",
       "implicit": true,
@@ -18773,6 +18933,16 @@
      "constancy": {
       "grade": "wrong",
       "at": 1792832478260
+     },
+     "define": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
+     "eberle": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
      },
      "efficient": {
       "grade": "fuzzy",
@@ -18803,6 +18973,11 @@
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793335834294
+     },
+     "inherently": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
      },
      "interrupted": {
       "grade": "fuzzy",
@@ -18852,15 +19027,30 @@
       "grade": "known",
       "at": 1792832460739
      },
+     "sufficient": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
      "techniques": {
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793335834294
      },
+     "thornier": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
      "thoughts": {
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793335833792
+     },
+     "wear": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
      }
     },
     "doneChanges30": {},
@@ -18885,14 +19075,21 @@
        "abstract": 1793335834294,
        "abundantly": 1793335834294,
        "abuse": 1793335834294,
+       "academic": 1793335974777,
+       "accelerate": 1793335974777,
+       "access": 1793335974777,
+       "acclaim": 1793335974777,
        "amplify": 1793335831656,
        "complaint": 1793335834294,
+       "define": 1793335974777,
+       "eberle": 1793335974777,
        "efficient": 1793335833792,
        "exhausted": 1793335833792,
        "faithfulness": 1793335831656,
        "femininity": 1793335831656,
        "flywheel": 1793335833792,
        "free up": 1793335834294,
+       "inherently": 1793335974777,
        "interrupted": 1793335833792,
        "intimation": 1793335831656,
        "masculine": 1793335831655,
@@ -18901,8 +19098,11 @@
        "or else": 1793335834294,
        "pastel": 1793335831655,
        "specific": 1793335834294,
+       "sufficient": 1793335974777,
        "techniques": 1793335834294,
-       "thoughts": 1793335833792
+       "thornier": 1793335974777,
+       "thoughts": 1793335833792,
+       "wear": 1793335974777
       },
       "cards": {}
      }
@@ -18963,6 +19163,22 @@
         "at": 1793335834295,
         "value": 1793335834294
        },
+       "academic": {
+        "at": 1793335974778,
+        "value": 1793335974777
+       },
+       "accelerate": {
+        "at": 1793335974778,
+        "value": 1793335974777
+       },
+       "access": {
+        "at": 1793335974778,
+        "value": 1793335974777
+       },
+       "acclaim": {
+        "at": 1793335974778,
+        "value": 1793335974777
+       },
        "amplify": {
         "at": 1793335831658,
         "value": 1793335831656
@@ -18970,6 +19186,14 @@
        "complaint": {
         "at": 1793335834295,
         "value": 1793335834294
+       },
+       "define": {
+        "at": 1793335974778,
+        "value": 1793335974777
+       },
+       "eberle": {
+        "at": 1793335974778,
+        "value": 1793335974777
        },
        "efficient": {
         "at": 1793335833793,
@@ -18994,6 +19218,10 @@
        "free up": {
         "at": 1793335834295,
         "value": 1793335834294
+       },
+       "inherently": {
+        "at": 1793335974778,
+        "value": 1793335974777
        },
        "interrupted": {
         "at": 1793335833793,
@@ -19027,13 +19255,25 @@
         "at": 1793335834295,
         "value": 1793335834294
        },
+       "sufficient": {
+        "at": 1793335974778,
+        "value": 1793335974777
+       },
        "techniques": {
         "at": 1793335834295,
         "value": 1793335834294
        },
+       "thornier": {
+        "at": 1793335974778,
+        "value": 1793335974777
+       },
        "thoughts": {
         "at": 1793335833793,
         "value": 1793335833792
+       },
+       "wear": {
+        "at": 1793335974778,
+        "value": 1793335974777
        }
       },
       "cards": {}
@@ -19049,10 +19289,10 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1793335912276,
+    "cursorAt30": 1793335974778,
     "quick39": false
    },
-   "updatedAt": 1793335912277
+   "updatedAt": 1793335976293
   },
   "sentenceReview27": {
    "version": 27,
