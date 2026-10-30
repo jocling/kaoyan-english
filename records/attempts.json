@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-30T04:43:23.258Z",
+ "updatedAt": "2026-10-30T04:50:15.743Z",
  "count": 26,
  "attempts": [
   {
@@ -18347,7 +18347,7 @@
      "yield",
      "zone"
     ],
-    "sessionAt": 1793335399882,
+    "sessionAt": 1793335771106,
     "screenJudgments": {
      "consider": {
       "grade": "known",
@@ -18418,7 +18418,7 @@
     "roundKey30": "2026-10-24",
     "cursorAt30": 1793335399882
    },
-   "updatedAt": 1793335399882
+   "updatedAt": 1793335771106
   },
   "sentenceReview27": {
    "version": 27,
@@ -18636,41 +18636,38 @@
      "roles": [
       {
        "u": "M0",
-       "a": 5,
-       "b": 6,
-       "r": "主语"
-      },
-      {
-       "u": "M0",
        "a": 7,
        "b": 7,
        "r": "谓语"
       },
       {
        "u": "C1",
-       "a": 8,
-       "b": 8,
-       "r": "主语"
-      },
-      {
-       "u": "C1",
        "a": 9,
-       "b": 10,
-       "r": "谓语"
-      },
-      {
-       "u": "C1",
-       "a": 11,
        "b": 11,
        "r": "谓语"
       }
      ],
      "chunkChecked": true,
      "roleChecked": true,
-     "updatedAt": "2026-10-30T03:42:39.642Z"
+     "updatedAt": "2026-10-30T04:45:28.714Z"
+    },
+    "2015-1|0:0": {
+     "chunks": {},
+     "roles": [],
+     "chunkChecked": false,
+     "roleChecked": false,
+     "updatedAt": ""
+    },
+    "2014-4|4:0": {
+     "chunks": {},
+     "roles": [],
+     "chunkChecked": false,
+     "roleChecked": false,
+     "updatedAt": ""
     }
    },
-   "updatedAt": "2026-10-30T03:42:39.642Z"
+   "updatedAt": "2026-10-30T04:45:28.714Z",
+   "current": "2014-4|4:0"
   }
  }
 }
