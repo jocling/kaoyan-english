@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-30T03:41:09.257Z",
+ "updatedAt": "2026-10-30T03:51:20.164Z",
  "count": 26,
  "attempts": [
   {
@@ -15986,7 +15986,7 @@
    },
    "session": {
     "v": 4,
-    "stage": "summary",
+    "stage": "screen",
     "batch": 0,
     "listPassed": [
      "paper",
@@ -16061,7 +16061,7 @@
     "contextReveal": false,
     "contextGrades": [],
     "elapsed": 577.0360000000028,
-    "paused": true,
+    "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
     "personalIDs": [
@@ -17587,7 +17587,7 @@
      "fast",
      "some"
     ],
-    "sessionAt": 1793331667944,
+    "sessionAt": 1793332276494,
     "screenJudgments": {
      "consider": {
       "grade": "known",
@@ -17648,9 +17648,9 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1792832657415
+    "cursorAt30": 1793332276494
    },
-   "updatedAt": 1793331667944
+   "updatedAt": 1793332276494
   },
   "sentenceReview27": {
    "version": 27,
@@ -17860,18 +17860,49 @@
       "0": "修饰",
       "1": "修饰",
       "2": "主句",
-      "3": "从句",
-      "4": "从句",
-      "5": "从句",
+      "3": "从句:定语从句",
+      "4": "从句:状语从句",
+      "5": "从句:同位语从句",
       "6": "修饰"
      },
-     "roles": [],
-     "chunkChecked": false,
-     "roleChecked": false,
-     "updatedAt": "2026-10-30T03:36:36.351Z"
+     "roles": [
+      {
+       "u": "M0",
+       "a": 5,
+       "b": 6,
+       "r": "主语"
+      },
+      {
+       "u": "M0",
+       "a": 7,
+       "b": 7,
+       "r": "谓语"
+      },
+      {
+       "u": "C1",
+       "a": 8,
+       "b": 8,
+       "r": "主语"
+      },
+      {
+       "u": "C1",
+       "a": 9,
+       "b": 10,
+       "r": "谓语"
+      },
+      {
+       "u": "C1",
+       "a": 11,
+       "b": 11,
+       "r": "谓语"
+      }
+     ],
+     "chunkChecked": true,
+     "roleChecked": true,
+     "updatedAt": "2026-10-30T03:42:39.642Z"
     }
    },
-   "updatedAt": "2026-10-30T03:36:36.351Z"
+   "updatedAt": "2026-10-30T03:42:39.642Z"
   }
  }
 }
