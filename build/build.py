@@ -16,7 +16,9 @@ rep('<span>点词看释义 · 拖选或点「划短语」存短语 · 点句子�
 skel=json.load(open(os.path.join(B,'data','skel.json')))
 # QCHOICE overrides
 try:
-    qc=json.load(open(os.path.join(B,'data','qchoice2017.json')))
+    qc={}
+    for _f in sorted(glob.glob(os.path.join(B,'data','qchoice*.json'))):
+        for _t,_q in json.load(open(_f,encoding='utf-8')).items(): qc.setdefault(_t,{}).update(_q)
 except FileNotFoundError: qc={}
 
 # ---- 新增真题年份（2023–2026 等）：build/data/papers/<年份>.json ----
@@ -38,7 +40,9 @@ else:
     late=''
 
 css=open(os.path.join(B,'src','g36.css')).read()
-qtr=json.load(open(os.path.join(B,'data','qtr2017.json')))
+qtr={}
+for _f in sorted(glob.glob(os.path.join(B,'data','qtr*.json'))):
+    for _t,_q in json.load(open(_f,encoding='utf-8')).items(): qtr.setdefault(_t,{}).update(_q)
 core=json.load(open(os.path.join(B,'data','core926.json')))
 # v39: vocab doc patch
 k='const V26_DOCUMENT='

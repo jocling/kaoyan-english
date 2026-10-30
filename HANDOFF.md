@@ -105,7 +105,7 @@ build/
 | 数据 | 文件 | 2017 的样板 |
 |---|---|---|
 | 长难句拆解（每一句，不只是难句） | `build/skel/2018.txt`（每年一个文件） | `build/skel/2017-1.txt` … `2017-4.txt` |
-| 题目译文（题干+ABCD） | `build/data/qtr2018.json`（并在 build.py 注入） | `data/qtr2017.json` |
+| 题目译文（题干+ABCD） | `build/data/qtr2018.json`（`build.py` 自动读取所有 `qtr*.json`、`qchoice*.json`，不用改它） | `data/qtr2017.json` |
 | 逐项错因 | `build/data/qchoice2018.json` | `data/qchoice2017.json` |
 
 2018–2022 现状：拆解是 v23 程序批量生成的旧版（不合格），题目没有译文，错因多为模板句。
