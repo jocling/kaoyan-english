@@ -1,0 +1,147 @@
+# 2017-2|0:0
+type 简单句｜it 作形式主语，不定式是真正主语
+chunks With so much focus on children's use of screens,〔修〕 it's easy for parents to forget about their own screen use.〔主〕
+main 形式主语＋谓语:it's | 表语:easy | 真正主语:to forget about their own screen use
+gist 父母很容易忘了（自己用屏幕这件事）
+mod With so much focus on children's use of screens → 整句 | 原因状语（with 结构） | 由于大家都那么关注孩子用屏幕
+mod for parents → to forget | 不定式的逻辑主语 | for sb to do：谁去忘——父母
+
+# 2017-2|0:1
+type 并列句｜引语倒装（says + 说话人插在中间），引语内部 and 连两个分句
+chunks "Tech is designed to really suck you in,"〔主〕 says Jenny Radesky〔修〕 in her study of digital play,〔修〕 "and〔连〕 digital products are there to promote maximal engagement.〔主〕
+main 主语:"Tech | 谓语:is designed | 主语补足语:to really suck you in || &and || 主语:digital products | 谓语:are | 表语:there
+gist 科技就是被设计来吸住你的，数字产品就是为了让你最大程度投入而存在
+mod says Jenny Radesky → 整句 | 引语标注（倒装） | 正常语序是 Jenny Radesky says；放在引语中间时谓语提前
+mod in her study of digital play → says | 出处 | 在她关于数字游戏的研究中
+mod to promote maximal engagement → are there | 不定式作目的状语 | 存在的目的：促使人最大程度地投入
+
+# 2017-2|0:2
+type 简单句｜共用主语 It，and 连接两个谓语；make it hard to do 形式宾语
+chunks It makes it hard to disengage,〔主〕 and〔连〕 leads to a lot of bleed-over into the family routine."〔主〕
+main 主语:It | 谓语:makes | 形式宾语:it | 宾补:hard | 真正宾语:to disengage || &and || 谓语:leads to | 宾语:a lot of bleed-over
+gist 它让人很难抽身，还会大量渗入家庭日常
+mod into the family routine → bleed-over | 方向 | 渗透到家庭日常里
+
+# 2017-2|1:0
+type 简单句｜by doing 表方式
+chunks Radesky has studied the use of mobile phones and tablets〔主〕 at mealtimes〔修〕 by giving mother-child pairs a food-testing exercise.〔修〕
+main 主语:Radesky | 谓语:has studied | 宾语:the use
+gist 雷德斯基研究了（手机平板的）使用情况
+mod of mobile phones and tablets → the use | 介词短语作定语 | 手机和平板的使用
+mod at mealtimes → the use | 时间 | 用餐时的使用
+mod by giving mother-child pairs a food-testing exercise → has studied | 方式状语 | 怎么研究的：给母子组布置一个试吃任务（give sb sth 双宾语）
+
+# 2017-2|1:1
+type 主从复合句｜that 宾语从句里再套 who 定语从句
+chunks She found〔主〕 that mothers〔C1〕 who used devices during the exercise〔C2〕 started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children.〔C1〕
+main 主语:She | 谓语:found | 宾语:C1
+gist 她发现了（一件事）——内容是从句①
+C1 宾语从句 | 作 found 的宾语 | that | found 后缺宾语，that 后 mothers … started 是完整句子 → 宾语从句；注意主语 mothers 和谓语 started 被定语从句隔开了 | 主语:mothers | 谓语:started | 宾语:interactions
+C2 定语从句 in C1 | 修饰 mothers | who | who 前面是名词 mothers，后面 used 缺主语 → who 作主语，引导定语从句 | 主语:who | 谓语:used | 宾语:devices
+mod during the exercise → used | 时间状语 | 在任务过程中
+mod 20 per cent fewer verbal and 39 per cent fewer nonverbal → interactions | 定语 | 言语互动少 20%，非言语互动少 39%
+mod with their children → interactions | 介词短语作定语 | 与孩子的互动
+
+# 2017-2|1:2
+type 主从复合句｜that 宾语从句
+chunks During a separate observation,〔修〕 she saw〔主〕 that phones became a source of tension in the family.〔C1〕
+main 主语:she | 谓语:saw | 宾语:C1
+gist 她看到了（一个现象）——内容是从句①
+C1 宾语从句 | 作 saw 的宾语 | that | saw 后缺宾语，that 后 phones became … 是完整句子 → 宾语从句 | 主语:phones | 谓语:became | 表语:a source
+mod During a separate observation → saw | 时间状语 | 在另一项观察中
+mod of tension → a source | 介词短语作定语 | 紧张关系的来源
+mod in the family → tension | 地点 | 家庭中的紧张
+
+# 2017-2|1:3
+type 主从复合句｜while 引导对比（同时）状语从句
+chunks Parents would be looking at their emails〔主〕 while the children would be making excited bids for their attention.〔C1〕
+main 主语:Parents | 谓语:would be looking at | 宾语:their emails
+gist 父母在看邮件
+C1 时间／对比状语从句 | 修饰主句：与此同时孩子在做什么 | while | while 后是完整句子，放在主句后 → 状语从句；“一边……一边……”，形成对比 | 主语:the children | 谓语:would be making | 宾语:excited bids
+mod for their attention → bids | 介词短语作定语 | 争取父母注意力的举动
+
+# 2017-2|2:0
+type 并列句｜and 连接两个分句；后一个分句里有 if 条件从句和 as 方式从句
+chunks Infants are wired to look at parents' faces〔主〕 to try to understand their world,〔修〕 and〔连〕 if those faces are blank and unresponsive〔C1〕 - as they often are when absorbed in a device -〔C2〕 it can be extremely disconcerting for the children.〔主〕
+main 主语:Infants | 谓语:are wired | 主语补足语:to look at parents' faces || &and || 形式主语:it | 谓语:can be | 表语:extremely disconcerting
+gist 婴儿天生会看父母的脸；（如果脸没反应）孩子会非常不安
+C1 条件状语从句 | 修饰后一个主句 | if | if 后是完整句子，后面接主句 it can be … → 条件状语从句 | 主语:those faces | 谓语:are | 表语:blank and unresponsive
+C2 方式状语从句 in C1 | 补充说明“父母的脸常常就是这样” | as | 破折号中间插入；as 后 they often are（省略了 blank）→ “正如……那样”，里面还有 when absorbed 省略结构 | 主语:they | 谓语:are
+mod to try to understand their world → to look at | 不定式作目的状语 | 看父母的脸是为了理解世界
+mod when absorbed in a device → are | 省略的时间状语从句 | 完整是 when they are absorbed in a device：沉迷于设备时
+mod for the children → disconcerting | 对象 | 对孩子来说
+
+# 2017-2|2:1
+type 简单句｜过去分词短语作后置定语
+chunks Radesky cites the "still face experiment"〔主〕 devised by developmental psychologist Ed Tronick in the 1970s.〔修〕
+main 主语:Radesky | 谓语:cites | 宾语:the "still face experiment"
+gist 雷德斯基引用了“静止脸实验”
+mod devised by developmental psychologist Ed Tronick in the 1970s → experiment" | 过去分词作定语 | 被动：由发展心理学家特罗尼克在 1970 年代设计的
+
+# 2017-2|2:2
+type 并列句｜冒号后说结果；前句 before doing，后句 as 时间状语从句
+chunks In it,〔修〕 a mother is asked to interact with her child in a normal way〔主〕 before putting on a blank expression and not giving them any visual social feedback:〔修〕 The child becomes increasingly distressed〔主〕 as she tries to capture her mother's attention.〔C1〕
+main 主语:a mother | 谓语:is asked | 主语补足语:to interact with her child || 主语:The child | 谓语:becomes | 表语:increasingly distressed
+gist 母亲被要求先正常互动；孩子变得越来越不安
+C1 时间状语从句 | 修饰 becomes distressed：随着……| as | as 后是完整句子 she tries …，放在主句后 → 时间状语从句（“随着／当……时”） | 主语:she | 谓语:tries | 宾语:to capture her mother's attention
+mod In it → 整句 | 地点 | it 指 still face experiment：在这个实验里
+mod in a normal way → interact | 方式状语 | 以正常方式
+mod before putting on a blank expression and not giving them any visual social feedback → is asked to interact | 时间状语 | 之后再换上面无表情、不给任何视觉回应（两个 -ing 并列）
+
+# 2017-2|2:3
+type 并列句｜but 和 and 连接三个分句，作为引语
+chunks "Parents don't have to be exquisitely present at all times,〔主〕 but〔连〕 there needs to be a balance〔主〕 and〔连〕 parents need to be responsive and sensitive to a child's verbal or nonverbal expressions of an emotional need,"〔主〕 says Radesky.〔修〕
+main 主语:"Parents | 谓语:don't have to be | 表语:present || &but || 谓语:there needs to be | 主语:a balance || &and || 主语:parents | 谓语:need to be | 表语:responsive and sensitive
+gist 父母不必时刻在场，但要平衡，要有回应、够敏感
+mod exquisitely → present | 程度状语 | 极其完美地（在场）
+mod at all times → present | 时间状语 | 时时刻刻
+mod to a child's verbal or nonverbal expressions → responsive and sensitive | 介词短语作补足 | 对孩子言语或非言语表达有回应、敏感
+mod of an emotional need → expressions | 介词短语作定语 | 情感需求的表达
+mod says Radesky → 整句 | 引语标注（倒装） | 正常语序 Radesky says
+
+# 2017-2|3:0
+type 主从复合句｜that 宾语从句 + 定语从句；冒号后引语里 that/if 层层套
+chunks On the other hand,〔修〕 Tronick himself is concerned〔主〕 that the worries about kids' use of screens are born out of an "oppressive ideology〔C1〕 that demands〔C2〕 that parents should always be interacting" with their children:〔C3〕 "It's based on a somewhat fantasised, very white, very upper-middle-class ideology〔主〕 that says〔C4〕 if you're failing to expose your child to 30,000 words〔C6〕 you are neglecting them."〔C5〕
+main 主语:Tronick himself | 谓语:is | 表语:concerned || 主语＋谓语:"It's based on | 宾语:ideology
+gist 特罗尼克担心（一件事）；它基于一种理想化的意识形态
+C1 宾语从句 | 作 concerned 的内容（be concerned that） | that | be concerned 后接 that 完整句子，说明担心什么 → 宾语从句 | 主语:the worries | 谓语:are born out of | 宾语:an "oppressive ideology
+C2 定语从句 in C1 | 修饰 ideology | that | that 前是名词 ideology，后面 demands 缺主语 → that 作主语，定语从句 | 主语:that | 谓语:demands
+C3 宾语从句 in C2 | 作 demands 的宾语 | that | demand 后接 that 从句说要求的内容，常用 should do | 主语:parents | 谓语:should … be interacting
+C4 定语从句 | 修饰 ideology（冒号后那个） | that | that 前是名词 ideology，后面 says 缺主语 → 定语从句 | 主语:that | 谓语:says
+C5 宾语从句 in C4 | 作 says 的宾语 | （省略 that） | says 后缺宾语，后面 you are neglecting them 是完整句子 → 省略 that 的宾语从句 | 主语:you | 谓语:are neglecting | 宾语:them
+C6 条件状语从句 in C5 | 修饰 are neglecting | if | if 后完整句子，后接 you are neglecting → 条件状语从句（夹在 says 和宾语从句之间） | 主语＋谓语:you're failing | 宾语:to expose your child to 30,000 words
+mod On the other hand → 整句 | 转折 | 另一方面，引出相反观点
+mod about kids' use of screens → the worries | 介词短语作定语 | 对孩子使用屏幕的担忧
+mod with their children → interacting" | 对象 | 与孩子互动
+mod somewhat fantasised, very white, very upper-middle-class → ideology | 定语 | 有点理想化、白人、中上层阶级的（意识形态）
+
+# 2017-2|3:1
+type 主从复合句｜宾语从句里 just because 从句作主语
+chunks Tronick believes〔主〕 that〔C1〕 just because a child isn't learning from the screen〔C2〕 doesn't mean〔C1〕 there's no value to it〔C3〕 - particularly if it gives parents time to have a shower, do housework or simply have a break from their child.〔C4〕
+main 主语:Tronick | 谓语:believes | 宾语:C1
+gist 特罗尼克认为（一件事）——内容是从句①
+C1 宾语从句 | 作 believes 的宾语 | that | believes 后缺宾语，that 引出完整判断 → 宾语从句；这个从句的主语本身是一个从句 | 主语:just because … screen | 谓语:doesn't mean | 宾语:there's no value to it
+C2 主语从句 in C1 | 作 doesn't mean 的主语 | just because | doesn't mean 前面没有名词主语，只有 just because 小句 → 口语里 just because … 可以作主语：“仅仅因为……并不意味着……” | 主语:a child | 谓语:isn't learning
+C3 宾语从句 in C1 | 作 mean 的宾语 | （省略 that） | mean 后接完整句子 there's no value → 省略 that | 谓语＋主语:there's no value
+C4 条件状语从句 in C1 | 补充：尤其在什么情况下有价值 | if | particularly if：尤其是如果……；if 后是完整句子 → 条件状语从句 | 主语:it | 谓语:gives | 间接宾语:parents | 直接宾语:time
+mod from the screen → isn't learning | 来源 | 从屏幕上学
+mod to it → no value | 对象 | 对它（屏幕）没有价值
+mod to have a shower, do housework or simply have a break from their child → time | 不定式作定语 | 做什么的时间：洗澡、做家务、从孩子身边歇一下
+
+# 2017-2|3:2
+type 简单句｜he says 插入
+chunks Parents,〔主〕 he says,〔修〕 can get a lot out of using their devices〔主〕 to speak to a friend or get some work out of the way.〔修〕
+main 主语:Parents | 谓语:can get | 宾语:a lot
+gist 父母能收获很多
+mod he says → 整句 | 插入语 | 他说
+mod out of using their devices → get a lot | 来源 | get a lot out of sth：从……中受益良多
+mod to speak to a friend or get some work out of the way → using their devices | 不定式作目的状语 | 用设备干什么：和朋友聊天、处理完一些工作
+
+# 2017-2|3:3
+type 主从复合句｜which 非限制性定语从句指代前面整件事
+chunks This can make them feel happier,〔主〕 which lets them be more available to their child the rest of the time.〔C1〕
+main 主语:This | 谓语:can make | 宾语:them | 宾补:feel happier
+gist 这能让他们更开心
+C1 非限制性定语从句 | 修饰前面整句（他们变开心这件事） | which | 逗号 + which，后面 lets 缺主语 → which 作主语；它指代的不是某个名词，而是“父母变开心”这件事 | 主语:which | 谓语:lets | 宾语:them | 宾补:be more available
+mod to their child → available | 对象 | 对孩子更有空、更能回应
+mod the rest of the time → be more available | 时间状语 | 其余时间

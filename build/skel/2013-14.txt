@@ -1,0 +1,241 @@
+# 2013-2|0:1
+type 主从复合句｜完全倒装（介词短语提前，came 在主语前），主语是 those + 两个 who 定语从句
+chunks Along with the many folks〔修〕 looking to make a permanent home in the United States〔修〕 came those〔主〕 who had no intention to stay,〔C1〕 and〔C2〕 who would make some money and then go home.〔C2〕
+main 谓语:came | 主语:those
+gist 来了一些人——倒装：主语 those 在 came 后面
+C1 定语从句 | 修饰 those | who | those who＝那些……的人；who 后 had 缺主语 → 定语从句 | 主语:who | 谓语:had | 宾语:no intention
+C2 定语从句 | 和从句①并列，也修饰 those | who | and 后又一个 who，说明 those 的另一特点：挣点钱就回家 | 主语:who | 谓语:would make … and then go | 宾语:some money
+mod Along with the many folks → came | 伴随状语（提前） | 和许多人一起；方位／伴随短语放句首引起倒装
+mod looking to make a permanent home in the United States → the many folks | 现在分词作定语 | 想在美国安家的人
+mod to stay → intention | 不定式作定语 | 留下来的打算
+
+# 2013-2|4:0
+type 简单句｜动名词短语作主语
+chunks Accommodating this new world of people in motion〔主〕 will require new attitudes〔主〕 on both sides of the immigration battle.〔修〕
+main 主语:Accommodating this new world | 谓语:will require | 宾语:new attitudes
+gist 适应这个新世界需要新态度
+mod of people in motion → this new world | 介词短语作定语 | 人口流动的新世界
+mod on both sides of the immigration battle → new attitudes | 地点 | 移民论战双方都要有新态度
+
+# 2013-3|1:3
+type 简单句｜It takes time to do，it 形式主语
+chunks It takes a while to judge complex aspects of personality,〔主〕 like neuroticism or open-mindedness.〔修〕
+main 形式主语:It | 谓语:takes | 宾语:a while | 真正主语:to judge complex aspects
+gist 判断人格的复杂方面需要一段时间
+mod of personality → complex aspects | 介词短语作定语 | 人格的复杂方面
+mod like neuroticism or open-mindedness → complex aspects | 举例 | 比如神经质、开放性
+
+# 2013-3|2:2
+type 并列结构｜一个主语带 and 两个谓语，后接另一句（原文逗号连接）
+chunks We unconsciously associate fast food with speed and impatience〔主〕 and〔连〕 carry those impulses〔主〕 into〔修〕 whatever else we're doing,〔C1〕 Subjects〔主〕 exposed to fast-food flashes〔修〕 also tend to think〔主〕 a musical piece lasts too long.〔C2〕
+main 主语:We | 谓语:… associate | 宾语:fast food || &and || 谓语:carry | 宾语:those impulses || 主语:Subjects | 谓语:… tend to think | 宾语:C2
+gist 我们会把快餐和速度、急躁联系起来并带到别的事上；被试倾向于认为（一件事）
+C1 宾语从句（作介词宾语） | 作 into 的宾语 | whatever | 介词 into 后接 whatever 从句，whatever 在从句里作 doing 的宾语 → 名词性从句，“正在做的任何其他事” | 宾语:whatever else | 主语＋谓语:we're doing
+C2 宾语从句 | 作 think 的宾语 | （省略 that） | think 后缺宾语，a musical piece lasts 是完整句子 → 省略 that | 主语:a musical piece | 谓语:lasts
+mod unconsciously → associate | 方式 | 不自觉地
+mod with speed and impatience → associate | 介词短语 | associate A with B：把 A 和 B 联系起来
+mod exposed to fast-food flashes → Subjects | 过去分词作定语 | 看到快餐图片闪现的被试
+mod too long → lasts | 程度 | 太久
+
+# 2013-3|5:1
+type 简单句｜spend time doing
+chunks But〔修〕 historically〔修〕 we have spent about 12 percent of our days〔主〕 contemplating the longer term.〔修〕
+main 主语:we | 谓语:have spent | 宾语:about 12 percent
+gist 我们花了约 12% 的时间
+mod historically → have spent | 时间 | 从历史上看
+mod of our days → 12 percent | 介词短语作定语 | 我们日子里的 12%
+mod contemplating the longer term → have spent | 现在分词 | spend time doing：把时间花在思考长远上
+
+# 2013-4|3:2
+type 并列结构｜冒号后引语里 and 连两个分句；句末同位语说明结果
+chunks Quotas get action:〔主〕 they "open the way to equality〔主〕 and〔连〕 they break through the glass ceiling,"〔主〕 according to Reding,〔修〕 a result〔修〕 seen in France and other countries with legally binding provisions on placing women in top business positions.〔修〕
+main 主语:Quotas | 谓语:get | 宾语:action || 主语:they | 谓语:"open | 宾语:the way || &and || 主语:they | 谓语:break through | 宾语:the glass ceiling,"
+gist 配额能带来行动：开辟通往平等之路，打破玻璃天花板
+mod to equality → the way | 方向 | 通往平等的路
+mod according to Reding → 整句 | 来源 | 据雷丁说
+mod a result → 整句 | 同位语 | 对前面整件事的总结：这是一种结果
+mod seen in France and other countries → a result | 过去分词作定语 | 在法国等国家看到的（结果）
+mod with legally binding provisions → countries | 介词短语作定语 | 有法律约束性规定的国家
+mod on placing women in top business positions → provisions | 介词短语作定语 | 关于让女性进入企业高层的规定
+
+# 2013-4|4:1
+type 并列句｜分号连接；同位语 governance by the capable
+chunks I don't like quotas either;〔主〕 they run counter to my belief in meritocracy,〔主〕 governance by the capable.〔修〕
+main 主语:I | 谓语:don't like | 宾语:quotas || 主语:they | 谓语:run counter to | 宾语:my belief
+gist 我也不喜欢配额；它们违背我的信念
+mod either → don't like | 否定附和 | 我也不……
+mod in meritocracy → my belief | 介词短语作定语 | 对精英管理的信念
+mod governance by the capable → meritocracy | 同位语 | 解释精英管理：由有能力的人治理
+
+# 2013-4|4:2
+type 主从复合句｜when 从句 + it look as if 表语从句
+chunks But,〔修〕 when one considers the obstacles to achieving the meritocratic ideal,〔C1〕 it does look〔主〕 as if a fairer world must be temporarily ordered.〔C2〕
+main 主语:it | 谓语:does look | 表语:C2
+gist 看起来（好像……）——内容是从句②
+C1 时间（条件）状语从句 | 修饰主句：一旦考虑到…… | when | when 后完整句子，逗号后接主句 → 状语从句 | 主语:one | 谓语:considers | 宾语:the obstacles
+C2 表语从句 | 作 look 的表语 | as if | look 是系动词，后面缺表语；as if 后是完整句子 → 表语从句，“看起来好像……” | 主语:a fairer world | 谓语:must be … ordered
+mod to achieving the meritocratic ideal → the obstacles | 介词短语作定语 | 实现精英理想的障碍（to 是介词，后接 -ing）
+mod does → look | 强调 | does 强调“确实看起来”
+mod temporarily → ordered | 时间 | 暂时地
+
+# 2013-4|5:1
+type 主从复合句｜When 从句里插 as 从句；because 原因从句
+chunks When women do break through to the summit of corporate power〔C1〕 - as, for example, Sheryl Sandberg recently did at Facebook -〔C2〕 they attract massive attention〔主〕 precisely because they remain the exception to the rule.〔C3〕
+main 主语:they | 谓语:attract | 宾语:massive attention
+gist 她们会吸引大量关注
+C1 时间状语从句 | 修饰主句 | When | When 后是完整句子，后接主句 → 时间状语从句 | 主语:women | 谓语:do break through
+C2 方式状语从句 in C1 | 举例插入：正如…… | as | 破折号中 as 后 Sheryl Sandberg did（did 代替 broke through）→ “正如……那样” | 主语:Sheryl Sandberg | 谓语:did
+C3 原因状语从句 | 修饰 attract：为什么受关注 | because | because 后完整句子 → 原因状语从句；precisely 强调“恰恰因为” | 主语:they | 谓语:remain | 表语:the exception
+mod to the summit of corporate power → break through | 方向 | 突破到企业权力顶层
+mod for example → 整句 | 插入语 | 例如
+mod to the rule → the exception | 介词短语作定语 | 常规中的例外
+
+# 2014-2|0:1
+type 并列句｜and 连接两个分句
+chunks We have a deep-seated need to feel good about ourselves〔主〕 and〔连〕 we naturally employ a number of self-enhancing strategies〔主〕 to achieve this.〔修〕
+main 主语:We | 谓语:have | 宾语:a deep-seated need || &and || 主语:we | 谓语:… employ | 宾语:a number of self-enhancing strategies
+gist 我们有自我感觉良好的需求，也自然会用各种自我提升策略
+mod to feel good about ourselves → need | 不定式作定语 | 什么需求：自我感觉良好
+mod naturally → employ | 方式 | 自然而然地
+mod to achieve this → employ | 不定式作目的状语 | 为了实现这一点
+
+# 2014-2|1:1
+type 简单句｜共用主语 We，and 连接两个谓语；when 省略从句
+chunks We become defensive〔主〕 when criticised,〔C1〕 and〔连〕 apply negative stereotypes to others〔主〕 to boost our own esteem.〔修〕
+main 主语:We | 谓语:become | 表语:defensive || &and || 谓语:apply | 宾语:negative stereotypes
+gist 我们会变得防御，并给别人套负面刻板印象
+C1 时间状语从句（省略） | 修饰 become defensive | when | when 后直接跟过去分词，省略了 we are → when (we are) criticised | 谓语:criticised
+mod to others → apply | 对象 | 套到别人身上
+mod to boost our own esteem → apply | 不定式作目的状语 | 为了提升自尊
+
+# 2014-2|1:2
+type 主从复合句｜thinking 后省略 that 的宾语从句
+chunks We stalk around〔主〕 thinking〔修〕 we're hot stuff.〔C1〕
+main 主语:We | 谓语:stalk around
+gist 我们昂首阔步
+C1 宾语从句 | 作 thinking 的宾语 | （省略 that） | thinking 后接完整句子 we're hot stuff → 省略 that | 主语＋谓语:we're | 表语:hot stuff
+mod thinking → stalk around | 现在分词作伴随状语 | 一边走一边以为自己很了不起
+
+# 2014-2|2:1
+type 主从复合句｜Rather than 前置；from a lineup 后带 including 和 that 定语从句
+chunks Rather than have people simply rate their beauty compared with others,〔修〕 he asked them to identify an original photograph of themselves〔主〕 from a lineup including versions〔修〕 that had been altered to appear more and less attractive.〔C1〕
+main 主语:he | 谓语:asked | 宾语:them | 宾补:to identify an original photograph
+gist 他让他们认出自己的原始照片
+C1 定语从句 | 修饰 versions | that | that 后 had been altered 缺主语 → 定语从句 | 主语:that | 谓语:had been altered
+mod Rather than have people simply rate their beauty → asked | 对比 | 不是让人直接给自己的长相打分（have sb do）
+mod compared with others → rate | 比较 | 和别人比
+mod of themselves → photograph | 介词短语作定语 | 他们自己的照片
+mod from a lineup → identify | 来源 | 从一排照片中挑出
+mod including versions → a lineup | 现在分词作定语 | 其中包括修改过的版本
+mod to appear more and less attractive → altered | 不定式作结果 | 改得看起来更好看或更难看
+
+# 2014-2|2:2
+type 简单句｜reads the study 插入（倒装）
+chunks Visual recognition,〔主〕 reads the study,〔修〕 is "an automatic psychological process,〔主〕 occurring rapidly and intuitively with little or no apparent conscious deliberation".〔修〕
+main 主语:Visual recognition | 谓语:is | 表语:"an automatic psychological process
+gist 视觉识别是一种自动心理过程
+mod reads the study → 整句 | 插入（倒装） | 研究中写道；read 在这里是“写着”
+mod occurring rapidly and intuitively → process | 现在分词作定语 | 迅速而直觉地发生的过程
+mod with little or no apparent conscious deliberation → occurring | 方式 | 几乎没有明显的有意识思考
+
+# 2014-2|2:3
+type 主从复合句｜If 条件从句里插 which 非限制性定语从句；主句 believed 后省略 that
+chunks If the subjects quickly chose a falsely flattering image〔C1〕 - which most did -〔C2〕 they genuinely believed〔主〕 it was really〔C3〕 how they looked.〔C4〕
+main 主语:they | 谓语:… believed | 宾语:C3
+gist 他们真心相信（一件事）——内容是从句③
+C1 条件状语从句 | 修饰主句 | If | If 后完整句子，后接主句 → 条件状语从句 | 主语:the subjects | 谓语:… chose | 宾语:a falsely flattering image
+C2 非限制性定语从句 in C1 | 补充：大多数人都是这样 | which | which 指代“很快选了美化图”这件事，在从句里作 did 的宾语 | 宾语:which | 主语:most | 谓语:did
+C3 宾语从句 | 作 believed 的宾语 | （省略 that） | believed 后接完整句子 it was … → 省略 that | 主语:it | 谓语:was | 表语:C4
+C4 表语从句 in C3 | 作 was 的表语 | how | was 后缺表语，how they looked 是完整句子 → 表语从句：他们的样子 | 主语:they | 谓语:looked
+mod quickly → chose | 方式 | 迅速地
+mod falsely flattering → image | 定语 | 虚假美化的图片
+mod genuinely → believed | 程度 | 真心地
+
+# 2014-2|3:2
+type 主从复合句｜主语 those 带 who 从句，里面套 that 宾语从句；宾语 those 也带 who 从句
+chunks In fact,〔修〕 those〔主〕 who thought〔C1〕 that the images higher up the attractiveness scale were real〔C2〕 directly corresponded with those〔主〕 who showed other markers for having higher self-esteem.〔C3〕
+main 主语:those | 谓语:… corresponded with | 宾语:those
+gist 那些人（与另一些人）直接对应
+C1 定语从句 | 修饰第一个 those | who | those who＝那些……的人；who 后 thought 缺主语 | 主语:who | 谓语:thought | 宾语:C2
+C2 宾语从句 in C1 | 作 thought 的宾语 | that | thought 后 that 引出完整句子 | 主语:the images | 谓语:were | 表语:real
+C3 定语从句 | 修饰第二个 those | who | who 后 showed 缺主语 → 定语从句 | 主语:who | 谓语:showed | 宾语:other markers
+mod higher up the attractiveness scale → the images | 形容词短语后置作定语 | 魅力刻度上更高的那些照片
+mod directly → corresponded | 方式 | 直接地
+mod for having higher self-esteem → markers | 介词短语作定语 | 自尊心更强的标志
+
+# 2014-3|1:0
+type 主从复合句｜When 从句 + 主语带 that 定语从句
+chunks When there is rapid improvement in the price and performance of technology,〔C1〕 jobs〔主〕 that were once thought to be immune from automation〔C2〕 suddenly become threatened.〔主〕
+main 主语:jobs | 谓语:… become | 表语:threatened
+gist 工作受到威胁
+C1 时间状语从句 | 修饰主句 | When | When 后完整的 there be 句子，后接主句 → 时间状语从句 | 谓语:there is | 主语:rapid improvement
+C2 定语从句 | 修饰 jobs | that | that 后 were thought 缺主语 → 定语从句；主语 jobs 和谓语 become 被它隔开 | 主语:that | 谓语:were … thought | 主语补足语:to be immune
+mod in the price and performance of technology → improvement | 介词短语作定语 | 技术价格和性能上的进步
+mod once → thought | 时间 | 曾经
+mod from automation → immune | 介词短语 | 不受自动化影响
+mod suddenly → become | 方式 | 突然
+
+# 2014-3|3:1
+type 主从复合句｜that 定语从句（介词 at 悬空）
+chunks In short,〔修〕 these are the types of jobs〔主〕 that machines can perform much better at than human beings.〔C1〕
+main 主语:these | 谓语:are | 表语:the types
+gist 这些就是（机器做得更好的）工作类型
+C1 定语从句 | 修饰 jobs | that | that 后 machines can perform … at，at 后缺宾语 → that 作 at 的宾语，定语从句（perform well at jobs） | 主语:machines | 谓语:can perform | 宾语:that
+mod In short → 整句 | 总结 | 简而言之
+mod of jobs → the types | 介词短语作定语 | 工作的类型
+mod much better … than human beings → perform | 比较 | 比人类做得好得多
+
+# 2014-3|5:1
+type 简单句｜reframe A as B
+chunks We need to reframe race against the machine〔主〕 as race with the machine.〔修〕
+main 主语:We | 谓语:need to reframe | 宾语:race
+gist 我们需要重新定义（与机器的竞赛）
+mod against the machine → race | 介词短语作定语 | 与机器对抗的竞赛
+mod as race with the machine → reframe | 宾语补足语 | reframe A as B：把 A 重新理解为 B——与机器一起赛跑
+
+# 2014-3|5:3
+type 简单句｜not … but rather …，表语是一个问句
+chunks So then〔修〕 the problem is not really about technology,〔主〕 but rather,〔连〕 "how do we innovate our institutions and our work practices?"〔主〕
+main 主语:the problem | 谓语:is not | 表语:about technology || &but || 表语:"how do we innovate … practices?"
+gist 问题不在技术，而在于“我们如何革新制度和工作方式”
+mod really → not | 程度 | 并非真的
+mod So then → 整句 | 结论 | 所以
+
+# 2014-4|1:3
+type 简单句｜there be
+chunks Then〔修〕 there is the scale〔主〕 of the typical housing project.〔修〕
+main 谓语:there is | 主语:the scale
+gist 还有规模（问题）
+mod Then → 整句 | 列举 | 再者
+mod of the typical housing project → the scale | 介词短语作定语 | 典型住房项目的规模
+
+# 2014-4|4:0
+type 主从复合句｜indications 后接 that 同位语从句
+chunks There are some indications〔主〕 that it is preparing to do just that.〔C1〕
+main 谓语:There are | 主语:some indications
+gist 有一些迹象
+C1 同位语从句 | 说明 indications 的内容 | that | that 前是抽象名词 indications，that 后 it is preparing … 是完整句子、that 不作成分 → 同位语从句（若 that 在从句里缺成分才是定语从句） | 主语:it | 谓语:is preparing | 宾语:to do just that
+mod just that → do | 指代 | 最后一个 that 是代词，指上文政府要做的事
+
+# 2014-4|5:0
+type 主从复合句｜which 非限制性定语从句
+chunks Ministers should also look at creating greater certainty in the rental environment,〔主〕 which would have a significant impact on the ability of registered providers〔C1〕 to fund new developments from revenues.〔C1修〕
+main 主语:Ministers | 谓语:should … look at | 宾语:creating greater certainty
+gist 大臣们也该考虑增加确定性
+C1 非限制性定语从句 | 修饰前面“增加租赁市场确定性”这件事 | which | 逗号 + which，后面 would have 缺主语 → which 作主语，指前面整件事 | 主语:which | 谓语:would have | 宾语:a significant impact
+mod in the rental environment → certainty | 地点 | 租赁环境中的确定性
+mod on the ability of registered providers → impact | 介词短语作定语 | 对注册供应商能力的影响
+mod to fund new developments from revenues → the ability | 不定式作定语 | 用收入资助新开发项目的能力
+
+# 2014-4|6:1
+type 主从复合句｜While 让步从句；the fact 后 that 同位语从句，里面主语带 to fund 和 set to expire
+chunks While these measures would be welcome in the short term,〔C1〕 we must face up to the fact〔主〕 that the existing £4.5bn programme of grants to fund new affordable housing,〔C2〕 set to expire in 2015,〔C2修〕 is unlikely to be extended beyond then.〔C2〕
+main 主语:we | 谓语:must face up to | 宾语:the fact
+gist 我们必须正视（一个事实）
+C1 让步状语从句 | 修饰主句：虽然…… | While | While 在句首，后面主句转向“必须正视”→ 让步，不是时间 | 主语:these measures | 谓语:would be | 表语:welcome
+C2 同位语从句 | 说明 the fact 的内容 | that | that 前是 the fact，that 后完整句子且 that 不作成分 → 同位语从句；从句主语很长，一直到 is unlikely 才见谓语 | 主语:the existing £4.5bn programme | 谓语:is | 表语:unlikely to be extended
+mod in the short term → would be welcome | 时间 | 短期内
+mod of grants → programme | 介词短语作定语 | 拨款项目
+mod to fund new affordable housing → grants | 不定式作定语 | 用于资助新经济适用房的拨款
+mod set to expire in 2015 → programme | 过去分词作定语 | 定于 2015 年到期
+mod beyond then → extended | 时间 | 延续到那之后

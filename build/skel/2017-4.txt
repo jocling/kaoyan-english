@@ -1,0 +1,186 @@
+# 2017-4|0:0
+type 主从复合句｜省略句 Though often viewed … + 引语倒装 says
+chunks Though often viewed as a problem for western states,〔C1〕 the growing frequency of wildfires is a national concern〔主〕 because of its impact on federal tax dollars,〔修〕 says Professor Max Moritz, a specialist in fire ecology and management.〔修〕
+main 主语:the growing frequency | 谓语:is | 表语:a national concern
+gist 山火越来越频繁是全国性问题
+C1 让步状语从句（省略） | 修饰主句：虽然…… | Though | Though 后直接跟 often viewed，没有主语和 is → 省略了与主句相同的主语和 be：Though (it is) often viewed as … | 谓语:viewed as | 宾语:a problem
+mod for western states → a problem | 介词短语作定语 | 西部各州的问题
+mod of wildfires → frequency | 介词短语作定语 | 山火的频率
+mod because of its impact on federal tax dollars → is a national concern | 原因状语 | 因为它影响联邦税款
+mod says Professor Max Moritz → 整句 | 引语标注（倒装） | 正常语序是 Max Moritz says
+mod a specialist in fire ecology and management → Professor Max Moritz | 同位语 | 他是火灾生态与管理专家
+
+# 2017-4|1:0
+type 简单句｜破折号后补充比较
+chunks In 2015,〔修〕 the US Forest Service〔主〕 for the first time〔修〕 spent more than half of its $5.5 billion annual budget〔主〕 fighting fires〔修〕 - nearly double the percentage〔修〕 it spent on such efforts 20 years ago.〔C1〕
+main 主语:the US Forest Service | 谓语:spent | 宾语:more than half
+gist 林务局花掉了一半以上（预算）
+C1 定语从句 | 修饰 the percentage | （省略 that） | the percentage 后紧接 it spent …，spent 缺宾语 → 省略了关系词 that，定语从句 | 主语:it | 谓语:spent
+mod for the first time → spent | 时间 | 首次
+mod of its $5.5 billion annual budget → more than half | 介词短语作定语 | 55 亿年度预算中的一半以上
+mod fighting fires → spent | 现在分词 | spend money (in) doing：花钱做某事——花在灭火上
+mod nearly double the percentage → more than half | 同位／补充说明 | 破折号后：几乎是 20 年前比例的两倍
+mod on such efforts → spent | 对象 | 花在这类工作上
+
+# 2017-4|1:1
+type 主从复合句｜that 定语从句隔得很远，修饰 the agency's other work
+chunks In effect,〔修〕 fewer federal funds today are going towards the agency's other work〔主〕 - such as forest conservation, watershed and cultural resources management, and infrastructure upkeep -〔修〕 that affect the lives of all Americans.〔C1〕
+main 主语:fewer federal funds | 谓语:are going towards | 宾语:the agency's other work
+gist 流向其他工作的联邦资金变少了
+C1 定语从句 | 修饰 the agency's other work（被破折号插入隔开） | that | that 后 affect 缺主语 → 定语从句；往回找先行词要跳过破折号里的举例，挂在 other work 上 | 主语:that | 谓语:affect | 宾语:the lives
+mod In effect → 整句 | 评注 | 实际上
+mod today → are going | 时间 | 如今
+mod such as forest conservation, watershed and cultural resources management, and infrastructure upkeep → other work | 举例 | 比如森林保护、流域和文化资源管理、基础设施维护
+mod of all Americans → the lives | 介词短语作定语 | 所有美国人的生活
+
+# 2017-4|2:0
+type 主从复合句｜whether 表语从句
+chunks Another nationwide concern is〔主〕 whether public funds from other agencies are going into construction in fire-prone districts.〔C1〕
+main 主语:Another nationwide concern | 谓语:is | 表语:C1
+gist 另一个全国性担忧是（一个问题）——内容是从句①
+C1 表语从句 | 作 is 的表语 | whether | is 后面缺表语，whether 后是完整句子 → whether 引导表语从句，“是否……” | 主语:public funds | 谓语:are going into | 宾语:construction
+mod from other agencies → public funds | 介词短语作定语 | 来自其他机构的公共资金
+mod in fire-prone districts → construction | 地点 | 易发火灾地区的建设
+
+# 2017-4|2:1
+type 主从复合句｜As 方式状语从句 + 特殊疑问句，问句里套 that 定语从句
+chunks As Moritz puts it,〔C1〕 how often are federal dollars building homes〔主〕 that are likely to be lost to a wildfire?〔C2〕
+main 谓语:are … building | 主语:federal dollars | 宾语:homes
+gist 联邦资金多常被用来建房子？（how often 提问）
+C1 方式状语从句 | 修饰整句 | As | As sb puts it＝正如某人所说；后接完整句子 → 方式状语从句 | 主语:Moritz | 谓语:puts | 宾语:it
+C2 定语从句 | 修饰 homes | that | that 后 are 缺主语 → 定语从句 | 主语:that | 谓语:are | 表语:likely to be lost
+mod how often → are … building | 疑问状语 | 多久一次——问的是频率
+mod to a wildfire → be lost | 原因 | 被山火毁掉
+
+# 2017-4|3:0
+type 简单句｜引语 + he says
+chunks "It's already a huge problem〔主〕 from a public expenditure perspective〔修〕 for the whole country,"〔修〕 he says.〔修〕
+main 主语＋谓语:"It's | 表语:a huge problem
+gist 这已经是个大问题
+mod from a public expenditure perspective → a huge problem | 角度 | 从公共开支的角度看
+mod for the whole country → a huge problem | 对象 | 对整个国家而言
+mod he says → 整句 | 引语标注 | 他说
+
+# 2017-4|3:1
+type 简单句
+chunks "We need to take a magnifying glass〔主〕 to that.〔修〕
+main 主语:"We | 谓语:need to take | 宾语:a magnifying glass
+gist 我们需要拿放大镜（仔细审视）
+mod to that → take a magnifying glass | 对象 | take a magnifying glass to sth：仔细审视某事
+
+# 2017-4|3:2
+type 口语片段｜Like 引出心里的话
+chunks Like, 'Wait a minute,〔修〕 is this OK?'〔主〕
+main 谓语:is | 主语:this | 表语:OK
+gist 这样可以吗？
+mod Like → 整句 | 口语 | 好比说……
+mod 'Wait a minute → 整句 | 插入 | 等一下
+
+# 2017-4|3:3
+type 简单句｜一般疑问句，to do 表目的
+chunks Do we want instead to redirect those funds〔主〕 to concentrate on lower-hazard parts of the landscape?"〔修〕
+main 助动词:Do | 主语:we | 谓语:want | 宾语:to redirect those funds
+gist 我们要不要把这些钱转投别处？
+mod instead → want | 替代 | 转而
+mod to concentrate on lower-hazard parts of the landscape → redirect | 不定式作目的状语 | 转投的目的：集中到风险较低的区域
+
+# 2017-4|4:0
+type 简单句｜in the way 后省略 that 的定语从句 + researchers say
+chunks Such a view would require a corresponding shift〔主〕 in the way〔修〕 US society today views fire,〔C1〕 researchers say.〔修〕
+main 主语:Such a view | 谓语:would require | 宾语:a corresponding shift
+gist 这种看法需要相应的转变
+C1 定语从句 | 修饰 the way | （省略 that/in which） | the way 后紧跟 US society … views，是完整句子却不能独立 → 省略了 that／in which 的定语从句：社会看待火的方式 | 主语:US society | 谓语:views | 宾语:fire
+mod in the way → shift | 介词短语作定语 | 在方式上的转变
+mod today → views | 时间 | 如今
+mod researchers say → 整句 | 插入的说话人 | 研究者们说
+
+# 2017-4|5:0
+type 简单句
+chunks For one thing,〔修〕 conversations about wildfires need to be more inclusive.〔主〕
+main 主语:conversations | 谓语:need to be | 表语:more inclusive
+gist 讨论需要更全面
+mod For one thing → 整句 | 列举 | 首先
+mod about wildfires → conversations | 介词短语作定语 | 关于山火的讨论
+
+# 2017-4|5:1
+type 主从复合句｜破折号后 how 从句解释 climate change
+chunks Over the past decade,〔修〕 the focus has been on climate change〔主〕 - how the warming of the Earth from greenhouse gases is leading to conditions〔C1〕 that worsen fires.〔C2〕
+main 主语:the focus | 谓语:has been | 表语:on climate change
+gist 焦点一直在气候变化上
+C1 同位语从句（名词性） | 解释 climate change 关注的具体内容 | how | 破折号后 how 引出完整句子，补充说明“关注气候变化”关注的是什么 → 作 climate change 的同位成分 | 主语:the warming | 谓语:is leading to | 宾语:conditions
+C2 定语从句 in C1 | 修饰 conditions | that | that 后 worsen 缺主语 → 定语从句 | 主语:that | 谓语:worsen | 宾语:fires
+mod Over the past decade → has been | 时间 | 过去十年
+mod of the Earth → the warming | 介词短语作定语 | 地球的变暖
+mod from greenhouse gases → the warming | 原因 | 由温室气体造成的
+
+# 2017-4|6:0
+type 主从复合句｜While 让步从句 + Moritz says 插入
+chunks While climate is a key element,〔C1〕 Moritz says,〔修〕 it shouldn't come at the expense of the rest of the equation.〔主〕
+main 主语:it | 谓语:shouldn't come
+gist 它不应该（以牺牲其他因素为代价）
+C1 让步状语从句 | 修饰主句：虽然…… | While | While 在句首、后面主句表示“但不应该” → 让步（虽然），不是时间 | 主语:climate | 谓语:is | 表语:a key element
+mod Moritz says → 整句 | 插入的说话人 | 莫里茨说
+mod at the expense of the rest of the equation → come | 方式 | 以牺牲其他因素为代价（equation 比喻整个问题）
+
+# 2017-4|7:0
+type 并列句｜and 连接两个分句，里面有省略关系词的定语从句
+chunks "The human systems and the landscapes〔主〕 we live on〔C1〕 are linked,〔主〕 and〔连〕 the interactions go both ways,"〔主〕 he says.〔修〕
+main 主语:"The human systems and the landscapes | 谓语:are linked || &and || 主语:the interactions | 谓语:go | 状语:both ways
+gist 人类系统和地貌相互关联，相互作用是双向的
+C1 定语从句 | 修饰 the landscapes | （省略 that） | the landscapes 后紧跟 we live on，on 后缺宾语 → 省略关系词的定语从句 | 主语:we | 谓语:live on
+mod he says → 整句 | 引语标注 | 他说
+
+# 2017-4|7:1
+type 主从复合句｜动名词作主语，of 后接 what 宾语从句
+chunks Failing to recognize that,〔主〕 he notes,〔修〕 leads to "an overly simplified view〔主〕 of〔修〕 what the solutions might be.〔C1〕
+main 主语:Failing to recognize that | 谓语:leads to | 宾语:an overly simplified view
+gist 没认识到这点，会导致过于简单的看法
+C1 宾语从句（作介词宾语） | 作 of 的宾语 | what | 介词 of 后接从句；what 在从句里作表语（the solutions might be what）→ 名词性从句 | 主语:the solutions | 谓语:might be | 表语:what
+mod he notes → 整句 | 插入的说话人 | 他指出
+mod that → recognize | 指代 | that 指上一句：人与地貌相互关联
+
+# 2017-4|7:2
+type 简单句｜主语带两个并列的 of 短语，第二个 of 后接 what 从句
+chunks Our perception〔主〕 of the problem and of〔修〕 what the solution is〔C1〕 becomes very limited."〔主〕
+main 主语:Our perception | 谓语:becomes | 表语:very limited
+gist 我们的认识变得非常局限
+C1 宾语从句（作介词宾语） | 作第二个 of 的宾语 | what | of 后接从句，what 在从句里作表语 → 名词性从句 | 主语:the solution | 谓语:is | 表语:what
+mod of the problem and of → Our perception | 介词短语作定语 | 对问题以及对解决办法的认识；谓语 becomes 跟着 perception 用单数
+
+# 2017-4|8:0
+type 主从复合句｜that 定语从句里两个并列的被动
+chunks At the same time,〔修〕 people continue to treat fire as an event〔主〕 that needs to be wholly controlled and unleashed only out of necessity,〔C1〕 says Professor Balch at the University of Colorado.〔修〕
+main 主语:people | 谓语:continue to treat | 宾语:fire | 宾补:as an event
+gist 人们依然把火当作一种事件
+C1 定语从句 | 修饰 an event | that | that 后 needs 缺主语 → 定语从句；里面 be controlled and (be) unleashed 两个被动并列 | 主语:that | 谓语:needs to be … controlled and unleashed
+mod wholly → controlled | 程度 | 完全
+mod only out of necessity → unleashed | 原因 | 只有迫不得已时才放
+mod says Professor Balch at the University of Colorado → 整句 | 引语标注（倒装） | 科罗拉多大学的鲍尔奇教授说
+
+# 2017-4|8:1
+type 主从复合句｜动名词作主语，attitude 后形容词短语后置，that 定语从句
+chunks But〔修〕 acknowledging fire's inevitable presence in human life is an attitude〔主〕 crucial to developing the laws, policies, and practices〔修〕 that make it as safe as possible,〔C1〕 she says.〔修〕
+main 主语:acknowledging fire's inevitable presence | 谓语:is | 表语:an attitude
+gist 承认火不可避免地存在，是一种态度
+C1 定语从句 | 修饰 the laws, policies, and practices | that | that 后 make 缺主语 → 定语从句 | 主语:that | 谓语:make | 宾语:it | 宾补:as safe as possible
+mod in human life → presence | 地点 | 在人类生活中的存在
+mod crucial to developing the laws, policies, and practices → an attitude | 形容词短语后置作定语 | 对制定法律、政策和做法至关重要的（态度）
+mod she says → 整句 | 引语标注 | 她说
+
+# 2017-4|9:0
+type 简单句
+chunks "We've disconnected ourselves〔主〕 from living with fire,"〔修〕 Balch says.〔修〕
+main 主语＋谓语:"We've disconnected | 宾语:ourselves
+gist 我们把自己隔开了
+mod from living with fire → disconnected | 介词短语 | disconnect oneself from：和……断开；与火共存
+mod Balch says → 整句 | 引语标注 | 鲍尔奇说
+
+# 2017-4|9:1
+type 主从复合句｜it 形式主语 + 不定式，what 宾语从句
+chunks "It is really important to understand and try and tease out〔主〕 what is the human connection with fire today."〔C1〕
+main 形式主语:"It | 谓语:is | 表语:important | 真正主语:to understand and try and tease out
+gist 理解并梳理清楚（一件事）很重要
+C1 宾语从句 | 作 understand / tease out 的宾语 | what | tease out 后缺宾语，what 引出问句式内容（口语里保留了 is 在前的问句语序）→ 宾语从句 | 表语:what | 谓语:is | 主语:the human connection
+mod really → important | 程度 | 真的
+mod with fire → the human connection | 介词短语作定语 | 人与火的联系
+mod today → connection | 时间 | 如今

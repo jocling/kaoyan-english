@@ -1,0 +1,214 @@
+# 2017-1|0:0
+type 简单句｜时间状语前置＋不定式表目的
+chunks Every Saturday morning,〔修〕 at 9 am,〔修〕 more than 50,000 runners set off〔主〕 to run 5km around their local park.〔修〕
+main 主语:more than 50,000 runners | 谓语:set off
+gist 五万多名跑者出发了
+mod Every Saturday morning → set off | 时间状语 | 每周六上午
+mod at 9 am → set off | 时间状语 | 具体到九点，和前一个时间状语是同位关系
+mod to run 5km around their local park → set off | 不定式作目的状语 | 出发去干什么：在本地公园跑 5 公里
+mod around their local park → run | 地点状语 | 绕着自己附近的公园
+
+# 2017-1|0:1
+type 简单句｜一个主语带 and 连接的两个谓语
+chunks The Parkrun phenomenon began with a dozen friends〔主〕 and〔连〕 has inspired 400 events in the UK and more abroad.〔主〕
+main 主语:The Parkrun phenomenon | 谓语:began || &and || 谓语:has inspired | 宾语:400 events … more
+gist 公园跑现象起步于十几个人，如今已带动了英国 400 场活动、海外更多场（more 后省略了 events）
+mod with a dozen friends → began | 方式状语 | 起步时只有十来个朋友
+mod in the UK → 400 events | 地点状语 | 英国境内 400 场
+mod and more abroad → 400 events | 并列宾语 | 宾语其实是两个并列的：[400 events in the UK] and [more (events) abroad]。more 是代词，等于 more events，和 400 events 一起作 has inspired 的宾语；abroad 修饰 more
+
+# 2017-1|0:2
+type 简单句｜过去分词短语作补充说明
+chunks Events are free,〔主〕 staffed by thousands of volunteers.〔修〕
+main 主语:Events | 谓语:are | 表语:free
+gist 活动是免费的
+mod staffed by thousands of volunteers → Events | 过去分词作补充说明 | 被动关系：活动由数千名志愿者来运营（staff 作动词＝配备人员）
+
+# 2017-1|0:3
+type 并列句｜分号连接两个 range from … to … 句子
+chunks Runners range from four years old to grandparents;〔主〕 their times range from Andrew Baddeley's world record 13 minutes 48 seconds up to an hour.〔主〕
+main 主语:Runners | 谓语:range || 主语:their times | 谓语:range
+gist 跑者年龄跨度很大；成绩跨度也很大
+mod from four years old to grandparents → range | 范围 | range from A to B：从 A 到 B 不等
+mod from Andrew Baddeley's world record … up to an hour → range | 范围 | 从世界纪录 13 分 48 秒到一小时不等
+mod 13 minutes 48 seconds → world record | 同位语 | 说明世界纪录具体是多少
+
+# 2017-1|1:0
+type 主从复合句｜where 引导的状语从句（在……方面）
+chunks Parkrun is succeeding〔主〕 where London's Olympic "legacy" is failing.〔C1〕
+main 主语:Parkrun | 谓语:is succeeding
+gist 公园跑正在成功
+C1 地点（范围）状语从句 | 修饰 is succeeding：在哪方面成功 | where | where 前面 is succeeding 已经是完整句子，不缺成分；where 后也是完整句子 → 不是定语从句（前面没有表地点的名词），是状语从句，“在……失败的地方／方面” | 主语:London's Olympic "legacy" | 谓语:is failing
+
+# 2017-1|1:1
+type 主从复合句｜it 作形式主语，that 从句是真正主语
+chunks Ten years ago on Monday,〔修〕 it was announced〔主〕 that the Games of the 30th Olympiad would be in London.〔C1〕
+main 形式主语:it | 谓语:was announced | 真正主语:C1
+gist 宣布了（一件事）——宣布的内容就是从句①
+C1 主语从句 | 真正的主语（it 只是占位） | that | it was announced 的 it 没有实际所指，后面 that 引出完整句子 → it 是形式主语，that 从句才是“被宣布的事” | 主语:the Games | 谓语:would be | 表语:in London
+mod Ten years ago on Monday → was announced | 时间状语 | 十年前的（这个）周一
+mod of the 30th Olympiad → the Games | 介词短语作定语 | 第 30 届奥运会
+
+# 2017-1|1:2
+type 主从复合句｜that 宾语从句，从句里 be to do 作表语
+chunks Planning documents pledged〔主〕 that the great legacy of the Games would be to lever a nation of sport lovers away from their couches.〔C1〕
+main 主语:Planning documents | 谓语:pledged | 宾语:C1
+gist 规划文件承诺了（一件事）——承诺的内容是从句①
+C1 宾语从句 | 作 pledged 的宾语 | that | pledged（承诺）后缺宾语，that 后面 the great legacy … would be 是完整句子，that 本身不作成分 → 宾语从句 | 主语:the great legacy | 谓语:would be | 表语:to lever a nation … away from their couches
+mod of the Games → legacy | 介词短语作定语 | 奥运会的（遗产）
+mod of sport lovers → a nation | 介词短语作定语 | 一国的体育爱好者
+mod away from their couches → lever | 方向状语 | lever A away from B：把 A 从 B 上撬开
+
+# 2017-1|1:3
+type 简单句｜共用主语 the population，and 连接两个谓语
+chunks The population would be fitter, healthier〔主〕 and〔连〕 produce more winners.〔主〕
+main 主语:The population | 谓语:would be | 表语:fitter, healthier || &and || 谓语:produce | 宾语:more winners
+gist 民众会更健壮、更健康，还会出更多冠军
+mod more → winners | 定语 | 更多的（获胜者）
+
+# 2017-1|1:4
+type 简单句
+chunks It has not happened.〔主〕
+main 主语:It | 谓语:has not happened
+gist 这（个遗产承诺）没有实现
+mod It → 整句 | 指代 | It 指上文承诺的奥运遗产：让全民动起来
+
+# 2017-1|1:5
+type 并列句｜but 连接两个分句，前句带 by 表幅度
+chunks The number of adults doing weekly sport did rise,〔主〕 by nearly 2 million in the run-up to 2012〔修〕 - but〔连〕 the general population was growing faster.〔主〕
+main 主语:The number | 谓语:did rise || &but || 主语:the general population | 谓语:was growing
+gist 人数确实增加了，但总人口增长得更快
+mod of adults → The number | 介词短语作定语 | 成年人的数量
+mod doing weekly sport → adults | 现在分词作定语 | 每周做运动的（成年人）。doing 不是谓语：它是 -ing 分词，前面没有 be，本身不带时态，只能当修饰语贴在 adults 后面；这句真正带时态的谓语是 did rise（did 表示过去时并加强语气）
+mod by nearly 2 million → did rise | 幅度状语 | by 表示增加的幅度：增加了近 200 万
+mod in the run-up to 2012 → did rise | 时间状语 | 在 2012 年之前的筹备期
+mod faster → was growing | 比较状语 | 比参加运动的人数增长得更快（比较对象省略）
+
+# 2017-1|1:6
+type 简单句｜Worse 作句首评注
+chunks Worse,〔修〕 the numbers are now falling at an accelerating rate.〔主〕
+main 主语:the numbers | 谓语:are … falling
+gist 人数正在下降
+mod Worse → 整句 | 评注性状语 | 更糟的是（作者的评价）
+mod now → are … falling | 时间状语 | 如今
+mod at an accelerating rate → falling | 方式状语 | 以越来越快的速度
+
+# 2017-1|1:7
+type 主从复合句｜claims 后省略 that 的宾语从句
+chunks The opposition claims〔主〕 primary school pupils doing at least two hours of sport a week have nearly halved.〔C1〕
+main 主语:The opposition | 谓语:claims | 宾语:C1
+gist 反对党声称（一件事）——内容是从句①
+C1 宾语从句 | 作 claims 的宾语 | （省略 that） | claims 后缺宾语，后面一路读到 have nearly halved 才出现谓语，说明这是一个完整句子 → claims 后省略了 that | 主语:primary school pupils | 谓语:have … halved
+mod doing at least two hours of sport a week → primary school pupils | 现在分词作定语 | 每周至少运动两小时的（小学生）；doing 不是谓语
+mod nearly → halved | 程度状语 | 几乎减半
+
+# 2017-1|1:8
+type 简单句
+chunks Obesity has risen〔主〕 among adults and children.〔修〕
+main 主语:Obesity | 谓语:has risen
+gist 肥胖率上升了
+mod among adults and children → has risen | 范围状语 | 在成人和儿童中
+
+# 2017-1|1:9
+type 主从复合句｜why 从句作介词 as to 的宾语
+chunks Official retrospections continue〔主〕 as to〔修〕 why London 2012 failed to "inspire a generation."〔C1〕
+main 主语:Official retrospections | 谓语:continue
+gist 官方的反思一直在进行
+C1 宾语从句（作介词宾语） | 作 as to 的宾语：反思的话题 | why | as to 是介词（关于），后面要接宾语；why 后是完整句子 → why 引导名词性从句，作 as to 的宾语 | 主语:London 2012 | 谓语:failed | 宾语:to "inspire a generation."
+mod as to → continue | 介词 | as to ＝ 关于；as to why … ＝ 关于为什么……
+
+# 2017-1|1:10
+type 简单句
+chunks The success of Parkrun offers answers.〔主〕
+main 主语:The success | 谓语:offers | 宾语:answers
+gist 成功给出了答案
+mod of Parkrun → The success | 介词短语作定语 | 公园跑的成功
+
+# 2017-1|2:0
+type 并列句｜冒号后的句子解释前句
+chunks Parkun is not a race but a time trial:〔主〕 Your only competitor is the clock.〔主〕
+main 主语:Parkun | 谓语:is not | 表语:a race but a time trial || 主语:Your only competitor | 谓语:is | 表语:the clock
+gist 公园跑不是比赛而是计时跑：你唯一的对手是时钟
+mod not … but → 整句 | 并列结构 | not A but B：不是 A 而是 B，重点在 B
+
+# 2017-1|2:1
+type 简单句
+chunks The ethos welcomes anybody.〔主〕
+main 主语:The ethos | 谓语:welcomes | 宾语:anybody
+gist 这种精神欢迎任何人
+
+# 2017-1|2:2
+type 主从复合句｜as much … as 比较；两边都是 there is 句
+chunks There is as much joy over a puffed-out first-timer being clapped over the line〔主〕 as there is about top talent shining.〔C1〕
+main 主语:as much joy | 谓语:There is
+gist 有同样多的喜悦
+C1 比较状语从句 | 和前面 as much 搭配，说明“和……一样多” | as | 前面出现 as much，后面第二个 as 引出比较对象；as 后 there is 是句子 → 比较状语从句（后面省略了 joy） | 谓语:there is | 主语:about top talent shining
+mod over a puffed-out first-timer being clapped over the line → joy | 介词短语作定语 | 为谁高兴：一个气喘吁吁、被鼓掌迎过终点线的新手
+mod being clapped over the line → a puffed-out first-timer | 现在分词（被动）作定语 | 正被人鼓掌送过终点线
+mod shining → top talent | 现在分词作定语 | 大放异彩的顶尖选手
+
+# 2017-1|2:3
+type 简单句｜wanted 后接两个并列不定式
+chunks The Olympic bidders,〔主〕 by contrast,〔修〕 wanted to get more people doing sport and to produce more elite athletes.〔主〕
+main 主语:The Olympic bidders | 谓语:wanted | 宾语:to get more people doing sport and to produce more elite athletes
+gist 申奥者想要两件事：让更多人运动，并培养更多精英运动员
+mod by contrast → 整句 | 插入语 | 相比之下（和公园跑对比）
+mod doing sport → more people | 宾语补足语 | get sb doing：让某人做某事
+
+# 2017-1|2:4
+type 并列句｜冒号后解释为什么“搞混了”
+chunks The dual aim was mixed up:〔主〕 The stress on success over taking part was intimidating for newcomers.〔主〕
+main 主语:The dual aim | 谓语:was mixed up || 主语:The stress | 谓语:was | 表语:intimidating
+gist 双重目标被混在一起：重成功的导向吓退了新手
+mod on success over taking part → The stress | 介词短语作定语 | 重视成功胜过重视参与
+mod for newcomers → intimidating | 对象 | 对新手而言是吓人的
+
+# 2017-1|3:0
+type 简单句｜there be 句型，后面的长介词短语说明“荒谬在哪”
+chunks Indeed,〔修〕 there is something a little absurd〔主〕 in the state getting involved in the planning of such a fundamentally "grassroots" concept as community sports associations.〔修〕
+main 谓语:there is | 主语:something
+gist 有些荒谬之处
+mod a little absurd → something | 形容词后置作定语 | something 的修饰语要放在后面：有点荒谬的东西
+mod in the state getting involved in the planning → something a little absurd | 介词短语作状语 | 荒谬在哪：在于国家插手规划；the state 是 getting involved 的逻辑主语
+mod of such a fundamentally "grassroots" concept → the planning | 介词短语作定语 | 规划的对象：如此“草根”的概念
+mod as community sports associations → concept | such … as 结构 | 像社区体育协会这样的（概念）
+
+# 2017-1|3:1
+type 主从复合句｜if 条件从句＋主句；破折号后用两个 -ing 解释 common goods，里面再套省略 that 的宾语从句
+chunks If there is a role for government,〔C1〕 it should really be getting involved in providing common goods〔主〕 - making sure〔修〕 there is space for playing fields and the money to pave tennis and netball courts,〔C2〕 and encouraging the provision of all these activities in schools.〔修〕
+main 主语:it | 谓语:should … be getting involved
+gist 政府应当参与（提供公共产品）
+C1 条件状语从句 | 修饰主句：在什么条件下 | If | If 后是完整的 there be 句子，后面逗号接主句 → 条件状语从句 | 谓语:there is | 主语:a role
+C2 宾语从句 | 作 making sure 的宾语 | （省略 that） | make sure 后要接内容，there is … 是完整句子 → 省略 that 的宾语从句 | 谓语:there is | 主语:space … and the money
+mod for government → a role | 介词短语作定语 | 政府的角色
+mod in providing common goods → getting involved | 介词宾语 | 参与到提供公共产品中
+mod making sure … and encouraging the provision → providing common goods | 同位／解释说明 | 破折号后两个 -ing 具体说明“公共产品”指什么：确保有场地和资金，鼓励学校开展活动
+mod to pave tennis and netball courts → the money | 不定式作定语 | 用来铺网球场和无板篮球场的钱
+mod in schools → the provision of all these activities | 地点 | 在学校里提供这些活动
+
+# 2017-1|3:2
+type 简单句｜介词 over 后接三个并列的动名词
+chunks But〔修〕 successive governments have presided over〔主〕 selling green spaces, squeezing money from local authorities and declining attention on sport in education.〔修〕
+main 主语:successive governments | 谓语:have presided over | 宾语:selling … squeezing … declining attention
+gist 历届政府主导了三件坏事
+mod But → 整句 | 转折 | 和上一句“政府应该做的事”形成对比
+mod from local authorities → squeezing money | 来源 | 从地方政府那里挤压资金
+mod on sport in education → attention | 介词短语作定语 | 对教育中体育的关注（在减少）
+
+# 2017-1|3:3
+type 简单句｜need to do more to do
+chunks Instead of wordy, worthy strategies,〔修〕 future governments need to do more〔主〕 to provide the conditions for sport to thrive.〔修〕
+main 主语:future governments | 谓语:need to do | 宾语:more
+gist 未来的政府需要多做事
+mod Instead of wordy, worthy strategies → need to do more | 替代状语 | 与其搞冗长空洞、看着体面的战略
+mod to provide the conditions → do more | 不定式作目的状语 | 多做事是为了提供条件
+mod for sport to thrive → the conditions | 不定式复合结构作定语 | for sb/sth to do：让体育蓬勃发展的条件
+
+# 2017-1|3:4
+type 省略句｜承接上句，省略主语和 need to
+chunks Or〔修〕 at least not make them worse.〔主〕
+main 谓语:not make | 宾语:them | 宾补:worse
+gist （政府需要）至少别让条件变得更糟
+mod Or → 整句 | 承接上句 | 补全为：Or (future governments need to) at least not make them worse
+mod them → 整句 | 指代 | them 指上句的 the conditions
+mod at least → not make | 让步 | 至少

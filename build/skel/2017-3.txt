@@ -1,0 +1,164 @@
+# 2017-3|0:0
+type 简单句｜超长主语 + cause sb to do
+chunks Today,〔修〕 widespread social pressure to immediately go to college in conjunction with increasingly high expectations in a fast-moving world often causes students to completely overlook the possibility of taking a gap year.〔主〕
+main 主语:widespread social pressure | 谓语:causes | 宾语:students | 宾补:to completely overlook the possibility
+gist 社会压力导致学生忽视（间隔年的可能）
+mod Today → causes | 时间状语 | 如今
+mod to immediately go to college → pressure | 不定式作定语 | 什么压力：要立刻上大学的压力
+mod in conjunction with increasingly high expectations → pressure | 伴随（介词短语） | 再加上越来越高的期望；不是主语，谓语看 pressure 用单数 causes
+mod in a fast-moving world → expectations | 地点 | 在快节奏世界里的期望
+mod often → causes | 频度状语 | 常常
+mod of taking a gap year → the possibility | 介词短语作同位定语 | 什么可能：休间隔年的可能
+
+# 2017-3|0:1
+type 主从复合句｜if 条件从句 + it 形式主语 + 反义疑问
+chunks After all,〔修〕 if everyone you know is going to college in the fall,〔C1〕 it seems silly〔主〕 to stay back a year,〔主〕 doesn't it?〔修〕
+main 形式主语:it | 谓语:seems | 表语:silly | 真正主语:to stay back a year
+gist 晚一年（上学）显得很傻
+C1 条件状语从句 | 修饰主句 | if | if 后是完整句子，后面逗号接 it seems → 条件状语从句；从句主语 everyone 后面还带了省略关系词的定语 you know | 主语:everyone | 谓语:is going | 宾语:to college
+mod After all → 整句 | 评注 | 毕竟
+mod you know → everyone | 定语从句（省略 that） | 你认识的每个人
+mod in the fall → is going | 时间 | 秋天（开学季）
+mod doesn't it → 整句 | 反义疑问 | 不是吗？——作者其实在模拟别人的想法
+
+# 2017-3|0:2
+type 简单句｜it 形式主语 + that 定语从句
+chunks And〔修〕 after going to school for 12 years,〔修〕 it doesn't feel natural to spend a year doing something〔主〕 that isn't academic.〔C1〕
+main 形式主语:it | 谓语:doesn't feel | 表语:natural | 真正主语:to spend a year doing something
+gist 花一年做（非学术的）事感觉不自然
+C1 定语从句 | 修饰 something | that | that 前是 something，后面 isn't 缺主语 → that 作主语，定语从句 | 主语:that | 谓语:isn't | 表语:academic
+mod after going to school for 12 years → doesn't feel | 时间状语 | 上了 12 年学之后
+
+# 2017-3|1:0
+type 主从复合句｜while 让步状语从句
+chunks But〔修〕 while this may be true,〔C1〕 it's not a good enough reason〔主〕 to condemn gap years.〔修〕
+main 主语＋谓语:it's not | 表语:a good enough reason
+gist 这不是足够好的理由
+C1 让步状语从句 | 修饰主句：虽然…… | while | while 放句首、后接 may be true，再逗号接主句表示转折 → 这里 while＝虽然（让步），不是“当……时” | 主语:this | 谓语:may be | 表语:true
+mod to condemn gap years → reason | 不定式作定语 | 否定间隔年的理由
+
+# 2017-3|1:1
+type 简单句｜there be + 长定语；whether 让步从句插在后面
+chunks There's always a constant fear〔主〕 of falling behind everyone else on the socially perpetuated "race to the finish line,"〔修〕 whether that be toward graduate school, medical school or a lucrative career.〔C1〕
+main 谓语＋主语:There's … a constant fear
+gist 总有一种害怕
+C1 让步状语从句 | 补充说明“终点线”可能是什么 | whether | whether A or B 后接句子，be 用原形（虚拟语气）→ 让步状语从句：“无论是……还是……” | 主语:that | 谓语:be
+mod of falling behind everyone else → fear | 介词短语作定语（内容） | 怕落后于别人
+mod on the socially perpetuated "race to the finish line," → falling behind | 地点 | 在社会不断延续的“冲向终点的赛跑”中
+mod toward graduate school, medical school or a lucrative career → be | 方向 | 指向研究生院、医学院或高薪职业
+
+# 2017-3|1:2
+type 简单句｜破折号后补一句更强的判断
+chunks But〔修〕 despite common misconceptions,〔修〕 a gap year does not hinder the success of academic pursuits〔主〕 - in fact,〔修〕 it probably enhances it.〔主〕
+main 主语:a gap year | 谓语:does not hinder | 宾语:the success || 主语:it | 谓语:enhances | 宾语:it
+gist 间隔年不妨碍学业成功——反而可能促进
+mod despite common misconceptions → does not hinder | 让步状语 | 尽管大家普遍误解
+mod of academic pursuits → the success | 介词短语作定语 | 学业追求的成功
+mod in fact → 整句 | 递进 | 事实上
+mod probably → enhances | 情态 | 很可能
+
+# 2017-3|2:0
+type 主从复合句｜省略 that 的宾语从句，里面套 who 定语从句和 than 比较从句
+chunks Studies from the United States and Australia show〔主〕 that students〔C1〕 who take a gap year〔C2〕 are generally better prepared for and perform better in college〔C1〕 than those〔C3〕 who do not.〔C4〕
+main 主语:Studies | 谓语:show | 宾语:C1
+gist 研究表明（一件事）——内容是从句①
+C1 宾语从句 | 作 show 的宾语 | that | show 后缺宾语，that 后 students … are … and perform 是完整句子 → 宾语从句；主语 students 被定语从句隔开 | 主语:students | 谓语:are … prepared for … and perform
+C2 定语从句 in C1 | 修饰 students | who | who 前是名词 students，后面 take 缺主语 → who 作主语 | 主语:who | 谓语:take | 宾语:a gap year
+C3 比较状语从句 in C1 | 和 better 构成比较：比谁更好 | than | 前面有比较级 better，than 后引出比较对象（省略了 are prepared / perform）| 主语:those
+C4 定语从句 in C3 | 修饰 those | who | those who＝那些……的人；who 后 do not 缺主语 | 主语:who | 谓语:do not
+mod from the United States and Australia → Studies | 介词短语作定语 | 来自美国和澳大利亚的研究
+mod generally → better prepared | 程度 | 总体上
+mod in college → perform better | 地点 | 在大学的表现
+
+# 2017-3|2:1
+type 简单句｜Rather than 对比 + by doing 方式
+chunks Rather than pulling students back,〔修〕 a gap year pushes them ahead〔主〕 by preparing them for independence, new responsibilities and environmental changes〔修〕
+main 主语:a gap year | 谓语:pushes | 宾语:them | 宾补:ahead
+gist 间隔年推动他们向前
+mod Rather than pulling students back → pushes them ahead | 对比状语 | 不是拖后腿，而是……
+mod by preparing them for independence, new responsibilities and environmental changes → pushes | 方式状语 | 怎么推动：让他们为独立、新责任、环境变化做好准备
+
+# 2017-3|3:0
+type 名词短语｜接上句末尾的同位语，带省略 that 的定语从句
+chunks -〔修〕 all things〔主〕 that first-year students often struggle with the most.〔C1〕
+main 主语:all things
+gist （上面三样）都是新生最头疼的事
+C1 定语从句 | 修饰 all things | （省略 that） | all things 后紧跟 first-year students … struggle with，with 缺宾语 → 省略了关系词 that，定语从句 | 主语:first-year students | 谓语:struggle with
+mod - → 整句 | 破折号 | 这半句是上一句 independence, new responsibilities and environmental changes 的同位语，被分到了新段落
+mod the most → struggle with | 程度 | 最
+
+# 2017-3|3:1
+type 简单句｜when it comes to 引出话题；现在分词表结果
+chunks Gap year experiences can lessen the blow〔主〕 when it comes to adjusting to college and being thrown into a brand new environment,〔C1〕 making it easier to focus on academics and activities rather than acclimation blunders.〔修〕
+main 主语:Gap year experiences | 谓语:can lessen | 宾语:the blow
+gist 间隔年经历能减轻冲击
+C1 时间状语从句（固定句型） | 修饰 can lessen：在……方面 | when | when it comes to doing＝说到／在……方面，it 无实义，to 是介词后接 -ing | 主语:it | 谓语:comes to | 宾语:adjusting … and being thrown
+mod making it easier to focus on academics and activities → 整句 | 现在分词作结果状语 | 从而让人更容易专注于学业和活动（make it easier to do：it 是形式宾语）
+mod rather than acclimation blunders → focus on | 对比 | 而不是（忙着处理）适应中的失误
+
+# 2017-3|4:0
+type 主从复合句｜if 条件从句 + 祈使句
+chunks If you're not convinced of the inherent value in taking a year off〔C1〕 to explore interests,〔C1修〕 then consider its financial impact on future academic choices.〔主〕
+main 谓语:consider | 宾语:its financial impact
+gist （那就）考虑一下它的经济影响（祈使句，省略主语 you）
+C1 条件状语从句 | 修饰主句 | If | If 后是完整句子，后面 then + 动词原形 → 条件从句 + 祈使句 | 主语＋谓语:you're not convinced of | 宾语:the inherent value
+mod in taking a year off → the inherent value | 介词短语作定语 | 休一年的内在价值
+mod to explore interests → taking a year off | 不定式作目的状语 | 休一年去探索兴趣
+mod on future academic choices → impact | 介词短语作定语 | 对未来学业选择的影响
+
+# 2017-3|4:1
+type 简单句
+chunks According to the National Center for Education Statistics,〔修〕 nearly 80 percent of college students end up changing their majors〔主〕 at least once.〔修〕
+main 主语:nearly 80 percent | 谓语:end up changing | 宾语:their majors
+gist 近八成学生最终换了专业
+mod According to the National Center for Education Statistics → 整句 | 来源 | 据国家教育统计中心
+mod of college students → 80 percent | 介词短语作定语 | 大学生中的 80%
+mod at least once → changing | 频度 | 至少一次
+
+# 2017-3|4:2
+type 主从复合句｜considering 后省略 that 的宾语从句，里面再套 that 定语从句
+chunks This isn't surprising,〔主〕 considering〔修〕 the basic mandatory high school curriculum leaves students with a poor understanding of the vast academic possibilities〔C1〕 that await them in college.〔C2〕
+main 主语:This | 谓语:isn't | 表语:surprising
+gist 这并不奇怪
+C1 宾语从句 | 作 considering 的宾语 | （省略 that） | considering 在这里是介词／连词“考虑到”，后面接完整句子 curriculum leaves … → 省略 that 的宾语从句 | 主语:curriculum | 谓语:leaves | 宾语:students
+C2 定语从句 in C1 | 修饰 the vast academic possibilities | that | that 后 await 缺主语 → that 作主语，定语从句 | 主语:that | 谓语:await | 宾语:them
+mod considering → 整句 | 原因 | 考虑到……（独立成分，不是现在分词作伴随）
+mod with a poor understanding → leaves | 方式 | leave sb with sth：让某人只有……（了解很少）
+mod of the vast academic possibilities → understanding | 介词短语作定语 | 对广阔学术可能的了解
+mod in college → await | 地点 | 在大学里
+
+# 2017-3|4:3
+type 简单句｜find oneself doing，后面 but 接第二个 -ing
+chunks Many students find themselves listing one major on their college applications,〔主〕 but switching to another〔主〕 after taking college classes.〔修〕
+main 主语:Many students | 谓语:find | 宾语:themselves | 宾补:listing one major … but switching to another
+gist 很多学生发现自己（填了一个专业却换了另一个）
+mod on their college applications → listing | 地点 | 在申请表上
+mod after taking college classes → switching | 时间 | 上了大学课之后
+
+# 2017-3|4:4
+type 并列句｜but 连接；后句 it 形式主语 + to do
+chunks It's not necessarily a bad thing,〔主〕 but〔连〕 depending on the school,〔修〕 it can be costly to make up credits〔主〕 after switching too late in the game.〔修〕
+main 主语＋谓语:It's not | 表语:a bad thing || &but || 形式主语:it | 谓语:can be | 表语:costly | 真正主语:to make up credits
+gist 这不一定是坏事，但补学分可能很贵
+mod necessarily → not | 部分否定 | not necessarily：不一定
+mod depending on the school → can be costly | 条件 | 视学校而定
+mod after switching too late in the game → to make up credits | 时间 | 换得太晚之后（in the game：在这个过程里）
+
+# 2017-3|4:5
+type 主从复合句｜省略 if 的虚拟条件句（were 倒装）
+chunks At Boston College,〔修〕 for example,〔修〕 you would have to complete an extra year〔主〕 were you to switch to the nursing school from another department.〔C1〕
+main 主语:you | 谓语:would have to complete | 宾语:an extra year
+gist 你得多读一年
+C1 条件状语从句（倒装） | 修饰主句：在什么条件下 | were（倒装） | 主句是 would have to（虚拟）；后面 were you to … 主语在 were 后面 → 这是省略 if 的倒装，等于 if you were to switch … | 谓语:were … to switch | 主语:you
+mod At Boston College → would have to complete | 地点 | 在波士顿学院
+mod for example → 整句 | 插入语 | 例如
+mod to the nursing school from another department → switch | 方向 | 从别的院系转到护理学院
+
+# 2017-3|4:6
+type 简单句｜动名词短语作主语
+chunks Taking a gap year to figure things out initially〔主〕 can help prevent stress and save money〔主〕 later on.〔修〕
+main 主语:Taking a gap year | 谓语:can help | 宾语:prevent stress and save money
+gist 休间隔年能帮助避免压力、节省钱
+mod to figure things out initially → Taking a gap year | 不定式作目的状语 | 一开始先把事情想清楚
+mod later on → prevent stress and save money | 时间 | 以后
+

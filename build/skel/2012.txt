@@ -1,0 +1,189 @@
+# 2012-1|0:0
+type 并列句｜but 连接两个完整分句
+chunks Homework has never been terribly popular with students and even many parents,〔主〕 but〔连〕 in recent years〔修〕 it has been particularly scorned.〔主〕
+main 主语:Homework | 谓语:has never been | 表语:popular || &but || 主语:it | 谓语:has been … scorned
+gist 作业从来不受欢迎，但近年来尤其遭鄙视
+mod terribly → popular | 程度状语 | never terribly popular：从来不怎么受欢迎
+mod with students and even many parents → popular | 介词短语作补足 | 不受谁欢迎：学生，甚至很多家长
+mod in recent years → has been … scorned | 时间状语 | 近几年
+mod particularly → scorned | 程度状语 | 尤其（被鄙视）
+
+# 2012-1|0:1
+type 简单句｜主语后插入同位语
+chunks School districts across the country,〔主〕 most recently Los Angeles Unified,〔修〕 are revising their thinking on this educational ritual.〔主〕
+main 主语:School districts | 谓语:are revising | 宾语:their thinking
+gist 各学区正在重新考虑（作业）
+mod across the country → School districts | 介词短语作定语 | 全国各地的学区
+mod most recently Los Angeles Unified → School districts | 同位语（举例） | 最近的一个是洛杉矶联合学区；插在主语和谓语之间，读时先跳过
+mod on this educational ritual → their thinking | 介词短语作定语 | 对作业这一“教育仪式”的看法
+
+# 2012-2|0:1
+type 并列句｜It is not that … but …；后一部分 and 连接，里面插入 though 让步从句
+chunks It is not〔主〕 that pink is intrinsically bad,〔C1〕 but〔连〕 it is such a tiny slice of the rainbow〔主〕 and,〔连〕 though it may celebrate girlhood in one way,〔C2〕 it also repeatedly and firmly fuses girls' identity to appearance.〔主〕
+main 主语:It | 谓语:is not | 表语:C1 || &but || 主语:it | 谓语:is | 表语:such a tiny slice || &and, || 主语:it | 谓语:… fuses | 宾语:girls' identity
+gist 不是说粉色不好，而是它只是彩虹的一小片，而且把女孩的身份和外表绑在一起
+C1 表语从句 | 作 It is not 的表语 | that | It is not that … but …＝并不是说……而是……；that 后完整句子，作表语 | 主语:pink | 谓语:is | 表语:bad
+C2 让步状语从句 | 修饰最后一个分句 | though | though 后完整句子，插在 and 和主句之间 → 让步状语从句，“虽然……” | 主语:it | 谓语:may celebrate | 宾语:girlhood
+mod intrinsically → bad | 程度 | 本质上
+mod of the rainbow → slice | 介词短语作定语 | 彩虹中的一小片
+mod in one way → may celebrate | 方式 | 在某种程度上
+mod repeatedly and firmly → fuses | 方式状语 | 反复且牢牢地
+mod to appearance → fuses | 介词短语 | fuse A to B：把 A 和 B 熔在一起
+
+# 2012-2|1:1
+type 并列句｜冒号后解释；since 原因从句
+chunks Children were not colour-coded at all〔主〕 until the early 20th century:〔修〕 in the era before domestic washing machines〔修〕 all babies wore white〔主〕 as a practical matter,〔修〕 since the only way of getting clothes clean was to boil them.〔C1〕
+main 主语:Children | 谓语:were not colour-coded || 主语:all babies | 谓语:wore | 宾语:white
+gist 孩子过去不按颜色区分；所有婴儿都穿白色
+C1 原因状语从句 | 修饰 wore white：为什么穿白色 | since | since 后接完整句子，在逗号后补充理由，且没有时间含义 → 原因状语从句（“因为”） | 主语:the only way | 谓语:was | 表语:to boil them
+mod at all → not colour-coded | 程度 | not … at all：完全不
+mod until the early 20th century → were not colour-coded | 时间 | not … until：直到 20 世纪初才（区分颜色）
+mod in the era before domestic washing machines → wore | 时间 | 在家用洗衣机出现前的年代
+mod as a practical matter → wore white | 原因 | 出于实际考虑
+mod of getting clothes clean → the only way | 介词短语作定语 | 把衣服洗干净的唯一办法
+
+# 2012-2|2:2
+type 主从复合句｜省略 that 的宾语从句里再套省略 that 的定语从句；冒号后一个词作评价
+chunks I assumed〔主〕 that phase was something〔C1〕 experts developed〔C2〕 after years of research into children's behaviour:〔C2修〕 wrong.〔修〕
+main 主语:I | 谓语:assumed | 宾语:C1
+gist 我以为（一件事）——内容是从句①
+C1 宾语从句 | 作 assumed 的宾语 | （省略 that） | assumed 后缺宾语，后面 that phase was something 是完整句子；这里的 that 是“那个”修饰 phase，不是连接词 → 前面省略了引导词 that | 主语:that phase | 谓语:was | 表语:something
+C2 定语从句 in C1 | 修饰 something | （省略 that） | something 后紧接 experts developed，developed 缺宾语 → 省略关系词的定语从句 | 主语:experts | 谓语:developed
+mod after years of research → developed | 时间 | 经过多年研究之后
+mod into children's behaviour → research | 介词短语作定语 | 对儿童行为的研究
+mod wrong → 整句 | 评价 | 冒号后一个词：（我）错了
+
+# 2012-2|3:3
+type 简单句｜不定式作表语，or 连接两个不定式
+chunks And〔修〕 one of the easiest ways to segment a market is to magnify gender differences〔主〕 – or invent them〔主〕 where they did not previously exist.〔C1〕
+main 主语:one | 谓语:is | 表语:to magnify gender differences … or invent them
+gist 最容易的方法之一是放大性别差异——或者凭空制造差异
+C1 地点状语从句 | 修饰 invent：在原本没有差异的地方 | where | where 前面没有表地点的名词（them 是差异），后面是完整句子 → 地点状语从句 | 主语:they | 谓语:did not … exist
+mod of the easiest ways → one | 介词短语作定语 | 最简单的方法之一（谓语跟 one 用 is）
+mod to segment a market → ways | 不定式作定语 | 细分市场的方法
+
+# 2012-3|0:0
+type 简单句
+chunks In 2010,〔修〕 a federal judge shook America's biotech industry〔主〕 to its core.〔修〕
+main 主语:a federal judge | 谓语:shook | 宾语:America's biotech industry
+gist 一位联邦法官震动了美国生物技术产业
+mod In 2010 → shook | 时间 | 2010 年
+mod to its core → shook | 程度 | 震到核心＝彻底震动
+
+# 2012-3|2:0
+type 主从复合句｜as 时间（伴随）状语从句
+chunks But〔修〕 as companies continue their attempts at personalised medicine,〔C1〕 the courts will remain rather busy.〔主〕
+main 主语:the courts | 谓语:will remain | 表语:rather busy
+gist 法院会一直很忙
+C1 时间状语从句 | 修饰主句：随着…… | as | as 在句首，后接完整句子，再逗号接主句 → 状语从句；这里 as＝随着（伴随变化），不是“因为” | 主语:companies | 谓语:continue | 宾语:their attempts
+mod at personalised medicine → attempts | 介词短语作定语 | 在个性化医疗上的尝试
+
+# 2012-3|2:1
+type 简单句
+chunks The Myriad case itself is probably not over.〔主〕
+main 主语:The Myriad case | 谓语:is … not | 表语:over
+gist Myriad 案本身还没结束
+mod itself → The Myriad case | 强调 | 案子本身
+mod probably → over | 情态 | 可能
+
+# 2012-3|2:5
+type 主从复合句｜arguing 分词短语带 that 宾语从句；no less … than 倒装比较
+chunks In October〔修〕 the Department of Justice filed a brief〔主〕 in the Myriad case,〔修〕 arguing〔修〕 that an isolated DNA molecule "is no less a product of nature…than〔C1〕 are cotton fibres〔C2〕 that have been separated from cotton seeds."〔C3〕
+main 主语:the Department of Justice | 谓语:filed | 宾语:a brief
+gist 司法部提交了一份意见书
+C1 宾语从句 | 作 arguing 的宾语 | that | arguing 后缺宾语，that 后 molecule is … 是完整句子 → 宾语从句 | 主语:an isolated DNA molecule | 谓语:"is | 表语:no less a product
+C2 比较状语从句（倒装） in C1 | 和 no less 搭配：与……一样都是 | than | than 后 are cotton fibres：谓语 are 提到了主语前 → 比较从句倒装，还原为 than cotton fibres … are (a product of nature) | 谓语:are | 主语:cotton fibres
+C3 定语从句 in C2 | 修饰 cotton fibres | that | that 后 have been separated 缺主语 → 定语从句 | 主语:that | 谓语:have been separated
+mod In October → filed | 时间 | 十月
+mod in the Myriad case → a brief | 范围 | 在 Myriad 案中
+mod arguing → the Department of Justice | 现在分词作伴随状语 | 发出主张的是司法部；arguing 不是谓语
+mod from cotton seeds → separated | 来源 | 从棉籽上分离出来
+
+# 2012-3|3:1
+type 主从复合句｜it 形式主语，whether 主语从句
+chunks For example,〔修〕 it is unclear〔主〕 whether the sequencing of a whole genome violates the patents of individual genes within it.〔C1〕
+main 形式主语:it | 谓语:is | 表语:unclear | 真正主语:C1
+gist （一件事）还不清楚——内容是从句①
+C1 主语从句 | 真正的主语 | whether | it is unclear 的 it 无实义，whether 引出完整句子 → 形式主语 it，whether 从句是真正主语：“是否……还不清楚” | 主语:the sequencing | 谓语:violates | 宾语:the patents
+mod of a whole genome → the sequencing | 介词短语作定语 | 全基因组的测序
+mod of individual genes → the patents | 介词短语作定语 | 单个基因的专利
+mod within it → individual genes | 定语 | it 指 a whole genome：基因组中的单个基因
+
+# 2012-3|5:2
+type 简单句
+chunks Each meeting was packed.〔主〕
+main 主语:Each meeting | 谓语:was packed
+gist 每场会议都挤满了人
+
+# 2012-4|0:1
+type 主从复合句｜Before 时间状语从句
+chunks Before it ends,〔C1〕 it will likely change the life course and character〔主〕 of a generation of young adults.〔修〕
+main 主语:it | 谓语:will … change | 宾语:the life course and character
+gist 它可能会改变（一代人的）人生轨迹和性格
+C1 时间状语从句 | 修饰主句 | Before | Before 后接完整句子 it ends，逗号后主句 → 时间状语从句 | 主语:it | 谓语:ends
+mod likely → change | 情态 | 很可能
+mod of a generation of young adults → the life course and character | 介词短语作定语 | 一代年轻人的
+
+# 2012-4|1:0
+type 简单句｜比较级 + than 表最高级含义
+chunks No one tries harder〔主〕 than the jobless〔修〕 to find silver linings in this national economic disaster.〔修〕
+main 主语:No one | 谓语:tries
+gist 没人比（失业者）更努力
+mod harder → tries | 程度 | 更努力
+mod than the jobless → harder | 比较对象 | No one … -er than X＝X 最……：失业者最努力
+mod to find silver linings → tries | 不定式作宾语／目的 | 努力去找“乌云的银边”（坏事中的好处）
+mod in this national economic disaster → silver linings | 地点 | 在这场全国经济灾难中
+
+# 2012-4|1:1
+type 主从复合句｜宾语从句里插入省略的 while 从句；冒号后两句解释
+chunks Many said〔主〕 that unemployment,〔C1〕 while extremely painful,〔C2〕 had improved them in some ways:〔C1〕 they had become less materialistic and more financially prudent;〔主〕 they were more aware of the struggles of others.〔主〕
+main 主语:Many | 谓语:said | 宾语:C1 || 主语:they | 谓语:had become | 表语:less materialistic and more … prudent || 主语:they | 谓语:were | 表语:more aware
+gist 很多人说（失业改善了他们）；他们变得不那么物质、更节俭；更体察他人
+C1 宾语从句 | 作 said 的宾语 | that | said 后缺宾语，that 后 unemployment … had improved 是完整句子；主谓被 while 插入隔开 | 主语:unemployment | 谓语:had improved | 宾语:them
+C2 让步状语从句（省略） in C1 | 插入：虽然…… | while | while 后直接跟 extremely painful，省略了 it was → while (it was) extremely painful，“虽然非常痛苦” | 表语:extremely painful
+mod in some ways → had improved | 方式 | 在某些方面
+mod of the struggles of others → aware | 介词短语作补足 | be aware of：意识到别人的艰难
+
+# 2012-4|1:3
+type 简单句｜共用主语 it，and 连接两个谓语
+chunks At the very least,〔修〕 it has awoken us〔主〕 from our national fever dream of easy riches and bigger houses,〔修〕 and〔连〕 put a necessary end〔主〕 to an era of reckless personal spending.〔修〕
+main 主语:it | 谓语:has awoken | 宾语:us || &and || 谓语:put | 宾语:a necessary end
+gist 它至少把我们唤醒了，并终结了（挥霍的时代）
+mod At the very least → 整句 | 让步 | 至少
+mod from our national fever dream → awoken | 来源 | awake sb from：把某人从……中唤醒
+mod of easy riches and bigger houses → fever dream | 介词短语作定语 | 轻松发财、住大房子的狂热梦想
+mod to an era of reckless personal spending → put a necessary end | 对象 | put an end to：结束（个人挥霍的时代）
+
+# 2012-4|2:2
+type 主从复合句｜as 引导的倒装从句（同样如此）
+chunks Anti-immigrant sentiment typically increases,〔主〕 as does conflict between races and classes.〔C1〕
+main 主语:Anti-immigrant sentiment | 谓语:… increases
+gist 反移民情绪通常会上升
+C1 方式状语从句（倒装） | 补充：……也一样 | as | as 后 does 在主语 conflict 前面 → 倒装，as does X＝X 也一样（does 代替 increases） | 谓语:does | 主语:conflict
+mod typically → increases | 频度 | 通常
+mod between races and classes → conflict | 介词短语作定语 | 种族和阶层之间的冲突
+
+# 2012-4|3:2
+type 主从复合句｜that 宾语从句；冒号后两句解释，里面有 where/if 从句和强调句
+chunks The research of Till Von Wachter, the economist at Columbia University,〔主〕 suggests〔主〕 that not all people graduating into a recession see their life chances dimmed:〔C1〕 those with degrees from elite universities catch up fairly quickly〔主〕 to〔修〕 where they otherwise would have been〔C2〕 if they had graduated in better times;〔C3〕 it is the masses beneath them〔主〕 that are left behind.〔主〕
+main 主语:The research | 谓语:suggests | 宾语:C1 || 主语:those | 谓语:catch up || 主语:the masses | 谓语:are left behind
+gist 研究表明（一件事）；名校毕业的人很快赶上；被落下的是他们之下的大众
+C1 宾语从句 | 作 suggests 的宾语 | that | suggests 后缺宾语，that 后 not all people … see 是完整句子 → 宾语从句；not all＝并非所有（部分否定） | 主语:not all people | 谓语:see | 宾语:their life chances | 宾补:dimmed
+C2 宾语从句（作介词宾语） | 作 to 的宾语：赶到哪个位置 | where | 介词 to 后接 where 从句，where＝本来所处的位置 → 名词性从句 | 主语:they | 谓语:would have been
+C3 条件状语从句（虚拟） in C2 | 修饰 would have been | if | had graduated + would have been → 对过去的虚拟：如果他们在好年景毕业本会达到的位置 | 主语:they | 谓语:had graduated
+mod of Till Von Wachter → The research | 介词短语作定语 | 沃赫特的研究
+mod the economist at Columbia University → Till Von Wachter | 同位语 | 哥伦比亚大学的经济学家
+mod graduating into a recession → not all people | 现在分词作定语 | 在衰退期毕业的人
+mod with degrees from elite universities → those | 介词短语作定语 | 拥有名校学位的人
+mod fairly quickly → catch up | 方式 | 相当快地
+mod it is … that → the masses | 强调句 | it is X that …：强调被落下的正是 X
+mod beneath them → the masses | 定语 | 在他们之下的大众
+
+# 2012-4|4:1
+type 简单句｜表语前置的倒装句，how 从句作 discerning 的宾语
+chunks More difficult,〔主〕 in the moment,〔修〕 is discerning precisely〔主〕 how these lean times are affecting society's character.〔C1〕
+main 表语:More difficult | 谓语:is | 主语:discerning
+gist 更难的是看清（一件事）——倒装：主语 discerning 在 is 后面
+C1 宾语从句 | 作 discerning 的宾语 | how | discerning 后缺宾语，how 后是完整句子 → 宾语从句 | 主语:these lean times | 谓语:are affecting | 宾语:society's character
+mod in the moment → 整句 | 时间 | 眼下、当下
+mod precisely → discerning | 程度 | 精确地看清
