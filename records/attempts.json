@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-10-30T04:51:06.894Z",
+ "updatedAt": "2026-10-30T04:51:55.735Z",
  "count": 26,
  "attempts": [
   {
@@ -16272,7 +16272,7 @@
    },
    "session": {
     "v": 4,
-    "stage": "library",
+    "stage": "screen",
     "batch": 3,
     "listPassed": [
      "paper",
@@ -16427,7 +16427,7 @@
     "contextIndex": 0,
     "contextReveal": false,
     "contextGrades": [],
-    "elapsed": 604.0380000000027,
+    "elapsed": 650.0390000000027,
     "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
@@ -18714,7 +18714,7 @@
      "yield",
      "zone"
     ],
-    "sessionAt": 1793335857572,
+    "sessionAt": 1793335912277,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -19049,10 +19049,10 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1793335850787,
+    "cursorAt30": 1793335912276,
     "quick39": false
    },
-   "updatedAt": 1793335857572
+   "updatedAt": 1793335912277
   },
   "sentenceReview27": {
    "version": 27,
