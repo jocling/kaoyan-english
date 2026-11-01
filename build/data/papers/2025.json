@@ -1,0 +1,1673 @@
+{
+  "reading": [
+    {
+      "id": "2025-1",
+      "label": "2025 · Text 1",
+      "paragraphs": [
+        "U.S. customers historically tipped people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage. In the early 2010s, a wide range of businesses started processing purchases with iPads and other digital payment systems. These systems often prompted customers to tip for services that were not previously tipped.",
+        "Today's tip requests are often not connected to the salary and service norms that used to determine when and how people tip. Customers in the past nearly always paid tips after receiving a service, such as at the conclusion of a restaurant meal, after getting a haircut or once a pizza was delivered. That timing could reward high-quality service and give workers an incentive to provide it.",
+        "It's becoming more common for tips to be requested beforehand. And new tipping technology may even automatically add tips.",
+        "The prevalence of digital payment devices has made it easier to ask customers for a tip. That helps explain why tip requests are creeping into new kinds of services. Customers now routinely see menus of suggested default options — often well above 20% of what they owe. The amounts have risen from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today. This increase is sometimes called tipflation — the expectation of ever-higher tip amounts.",
+        "Tipping has always been a vital source of income for workers in historically tipped services, like restaurants, where the tipped minimum wage can be as low as US$2.13 an hour. Tip creep and tipflation are now further supplementing the income of many low-wage service workers.",
+        "Notably, tipping primarily benefits some of these workers, such as waiters, but not others, such as cooks and dishwashers. To ensure that all employees were paid fair wages, some restaurants banned tipping and increased prices, but this movement toward no-tipping services has largely fizzled out.",
+        "So, to increase employee wages without raising prices, more employers are succumbing to the temptations of tip creep and tipflation. However, many customers are frustrated because they feel they are being asked for too high of a tip, too often. And, as our research emphasizes, tipping now seems to be more coercive, less generous and often completely dissociated from service quality."
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "stem": "According to Paragraph 1, the practice of tipping in the U.S. ________.",
+          "options": {
+            "A": "was regarded as a sign of generosity",
+            "B": "was considered essential for waiters",
+            "C": "was a way of rewarding diligence",
+            "D": "was optional in most businesses"
+          },
+          "answer": "B"
+        },
+        {
+          "n": 22,
+          "stem": "Compared with tips in the past, today's tips ________.",
+          "options": {
+            "A": "are paid much less frequently",
+            "B": "are less often requested in advance",
+            "C": "have less to do with service quality",
+            "D": "contribute less to workers' income"
+          },
+          "answer": "C"
+        },
+        {
+          "n": 23,
+          "stem": "Tip requests are creeping into new kinds of services as a result of ________.",
+          "options": {
+            "A": "the advancement of technology",
+            "B": "the desire for income increase",
+            "C": "the diversification of business",
+            "D": "the emergence of tipflation"
+          },
+          "answer": "A"
+        },
+        {
+          "n": 24,
+          "stem": "The movement toward no-tipping services was intended to ________.",
+          "options": {
+            "A": "promote consumption",
+            "B": "enrich income sources",
+            "C": "maintain reasonable prices",
+            "D": "guarantee income fairness"
+          },
+          "answer": "D"
+        },
+        {
+          "n": 25,
+          "stem": "It can be learned from the last paragraph that tipping ________.",
+          "options": {
+            "A": "is becoming a burden for customers",
+            "B": "helps encourage quality service",
+            "C": "is vital to business development",
+            "D": "reflects the need to reduce prices"
+          },
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "2025-2",
+      "label": "2025 · Text 2",
+      "paragraphs": [
+        "When it was established, the National Health Service (NHS) was visionary: offering high-quality, timely care to meet the dominant needs of the population it served. Nearly 75 years on, with the UK facing very different health challenges, it is clear that model is out of date.",
+        "From life expectancy to cancer and infant mortality rates, we are lagging behind many of our peers. With more than 6.8 million on waitlists, healthcare is becoming increasingly inaccessible for those who cannot opt to pay for private treatment; and the cost of providing healthcare is increasingly squeezing out investment in other public services. As demand for healthcare continues to grow, pressures on the workforce — which is already near breaking point — will only become more acute.",
+        "Many of the answers to the crisis in health and care are well rehearsed. We need to be much better at reducing and diverting demand on health services, rather than simply managing it. Much more needs to be invested in communities and primary care to reduce our reliance on hospitals. And capacity in social care needs to be greater, to support the growing number of people living with long-term conditions.",
+        "Yet despite two decades of strategies and a number of major health reforms, we have failed to make meaningful progress on any of these aims. That is why the Reform think tank is launching a new programme of work entitled \"Reimagining health\", supported by ten former health ministers. Together, we are calling for a much more open and honest conversation about the future of health in the UK, and an \"urgent rethink\" of the hospital-centric model we retain.",
+        "This must begin with the question of how we maximise the health of the nation, rather than \"fix\" the NHS. It is estimated, for example, that healthcare accounts for only about 20% of health outcomes. Much more important are the places we live, work and socialise — yet there is no clear cross-government strategy for improving these social determinants of health. Worse, when policies like the national obesity strategy are scrapped, taxpayers are left with the heavy price tag of treating the illnesses, like diabetes, that result.",
+        "Reform wants to ask how power and resources should be distributed in our health system. What health functions should remain at the centre, and what should be given to local leaders, often responsible for services that create health, and with a much better understanding of the needs of their populations?"
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "stem": "According to the first two paragraphs, the NHS ________.",
+          "options": {
+            "A": "is troubled by funding deficiencies",
+            "B": "can hardly satisfy people's needs",
+            "C": "can barely retain its current employees",
+            "D": "is rivalled by private medical services"
+          },
+          "answer": "B"
+        },
+        {
+          "n": 27,
+          "stem": "One answer to the crisis in health and care is to ________.",
+          "options": {
+            "A": "boost the efficiency of hospitals",
+            "B": "lighten the burden on social care",
+            "C": "increase resources for primary care",
+            "D": "reduce the pressure on communities"
+          },
+          "answer": "C"
+        },
+        {
+          "n": 28,
+          "stem": "\"Reimagining health\" is aimed to ________.",
+          "options": {
+            "A": "reinforce hospital management",
+            "B": "readjust healthcare regulations",
+            "C": "restructure the health system",
+            "D": "resume suspended health reforms"
+          },
+          "answer": "C"
+        },
+        {
+          "n": 29,
+          "stem": "To maximise the nation's health, the author suggests ________.",
+          "options": {
+            "A": "introducing relevant taxation policies",
+            "B": "paying due attention to social factors",
+            "C": "reevaluating major health outcomes",
+            "D": "enhancing the quality of healthcare"
+          },
+          "answer": "B"
+        },
+        {
+          "n": 30,
+          "stem": "It can be inferred that local leaders should ________.",
+          "options": {
+            "A": "exercise their power more reasonably",
+            "B": "develop a stronger sense of responsibility",
+            "C": "play a bigger role in the health system",
+            "D": "understand people's health needs better"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "2025-3",
+      "label": "2025 · Text 3",
+      "paragraphs": [
+        "Heat action plans, or HAPs, have been proliferating in India in the past few years. In general, an HAP spells out when and how officials should issue heat warnings and alert hospitals and other institutions. Nagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the summer for treating heatstroke patients, and advises builders to give construction laborers a break from work on very hot days.",
+        "But implementation of existing HAPs has been uneven, according to a report from the Centre for Policy Research. Many lack adequate funding, it found. And their triggering thresholds often are not customized to the local climate. In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts. But in other places, nighttime temperatures or humidity might be as important a gauge of risk as daytime highs.",
+        "Mumbai's April heatstroke deaths highlighted the need for more nuanced and localized warnings, researchers say. That day's high temperature of roughly 36°C was 1°C shy of the heat wave alert threshold for coastal cities set by national meteorological authorities. But the effects of the heat were amplified by humidity — an often neglected factor in heat alert systems — and the lack of shade at the late-morning outdoor ceremony.",
+        "To help improve HAPs, urban planner Rajashree Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local conditions. Among other things, she says, all cities should create a vulnerability map to help focus responses on the populations most at risk.",
+        "Such mapping doesn't need to be complex, Kotharkar says. \"A useful map can be created by looking at even a few key parameters.\" For example, neighborhoods with a large elderly population or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers. The Nagpur project has already created a risk and vulnerability map, which enabled Kotharkar to tell officials which neighborhoods to focus on in the event of a heat wave this summer.",
+        "HAPs shouldn't just include short-term emergency responses, researchers say, but also recommend medium- to long-term measures that could make communities cooler. In Nagpur, for example, Kotharkar's team has been able to advise city officials about where to plant trees to provide shade. HAPs could also guide efforts to retrofit homes or modify building regulations. \"Reducing deaths in an emergency is a good target to have, but it's the lowest target,\" says climate researcher Chandni Singh."
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "stem": "According to Paragraph 1, Nagpur's plan proposes measures to ________.",
+          "options": {
+            "A": "tackle extreme weather",
+            "B": "ensure construction quality",
+            "C": "monitor emergency warnings",
+            "D": "address excessive workloads"
+          },
+          "answer": "A"
+        },
+        {
+          "n": 32,
+          "stem": "One problem with existing HAPs is that they ________.",
+          "options": {
+            "A": "prove too costly to be implemented",
+            "B": "lack localized alert-issuing criteria",
+            "C": "give delayed responses to heat waves",
+            "D": "keep hospitals under great pressure"
+          },
+          "answer": "B"
+        },
+        {
+          "n": 33,
+          "stem": "Mumbai's case shows that India's heat alert systems need to ________.",
+          "options": {
+            "A": "include other factors besides temperature",
+            "B": "take subtle weather changes into account",
+            "C": "prioritize potentially disastrous heat waves",
+            "D": "draw further support from local authorities"
+          },
+          "answer": "A"
+        },
+        {
+          "n": 34,
+          "stem": "Kotharkar holds that a vulnerability map can help ________.",
+          "options": {
+            "A": "prevent the harm of high humidity",
+            "B": "target areas needing special attention",
+            "C": "expand the Nagpur project's coverage",
+            "D": "make relief plans for heat-stricken people"
+          },
+          "answer": "B"
+        },
+        {
+          "n": 35,
+          "stem": "According to the last paragraph, researchers believe that HAPs should ________.",
+          "options": {
+            "A": "focus more on heatstroke treatment",
+            "B": "apply for more government grants",
+            "C": "invite wider public participation",
+            "D": "serve a broader range of purposes"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "2025-4",
+      "label": "2025 · Text 4",
+      "paragraphs": [
+        "Navigating beyond the organised pavements and parks of our urban spaces, desire paths are the unofficial footprints of a community, revealing the unspoken preferences, shared shortcuts and collective choices of humans. Often appearing as trodden dirt tracks through otherwise neat green spaces, these routes of collective disobedience cut corners, bisect lawns and cross hills, representing the natural capability of people (and animals) to go from point A to point B most effectively.",
+        "Urban planners interpret desire paths as more than just convenient shortcuts; they offer valuable insights into the dynamics between planning and behaviour. Ohio State University allowed its students to navigate the Oval, a lawn in the centre of campus, freely, then proceeded to pave the desire paths, creating a web of effective routes students had established.",
+        "Yet, reluctance persists among other planners to integrate desire paths into formal plans, citing concerns about safety, environmental impact, or primarily, aesthetics. A Reddit webpage devoted to the phenomenon, boasting nearly 50,000 members, showcases images of local desire paths adorned with signs instructing pedestrians to adhere to designated walkways, underscoring the rebellious nature inherent in these human-made tracks. This clash highlights an ongoing struggle between the organic, user-driven evolution of public spaces and the desire for a visually curated and controlled urban environment.",
+        "The Wickquasgeck Trail is an example of a historical desire path, created by Native Americans to cross the forests of Manhattan and move between settlements quickly. This trail, when Dutch colonists arrived, was widened and made into one of the main trade roads across the island, known at the time as de Heere Straat, or Gentlemen's Street. Following the British assumption of control in New York, the street was renamed Broadway. Notably, Broadway stands out as one of the few areas in NYC that defies the grid-based system applied to the rest of the city, cutting a diagonal across parts of the city.",
+        "In online spaces, desire paths have sparked a fascination that can approach obsession, with the Reddit page serving as a hub. Contributors offer a wide array of stories, from little-known new shortcuts to long-established alternate routes.",
+        "Animal desire paths, such as ducks forging trails through frozen ponds or dogs carving direct routes in gardens, highlight the adaptability of these trails in both human and animal experiences. As desire paths criss-cross through both physical and virtual landscapes, they stand as a proof of the collective insistence on forging unconventional routes and embracing the spirit of communal choice."
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "According to Paragraph 1, desire paths are a result of ________.",
+          "options": {
+            "A": "the curiosity to explore surrounding hills",
+            "B": "the necessity to preserve green spaces",
+            "C": "the tendency to pursue convenience",
+            "D": "the wish to find comfort in solitude"
+          },
+          "answer": "C"
+        },
+        {
+          "n": 37,
+          "stem": "It can be inferred that Ohio State University ________.",
+          "options": {
+            "A": "intends to improve its desire paths",
+            "B": "leads in the research on desire paths",
+            "C": "guides the creation of its desire paths",
+            "D": "takes a positive view of desire paths"
+          },
+          "answer": "D"
+        },
+        {
+          "n": 38,
+          "stem": "The images on the Reddit webpage reflect ________.",
+          "options": {
+            "A": "conflicting opinions on the use of desire paths",
+            "B": "the call to upgrade the designing of public spaces",
+            "C": "the demand for proper planning of desire paths",
+            "D": "growing concerns over the loss of public spaces"
+          },
+          "answer": "A"
+        },
+        {
+          "n": 39,
+          "stem": "The example of the Wickquasgeck Trail illustrates ________.",
+          "options": {
+            "A": "the growth of New York City",
+            "B": "the Dutch origin of desire paths",
+            "C": "the importance of urban planning",
+            "D": "the recognition of desire paths"
+          },
+          "answer": "D"
+        },
+        {
+          "n": 40,
+          "stem": "It can be learned from the last paragraph that desire paths ________.",
+          "options": {
+            "A": "reveal humans' deep respect for nature",
+            "B": "are crucial to humans' mental wellbeing",
+            "C": "are a human imitation of animal behaviour",
+            "D": "show a shared trait in humans and animals"
+          },
+          "answer": "D"
+        }
+      ]
+    }
+  ],
+  "EXAM_DATA": {
+    "2025": {
+      "cloze": {
+        "passage": "There are many understandable reasons why you might find it difficult to ask for help when you need it. Psychologists have been interested in this 1 for decades, not least because people's widespread 2 to ask for help has led to some high-profile failures.\n\nAsking for help takes 3 . It involves communicating a need on your part—there's something you can't do. 4 you're broadcasting your own weaknesses, which can be 5 . You might worry about coming across as incompetent. You might have 6 about losing control of whatever it is you're asking for help with. 7 someone starts to help, perhaps they'll take over, or get credit for your earlier efforts. Yet another 8 that you might be worried about is being a nuisance or 9 the person you go to for help.\n\nIf you struggle with low self-esteem, you might find it especially difficult to 10 for help because you have the added worry of the other person 11 your request. You might see such refusals as implying something 12 about the status of your relationship with them. To 13 these difficulties, try to remind yourself that everyone needs help sometimes. Nobody knows everything and can do everything all by themselves. And while you might 14 coming across as incompetent, there's actually research that shows that advice-seekers are 15 as more competent, not less.\n\nPerhaps most encouraging of all is a paper from 2022 by researchers at Stanford University that involved a mix of contrived help-seeking interactions and asking people to 16 times they'd sought help in the past. The findings showed that help-seekers generally underestimate how 17 other people will be to help and how good it'll make the help-giver feel (for most people, having the chance to help someone is highly 18 ).\n\nSo, bear all this in mind the next time you need to ask for help. 19 take care over who you ask and when you ask them. And if someone can't help right now, avoid taking it personally. They might just be too 20 , or they might not feel confident about their ability to help.",
+        "questions": [
+          {
+            "n": 1,
+            "stem": "",
+            "options": {
+              "A": "illusion",
+              "B": "discussion",
+              "C": "tradition",
+              "D": "question"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 2,
+            "stem": "",
+            "options": {
+              "A": "reluctance",
+              "B": "ambition",
+              "C": "tendency",
+              "D": "enthusiasm"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 3,
+            "stem": "",
+            "options": {
+              "A": "attention",
+              "B": "talent",
+              "C": "courage",
+              "D": "patience"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 4,
+            "stem": "",
+            "options": {
+              "A": "At any time",
+              "B": "In other words",
+              "C": "By all means",
+              "D": "On the contrary"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 5,
+            "stem": "",
+            "options": {
+              "A": "unrealistic",
+              "B": "deceptive",
+              "C": "tiresome",
+              "D": "uncomfortable"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 6,
+            "stem": "",
+            "options": {
+              "A": "doubts",
+              "B": "concerns",
+              "C": "suggestions",
+              "D": "secrets"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 7,
+            "stem": "",
+            "options": {
+              "A": "Once",
+              "B": "Unless",
+              "C": "Although",
+              "D": "Before"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 8,
+            "stem": "",
+            "options": {
+              "A": "theory",
+              "B": "choice",
+              "C": "factor",
+              "D": "context"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 9,
+            "stem": "",
+            "options": {
+              "A": "overpraising",
+              "B": "outperforming",
+              "C": "reassessing",
+              "D": "inconveniencing"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 10,
+            "stem": "",
+            "options": {
+              "A": "reach out",
+              "B": "settle down",
+              "C": "turn over",
+              "D": "look back"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 11,
+            "stem": "",
+            "options": {
+              "A": "declining",
+              "B": "considering",
+              "C": "criticising",
+              "D": "evaluating"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 12,
+            "stem": "",
+            "options": {
+              "A": "unnecessary",
+              "B": "negative",
+              "C": "strange",
+              "D": "impractical"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 13,
+            "stem": "",
+            "options": {
+              "A": "explain",
+              "B": "identify",
+              "C": "predict",
+              "D": "overcome"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 14,
+            "stem": "",
+            "options": {
+              "A": "deny",
+              "B": "forget",
+              "C": "miss",
+              "D": "fear"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 15,
+            "stem": "",
+            "options": {
+              "A": "disguised",
+              "B": "perceived",
+              "C": "followed",
+              "D": "introduced"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 16,
+            "stem": "",
+            "options": {
+              "A": "recall",
+              "B": "classify",
+              "C": "analyse",
+              "D": "compare"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 17,
+            "stem": "",
+            "options": {
+              "A": "brave",
+              "B": "disappointed",
+              "C": "willing",
+              "D": "hesitant"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 18,
+            "stem": "",
+            "options": {
+              "A": "relaxing",
+              "B": "surprising",
+              "C": "rewarding",
+              "D": "demanding"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 19,
+            "stem": "",
+            "options": {
+              "A": "Thus",
+              "B": "Also",
+              "C": "Finally",
+              "D": "Instead"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 20,
+            "stem": "",
+            "options": {
+              "A": "polite",
+              "B": "proud",
+              "C": "busy",
+              "D": "lazy"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      "newtype": {
+        "mode": "headings",
+        "title": "段落标题匹配",
+        "passage": "Five Steps to Suggesting a Change at Work That’ll Actually Get Taken Seriously\n\nEveryone wants to be that person—the one who looks at the same information as everyone else, but who sees a fresh, innovative solution. However, it takes more than simply having a good idea. How you share it is as important as the suggestion itself. Why? Because writing a new script—literally or figuratively—means that other team members will have to adapt to something new. Not to mention, if the process you're scrapping is one someone else suggested, there's the possibility of hurt feelings. To gain buy-in on an innovative, new idea, follow these steps:",
+        "options": {
+          "A": "Stay positive",
+          "B": "Respect the past",
+          "C": "Use channels",
+          "D": "Give it time",
+          "E": "Invite resistance",
+          "F": "Be a salesman",
+          "G": "Be humble"
+        },
+        "items": [
+          {
+            "n": 41,
+            "text": "Great ideas don't stand alone. In other words, you can't mention your suggestion once and expect it to be adopted. To see a change, you'll need to champion your plan and sell its merits. In addition, you need to be willing to stand up to scrutiny and criticism and be prepared to explain your innovation in different ways for various audiences.",
+            "answer": "F"
+          },
+          {
+            "n": 42,
+            "text": "Sometimes it makes sense to go to your boss first. But other times, it's useful to build a coalition among your co-workers or other stakeholders. When it works, it works great—because you're ready for your stubborn supervisor's pushback with answers like, \"Actually, I connected with a few people in our tech department to discuss how much time these kinds of website updates would take, and they suggested they have the bandwidth.\" However, just be certain you can explain your end-around approach as one that built your case, rather than simply circumvented your manager. The last thing you want is for your boss to feel embarrassed he wasn’t informed—which could lead him to quash the idea before it even takes off.",
+            "answer": "C"
+          },
+          {
+            "n": 43,
+            "text": "One of the biggest barriers to gaining buy-in occurs when the owner of an idea is viewed as argumentative, defensive, or close-minded. Because, let's be honest: No one likes a know-it-all. So, if people disagree with you, don't be indignant. Instead, listen to their concerns fully, try to understand their perspective, and include their concerns (and possible remedies) in future discussions. So, instead of saying, \"Martha, our current slogan is confusing and should be updated,\" you could try, \"Martha raises a great point that our current slogan has a long history for our stakeholders, but I wonder if we might be able to brainstorm a tagline that could build on that—and be clearer for new customers.\"",
+            "answer": "G"
+          },
+          {
+            "n": 44,
+            "text": "New ideas are the grandchildren of old ones. In other words, don't throw old solutions under the bus to make your improvement stand out. Remember that in light of whatever the problem the old system solved—or, maybe, has failed to solve in recent memory—it was a great idea at the time. Appreciating the older contributions as you suggest future innovations helps bolster the credibility of your idea.",
+            "answer": "B"
+          },
+          {
+            "n": 45,
+            "text": "When pitching a new idea, it's important to use the language of abundance instead of the language of deficit. Instead of saying what is wrong, broken, or suboptimal, talk about what is right, fixable, or ideal. For example, try, \"I can see lots of applications for this new approach\" rather than, \"This innovation is the only way.\" Be optimistic but realistic, and you will stand out.",
+            "answer": "A"
+          }
+        ]
+      },
+      "translation": {
+        "source": "You know the moment—the conversation slows, then there's a pause. It's awkward, and so awkward that some people will panic and say anything. Do we all find such silences so stressful?\n\nResearchers analysed the frequency and impact of gaps greater than 2 seconds during conversations, including an overview of previous studies which indicate that the fear of awkward silences can be so extreme that people avoid talking to strangers, even though doing so is likely to be an enjoyable experience.\n\nDuring conversations with short gaps, people feel more connected to their conversation partners. But such feelings of connection markedly dip when entering a long gap. Long gaps between strangers are likely to be followed by a change in topic.\n\nBut the opposite seems to be true for conversations between friends. Long gaps there saw increased connection. Between friends, longer gaps seem to provide natural moments for reflection and expression.",
+        "reference": "你知道那一刻——对话慢了下来，然后出现了停顿。这很尴尬，尴尬到有些人会惊慌失措，说出任何话来。我们所有人都觉得这样的沉默如此有压力吗？\n\n研究人员分析了对话中超过2秒的停顿的频率和影响，包括对先前研究的概述，这些研究表明对尴尬沉默的恐惧可能非常强烈，以至于人们避免与陌生人交谈，尽管这样做很可能会是一次愉快的体验。\n\n在对话中，短暂的停顿让人们感觉与对话伙伴更加亲近。但当进入长时间的停顿时，这种连接感会显著下降。陌生人之间的长时间停顿可能会由话题的转变而改变。\n\n但对于朋友之间的对话来说，情况似乎正好相反。在朋友之间，长时间的停顿反而增加了连接感。在朋友之间，更长的停顿似乎提供了自然的反思和表达时刻。"
+      },
+      "writing": {
+        "partA": "47. Directions: Suppose you are planning a short play based on a classic Chinese novel. Write your friend John an email to 1) introduce the play, and 2) invite him to take part in it. Write your answer in about 100 words on the ANSWER SHEET. Do not use your own name in your email; use “Li Ming” instead. (10 points)",
+        "partB": "48. Directions: Write an essay based on the chart below. In your essay, you should 1) describe and interpret the chart, and 2) give your comments. Write your answer in about 150 words on the ANSWER SHEET. (15 points)",
+        "chartImage": "writing-2025"
+      }
+    }
+  },
+  "CLOZE_STUDY": {
+    "2025": {
+      "questions": {
+        "1": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "2": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "3": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "4": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "5": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "6": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "7": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "8": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "9": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "10": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "11": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "12": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "13": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "14": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "15": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "16": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "17": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "18": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "19": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "20": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        }
+      },
+      "vocab": []
+    }
+  },
+  "ANN": {
+    "2025-1": {
+      "trans": [
+        [
+          "过去，美国消费者给那些他们认为主要靠小费维生的人小费，例如收入低于最低工资的餐厅服务员。",
+          "2010年代初，许多企业开始用iPad和其他数字支付系统处理交易。",
+          "这些系统经常提示顾客给此前没有小费惯例的服务支付小费。"
+        ],
+        [
+          "如今索要小费常与过去决定何时、如何给小费的薪酬和服务惯例脱节。",
+          "过去顾客几乎总是在服务结束后给小费，例如吃完饭、理完发或披萨送达之后。",
+          "这种支付时机既能奖励优质服务，也能激励工作人员提供优质服务。"
+        ],
+        [
+          "在服务之前就要求顾客给小费，变得越来越常见。",
+          "而新的小费技术甚至可能自动加收小费。"
+        ],
+        [
+          "数字支付设备的普及，使向顾客索要小费变得更容易。",
+          "这有助于解释，为什么索要小费正逐渐扩展到新种类的服务。",
+          "如今顾客经常看到默认小费建议菜单，金额往往远超账单的20%。",
+          "小费比例从1950年代的10%或更低，升到2000年前后的15%，再升到如今的20%或更高。",
+          "这种上涨有时被称为“小费膨胀”，即对小费金额不断提高的预期。"
+        ],
+        [
+          "小费一直是传统收小费行业工作人员的重要收入来源，例如餐饮业；这些岗位的最低时薪可能低至2.13美元。",
+          "小费扩张和小费膨胀，如今进一步补充了许多低薪服务人员的收入。"
+        ],
+        [
+          "值得注意的是，小费主要使部分工作人员受益，例如服务员，却不能惠及厨师、洗碗工等其他人。",
+          "为保证所有员工薪酬公平，一些餐厅取消小费并提价，但这种无小费服务运动基本已告失败。"
+        ],
+        [
+          "因此，为了不涨价也能提高员工收入，更多雇主正屈从于扩大索要小费、提高小费比例的诱惑。",
+          "不过，许多顾客感到沮丧，因为他们觉得索要小费过于频繁，金额也过高。",
+          "正如研究强调，如今给小费似乎更带强迫性、更少出于慷慨，且常与服务质量彻底脱节。"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    },
+    "2025-2": {
+      "trans": [
+        [
+          "英国国民医疗服务体系建立时具有远见，提供高质量、及时的医疗，满足当时服务人群的主要需求。",
+          "近75年后，英国面临截然不同的健康挑战，这一模式显然已过时。"
+        ],
+        [
+          "从预期寿命到癌症和婴儿死亡率，英国都落后于许多同类国家。",
+          "超过680万人等待就诊，无力支付私人医疗的人越来越难获得医疗服务；医疗成本还在挤压其他公共服务投资。",
+          "医疗需求继续增长，已接近极限的医护人员将承受更严重的压力。"
+        ],
+        [
+          "应对医疗和照护危机的许多办法，早已被反复提出。",
+          "我们需要更擅长减少和分流医疗需求，而非仅仅管理需求。",
+          "需要向社区和初级医疗投入更多资源，减少对医院的依赖。",
+          "社会照护能力也应扩大，以支持人数不断增加的长期患病者。"
+        ],
+        [
+          "尽管有二十年的战略规划和多项重大医疗改革，我们在这些目标上仍未取得实质进展。",
+          "这就是Reform智库发起“重塑健康”新项目的原因，该项目获十位前卫生部长支持。",
+          "我们共同呼吁更公开坦诚地讨论英国医疗的未来，并紧急反思现存的医院中心模式。"
+        ],
+        [
+          "讨论必须从如何最大化国民健康开始，而非仅仅“修复”国民医疗服务体系。",
+          "例如，据估计，医疗本身仅解释约20%的健康结果。",
+          "更重要的是我们生活、工作和社交的地方，但政府间仍没有清晰战略改善这些社会健康决定因素。",
+          "更糟的是，国家肥胖防治战略等政策被废除后，纳税人还要承担治疗由此产生的糖尿病等疾病的高额成本。"
+        ],
+        [
+          "Reform希望探讨医疗体系中的权力和资源应该如何分配。",
+          "哪些卫生职能应留在中央，哪些应交给常负责健康相关服务且更了解当地需求的地方领导者？"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    },
+    "2025-3": {
+      "trans": [
+        [
+          "近几年，印度各地的高温行动计划不断增加。",
+          "一般而言，高温行动计划明确规定官员何时、如何发布高温预警并提醒医院等机构。",
+          "例如，那格浦尔的计划要求医院在夏天预留“降温病房”治疗中暑者，并建议建筑商在酷热天让建筑工人休息。"
+        ],
+        [
+          "但政策研究中心的一份报告指出，现有高温行动计划实施情况参差不齐。",
+          "报告发现，许多计划缺乏足够资金。",
+          "这些计划的预警触发阈值，也常未按照当地气候定制。",
+          "在某些地区，单看白天高温就足以触发预警。",
+          "但在其他地方，夜间温度或湿度可能与白天最高温同样重要，都是判断风险的指标。"
+        ],
+        [
+          "研究者说，孟买4月发生的中暑死亡凸显了更细致、本地化预警的必要性。",
+          "那天约36℃的最高温，比国家气象部门为沿海城市规定的热浪预警阈值低1℃。",
+          "但湿度和上午较晚举行的户外活动缺少遮阴，放大了高温影响；湿度却常被高温预警系统忽略。"
+        ],
+        [
+          "为改进高温行动计划，城市规划师科特卡尔团队正在制定示范计划，概述最佳做法并可适应当地条件。",
+          "她说，所有城市都应绘制脆弱性地图，以把应对工作集中到风险最高的人群。"
+        ],
+        [
+          "科特卡尔说，这种地图不必很复杂。",
+          "只需查看少数关键参数，就能绘制有用的地图。",
+          "例如，老年人口较多、或非正规住宅难以应对炎热的社区，可获特别预警或增设降温中心。",
+          "那格浦尔项目已绘制风险与脆弱性地图，使科特卡尔能够告诉官员，今夏出现热浪时该重点关注哪些社区。"
+        ],
+        [
+          "研究者说，高温行动计划不应只包括短期应急响应，还应建议能使社区更凉爽的中长期措施。",
+          "例如，在那格浦尔，科特卡尔团队已能建议市政官员应在哪里种树来提供遮阴。",
+          "高温行动计划也能指导住房改造或建筑规范修订工作。",
+          "气候研究员辛格说：“减少紧急情况下的死亡是好目标，但那只是最低目标。”"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    },
+    "2025-4": {
+      "trans": [
+        [
+          "跨出城市规划铺装道路和公园的“愿望小径”，是社区非正式的足迹，显露人们未说出口的偏好、共享的捷径和集体选择。",
+          "这些集体偏离规划的路线，常以绿地中的踩踏土路出现，抄近路、穿草坪、越山丘，体现人和动物尽量高效往返两点的能力。"
+        ],
+        [
+          "城市规划者认为愿望小径不只是便捷的近路，它们还能帮助理解规划与行为的互动。",
+          "俄亥俄州立大学让学生自由穿行校园中央草坪，再将学生走出的有效路线铺成正式道路。"
+        ],
+        [
+          "不过，其他规划者仍不愿把愿望小径纳入正式方案，理由包括安全、环境影响，尤其是美观。",
+          "一个拥有近五万成员、专门讨论愿望小径的Reddit页面，展示了带有要求行人走指定道路标牌的小径图片，凸显这些人行小径的叛逆性。",
+          "这一冲突凸显了公共空间由用户自然演化，与追求视觉上精心设计和受控环境之间的持续拉扯。"
+        ],
+        [
+          "威克夸斯盖克步道是历史性愿望小径的一例，由原住民开辟，用于穿越曼哈顿森林、在聚落间快速通行。",
+          "荷兰殖民者到来后，这条小径被拓宽为岛上一条主要商路，当时称为绅士街。",
+          "英国接管纽约后，这条街被更名为百老汇。",
+          "值得注意的是，百老汇是纽约少数不遵循城市其余地区网格布局的地方之一，斜穿部分城区。"
+        ],
+        [
+          "在网络空间，愿望小径引发了近乎痴迷的兴趣，Reddit页面成为讨论中心。",
+          "投稿者提供各类故事，从鲜为人知的新捷径到长期存在的替代路线。"
+        ],
+        [
+          "动物走出的愿望小径，例如鸭子穿过结冰池塘、狗在花园走直路，体现了这类路线在人与动物活动中的适应性。",
+          "愿望小径纵横于现实和虚拟空间，证明人们共同坚持开辟非常规路线、拥抱社区集体选择的精神。"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    }
+  },
+  "NEWTYPE_STUDY": {
+    "2025": {
+      "mode": "headings",
+      "blocks": [
+        {
+          "text": "Five Steps to Suggesting a Change at Work That’ll Actually Get Taken Seriously",
+          "cn": "暂无",
+          "n": null,
+          "label": "标题",
+          "sentences": []
+        },
+        {
+          "text": "Everyone wants to be that person—the one who looks at the same information as everyone else, but who sees a fresh, innovative solution. However, it takes more than simply having a good idea. How you share it is as important as the suggestion itself. Why? Because writing a new script—literally or figuratively—means that other team members will have to adapt to something new. Not to mention, if the process you're scrapping is one someone else suggested, there's the possibility of hurt feelings. To gain buy-in on an innovative, new idea, follow these steps:",
+          "cn": "暂无",
+          "n": null,
+          "label": "导读",
+          "sentences": []
+        },
+        {
+          "text": "Great ideas don't stand alone. In other words, you can't mention your suggestion once and expect it to be adopted. To see a change, you'll need to champion your plan and sell its merits. In addition, you need to be willing to stand up to scrutiny and criticism and be prepared to explain your innovation in different ways for various audiences.",
+          "cn": "暂无",
+          "n": 41,
+          "label": "本段",
+          "sentences": []
+        },
+        {
+          "text": "Sometimes it makes sense to go to your boss first. But other times, it's useful to build a coalition among your co-workers or other stakeholders. When it works, it works great—because you're ready for your stubborn supervisor's pushback with answers like, \"Actually, I connected with a few people in our tech department to discuss how much time these kinds of website updates would take, and they suggested they have the bandwidth.\" However, just be certain you can explain your end-around approach as one that built your case, rather than simply circumvented your manager. The last thing you want is for your boss to feel embarrassed he wasn’t informed—which could lead him to quash the idea before it even takes off.",
+          "cn": "暂无",
+          "n": 42,
+          "label": "本段",
+          "sentences": []
+        },
+        {
+          "text": "One of the biggest barriers to gaining buy-in occurs when the owner of an idea is viewed as argumentative, defensive, or close-minded. Because, let's be honest: No one likes a know-it-all. So, if people disagree with you, don't be indignant. Instead, listen to their concerns fully, try to understand their perspective, and include their concerns (and possible remedies) in future discussions. So, instead of saying, \"Martha, our current slogan is confusing and should be updated,\" you could try, \"Martha raises a great point that our current slogan has a long history for our stakeholders, but I wonder if we might be able to brainstorm a tagline that could build on that—and be clearer for new customers.\"",
+          "cn": "暂无",
+          "n": 43,
+          "label": "本段",
+          "sentences": []
+        },
+        {
+          "text": "New ideas are the grandchildren of old ones. In other words, don't throw old solutions under the bus to make your improvement stand out. Remember that in light of whatever the problem the old system solved—or, maybe, has failed to solve in recent memory—it was a great idea at the time. Appreciating the older contributions as you suggest future innovations helps bolster the credibility of your idea.",
+          "cn": "暂无",
+          "n": 44,
+          "label": "本段",
+          "sentences": []
+        },
+        {
+          "text": "When pitching a new idea, it's important to use the language of abundance instead of the language of deficit. Instead of saying what is wrong, broken, or suboptimal, talk about what is right, fixable, or ideal. For example, try, \"I can see lots of applications for this new approach\" rather than, \"This innovation is the only way.\" Be optimistic but realistic, and you will stand out.",
+          "cn": "暂无",
+          "n": 45,
+          "label": "本段",
+          "sentences": []
+        }
+      ],
+      "questions": {
+        "41": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "42": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "43": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "44": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "45": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        }
+      },
+      "vocab": []
+    }
+  },
+  "TRANSLATION_STUDY": {
+    "2025": {
+      "sentences": [
+        {
+          "key": "0:0",
+          "text": "You know the moment—the conversation slows, then there's a pause.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:0:0",
+            "0:0:1",
+            "0:0:2",
+            "0:0:3",
+            "0:0:4",
+            "0:0:5",
+            "0:0:6",
+            "0:0:7",
+            "0:0:8",
+            "0:0:9"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:1",
+          "text": "It's awkward, and so awkward that some people will panic and say anything.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:1:0",
+            "0:1:1",
+            "0:1:2",
+            "0:1:3",
+            "0:1:4",
+            "0:1:5",
+            "0:1:6",
+            "0:1:7",
+            "0:1:8",
+            "0:1:9",
+            "0:1:10",
+            "0:1:11",
+            "0:1:12"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:2",
+          "text": "Do we all find such silences so stressful?",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:2:0",
+            "0:2:1",
+            "0:2:2",
+            "0:2:3",
+            "0:2:4",
+            "0:2:5",
+            "0:2:6",
+            "0:2:7"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:3",
+          "text": "Researchers analysed the frequency and impact of gaps greater than 2 seconds during conversations, including an overview of previous studies which indicate that the fear of awkward silences can be so extreme that people avoid talking to strangers, even though doing so is likely to be an enjoyable experience.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:3:0",
+            "0:3:1",
+            "0:3:2",
+            "0:3:3",
+            "0:3:4",
+            "0:3:5",
+            "0:3:6",
+            "0:3:7",
+            "0:3:8",
+            "0:3:9",
+            "0:3:10",
+            "0:3:11",
+            "0:3:12",
+            "0:3:13",
+            "0:3:14",
+            "0:3:15",
+            "0:3:16",
+            "0:3:17",
+            "0:3:18",
+            "0:3:19",
+            "0:3:20",
+            "0:3:21",
+            "0:3:22",
+            "0:3:23",
+            "0:3:24",
+            "0:3:25",
+            "0:3:26",
+            "0:3:27",
+            "0:3:28",
+            "0:3:29",
+            "0:3:30",
+            "0:3:31",
+            "0:3:32",
+            "0:3:33",
+            "0:3:34",
+            "0:3:35",
+            "0:3:36",
+            "0:3:37",
+            "0:3:38",
+            "0:3:39",
+            "0:3:40",
+            "0:3:41",
+            "0:3:42",
+            "0:3:43",
+            "0:3:44",
+            "0:3:45",
+            "0:3:46",
+            "0:3:47",
+            "0:3:48"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:4",
+          "text": "During conversations with short gaps, people feel more connected to their conversation partners.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:4:0",
+            "0:4:1",
+            "0:4:2",
+            "0:4:3",
+            "0:4:4",
+            "0:4:5",
+            "0:4:6",
+            "0:4:7",
+            "0:4:8",
+            "0:4:9",
+            "0:4:10",
+            "0:4:11",
+            "0:4:12"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:5",
+          "text": "But such feelings of connection markedly dip when entering a long gap.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:5:0",
+            "0:5:1",
+            "0:5:2",
+            "0:5:3",
+            "0:5:4",
+            "0:5:5",
+            "0:5:6",
+            "0:5:7",
+            "0:5:8",
+            "0:5:9",
+            "0:5:10",
+            "0:5:11"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:6",
+          "text": "Long gaps between strangers are likely to be followed by a change in topic.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:6:0",
+            "0:6:1",
+            "0:6:2",
+            "0:6:3",
+            "0:6:4",
+            "0:6:5",
+            "0:6:6",
+            "0:6:7",
+            "0:6:8",
+            "0:6:9",
+            "0:6:10",
+            "0:6:11",
+            "0:6:12",
+            "0:6:13"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:7",
+          "text": "But the opposite seems to be true for conversations between friends.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:7:0",
+            "0:7:1",
+            "0:7:2",
+            "0:7:3",
+            "0:7:4",
+            "0:7:5",
+            "0:7:6",
+            "0:7:7",
+            "0:7:8",
+            "0:7:9",
+            "0:7:10"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:8",
+          "text": "Long gaps there saw increased connection.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:8:0",
+            "0:8:1",
+            "0:8:2",
+            "0:8:3",
+            "0:8:4",
+            "0:8:5"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:9",
+          "text": "Between friends, longer gaps seem to provide natural moments for reflection and expression.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:9:0",
+            "0:9:1",
+            "0:9:2",
+            "0:9:3",
+            "0:9:4",
+            "0:9:5",
+            "0:9:6",
+            "0:9:7",
+            "0:9:8",
+            "0:9:9",
+            "0:9:10",
+            "0:9:11",
+            "0:9:12"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        }
+      ],
+      "vocab": [],
+      "phrases": [],
+      "blocks": [
+        {
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "reference": "你知道那一刻——对话慢了下来，然后出现了停顿。这很尴尬，尴尬到有些人会惊慌失措，说出任何话来。我们所有人都觉得这样的沉默如此有压力吗？\n\n研究人员分析了对话中超过2秒的停顿的频率和影响，包括对先前研究的概述，这些研究表明对尴尬沉默的恐惧可能非常强烈，以至于人们避免与陌生人交谈，尽管这样做很可能会是一次愉快的体验。\n\n在对话中，短暂的停顿让人们感觉与对话伙伴更加亲近。但当进入长时间的停顿时，这种连接感会显著下降。陌生人之间的长时间停顿可能会由话题的转变而改变。\n\n但对于朋友之间的对话来说，情况似乎正好相反。在朋友之间，长时间的停顿反而增加了连接感。在朋友之间，更长的停顿似乎提供了自然的反思和表达时刻。"
+    }
+  },
+  "WRITING_CHARTS": {
+    "2025": "data:image/png;base64,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t+PI3jea4/i+f/7550d1dMw8ZcqUSZMmXXPNNYWFhbbRokW7DRs2vP7660EQLFu2rKqq6v777//73//eqVOnrVu3/u1vf7Mt0759+3Xr1q1fv7558+YSuTeQarDTpSgt07Vr11atWtlYe8aMGcuXL7/nnnsuvvhie59+/foVFBSMHz/+mGOO6dSpExHV1NT89re/ffHFF3v06AEA48eP79KlyxVXXMHMTz755EcffXTdddfZxx5zzDHdunU7++yze/bsecstt+Tl5dktNFOp1EMPPTRx4kTrdPvZ76JIfP920DAME4nEwoULM5lMYWGhUqpZs2YAEI/H27Zt+9Zbb3Xs2PGee+4ZNWrU5MmTx44d27x5c1tiZAu57Bu0U+yDDz74hhtuyMvLC4Kgurp68uTJa9asad26dc4tENnFYWbeuHHjmDFj7Exl2rRpzZo1W758+ciRI+0c7ogjjjjnnHOsnTt06HDrrbdaD06fPt1xnMsuu+yEE0545ZVXpk6det111w0YMCC7rDZX9iHIjtztCO26bmlp6Y033njwwQcPGjRo0KBBb7zxxk9+8pPsyoXIaEVFRUOGDBkzZszq1att5J5MJjt16vTCCy8w82uvvdaqVavx48c3b948t8xu+7xNvNiuYg8B+7EaY6LkrR3v0+l0SUnJeeedBwD/+Mc/2rZte9111910001vvvnmokWLioqK7Ns/44wzbC+yA2R2HkIi97p2j6pcJk2aNH/+fLtkgYiTJk3q0qXLunXrRo4cmUqlbG8zxixfvnzZsmU333yzzZ/apcVUKqW1rqysXLNmzezZs5m5oqIiHo/n5+dHOYrmzZtXVVVNnDjxyCOP7N+//4IFC2xKBxGbN29uM9Q7pM+aTu+M5O44TnFxce/evY8//ni7rnDLLbcg4po1a6ZOndq1a1ciKi4udhynrKwsnU5v3LjxhRdesO1zyimnPPvsswDwxhtvdO/e/dFHH7VXAzDGLFu2rLKy8he/+IVNSedWUGaMWbx48ddff92tWzd7aM2bNw8ATjzxxFQqZYX+0UcfPfvss3/84x8PPvhgZk6n047jVFZW/u53v2vdunXz5s03btz4pz/9qVWrVn369KmoqPjwww+7devWvXt3OyLmisXsEREdWYj48MMPT5o0KR6PH3bYYUuXLm3evPk555xzyy23dO3a1X76zDxr1qxp06Z99tlnzZo1+81vfpNMJh944IEuXbr07dv3/vvvv/TSS8MwbN269R/+8IdkMmnLbXMoAohWWezKnO0PdvDetGnTkCFDTjvttHbt2vXt29ceYnYqU15ePnPmzE8++WT+/Pndu3c/66yztNaFhYVHH320Maa4uNgOBnbSY61l40VJy2wLgmwq2XGcCy644IILLrD+evXVVysqKm644YZzzz03mjkCQKtWrWxeLKryBoBYLFZcXJzJZGKxWDweLygoAIBkMrlx48bsD5iI3n333X/84x/HH3/80qVLiSiTydhB2BiTSCTsDzbSb5p2s0djeXn5unXr7rjjjl69ejmOs3Llys2bN2/ZsuW888777LPP3nzzzVGjRiWTSa2167plZWX33nuv7XMrVqyora1t164dAFRWVt57770A4Lru4sWLk8mkXUnLLifNlcgdEfPz8+0khpmnTZu2ePHi++67L51OP/DAA1ddddWxxx576qmnnn766fbwtmfoIOIbb7yxaNGiV155pUuXLpWVlWvXrk0mk+vWrbvxxhuDIPjLX/6Si2epRKkqG6Vu2LBhwYIF/fr1e+WVV5h59uzZP/rRj84888wVK1bYNUMA6NOnz4knnvjzn/+8sLCwVatWy5Ytu+yyy5566qmCgoKlS5f+7ne/GzduXO/evbt27WqPl6giGXKTaBQ86KCD7r777rlz51533XWdO3cePnz4EUccYRfngyCoqqqqrKw88cQTn376aVuNRkSbNm1yXdf3/UQiYUVhixGinJikZSDK9tqxVCmVTqfj8XgymZwzZ86TTz65devWzZs3V1RU2IaeNWvW3//+94kTJ6bTaRtxR9PP3r17H3XUUbbw45BDDjn55JMR8cMPP1y1alX2nxs3btzjjz8ehuH8+fMvuOCCoqKisrKy1atX+77/7LPPMnO7du2YuaamJplM2mOjqVkM6rdZrq2tXbBgwf33319aWvqnP/1p7Nixd99994ABA+644461a9euWrVq6NChdo0oqlxet27dJZdc0r179xdeeKG8vPzzzz+3Ckin0w8++OC6devGjBlTUlLieV7TzErtevLXqlWrli1bfvfddzNmzJgyZcrDDz/cv39/+yHec889HTt27NGjR9u2bW19WywWIyK75GiXCq3rjTGrV6++/vrry8rKfv3rX3fo0CGa9uWcv2y2ys7tlFKzZ8/+6U9/ioibNm2KCsmipUV7nld1dXVpaaldaX/kkUd69+599tlnDx06FADKy8vz8vKiIpymOcHd/ZjSGBOGYRAEvu+3adOmZ8+eHTp0uOmmmyZMmNCjR49YLBYEQRAEo0aNUkp16NBhyJAh7du3nzlzpl3Tsq1XU1OzYsWK0tLSeDweJcRE7ttF01EFXjwer66unjBhwtixY22BUUVFxcKFC4Mg0FqvXLkyHo937NjRltlmVwe++OKLkydPNsasXLly+vTptbW1Sqn33nsvO/k1YcKEN99886GHHrrqqquOO+64oqKiIAiuuOKKP//5z6lU6p///Odf//rXdu3a2VXyMAztefxNrV9GWSzbVnPmzMnPz1+1apXneX369DnyyCNvueWWq6++2vO8o48+Oh6P2yPcGvypp57q1KnT448/buc66XSaiDZs2DBs2LAFCxYMHz68vLw8ewuHXDl67Qxs8+bNI0eOnDt37gknnJDJZCZNmnT66aevX7/+2muvbdu27erVq4cOHXr66acPHjz46KOP9n2/oqLi9ttvP/TQQ9euXev7/vr16ydPnlxTU1NcXDx06NBjjz3WXh4hd+NTx3FSqVQYhldcccWRRx45Z86c0aNHB0HQoUOHoUOHBkFgz4OzKzHWSrFYzP7QtWvX88477+WXXx40aBAz9+vXr7q62lamtWjRwmaod95wJofmeXZwik5lN8acdNJJM2fOhKyC9+nTp3/33XfdunUjoiVLlsyaNWvJkiX5+fmffvqp67qxWOzjjz8eO3bsOeecM2zYMDtJ2gd7C+dMWiZ7TdX3/XQ6fe+9927cuPGhhx6aPn36tGnTTj311B//+Me2p44ZM2bZsmW2RDc66jzPy8/PHzhwYPfu3a3QTzrppJtuuomIjjnmmA0bNlRWVsZiMc/zzjvvvLPPPnvp0qUAkEgkfvvb3zqOs379+oULF2qty8vLO3ToYAsMTjnllG7dujXB4TfKG0apw+rqamOMjSMAwPf99u3bl5WVnXrqqV27drXnrNo7T5069dVXX33yySdLS0vT6bRSat26dY888siMGTN69er14osvHn300dFJHDlUwmzJZDITJ05s0aLFU089pZQaP358x44d7fQrDMOysrL//u//HjRoEADY8seVK1feeuutl112WevWrSdNmjRq1Kj33nvv+OOPtwvUvXv3Vkpt2bJl1KhRP/7xj22OPvu05ybbDjapGLWJ9ddxxx13yCGHvPjiiyeffPLs2bNLS0sHDBhwxhln3HDDDVEMG53lh4izZs365S9/+ZOf/OSiiy4aPXq01frYsWOVUq7rXnvttTZcyKFVmV0n4m3tr1LKpnOtW8IwLCgouPbaaydNmuR53mWXXWaMWbBgwRtvvHHqqacmEom8vLxLLrmkoKDANksObU7g7PuGdl3XcZz77ruvqKgoFotNmzbN87zp06dv2bLF2v+LL76IGtHWuQdBUFRU9N5777Vo0SJK3NucuzGmf//+mUzm1ltvLS4ufvDBBx3HicVi0Z4q+fn5mUxm9OjRnTt3Pvvss21hLwD8+c9/Lioq6tGjRxMP2ezANmDAgJYtWy5ZsmTGjBl2/eDNN9/s3Lnz5MmTe/fufcUVV9il//nz5z///PNjxow5/PDDfd+vra1NpVLFxcWbNm0aPnz4McccY99sNIvKuTNU8/Lyrr/+eqvy119/vaKiwq5G2CUEu5qSSCSg/hyfsrKyJ598sqioaN68efn5+eedd95VV13led4LL7xgYw7Xdbdu3fr73/++T58+5eXlubj5XzwetyXC06ZNe+yxx6qqqh555JHf/OY3tqbIJmcAwOajogT9woULFy9e/Nhjj5155plbtmy58cYbmblly5ann356586dCwoKUqlUTsSnu47coxNubQnNDr3dHvinnnoqM9uUQF5e3pYtW1555ZUNGzYAwOGHHz516tSzzjrrscceO/vss5ta/rZpyT0qzLJVtHYFn4g6duzYq1cv+wEEQbB69WqoX56G+rOE7anV9tPKzgnaqfqXX3551FFH2ZqwIAiinPXs2bPHjh0LAE8//fRf/vKX6urqKVOmbN68OZVKzZgx44ILLsjLy2tqct+5C5aVlcVisfXr1wPAZ5999v7776fT6WeffXbKlCn33Xff6NGj//rXvyaTyfLycrs49u677y5YsGDevHlhGA4bNuyMM86wBfL2ma3Tc64U0o7WYRhWVVW9/fbbo0ePfvrpp/v27Wt/ZesfIGunTDt6tWzZ0uZzlFKtW7e22jrssMMWLlw4depUrfXGjRvT6fQ///nPI4880q5j73rHnqaGnQqPGTNm+fLlw4YN69SpU2lpabdu3SorK1977bUePXqMGDHCatqGSmEY9u7d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"
+  }
+}

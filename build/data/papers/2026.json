@@ -1,0 +1,1661 @@
+{
+  "reading": [
+    {
+      "id": "2026-1",
+      "label": "2026 · Text 1",
+      "paragraphs": [
+        "Ask people about public libraries and a certain image springs to mind: dusty, old-fashioned, the sort of place you enjoyed as a child but, rather like a British seaside town, would you go there now? And anyway — aren't they all closing?",
+        "The reality is startlingly different, as I discovered when the culture department commissioned me to conduct an independent review of English public libraries, published yesterday. As I visited libraries up and down the country, I was surprised to learn there are more than twice the number of libraries (2,892) as there are branches of McDonald's.",
+        "Enter any one of them and you will find a hive of activity. While books are, and should always be, at the heart of any library, a multitude of other services are offered: employment advice, language classes or digital access and support.",
+        "There are libraries with business and intellectual property centres, which can help business owners and entrepreneurs. Many have nurses on site to carry out basic health checks, with a link to the GP's surgery. There are libraries where young people can borrow a Fifa-standard football free.",
+        "In return for all of this, you'll be asked for precisely nothing. There will be no charge and you will never be asked to justify or explain yourself; you will simply be welcomed in, offered help if you need it, and left alone if you do not. There is no other institution, public or private, that can say the same. Yet still our libraries are often overlooked and underappreciated. There is an overall decline in visits and many are struggling as local authorities come under continued financial pressure.",
+        "The number of libraries that have closed since 2010 is disputed. An annual survey by the Chartered Institute of Public Finance and Accountancy puts it at nearly 800 across the UK; official statistics held by the Arts Council record 230 in England. It is, of course, 230 libraries too many. So if we are to protect our libraries for future generations, we must raise awareness of them and the work they do.",
+        "The review recommends a national branding campaign to give libraries a stronger physical presence, the reintroduction of a scheme to enable members to use their card in any library in the country, and automatic memberships for children. If we don't use them, we will end up losing them. And for those who haven't been to a library for some time, they may be surprised by what they find."
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "stem": "What was the author commissioned to do about English public libraries?",
+          "options": {
+            "A": "Document their valuable traditions.",
+            "B": "Make a plan for their expansions.",
+            "C": "Obtain reader opinions on them.",
+            "D": "Look into their current situation."
+          },
+          "answer": "D"
+        },
+        {
+          "n": 22,
+          "stem": "According to Paragraphs 3&4, the author finds that libraries ____",
+          "options": {
+            "A": "boast desirable book collections.",
+            "B": "keep detailed visitor records.",
+            "C": "perform diversified functions.",
+            "D": "attract mostly young readers."
+          },
+          "answer": "C"
+        },
+        {
+          "n": 23,
+          "stem": "It is implied in Paragraph 5 that libraries should ____",
+          "options": {
+            "A": "be given greater attention.",
+            "B": "impose stricter visit limits.",
+            "C": "work with private institutions.",
+            "D": "get their equipment upgraded."
+          },
+          "answer": "A"
+        },
+        {
+          "n": 24,
+          "stem": "The statistics mentioned in Paragraph 6 show ____",
+          "options": {
+            "A": "the crisis faced by libraries.",
+            "B": "the advancement of libraries.",
+            "C": "the contributions of libraries.",
+            "D": "the flaws existing in libraries."
+          },
+          "answer": "A"
+        },
+        {
+          "n": 25,
+          "stem": "Which of the following is suggested for libraries in the last paragraph?",
+          "options": {
+            "A": "Inviting public feedback.",
+            "B": "Seeking adequate funding.",
+            "C": "Improving user convenience.",
+            "D": "Offering lifetime memberships."
+          },
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "2026-2",
+      "label": "2026 · Text 2",
+      "paragraphs": [
+        "According to our research, around one in five workers in the UK talk to AI like a friend, looking for guidance on personal and professional problems. Our data shows that engaging with AI like this can leave us feeling heard and less isolated. But, with this newfound connection, many of us share sensitive, sometimes highly confidential information, even though over a third of people don't realise that AI platforms may not be very good at keeping our secrets…secret.",
+        "For businesses, the implications are worrying. Consider Microsoft Copilot, for example. It gains Microsoft broad rights to the data inputted or outputted by any user — rights to use this data in any way it sees fit; it can even share it with third parties. This means that any sensitive business information could potentially be exposed to the world. Employers are taking note and taking action. According to our research, 25% have decided to either outright ban AI or regulate its use within their organisations. But even with these policies in place, some employees choose to break the rules. They have their reasons — around 63% of them report that using AI increases their productivity, and some even feel AI offers more help than their human colleagues.",
+        "The situation presents a delicate balance between leveraging AI for its productivity gains and risking confidential data exposure. Employers need to manage AI tools with the same level of care as any other form of data sharing or storage. There's also a knowledge gap that needs to be addressed — 40% of individuals surveyed are unsure about who retains ownership over the content produced by AI. By instilling best practices in AI engagement and creating policies that evolve with the technology, businesses can positively shift the AI landscape.",
+        "With AI's potential to simplify our professional lives, do the admin and enhance the work experience, it's up to us to navigate its usage cautiously so it supports us without compromising our privacy. There's no need to back away from progress, as long as we're equipped with the knowledge and tools to make sure AI remains a friend. And this is where the challenge lies. There are so many products out there, being promoted with huge advertising and marketing budgets, that it's easy to fall victim. But by building a culture of digital responsibility within our businesses, we can create a future where AI can help us without spilling the beans."
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "stem": "According to Paragraph 1, workers' engagement with AI can ____",
+          "options": {
+            "A": "facilitate their career progress.",
+            "B": "give them emotional support.",
+            "C": "help maintain their motivation.",
+            "D": "improve workplace communication."
+          },
+          "answer": "B"
+        },
+        {
+          "n": 27,
+          "stem": "Microsoft Copilot is cited to show that the use of AI may ____",
+          "options": {
+            "A": "pose a threat to businesses.",
+            "B": "generate unnecessary data.",
+            "C": "promote business cooperation.",
+            "D": "encourage information sharing."
+          },
+          "answer": "A"
+        },
+        {
+          "n": 28,
+          "stem": "Some employees choose to break the rules on AI due to ____",
+          "options": {
+            "A": "easy access to AI products.",
+            "B": "the desire to stay well-informed.",
+            "C": "its significant role in their work.",
+            "D": "the need to compete with others."
+          },
+          "answer": "C"
+        },
+        {
+          "n": 29,
+          "stem": "To positively shift the AI landscape, businesses should ____",
+          "options": {
+            "A": "increase the transparency of their data sources.",
+            "B": "prioritise the quality of AI-produced content.",
+            "C": "include employee perspectives in their rules.",
+            "D": "adjust their management to AI development."
+          },
+          "answer": "D"
+        },
+        {
+          "n": 30,
+          "stem": "According to the last paragraph, we may easily fall victim to AI as we ____",
+          "options": {
+            "A": "have a limited understanding of it.",
+            "B": "underestimate its economic costs.",
+            "C": "tend to overemphasise its power.",
+            "D": "are excessively exposed to it."
+          },
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "2026-3",
+      "label": "2026 · Text 3",
+      "paragraphs": [
+        "Since the 2008 launch of the high-speed rail network between Rome and Milan, trains have become the preferred means of travel across Italy for locals and tourists alike. Fast trains can cover the 500km between the two cities in three hours. The network also connects Naples, Bologna, Florence and Turin. In many cases, it is the best option — in terms of travel time and cost — for both leisure and business travellers.",
+        "This is why the recent severe delays caused by numerous maintenance works have thrown the rail industry into chaos at a time when most people head on holiday, which matters for business in a country where tourism accounts for 10 percent of GDP.",
+        "Disruptions have become increasingly frequent with train delays now a fixture in Italian media coverage. Ferrovie dello Stato Italiane, the publicly controlled group that owns train operator Trenitalia and the national train network RFI, said 23 percent of all high-speed trains it operated were late in 2023.",
+        "The huge improvements in Italy's obsolete infrastructure partly explained the disruption, said Ferrovie. RFI, the network operator, is the single largest European recovery fund beneficiary with planned investments of €24bn by 2026. Ferrovie will invest a total of €124bn in infrastructure over the next 10 years.",
+        "But lack of capacity is another problem. Transport economist Andrea Giuricin said the planned investments would bring improvements but disruptions in the meantime were inevitable. \"We have a mixed system, there is no spare capacity and as soon as there's a hiccup on the line, the situation becomes highly complex,\" he said. A mixed system means that high-speed trains must travel on the regular tracks on certain routes or when passing through large cities. If there's congestion or, for example, a local train breaks down, the entire high-speed network is affected.",
+        "One of the most important changes the upgrades will bring is the segregation of the high-speed line from the regular one in certain urban centres through the construction of underground rail links.",
+        "Improvements will also come from the high-density technology and satellite signalling that RFI has been investing in for years, say experts. It will allow for a reduction of the distance between high-speed trains travelling on the same line at any given time, which should mean a significant increase in capacity and traffic fluidity, according to Giuricin."
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "stem": "According to the first two paragraphs, the high-speed rail network in Italy ____",
+          "options": {
+            "A": "is seen by tourists as outdated.",
+            "B": "is a popular option for travelling.",
+            "C": "is inadequately utilised by locals.",
+            "D": "is an example of good maintenance."
+          },
+          "answer": "B"
+        },
+        {
+          "n": 32,
+          "stem": "Ferrovie is quoted in Paragraph 3 to show ____",
+          "options": {
+            "A": "the common occurrence of train delays.",
+            "B": "the value of the Italian train network.",
+            "C": "the wide media coverage of trains.",
+            "D": "the high efficiency of Trenitalia."
+          },
+          "answer": "A"
+        },
+        {
+          "n": 33,
+          "stem": "Which of the following is one cause of the disruptions in the network?",
+          "options": {
+            "A": "Complex train schedules.",
+            "B": "Shortage of investments.",
+            "C": "Its limited capacity.",
+            "D": "Its massive scale."
+          },
+          "answer": "C"
+        },
+        {
+          "n": 34,
+          "stem": "It can be learned that the mixed system ____",
+          "options": {
+            "A": "provides a wide choice of routes.",
+            "B": "requires extra operational spending.",
+            "C": "increases the level of travel comfort.",
+            "D": "puts the high-speed network in trouble."
+          },
+          "answer": "D"
+        },
+        {
+          "n": 35,
+          "stem": "Improvements to the Italian train network will include ____",
+          "options": {
+            "A": "reconstructing the regular train lines.",
+            "B": "shortening high-speed train intervals.",
+            "C": "building more stations in urban centres.",
+            "D": "enhancing the safety of high-speed trains."
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "2026-4",
+      "label": "2026 · Text 4",
+      "paragraphs": [
+        "In 2023, Chicago lost one of its most beloved street festivals. The Silver Room Block Party, staged by Hyde Park community leader Eric Williams, announced it would not return in 2024. What began as a small neighborhood gathering blossomed into a massive cultural event, welcoming tens of thousands of people each year over nearly two decades before abruptly shutting down.",
+        "Williams pointed to rising production costs and declining attendee donations as primary reasons the Silver Room Block Party could not continue, highlighting a reality that all street festival organizers face right now. The cost of producing a street festival in Chicago has skyrocketed. Security, entertainment, portable restrooms, insurance and even basics such as fencing and staffing have all become significantly more expensive. At the same time, donations at festival gates have dropped dramatically.",
+        "Chicago's summer festivals are about more than just entertainment; they are economic engines that directly benefit the neighborhoods they're in and the city of Chicago as a whole. Street festivals drive foot traffic to local businesses and foster the kind of cultural vibrancy that makes our city special.",
+        "We often hear people ask why we solicit donations at our entry points, especially when the city's largest festivals like the Chicago Jazz Festival do not request donations. The fact is, unlike those large, city-produced music festivals, your neighborhood street festivals receive no city funding and rely on a combination of sponsorships, vendor fees and gate donations to cover their costs.",
+        "Wicker Park Fest has long been one of Chicago's most anticipated summer festivals, drawing upward of 70,000 attendees for a full weekend of live indie music, local art, small business vendors and, most importantly, community connection. In 2024, Wicker Park Fest saw record-breaking attendance. Despite the turnout, gate donations reached their lowest point in our history. This year, we've been forced to scale back the footprint of the fest. We are eliminating a stage, booking fewer performers and making additional cuts to reduce our costs, all while striving to keep the festival as vibrant as ever, as supportive of local artists and businesses, and as true to Wicker Park's unique spirit and reputation as festgoers have come to expect.",
+        "This summer, as you enjoy your favorite neighborhood street festival, I hope you'll remember that they exist because of community support. A thriving summer festival season doesn't happen by accident; it happens when we all chip in."
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "It can be learned from Paragraph 1 that the Silver Room Block Party ____",
+          "options": {
+            "A": "has been replaced by other festivals.",
+            "B": "has gained great international fame.",
+            "C": "was held in various neighborhoods.",
+            "D": "was an appealing cultural gathering."
+          },
+          "answer": "D"
+        },
+        {
+          "n": 37,
+          "stem": "One reality street festival organizers face is that ____",
+          "options": {
+            "A": "they are unable to use the donations wisely.",
+            "B": "they are unable to get sufficient facilities.",
+            "C": "they have to tackle financial difficulties.",
+            "D": "they have to step up security measures."
+          },
+          "answer": "C"
+        },
+        {
+          "n": 38,
+          "stem": "According to Paragraphs 3 and 4, Chicago's street festivals ____",
+          "options": {
+            "A": "reflect typical urban lifestyles.",
+            "B": "are funded by the government.",
+            "C": "contribute to the local economy.",
+            "D": "are famous for their music shows."
+          },
+          "answer": "C"
+        },
+        {
+          "n": 39,
+          "stem": "It is implied that the organizers of Wicker Park Fest have to ____",
+          "options": {
+            "A": "count on amateur artists' participation.",
+            "B": "reduce the number of performances.",
+            "C": "give up its most prominent feature.",
+            "D": "collaborate with large businesses."
+          },
+          "answer": "B"
+        },
+        {
+          "n": 40,
+          "stem": "The author holds that the future of street festivals depends on ____",
+          "options": {
+            "A": "the variety of activities.",
+            "B": "the generosity of attendants.",
+            "C": "the reputation of neighborhoods.",
+            "D": "the management of expenditures."
+          },
+          "answer": "B"
+        }
+      ]
+    }
+  ],
+  "EXAM_DATA": {
+    "2026": {
+      "cloze": {
+        "passage": "Most of us strive for self-respect — to see ourselves in a positive light, to be 1 of who we are. Any comments or experiences that undermine those feelings of self-worth can be uncomfortable and it's only 2 to want to avoid them. But the thing is, 3 your self-worth really is being undermined is, to a large degree, subjective. Much of it comes down to your 4 of what someone said or did.\n\nWhen you take things personally, you're interpreting these situations as saying something significant and negative about you as a person. Say your boss picks holes in your sales report, and you come away feeling like this means she thinks you're a 5 member of staff. Or, two of your friends cancel your 6 get-together at the pub and you interpret this as meaning they're bored of you. Psychologists have a 7 for this way of thinking: personalisation.\n\nBut the 8 is that your boss might view you very highly. It's just you made some 9 in the report and she wanted to point these out so that you do better next time. 10 , in the case of your friends cancelling, perhaps they both felt unwell that weekend or they just 11 their minds.\n\nIn both 12 — and others that we all experience — there's another 13 at work that psychologists call mind reading. This is when you assume to know what other people are thinking about you, when you can't really know without 14 them directly.\n\nOne simple way to avoid 15 personalisation and mind reading is to challenge your negative assumptions of what's 16 . When you find yourself taking a situation personally, try to think of other interpretations that are less focused on you — especially in the sense of saying anything deep or 17 about you.\n\nWhen you do this, it might help to try to put yourself in other people's shoes. The fact your boss took the time to give you 18 at all means they care enough to want to help you 19 . When it comes to your friends — maybe it's because your friendship is so 20 that they felt able to cancel at late notice.",
+        "questions": [
+          {
+            "n": 1,
+            "stem": "",
+            "options": {
+              "A": "afraid",
+              "B": "critical",
+              "C": "proud",
+              "D": "tolerant"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 2,
+            "stem": "",
+            "options": {
+              "A": "risky",
+              "B": "natural",
+              "C": "admirable",
+              "D": "foolish"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 3,
+            "stem": "",
+            "options": {
+              "A": "whether",
+              "B": "where",
+              "C": "why",
+              "D": "how"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 4,
+            "stem": "",
+            "options": {
+              "A": "citation",
+              "B": "imitation",
+              "C": "perception",
+              "D": "introduction"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 5,
+            "stem": "",
+            "options": {
+              "A": "poor",
+              "B": "loyal",
+              "C": "creative",
+              "D": "shy"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 6,
+            "stem": "",
+            "options": {
+              "A": "sponsored",
+              "B": "crowded",
+              "C": "disputed",
+              "D": "planned"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 7,
+            "stem": "",
+            "options": {
+              "A": "method",
+              "B": "term",
+              "C": "design",
+              "D": "goal"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 8,
+            "stem": "",
+            "options": {
+              "A": "evidence",
+              "B": "theory",
+              "C": "condition",
+              "D": "reality"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 9,
+            "stem": "",
+            "options": {
+              "A": "complaints",
+              "B": "choices",
+              "C": "mistakes",
+              "D": "suggestions"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 10,
+            "stem": "",
+            "options": {
+              "A": "Similarly",
+              "B": "Relatively",
+              "C": "Accordingly",
+              "D": "Contrarily"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 11,
+            "stem": "",
+            "options": {
+              "A": "opened",
+              "B": "changed",
+              "C": "trained",
+              "D": "cleared"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 12,
+            "stem": "",
+            "options": {
+              "A": "quotations",
+              "B": "experiments",
+              "C": "questions",
+              "D": "examples"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 13,
+            "stem": "",
+            "options": {
+              "A": "process",
+              "B": "objective",
+              "C": "outcome",
+              "D": "background"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 14,
+            "stem": "",
+            "options": {
+              "A": "blaming",
+              "B": "warning",
+              "C": "teaching",
+              "D": "asking"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 15,
+            "stem": "",
+            "options": {
+              "A": "arguing about",
+              "B": "accounting for",
+              "C": "engaging in",
+              "D": "interfering with"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 16,
+            "stem": "",
+            "options": {
+              "A": "happened",
+              "B": "continued",
+              "C": "returned",
+              "D": "disappeared"
+            },
+            "answer": "A"
+          },
+          {
+            "n": 17,
+            "stem": "",
+            "options": {
+              "A": "casual",
+              "B": "obvious",
+              "C": "familiar",
+              "D": "fundamental"
+            },
+            "answer": "D"
+          },
+          {
+            "n": 18,
+            "stem": "",
+            "options": {
+              "A": "reward",
+              "B": "feedback",
+              "C": "trust",
+              "D": "proof"
+            },
+            "answer": "B"
+          },
+          {
+            "n": 19,
+            "stem": "",
+            "options": {
+              "A": "innovate",
+              "B": "concentrate",
+              "C": "improve",
+              "D": "relax"
+            },
+            "answer": "C"
+          },
+          {
+            "n": 20,
+            "stem": "",
+            "options": {
+              "A": "strange",
+              "B": "strong",
+              "C": "vulnerable",
+              "D": "valuable"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      "newtype": {
+        "mode": "matching",
+        "title": "人物观点匹配",
+        "passage": "In an effort to support restoration programmes, specialists are developing supplies of seeds and seedlings, maintaining gene banks and sequencing the genomes of indigenous trees and other crops. Their work deals with one of the problems that could block major restoration efforts in different parts of the world.\n\n\"Where's the planting material going to come from? That's one big bottleneck,\" says genetic-resources specialist Ramni Jamnadass.\n\nAsia is arguably the region most neglected by global efforts to increase diversity in restoration and to study native species. Christopher Kettle, Biodiversity International's director for forest genetic resources and restoration in Rome, says that the need for infrastructure — things such as mechanisms for collecting and storing seeds, and nurseries to raise seedlings — might be most desperate here because many trees are 'masting' species, which don't produce seeds every year. People need to be ready. \"Otherwise, you miss the boat, you lose all the seed and you've got to wait another seven years,\" says Kettle. \"This is a really, really critical issue for restoration in Southeast Asia, because many of the most important timber species and tree species — the ones that will lock up the most carbon — they're all masting species.\"\n\nClimate change is a driving factor in the push to restore forests, but it also raises questions, such as where trees can thrive in the future. Climate change is also expected to alter relationships between trees, insects, diseases and other forest species. \"Insects that today are a minor problem may become a major problem if they can produce three or four generations in a year,\" says forest ecologist John Stanturf. This remains a significant knowledge gap. \"We know enough to know that this is a concern, but we don't know enough about how to respond to it yet. That's a great area to be doing research.\" So is soil, says Cindy Prescott, a forest ecologist at the University of British Columbia in Vancouver. \"If you don't look at the soil at the start, you can spend a lot of money and time putting in species that aren't going to survive there.\"\n\nWith so much research left to do, leaders in the field have been doing some soul-searching, and acknowledging that restoration can be motivated by — and designed to meet — different needs. \"When you talk about conservation or restoration, the first question has to be restoration by whom, for whom?\" says Daniel Janzen, a biologist at the University of Pennsylvania.\n\nThe question can have more than one answer. Much of the global funding for restoration is dedicated to developing it as a tool to mitigate climate change, notes restoration ecologist Pedro Brancalion. \"But if you ask a farmer in Brazil if he or she is concerned about climate change, they would say, 'No, I am concerned about water,'\" he says. Their interests as stewards of the land need to be better integrated with those who have the money to support restoration.\n\nThat has been the strongest lesson of all for forest ecologist Robin Chazdon. Restoration is about more than what gets planted in the ground, she says. \"Yes, it's about forests, but it's really about people. They are the agents of restoration.\"",
+        "options": {
+          "A": "People must pay attention to the fact that some kinds of trees do not produce seeds annually.",
+          "B": "Soil is an important element to be taken into account in forest restoration.",
+          "C": "The purpose of restoration efforts may be different from the real needs of the people involved.",
+          "D": "Human factors, as well as trees planted, should be emphasised in forest restoration.",
+          "E": "The supply of seeds is a tough problem that has to be dealt with.",
+          "F": "When it comes to restoration, we have to start with an awareness of whose interests to serve.",
+          "G": "Some creatures in the forest that multiply fast can become a great threat to forest restoration."
+        },
+        "items": [
+          {
+            "n": 41,
+            "text": "Ramni Jamnadass",
+            "answer": "E"
+          },
+          {
+            "n": 42,
+            "text": "Christopher Kettle",
+            "answer": "A"
+          },
+          {
+            "n": 43,
+            "text": "John Stanturf",
+            "answer": "G"
+          },
+          {
+            "n": 44,
+            "text": "Pedro Brancalion",
+            "answer": "C"
+          },
+          {
+            "n": 45,
+            "text": "Robin Chazdon",
+            "answer": "D"
+          }
+        ]
+      },
+      "translation": {
+        "source": "The influence of wearables on psychology refers to how the clothes we wear affect our thoughts, feelings, and behaviors. Clothing is not just about covering our bodies; it plays a significant role in shaping our self-perception and interactions with others.\n\nOne aspect of this influence is self-expression. The clothes we choose can reflect our personality, mood, and identity. Whether we opt for bold, colorful outfits or prefer more understated styles, our dress choices convey messages about who we are and how we want to be perceived.\n\nAdditionally, clothing can impact our confidence levels. When we wear clothes that make us feel comfortable and confident, it can positively affect our self-esteem and overall mood.\n\nMoreover, cultural and societal influences play a significant role in shaping our dress choices. Different cultures have their norms and expectations regarding dress, which can influence the types of clothing people wear and the meanings attributed to them.",
+        "reference": "服装对心理的影响指的是我们所穿的衣物如何影响自身思想、情绪和行为。衣物绝不仅仅是用来遮蔽身体的；它在塑造自我认知以及促进人际交往方面，也发挥着重要作用。\n\n这种影响的其中一个方面体现在自我表达上。我们所选择的衣物能够反映出自己的性格、心情和身份认同。无论我们是选择风格大胆，色彩鲜明的服装，还是更偏爱低调简约的风格，衣着选择都在传递着关于我们自身身份，以及我们希望给他人留下何种印象的信息。\n\n此外，服装还会影响我们的自信程度。当我们穿上让自己感到舒适自在且自信的衣服时，这会对我们的自尊心和整体情绪产生积极影响。\n\n再者，文化和社会因素的影响在塑造穿衣选择方面也起着重要作用。不同的文化对于着装有着各自的规范和期望，这些规范和期望会影响人们所穿衣物的类型，以及人们赋予这些衣物的含义。"
+      },
+      "writing": {
+        "partA": "47. Directions: Suppose your friend Jack has shared with you a video of his family’s travel in China. Write an email to tell him 1) how you feel about the video, and 2) your wish to learn more about their travel. Write your answer in about 100 words on the ANSWER SHEET. Do not use your own name in your email; use “Li Ming” instead. (10 points)",
+        "partB": "48. Directions: Write an essay based on the chart below. In your essay, you should 1) describe and interpret the chart, and 2) give your comments. Write your answer in about 150 words on the ANSWER SHEET. (15 points)",
+        "chartImage": "writing-2026"
+      }
+    }
+  },
+  "CLOZE_STUDY": {
+    "2026": {
+      "questions": {
+        "1": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "2": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "3": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "4": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "5": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "6": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "7": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "8": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "9": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "10": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "11": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "12": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "13": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "14": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "15": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "16": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "17": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "18": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "19": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "20": {
+          "cn": "暂无",
+          "options": {
+            "A": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "m": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "m": "暂无",
+              "why": "暂无"
+            }
+          }
+        }
+      },
+      "vocab": []
+    }
+  },
+  "ANN": {
+    "2026-1": {
+      "trans": [
+        [
+          "问起公共图书馆，人们脑中就浮现出陈旧落灰的印象：小时候喜欢的地方，如今还会再去吗？",
+          "再说，难道它们不是都在关闭吗？"
+        ],
+        [
+          "但实际情况截然不同；文化部门委托我开展英国公共图书馆独立审查时，我发现了这一点，报告于昨天发布。",
+          "走访全国各地图书馆时，我惊讶地得知：图书馆有2892家，数量是麦当劳分店的两倍多。"
+        ],
+        [
+          "走进其中任何一家，你都会发现一片忙碌景象。",
+          "虽然书籍是、也理应永远是图书馆核心，但图书馆还提供就业建议、语言课、数字接入和支持等许多服务。"
+        ],
+        [
+          "有些图书馆设有商业和知识产权中心，可以帮助企业主和创业者。",
+          "许多图书馆有护士现场开展基础健康检查，并与全科医生诊所相联系。",
+          "有些图书馆还让年轻人免费借用符合国际足联标准的足球。"
+        ],
+        [
+          "享受所有这些服务，你无需付出任何费用。",
+          "这里不收费，也不要求你解释自己；需要帮助时会得到帮助，不需要时也能独处。",
+          "没有其他公共或私人机构，能够作出同样承诺。",
+          "然而，图书馆仍常被忽视，未得到足够重视。",
+          "到访人数总体下降，而且地方政府持续承受财政压力，许多图书馆正在艰难维持。"
+        ],
+        [
+          "2010年以来到底关闭了多少图书馆，存在争议。",
+          "一项年度调查说英国关闭近800家图书馆；艺术委员会的官方统计则记录英格兰关闭230家。",
+          "当然，关闭230家图书馆，也实在太多了。",
+          "因此，如果要为后代保护图书馆，就必须提高公众对图书馆及其工作的认识。"
+        ],
+        [
+          "审查建议开展全国品牌宣传，恢复全国图书馆通用借阅证计划，并让儿童自动成为会员。",
+          "如果我们不用图书馆，最终就会失去它们。",
+          "那些很久没去图书馆的人，或许会对现在发现的服务感到惊讶。"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    },
+    "2026-2": {
+      "trans": [
+        [
+          "研究显示，英国约五分之一劳动者把人工智能当朋友交谈，寻求人生和工作问题的指引。",
+          "数据显示，这样与人工智能交流会让人感到被倾听，孤独感减轻。",
+          "然而，这种新联系也让许多人分享敏感甚至高度机密的信息，尽管超过三分之一的人不知道人工智能平台未必善于保密。"
+        ],
+        [
+          "对企业而言，这种影响令人担忧。",
+          "以微软Copilot为例。",
+          "原文称，该工具使微软获得对用户输入输出数据的广泛使用权，可以按其认为合适的方式使用，甚至与第三方共享。",
+          "这意味着，任何敏感商业信息都有可能暴露给外界。",
+          "雇主正在注意这一问题，并采取行动。",
+          "研究显示，25%的雇主已决定在组织内全面禁止人工智能，或规范其使用。",
+          "但即使有这些规定，一些员工仍选择违反。",
+          "他们有自己的理由：约63%的人说人工智能提高了生产率，有些人甚至认为它比同事更能提供帮助。"
+        ],
+        [
+          "这种局面要求在利用人工智能提高生产率与机密数据暴露风险之间，保持微妙平衡。",
+          "雇主管理人工智能工具，应像管理其他数据共享或存储方式一样谨慎。",
+          "还有认知缺口需要解决：40%的受访者不确定人工智能产出内容的所有权归谁。",
+          "通过传授人工智能交互的最佳做法、制定随技术演进的政策，企业可以积极改善人工智能应用环境。"
+        ],
+        [
+          "人工智能有潜力简化工作、处理行政事务、改善体验；我们须谨慎使用，使其提供支持而不损害隐私。",
+          "只要掌握确保人工智能保持友好的知识和工具，我们就不必回避进步。",
+          "而挑战恰恰就在这里。",
+          "市面上产品众多，又投入巨额广告和营销资金推广，以至于人们很容易受害。",
+          "但通过在企业中建立数字责任文化，我们可以创造一个人工智能提供帮助而不泄密的未来。"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    },
+    "2026-3": {
+      "trans": [
+        [
+          "自2008年罗马至米兰高铁开通以来，火车已成为意大利本地居民和游客首选的出行方式。",
+          "高速列车三小时就能跑完两座城市间的500公里。",
+          "该铁路网还连接那不勒斯、博洛尼亚、佛罗伦萨和都灵。",
+          "在许多情形下，无论休闲还是商务旅行，按用时和费用衡量，高铁都是最佳选择。"
+        ],
+        [
+          "正因高铁如此重要，大量维修引起的严重晚点，在多数人度假时令铁路业陷入混乱；对旅游业占GDP一成的国家，商业影响很大。"
+        ],
+        [
+          "铁路运行中断日益频繁，列车晚点已成为意大利媒体经常报道的话题。",
+          "拥有Trenitalia和全国铁路网RFI的国有控股集团Ferrovie说，其2023年运营的高速列车有23%晚点。"
+        ],
+        [
+          "Ferrovie说，对意大利老旧基础设施的大规模升级，是铁路混乱的部分原因。",
+          "铁路网运营商RFI是欧洲复苏基金最大的单一受益者，计划到2026年投资240亿欧元。",
+          "Ferrovie将在未来十年向基础设施投入总计1240亿欧元。"
+        ],
+        [
+          "但运力不足是另一个问题。",
+          "交通经济学家朱里钦说，计划中的投资会带来改善，但施工过渡期的运行中断难以避免。",
+          "他说：“我们采用混合系统，没有冗余运力；线路稍有故障，情况就会变得非常复杂。”",
+          "混合系统意味着，高速列车在某些路线或穿越大城市时，必须使用普通铁路轨道。",
+          "若线路拥堵，或者例如地方列车发生故障，整个高铁网都会受影响。"
+        ],
+        [
+          "升级带来的最重要变化之一，是通过修建地下铁路连接，使某些城市中心的高速线路与普通线路分离。"
+        ],
+        [
+          "专家说，改善也将来自RFI多年投资的高密度运行技术和卫星信号系统。",
+          "朱里钦认为，这将缩短同线运行高速列车之间的距离，从而显著提高运力与通行流畅度。"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    },
+    "2026-4": {
+      "trans": [
+        [
+          "2023年，芝加哥失去了最受喜爱的街头节日之一。",
+          "由海德公园社区领袖埃里克·威廉斯主办的Silver Room街区派对宣布，2024年将不再举办。",
+          "活动从小型邻里聚会发展为大型文化盛事，近二十年来每年吸引成千上万人，随后却突然停办。"
+        ],
+        [
+          "威廉斯指出，制作成本上涨与参与者捐款下降，是活动无法延续的主要原因，也凸显所有街头节日组织者面临的现实。",
+          "在芝加哥举办街头节日的成本已急剧上升。",
+          "安保、娱乐、移动厕所、保险，乃至围栏和人手等基础项目，都明显更贵了。",
+          "与此同时，活动入口处收到的捐款大幅下降。"
+        ],
+        [
+          "芝加哥的夏季节日不只是娱乐，也是直接惠及举办社区和全市的经济引擎。",
+          "街头节日为当地商家带来人流，也培养了让这座城市独特的文化活力。"
+        ],
+        [
+          "我们常听人问，为什么在入口募捐，尤其大型芝加哥爵士音乐节等并不要求捐款。",
+          "事实是，邻里街头节日不同于市政府举办的大型音乐节，没有市政资金，只能靠赞助、摊位费和入口捐款共同支付成本。"
+        ],
+        [
+          "Wicker Park节长期是芝加哥最受期待的夏季节日之一，整个周末吸引七万多人享受独立音乐、本地艺术、小商户及社区联结。",
+          "2024年，Wicker Park节参与人数打破纪录。",
+          "尽管观众众多，入口捐款却降至活动历史最低点。",
+          "今年，我们被迫缩减节日的活动规模。",
+          "我们正撤去一个舞台、减少受邀表演者并继续削减开支，同时努力保持节日活力、支持本地艺术家商家，以及人们所期待的Wicker Park精神。"
+        ],
+        [
+          "今夏，当你享受喜爱的邻里街头节日时，希望你记得：它们能存在，是因为社区支持。",
+          "繁盛的夏季节日并非偶然发生，而是在我们每个人都出一份力时才会出现。"
+        ]
+      ],
+      "vocab": [],
+      "kw": []
+    }
+  },
+  "NEWTYPE_STUDY": {
+    "2026": {
+      "mode": "matching",
+      "blocks": [
+        {
+          "text": "In an effort to support restoration programmes, specialists are developing supplies of seeds and seedlings, maintaining gene banks and sequencing the genomes of indigenous trees and other crops. Their work deals with one of the problems that could block major restoration efforts in different parts of the world.",
+          "cn": "暂无",
+          "n": null,
+          "label": "正文",
+          "sentences": []
+        },
+        {
+          "text": "\"Where's the planting material going to come from? That's one big bottleneck,\" says genetic-resources specialist Ramni Jamnadass.",
+          "cn": "暂无",
+          "n": null,
+          "label": "正文",
+          "sentences": []
+        },
+        {
+          "text": "Asia is arguably the region most neglected by global efforts to increase diversity in restoration and to study native species. Christopher Kettle, Biodiversity International's director for forest genetic resources and restoration in Rome, says that the need for infrastructure — things such as mechanisms for collecting and storing seeds, and nurseries to raise seedlings — might be most desperate here because many trees are 'masting' species, which don't produce seeds every year. People need to be ready. \"Otherwise, you miss the boat, you lose all the seed and you've got to wait another seven years,\" says Kettle. \"This is a really, really critical issue for restoration in Southeast Asia, because many of the most important timber species and tree species — the ones that will lock up the most carbon — they're all masting species.\"",
+          "cn": "暂无",
+          "n": null,
+          "label": "正文",
+          "sentences": []
+        },
+        {
+          "text": "Climate change is a driving factor in the push to restore forests, but it also raises questions, such as where trees can thrive in the future. Climate change is also expected to alter relationships between trees, insects, diseases and other forest species. \"Insects that today are a minor problem may become a major problem if they can produce three or four generations in a year,\" says forest ecologist John Stanturf. This remains a significant knowledge gap. \"We know enough to know that this is a concern, but we don't know enough about how to respond to it yet. That's a great area to be doing research.\" So is soil, says Cindy Prescott, a forest ecologist at the University of British Columbia in Vancouver. \"If you don't look at the soil at the start, you can spend a lot of money and time putting in species that aren't going to survive there.\"",
+          "cn": "暂无",
+          "n": null,
+          "label": "正文",
+          "sentences": []
+        },
+        {
+          "text": "With so much research left to do, leaders in the field have been doing some soul-searching, and acknowledging that restoration can be motivated by — and designed to meet — different needs. \"When you talk about conservation or restoration, the first question has to be restoration by whom, for whom?\" says Daniel Janzen, a biologist at the University of Pennsylvania.",
+          "cn": "暂无",
+          "n": null,
+          "label": "正文",
+          "sentences": []
+        },
+        {
+          "text": "The question can have more than one answer. Much of the global funding for restoration is dedicated to developing it as a tool to mitigate climate change, notes restoration ecologist Pedro Brancalion. \"But if you ask a farmer in Brazil if he or she is concerned about climate change, they would say, 'No, I am concerned about water,'\" he says. Their interests as stewards of the land need to be better integrated with those who have the money to support restoration.",
+          "cn": "暂无",
+          "n": null,
+          "label": "正文",
+          "sentences": []
+        },
+        {
+          "text": "That has been the strongest lesson of all for forest ecologist Robin Chazdon. Restoration is about more than what gets planted in the ground, she says. \"Yes, it's about forests, but it's really about people. They are the agents of restoration.\"",
+          "cn": "暂无",
+          "n": null,
+          "label": "正文",
+          "sentences": []
+        }
+      ],
+      "questions": {
+        "41": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "42": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "43": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "44": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        },
+        "45": {
+          "evidence": "暂无",
+          "why": "暂无",
+          "options": {
+            "A": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "B": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "C": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "D": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "E": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "F": {
+              "cn": "暂无",
+              "why": "暂无"
+            },
+            "G": {
+              "cn": "暂无",
+              "why": "暂无"
+            }
+          }
+        }
+      },
+      "vocab": []
+    }
+  },
+  "TRANSLATION_STUDY": {
+    "2026": {
+      "sentences": [
+        {
+          "key": "0:0",
+          "text": "The influence of wearables on psychology refers to how the clothes we wear affect our thoughts, feelings, and behaviors.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:0:0",
+            "0:0:1",
+            "0:0:2",
+            "0:0:3",
+            "0:0:4",
+            "0:0:5",
+            "0:0:6",
+            "0:0:7",
+            "0:0:8",
+            "0:0:9",
+            "0:0:10",
+            "0:0:11",
+            "0:0:12",
+            "0:0:13",
+            "0:0:14",
+            "0:0:15",
+            "0:0:16",
+            "0:0:17",
+            "0:0:18"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:1",
+          "text": "Clothing is not just about covering our bodies; it plays a significant role in shaping our self-perception and interactions with others.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:1:0",
+            "0:1:1",
+            "0:1:2",
+            "0:1:3",
+            "0:1:4",
+            "0:1:5",
+            "0:1:6",
+            "0:1:7",
+            "0:1:8",
+            "0:1:9",
+            "0:1:10",
+            "0:1:11",
+            "0:1:12",
+            "0:1:13",
+            "0:1:14",
+            "0:1:15",
+            "0:1:16",
+            "0:1:17",
+            "0:1:18",
+            "0:1:19",
+            "0:1:20"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:2",
+          "text": "One aspect of this influence is self-expression.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:2:0",
+            "0:2:1",
+            "0:2:2",
+            "0:2:3",
+            "0:2:4",
+            "0:2:5",
+            "0:2:6"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:3",
+          "text": "The clothes we choose can reflect our personality, mood, and identity.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:3:0",
+            "0:3:1",
+            "0:3:2",
+            "0:3:3",
+            "0:3:4",
+            "0:3:5",
+            "0:3:6",
+            "0:3:7",
+            "0:3:8",
+            "0:3:9",
+            "0:3:10"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:4",
+          "text": "Whether we opt for bold, colorful outfits or prefer more understated styles, our dress choices convey messages about who we are and how we want to be perceived.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:4:0",
+            "0:4:1",
+            "0:4:2",
+            "0:4:3",
+            "0:4:4",
+            "0:4:5",
+            "0:4:6",
+            "0:4:7",
+            "0:4:8",
+            "0:4:9",
+            "0:4:10",
+            "0:4:11",
+            "0:4:12",
+            "0:4:13",
+            "0:4:14",
+            "0:4:15",
+            "0:4:16",
+            "0:4:17",
+            "0:4:18",
+            "0:4:19",
+            "0:4:20",
+            "0:4:21",
+            "0:4:22",
+            "0:4:23",
+            "0:4:24",
+            "0:4:25",
+            "0:4:26",
+            "0:4:27"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:5",
+          "text": "Additionally, clothing can impact our confidence levels.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:5:0",
+            "0:5:1",
+            "0:5:2",
+            "0:5:3",
+            "0:5:4",
+            "0:5:5",
+            "0:5:6"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:6",
+          "text": "When we wear clothes that make us feel comfortable and confident, it can positively affect our self-esteem and overall mood.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:6:0",
+            "0:6:1",
+            "0:6:2",
+            "0:6:3",
+            "0:6:4",
+            "0:6:5",
+            "0:6:6",
+            "0:6:7",
+            "0:6:8",
+            "0:6:9",
+            "0:6:10",
+            "0:6:11",
+            "0:6:12",
+            "0:6:13",
+            "0:6:14",
+            "0:6:15",
+            "0:6:16",
+            "0:6:17",
+            "0:6:18",
+            "0:6:19"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:7",
+          "text": "Moreover, cultural and societal influences play a significant role in shaping our dress choices.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:7:0",
+            "0:7:1",
+            "0:7:2",
+            "0:7:3",
+            "0:7:4",
+            "0:7:5",
+            "0:7:6",
+            "0:7:7",
+            "0:7:8",
+            "0:7:9",
+            "0:7:10",
+            "0:7:11",
+            "0:7:12",
+            "0:7:13"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        },
+        {
+          "key": "0:8",
+          "text": "Different cultures have their norms and expectations regarding dress, which can influence the types of clothing people wear and the meanings attributed to them.",
+          "cn": "暂无",
+          "tokenKeys": [
+            "0:8:0",
+            "0:8:1",
+            "0:8:2",
+            "0:8:3",
+            "0:8:4",
+            "0:8:5",
+            "0:8:6",
+            "0:8:7",
+            "0:8:8",
+            "0:8:9",
+            "0:8:10",
+            "0:8:11",
+            "0:8:12",
+            "0:8:13",
+            "0:8:14",
+            "0:8:15",
+            "0:8:16",
+            "0:8:17",
+            "0:8:18",
+            "0:8:19",
+            "0:8:20",
+            "0:8:21",
+            "0:8:22",
+            "0:8:23"
+          ],
+          "core": [],
+          "trunk": "暂无",
+          "why": "暂无",
+          "mods": [],
+          "point": "专项拆解按P3补齐。",
+          "remember": "暂无",
+          "spot": "暂无"
+        }
+      ],
+      "vocab": [],
+      "phrases": [],
+      "blocks": [
+        {
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "reference": "服装对心理的影响指的是我们所穿的衣物如何影响自身思想、情绪和行为。衣物绝不仅仅是用来遮蔽身体的；它在塑造自我认知以及促进人际交往方面，也发挥着重要作用。\n\n这种影响的其中一个方面体现在自我表达上。我们所选择的衣物能够反映出自己的性格、心情和身份认同。无论我们是选择风格大胆，色彩鲜明的服装，还是更偏爱低调简约的风格，衣着选择都在传递着关于我们自身身份，以及我们希望给他人留下何种印象的信息。\n\n此外，服装还会影响我们的自信程度。当我们穿上让自己感到舒适自在且自信的衣服时，这会对我们的自尊心和整体情绪产生积极影响。\n\n再者，文化和社会因素的影响在塑造穿衣选择方面也起着重要作用。不同的文化对于着装有着各自的规范和期望，这些规范和期望会影响人们所穿衣物的类型，以及人们赋予这些衣物的含义。"
+    }
+  },
+  "WRITING_CHARTS": {
+    "2026": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAAFoCAIAAACTx7VhAAAACXBIWXMAABEZAAARGQGJ8bLSAAAgAElEQVR42uydd3wc1dW/v+fe2V1Vy7It996NG8aFbsA2vQRCSSghAUJCCYFAKnmTkEaA5JeQNxBK6M3U8BJaaAaMweCCjS1bbtiWm2TLKpZkrXZn7jm/P2ZVLNvgJllI5/nkQ653Z3eO7s7cO/c5d+6QiEBpK5RXVASIshghS5DGP64Ql5aVjxrYc5+/fF1JPC1qnWNjjB42Bw0DOGcNFa5dNeHQ0Xv+uU2bNnlpHZg8wAICpH5BESGL6vKSwf37aO0q+w/tbesQbk9Euyt88butebM2ELmIGGNqamriCedTWuPNBIAxJK5jVjRC8AgCgPZ0XyJCRJWVlb5EfPG0zls4JEcWALEfIfaEs7PTPc98+beJI2OdIOFQHQ98FsM77gvkiaTHvMwMIxBACCywWucaeeN3m7FT0evTrwTMXFFV4yPa9LczFuzSIpSTEU0dJnt3tCCRSFTW+GyiWskt/ZuShcDAWbjs9Gg0YvfsTGeABFSxPZkIBES00xkcEeqQFfFseDCEIxijFa40dBJ72al4WmVtUJAYkxaLulrX5NAQCQwJ+1wT58yMtH345mg0mhag1ndayS2MCBORIc5Mj0UjBntxdUeJRNL5SQMCzM6dSlpazHr1MowAvXBUWlB/hRsnEonCwkJrbb0Y0SFqq4ucDMND+C5RXSF1MUpgovCH473dl5AnQvUd1U672KmwP++25s1aNiRJtfVCJMQCwNRJzT34BUkAkAl/vyaHBCAkYggQgbAh4rqY9Axtt5E754wxPXr0yM7ObvaRiogkEgkAeXl5+zAyUlrscmG3V5zhLyYAyQH+ZqX5RioNbipV2ntFJQBBqMlLQkIQqvtZU0MVPa3bPRUVFfv2wb3rVOp7MyLahx5MOdgtU6NORfnq/XiSGmeC9r5TqZ/uZXZ6g+sGsaRHiFLf1FdVVe1bEn3vjszGvUhYrn9l57e+uNAKN2v7kRPIaJ1/RSMnwADGkAlLe/ltRGTrz/fG7xIMwRCZJkeI1nk7j5yIjNmXKRt7nVMRkerq6uLi4iFDhmh/riiK0iZHKsXFxdnZ2VlZWXtrpHTuoKIoinLA2N9ORYeoGrlGrpFr5G04ctVfiqIoiuovRVEURfWXDlE1co1cI9fIVX+p/lIURVFUfymKoiiqv3SIqpFr5Bq5Rq76S/WXoiiK6i/VX4qiKIrqr2bYTABHFA7HUuWmn214cBETSWrlVkqtBVu3WepLwgeJEBjiMxCk1iQP6r+kPQ6uJbWmfqPKrK/JcMnb8Ifg1IKFApKd9yUNv0PdK41+mrDIKjQ0co1c9ddBh5v8yV+4Cqvs5l0HkMAwwketOogweQ6IgCFOKIJ2u7pro6Vt64q7XO1Wdlg2n/a88vd8A0VRDrL+ag9PfiSA69ojs6tWKdUCChpdcTdtL014/WzqR3jEdQM9RjtfVJ640V+fegwY7aIOacc6avqpRk962WUZ2qMoSuunjXcqAgjIQCDuk48/qU6wsHiG+vbtO3DgwLrGza+sKJuzYMm4CRM75nQwEj6xCAQnzncO64u3rlq1MiMWHTNmdGZGeln5tkX5S7rmdR4yfCSErXWbi4rvffTZm274YVZ6rF0eRY45ABlDkbDddwAk7MDZBUkSMTaNhYwBKOxwhMUPHzZoTOpTSRZi9uAzM2zEwRpOGmMEZuHCRQOHDM3KyopoElBRWjdtf0qxhE9nZ/9vf/1/d9199/3/euAf//jHvHnzGjaDPHT/fbfeetvSFSuFSKghDSDsHnnkkSu+e+Vb77x37333P//sM4Zw8803Ly1Y/re/37U4P98aQhA88tCDIw45JC0thnZqbJnI3XfvPccfP3nqtKlTp514xXevChwHzMxsjSnZUnzGGWff+fd/OhGW1IMFRVzBssVTp02ZOnXKlClTp0w5ce78BUS0cvmySy78xpmnn7FwUb4lIuGysq3/vOe+jMyMgDWnopFr5C0deUuPVOpTMo1zMzu/eLA2Sz3XW0BAelraww89Ya3ngUHGOWcMALN8WcGa1asPGTmCxYhImFMOC++88d///veNxx59uGv37lbEkmxYv6ZTp05XXf2992a8M3v2nLGjhi9ZtLAmnjj9jNPChxsdlHo4uHUuwiIIgsQV371i2IjRBOPF0o01BkJM1dXVv/3Nb/r165sMmEERE6bvxRDitfGJEydecMGFEA9A/2HDDYInnnjyZz//RbeefW657W8T77wVQnfddfeVV37XORYCYFpJPbSq41wj18ibL3LVX19iwwwokGQgaVHUUlBZtkWu/9Vvfv+rO55+7G8OEQ9CggASI3aO33v5xat+9tseXTs5JMS3VZ7n2SQFUd9xx9g29nJKqksevP/B6/70d2uYfMvWBzEhSiBQANh2kQagmEHSOB48eNjIQ8dHLIk4I7BUCzHPPP98l4FDjxo+YO6q2sC6KBtnyBMjLBET7ZLb/bBDD2cDBnzHJihaW1zee9Skzqa6vNYxghlvfpzerc8R4ya6KIM1p6Ioqr8O6mZ1T1IFiBLJxO233X7bH2977f/eFoa1GSK50596fvKxpx46aihxEFovAVkiiCNIUdGmZWuKv3P5VSdPPekPv/vJ5s3FXbr227il8J77H3vs4VePO2bIXb+/Z/yUU3tme55PSRuADIs0miPbTgbX4QgCpeXlmzYV11RWkhiyCUi0sqr03Xc/+OlPfk7kCwgkQHgJRESWGbWJ5IYNG7cUl8C5mKGk5AzumfvOex9s2rCpe6fsZG3y2elPXPqtiwXCAtnNE6xVaGjkGrnqr5bbjAARAtmrr/lBkq2Lx1/9zyuLl3/+859eX1K89bOly+64+28QJjgYYqmfpSTiuDYRL6sov+GmmzrGYtMfv+Mf//znX35zy6133LK4YNMpxxy1ce2Cikp39ITRf/3LvSaoPuvccwYOPyRCFhLONAuna1P7GFxTv4GDZn8yZ/acTz/P/3TsxGOvvu67GcY8+/Qz5593jmcs1Q8V6z/KyM3tVJuofeChB7aWlPh+7bU/+Z+Rg/tdfMVVz09/bM3C6HVXfvuO228/6ZSpZVvL162dO+Sw8VlZmZ5V/aWRa+StWn+1/ftUBAJxEGYWsp4kkiVlBRd/+3cv/2f63f/4fUlptPeQ3LQa74OPXuk84qRzTzzy6MMniQG5BAiXf/3Uy29/dNKwftGkv6rg3R/d/uSLTz5KqIJLKy8u/vVf7v3r73/xz9t+dfQlN/SPVv7pz/+84757Ikha8QADcruZwdzWYBGwb0iS4hkijm+95IofnPvNayaO7XHLzbf85Oafkhed+/ar+cWxb337xDEDhvqejQnAgRPAWAFbkrv+fuebCwqnP3xXumHLNQzvXw8+WlWx7bRTTvjHI6+fPKH3o/+ecc/9d3fvlKN6QVGavdk8iMu0fAVGcMJERsgaLyLM1pqaeDwWy7DWHnH4kUMH94tFvQ45OcZGPM/GIoY44TtHXnogyO6QtWb1GnFsrCsrS3qRHCb2KA2IP/7o/V+76NLMtNqNJdU9e3fr2btXVTweQAyZRhG1i8G1AE7ECVljDXE0ZvO6dCkvLy8s3Lhly9brr73u2quvff655z788KPrb7y+Nl4bTvQWBmDEEIsjBH17dttcWh6wWPFrTVZ1yYYP5yz6wQ03rlhZMO2EKWdfcHbEpq9eu0GFhkaukav+OribhWt72KUFy9auWT2gf7/K0q2vvPb68Sec4NnoUUeecvTR1nnGC2TOwpknnzj1sHGDP1+W/9I7s6+59hpD5vBjj3308emDcjKsX/7QvU+ceNZFQj65yKKPZxVVx68bN8hHdUZej4pNRZujpelZnQyIBTa1PEnD3eNte3BNRIbMunWFPfv098htWrtm4/otV/5wzJjBg45/4yhQRMi+85/HPlrm3/iTS9PZLl21XBI8csiQDUXre/TtY61NJmpnfzx7/LHTOpjaBEUh/Mh991x6xaUCgDgRr+Eg4Rxba1RoaOQaOXT210GFiCIAevfstWD+p/PnzY9Go5NPmDZlylQiMdEIAGIGYeSYw/t0SSfjBZRm4UFgyTv/O9fk9nl35ozXY7HMy2+4fvykCYbdis9X/b+7n/jrnX+LRj2g41VXf++xxx+zJDfd9IMYizVe3WJY7WWqEnHS92v/9a/7V64qZKas7Ozrf/TDEf37iLDx0pBa0iDmRcoDRJgSrz/10IK1FQ/e/7/z537w7M9fMl56wucp0076xWWXgjgm7oWnpydinY+eNCldksccPe13f7jt07lvHXH0uLGjhquXUJTW3iDsZ06FiOovV+u/aucXW8NmzBzGb61lZmNMyt4wiwCGGLBEQSLJZK1nDdgYFmaARDzrGebAsW8oIkxkEH5DEASp7xGp/84W/gMPbp0LJwFhIWsjLMaxENizJqxway0RcbLKj2TVBMgxSXK1CZNpAYvAMQlZMYYFZE0EgkT1009PP+2sc2PZORmWhcV37EXT4snAel7MtJZ6aLXHuUauke//ZgCKior2LafSjp6n0nhkR9SQ8BAWAE44vOHRkBEyYCZDgDNEQhKuQmIMOReE02GNSX08bDqNMfVfKw2zitsJjjkgWEGqWpiF2RljjKnLMEkyKR4bE+OAxHcmnR17BIE4EbJGQERkRAwCERExztiIuLC3EjJCxIKI3qmiKC3SWuqCknskwpoUUv80BMALVx+uJ9UaegAIbD2EkxqsjYR13mhD88Xf3w6wxhg0WkTSGDJmx0OLIhEiAch4AFnAegZ1S3U2rPhJBHhEIJBBakOq+2arPYqitHr0ccJ1jwCRVCpEAMAROHwFRAxI6gEhqd6k/mEhOrckVXN1c94IBJFdbUYEqZvCYBt3u+G7gKn/PVA/g44a5mTX7UrrXCPXyPV5Kq0brl+Wve55HxQ+i0ts+E+BEByFa65I/Tq8pM/NrK/ARpcnApGGXqHRNgYMYSGPEU6Q4x3u45G6hw80PDWlydNTJLXOjqIoqr++GoO1hud92Mb/JFBDRaWq12q97Wa0S9jVIWjC/5Chhsq1TT7XMCjZsa4bbaH+S1FUf+kQVSPXyDVyjVz1V/vRX4qiKMqB0l9qqBVFURTVXzpE1cg1co1cI1f91baHjHWZZNGUcovUs6IorU5/tfnZXy7pJGE9AaJ1t9iF81jDvnQfCrt73Ycj8SIsUVtNyOY2O0VMAGLAuADggKIgGEiL7JqciEWFQQabGCPwxNP+RVFaFW28U2HYT5atvu/ZWWwzPXHOiEjESLO09k4SacnMs6cOOX3qYE9g2/zjhAkQYsg9z8wKTHqL7FCG9sw4+ZjBxB4DlLpDRlGUNtSptPKl01jEGc/FulQHMSI4MSBDdfdlh09mrC+EDwAWwRcXdvlZIrANmNN9a1jCeySFqOHZuW1nubrUogMQYSLrQB+vKK4xHer+UjQp7PLFPXy3yWYkIpI8DpGMcDxOglTl6xKBGrlGfoA3O2idSit/JIAFLDvxfTIZRoiIhBxs0CT1IY3UFva1EESTATuHbEMMsRBP6oYpbetpDalRA1kT9sUsaSIZO7zbqLDLF/fw3Z02YzFRA2MIAhFxdU9+1idkaOQauT5PpeUkjYAcAAM2zM6wkKv3N40LTf65twWPxWOOiBg4kGGiNjxfO1wHjWEYIHIG8RbYqQGMZFgIiRDBQTRlryiqv1pafwVEAXkBGZPK01uRCHaVb8eepet3964NyASekQjBgMBgQwZtU381XMUwALFEkbCbqZNjDYVwKUjZTWGXH9ndl0DEQDwSsIDEEImAVGho5Bq56q8W28wAnpDliDUilGAYgEh4d6ONPRyU7HqkAmyPIW4J7LFxFqb+SrpNDa6JJbW8F1kJ1xZ2De+iaeGL/dYuP/IFXxJQ1Ihj8gA2QVo4wU6Fhkaukav+Ohi+hmQHeXPAPZtAKPVTtGkt02gR4YZXpKX2TXVdUbhbAakAU5RWRLu4o75JyM0bEtrV/bo4GJGjSVXrPdIauUbeeu6o399O5Ss4gmvmkNCuBtc4GJGjqSVToaGRa+StRn/pgpKKoiiK6i/VX6q/VH9p5Bq56i/VX6q/VH+pitHIVX8piqIoiuov1V+qv1RoaOQaueov1V+qv1R/aeQaueovRVEURfWX6i/VX6q/VMVo5Bq56i/VX6q/VGho5Bq56i9FURRF9ZeiKIqiNGunojmVpgXNqTR75GhS1WrJNXKNXHMqLbpZk5CbNyTNqTR75GhS1WrJNXKNXHMqiqIoiuov1V+qv1R/qYrRyFV/qf5S/aX6S4WGRq6Rq/5SFEVRVH+p/lL9pfpLVYxGrvpL9ZfqL9VfqmI0co1c9ZeiKIqi+kv1l+ov1V8auUau+kv1l+ov1V+qYjRy1V+qvxRFURTVX6q/VH+p/tLINXLVX6q/VH+p/lIVo5Gr/lIURVEU1V+qv1R/qdDQyDVy1V+qv1R/qf7SyDVy1V+KoiiKovpL9ZfqL1UxGrlGrvpL9ZfqL9VfGrlGrvpLURRFUf2lKIqiKC3fqWhOpWlBcyrNHjmaVLVaco1cI9ecSotu1iTk5g1JcyrNHjmaVLVaco1cI9eciqIoiqL6S/WX6i/VX6piNHLVX6q/VH+p/mqPQkMgIgKISiSNXPWXoii7u5YDZLeXSzttKADv8t0dvie1iWjtKqq/VH+p/mpnQoMav1ZXEkNh99GomghEZMKDfhf7Ct8MSzbcyqhE0shVf6n+Uv3V9utcGOJEREQcMwMiDsIQiBMAIk5YIKkzmoWdCATMDIAEwsKpEUnqewRgEYgDEHBqZyJOJZJGvj/6y9PBmqJ8BYSXuC3FxQXLV0Si6WPGHWY9Lz3iL1u6oriozFor8FmSLJlHHDkpFotYA5LAGEoksDR/aUVFxfBDRuR26WysicBftXLVhk3FI0aO7tQlT0Qi8N95//2Ek1NOmuqBIQxSK67sO/vbqRBR2KfVF3b54sHdbHf668DuK7yEbqK/wk+0wB/YsnW+C/3VApGnajj1/yBQOFg5WAdVS9b5yuXLbrj+hu69eq8p3NhnwMC77r5LxP339Vdnf7iAWYwX+EHNpjLz1FOP9evVleBDEoma+FXX/nLT+k1Ra33m/7nlVxMOn7hx04bbbr31qMnHPfDwY/968EEQJWuqH3300f+9+5+SOj0azplWeCK3tpDacOQHrVNR/fVl+ova4uCaGkwUtVzk1I71V2VV1f/edVf/gUMryssuvezyghUrJo4Z+qMbrr/+R5kwYlz1ff96ZHb+pu49u6bqxthk0p119pmnnXhqxNhf/uonf7/r748e/tQn7757xjcuPXXaCYUbCj8vXD9qYJ9/PPTEt771rfTMDAMAJMQqkTRynf2lKG2cwyZMGDB4mCWTm5nRMSuGaCSJKIjYwCeXiG/9738//OH113oWBAFZUFp2x55nnHVGLBox1o0e1b+yqjwAeRJs9zKs9TJiTMa+//qrJeWJE6ZMMYCVhnG8ohy0TkVnfzUt6OyvZo8cTaq6fczncSUlmxcs/PTnP/1x7179hg0ZaomAqCGGyKxZn/Tu22/ksD4mNX2LCASIEQsbB20vWLpp9KgjIx6POnLCy08++MgDT6xbVZTl4Q9/+8f3vnupBXsSOIIAjqKt+UTW2V8HtfFU/aX6S/VXW6lzIvP8C8+WFG8pKy8dNLx3zfaajOwMEAz8qHivv/PRSaeebUXAImF/EjYNLEzxgmVLVqwq+vOdfzWQvkOH/+on15Vu3n7eOf/vL3+748c3/3Jd4bqHH72/V17Hs791ZaeMtADG1P3AKpE0ctVfitI2ETHXXPODW373m/sevC9eu/3xJ/5thXwykPgns95bsb7y2BOOtuwbCQCIEDsGB+KSa1av/8Otd/7sf37ao2dnIwCljxw17rgph70/68MBww45buLIhx56+IabbgriVc/8+y2SZKB3Pyqqv1R/qf5q83VO8CAWIjZqu/fIq6goM0K+kPPj0x++/7DDj09Lj5E4Q8KOA8dEBML6tflXXn79Ny648pCxw0CBJ9ay9WHi21Y//9Lz51x4YenaJbmd8ygWGzFk4IaireInDEElkkauNz+2Zv3VtgfXOBiRt0f99fabb86cMaOgYNk7b737/gcfHXXkBJAQZPFnS1euLTzjlOONQByJBCtXLrn7rntdIGWlm2/+9S8nnzCtR6/uCxZ8Om/+vLLSCnZcm0ze+vvbzz//vFgsmpfXtbq8lH23aEVhvz5dYU0ETCqRNHK9+VFR2jaDh/R747VXZ87alpbZ8Yc3/WL8xMMSftIj+nxdxZkXfHvcsD5GBCYmqDam1hMPbLbHqwYfMg4meO21/wA2CPhrZ2VMGH/IC088mdtr0mmnnO6BueugS75x1t//dEePgYPP/dqJgfUi4oNiWuHKvuurveqRwsUdqquri4uLhwwZ8pX4C2ctWfuP5wtqKMOYOIkFPAg3x44iQC3ZCyf3uPDYYWycgaFGtq0NwQIjgJEAYrYbc8VvX6ylDi1xsAJHjehy0/kjIBEhtgGJBbWP27+FHSBkLLMICAQOHBGMMcYY55xJLfEVFwQk2QTA1gqsCBFZEYKACCyBMAGwxoKY4CQZsIk6a8mAJPBIgIi2jO0cESkuLs7Ozs7KytpbFaY5Fc2paE7lq1DnxsJ4ImF+hS2J51nP84iIiKy1LAwQmRgoCgOyJGIJxpCBiCEQhABrPGMoErEgAQjkUTRGBp4hC1jy6ibZtdITWXMqB7XxbBH9pTmVpgWdUtxskbfrKcWA1J3qTf4bbmatBQQwhmJh5RBFwsXtiQBI/YjOGCPiiCh1TUlkbMN5AfJa84msOZWD2ni2SKeiKErLCIlGNtXIrryqoOnLjf4RPi6FANv40goCSY34OFxRXyta2U9Uf6n+Uv3VRoRG4yemNNQNwlyLIdhGr9Y/Y6X+ySoNr7RfiSQQCtc+Y2pQDgJygEN9/7vDBwUIIACSlBo8OyJJdeRU/3ybhhE2QacUq/7aL/3VtgfXOBiRt0f9VT+MSC0iu6vNSFIbUV257nCvf8HUfcSE5UZ1CJVI4VSksFMRMOrrNfVEZtrNt4UdR7LuIyxSV+2pZzrDhc/fZEl9RNqy/tI76hVFURrGaxZgeIAFMRAAIPFSmQJyu2pCwyRCGmBgUl04CRgEsEFCIH4y2M/Lf9Vfqr9Uf6n+aq8S6SsYOTPX1tb++8UXH33o/s9XLEsyHAjix2srX3zh+ScefXL50pUBu2Td3Qj18yNWrVz55GPTZ7zzrsADjAtqN20uefDhxz98750kwGBwfEnB8ltvvU0E4ShI76hX/aX6S/WXzkRqy5H7vr9t27Yf/OC6VWvWbC3e+PMf3/T+R3OTLNu3lV537fUb16/bXLzh5z/78Yez59T6O3zwtttu+/Of/1xUuO6BB/552213O+cCv+b3v729R68eM978z4wP54kw19Y89MiT3/zmBYCE91Tp7C9FUZQ2rWuMSU9P/93vf9e5W9dYsP1f9z308dxPjzlmYizm/fEPf+malw3UZnfwPvp47vgjj5RGSzhffPHFPXv0MEFyycpFP7rxf3943ZVbijbkdelx/LRj8jLjb+QvnTp+xBtPPzvm0PGDBg8yhtixtW0/46D6S/WX6q9WV+dSf6SKAxyLD4QTkByBv7SwN+8GQG04TYkRAIBLtjf9ZQxFPdstr5PHTF60osbv1KkTCby0WNeuuWRhrK2q3t4pt6Mlqr/1xxjTu3cf60XIk4zMDk5qY2mR7KwOpeUlzCTJZG6HDjXVla+8/eFF53/NGvaZYAgCMkF45OrNj6q/9ObHHf4o6M2PzbYvaXhWvAkgCVgPZKQZ0rzEArIMIUrAWEas0b0q7UN/CcQZg6X5SwuWLF21YkVxZc2N3/u+ERGhZcs+K1iydNXyVVvKKn9x5fVwDK/+JzKUOrn92bPnj5swkgx16tK1W5e0X938O+tqvn/V93988+/Ov/xqAzFwvggRrEDEF3ik+ktRlBYUCOEsI+sIb3y0bPn6Ehivrptp9Ayu3RS+dINGBWHDET8DdjsTIj4uv2ByRrurbwKkQ06H3LxuoyK08qWX3n7l5QsuvtinrMys3M5duhFFlr78+suvvHbRJRfuuKCfA3j1msKXXnr59v93JxHIRn79yx8HJr1GIg//6RcTjj4hEov9+Cc/d4mycy++7pijRreH20v3t1OpnwVRX9jliwd3s93prwO7L6RuIKAdKwct8we2bJ3vQn+1QOSpGq5rXAkUDlYO1kHVnPtCeAt9IFixvmz20mr2ItQwMsT+FHb8pziSSCCw2xg2K0h+2xpJ3b3fGk/k5ttX7759e/Qd6El8wMB+//OHv555zrkmI6137359+/SDcL+BQ3/5uz+df+GFUSMwJCAIA34iXn3b7X+5/PLLe/bo7hwMYE2EmItXFqypoDtvPuv6n/32Jz/9yecrFj782PSjjxr9xc1Cq6pz1V+qv1R/tR39BVggEDiQdeT5NsPBGqTummvoTXdT+NINGhcEJMayiUEyfFQz2t3sLxEJnLPWBkGSyNUGnAgkMz3NY0fGA4mA/MBZa4IgKVaYPScwFls2bPjj7349euykqVNPNMaIgMgLhDyuePjBf138/RsR1AQVRdGMjI4dOlRUVDALSGd/KYpy0JxMYGCIAqGAIAbcHPsAGyBw5AustMulv0T49ddee3fGO/0GDXIumPnR/O9876ooIX/OrIefenHwkEGJZO3Hc+dd+p1L09KiQc3W8y645Oof/njqlBNu+dVvt5WW9hvBf73zHwY07rDDJh9/tHG1d/31f7sfMnHsoJ5wNeNGj3jp+eeLNqw488zTTPu4+VH1l+ov1V+ts85NuGwXQQyEIQSW1AEmX1YAUkOWXRSafISEAyMR5zlKCmyEhIRa7YncDPuCsZHTzzzrkJEjP5k7BzB/+cs3+vTtZwhjJ036Qedec+fPZcd33HFHn1nN4fkAACAASURBVH79ALGxjEu/c9mECYdZY844++sV5aUSSQvP+k65OZ4xiz/9bMGKdX+56beWA5jod67+4XPP/nvqtJMnHXmcpTCACFR/qf5S/aX6q6X3JSQwIEDCbpw4tVpX6sLoywphL7LrQv2WDCJC0tispEeez7DeDr9vu9BfRAZkBg4eNnDwsB2aCps+eOjgwUMH73BJajPOPe8b4T/OOuecJo0hEUaPP/KeeycacsZ6oIhnceHFF+/Y8nhtW3/p2l+KoigHwiXWXd1Ho1FjTDtZ6evAdyp682PTgt782OyRo0lVt/kVtIDmirzhm3e1fr6uWrYPmxljRMQYg/b65Edd+0vX/tK1v1p7nQPNFXmjp3XtVNBVy/Z1s/oWuX0++VH1l6IoitJq9JeiKIqiHLBORXMqTQuaU2n2yNGkqjWnss+Ra05FI4fmVKA5Fc2p7FjVmlPZ58g1p6KRQ3MqiqIoiuov1V+qv1R/qf5S/aX6S/WX6i/VX6q/VCKp/tpjdEFJRVHaI+FyNAF4dn5xYBwJUcPaaA0b7P/jBizECHyygHTLyRjSq6OFA0XaasXqgpK6oKQuKNl663yX+usARt7wsK7G+kvQak/kA7svgALIg898WhtNEhsB1T9xs/4w2+GQ233hC961EMtImjRrZOLQjIHfOJ6cM1YXlFT9pQtK7vhHQReUbIF90UHRX+1iQcnwyGWQb2IJ8mCtQ7OMHowIDDl4JAnfRGudZJJR/aUoitIGBZiAAtgkWcDzWBr33wcOEpCAPEIELsPCigNsW61Wnf2ls7909ldrr3Od/dVc+wofLQAhsBH2xI9IEOEgwkFDoXH5Cwq7f9dj34ofgW/Z94RN3QCxrc7+Uv2l+kv1l+qv9qi/6p9aZoU9CSAQhGmVRs85Q6Onmn1poeEjTQoQQgBPKOKbSBJIo4jqL0VRlLYmvyCIEpIWRoiEXOryvMkwbufx4t4VGufyZaehp+ov1V+qv1R/qf5qC3Wemp8lcESAhRCECQLhxoVdvrh3m4EJYsAGbIQNUdvWX3rzo978qDc/tvY615sfm2tfkJZpFnbYl679pSiKoiiqv1R/qf5S/aX660tnf7VEs7DDvnTtL9Vfqr9Uf6n+Uv2l+kv1l6IoivJV01+KoiiKcsA6Fc2pNC1oTqXZI0eTqtacyj5HrjmVlmkWoDmVPUdzKk0LmlNp9sjRpKo1p7LPkWtOpWWaBWhORVEURVFUf6n+Uv2l+kv1l+ov1V+qv1R/qf5S/aX6S/WXoiiKoqj+Uv2l+kv1l+ov1V+qv1R/qf5S/aX6S/WX6i9FURRF9ZfqL9Vfqr9Uf6n+Uv2l+kv1l+ov1V+qv1R/qf5SFEVRVH+p/lL9pfpL9ZfqL9Vfqr9Uf6n+Uv2l+kv1l+ovRVEURfWX6i/VX6q/VH+p/lL9pfpL9ZfqL9Vfqr9Uf6n+UhRFUVR/qf5S/aX6S/WX6i/VX6q/VH+p/lL9pfpL9ZfqL0VRFKUV6S9FURRFOWCdiuZUmhY0p9LskaNJVWtOZZ8j15xKyzQL0JzKnqM5laYFzak0e+RoUtWaU9nnyDWn0jLNAjSnoiiKoiiqv1R/qf5S/aX6S/WX6i/VX6q/VH+p/lL9pfpLURRFUVR/qf5S/aX6S/WX6i/VX6q/VH+p/lL9pfpL9ZeiKIqi+kv1l+ov1V+qv1R/qf5S/aX6S/WX6i/VX6q/VH8piqIoqr9Uf6n+Uv2l+kv1l+ov1V+qv1R/qf5S/aX6S/WXoiiKovpL9ZfqL9Vfqr9Uf6n+Uv2l+kv1l+ov1V+qv1R/KYqiKF89/aUoiqIoB6xT0ZxK04LmVJo9cjSpas2p7HPkmlNpmWYBmlPZczSn0rSgOZVmjxxNqlpzKvscueZUWqZZgOZUFEVRFEX1l+ov1V+qv1R/qf5S/aX6S/WX6i/VX6q/VH8piqIoiuov1V+qv1R/qf5S/aX6S/WX6i/VX6q/VH+p/lIURVFUf6n+Uv2l+kv1l+ov1V+qv1R/qf5S/aX6S/WX6i9FURRF9ZfqL9Vfqr9Uf6n+Uv2l+kv1l+ov1V+qv1R/qf5SFEVRVH+p/lL9pfpL9ZfqL9Vfqr9Uf6n+Uv2l+kv1l+ovRVEURfWX6i/VX6q/VH+p/lL9pfpL9ZfqL9Vfqr9Uf6n+UhRFUVqR/lIURVGUA9apaE6laUFzKs0eOZpUteZU9jlyzam0TLMAzansOZpTaVrQnEqzR44mVa05lX2OXHMqLdMsQHMqiqIoiqL6S/WX6i/VX6q/VH+p/lL9pfpL9ZfqL9Vfqr8URVEURfWX6i/VX6q/VH+p/lL9pfpL9ZfqL9Vfqr9UfymKoiiqv1R/qf5S/aX6S/WX6i/VX6q/VH+p/lL9pfpL9ZeiKIqi+kv1l+ov1V+qv1R/qf5S/aX6S/WX6i/VX6q/VH8piqIoqr9Uf6n+Uv2l+kv1l+ov1V+qv1R/qf5S/aX6S/WXoiiK8tXTX4qiKIpywDoVzak0LWhOpdkjR5Oq1pzKPkeuOZWWaRagOZU9R3MqTQuaU2n2yNGkqjWnss+Ra06lZZoFaE5FURRFUVR/qf5S/aX6S/WX6i/VX6q/VH+p/lL9pfpL9ZeiKIqiqP5S/aX6S/WX6i/VX6q/VH+p/lL9pfpL9ZfqL0VRFEX1l+ov1V+qv1R/qf5S/aX6S/WX6i/VX6q/VH+p/lIURVFUf6n+Uv2l+kv1l+ov1V+qv1R/qf5S/aX6S/WX6i9FURRF9ZfqL9Vfqr9Uf6n+Uv2l+kv1l+ov1V+qv1R/qf5SFEVRVH+p/lL9pfpL9ZfqL9Vfqr9Uf6n+Uv2l+kv1l+ovRVEUpRXpL0VRFEU5YJ2K5lSaFjSn0uyRo0lVa05lnyPXnErLNAvQnMqeozmVpgXNqTR75GhS1ZpT2efINafSMs0CNKeiKIqiKKq/VH+p/lL9pfpL9ZfqL9Vfqr9Uf6n+Uv2l+ktRFEVRVH+p/lL9pfpL9ZfqL9Vfqr9Uf6n+Uv2l+kv1l6IoiqL6S/WX6i/VX6q/VH+p/lL9pfpL9ZfqL9Vfqr9UfymKoiiqv1R/qf5S/aX6S/WX6i/VX6q/VH+p/lL9pfpL9ZeiKIqi+kv1l+ov1V+qv1R/qf5S/aX6S/WX6i/VX6q/VH8piqIoXz39pSiKoij1ePv5eSIKB0r1hZ1fFJGwQERfsNkefttebRaIiEiaXxyLZiIIACswQg4AgcIBaX1hly/u+WYkLioSlU5iYGAIQmTC6JrvD2zJyqwrmLAaWGCJKHDZtC0iyb2trn2oc4CzGYashBVuU5r6oNRDs++LAFgGIpLIlq2BUKi59+cQ3eW7hpEuFBVwEERNJJ400Sha/KA6CHVuICDDMDlukxAxPAYd8GZBIBAwGQJ5nEhDTxA5B2tatDLD5nevvm3fO4W9cmdhD1FdXV1cXDxkyJA9/xSA8FMt3GeysUl4EANYiAdYJhbi5hn1kbCLkpCrjSIgsMBI274k8bwgCGqR7ky0BXZHkDRXCeHw6qRNCwQWEJMXUMSniBNDkMZzQA4gttHZIJCINZ6rBBhtnbCSHUWSiDjymEwzna5MxDAGzrqkJ0krgSG08AFsjBkwYIAxe6qmRKS4uDg7OzsrK2tvQ/Va7K/Kysra837oQCEcAL4IDHkgDyBAQM1y7ASM8AraEBkCwn+1XUTEOWetpdQf2yJXCZxXf5K06RYvdfA4FsdsrLUk1MyVLI5Tl/BeXvvwNIK6tkDqupnmb5ACQxAYspGWPFVFpMVOmZaYUkx1oMVnxZGxZKy1HogAAYQAiECEIE0Ku3xxzzezcB7YIzapA5Xa/JRizwsvSvaluvatzomo/txoa9Nbd3gxPFlgjUQtPAQkvP+H6Je8SzCWrGcO7kHVgvsKWyUhcRbOSNAczULdu0wQCBkvyjYa9igtVpn7c9YchJzKHk5Q2/kttMisOAExoqGKbjRwsPU+pWlhly/u2WbGGIAbb9S2pxQ3KFoQ73117Vudm0bDlLY2vXUX76L+9gaBlf0+RHf3burUMKnD1xy8g+pg7ItAJBAQcdgyHNBmIZX2q7ukFaT+Z1u2Mve2xd6fKcUtp78OCoTG52LqpfqGX3YsyG5e38MCg6iuuyK0L/a53vbqI+0QQWrUckAO0V1+SVN5Se2wks2BOkR3V6D6AX3Da23W37aLO+qp4fcVghgwQQztVAAbki8t7PqzJOHx12R03bb1V918JNmH6tqHOqcdK7hN669UCXUHlYHs/yG6yzqHCIiJBBAQN044tv076nes6uZoFsICUv9tXGizd9S3xOwvRVEU5as0etuP2V9686OiKIqi+munzZh5T2LbebP6V+rvD2rNrqll9lU/Kt1rY9Po4/UVu59D7/B79iTyxj9u21aOu6zz3SwZiS8QGo2/LfzF9/A0b83Hef0fsg8H8Bf7n4NytNT/LXsYiS4oeQA2q5+F3aTed/lt9ZtJHY0n2znnmvyEX5VF31pDSGFHwsxNbsrdn7+LmcPv2ZPDgIgaXyK0hzpvchHQZLOwNnZ3SDd5sfHx3+TK4Ct0nDesphEE+/9t4cG8/wfV/vz5O/8u0AUlm5vwImvn/uALYGbnHHZcq6C+Tdyrve/DR74SVcrMQRDs7bHl+35Yk77v73+1hA3lHn5PfWfW3vjiqq4/1BsP5nZZUfWXWY3rs/EJ0jrZuXEMYzbGhP3Kfp4IjWvv4J6PX5V25quov4QIyWQyPHwEsrV44//934tJIH/hvGWrC4kgIqExgThht618fXnF9gCcWn9aIMn4vffeV1RSER6EAgf2K7dtvu3Ouyu2VQsYCARB4BwRxNWIuIDJSerzRIA4iAsCf8aMd9ev38AgZoaIc9ywNHtq8o6Ic2AGs4TLkaXeaoUqRgBxABAE8Yonpj8HE7BLBswkFAhYWOAzAAmAwLmgonSzgyRImBGI+79nHly9fos4/9H7715TVFR3ojNDICBxLgiY/Q3r1lbX+nASCAC3pXjjtpokwh8IEIFzHLZrmzdvfvPNNxu1GkzUcHNpalsiMM/56IMZsz7m1F/jCJyaZANp5fqLAYgvcAxhDgLn++KKN66PCwkCCBDE16wrTLCwCIHDiiKpqQWE/X/ec++awvVhRwDAcQIMAkvYxlr31PRnt1dvd67KASJSVbrp5bc/cC4IwI4FcAI4AlzyzTde31haLgAQbFi/7oXnnw8c48vk28HRX6kbPhjJqjnz5yUELOSCxMJP5gQAI1lTXf3+jA8E5EQgYATCwuyD447hONi8YX2SiAHm2pL168uqquu/XyQ8FCWRqH32ucdLS7ZBGPDrbjKBa1C70rCkTRibBOAEIJtLtjpQwMIsENcwcAeYHcAk4Su+1B2kOw4cRSAMQJiDxLPPvSB1zXV4V02r1V8tdPPjAXUsQTyeePHF/xw2ftLgIYOAAC4hknTGrFuzYsjh/Z3jRCJhoumeYQsHMYnqzU+/NOuIE0ZkOAM2TDDJigULFp73nSsBMAFwVoKy0s0btm7LysoS5vXr12wu3RqNdEDgEJQ/9fx/r/nhDT265wmxISExBBFma73FixcNHjrMdy5qpCYejyeDjh1zLACwiAmXQfT9ZHXltndnvHvimWenpacJ2AMRTDhhvRWpGCGhgAErfmHh8m2VySBIPPHw0yMnjM9EJG5cGvFzz08/4/wrxo/oR9YjQ8lEzX33/+uiy78TkSg8rFk2b+Tkc60161Yu89IzfD/hkcfW+TBpbAUumUiWlW9bOHdOmUsbP6hvtWdiUjtn5qwRR51+9PiBhojZlJaWderUKQgcEbp161ZVVeX7fiQSEWEIL168tHe//h2ys4yEDaL4Ipa5pqqiMtJZiAQgCQTWkSHAgsPbXVut/goYifItqwrXw0uPl5e+/Na7N/38x2+/9nremGO6pleZICPDq37ylRk3/uyXEWKRsJWnso2rk52Hla5cNHTI4B69eopIkKhdvX5Lv4GdLWIiAciKmJrK0o2bt6ZH7ZayjfCkc3aGn6icOS//lOMnbSwq6dWjl5UgIOtJjTBmfTBrzFHHAwJxQZBcsayAjA0EHlJqsd4VH2T9JSyAkCFhsv47M98bPHpcpjWecE08/trbM06bdsS8OR93zslLshMIMW3aur5sYzkiybKSomWray+/7JxnHn9s/FnnZDj2pHr1wuVVHbpcdM7p4RKwzjlrjeMgEvEmThx//31P/PwXVxmPk8naT+fNGz/xcIpECTAi7Cc+/eyzaCxDYAkCOAvfTyY2FpW8+uZ7v/7tLV1yc8Bu7ZrPy7dVeZGYCJjZUGCNEY6Bgup46Ssvv3PeeReNGT0stHbGGGOMOH/5qlU9e/XrkBH1DIqKS8gAAiEwxIjQl7UeB0t/fQVvfiREY9ETTzzxtf++1bNXjyUFi6RqW0lJaf7S5SVbSszqNRUbVn++evVZXz/Xi0YBI0Tp6RmdcjuOHjkynY2IcQRKVlrrZaRHAaGwfSdbVLT1yPFjo55xjnv1HtS7b3+SCAcy453XLrnkkq55XQhiCCVbthSuWZ+RkeYHzg+C0tLS8rLSqsoqdrWFhetKK6q+/vVzcrIyAaq7P8Z4UZvTuWNmh4ybbvzFb275ZY9unVNXqGRaW90SyAMg5pM5n5199tctmcp4MGbsWC/hKI0sB9OfDjp3684wYASM3Lzu6TZWU1aR06GrUOB5XnpGGoCcDh2isdiSJUtHHzJGLFauWE5xNuQvWbZSyOsY8/r07NW1cxdOJg4ZNGzD6rVdunQmsswcj29/4IH7Tz319E8+mXfooaPT09OGDx9eUFAgItbaks1FM2d99I2LLu6QPbhR1ADBWJPTIYd2uOLBV2PZSZHsjh1Hd+zkS3R7yabIjJlZWZmZGVlDBg/s3ykQl2VR1X3ukohNLTMUfmbV8uXvrV50wph+PXv1XLZsuQeuLCuZNWfJD2+8vP4ubkvu1f++c9QRhy9euuTJJx4644LLe3TKKStclkwmF8yZM2fxsiuvuBzWMwDBFBQsOeqYYzrlZIeXzZ7npWekhydIbW2tMSYajbauagvHBkQdO3aJecaye3/mh7k5HYs3bvpk/qItpaWdOnV94rGnzj7na9GsjB7duvbo3AemdvVKb0NJsTHUIbfT6BHDskCCZPWWmsy0jPrKzc9fQiRrC9f07zuQWU46bdxn+fPefuPTaSdNEuGysrLcvK4mXGc44h02YQLBSupsFj9Izpn9ie/wp1v/mJmZTswE9OjZu//ANGGeN3/hnHnzr77qSgOBWCFhSU6YcCwzhT1KeKgTEYGra2q8SHp2355EJhqNCterJVN33LdGWmLp+wO1GYRAIiKGTKdOnc4779za2trDJ04q37iuorZ29MgRZcvmjTxkRM+ctImTJgUw1hKcCxhOxFhDCEeTNmAXtdYJi4BdINarKC3LXzB37mdLO+TmzXj7jYWLV1//o2uJg2SiNr49mdulx4hDRhhrIY7A3bp269qlBxnyg+Chhx6aMGHC0iX5HTp0OPLwiaNHj2GyoZYW56wJyzxnzpzDDjv0hClTHnns5eJNJT26dSES5wJDFmRb1ZLg7IwxSTJmS2m8W7dOEvjGizFgrQjAjmORqBCIPCFy4iLGu+w7lwbg2W9+sN3bXl5ePnv2nDXpQUlJyfvvvx+prenfe2Bmx+jwocMibCHJ1RuKBg4cUrRyKRxvq9q2qGDlyCH9BSAjIiAy78x4a8iQQf3793/p/14d++1LqqurKisrAQwYMECE51Vtu/rqq3K7dGUR2vEJwzW18dy0GJjJGACbizYVVdQcMnyYZ6nJAwjQypZhN4bgJBDjRQyIDAmJJP3k3DlzVkdKk65LFm3btq3CAo7Z2nAtXUn4fs+e3Q+bOEEowiAPUr5546JlhcaLSIDwolb8+JwFBb8/7Zya2u1RxCZMHB+VICeW6LS0aviIYfPyVyxcuHjShEONJAJKmzN//tnnX7RsaUH5lk3G1W7eWlG6tfTtt2aIMTNnvNm/f//vf//7rWzpewCpJoEDRxQUFq6bfOlxPfv2ePX9jy465+uecw8/8fRFF19ERgwJE4v1YhlZRAbCpeWVs96fEfNdYGnt4pV9x4xihiEAOPTQscwuNzdn+vR///THP2JTvq5wY16X7mMPHW3Jc0yw4bhEOHDkxVI6isVnN3f+wu69+h55zGRhthAhEZFINBaqsS0lm7t378kgA3EcGGvZWRa2ngfAWjtmzJg6bRD4zMZECYE4JyLGkji/YMXnw4YPIyKkHL9ppjpvP/pLSkpKPpg5a+rUk7aWVYBQuP5zL1mb17XbwsWL+g7oX1S0qWx9fO7cuWefd0FuTo5nDBmwYMuW0sVLFmX6xCa9BpIuNYELBGIsGNyxQ+6xx09esa70wvO+RlxTsGK9I7EkQbLmxht/+vs//wnGQBhwIiyOACqvrHrrrTfHjB17+KRJIrx2zerHH3s0Kyf3W9++zHgeuzCDEjCzEJ595rlYLG3s2EN//eub+/frZUB+MmmNESGyrUjFcJhgYnnjjbeqk2yIrGEOApIA4GTgYmT9gA1ARgiIep6R5IqVq/oNGXj4cUdLmlvw/vPHHD2pf+fM+e+9NeWEE/LSY4bBlku2ltaWbe83uHdJ6dZjjz2ueFk+ERLx2s6dOod9gqHwooHPOP00kHns0enHHHP0qlUrX3nllcmTJ5eWlm7btg3AG2+8cdwUd8TReYYMO1eQv0iIEiaaHiRXr/68f07fJYvzAVhJfPzxHBftMHzo0EACa6OtWX8RM4T/dd8Dww+dEEtWJuJxZgwaNKjbmAnbNyxcVURHTZ7SqXd/cewZI6AwpxKLRorWbCnIX8IUCchExNWUFRPw+eq1iTIed2h/MW7hwgU56R1NxCuYt2DytDPi1dVLVywPtq0vKy0rKFhWW1tTm0zUJoN0z9WWl3yav2zMxHXDBvWLHTI4Xll2y+9v79urV7du3UeNHXnSlMmtS3/VTStYuHBhBqq2lpb/54UXxo8cFEjk6eeeOWr86IqqYNPm4k8/fB9M1hhBkoPk4w8+PfaIcUWbCpNJS5BJRx19+LETXn/uubHHTxs1cDSlexABpQa4xpg+ffqmp6Vvr0lkZmetWFn4jW+eIYKa+Pb3Z84+9vgTYrEYkRjrOcCSwLkgCH77hz9eefU1fXv2gLAhZgaDyFhLJOIAKSkuorTsxfkFniQdJ+bPX3TSSWf26NlV4EQMgFB/iQhBDJlPFyzMiIA42Lat4tMFCyLknnvh1f/59c3G88IFp1R/7a+cAdClS5du3bq9/PLLo8YcOmzYMBvpEeXgyWf/fc4ll7751IPTvnFMFrkRI0aYWJoFRBzDE+DkkycPGNZ53eKC9z6afdGVV8Rc9VnnfM0YkIiQ82xEiFhMdlba8qVL+g0cKASIH/GkY8esjl06sXDVtvKcnKza2vjCeQs3rCsyaelDhg23wJIlSwgMdiedeOL8zxZ/9NHs199484brrumW1wmULFzzef8BQ0Soe4/eAjts6AAQiHjdmrWJpBs+dET94patxCcA2Fa2ee2adbldeoBE2O/cIXPJksVVRUVL1q2dPP7okaNGd0iPGg4SfrBg4aLMmH3+5Te/d9213TM6SpMvSh2aRoRzczrmr1xfUlFcUV2ZnR0zAJHUxmvSMzLDxwWIhGcIgeTdd98eMWL4J7MXDht+Rt++fY844ojly5eXlpamp6ddfsUV3Xr0DBMnhmjkqFEwlKRIlIN33n39mKMOz4Yja6wkFi9a0n3gYACm1SuwcCXSjcVbvj5qTF46H3n0UTXJxPbKyvXrCivWrFhf0Tl/ScHmrVuiXqz/gAHRiAcYiBPnevfqMWLkCJiYI/JEthVnz5q/4qlnn7nym1eLiAuCJUsWVW6tERt88O6MKSdfPHPme4eNGVNUXmiscSx9+vY94ojDRUT8bS888/zEI470ommZabGAedbMmSdOm7Zk8eKqqgrnJOLZ+rndrapFGHvoGOMqu3xWfOEF55qgeuacpUOHD99asgkmVlJRftY5Z340exkEABNJbTw+aszoEYcM9YOMFSs+i8RiS5cs3Li+sEPhhlwv6/NPl06bdlJWVmZ+/mJrjQgL+MijJv73zRcQdOnbr9uq1fmAdYGf2ym3ent1LBYNM6ZSP2+AObtDhx7duxMY7FdWVr708munnHVOdk4Hk1p00G3ZXHzJd8/J69KZgoSxta++9kbXvDyCAQUEW1lZuWbNGhGZMWPGyEOG5XXrHo8nBvcbnJkW7dGjYOyYMXCJrh/Ms9ar93+qv/ZvM3BA5IGPOfaYiROS85esMomKJ59+uX/PbhsL1384493P12yKvjczKN+wesv2a6+83Bh21iPf5eT0yezcAUgSsbXOGHiIfe3UUxyBYY1YSCK+fXvHzAwmXr+lIhpNf+u1tzIitXDx8m3b350xo7Ki7D8vvvDHW//Qt+/AQw+bdNQxaU7ASBLFLAkYBB+WZr737qRvffu44yaTOHFJccHHn+b36z8okxLORI0hgvONtRwMGjLoL7fe2uWa6/OiOa1HxViRAPTx3PlXXP7Ne6e/ETEwhi685DwmsznLbNi2ffiYMaPHjggkJiTRaOSIiRMgiZnzl3bM7UQuIEjS5FrHADkRKzJ//vz+/Yfm5kTJRg6bOPbOv92W1qmPD06wyQLVSNzL6IKELyx+bSJ81E3+kiU5HXM2bSg644yTn5r+9GWXXRaviRcXb1z9eWG3bnljxx5mI9Y5tuESycYD+xDnHFfXBBkeRSjKIsx2W8W6/lkTyQjENvWorUx/kZiAk7XbKztlpnteTeCinl9dVFF11inDNlJ5UBI9dNy4jz58zw8cbDhQSII8P5K1enH++17CFwNjjAR+xaaP5i66+dfX9emdFyC5NH/JiSeeuHDZM9bg9K+dP3TggKUvfdand99sr6bzoqojjjgyCRiQY7e0YMVJjsjRCwAAIABJREFUZ5y+oCBfYERAgoLPN55/zmlLlq3Iy8srWLRwzLhxqTEKEQ6+/gqf0EiGAQ71kjgyZCJbtxSXbO3mV5UXrV1X1a/DzE3rtifiThAhA0YyLRucjCJIxGxNyebMvKGDh3ZbOeezQ0aOyEvLmLtgTlZ2liEaPWq0MQhlMLPEywu3mQ6HTZhgrc9Is+x8Y4QgfvDam29GY1EhS2DrHJlEyZbKGe/OiIGJUF1dnZGZVbhmzdhxY0VgiETID4KueV2YJULExMQxilhnXUQsEXJyOowZM5rIPP7UM5dd9u2c3FyG9cSvKNmUnpkOY4l9a9IABlmICVfvV/21H6s3i3NkPQkCRzXbq8Xz0lCTSCSmTDtpw4biaZOPK9lQNOX4Y6uKCkpmr45YC65xyLLinnjypYy8LmeeebIR2Vq6ecmSpRkBl5Vu+WDunKuvui4nPUOsv2Zt4YC+/Znw+YbS888+MzezIygZT255+bXFU48/IeKZC849F0bYmbT0jO3bSz6Ytah772y4dM+6lcsLp510fGZWLELsEzJEALHWmzd7dkWNAxnrVzkbWu6EjwxPAhEzcfyYR5998cbvf8e0GhUjzAHL0LHjrZcwJAZG4P7213t+cO33OajevKUif+kyF9/62WerLvzWt2LRiCcCOKJovKa2IH9eNBrbVBGsW/15eXGkumb7qmUrwK66trprl24BSPxkp9zOa7dWxl3QuUfvbj3zZn78WTSRUdEjd+CAgXldckFgdv37D4pFI2Vb3l+xbOnXzjl7/cZ1VkzHnKwTjj/+04XzH3jk8UkTxw8ZPDg7My3M0oIoKpy/YtXg4WMiRAKGANZWlG2MxjKsAXGzGJsDeJw7lq3lZZkxb9XipWuL8j9dtPamq66IGy+WmuaTTPqBB2aGEJgBVwsvK6CMscP6HzdlWhAE1lrh4N9P3XvY4UcfMmyIYUkYr1//wekmCLi6pjI+asy40s0bMjIyly1dubWkYHt51YIFi9YXrT/5pDMjHuX1HtKtU9qCpRKASNwnsz466vgTLQcO1H9Qv+kPP9pvyNCszAxijni2FegvBqwTGAIZiHiA+GIM7Flnnjxs5BgLOetcEPscIC2nN4yI482FG6oFyxYvWFaQX0S9J3cVR1asJRcuUZwQigjBuWDr5i2lJVvEsEBgosVrCtdleH0KCiKS8Cl9Rf7iiiB+0YUXZXqRU089jQ2FrgoMI1s/WbhpytSpO89nEBJhYUZ6RpaIEAEcJF3SIoMNA44kChKIM4T/3953h0Vx/P/P7N5xdDgpUgSRIk0UbDGxF2wk9oY9FmIjGltiTCyRqMHYMWrsYEWxG0FRkSIooCgKiNJ752jHld39/TFmf/vZO44DTYJ+9/U8yYOzu7NzM7Pv97z7k/j4sePH6+vpZWVkdLB1wAh5aWmpuYU5QVB8jCRlfAilJKWJAwwAzvvrfcUiHAMYoHBSJnlwP+LzEV9CXpUGn19VVV1X33D33oOGhtqykmI9DR7Gw+Hfxyo50Rj/JG7592shgAAKjIw7OLu66JIAUETfwQMACTEISYqXmZHl6NRdJiWqKir19bUhCSgAIcRIgkLVviAEFJDjgMJIKZ8Uv3qbOWjUXE0Sp4i6iAePefoGMlLGVNRlZrw9fPDQl7MWUcyQJYwHKVBaWIBrGTq6uSflRbQp8RVCiGOwg2UHIC1HLfU1Yp6Az9fgYRTfor1Jly4uOCl27/45hfHeFVKhAAagnqagR49e1TUiPX2dXj3dcUjq6enZ2toZG2pLKQxQcooic3LyIabXu7fh46inIwb2o0Bj3V+1RG1Gg4utk5uLHNeUUxQEUEdL6236m+zsnB49P5OIGyAFKQyDgFdXX1dWXGRu4xgX97idUKinY/lu0CQkSRAREek9YzoK4oCQpAh5XlGNcTsDgCzWbTufO4ZBExPLLX5+JIFLgMisRAwhVVRU/CrlVUlGZn4tPy1VJycr29HdkqIwiiLfpGc0ynFdXT1tbZ2UlBSCIMRi8V83r3/Rw0FbooncDnEM6OrpEnWVaFlTU1OrywptbDo6ONgaG8kfJda5e3i0MxGSFIlhPKFQCCgxDiFFUdnZ2Q319QMGDS57+5wHIYZhXd27b9iwcfGibzrb2bYdTe0710qIAcjHcUwmEZcUZDXUN9y7H2FhagQgIGXiiPCIsdPmIJnW1MLKd2FXHao2N6egk7GFpD6vIDNL3JhbVVmVkpbeDhK1ohpUT8vI2MjYWMjj8/IKCtqZWlTnpskF5i7OnfmkhMS0ujp1lvFxkiTRaZ6kSEyN3QUpCkAsJyebx9dIevacz9PgkbWNUhHO56Fu3rkwQigRiwsL8kaPGQ8BmZWZWS+WdnV1fp6c2m/oCBwCqVSKYW1dnfsRMRUKQAwHoLq2/unjmAdRUaMmTwGNdRCCpGdJk729nzx7adXBIjbivpuDKYQY8hSmKOrps2eDBvbLz8vpYG1JkAADfPxvrzwSkDyIUSRBAt7or8a/ffPaf9tOnpZ2SUmxuZE1hmGAghQFMYAjFx0IIMQhkMpxiiAAJABGEjIMkBKpTEoAAR3IBgEE0Nqm054DATx9UxzIcBynULw3BSFF1NXVNErwzp2svpk3q21tEFQJ710EIqRI8k16jpaeLkHKIckHpIwkSA1cgEEgkxMQBxQFIAUhRfIoQJHU/QcPli1bSlFyDMfkcjmGQYqkIPau+N2TxKRpM2ZK5AX7dl8dMqB3VUWJro4BJGWklh7kCfLzcqysbAAAWRmZFmYWCxYuys7J1dLiG5uYHvwzcOF8b0Ii6+LqQ+JayJlAThA8HCNJEhLg0sVLjg72Bgb6JCHHIIVBrKFOJJbpCg30AYAASgHQaMs7m6QIHGpRkOBhZFFBVefODhqaGrNneVsaC7VhY0Op3MXVRZtHWnV2ICkKYsDRyZXC+ODvkLnU1NSUlJRvV6zgE9Vp155Sf1sfcZwnBwBimLaOTk5OdsrzxIkz5yUnv5JKcisqKlJepYhlDQSpYW9rBQEAJCQoqqiwkGfAc+3WNel5srT4jai6+tnT5PSUNC8vr4y3b+1srGlJ5b/lwug/kiQzMzNzMt+KRKKM9HQPV/vSsmc1NSJLc1OSJHAcl8lkJqYmGA4hhUG+QBuHGMnPzCzs69izo62xaztznqC+MD7T2ckFq6mYNN6MBJDP50EKAlJeWVV96NDRWQt8IM4DgJBJpZH3bgvNbbt2caN4GPIwBBTAIIZ8BiAFAEWRBAmVGytJADEbW7uly5ZhGAYoAIA4PyddX1hMUUADYhRJEYCqFVUGnjxp79D51o0bpibGQkPDq5cu2Nmua5Bj7U3bQ4KUNDbyeG09DcrHE1GPfJMAYWBoNHjoYHNLaxwCUtxIEhRBASNj06oaUb8B/UeN9GxnZCgnSJICEEA5SaWlvRk/YcJnvXscP36ktq4GAwRGAJKk5BQgAE6QEGAo7RzU0sIaxcQYr9Hbt/9aVyshSQq560GMwjHkv4oBgAFMg8I0KkvLI+7dfRgZFRER1dgg1oAkBlGpSQgBBBDyeDxdfX3kR08SpEQqBQAg1Wp5cdHzlHQSYnzsw0zXB5zzdxolHANALpOTcU+Shgwf8eB+OB/TgqSMh+MyOSApiGMYoKBEIkt++aZGVJWWkvrqRVK3bh4GBkIc4wEA62prJZJGDMNQ5HPaq9cePT0InNTVNO7dw5XE+OcvX/ccPYZPSggMl8nkVWXFKBuGva29jo5+fW39kaPHM96mUxSUkxRfQ5CUlBRy4bxEIpETBIAAYpAkCZIknjxNrBCJBg8dCkiKhwGMIuVyWeab18btO2tp4oACECMUKt20sTnHCJKAhFxOAWlxcYWDfWcMo4yNjf6/1yzEamrrHz+OBgACioAQoyiCokiJRHLmzJn09PSZM2e2EwohBkmKghAD8F3PGIQUSUIMduzYsVHcaGlp3qWLm62dfbt2Ri5dXHr27Gln2/FdrW8M8gAwt7Do1q2bmYV5d3e3zva2Olqa3Xt4zJw5c8jgQaNGjdTQEIA2EVEP0fGHJMkzZy/oCU2+9V3Uzc0VwwGPz7O1s3NxcXFzc3Pr2rVdu3YQ/v0UzsdIKUVg6Rl57dsZG7W34PNwigIkCaUyor2ZSXTkfZFIJJPJZTJJQ6P4l1/8Fi9Z2rGDBSDkAFA8DcHAYcOfxCfs3rVLKpMSJAHeiRaQIAgCpbQBAGIQJX34X9pFUiRBEhQFMQrDKApQJEVSVG11jY6+HgVIICdIkqIg1NHRKy8rMzUxHvPVl3369One3WPCuK+Czpz7fNAQUi7DAKgRiXR0tP7N1Leftk2FIikKgyQF+PWVFWKxhCQAAFhVVe2Mmf2rqqsHDRmiqaVZWVxeX1eHjIkUSeTm53Xt1pOioKaGxuSJ4/+6dDk5+XXV7moDXS2+vlYDRWpDrf79epubW4mqqpOSEjZuWM8T8GZO96ZIMiUlHec3yGTyd8IreKfNhRCX41qeg/r0HdCdB3UxKNMzsMp5naqnr93Y2Aj+Z+Tvzozde/Y8cjTI0oCPYxhJkeVvn9e1cx3tOZivQQEcb4vJDWXyujpZSXGRkbG5mUV7XeDy8FpYVnVpQuJjoa4JwCgehllZWd69G1FdLfJd9k1SQtyb1BeOHp+RuJZQWxcHsmHDhpEEmZmRISaBnYWpXEba2HYigFQuFvToaX/20hlX98/0jYz4UC4mKJzHy3qdZmnraGxgSJFU1tuM5Fepy3yX4lRjQ309QVIEBT//om9Gmo7/Dv9ly5YJDQwwCAhSnpmZWVBaMnfhAjlJamBQVF6R+DiuvL727YvEfgO9ISAAwCiKaOM2FZS24/Wb1OKSzPLSan193acJUQUi0FBVJq3Mlxo7RUVG8klZWESER8/+Aj5JkVhNfd2LpJfV1ZWDBw82NzcXi8Vl1ZV1FUUQYBikAEXnQ6QAAISczMrKHu3ldexYYG8Pd/P22PDh/UmCbBDXVVU0WlubYRikKECgku3vpFUgaRTzcRxQkPo7KgMlGGo7LsU8Hr5y5SoNTU0SABwDFEFKJeK8vBIBj0dRcoyQVlVV0t8jQWGpCbGZ2YXtTCxwSD54GF1ZXV9Zm0VWUglPk3JglZ4u/8rVW1/P8a6pqol99Gjjps3aOro11VUySQPFJykAeRqaCxYt+nP//ri4uH79+tPDwDCsrLw8722mlkZ1Q30DK50gAKCxsTHzzWspgVE8PoQAR2lj8MbUxKfVhOHLl2llb17di3i8cv06C2PhZj8/iiQhpAgSQJKoqaro2/dz8w4WL54lArE4syDV0tJd8RVtyqbyERXpopCHPgSYrLHuXmSsp+cwWW31w9h4T8+hEMMJAHiAynr75sTxw5PnLHZxsKPk4tzC0k4dbZC7H4AAUCSksJrautKS4gZJY51Y3NGqo7mZaVVVdWF+YRc3BwgEFAAAygHJq6goDwo65uLS23PEIPiuGPs7ewmJ3NCADEI+RVEQwLLSonMXzrs4OvYfPlrAzPEDcAxQgJLJoAYPZVUgKQgJOeRDAHCKALAt+RTTybJkDSfOXvNwc/Lo3l1GUTxAQBKWVpYnJ78sLiyvF9dNmzpFV0cnNS3N1tZWS0sTkHKJVBL3JDEnt0DWKJZIxJRcIoN8PR2tadNnaGvwAcRJQFZWVxTnlhJknYNrFxzXwgCVlfriVlSSDi6HpPSrCZNNTUwLcnP5PL65pQUFQXlpccjlqxYdOn715ShUPu958itzM/N27drV19Wlp6cbGhrYOXRGwhAGAAoHu/XXLW0Bf8CwkRggAcAgkLdxNS8FCEjhAJJRUQ/s7buYmpnGxUQYm1nbdrTm84AM8PkQAIrMyMqy6WQnlzZmZ2XJ5HInJxceD6e/ytSUlJPHDk2bs7hbV0ce5JEQYABUlZeeu3Slf9/PO3Wy1dXVlkiJxITEzIwUUS0ll9ZDjPpqzASbjh0ghICSR8U86tDR3sbSDGKQAjAvMy06NnHy1Gk8HKcgQElB2po6n/w7awIGSECRCfGJBu2MbG1tMQgpirh149aI0V/y+TgEFEGSMnF9eHjE8FFeUpnkUUxM9+49jIz1IYFLMaABCYqiMrMKO3XqWFFeYmJiAgBGUSAz4+3ZU0cnzVviaGMFKQpgWH1tbYWo2tLSksdIh0FSZObbzONHA4Z7TRowoJ+C/oeSNIoFmto0Afl70UkS8CkIcGSawQBSFEMMAgCkUvnzpKedbKwN2pkAnAfk0nt37mTlZMybt4QvQILlP0ptW1+k632Zyn8SYSuTyXAcBwBgGIYyd2IYRheEYIVo0ZdUvFQul0MImZ3Qf+D4Ow/9ZjuhR8WqUQH+g0jjD3CbXC4nSZLH49GZ51mTw5xY1tGJrkRAEAS6xOPxmPlx6QUiCALHcWYxD3QzM/E4c2kIgqAXncfjIccn1sjpfK70cnwsc86cXrSN3+nHGCn96d1IF3GgW6RSKY7jaAJRJ3QkHT1LqFu6RA1d+oH+ChDobwfl6MX/lqfbWES9kg+ZnjRmYQtmAmY0Icw5UdzA9PdOEATaoqy9pBhTgTYzerXidLXi54O/M6Dz+XwmkUFjU7EiH2TOAQBFRUX/TeXH/6RoB4/HQ3sF7Xh63/ztS/P/K6awLjX1LuZGpGcWLR6d+LrZTtC2Uz05H0ttD0TN0VfHJNb0P1GhAcXiE0xqRZN1mqPQi0UzGPoV9P+ZdXFonsRcGroTOrG50uTnKqq5gLZaT4XJSmm+yyRzLKLPUn/z+XyUi5A1XYovZda/YX4FiuSSdZxq4/VU0OahiyAwH0Rbi0mLVWt76BY+n6+iXhbr7Uz6854/H31NOI4zSRCO4+/STbZh9dfHl1CSeaBjHqKZf7RYXlNWJo/5CvUHBj+OFIbN/xbED5i/iD7SQgj5fL6SEwqm5IxCy5RKuS9zuhQfV3wLTTEVWfj/uLB9nKvAFB2aPAaiHB5NFHlk/XYWk6YnkF5cHo+negU/rplkjZbeJIrTpeJ3MS8hJqTIbpt66gNOF33SZX47bb+8DfhIywmj6aa1IvRystaVWdKxFf48rN7U6UTxk/53vWI+5G30DCtO/vu8lCWXvH8n4FMp4ay4hVQsTVPfBas31gei+l1N3QY+qnLCTMqggnqoPyTVK/KP7hamYMo81YG2XU74IzLUc+DAgQOHfwPvY6jHuOnjwIEDBw7/p9VfH5dCgxs5N3Ju5NzIP96Rc+ovDhw4cODAqb84cODAgQOn/uJEVG7k3Mi5kXMj59RfnPqLAwcOHDi0JfUXHbbKgQMHDhw+JSBGQjJrQakN3nu+mOMrHDhw4PCJgc639O8xFYqiGhoawPuliOHAgQMHDm1TUqFz6/3jTAVCqKWlZWRkJBKJPt4kSxw4cODAQYWkwufzBQJBaxhSSw319B+fUv5EDhw4cODAZCpKcyd+eKbCgQMHDhw4qAAX/MiBAwcOHDimwoEDBw4cOKbCgQMHDhw4psKBAwcOHDhwTIUDBw4cOHBMhQMHDhw4cEyFAwcOHDhwTIUDBw4cOHDgmAoHDhw4cOCYCgcOHDhw4JgKBw4cOHDgwDEVDhw4cODAMZXWIDo6OikpSeklqVS6bdu2oqKif3QAFRUVERERqu+Jj49H1WiU4v79+6mpqf8XNt/Fixd37twpEok+YJ+7du2Kiop6z07evn1bUVHR1NXY2NhWl5r411BYWJiTk/NP9ExRVGxs7IYNG95/Evbs2XP27NmWlhckSTIgIEAmkym92tjY+Ndff7XNRTl69Ohff/316efwpT4tbNu2DQCwePFixUvoGzAyMsrOzm5Fz1VVVcnNIS4uzsnJSVtbOzY2VkVXycnJLi4uN2/eVHp1/PjxAoHgt99+k8vlH3ZyKisrfX19Gxoa1H8EFY1mQSKRfJDx1NbWdujQwdraWvGXKn2vOsjNzTU3N586dapIJGr1wDZs2KCvr+/n56d0rkaOHGlpaXnw4MFm+4mOjr569WqLXv3y5cvZs2cfOnToPec2Ojqax+OtWLHig6xURUXFvXv3duzYMWHCBBMTE0Q6lixZ0tT9WVlZCxcuzMvLU93typUrAQBTpkxp0WDy8vIAAPb29kr7v3fvHgDAy8uroKCg2a5SUlJ8fX2LioqYjWKxOD8/v9lnHzx40NJp9PX1BQAsWrSI+qTB+8R4JKoqs2rVKsVLOI7jOD5t2rSOHTuilurqah0dHT6fr07PfD7fz89PS0vL3NxcW1sbNe7cuVMsFv/444907YEZM2YAAJKSkvr06dNUV126dPH39//qq69Wrly5Y8cOZrmCmpqa27dva2trt2/fniAIHMdVjyojI0N9sWbTpk2JiYmvXr26efOmlpaWOo/4+/vn5+evWbPG2tqabkxISFi+fPmGDRu++uqr91ksXV3d6dOnBwYGss5uu3fvjoqKCg4O5vFavD+trKx27drl7e1dXl4eHh7euoHFx8fX1NTU1tYqLVKkqalZX18/bNiwZvvp3bv3wIED9+/ff+zYMXrXKUImkyUkJISHh1+7di0xMREAcOHChd69e3t4eKh/NGQVvdDQ0JDL5QMGDGjR+bKysrK4uLikpCQ/Pz8nJycnJ+fNmzdpaWmlpaWGhobW1tZWVlaTJ0/u2LFjx44dra2tmVU3mLCxsXFwcHB2dt69e/eCBQuaeqOGhoaOjs6BAwdatDovXrwAAMycObNDhw6KVx88eIA+bWNj42a7cnZ2trW1dXFxOXHixNixY1GjWCx2cHCYM2eOkZFRUw/m5eUFBgZu3Lhx06ZNLaVOe/bsUXo1OTlZLBb37t37YyfCnxpT0dTURPxDxaLSeipPT08rK6tLly41y1eQFHL+/HlW+7Zt23x8fDZs2NDScXp5eU2cOHHnzp16enobN26k20NCQhobG48cOTJz5kx1+mnfvv2+ffs6dOhgamrK/HXXr18/d+7czp07LSws6MbVq1ejP3Jzcx0dHdXpXy6XBwQEkCTJ/PI1NTUTEhICAwNHjx7dLNsDANy6dWvbtm0CgcDQ0FAmk/F4PA0NDXSpvLzcxsYG/ViRSGRgYCCVSuPj4ymK+vnnn5Hc2VJMnTp106ZNDx8+lMvlrWBLcrk8KipKV1f3p59+Ukox+Xy+kZGRvb29OgeR06dPu7q6fv755+np6bq6uqhdIpGkpqYmJSU9e/YsISHh6dOnjY2NQqGwc+fOM2fOtLe379Spk5pnHQDAkydPFi5cePXq1U6dOjHpNQBAKBQ2+/j27dvz8vIkEolUKtXU1NTT09PT0zMwMDAxMdm4caObm9uDBw+srKz09PRaNI2rVq0KCQlZuHChk5NTv379lN6D47impqY61J+JR48ede/e/eeff1Z69fbt23w+/9ixY/QeU40VK1Zcv3598uTJjx496tmzJ9reYrHYw8Nj+PDh6J7Q0NBz58798MMPzs7OqCUmJiYwMNDAwIDZVX19fVVVlYp3SaVSAEBxcbHiV5OTkzNu3DiZTHbnzp2Pna983EwlJiZmzZo1AoFAKBSiPZSZmQkA8PX11dHRUXokvHPnzrRp0wAA+fn5lZWVlZWVq1ev3rNnDzro5eXlXbhwQZHK+Pv7V1dXGxoaTp48mW4vLS2VSCRKpSJ14Ofnd+XKlaCgICZTOXjw4IQJE9TkKOiwv3fvXsX27Ozsc+fOjR492snJ6X1mGJG2r7/+WpFze3l5qcNR0J3Ozs42NjYYhpWWlg4fPnzZsmWsA2xBQYGdnd2SJUu2b9+uJjkAAISHh5eXl6MFpQEh3LJlS35+PoujREdH79q169SpU6rpY3R0dF1dnY+PD80DWGhRITxbW1tfX98dO3Y8fvx46NCh0dHRt2/fFolEQqHQ1NT0iy++6Nu379SpU8+cOTN9+nR1druurq6hoSGT26WkpNTU1MydO/fy5cv04VrNpQEA/PDDD0rbo6KiKIry9vZ2cXFRvFpTU6Ovr6+iWwzD/Pz8PD09ExIS+vXrh5TPrBVRyrObRURExN69e+lnmUeH9PT0xMTEZcuWqXlmQti8efOAAQPCwsIQU0Hbz9TU1MbGBt3QqVOnyMjIlStX0i1v374FALAkdalUOn/+fB0dHTMzM1qZQePPP/+sra0FAKxfv768vLxLly6sG+bMmQMAuHPnjoeHh/pHCo6pfGD07dv30qVLZmZm9A47cuRIfHz8/v376eVnwtDQcPjw4QEBASqUJ6amprq6umZmZjwe77PPPtu8efOYMWNGjhyJiKlMJqPXOyMjY8KECSy1Rnp6eufOndUZvKOj47hx45iU6/Hjx0VFRbdv32ZRW2Nj49YVi35/oB/Lerv6BItJW9Efpqamvr6+iKMw+crRo0eNjIzGjh2rPkcBADQ2Nnp7ex86dMjMzEzxKovZJCYmIlpw+fJlFX1euXIFAODj48NszMrKouWAllZXXbJkyYULF9zd3QEA/fr1Yx3b8/PzAQCKNEjpbr9y5Ur79u3VeWnr6DUTly5dAgBMmjSJ1U6S5OrVq0NDQ2NjY1lHdRaGDh06ZcoUdA4LDAwcMmQI66tUnMmUlJTffvvt6NGjilR1ypQpq1evtrKy0tHRcXd3r6urAwDs27fv3r17tDr3zJkzAoFg3bp1zAcJgli0aNH8+fOb0kj3799/6dKlNIfAcVxRlwgAGDhwIOIcTW1RoVAYFham9NIvv/xSW1traWlZUFBw8uTJ+fPn//DDDy0V0Tim8i+Bqd75IJg9ezZNsAAA1tbWiBwgHDt2LDIy0tvbGwAQGRnp4uISGhpKX01LS1u1atW6deu2bNmiDukJCAhgfvxbt249f/48U5Obm5s7cOBAJyenq1ev/id8Bf0K1lfUCqbCovUrVqxIT0+nW2pra0NCQiIjI+3s7OjG58+fW1tbq1bgIFKyYMECdWS7TZs2bd682d/fX8U9JEmGhITY2toKBIKXL1/S6js/P79z5859+eWXrfi9NjZS8MQCAAAen0lEQVQ2WVlZ70/lkbazRQunKNgpmoJkMtn8+fOTk5MtLCx0dXXRgyRJ3rx5UygU/vTTT6z7GxoaMjMzMQzbsmXL77//rnoMtNyfnJw8YsSI8ePHi8VigUCAFu7ly5e1tbVM3p+YmFhWVqalpXXo0CFFLd/06dMHDRpkZWW1YsUK1BgWFpafn79nz55169bJZLJjx44ZGRkh+z+NwsJCZKJ78eJFU5Yt1kETLVZNTQ3yTBOLxUg9e/fu3Q0bNiCzjfq4fPnypk2bFi9ebGRk5OfnhxTRX375ZVhYmGquzDGVNgFk8i0rK0MqGqVX3/PkHhgY2LNnT6FQiNQC5eXlTOJIkqRYLCYIginp19XVTZs2raSkxNLSUlGpUlVVlZGR0bFjR7FYfPDgwYMHDzI1bEZGRmVlZX5+flu2bPmvZlXpZKqDyspKpEdmYcaMGd7e3sXFxbRmYOvWrTo6OnRLbGzsrFmzPDw87t69q+LtrRiYaitLeHh4QUHB9OnTb968STeGhITU1dUtWrQoKSlJzdPlkydPmJpxRKRCQ0ORyPsPoaGhwd/fHx2GKisr0cTSh56SkpKTJ09Onjz5woULTJbD5/MPHTqEYRhzMm/cuHHx4sU9e/awJLZmceHChSFDhtAeYgiPHj3q0qWLpaXlrl27DA0N6YPCpk2bAgICFE2VSoHjeJ8+fY4ePcpsHDlypJOTExJNzp49W1NT8/z5c6ZtCQDw8OHDQYMGLV68WIWvRFMy665du1xcXBBT+fXXXzU0NIYOHXrt2jXm6Uc1wsLCZs2aNXXq1ICAAGQHIgjCzc1t1qxZAwYMuHnzppWVFcdU2jQIggAAHDx4UKnCt7GxsaVO8SygM/v48eOVep4kJCRs2LBh8uTJLMqlq6sbHBysqamp9LgaHBw8derU9evXz5o1q20y6VYzlcTExLVr1zo7O7dr1445J5qamqdOnWJRc5azFlKOPXz4cMSIESoIzYf9vSdPnjQwMDh06BDT7nLu3DkAQFBQkPr6irt3727evPngwYO011xcXByiTWqivr7+0qVLSM+uDl6+fKmnpzdu3DiKooRCYUpKypEjR6ZMmULL2cnJySdPnvT09FQUYhSVbwcPHjQ1NaWl9qZQU1OzfPnyrVu3mpuboxYXFxcPD4+ff/75m2++Yeo2kcsTi9y3CE2tNbKeyuXyLVu27NmzR/EVKKJFqWUIwd/f39nZWdGVcc6cOWj+o6Ojr1275u/vb2hoSG9XdcYcHBw8c+bMxYsX79y5E8MwRHxkMplAIFi6dGlJSYm7u/uBAwdYelqOqbQtoGXbsGGDUpvKyZMnPwhTYZLC8vLyyZMnN0vdVCjN0ZBUmz0/LHJyck6fPr1+/fpm75RIJEA9jb9SeHp6Pnv2DP397Nkzd3d3dbSCt2/fHjBggFJXi/dnKio2QElJSUhIyMqVK5kcpbS0NDk5edCgQYMHD1b/LevXrx87dmy3bt2uXr2KdPEhISHTpk07ffq0opyKeCcyEtA4cuRIZGRkeXk58gTJz89HBqGmiPuCBQt0dHQiIiLQeTwrKwsA4OrqSn8IhYWFAACmm3J4eDgtGjIhEolCQ0NHjBiBzCoq4O/vn5yc/PTp08jISKTJcXNz27Zt2+zZs58+fXr48GEAQHFxMUEQ77+9VesPAwICunTpMm/ePMVLiKkwjTQymWzx4sUpKSnGxsYaGhohISEaGhrJycnqWENjY2OV0hbF09ju3bs3bNhw7Ngx+rCIhEhadv/ll1+0tLRmzpx54MCBDRs2DBs2rKXmOo6p/BtoNsr3PcOAWateVFQ0e/bs48ePh4WFtXpDIMLdoq+uvr5etSoPbdyGhgYWqULEZfjw4Tk5OWVlZU25zLP6aTVTYWLr1q1v3rxREb5DE/2TJ086OTnFxMQ068baCn0mkmWV4vDhw1paWmvWrGGpLyiKYp67kc5zxYoVkyZNaspZFgBw6NChzp07T506taioiCCIoqKiLl26XLlyxcLCon379rSFDI1HR0eHPgUjrFmzZs2aNRBC5BtiaGgYGhpqYWGBjjUikejXX39dt24drUr65ZdfAACpqamIqaCMAO3atWMtJZMNW1pa3r1719nZWSgUMtu3b99uamq6ZMmSZrf01q1b0R8VFRW0eWDWrFnHjx//888/V69e7eDgcPDgwQ9yEldxgCgtLb1y5cqNGzdU7GEmU+Hz+bt37wYA6OnplZeXh4SE+Pn5sTjKmzdvTp48Sf+N1GskSa5bt87GxkZ1FEFJScncuXPr6upiY2Pd3NyYX3qvXr2YP2TdunU9e/acO3fu8OHD7ezsJkyYMHTo0N69e6vjC84xlX+VqaSkpFRXVyslKE1ld2jdcQmRhh9//PF9jhhIK9Iik93Ro0ePHj3q7OxsYGCg9GNDuWqYAjsTSLPf2NgYFxenmsrX1tZqaWl9EC2TtrY2QRDbt29nNnbv3t3Ly4tlLgoJCenXr586gRGIqeTm5jaVm4cJdCpv6lRRV1e3b9++7t27L1++/JtvvqG5RXBwsI6ODh0Zh2BsbDx//vyvv/5aJBJ98803CxcuVFw+c3Pz+fPnnzlzBkJ4586dXr16CQQCZKdlAnl/9ezZU7UXgK6uLnPqzp07V1tb++eff8bGxir1fKusrMQwjEmb0DGZqYR0dnb+7bffWA+Gh4e/evXq8OHD7xPZunLlyri4OGNjY6lUeu3atZYGcr1580ZbW9vS0lJNpvL777+fOXOGz+evWbMGWT4UJRVWI2t3KRo2bGxs0tPTTU1NTUxM+vfvT/tkXrx4Ecn6TQ3mwoUL27ZtW7Vq1YsXL8LCwuRyOU0cxo0b5+Pjg4RIWsScP3/+vHnzCILYv3//77//XldXZ2ho+Nlnn3FMpa0AnUoePnyIPqcTJ07U19cvW7aMZjnvSR9ZjyOi9p4uHDU1NaollU2bNgmFwuXLl9Mty5cvZ/5TEdu3b3/8+PGmTZveM05FJBK1NOqtya3G4+E4zmJyGIahoEiWOGhqaqqmxAYAePXqlTq+VUh9pNRxAACwf/9+BweHu3fv+vn59e/ff9SoUWfPnkX8YMqUKYoJCNzc3GJjY5E8sXXr1m3btrGkGSRtDB06FAAQGBioyE7eB8ePH4cQ+vn5KeUo6MdaWVkxpwUJxKoDIGQyma+vb69evVSEwYtEou+//37Hjh0qNsaXX34ZGxsrFAqDgoIGDx5cUVGRm5ureFthYaFcLk9ISGCdY2bNmqWvrx8ZGck0Yqn4cn/44Qckk1lYWHh6el67do25o9CKt8hVHU3U+vXrFVMV0KxXsTEmJubo0aO9e/d+9OiRtrY2Ms6rVo0UFBTk5eVFRUVdvXp15cqVUVFR48eP59RfbQs9evQIDw8fMmQI2goRERHl5eV0eNfnn3/OSlzRbAyXonJGUTBSvV+fPXv2+vVr1VpatE1ZXxd9dd++fYj+otxB/yYKCgpYnjzvw4/LyspYTqjV1dUJCQmsRrFYrKZeCyWj/Prrr9VJmtLY2JiYmKjU6aCoqOjQoUORkZE4jm/cuDEnJ+fEiRNBQUEURaGItqbozp49e5ycnJYuXbpo0SKhUDhlyhTmDZaWlpaWliKRKC0tTZ0IfDXx/Pnz8PDwzZs3o5xASvHy5ctu3bopCsSq9+ratWvT0tIcHR1VmOizsrIePXokEomQ/0JTWmLkILBv375Dhw5paWnt3bvX0NCwffv29Pw3NjZeuHBh+fLliglYkcfws2fPPD09mfsnNTWVtVWys7OdnJxoLd/SpUt37tz51VdfRURE0EwIcdOWeuQjteTixYvHjx9Ph1KuX79+ypQpLLGVZpB1dXWI2dOnKIFA0FRsKUJCQkJAQMCKFSsQF/wEOMonyFTozApKgUymNE6cOPH999+HhoZ27969dUwFhciyjmwsgmhtbR0UFOTg4GBkZKT0k05NTTU3NzcwMDh8+LCi/DF48GBkIoYQSiSSfzlaJSsrSx2zpDqAEOrq6g4aNIjZuHfvXisrK1Yjn89XYflgMQOgdqzStGnT1qxZo9T+v3r16qNHj9Iup/v3779//76pqSkS9VjbhoVFixY1NDSsWrUqKSmJxVQQzp49O2TIEPqfx44dmzZtmgo3hIiIiNDQUJaekIlffvmlT58+yM8iLCysoqJCMRo/OTl57ty5ikxFxf4JCQk5fPiwq6trXV2dokMBjfPnzz969Gjt2rXNTnhUVFRdXV2PHj0AAEFBQayrQUFBNTU1Z8+effz4sYosW0yh1tjYmLVVLl++zPzcNDQ0Zs+evW3bths3bowbN67VTIUWUAoLC5cvX053dfHixaysLKWKQQsLC9Y+/Kij4v+PMhW03mKxWENDQ9GSLBaLJRLJ06dPCYKYNGmS4vmUIIiwsDCSJCdMmHDt2jXWsU4p/YqLi2MxjJKSEgAA65NgKViMjIx27drVVLdlZWUZGRk+Pj7e3t6nTp0aOnToh1I3vT9qa2vT09M/1OmJIAgtLS2UCYOGQCBo3749q5HH46npT/Hq1SuBQKBmCoOmNIG3b98eNWoU81Cso6Pz8OHDpKSktLS006dPN2swW7lyZVpaGtJ0KeLPP//cuXMn/c+dO3eivCC0xsnV1fXYsWO0q1VoaGhFRYVQKPz+++8Ve3vy5MmdO3eePXuGTuIjRowYOXKkRCJhptLJzs7Oz89H1JwGqrbQFG1NTk5esGBBYGDglStXYmJi1NEONXuPv79/U0GpJElu27ZNQ0Pjjz/+UIejoENJu3btWFtFX1+f9UmOHDly27Ztr169ojkBMiapz1RQtBkSHTQ0NLp06UIz+ICAgG+//VbNONZW5J3jmMp/DAsLi+3btxsYGChGD4hEIjc3t8bGRnNzcz6fb2tru3z5cpbdT02geN2wsDBHR0dfX1/aQRYhNzdXX1+fdepsSmuvFHv37pXL5cgdfuTIkdu3b//111/byAxHR0cTBKF+pluRSMTn85tyFSMIoqamhhlUCP4Oz2Y1ymQyNecwMTHRw8PjPb/eUaNGKTZaW1uPGzfOxcVFTc+lP//8U2l7aGhoRkZG//79meTY2tpahSjQp08fExMTpd6xKH363r17mcq0Xbt2ubu76+rq0onpLl26JBAIWEwO+QEqXZ03b96MGjVq9+7dkyZNunLlilgsZq0IS52rzoRERETcunVLaWI6pCRITU3dt2+fatWCoj6qWeVBz549TUxMJk6cyFR7gpZ4MCLHOWTVEwgESNBpBfh8fkNDg+r9gxzKP7EKKx83L20qrnXZsmUFBQVhYWE7duyoqKhYsmSJj4/P1atX1RdIU1JSkJvHoUOHvv3223PnzqGTS1xcHPO258+f04lLW8FUCgsL9+/fP2rUKBR9/fXXX9vb20+bNo3phvgfIjg42MjIiKm6UY2bN2926tTpiy++UHoVJRpgeeWRJCmRSBQb1XHSKy8vj4+P/4cSDQQFBT1//hxZWVrx+OHDhzEMIwhi48aNnp6eLH/WZh+3tLRUasras2ePi4sLi9+4uLjMnDlz9uzZTk5OaOdcunRp7NixLJG3pqYGQqjocYD0OXv37kWEGBWzUeo8iYCcI5rC2bNn79+/z+PxLly40L17dzrnG4tq//DDD+PHj6dthEVFRRoaGqpFFjWZira2dnZ2NpOFoAGrU+tBJBJt3Lhx2rRpOI47ODgAZd4B6sckQAi1tbVV5wtISEi4c+fOewbPcUzlH8fZs2dPnz69efPmYcOGoURPNjY2gwYN+vrrr0+dOqWaRqSlpR04cCA0NPTt27eOjo4nTpyYMWMGkwpIJJJu3bohd6+ysrJnz54tX748Ojr6iy++wDCMx+MtXbq0b9++ag7V19dXLpcjl3kAgIGBwcKFC729vWNjY/9zJVh1dXVISMiCBQvU58QNDQ3oVKgUXl5eq1at6tWrF7Nx06ZNzs7OLCWJtra2l5dXfn6+0rQFNFBeyKlTp37w315UVLRixQpfX18VYSiqMXv27MuXL69ataq0tJQl6rVa1X737t3r16+jJMd5eXm5ubno/wUFBWjmf/zxxxs3bsTExDx58gQ5d7Aopp6eHkuV9+TJk5UrVwYHB3ft2pWp/VORS43H4x04cKCpw/X06dOHDRu2ePHi6urqpj6EJUuWmJubM1MqGBgYTJ48ee3atSrMV00xFcWRsIQSxFSayjnNPOGNHz/+8OHDERERzs7OSF0mlUorKiqio6NbdNyhBe73FMI+Unxq5YSvXbs2d+7c+fPno0R4qIAgAGD16tUikWjs2LGqCx6YmZkFBwdXVFScPHkyJSVl7ty5LBKAUnkjin/q1CmSJKdMmUIQxJAhQ/766y93d/eAgACloSGKOHDgwOXLl/fv389M071+/fqampqJEye2Wuj+UNi5c6dUKqVLsKiD+vp6ZiY0FmbNmsXiKE1h/Pjx3333Xa9evVDQWVPYt2/fmDFj1M/CpCbkcvns2bNdXV1VZ0tUDS0trRkzZqAoEFaCkNYxlYyMjNGjR799+9bU1NTQ0HDgwIFHjhypq6sbMWJEQEBAcHBw7969UQDEqlWrvL29FWtylJWVsULqrl27dvHixdu3bzM5ipqqGBW3mZqaIiOEUlvXyZMnY2Jibt26xTw2aWtr79+/f9KkSVu2bGmq56aO880e85t12QcAvH79+osvvli4cKG7u3tMTAztTIjE6KS/QRCE+rl2/s8ylU9KUrl169aUKVNWrlxJG9ZIkkR7DkJ4/vz54cOHd+3ade/evRMmTFDag6Gh4YEDB7p164aEX0XQQVIikWjnzp1ffvklCh4MCAjw9PR0cXHZs2ePOsqra9eufffdd7/++itLlaGjo3Pu3LkhQ4YMHz786tWr/1VgbXp6+s6dO7ds2dKiJNC1tbVpaWmK7X5+fkeOHHF0dGQVAgEAlJSU3Lx5EwUAMslETU1Nt27dduzYERAQoNRl7vLly69fvz579uwH/+0LFiwoKSm5d+/e+3vvIGMbi5y1ToFuZ2fn5eX14MGDuXPnTps2rU+fPqyZnDdvnlQqDQoKKigoUGoRycvLY0X/fP7554resRRFlZWVqbAEoIgT1XSwKftNYmLi+vXrw8LCFIMNbW1tT58+PXr06ISEhHPnzik+q6b6S6maVEdHpylfauSVvmnTphkzZixYsEAikdy/f//WrVs0U+nSpQsd6JaWljZ69Gj1Tydq2lRaZIX9CPBpVEUmCALV+t2zZw+zfdCgQV27dmUWRUd7olevXkFBQS2q1s4qdz9u3DhLS8vCwkK6MTU11djYGMfxn376SfXjZ86c0dbW3rt3b1M3nD59GsfxDh06tLTCOQ3kb5qamtqKZ1FN09GjRxMEofQGJECcOHGC1f7dd985OjoqLS/fVM15Ozu7VatWtXSEEonE3t5+9erVH3wXLVmypHv37qWlpSpumzx5sp2dnTodIjkvMTGR2fjZZ5999tlnZU2jR48eAwcOVFr4vbi4WHXFdXNz88ePHyu9KhQKJ06c2OyYUbVgFTeg8JSEhAQV9yDl28mTJ5mNT548sba2jomJYd0slUpLS0tfv34dFxeHvHWHDRsml8tZtzk4OIwePfrZ/+KLL74YNGiQ6l9kY2PTuXNnFR8jAMDe3r62tpaiqMDAQA8PD/pqTEyMVCpVfOru3bsAgDdv3qh475QpUwwMDFSPLT4+XldX9/bt21yN+raFkpKSmTNnisXihIQElqpBJpMxDzi6urrXr19HaeRnzZr1zTffDBs2rH///iNGjFDfNl5ZWTlnzpxXr16Fh4fTyVkBAE5OTpcuXRo6dKifn5+9vb3S/LIooCE0NBTlTGzqFTNmzBAIBLNmzRo3bly/fv3Wrl3r5eWl2pGxvLx8+fLlmpqa1tbWAoEAZQhvRag/QRAzZswQCoUhISFNvRHZPOPj45mREARBREdHv379GpUtYT3SujQ2OTk5CxcuDAwMZMWNb9261dTUlE489UEgFou9vb11dHSio6NVG3VJklTTWvvw4UPwd4AI8wBbVFSkIsC+oKBAaWyQ6oChrKysiRMnnj59Gim+KIpas2ZNt27dnJycjIyMIiIiqqqq1En+oabRWLWkEhUVBf7XpL9+/fodO3a4u7sfOXLE39+/6m8QBGFubm5nZ2dnZ2dlZeXj4/P69evw8PAzZ86wAjAJgiguLmaFsldUVLA8Gmpra1etWmVra9u5c2dTU9PQ0NDs7GylrnQIU6dOPX/+/Pr165HR5Y8//mCmrmF6neTn59PFj5GHmOpdbWZm1qwXiYODQ25urlAoFIvFvr6+mzdvbp2TKqf++mBobGzct29fYGCgr6+vj4+P4horJvtCIdNjxoxZunRpbGwsinxUv4DShQsX1qxZM2TIkISEBGa2PoSBAwf6+fmtW7cuMTFRkalcunTpp59+mjhxYkpKSrO+KJMmTerYsePkyZOjo6Ojo6PNzc3Hjx+/cePGpvKXGBsbnzlzJjIy8scff0RxBm5ubk3l8FAxn9OnT7e2tt6xY4cK5Y+FhYWzs/Mff/xx584d2mOntLQU6fRpjdnjx48RcVEBpRH1tAy9b9++/Pz8UaNGRUZG0ir4+Pj4a9euhYWFfcDgsufPn69cudLHx0cds79cLldTX4F8qFhmPJlM1qlTJxWpPOPi4lqqD3n27NnSpUvPnj1LJ7qHEM6bN2/jxo00aTY0NGw2lT36dfX19Sp8llACCNUGA3SaQTVdaAork8ni4+NfvnzZt2/fQYMG9e7d283NjS4NQKO0tHT+/PmKPmYEQTg7O7OMfOHh4SgAmYaent7u3btPnTrl4+ODSD+GYYoZdJgE4erVq4gCBAcHOzo6MiOWmMjMzDxz5sytW7cghIr5OpHx5sWLF/Q/kYc3beRXjc2bN4eHhz98+DAiIuJj5ysfMVP566+/QkJCvLy8kpKSmopUkEqlSv2RPDw8Hj16dP36dZFIpGYVk7t37+7YscPc3PzWrVsqxJrvv/8+JiaGWYCaoqibN28ePny4W7duUVFR6mc96dWr14sXL1atWnX8+PHhw4evXbu22YxYAwYMiIiIGDJkSGVl5aVLl1okH2RnZ69evXru3LljxoxRfSeE8MGDB0eOHMnOzqbP7E5OTmPGjGEm7nV3d3/y5ImdnR1KMK60K9XpVejPmyayhYWF27ZtCw0NVTM5mDq4d+9efHz8lStX1EzYIxaLUSChOka+mzdvurq6sphKs+vSIjeNM2fO3Lt379atWywLnIuLy8WLF0+fPj1nzhwjI6Pg4GB1CkfKZDIMw1T4SqE4YtUjPHjwoI+PD5M4zp079+7duwsXLhw+fLjqOMRZs2ahMiSKB3/FhAVTp05VDDPS0dFZsmSJp6dnnz59kK+aotsCE4ij1NbWnj9/XkX80IABAwYMGNDY2Lh27dr9+/fPnj2bNeG6uro3b96UyWTm5ubNOpuxMHHiROTSnZKS8tELKx+v5g6lf1cNf3//plTMLcKpU6eCgoKqq6vVubm2thbpZxHOnj175coViUTS6rcnJyc3Zd5QiuLi4qZsGE2hoaHht99+q6ura+OLHhwc3GpL2IfCH3/88erVq1Y/vnv37oKCAtU3sMwwqpXyt27dUn3PjRs31Ny6FEX99NNPitYyJmJjY0NCQlq6wd4frfiCkpKSUB45dZCVlaX+LN28efPfn4GPBfATC+bkwIEDBw7/ITBuCjhw4MCBA8dUOHDgwIFDmwOPmwIOHDhw+LRBkmRmVnZFVZVAU09G4J06dcQwIJXKcQxI6spV50NqKTibCgcOHDh8ssjNy5cSQNugHQYxiqIgxACgIAYpikI+iLi8wdio3b8qqaS+zXC2t+PWhgMHDhw+FlRVVb1Of2vWoZNA35RHAj4FKYri8UB+QU59fQ0g5Pr6+pqamhK53FYhZU6rkZ6R19nOqnlJpVIkljSIzM3NuHXiwIEDhzaORomkoKhE19AEAkABCADAMViSl2ViYmRqavLPvbdaJJIDDWMDrWYM9ZWVlQDwCosquaXiwIEDh7YMkiSTnj8vrqzVMmxPQpyEeNabtLqKQiM9DVdXp3+UowAASssrIIAlpaXNqL+Ki0tMO2hjPJJbMA4cOHBouwJKY+PrzAJzaweSghRB5maldnV17tPLXcUjMplMIpESBIHjmKam5ntWUMUgLpHLC/MKmumFBBokAMaWthRFtS4nIAcOHDhw+Efx8lWKhraBibk5SZHlxfntDPQ+69mddU9lZVV+QYFETmpra5tZWpEESZAkgACDfEpO1ddLIZDWiapLS4q0NQW2nWxammlGoK+HYTxtfQPlNhWxWFxUXGJqZlnb0IDxNQAFMECVFOXpCASdOtlwS8iBAwcObQTJL1PaW9oRAACMKsvL6NrFlXVDStprjK8v/Dv9JYlBWvWEil7TAgOkSBwQgKIAhMWF+WZGwvbtm0myV1VVJappaGdiWi9ugDwtSMr/H/5Tlt502HcJAAAAAElFTkSuQmCC"
+  }
+}

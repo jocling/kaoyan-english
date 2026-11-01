@@ -1,0 +1,672 @@
+# 2024-1|0:0
+type 简单句
+chunks Anger〔主〕 over AI's role in exacerbating inequality〔修〕 could endanger the technology's future.〔主〕
+main 主语:Anger | 谓语:could endanger | 宾语:the technology's future
+gist 愤怒可能危及这项技术的未来。
+mod over AI's role in exacerbating inequality → Anger | 介词短语作定语 | 愤怒针对人工智能加剧不平等的作用
+cn 对人工智能加剧不平等作用的愤怒，可能危及这项技术的未来。
+
+# 2024-1|0:1
+type 主从复合句
+chunks In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle,〔主〕 an economist at Cambridge University,〔修〕 argues〔主〕 that the digital economy requires new ways of thinking about progress.〔C1〕
+main 主语:Diane Coyle | 谓语:argues | 宾语:C1
+gist 黛安·科伊尔主张了（一种看法）——内容是从句①。
+C1 宾语从句 | 作 argues 的宾语 | that | 前面 argues 缺主张内容，后面 economy requires 主谓宾齐全，that 不作成分。 | 主语:the digital economy | 谓语:requires | 宾语:new ways
+mod an economist at Cambridge University → Diane Coyle | 同位语 | 说明科伊尔的身份
+mod of thinking about progress → ways | 介词短语作定语 | 关于进步的思考方式
+point 书名中的 What Economics Is 与 What It Should Be 是标题内部的名词性结构，不是 argues 的宾语或主句。
+cn 剑桥大学经济学家黛安·科伊尔在新书中提出，数字经济需要新的进步观。
+
+# 2024-1|0:2
+type 主从复合句
+chunks “Whatever we mean by the economy growing, by things getting better,〔C2〕 the gains will have to be more evenly shared than in the recent past,"〔C1〕 she writes.〔主〕
+main 主语:she | 谓语:writes | 宾语:C1
+gist 她写道（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 writes 的内容 | 无 | 后面 writes 引述前面完整陈述；引语内 gains will have to be shared 是主要主谓。 | 主语:the gains | 谓语:will have to be … shared
+C2 让步状语从句 in C1 | 说明不论怎样定义增长 | Whatever | 主句是 gains will be shared，Whatever 后 we mean 缺宾语，whatever 作 mean 的宾语，同时表示无论什么。 | 主语:we | 谓语:mean | 宾语:Whatever
+mod than in the recent past → shared | 比较状语 | 与近年相比，分配必须更加均衡
+cn 她写道，无论经济增长、情况改善意味着什么，收益都必须比过去分配得更均衡。
+
+# 2024-1|0:3
+type 简单句
+chunks "An economy〔主〕 of tech millionaires or billionaires and gig workers, with middle-income jobs undercut by automation,〔修〕 will not be politically sustainable."〔主〕
+main 主语:An economy | 谓语:will not be | 表语:politically sustainable
+gist 一个经济体将无法在政治上持续。
+mod of tech millionaires or billionaires and gig workers → economy | 介词短语作定语 | 说明经济体中的收入阶层
+mod with middle-income jobs undercut by automation → economy | with复合结构作状语 | 中等收入岗位被自动化削弱，undercut 是过去分词
+cn 一个由科技富豪和零工构成、中等收入岗位遭自动化侵蚀的经济体，在政治上难以持续。
+
+# 2024-1|1:0
+type 主从复合句
+chunks Improving living standards and increasing prosperity for more people will require greater use of digital technologies to boost productivity in various sectors, including health care and construction,〔C1〕 says Coyle.〔主〕
+main 谓语:says | 主语:Coyle | 宾语:C1
+gist 科伊尔说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 says 的内容 | （省略 that） | 后面 says 引述前面完整陈述，两个动名词短语并列作 require 的主语。 | 主语:Improving living standards and increasing prosperity | 谓语:will require | 宾语:greater use
+mod for more people → prosperity | 介词短语作定语 | 让更多人享有繁荣
+mod of digital technologies → use | 介词短语作定语 | 使用数字技术
+mod to boost productivity in various sectors → use | 不定式作目的状语 | 目的是提升各行业生产率
+mod including health care and construction → sectors | 举例说明 | 包括医疗和建筑
+cn 科伊尔说，提高生活水平、让更多人富裕，需要更多利用数字技术提升包括医疗和建筑在内的各行业生产率。
+
+# 2024-1|1:1
+type 主从复合句
+chunks But people can't be expected to embrace the changes〔主〕 if they're not seeing the benefits〔C1〕 —〔主〕 if they're just seeing good jobs being destroyed.〔C2〕
+main 主语:people | 谓语:can't be expected | 主语补足语:to embrace the changes
+gist 不能指望人们接受这些变化。
+C1 条件状语从句 | 说明不能指望接受变化的条件 | if | 前面 people cannot be expected 已能成立，if 后 they are seeing 主谓宾齐全，引出条件。 | 主语＋谓语:they're | 谓语:not seeing | 宾语:the benefits
+C2 条件状语从句 | 补充解释第一项条件 | if | 前面破折号补说同一个条件，if 后 they are seeing 主谓宾齐全，不是关系从句。 | 主语＋谓语:they're | 谓语:just seeing | 宾语:good jobs | 宾补:being destroyed
+point they're = they are；seeing 的时态由 are 承担，being destroyed 是宾语 good jobs 的被动补足语。
+cn 如果人们看不到收益，而只看到好工作被摧毁，就不能指望他们接受这些变化。
+
+# 2024-1|2:0
+type 主从复合句
+chunks In a recent interview with MIT Technology Review,〔修〕 Coyle said〔主〕 she fears〔C1〕 that tech's inequality problem could be a roadblock to deploying AI.〔C2〕
+main 主语:Coyle | 谓语:said | 宾语:C1
+gist 科伊尔说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的宾语 | （省略 that） | 前面 said 缺所说内容，后面 she fears 有完整主谓，省略 that。 | 主语:she | 谓语:fears | 宾语:C2
+C2 宾语从句 in C1 | 作 fears 的宾语 | that | 前面 fears 缺担心内容，that 后 problem could be 主系表齐全，that 不作成分。 | 主语:tech's inequality problem | 谓语:could be | 表语:a roadblock
+mod In a recent interview with MIT Technology Review → said | 背景状语 | 在《麻省理工科技评论》近期采访中
+mod to deploying AI → roadblock | 介词短语作定语 | 阻碍人工智能的应用
+cn 科伊尔在近期采访中说，她担心科技带来的不平等会阻碍人工智能的应用。
+
+# 2024-1|2:1
+type 主从复合句
+chunks "We're talking about disruption,"〔C1〕 she says.〔主〕
+main 主语:she | 谓语:says | 宾语:C1
+gist 她说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 says 的内容 | 无 | 后面 says 引述前面 We are talking 的完整主谓；引语无需 that。 | 主语＋谓语:We're | 谓语:talking
+point We're = We are，are 与 talking 构成现在进行时。
+cn 她说：“我们谈的是颠覆性变化。”
+
+# 2024-1|2:2
+type 主从复合句
+chunks “These are transformative technologies〔主〕 that change the ways〔C1〕 we spend our time every day,〔C2〕 that change business models〔C3〕 that succeed."〔C4〕
+main 主语:These | 谓语:are | 表语:transformative technologies
+gist 这些是变革性技术。
+C1 定语从句 | 修饰 technologies | that | 前面是名词 technologies，that 后 change 缺主语，that 指这些技术。 | 主语:that | 谓语:change | 宾语:the ways
+C2 定语从句 in C1 | 修饰 ways | 无 | 前面是名词 ways，后面 we spend our time 主谓宾齐全，省略关系词说明使用时间的方式。 | 主语:we | 谓语:spend | 宾语:our time
+C3 定语从句 | 与C1并列修饰technologies | that | 前面第二个 that 与第一个并列，同指 technologies；后面 change 缺主语。 | 主语:that | 谓语:change | 宾语:business models
+C4 定语从句 in C3 | 修饰 models | that | 前面是名词 models，that 后 succeed 缺主语，that 指商业模式。 | 主语:that | 谓语:succeed
+cn 这些是变革性技术，会改变我们每天使用时间的方式，改变能够成功的商业模式。
+
+# 2024-1|2:3
+type 简单句
+chunks To make such "tremendous changes," she adds,〔修〕 you need social buy-in.〔主〕
+main 主语:you | 谓语:need | 宾语:social buy-in
+gist 你需要社会认同。
+mod To make such "tremendous changes," → need | 不定式作目的状语 | 为了推动这些巨大变化
+mod she adds → 整句 | 插入语 | 她补充说明
+cn 她补充说，要实现如此巨大的变化，就需要社会认同。
+
+# 2024-1|3:0
+type 主从复合句
+chunks Instead,〔主〕 says Coyle,〔修〕 resentment is simmering〔主〕 among many〔修〕 as the benefits are perceived to go to elites in a handful of prosperous cities.〔C1〕
+main 主语:resentment | 谓语:is simmering
+gist 不满正在酝酿。
+C1 原因状语从句 | 解释不满产生的原因 | as | 前面 resentment is simmering 已完整，as 后 benefits are perceived 主谓齐全，引出不满的原因。 | 主语:the benefits | 谓语:are perceived | 主语补足语:to go
+mod says Coyle → 整句 | 插入语 | 科伊尔说
+mod among many → simmering | 范围状语 | 在许多人中积累
+mod to elites in a handful of prosperous cities → go | 去向状语 | 收益流向少数繁荣城市的精英
+cn 相反，科伊尔说，许多人正积累不满，因为他们认为收益只流向少数繁荣城市的精英。
+
+# 2024-1|4:0
+type 主从复合句
+chunks According to the Brookings Institution,〔修〕 a short list〔主〕 of eight American cities〔修〕 that included San Francisco, San Jose, Boston, and Seattle〔C1〕 had roughly 38%〔主〕 of all tech jobs by 2019.〔修〕
+main 主语:a short list | 谓语:had | 宾语:roughly 38%
+gist 少数几个城市拥有约38%（的相关岗位）。
+C1 定语从句 | 修饰 cities | that | 前面是名词 cities，that 后 included 缺主语，that 指这八座城市。 | 主语:that | 谓语:included | 宾语:San Francisco, San Jose, Boston, and Seattle
+mod According to the Brookings Institution → 整句 | 来源状语 | 依据布鲁金斯学会
+mod of eight American cities → list | 介词短语作定语 | 八座美国城市构成的名单
+mod of all tech jobs → 38% | 介词短语作定语 | 占所有科技岗位的比例
+mod by 2019 → had | 时间状语 | 截至2019年
+cn 布鲁金斯学会指出，截至2019年，旧金山等八座美国城市拥有全美约38%的科技岗位。
+
+# 2024-1|4:1
+type 主从复合句
+chunks New AI technologies are particularly concentrated: Brookings's Mark Muro and Sifan Liu estimate〔主〕 that just 15 cities account for two-thirds of the AI assets and capabilities in the United States〔C1〕 (San Francisco and San Jose alone account for about one-quarter).〔修〕
+main 主语:New AI technologies | 谓语:are | 表语:concentrated || 主语:Brookings's Mark Muro and Sifan Liu | 谓语:estimate | 宾语:C1
+gist 新的人工智能技术高度集中；穆罗和刘估计了（一种情况）——内容是从句①。
+C1 宾语从句 | 作 estimate 的宾语 | that | 前面 estimate 缺估计内容，that 后 cities account 主谓齐全，that 不作成分。 | 主语:just 15 cities | 谓语:account
+mod for two-thirds of the AI assets and capabilities in the United States → account | 比例状语 | 占美国人工智能资产与能力的三分之二
+mod (San Francisco and San Jose alone account for about one-quarter) → 整句 | 括号补充说明 | 另列两座城市合计约占四分之一
+cn 新的人工智能技术尤其集中：穆罗和刘思凡估计，仅15座城市就占美国人工智能资产和能力的三分之二，旧金山与圣何塞两市约占四分之一。
+
+# 2024-1|5:0
+type 主从复合句
+chunks The dominance〔主〕 of a few cities in the invention and commercialization of AI〔修〕 means〔主〕 that geographical disparities in wealth will continue to soar.〔C1〕
+main 主语:The dominance | 谓语:means | 宾语:C1
+gist 这种主导地位意味着（一种情况）——内容是从句①。
+C1 宾语从句 | 作 means 的宾语 | that | 前面 means 缺意味着什么，that 后 disparities will continue 主谓齐全，that 不作成分。 | 主语:geographical disparities | 谓语:will continue | 宾语:to soar
+mod of a few cities in the invention and commercialization of AI → dominance | 介词短语作定语 | 少数城市在人工智能发明和商业化方面的主导地位
+mod in wealth → disparities | 介词短语作定语 | 财富上的差距
+cn 少数城市主导人工智能的发明和商业化，意味着地域财富差距会继续扩大。
+
+# 2024-1|5:1
+type 并列句
+chunks Not only will this foster political and social unrest, but it could,〔主〕 as Coyle suggests,〔修〕 hold back the sorts〔主〕 of AI technologies needed for regional economies to grow.〔修〕
+main 主语:this | 谓语:will … foster | 宾语:political and social unrest || &but || 主语:it | 谓语:could … hold back | 宾语:the sorts
+gist 这将引发政治和社会动荡；还可能阻碍这些（变革）。
+mod as Coyle suggests → 整句 | 插入语 | 正如科伊尔所指出的
+mod of AI technologies → sorts | 介词短语作定语 | 这些类别的人工智能技术
+mod needed for regional economies to grow → technologies | 过去分词作定语 | 地区经济增长所需要的技术
+point Not only 位于句首引起助动词 will 提前，实际主语是 this；but 后有新主语 it，是并列分句。
+cn 这不仅会引起政治和社会动荡，还可能阻碍地区经济发展所需的人工智能技术。
+
+# 2024-1|6:0
+type 主从复合句
+chunks Part〔主〕 of the solution〔修〕 could lie〔主〕 in somehow loosening the stranglehold〔修〕 that Big Tech has〔C1〕 on defining the AI agenda.〔修〕
+main 主语:Part | 谓语:could lie
+gist 部分（答案）可能存在（于某处）。
+C1 定语从句 | 修饰 stranglehold | that | 前面是名词 stranglehold，that 后 Big Tech has 缺宾语，that 指控制力。 | 主语:Big Tech | 谓语:has | 宾语:that
+mod of the solution → Part | 介词短语作定语 | 解决办法的一部分
+mod in somehow loosening the stranglehold → lie | 介词短语作状语 | 在于以某种方式减弱控制
+mod on defining the AI agenda → stranglehold | 介词短语作定语 | 对制定人工智能议程的控制
+cn 部分解决办法，可能在于减弱大型科技企业对人工智能议程的控制。
+
+# 2024-1|6:1
+type 简单句
+chunks That will likely take increased federal funding〔主〕 for research independent of the tech giants.〔修〕
+main 主语:That | 谓语:will … take | 宾语:increased federal funding
+gist 那将需要增加联邦拨款。
+mod for research independent of the tech giants → funding | 介词短语作定语 | 资助不依赖科技巨头的研究
+cn 这可能需要增加联邦资金，支持独立于科技巨头的研究。
+
+# 2024-1|6:2
+type 简单句
+chunks Muro and others have suggested hefty federal funding〔主〕 to help create US regional innovation centers,〔修〕 for example.〔主〕
+main 主语:Muro and others | 谓语:have suggested | 宾语:hefty federal funding
+gist 穆罗等人已建议投入巨额联邦资金。
+mod to help create US regional innovation centers → funding | 不定式作目的状语 | 资金用于帮助创建地区创新中心
+cn 例如，穆罗等人建议投入大量联邦资金，帮助建立美国地区创新中心。
+
+# 2024-1|7:0
+type 主从复合句
+chunks A more immediate response is to broaden our digital imaginations〔主〕 to conceive of AI technologies〔修〕 that don't simply replace jobs but expand opportunities in the sectors〔C1〕 that different parts of the country care most about,〔C2〕 like health care, education, and manufacturing.〔C1〕
+main 主语:A more immediate response | 谓语:is | 表语:to broaden our digital imaginations
+gist 更直接的应对方式是拓宽我们的数字想象力。
+C1 定语从句 | 修饰 technologies | that | 前面是名词 technologies，that 后 replace 缺主语，replace 与 expand 共用 that。 | 主语:that | 谓语:don't … replace | 谓语:expand | 宾语:jobs … opportunities
+C2 定语从句 in C1 | 修饰 sectors | that | 前面是名词 sectors，后面 parts care about 缺介词宾语，that 指这些行业。 | 主语:different parts | 谓语:care | 宾语:that
+mod to conceive of AI technologies → broaden | 不定式作目的状语 | 拓展想象以构想人工智能技术
+mod of the country → parts | 介词短语作定语 | 国家不同地区
+mod like health care, education, and manufacturing → sectors | 举例说明 | 如医疗、教育和制造业
+point not simply X but Y 否定的是“仅仅替代岗位”，而不是否定扩大机会；expand 与 replace 并列，但不受 don’t 否定。
+cn 更直接的应对，是拓展数字想象力，构想不仅替代岗位、还能扩大医疗、教育和制造业等地区重点行业机会的人工智能技术。
+
+# 2024-2|0:0
+type 主从复合句
+chunks The UK is facing a future construction crisis because of a failure to plant trees to produce wood,〔C1〕 Confor has warned.〔主〕
+main 主语:Confor | 谓语:has warned | 宾语:C1
+gist Confor已警告了（一种情况）——内容是从句①。
+C1 宾语从句 | 作 has warned 的内容 | （省略 that） | 后面 has warned 引述前面 UK is facing 的完整内容，被引述陈述前置作宾语。 | 主语:The UK | 谓语:is facing | 宾语:a future construction crisis
+mod because of a failure to plant trees to produce wood → facing | 原因状语 | 缺乏用于生产木材的种树投入
+cn Confor警告，由于没有种植足够的树木生产木材，英国未来将面临建筑业危机。
+
+# 2024-2|0:1
+type 简单句
+chunks The forestry and wood trade body has called〔主〕 for urgent action to reduce the country's reliance on timber imports and provide a stable supply of wood for future generations.〔修〕
+main 主语:The forestry and wood trade body | 谓语:has called
+gist 林业与木材贸易团体已发出呼吁。
+mod for urgent action → called | 介词短语作状语 | 呼吁紧急行动
+mod to reduce the country's reliance on timber imports and provide a stable supply of wood for future generations → action | 不定式作定语 | 行动的两项目的：减少进口依赖、提供稳定木材供应
+cn 该林业木材行业组织呼吁立即行动，减少英国对木材进口的依赖，并保障后代的稳定木材供应。
+
+# 2024-2|0:2
+type 主从复合句
+chunks Currently only 20 percent of the UK's wood requirement is home-grown〔主〕 while it remains the second-largest net importer of timber in the world.〔C1〕
+main 主语:only 20 percent of the UK's wood requirement | 谓语:is | 表语:home-grown
+gist 英国所需木材中仅20%产自本国。
+C1 状语从句（对比） | 对照自给比例与进口地位 | while | 前面木材自给比例的主系表已完整，while 后 it remains 主系表齐全，对照进口地位。 | 主语:it | 谓语:remains | 表语:the second-largest net importer
+mod of timber in the world → importer | 介词短语作定语 | 世界范围内的木材进口国
+cn 目前英国所需木材只有20%为本土生产，但英国仍是全球第二大木材净进口国。
+
+# 2024-2|1:0
+type 主从复合句
+chunks Coming at a time of fresh incentives from the UK government for landowners to grow more trees,〔修〕 the trade body says〔主〕 these don't go far enough and fail to promote the benefits of planting them to boost timber supplies.〔C1〕
+main 主语:the trade body | 谓语:says | 宾语:C1
+gist 该贸易团体说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 says 的宾语 | （省略 that） | 前面 says 缺所说内容，后面 these do not go 有主谓，go 与 fail 共用 these，省略 that。 | 主语:these | 谓语:don't go … fail
+mod Coming at a time of fresh incentives from the UK government for landowners to grow more trees → 整句 | 背景状语 | 说明此番表态出现在政府推出新激励之际
+mod to promote the benefits of planting them → fail | 不定式作宾语 | 未能宣传种树的好处
+mod to boost timber supplies → planting | 不定式作目的状语 | 种树是为了增加木材供应
+cn 在政府新推出种树激励之际，该组织说措施力度不够，也未宣传种树增加木材供应的好处。
+
+# 2024-2|1:1
+type 主从复合句
+chunks "Not only are we facing a carbon crisis now, but we will also be facing a future construction crisis because of failure to plant trees to produce wood."〔C1〕 said Stuart Goodall,〔主〕 chief executive of Confor.〔修〕
+main 谓语:said | 主语:Stuart Goodall | 宾语:C1
+gist 斯图尔特·古德尔说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 said 的内容 | 无 | 后面 said 引述前面完整直接引语，not only 引起 are 提前，but 后另有 we will be facing。 | 主语:we | 谓语:are … facing | 宾语:a carbon crisis | 主语:we | 谓语:will … be facing | 宾语:a future construction crisis
+mod because of failure to plant trees to produce wood → facing | 原因状语 | 未来危机源于没有种植生产木材的树木
+mod chief executive of Confor → Stuart Goodall | 同位语 | 说明古德尔身份
+point 原来源在引语末有句号，随后仍接 said，按同一引述结构理解，不把 said 误当引语内部谓语。
+cn Confor首席执行官古德尔说：“我们不仅面临碳危机，还会因为未种树生产木材而面临未来的建筑业危机。”
+
+# 2024-2|1:2
+type 主从复合句
+chunks "For decades〔修〕 we have not taken responsibility〔主〕 for investing in our domestic wood supply, leaving us exposed to fluctuating prices and fighting for future supplies of wood〔修〕 as global demand rises and our own supplies fall."〔C1〕
+main 主语:we | 谓语:have not taken | 宾语:responsibility
+gist 我们没有承担责任。
+C1 时间状语从句 | 说明面临风险的背景 | as | 前面 leaving 描述的结果完整，as 后 demand rises 和 supplies fall 两套主谓齐全，表示两种变化同时发生。 | 主语:global demand | 谓语:rises | 主语:our own supplies | 谓语:fall
+mod For decades → taken | 时间状语 | 几十年来
+mod for investing in our domestic wood supply → responsibility | 介词短语作定语 | 投资本土木材供应的责任
+mod leaving us exposed to fluctuating prices and fighting for future supplies of wood → 整句 | 现在分词作结果状语 | us 后 exposed 与 fighting 补充说明由此陷入的状态
+cn 几十年来我们未承担投资本国木材供应的责任，导致全球需求增长、自身供应下降时，我们暴露于价格波动并争抢未来供应。
+
+# 2024-2|2:0
+type 主从复合句
+chunks The UK has ideal conditions for growing wood to build low-carbon homes and is a global leader in certifying〔C1〕 that its forests are sustainably managed,〔C2〕 Confor says.〔主〕
+main 主语:Confor | 谓语:says | 宾语:C1
+gist Confor说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 says 的内容 | （省略 that） | 后面 says 引述前面 UK has…and is 的完整陈述，省略 that，has 和 is 共用主语 UK。 | 主语:The UK | 谓语:has … is | 宾语:ideal conditions | 表语:a global leader
+C2 宾语从句 in C1 | 作 certifying 的宾语 | that | 前面 certifying 缺认证内容，that 后 forests are managed 主谓齐全，that 不作成分。 | 主语:its forests | 谓语:are … managed
+mod for growing wood to build low-carbon homes → conditions | 介词短语作定语 | 种植木材用于建造低碳住宅的条件
+cn Confor说，英国具有生产低碳住宅所需木材的理想条件，并在认证森林可持续管理方面处于全球领先地位。
+
+# 2024-2|2:1
+type 主从复合句
+chunks While around three quarters of Scottish homes are built from Scottish timber,〔C1〕 the use〔主〕 of home-grown wood in England〔修〕 is only around 25 percent.〔主〕
+main 主语:the use | 谓语:is | 表语:only around 25 percent
+gist 使用比例仅约25%。
+C1 状语从句（对比） | 与英格兰的用材比例对照 | While | 后面 the use is 是主句，While 后 homes are built 主谓齐全，对照两个地区的比例。 | 主语:around three quarters of Scottish homes | 谓语:are built
+mod from Scottish timber → built | 材料状语 | 使用苏格兰木材建造
+mod of home-grown wood in England → use | 介词短语作定语 | 英格兰本土木材的使用
+cn 苏格兰约四分之三的住宅使用苏格兰木材建造，而英格兰本土木材使用比例仅约25%。
+
+# 2024-2|2:2
+type 简单句
+chunks The causes〔主〕 of the UK's current position〔修〕 are complex and range〔主〕 from outdated perceptions of productive forestry to the decimation of trees from grey squirrels.〔修〕
+main 主语:The causes | 谓语:are | 表语:complex || &and || 谓语:range
+gist 原因很复杂；并且涉及多个方面。
+mod of the UK's current position → causes | 介词短语作定语 | 英国当前处境的原因
+mod from outdated perceptions of productive forestry to the decimation of trees from grey squirrels → range | 范围状语 | 列出从观念到树木损失的一系列原因
+point and 后没有新主语，are 与 range 共用 causes。
+cn 英国当前处境成因复杂，从对生产性林业的过时看法，到灰松鼠造成的树木大量损失，都包含在内。
+
+# 2024-2|2:3
+type 简单句
+chunks It also encompasses significant hesitation〔主〕 on behalf of farmers and other landowners to invest in longer term planting projects.〔修〕
+main 主语:It | 谓语:encompasses | 宾语:significant hesitation
+gist 它包含显著的犹豫。
+mod on behalf of farmers and other landowners → hesitation | 介词短语作定语 | 说明犹豫来自农民和其他土地所有者
+mod to invest in longer term planting projects → hesitation | 不定式作定语 | 对投资长期种植项目的犹豫
+cn 其中还包括农民和其他土地所有者对投资长期种植项目的明显犹豫。
+
+# 2024-2|3:0
+type 主从复合句
+chunks While productive tree planting can deliver real financial benefits to rural economies and contribute to the UK's net-zero strategy,〔C1〕 the focus〔主〕 of government support〔修〕 continues to be on food production and the rewilding and planting of native woodland〔主〕 solely for biodiversity.〔修〕
+main 主语:the focus | 谓语:continues | 宾语:to be on food production and the rewilding and planting of native woodland
+gist 重点仍然是粮食生产、野化和本土林地种植。
+C1 让步状语从句 | 承认生产性植树的双重好处 | While | 后面 focus continues 是主句，While 后 tree planting can deliver 主谓宾齐全，承认生产性植树有价值却未得到相应支持。 | 主语:productive tree planting | 谓语:can deliver … contribute | 宾语:real financial benefits
+mod to rural economies → deliver | 受益对象状语 | 给农村经济带来益处
+mod to the UK's net-zero strategy → contribute | 介词短语作状语 | 为净零战略作贡献
+mod of government support → focus | 介词短语作定语 | 政府支持的重点
+mod solely for biodiversity → planting | 目的状语 | 原生林恢复和种植仅着眼于生物多样性
+cn 尽管生产性植树能惠及农村经济并助力净零排放，政府支持仍集中在粮食生产及仅为生物多样性服务的原生林恢复和种植。
+
+# 2024-2|3:1
+type 主从复合句
+chunks Goodall added:〔主〕 “While food production and biodiversity are clearly of critical importance,〔C2〕 we need our land to also provide secure supplies of wood for construction, manufacturing and contribute to net zero.”〔C1〕
+main 主语:Goodall | 谓语:added | 宾语:C1
+gist 古德尔补充了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 added 的内容 | 无 | 前面 added 引出整段直接引语，引语中 we need 为主要主谓，内容完整，不用 that。 | 主语:we | 谓语:need | 宾语:our land | 宾补:to also provide secure supplies of wood … contribute to net zero
+C2 让步状语从句 in C1 | 承认其他土地用途的重要性 | While | 引语主句 we need our land 完整，While 后 food production and biodiversity are 主系表齐全，承认二者重要。 | 主语:food production and biodiversity | 谓语:are | 表语:of critical importance
+mod for construction, manufacturing → wood | 用途状语 | 供建筑和制造业使用
+cn 古德尔补充说：“粮食生产和生物多样性固然重要，但土地也需要为建筑和制造业提供稳定木材，并助力净零排放。”
+
+# 2024-2|4:0
+type 主从复合句
+chunks “While the UK government has stated its ambition for more tree planting,〔C1〕 there has been little action〔主〕 on the ground.”〔修〕
+main 谓语:has been | 主语:little action
+gist 几乎没有采取行动。
+C1 让步状语从句 | 说明目标与实际行动的反差 | While | 后面 there has been 是完整存在句，While 后 government has stated 主谓宾齐全，表示虽然宣布目标却少有行动。 | 主语:the UK government | 谓语:has stated | 宾语:its ambition
+mod for more tree planting → ambition | 介词短语作定语 | 更多植树的目标
+mod on the ground → action | 地点或实践范围状语 | 落到实际的行动
+cn 英国政府虽然宣布要增加植树，但实际行动很少。
+
+# 2024-2|4:1
+type 主从复合句
+chunks Confor is now calling〔主〕 for much greater impetus behind those aspirations to ensure〔修〕 we have enough wood to meet increasing demand.”〔C1〕
+main 主语:Confor | 谓语:is … calling
+gist Confor正在呼吁。
+C1 宾语从句 | 作 ensure 的宾语 | （省略 that） | 前面 ensure 缺确保的内容，后面 we have enough wood 主谓宾齐全，省略 that。 | 主语:we | 谓语:have | 宾语:enough wood
+mod for much greater impetus behind those aspirations → calling | 介词短语作状语 | 呼吁对目标给予更大推动力
+mod to ensure → calling | 不定式作目的状语 | 目的是确保木材供应充足
+mod to meet increasing demand → wood | 不定式作定语 | 足以满足增长需求的木材
+cn Confor如今呼吁更大力度推进这些目标，确保木材足以满足不断增长的需求。
+
+# 2024-3|0:0
+type 主从复合句
+chunks One big challenge〔主〕 in keeping unsafe aging drivers off the road〔修〕 is convincing them〔主〕 that it is time to turn over the key.〔C1〕
+main 主语:One big challenge | 谓语:is | 表语:convincing them
+gist 一大挑战是说服他们。
+C1 宾语从句 | 作 convincing 的内容宾语 | that | 前面 convincing them 缺说服的内容，that 后 it is time 主系表齐全，that 不作成分。 | 主语:it | 谓语:is | 表语:time
+mod in keeping unsafe aging drivers off the road → challenge | 介词短语作定语 | 让不安全的老年司机退出道路的难题
+mod to turn over the key → time | 不定式作定语 | 该交出车钥匙的时候
+cn 让不安全的老年司机停止驾驶，一大难题是说服他们该交出车钥匙了。
+
+# 2024-3|0:1
+type 主从复合句
+chunks It is a complete life-changer〔C1〕 when someone stops — or is forced to stop — driving,〔C2〕 said former risk manager Anne M. Menke.〔主〕
+main 谓语:said | 主语:former risk manager Anne M. Menke | 宾语:C1
+gist 前风险经理安妮·门克说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的内容 | （省略 that） | 后面 said 引述前面 It is a complete life-changer 的完整陈述，整块前置作宾语。 | 主语:It | 谓语:is | 表语:a complete life-changer
+C2 时间状语从句 in C1 | 说明何时生活发生巨变 | when | 前面 It is a complete life-changer 可成句，when 后 someone stops 有主谓，引出停驾之时。 | 主语:someone | 谓语:stops … is forced | 主语补足语:to stop
+mod driving → stops | 动名词作宾语 | stops 与 to stop 共用 driving，指停止开车
+cn 前风险经理门克说，停止或被迫停止开车，会彻底改变一个人的生活。
+
+# 2024-3|1:0
+type 主从复合句
+chunks The American Medical Association advises physicians〔C1〕 that in situations〔C2〕 where clear evidence of substantial driving impairment implies a strong threat to patient and public safety,〔C3〕 and〔C2〕 where the physician's advice to discontinue driving privileges is ignored,〔C4〕 it is desirable and ethical to notify the Department of Motor Vehicles,〔C2〕 Menke wrote.〔主〕
+main 主语:Menke | 谓语:wrote | 宾语:C1
+gist 门克写道（一件事）——内容是从句①。
+C1 宾语从句 | 作 wrote 的内容 | （省略 that） | 后面 wrote 引述前面完整陈述，前面 Association advises 是被引述的主谓。 | 主语:The American Medical Association | 谓语:advises | 间接宾语:physicians | 直接宾语:C2
+C2 宾语从句 in C1 | 作 advises 的内容宾语 | that | 前面 advises physicians 缺建议的具体内容，that 后 it is desirable and ethical 主系表齐全，that 不作成分。 | 形式主语:it | 谓语:is | 表语:desirable and ethical | 真正主语:to notify the Department of Motor Vehicles
+C3 定语从句 in C2 | 修饰 situations | where | 前面是名词 situations，后面 evidence implies 主谓宾齐全，where 作情境状语。 | 主语:clear evidence | 谓语:implies | 宾语:a strong threat
+C4 定语从句 in C2 | 与C3并列说明情境 | where | 前面 where 与前一个 where 并列修饰 situations，后面 advice is ignored 完整，where 作情境状语。 | 主语:the physician's advice | 谓语:is ignored
+mod of substantial driving impairment → evidence | 介词短语作定语 | 驾驶能力严重受损的证据
+mod to patient and public safety → threat | 介词短语作定语 | 对患者和公众安全的威胁
+mod to discontinue driving privileges → advice | 不定式作定语 | 停止驾驶资格的建议
+cn 门克写道，美国医学会建议：在驾驶能力明显受损、威胁安全且医生劝阻无效的情况下，通知机动车管理部门是适当且符合伦理的。
+
+# 2024-3|1:1
+type 主从复合句
+chunks 'Some states require physicians to report, others allow but do not mandate reports,〔主〕 while a few consider a report breach of confidentiality.〔C1〕
+main 主语:Some states | 谓语:require | 宾语:physicians | 宾补:to report || 主语:others | 谓语:allow … do not mandate | 宾语:reports
+gist 一些州要求医生报告；另一些州允许、但不强制报告。
+C1 状语从句（对比） | 对照少数州的做法 | while | 前面两类州的要求已是完整分句，while 后 a few consider 主谓宾齐全，对照少数州的相反立场。 | 主语:a few | 谓语:consider | 宾语:a report | 宾补:breach of confidentiality
+point 来源用逗号连接前两个分句，报告的法律要求因州而异；a report 在 consider 后是宾语，breach 是宾补。
+cn 有些州要求医生报告，有些允许但不强制报告，还有少数把报告视为违反保密义务。
+
+# 2024-3|1:2
+type 主从复合句
+chunks There could be liability and penalties〔C1〕 if a physician does not act in accordance with state laws on reporting and confidentiality,”〔C2〕 she counseled.〔主〕
+main 主语:she | 谓语:counseled | 宾语:C1
+gist 她提出了（一条建议）——内容是从句①。
+C1 宾语从句（直接引语） | 作 counseled 的内容 | 无 | 后面 counseled 引述前面完整存在句，There could be 是引述内容，不是 she 的谓语。 | 主语:liability and penalties | 谓语:could be
+C2 条件状语从句 in C1 | 说明可能担责的条件 | if | 前面 There could be liability and penalties 已完整，if 后 physician does not act 有主谓，引出条件。 | 主语:a physician | 谓语:does not act
+mod in accordance with state laws on reporting and confidentiality → act | 方式状语 | 依所在州关于报告与保密的法律行事
+cn 她提醒说，医生若不遵守所在州关于报告和保密的法律，可能承担责任并受处罚。
+
+# 2024-3|2:0
+type 主从复合句
+chunks Part of the problem in keeping older drivers safe is〔C1〕 that the difficulties are addressed piecemeal by different professions with different focuses, including gerontologists, highway administration officials, automotive engineers and others,〔C2〕 said gerontologist Elizabeth Dugan.〔主〕
+main 谓语:said | 主语:gerontologist Elizabeth Dugan | 宾语:C1
+gist 老年学家伊丽莎白·杜根说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的内容 | （省略 that） | 后面 said 引述前面 Part is 的完整陈述，整体作所说内容。 | 主语:Part | 谓语:is | 表语:C2
+C2 表语从句 in C1 | 作 is 的表语 | that | 前面系动词 is 后需说明问题是什么，that 后 difficulties are addressed 完整，that 不作成分。 | 主语:the difficulties | 谓语:are addressed
+mod of the problem in keeping older drivers safe → Part | 介词短语作定语 | 保持老年司机安全这一问题的一部分
+mod by different professions with different focuses → addressed | 施事状语 | 由重点不同的专业分别处理
+mod including gerontologists, highway administration officials, automotive engineers and others → professions | 举例说明 | 包括老年学家、道路管理人员、汽车工程师等
+cn 老年学家杜根说，保障老年司机安全的问题之一，是不同专业各有重点、零散处理这些困难。
+
+# 2024-3|2:1
+type 主从复合句
+chunks "There's not a National Institute of Older Driver Studies,"〔C1〕 she said.〔主〕
+main 主语:she | 谓语:said | 宾语:C1
+gist 她说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 said 的内容 | 无 | 后面 said 引述前面 There is 的完整存在句，直接引语无需 that。 | 主语＋谓语:There's | 主语:a National Institute of Older Driver Studies
+point There's = There is；there 是存在句引导词，真正存在的对象是研究机构，not 表示不存在。
+cn 她说：“并没有全国性的老年驾驶员研究机构。”
+
+# 2024-3|2:2
+type 主从复合句
+chunks "We need better evidence on〔C1〕 what makes drivers unsafe"〔C2〕 and〔C1〕 what can help,〔C3〕 said Dugan.〔主〕
+main 谓语:said | 主语:Dugan | 宾语:C1
+gist 杜根说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 said 的内容 | 无 | 后面 said 引述前面 We need 的完整陈述，整块作所说内容。 | 主语:We | 谓语:need | 宾语:better evidence
+C2 宾语从句 in C1 | 作 on 的第一个宾语 | what | 前面介词 on 缺内容，what 后 makes 缺主语，what 同时指造成不安全的因素并作主语。 | 主语:what | 谓语:makes | 宾语:drivers | 宾补:unsafe
+C3 宾语从句 in C1 | 作 on 的第二个宾语 | what | 前面 and 把它与前一个 what 从句并列，what 后 can help 缺主语，what 作主语。 | 主语:what | 谓语:can help
+cn 杜根说，需要更好的证据，说明什么让司机不安全、什么能提供帮助。
+
+# 2024-3|3:0
+type 主从复合句
+chunks One thing〔主〕 that does seem to work〔C1〕 is requiring drivers to report in person〔主〕 for license renewal.〔修〕
+main 主语:One thing | 谓语:is | 表语:requiring drivers to report in person
+gist 其中一项措施是要求驾驶者亲自到场报告。
+C1 定语从句 | 修饰 thing | that | 前面是名词 thing，that 后 does seem 缺主语，that 指这种办法。 | 主语:that | 谓语:does seem | 表语:to work
+mod for license renewal → report | 目的状语 | 为续领驾照而到场
+point does 在从句中加强肯定；requiring 整个动名词短语在 is 后作表语，不是现在进行时。
+cn 有一种似乎有效的办法，是要求司机亲自到场续领驾照。
+
+# 2024-3|3:1
+type 简单句
+chunks Mandatory in-person renewal was associated〔主〕 with a 31 percent reduction in fatal crashes involving drivers 85 or older, according to one study.〔修〕
+main 主语:Mandatory in-person renewal | 谓语:was associated
+gist 强制本人到场续证与（某种变化）存在关联。
+mod with a 31 percent reduction in fatal crashes → associated | 关联对象状语 | 与致命事故减少31%相关
+mod involving drivers 85 or older → crashes | 现在分词作定语 | 涉及85岁及以上驾驶员的事故
+mod according to one study → 整句 | 来源状语 | 依据一项研究
+cn 一项研究显示，强制本人续证与85岁及以上司机致命事故减少31%有关。
+
+# 2024-3|3:2
+type 主从复合句
+chunks Passing vision tests also produced a similar decline〔主〕 in fatal crashes for those drivers,〔修〕 although there appeared to be no benefit from combining the two.〔C1〕
+main 主语:Passing vision tests | 谓语:produced | 宾语:a similar decline
+gist 通过视力测试带来了类似的下降。
+C1 让步状语从句 | 说明组合两项措施未显额外收益 | although | 前面 Passing vision tests produced 主谓宾齐全，although 后 there appeared to be 存在结构完整，引出反预期结果。 | 谓语:appeared | 表语:to be | 主语:no benefit
+mod in fatal crashes for those drivers → decline | 介词短语作定语 | 这些司机致命事故的降幅
+mod from combining the two → benefit | 介词短语作定语 | 两种办法结合产生的益处
+cn 通过视力测试也带来类似的致命事故降幅，但同时使用两种办法似乎没有额外好处。
+
+# 2024-3|4:0
+type 简单句
+chunks Many old drivers don't see eye doctors or can't afford to.〔主〕
+main 主语:Many old drivers | 谓语:don't see | 宾语:eye doctors || &or || 谓语:can't afford
+gist 许多老年司机不看眼科医生；或负担不起（费用）。
+point or 后没有新主语，两个谓语共用 Many old drivers；末尾 to 省略 see eye doctors 的内容。
+cn 许多老年司机不看眼科医生，或负担不起看诊。
+
+# 2024-3|4:1
+type 主从复合句
+chunks Primary care providers have their hands full and may not be able〔主〕 to follow through with patients〔修〕 who have trouble driving〔C1〕 because they can't turn their heads or remember〔C2〕 where they are going〔C3〕 or have gotten shorter and haven't changed their seat settings sufficiently to reach car pedals easily.〔C2〕
+main 主语:Primary care providers | 谓语:have | 宾语:their hands | 宾补:full || &and || 谓语:may not be | 表语:able
+gist 基层医疗服务者忙得不可开交；也可能没有能力（做某事）。
+C1 定语从句 | 修饰 patients | who | 前面是名词 patients，who 后 have 缺主语，who 指这些患者。 | 主语:who | 谓语:have | 宾语:trouble
+C2 原因状语从句 in C1 | 说明驾驶困难的原因 | because | 前面 who have trouble driving 已完整，because 后 they can’t turn 有主谓，列出驾驶困难的原因。 | 主语:they | 谓语:can't turn … remember … have gotten … haven't changed | 宾语:their heads | 宾语:C3 | 表语:shorter | 宾语:their seat settings
+C3 宾语从句 in C2 | 作 remember 的宾语 | where | 前面 remember 缺记得的内容，where 后 they are going 主谓齐全，where 作去向状语。 | 主语:they | 谓语:are going
+mod to follow through with patients → able | 不定式作补充说明 | 能够持续跟进患者
+mod to reach car pedals easily → changed | 不定式作目的状语 | 调整座椅以便轻松踩到踏板
+point 原来源把多项原因用 or、and 串联；不能把 have gotten shorter 误归给医疗人员。
+cn 初级医疗人员已忙得不可开交，可能无法持续跟进因转头困难、记忆减弱或身高变矮却未调座椅而难以驾驶的患者。
+
+# 2024-3|5:0
+type 主从复合句
+chunks As long as there are other cars on the roads,〔C2〕 self-driving cars won't solve the problems of crashes,〔C1〕 said Dugan.〔主〕
+main 谓语:said | 主语:Dugan | 宾语:C1
+gist 杜根说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的内容 | （省略 that） | 后面 said 引述前面的完整条件复合句，被引述内容整体作宾语。 | 主语:self-driving cars | 谓语:won't solve | 宾语:the problems
+C2 条件状语从句 in C1 | 限定不能解决事故的条件 | As long as | 后面 cars won’t solve 是完整主句，As long as 后 there are other cars 是完整存在句，表示只要这一条件存在。 | 谓语:are | 主语:other cars
+mod on the roads → cars | 地点状语 | 道路上的其他汽车
+mod of crashes → problems | 介词短语作定语 | 事故问题
+cn 杜根说，只要路上还有其他汽车，自动驾驶汽车就不能解决交通事故问题。
+
+# 2024-3|5:1
+type 主从复合句
+chunks Avoiding dangers posed by all those human drivers would require too many algorithms,〔C1〕 she said.〔主〕
+main 主语:she | 谓语:said | 宾语:C1
+gist 她说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的内容 | （省略 that） | 后面 said 引述前面 Avoiding…would require 的完整陈述，动名词短语整体作被引述句的主语。 | 主语:Avoiding dangers | 谓语:would require | 宾语:too many algorithms
+mod posed by all those human drivers → dangers | 过去分词作定语 | 那些人类司机造成的危险
+cn 她说，要避免所有人类司机造成的危险，会需要过多算法。
+
+# 2024-3|5:2
+type 主从复合句
+chunks But we need to do more to improve safety,〔C1〕 said Dugan.〔主〕
+main 谓语:said | 主语:Dugan | 宾语:C1
+gist 杜根说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的内容 | （省略 that） | 后面 said 引述前面 we need 的完整陈述，need 后 to do 作宾语。 | 主语:we | 谓语:need | 宾语:to do more
+mod to improve safety → do | 不定式作目的状语 | 多行动是为了提高安全性
+cn 但杜根说，我们需要采取更多措施提升安全性。
+
+# 2024-3|5:3
+type 主从复合句
+chunks “If we're going to have 100-year lives,〔C1〕 we need cars〔主〕 that a 90-year-old can drive comfortably."〔C2〕
+main 主语:we | 谓语:need | 宾语:cars
+gist 我们需要汽车。
+C1 条件状语从句 | 限定需要适老汽车的条件 | If | 后面 we need cars 主谓宾齐全，If 后 we are going to have 主谓宾齐全，说明百岁人生这一条件。 | 主语＋谓语:we're | 谓语:going to have | 宾语:100-year lives
+C2 定语从句 | 修饰 cars | that | 前面是名词 cars，后面 a 90-year-old can drive 缺宾语，that 指汽车。 | 主语:a 90-year-old | 谓语:can drive | 宾语:that
+cn 如果我们将拥有百岁人生，就需要90岁的人也能舒适驾驶的汽车。
+
+# 2024-4|0:0
+type 主从复合句
+chunks If you look at the apps on your phone,〔C1〕 chances are〔主〕 you have at least one related to your health and probably several.〔C2〕
+main 主语:chances | 谓语:are | 表语:C2
+gist 很可能是（一种情况）——内容是从句②。
+C1 条件状语从句 | 限定观察的条件 | If | 后面 chances are 是主句，If 后 you look 有完整主谓，表示查看手机这一条件。 | 主语:you | 谓语:look
+C2 表语从句 | 作 are 的表语 | （省略 that） | 前面 chances are 是固定主系结构，后面 you have one 主谓宾齐全，省略 that 说明可能情况。 | 主语:you | 谓语:have | 宾语:at least one … several
+mod at the apps on your phone → look | 介词短语作状语 | 查看手机上的应用
+mod related to your health → one | 过去分词作定语 | 与健康相关的应用
+cn 看看手机上的应用，你很可能至少有一个健康相关应用，或许还有好几个。
+
+# 2024-4|0:1
+type 主从复合句
+chunks Whether it is a mental health app, a fitness tracker, a connected health device or something else,〔C1〕 many of us are taking advantage〔主〕 of this technology to keep better track of our health in some shape or form.〔修〕
+main 主语:many of us | 谓语:are taking | 宾语:advantage
+gist 我们中许多人正在利用（某种机会）。
+C1 让步状语从句 | 说明无论采用哪类技术 | Whether | 后面 many of us are taking 是主句，Whether 后 it is 主系表齐全，配合 or 表示不论哪种设备。 | 主语:it | 谓语:is | 表语:a mental health app, a fitness tracker, a connected health device or something else
+mod of this technology → advantage | 介词短语作补充说明 | take advantage of 整体表示利用
+mod to keep better track of our health in some shape or form → taking | 不定式作目的状语 | 利用技术是为了跟踪健康
+cn 不论是心理健康应用、健身追踪器、联网健康设备还是其他工具，许多人都用这些技术以某种方式更好地跟踪健康。
+
+# 2024-4|0:2
+type 主从复合句
+chunks Recent research〔主〕 from the Organization for the Review of Care and Health Applications〔修〕 found〔主〕 that 350,000 health apps were available on the market,〔C1〕 90,000 of which launched in 2020 alone.〔C2〕
+main 主语:Recent research | 谓语:found | 宾语:C1
+gist 近期研究发现了（一件事）——内容是从句①。
+C1 宾语从句 | 作 found 的宾语 | that | 前面 found 缺研究发现内容，that 后 apps were available 主系表齐全，that 不作成分。 | 主语:350,000 health apps | 谓语:were | 表语:available
+C2 定语从句 in C1 | 补充说明 apps | of which | 前面是350,000 health apps，后面 launched 缺主语，90,000 of which 整体作主语，表示其中九万个。 | 主语:90,000 of which | 谓语:launched
+mod from the Organization for the Review of Care and Health Applications → research | 介词短语作定语 | 说明研究来源
+mod on the market → available | 地点状语 | 在市场上可获得
+mod in 2020 alone → launched | 时间状语 | 仅在2020年
+cn 相关机构近期研究发现，市面上有35万个健康应用，其中9万个仅在2020年就已推出。
+
+# 2024-4|1:0
+type 主从复合句
+chunks While these apps have a great deal to offer,〔C1〕 it is not always clear〔主〕 how the personal information〔C2〕 we input〔C3〕 is collected, safeguarded and shared online.〔C2〕
+main 形式主语:it | 谓语:is | 表语:not always clear | 真正主语:C2
+gist （一件事）并不总是清楚的——内容是从句②。
+C1 让步状语从句 | 承认应用有很多可提供的益处 | While | 后面 it is not clear 是主句，While 后 apps have 主谓宾齐全，承认应用有益处而信息处理仍不透明。 | 主语:these apps | 谓语:have | 宾语:a great deal
+C2 主语从句 | 作真正主语 | how | 前面 it is clear 用 it 作形式主语，how 后 information is collected 主谓齐全，how 作方式状语引出真正主语。 | 主语:the personal information | 谓语:is collected … safeguarded and shared
+C3 定语从句 in C2 | 修饰 information | （省略 that） | 前面是名词 information，后面 we input 缺宾语，省略的关系词指信息。 | 主语:we | 谓语:input
+mod to offer → deal | 不定式作定语 | 应用有很多能提供给用户的东西
+cn 这些应用虽有很多益处，但用户输入的个人信息怎样被收集、保护和在线共享，并不总是清楚。
+
+# 2024-4|1:1
+type 主从复合句
+chunks Existing health privacy law,〔主〕 such as the Health Insurance Portability and Accountability Act,〔修〕 is primarily focused〔主〕 on the way〔修〕 hospitals, doctors' offices, clinics and insurance companies store health records online.〔C1〕
+main 主语:Existing health privacy law | 谓语:is … focused
+gist 现有健康隐私法侧重于（某个领域）。
+C1 定语从句 | 修饰 way | 无 | 前面是名词 way，后面 hospitals 等作主语、store 作谓语，主谓宾齐全，省略 in which 说明保存方式。 | 主语:hospitals, doctors' offices, clinics and insurance companies | 谓语:store | 宾语:health records
+mod such as the Health Insurance Portability and Accountability Act → law | 举例说明 | 例如健康保险流通与责任法
+mod on the way → focused | 介词短语作状语 | 法律主要关注信息保存的方式
+cn 现有健康隐私法主要关注医院、医生诊所、医疗机构和保险公司如何在线保存健康记录。
+
+# 2024-4|1:2
+type 主从复合句
+chunks The health information〔主〕 these apps and health data tracking wearables are collecting〔C1〕 typically does not receive the same legal protections.〔主〕
+main 主语:The health information | 谓语:does not receive | 宾语:the same legal protections
+gist 这些健康信息没有得到同等法律保护。
+C1 定语从句 | 修饰 information | （省略 that） | 前面是名词 information，后面 apps and wearables are collecting 缺宾语，省略的关系词指信息。 | 主语:these apps and health data tracking wearables | 谓语:are collecting
+cn 这些应用和健康追踪可穿戴设备收集的健康信息，通常得不到同等法律保护。
+
+# 2024-4|2:0
+type 主从复合句
+chunks Without additional protections in place,〔修〕 companies may share (and potentially monetize) personal health information〔主〕 in a way〔修〕 consumers may not have authorized or anticipated.〔C1〕
+main 主语:companies | 谓语:may share … monetize | 宾语:personal health information
+gist 公司可能共享个人健康信息、并以此获利。
+C1 定语从句 | 修饰 way | 无 | 前面是名词 way，后面 consumers may have authorized or anticipated 缺宾语，省略关系词指这种方式。 | 主语:consumers | 谓语:may not have authorized … anticipated
+mod Without additional protections in place → 整句 | 条件状语 | 没有额外保护措施的情况下
+mod in a way → share | 方式状语 | 以某种方式共享
+point not 对 authorized 和 anticipated 两个并列分词都起否定作用。
+cn 没有额外保护时，公司可能以消费者未授权或未预料的方式共享个人健康信息，甚至从中获利。
+
+# 2024-4|2:1
+type 简单句
+chunks In 2021,〔修〕 Flo Health faced a Federal Trade Commission (FTC) investigation.〔主〕
+main 主语:Flo Health | 谓语:faced | 宾语:a Federal Trade Commission (FTC) investigation
+gist Flo Health曾面临美国联邦贸易委员会的调查。
+mod In 2021 → faced | 时间状语 | 在2021年
+cn 2021年，Flo Health面临美国联邦贸易委员会调查。
+
+# 2024-4|2:2
+type 主从复合句
+chunks The FTC alleged〔主〕 in a complaint〔修〕 that "despite express privacy claims, the company took control of users' sensitive fertility data and shared it with third parties.”〔C1〕
+main 主语:The FTC | 谓语:alleged | 宾语:C1
+gist 美国联邦贸易委员会指控了（一件事）——内容是从句①。
+C1 宾语从句 | 作 alleged 的宾语 | that | 前面 alleged 缺指控内容，that 后 company took control 主谓宾齐全，that 不作成分。 | 主语:the company | 谓语:took … shared | 宾语:control … it
+mod in a complaint → alleged | 情境状语 | 在一项投诉中指控
+mod despite express privacy claims → took | 让步状语 | 尽管明确宣称保护隐私
+mod of users' sensitive fertility data → control | 介词短语作补充说明 | 掌控的是用户敏感生育数据
+mod with third parties → shared | 共享对象状语 | 与第三方共享
+cn 联邦贸易委员会指控，该公司尽管明确声称保护隐私，仍掌控用户敏感生育数据并与第三方共享。
+
+# 2024-4|2:3
+type 主从复合句
+chunks Flo Health and the FTC settled the matter〔主〕 with a Consent Order requiring the company to get app users' express affirmative consent before sharing their health information as well as to instruct the third parties to delete the data〔修〕 they had obtained.〔C1〕
+main 主语:Flo Health and the FTC | 谓语:settled | 宾语:the matter
+gist Flo Health与美国联邦贸易委员会就此事达成和解。
+C1 定语从句 | 修饰 data | （省略 that） | 前面是名词 data，后面 they had obtained 缺宾语，省略的关系词指数据。 | 主语:they | 谓语:had obtained
+mod with a Consent Order requiring the company to get app users' express affirmative consent before sharing their health information as well as to instruct the third parties to delete the data they had obtained → settled | 方式状语 | 以同意令结案，令中规定获得同意及要求删除两项义务
+mod requiring the company → Order | 现在分词作定语 | 同意令要求公司承担义务
+point to get 与 to instruct 是 requiring 后并列的不定式宾补，共用 company；before sharing 的逻辑主语仍为公司。
+cn 双方以同意令解决此事，要求公司分享健康信息前获得用户明确同意，并要求第三方删除已取得的数据。
+
+# 2024-4|3:0
+type 主从复合句
+chunks Section 5〔主〕 of the FTC Act〔修〕 empowers the FTC to initiate enforcement action〔主〕 against unfair or deceptive acts, meaning〔修〕 the FTC can only act after the fact〔C1〕 if a company's privacy practices are misleading or cause unjustified consumer harm.〔C2〕
+main 主语:Section 5 | 谓语:empowers | 宾语:the FTC | 宾补:to initiate enforcement action
+gist 第五条授权美国联邦贸易委员会发起执法行动。
+C1 宾语从句 | 作 meaning 的宾语 | （省略 that） | 前面 meaning 缺意味着什么，后面 FTC can act 主谓齐全，省略 that。 | 主语:the FTC | 谓语:can … act
+C2 条件状语从句 in C1 | 限定执法条件 | if | 前面 FTC can act 已完整，if 后 practices are misleading or cause harm 主谓齐全，表示行动条件。 | 主语:a company's privacy practices | 谓语:are … cause | 表语:misleading | 宾语:unjustified consumer harm
+mod of the FTC Act → Section 5 | 介词短语作定语 | 联邦贸易委员会法的第5条
+mod against unfair or deceptive acts → action | 介词短语作定语 | 针对不公平或欺骗行为的执法
+mod meaning → 整句 | 现在分词作结果说明 | 解释授权条款带来的限制
+mod after the fact → act | 时间状语 | 只能事后行动
+cn 联邦贸易委员会法第5条授权委员会对不公平或欺骗行为执法，意味着只有隐私做法误导消费者或造成不当损害之后，委员会才能行动。
+
+# 2024-4|3:1
+type 主从复合句
+chunks While the FTC is doing〔C1〕 what it can〔C2〕 to ensure〔C1〕 apps are keeping their promises to consumers around the handling of their sensitive health information,〔C3〕 the rate〔主〕 at which these health apps are hitting the market〔C4〕 demonstrates〔主〕 just how immense of a challenge this is.〔C5〕
+main 主语:the rate | 谓语:demonstrates | 宾语:C5
+gist 这一比率表明了（一种情况）——内容是从句⑤。
+C1 让步状语从句 | 承认委员会正在尽力 | While | 后面 rate demonstrates 是主句，While 后 FTC is doing 主谓齐全，承认努力而挑战依然巨大。 | 主语:the FTC | 谓语:is doing | 宾语:C2
+C2 宾语从句 in C1 | 作 doing 的宾语 | what | 前面 doing 缺宾语，what 后 it can 省略 do，what 作省略的 do 的宾语，表示力所能及的事。 | 主语:it | 谓语:can
+C3 宾语从句 in C1 | 作 ensure 的宾语 | （省略 that） | 前面 ensure 缺确保内容，后面 apps are keeping 主谓宾齐全，省略 that。 | 主语:apps | 谓语:are keeping | 宾语:their promises
+C4 定语从句 | 修饰 rate | at which | 前面是名词 rate，后面 apps are hitting 主谓宾齐全，at which 说明上市速度。 | 主语:these health apps | 谓语:are hitting | 宾语:the market
+C5 宾语从句 | 作 demonstrates 的宾语 | how | 前面 demonstrates 缺显示内容，后面 this is 缺表语，how immense of a challenge 作提前的表语。 | 主语:this | 谓语:is | 表语:how immense of a challenge
+mod to ensure → doing | 不定式作目的状语 | 尽力确保应用守诺
+cn 委员会虽努力确保应用守诺，但健康应用迅速上市，表明这一挑战十分巨大。
+
+# 2024-4|4:0
+type 主从复合句
+chunks As to the prospects for federal legislation,〔修〕 commentators suggest〔主〕 that comprehensive federal privacy legislation seems unlikely in the short term.〔C1〕
+main 主语:commentators | 谓语:suggest | 宾语:C1
+gist 评论者提出了（一种看法）——内容是从句①。
+C1 宾语从句 | 作 suggest 的宾语 | that | 前面 suggest 缺评论内容，that 后 legislation seems unlikely 主系表齐全，that 不作成分。 | 主语:comprehensive federal privacy legislation | 谓语:seems | 表语:unlikely
+mod As to the prospects for federal legislation → 整句 | 话题状语 | 谈到联邦立法前景
+mod in the short term → unlikely | 时间状语 | 短期内
+cn 对于联邦立法的前景，评论人士认为全面的联邦隐私立法短期内似乎不太可能出台。
+
+# 2024-4|4:1
+type 简单句
+chunks States have begun implementing their own solutions〔主〕 to shore up protections for consumer-generated health data.〔修〕
+main 主语:States | 谓语:have begun | 宾语:implementing their own solutions
+gist 各州已开始实施各自的解决方案。
+mod to shore up protections for consumer-generated health data → implementing | 不定式作目的状语 | 强化消费者生成的健康数据保护
+cn 各州已开始实施自己的方案，强化对消费者生成的健康数据的保护。
+
+# 2024-4|4:2
+type 简单句
+chunks California has been at the forefront〔主〕 of state privacy efforts with the California Consumer Privacy Act of 2018.〔修〕
+main 主语:California | 谓语:has been | 表语:at the forefront
+gist 加利福尼亚州一直处于前沿。
+mod of state privacy efforts → forefront | 介词短语作定语 | 州级隐私工作前列
+mod with the California Consumer Privacy Act of 2018 → has been | 依据状语 | 通过2018年加州消费者隐私法推进
+cn 加利福尼亚州凭借2018年消费者隐私法，一直走在州级隐私保护工作的前列。
+
+# 2024-4|4:3
+type 简单句
+chunks Virginia, Colorado and Utah have also recently passed state consumer data privacy legislation.〔主〕
+main 主语:Virginia, Colorado and Utah | 谓语:have … passed | 宾语:state consumer data privacy legislation
+gist 弗吉尼亚州、科罗拉多州和犹他州也已通过州消费者数据隐私立法。
+cn 弗吉尼亚州、科罗拉多州和犹他州最近也通过了州级消费者数据隐私立法。

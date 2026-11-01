@@ -11,7 +11,7 @@ def rep(old,new,count=1):
     s=s.replace(old,new)
 rep('#view-sent>*:not(#sr27-frame){display:none!important}','')
 rep('window.innerHeight-g.getBoundingClientRect().top-18','(window.visualViewport?window.visualViewport.height:window.innerHeight)-(g.getBoundingClientRect().top+window.scrollY)-18')
-rep('font:600 10px/1 sans-serif;color:var(--accent)">v35</small>','font:600 10px/1 sans-serif;color:var(--accent)">v48</small>')
+rep('font:600 10px/1 sans-serif;color:var(--accent)">v35</small>','font:600 10px/1 sans-serif;color:var(--accent)">v49</small>')
 rep('<span>点词看释义 · 拖选或点「划短语」存短语 · 点句子编号看拆解</span>','<span>点词看释义 · 拖选两个以上的词存短语 · 点句子编号看拆解</span>')
 skel=json.load(open(os.path.join(B,'data','skel.json')))
 # QCHOICE overrides
@@ -36,6 +36,34 @@ if papers:
     assert s.count(marker)==1
     s=s.replace(marker,early+marker)
     late="""for(const [y,p] of Object.entries(PAPERS)){for(const k of ['CLOZE_STUDY','NEWTYPE_STUDY','TRANSLATION_STUDY'])if(p[k])Object.assign({CLOZE_STUDY,NEWTYPE_STUDY,TRANSLATION_STUDY}[k],p[k]);}\n"""
+    # Register new special-paper sentences in the same indexes used by existing years.
+    late+="""for(const [y,p] of Object.entries(PAPERS)){
+ const kinds=[['cloze','完型'],['newtype','新题型'],['translation','翻译']];
+ for(const [kind,label] of kinds){
+  const id=`special-${y}-${kind}`,sentences={};let paragraphs=[];
+  if(kind==='cloze'){
+   paragraphs=[spFillCloze(EXAM_DATA[y].cloze)];
+   splitSentences(paragraphs[0]).forEach((text,i)=>sentences[`0:${i}`]={text,cn:'暂无'});
+  }else if(kind==='newtype'){
+   for(const [pi,block] of NEWTYPE_STUDY[y].blocks.entries()){
+    const previous=new Map(block.sentences.map(s=>[s.text,s.cn]));
+    block.sentences=splitSentences(block.text).map((text,si)=>{
+     const key=`${pi}:${si}`,s={key,text,cn:previous.get(text)||'暂无',tokenKeys:text.split(' ').map((_,i)=>`${key}:${i}`)};
+     sentences[key]={text,cn:s.cn};return s;
+    });paragraphs.push(block.text);
+   }
+  }else{
+   const data=TRANSLATION_STUDY[y];paragraphs=[data.sentences.map(s=>s.text).join(' ')];
+   for(const s of data.sentences)sentences[s.key]={text:s.text,cn:s.cn};
+   PARSE2[id]=Object.fromEntries(data.sentences.map(s=>[s.key,s]));SPECIAL_PARSE[id]=PARSE2[id];PHR[id]=data.phrases;
+  }
+  byId[id]={id,label:`${y} · ${label}`,paragraphs,questions:[]};
+  ANN[id]={...(ANN[id]||{}),trans:[],vocab:[],kw:[]};
+  for(const [key,s] of Object.entries(sentences)){const [pi,si]=key.split(':').map(Number);(ANN[id].trans[pi]||=[])[si]=s.cn;}
+  if(kind!=='translation'){STUDY_V17[id]={label:`${y} · ${label}`,sentences};SPECIAL_PARSE[id]||={};PARSE2[id]=SPECIAL_PARSE[id];}
+ }
+}
+"""
 else:
     late=''
 

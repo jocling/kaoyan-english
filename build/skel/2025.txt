@@ -1,0 +1,718 @@
+# 2025-1|0:0
+type 主从复合句
+chunks U.S. customers historically tipped people〔主〕 they assumed were earning most of their income via tips,〔C1〕 such as restaurant servers earning less than the minimum wage.〔修〕
+main 主语:U.S. customers | 谓语:tipped | 宾语:people
+gist 美国顾客曾给人们小费。
+C1 定语从句 | 修饰 people，包含插入判断 they assumed | 无 | 前面是 people，后面 they assumed 是插入判断，实际从句 were earning 缺主语，省略关系词指 people。 | 谓语:were earning | 宾语:most of their income
+mod via tips → earning | 方式状语 | 靠小费获得收入
+mod such as restaurant servers earning less than the minimum wage → people | 举例说明 | 例如收入低于最低工资的餐厅服务人员
+point 结构可还原为 people who, they assumed, were earning…；were earning 的主语是 people 对应的关系词，不是 they。
+cn 过去，美国消费者给那些他们认为主要靠小费维生的人小费，例如收入低于最低工资的餐厅服务员。
+
+# 2025-1|0:1
+type 简单句
+chunks In the early 2010s,〔修〕 a wide range〔主〕 of businesses〔修〕 started processing purchases〔主〕 with iPads and other digital payment systems.〔修〕
+main 主语:a wide range | 谓语:started | 宾语:processing purchases
+gist 许多（商家）开始处理交易。
+mod In the early 2010s → started | 时间状语 | 2010年代初
+mod of businesses → range | 介词短语作定语 | 广泛的企业
+mod with iPads and other digital payment systems → processing | 工具状语 | 使用数字支付系统
+cn 2010年代初，许多企业开始用iPad和其他数字支付系统处理交易。
+
+# 2025-1|0:2
+type 主从复合句
+chunks These systems often prompted customers to tip〔主〕 for services〔修〕 that were not previously tipped.〔C1〕
+main 主语:These systems | 谓语:prompted | 宾语:customers | 宾补:to tip
+gist 这些系统提示顾客给小费。
+C1 定语从句 | 修饰 services | that | 前面是 services，that 后 were tipped 缺主语，that 指这些服务。 | 主语:that | 谓语:were not … tipped
+mod for services → tip | 介词短语作状语 | 为这些服务给小费
+cn 这些系统经常提示顾客给此前没有小费惯例的服务支付小费。
+
+# 2025-1|1:0
+type 主从复合句
+chunks Today's tip requests are often not connected〔主〕 to the salary and service norms〔修〕 that used to determine〔C1〕 when and how people tip.〔C2〕
+main 主语:Today's tip requests | 谓语:are … not connected
+gist 如今的小费要求并不与（某些标准）相联系。
+C1 定语从句 | 修饰 norms | that | 前面是 norms，that 后 used to determine 缺主语，that 指惯例。 | 主语:that | 谓语:used to determine | 宾语:C2
+C2 宾语从句 in C1 | 作 determine 的宾语 | when and how | 前面 determine 缺决定内容，后面 people tip 主谓齐全，when/how 分别作时间和方式状语。 | 主语:people | 谓语:tip
+mod to the salary and service norms → connected | 介词短语作状语 | 与薪酬及服务惯例相联系
+cn 如今索要小费常与过去决定何时、如何给小费的薪酬和服务惯例脱节。
+
+# 2025-1|1:1
+type 主从复合句
+chunks Customers〔主〕 in the past〔修〕 nearly always paid tips〔主〕 after receiving a service, such as at the conclusion of a restaurant meal, after getting a haircut〔修〕 or〔主〕 once a pizza was delivered.〔C1〕
+main 主语:Customers | 谓语:paid | 宾语:tips
+gist 顾客曾支付小费。
+C1 时间状语从句 | 说明给小费的时间 | once | 前面列出付小费的时间，once 后 a pizza was delivered 完整，说明送达之后的时点。 | 主语:a pizza | 谓语:was delivered
+mod in the past → Customers | 时间状语 | 过去的顾客
+mod after receiving a service → paid | 时间状语 | 接受服务后
+mod such as at the conclusion of a restaurant meal, after getting a haircut → paid | 举例说明 | 例如用餐结束后或理发后
+cn 过去顾客几乎总是在服务结束后给小费，例如吃完饭、理完发或披萨送达之后。
+
+# 2025-1|1:2
+type 简单句
+chunks That timing could reward high-quality service and give workers an incentive〔主〕 to provide it.〔修〕
+main 主语:That timing | 谓语:could reward | 宾语:high-quality service || &and || 谓语:give | 间接宾语:workers | 直接宾语:an incentive
+gist 这种时机可以奖励优质服务，并给予劳动者激励。
+mod to provide it → incentive | 不定式作定语 | 提供优质服务的激励
+point and 后无新主语，reward 与 give 共用 That timing 与情态动词 could。
+cn 这种支付时机既能奖励优质服务，也能激励工作人员提供优质服务。
+
+# 2025-1|2:0
+type 简单句
+chunks It's becoming more common for tips to be requested beforehand.〔主〕
+main 主语＋谓语:It's becoming | 表语:more common | 真正主语:for tips to be requested beforehand
+gist 提前索取小费正变得更普遍。
+point It's = It is，it 是形式主语，is becoming 构成谓语；for tips to be requested 是带逻辑主语的被动不定式，整体是真正主语。
+cn 在服务之前就要求顾客给小费，变得越来越常见。
+
+# 2025-1|2:1
+type 简单句
+chunks And new tipping technology may even automatically add tips.〔主〕
+main 主语:new tipping technology | 谓语:may … add | 宾语:tips
+gist 新的小费技术甚至可能加上小费。
+cn 而新的小费技术甚至可能自动加收小费。
+
+# 2025-1|3:0
+type 简单句
+chunks The prevalence〔主〕 of digital payment devices〔修〕 has made it easier to ask customers for a tip.〔主〕
+main 主语:The prevalence | 谓语:has made | 宾语:it | 宾补:easier
+gist 这种普及使（一件事）更容易。
+mod of digital payment devices → prevalence | 介词短语作定语 | 数字支付设备的普及
+point it 在 made 后是形式宾语；真正宾语是 to ask customers for a tip，easier 是宾补。
+cn 数字支付设备的普及，使向顾客索要小费变得更容易。
+
+# 2025-1|3:1
+type 主从复合句
+chunks That helps explain〔主〕 why tip requests are creeping into new kinds of services.〔C1〕
+main 主语:That | 谓语:helps | 宾语:explain
+gist 那有助于作出解释。
+C1 宾语从句 | 作 explain 的宾语 | why | 前面 explain 缺解释内容，why 后 tip requests are creeping 主谓齐全，why 作原因状语。 | 主语:tip requests | 谓语:are creeping
+mod into new kinds of services → creeping | 方向状语 | 逐渐进入新的服务领域
+cn 这有助于解释，为什么索要小费正逐渐扩展到新种类的服务。
+
+# 2025-1|3:2
+type 主从复合句
+chunks Customers now routinely see menus〔主〕 of suggested default options〔修〕 —〔主〕 often well above 20%〔修〕 of〔主〕 what they owe.〔C1〕
+main 主语:Customers | 谓语:see | 宾语:menus
+gist 顾客会看到菜单。
+C1 宾语从句 | 作 of 的宾语 | what | 前面 of 缺宾语，后面 they owe 也缺宾语，what 同时表示所欠金额并作 owe 的宾语。 | 主语:they | 谓语:owe | 宾语:what
+mod of suggested default options → menus | 介词短语作定语 | 默认建议选项的菜单
+mod often well above 20% → options | 补充说明 | 建议小费常远超20%
+cn 如今顾客经常看到默认小费建议菜单，金额往往远超账单的20%。
+
+# 2025-1|3:3
+type 简单句
+chunks The amounts have risen〔主〕 from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today.〔修〕
+main 主语:The amounts | 谓语:have risen
+gist 金额已经上涨。
+mod from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today → risen | 变化范围状语 | 逐段列出不同时期的小费比例
+cn 小费比例从1950年代的10%或更低，升到2000年前后的15%，再升到如今的20%或更高。
+
+# 2025-1|3:4
+type 简单句
+chunks This increase is sometimes called tipflation —〔主〕 the expectation of ever-higher tip amounts.〔修〕
+main 主语:This increase | 谓语:is … called | 主语补足语:tipflation
+gist 这种增长被称为“小费膨胀”。
+mod the expectation of ever-higher tip amounts → tipflation | 同位语 | 解释小费膨胀的含义
+cn 这种上涨有时被称为“小费膨胀”，即对小费金额不断提高的预期。
+
+# 2025-1|4:0
+type 主从复合句
+chunks Tipping has always been a vital source〔主〕 of income for workers in historically tipped services, like restaurants,〔修〕 where the tipped minimum wage can be as low as US$2.13 an hour.〔C1〕
+main 主语:Tipping | 谓语:has … been | 表语:a vital source
+gist 小费一直是重要来源。
+C1 定语从句 | 补充说明餐饮行业 | where | 前面是 restaurants，后面 wage can be 主系表齐全，where 作行业情境状语。 | 主语:the tipped minimum wage | 谓语:can be | 表语:as low as US$2.13 an hour
+mod of income → source | 介词短语作定语 | 收入的重要来源
+mod for workers in historically tipped services → source | 受益对象状语 | 传统小费服务业的工作人员
+mod like restaurants → services | 举例说明 | 例如餐厅
+cn 小费一直是传统收小费行业工作人员的重要收入来源，例如餐饮业；这些岗位的最低时薪可能低至2.13美元。
+
+# 2025-1|4:1
+type 简单句
+chunks Tip creep and tipflation are now further supplementing the income〔主〕 of many low-wage service workers.〔修〕
+main 主语:Tip creep and tipflation | 谓语:are … supplementing | 宾语:the income
+gist 小费蔓延和小费膨胀正在补充收入。
+mod of many low-wage service workers → income | 介词短语作定语 | 许多低薪服务工作人员的收入
+cn 小费扩张和小费膨胀，如今进一步补充了许多低薪服务人员的收入。
+
+# 2025-1|5:0
+type 简单句
+chunks Notably, tipping primarily benefits some〔主〕 of these workers, such as waiters, but not others, such as cooks and dishwashers.〔修〕
+main 主语:tipping | 谓语:benefits | 宾语:some
+gist 小费使一些人受益。
+mod of these workers → some | 介词短语作定语 | 这些工作人员中的一部分
+mod such as waiters → some | 举例说明 | 例如服务员
+mod but not others, such as cooks and dishwashers → some | 对比补充 | 并非厨师和洗碗工等其他工作人员
+cn 值得注意的是，小费主要使部分工作人员受益，例如服务员，却不能惠及厨师、洗碗工等其他人。
+
+# 2025-1|5:1
+type 主从复合句
+chunks To ensure〔修〕 that all employees were paid fair wages,〔C1〕 some restaurants banned tipping and increased prices, but this movement〔主〕 toward no-tipping services〔修〕 has largely fizzled out.〔主〕
+main 主语:some restaurants | 谓语:banned … increased | 宾语:tipping … prices || &but || 主语:this movement | 谓语:has … fizzled out
+gist 一些餐馆禁止了小费、提高了价格；但这场运动已消退。
+C1 宾语从句 | 作 ensure 的宾语 | that | 前面 ensure 缺确保内容，that 后 employees were paid 完整，that 不作成分。 | 主语:all employees | 谓语:were paid | 宾语:fair wages
+mod To ensure → banned | 不定式作目的状语 | 取消小费是为了保障公平工资
+mod toward no-tipping services → movement | 介词短语作定语 | 朝向无小费服务的运动
+cn 为保证所有员工薪酬公平，一些餐厅取消小费并提价，但这种无小费服务运动基本已告失败。
+
+# 2025-1|6:0
+type 简单句
+chunks So,〔主〕 to increase employee wages without raising prices,〔修〕 more employers are succumbing〔主〕 to the temptations of tip creep and tipflation.〔修〕
+main 主语:more employers | 谓语:are succumbing
+gist 更多雇主正在屈从。
+mod to increase employee wages without raising prices → succumbing | 不定式作目的状语 | 不涨价而提高员工工资
+mod to the temptations of tip creep and tipflation → succumbing | 介词短语作状语 | 屈从于小费扩张和小费膨胀的诱惑
+cn 因此，为了不涨价也能提高员工收入，更多雇主正屈从于扩大索要小费、提高小费比例的诱惑。
+
+# 2025-1|6:1
+type 主从复合句
+chunks However, many customers are frustrated〔主〕 because they feel〔C1〕 they are being asked for too high of a tip, too often.〔C2〕
+main 主语:many customers | 谓语:are | 表语:frustrated
+gist 许多顾客感到沮丧。
+C1 原因状语从句 | 解释顾客沮丧的原因 | because | 前面 customers are frustrated 完整，because 后 they feel 有主谓，解释沮丧原因。 | 主语:they | 谓语:feel | 宾语:C2
+C2 宾语从句 in C1 | 作 feel 的宾语 | （省略 that） | 前面 feel 缺感觉内容，后面 they are being asked 完整被动句，省略 that。 | 主语:they | 谓语:are being asked
+mod for too high of a tip, too often → asked | 内容和频率状语 | 小费金额太高，索要次数太多
+cn 不过，许多顾客感到沮丧，因为他们觉得索要小费过于频繁，金额也过高。
+
+# 2025-1|6:2
+type 主从复合句
+chunks And,〔主〕 as our research emphasizes,〔C1〕 tipping now seems to be more coercive, less generous and often completely dissociated〔主〕 from service quality.〔修〕
+main 主语:tipping | 谓语:seems | 表语:to be more coercive, less generous and often completely dissociated
+gist 小费似乎更具强制性、更少出于慷慨，而且常常脱离（某种联系）。
+C1 方式状语从句 | 说明研究强调同一事实 | as | 后面 tipping seems 是主句，as 后 research emphasizes 缺所强调内容，as 指后面整句事实，表示正如。 | 主语:our research | 谓语:emphasizes
+mod from service quality → dissociated | 介词短语作状语 | 与服务质量脱节
+cn 正如研究强调，如今给小费似乎更带强迫性、更少出于慷慨，且常与服务质量彻底脱节。
+
+# 2025-2|0:0
+type 主从复合句
+chunks When it was established,〔C1〕 the National Health Service (NHS) was visionary:〔主〕 offering high-quality, timely care to meet the dominant needs of the population〔修〕 it served.〔C2〕
+main 主语:the National Health Service (NHS) | 谓语:was | 表语:visionary
+gist 英国国家医疗服务体系曾富有远见。
+C1 时间状语从句 | 限定主句评价的时间 | When | 后面 NHS was visionary 是主句，When 后 it was established 是完整被动句，表示建立时。 | 主语:it | 谓语:was established
+C2 定语从句 | 修饰 population | （省略 that） | 前面是 population，后面 it served 缺宾语，省略的关系词指服务的人群。 | 主语:it | 谓语:served
+mod offering high-quality, timely care → Service | 现在分词作补充说明 | 说明当时如何体现远见
+mod to meet the dominant needs of the population → offering | 不定式作目的状语 | 目的是满足人群的主要需求
+cn 英国国民医疗服务体系建立时具有远见，提供高质量、及时的医疗，满足当时服务人群的主要需求。
+
+# 2025-2|0:1
+type 主从复合句
+chunks Nearly 75 years on, with the UK facing very different health challenges,〔修〕 it is clear〔主〕 that model is out of date.〔C1〕
+main 形式主语:it | 谓语:is | 表语:clear | 真正主语:C1
+gist （一件事）很清楚——内容是从句①。
+C1 主语从句 | 作真正主语 | （省略 that） | 前面 it is clear 使用形式主语，后面 that model is out of date 完整；这里 that 是限定 model 的指示词，另省略从句连接词 that。 | 主语:that model | 谓语:is | 表语:out of date
+mod Nearly 75 years on → 整句 | 时间状语 | 近75年后
+mod with the UK facing very different health challenges → 整句 | with复合结构作状语 | 英国面对的健康挑战已大不相同
+point that model 的 that 意为“那个/该”，与引导名词性从句的不作成分的 that 不同；可还原 clear that that model is…。
+cn 近75年后，英国面临截然不同的健康挑战，这一模式显然已过时。
+
+# 2025-2|1:0
+type 简单句
+chunks From life expectancy to cancer and infant mortality rates,〔修〕 we are lagging〔主〕 behind many of our peers.〔修〕
+main 主语:we | 谓语:are lagging
+gist 我们正在落后。
+mod From life expectancy to cancer and infant mortality rates → 整句 | 范围状语 | 列出比较的健康指标
+mod behind many of our peers → lagging | 比较状语 | 落后于许多可比国家
+cn 从预期寿命到癌症和婴儿死亡率，英国都落后于许多同类国家。
+
+# 2025-2|1:1
+type 主从复合句
+chunks With more than 6.8 million on waitlists,〔修〕 healthcare is becoming increasingly inaccessible〔主〕 for those〔修〕 who cannot opt to pay for private treatment;〔C1〕 and the cost〔主〕 of providing healthcare〔修〕 is increasingly squeezing out investment〔主〕 in other public services.〔修〕
+main 主语:healthcare | 谓语:is becoming | 表语:increasingly inaccessible || &and || 主语:the cost | 谓语:is … squeezing out | 宾语:investment
+gist 医疗服务正变得日益难以获得；而成本正在挤出投资。
+C1 定语从句 | 修饰 those | who | 前面是 those，who 后 cannot opt 缺主语，who 指不能选择付费私疗的人。 | 主语:who | 谓语:cannot opt | 宾语:to pay for private treatment
+mod With more than 6.8 million on waitlists → 整句 | with复合结构作状语 | 超过680万人排队等待的背景
+mod for those → inaccessible | 对象状语 | 对这些人而言难以获得
+mod of providing healthcare → cost | 介词短语作定语 | 提供医疗的成本
+mod in other public services → investment | 介词短语作定语 | 其他公共服务领域投资
+cn 超过680万人等待就诊，无力支付私人医疗的人越来越难获得医疗服务；医疗成本还在挤压其他公共服务投资。
+
+# 2025-2|1:2
+type 主从复合句
+chunks As demand for healthcare continues to grow,〔C1〕 pressures〔主〕 on the workforce〔修〕 —〔主〕 which is already near breaking point〔C2〕 — will only become more acute.〔主〕
+main 主语:pressures | 谓语:will … become | 表语:more acute
+gist 压力只会变得更严重。
+C1 时间状语从句 | 说明压力上升的背景 | As | 后面 pressures will become 是主句，As 后 demand continues 主谓齐全，表示随着需求增长。 | 主语:demand | 谓语:continues | 宾语:to grow
+C2 定语从句 | 补充说明 workforce | which | 前面是 workforce，which 后 is 缺主语，which 指医护劳动队伍。 | 主语:which | 谓语:is | 表语:near breaking point
+mod for healthcare → demand | 介词短语作定语 | 对医疗的需求
+mod on the workforce → pressures | 介词短语作定语 | 医护人员承受的压力
+cn 医疗需求继续增长，已接近极限的医护人员将承受更严重的压力。
+
+# 2025-2|2:0
+type 简单句
+chunks Many〔主〕 of the answers to the crisis in health and care〔修〕 are well rehearsed.〔主〕
+main 主语:Many | 谓语:are | 表语:well rehearsed
+gist 许多（答案）已被反复讨论。
+mod of the answers to the crisis in health and care → Many | 介词短语作定语 | 医疗照护危机的众多解决办法
+cn 应对医疗和照护危机的许多办法，早已被反复提出。
+
+# 2025-2|2:1
+type 简单句
+chunks We need to be much better〔主〕 at reducing and diverting demand on health services, rather than simply managing it.〔修〕
+main 主语:We | 谓语:need | 宾语:to be much better
+gist 我们需要做得好得多。
+mod at reducing and diverting demand on health services → better | 介词短语作补充说明 | 改进减少和分流医疗服务需求的能力
+mod rather than simply managing it → reducing | 选择对照状语 | 与仅管理现有需求对照
+cn 我们需要更擅长减少和分流医疗需求，而非仅仅管理需求。
+
+# 2025-2|2:2
+type 简单句
+chunks Much more needs to be invested〔主〕 in communities and primary care to reduce our reliance on hospitals.〔修〕
+main 主语:Much more | 谓语:needs | 宾语:to be invested
+gist 需要投入多得多的（资源）。
+mod in communities and primary care → invested | 投入对象状语 | 投向社区和初级医疗
+mod to reduce our reliance on hospitals → invested | 不定式作目的状语 | 减少依赖医院
+cn 需要向社区和初级医疗投入更多资源，减少对医院的依赖。
+
+# 2025-2|2:3
+type 简单句
+chunks And capacity〔主〕 in social care〔修〕 needs to be greater,〔主〕 to support the growing number of people living with long-term conditions.〔修〕
+main 主语:capacity | 谓语:needs | 宾语:to be greater
+gist 能力需要更大。
+mod in social care → capacity | 介词短语作定语 | 社会照护领域的能力
+mod to support the growing number of people → needs | 不定式作目的状语 | 支持越来越多的人
+mod living with long-term conditions → people | 现在分词作定语 | 长期患病的人
+cn 社会照护能力也应扩大，以支持人数不断增加的长期患病者。
+
+# 2025-2|3:0
+type 简单句
+chunks Yet〔主〕 despite two decades of strategies and a number of major health reforms,〔修〕 we have failed to make meaningful progress〔主〕 on any of these aims.〔修〕
+main 主语:we | 谓语:have failed | 宾语:to make meaningful progress
+gist 我们未能取得实质性进展。
+mod despite two decades of strategies and a number of major health reforms → 整句 | 让步状语 | 承认已有战略与改革
+mod on any of these aims → progress | 范围状语 | 针对上述各项目标
+cn 尽管有二十年的战略规划和多项重大医疗改革，我们在这些目标上仍未取得实质进展。
+
+# 2025-2|3:1
+type 主从复合句
+chunks That is〔主〕 why the Reform think tank is launching a new programme of work entitled "Reimagining health", supported by ten former health ministers.〔C1〕
+main 主语:That | 谓语:is | 表语:C1
+gist 那就是（原因）——内容是从句①。
+C1 表语从句 | 作 is 的表语 | why | 前面系动词 is 后需说明原因，why 后 think tank is launching 主谓宾齐全，why 作原因状语。 | 主语:the Reform think tank | 谓语:is launching | 宾语:a new programme
+mod of work → programme | 介词短语作定语 | 工作项目
+mod entitled "Reimagining health" → programme | 过去分词作定语 | 题为重塑健康
+mod supported by ten former health ministers → programme | 过去分词作定语 | 获得十位前卫生部长支持
+cn 这就是Reform智库发起“重塑健康”新项目的原因，该项目获十位前卫生部长支持。
+
+# 2025-2|3:2
+type 主从复合句
+chunks Together, we are calling〔主〕 for a much more open and honest conversation about the future of health in the UK, and an "urgent rethink" of the hospital-centric model〔修〕 we retain.〔C1〕
+main 主语:we | 谓语:are calling
+gist 我们正在呼吁。
+C1 定语从句 | 修饰 model | （省略 that） | 前面是 model，后面 we retain 缺宾语，省略关系词指仍保留的模式。 | 主语:we | 谓语:retain
+mod for a much more open and honest conversation about the future of health in the UK, and an "urgent rethink" of the hospital-centric model → calling | 介词短语作状语 | 呼吁两项：讨论医疗未来、反思医院中心模式
+cn 我们共同呼吁更公开坦诚地讨论英国医疗的未来，并紧急反思现存的医院中心模式。
+
+# 2025-2|4:0
+type 主从复合句
+chunks This must begin〔主〕 with the question〔修〕 of〔主〕 how we maximise the health of the nation,〔C1〕 rather than "fix" the NHS.〔修〕
+main 主语:This | 谓语:must begin
+gist 这必须开始。
+C1 宾语从句 | 作 of 的宾语 | how | 前面介词 of 缺讨论内容，how 后 we maximise health 主谓宾齐全，how 作方式状语。 | 主语:we | 谓语:maximise | 宾语:the health
+mod with the question → begin | 起点状语 | 以这一问题为起点
+mod of the nation → health | 介词短语作定语 | 全体国民的健康
+mod rather than "fix" the NHS → maximise | 选择对照状语 | 关注国民健康，而非局限于修复NHS
+cn 讨论必须从如何最大化国民健康开始，而非仅仅“修复”国民医疗服务体系。
+
+# 2025-2|4:1
+type 主从复合句
+chunks It is estimated, for example,〔主〕 that healthcare accounts for only about 20% of health outcomes.〔C1〕
+main 形式主语:It | 谓语:is estimated | 真正主语:C1
+gist 据估计有（一种情况）——内容是从句①。
+C1 主语从句 | 作真正主语 | that | 前面 It is estimated 用 it 作形式主语，that 后 healthcare accounts 主谓齐全，that 不作成分，引出真正主语。 | 主语:healthcare | 谓语:accounts
+mod for only about 20% of health outcomes → accounts | 比例状语 | 占健康结果的约20%
+cn 例如，据估计，医疗本身仅解释约20%的健康结果。
+
+# 2025-2|4:2
+type 主从复合句
+chunks Much more important are the places〔主〕 we live, work and socialise〔C1〕 — yet there is no clear cross-government strategy〔主〕 for improving these social determinants of health.〔修〕
+main 表语:Much more important | 谓语:are | 主语:the places || &yet || 谓语:is | 主语:no clear cross-government strategy
+gist 这些地方重要得多；然而并不存在明确的跨政府战略。
+C1 定语从句 | 修饰 places | 无 | 前面是 places，后面 we live/work/socialise 主谓齐全，省略关系副词 where，说明生活工作的地点。 | 主语:we | 谓语:live, work and socialise
+mod for improving these social determinants of health → strategy | 介词短语作定语 | 改善这些社会健康决定因素的战略
+point 前一分句是表语前置倒装：the places…are much more important。后一分句是 there be 存在句。
+cn 更重要的是我们生活、工作和社交的地方，但政府间仍没有清晰战略改善这些社会健康决定因素。
+
+# 2025-2|4:3
+type 主从复合句
+chunks Worse,〔主〕 when policies like the national obesity strategy are scrapped,〔C1〕 taxpayers are left〔主〕 with the heavy price tag of treating the illnesses, like diabetes,〔修〕 that result.〔C2〕
+main 主语:taxpayers | 谓语:are left
+gist 纳税人被留下（承担某种后果）。
+C1 时间状语从句 | 说明额外成本发生的背景 | when | 后面 taxpayers are left 是主句，when 后 policies are scrapped 完整被动句，说明政策被取消时。 | 主语:policies | 谓语:are scrapped
+C2 定语从句 | 修饰 illnesses | that | 前面是 illnesses，that 后 result 缺主语，that 指政策取消后产生的疾病。 | 主语:that | 谓语:result
+mod like the national obesity strategy → policies | 举例说明 | 如国家肥胖战略
+mod with the heavy price tag of treating the illnesses → left | 结果状语 | 最终承担治疗疾病的高额账单
+mod like diabetes → illnesses | 举例说明 | 如糖尿病
+cn 更糟的是，国家肥胖防治战略等政策被废除后，纳税人还要承担治疗由此产生的糖尿病等疾病的高额成本。
+
+# 2025-2|5:0
+type 主从复合句
+chunks Reform wants to ask〔主〕 how power and resources should be distributed in our health system.〔C1〕
+main 主语:Reform | 谓语:wants | 宾语:to ask
+gist Reform想要提出问题。
+C1 宾语从句 | 作 ask 的宾语 | how | 前面 ask 缺询问内容，how 后 power and resources should be distributed 完整，how 作方式状语。 | 主语:power and resources | 谓语:should be distributed
+mod in our health system → distributed | 范围状语 | 在医疗体系内部
+cn Reform希望探讨医疗体系中的权力和资源应该如何分配。
+
+# 2025-2|5:1
+type 主从复合句
+chunks What health functions should remain〔主〕 at the centre,〔修〕 and what should be given〔主〕 to local leaders, often responsible for services〔修〕 that create health,〔C1〕 and〔主〕 with a much better understanding of the needs of their populations?〔修〕
+main 主语:What health functions | 谓语:should remain || &and || 主语:what | 谓语:should be given
+gist 哪些卫生职能应保留？又有哪些应被交出？
+C1 定语从句 | 修饰 services | that | 前面是 services，that 后 create 缺主语，that 指能促进健康的服务。 | 主语:that | 谓语:create | 宾语:health
+mod at the centre → remain | 地点状语 | 留在中央
+mod to local leaders → given | 受领对象状语 | 交给地方领导者
+mod often responsible for services → leaders | 形容词短语作定语 | 经常负责提供服务
+mod with a much better understanding of the needs of their populations → leaders | 介词短语作定语 | 更了解当地居民需求
+cn 哪些卫生职能应留在中央，哪些应交给常负责健康相关服务且更了解当地需求的地方领导者？
+
+# 2025-3|0:0
+type 简单句
+chunks Heat action plans,〔主〕 or HAPs,〔修〕 have been proliferating〔主〕 in India in the past few years.〔修〕
+main 主语:Heat action plans | 谓语:have been proliferating
+gist 高温行动计划一直在不断增加。
+mod or HAPs → plans | 同位说明 | 高温行动计划简称HAPs
+mod in India in the past few years → proliferating | 地点和时间状语 | 近几年在印度
+cn 近几年，印度各地的高温行动计划不断增加。
+
+# 2025-3|0:1
+type 主从复合句
+chunks In general, an HAP spells out〔主〕 when and how officials should issue heat warnings and alert hospitals and other institutions.〔C1〕
+main 主语:an HAP | 谓语:spells out | 宾语:C1
+gist 高温行动计划详细规定了（一件事）——内容是从句①。
+C1 宾语从句 | 作 spells out 的宾语 | when and how | 前面 spells out 缺明确规定的内容，后面 officials should issue 主谓宾齐全，when/how 作时间和方式状语。 | 主语:officials | 谓语:should issue … alert | 宾语:heat warnings … hospitals and other institutions
+cn 一般而言，高温行动计划明确规定官员何时、如何发布高温预警并提醒医院等机构。
+
+# 2025-3|0:2
+type 简单句
+chunks Nagpur's plan, for instance, calls〔主〕 for hospitals to set aside "cold wards" in the summer for treating heatstroke patients,〔修〕 and advises builders to give construction laborers a break〔主〕 from work on very hot days.〔修〕
+main 主语:Nagpur's plan | 谓语:calls … advises | 宾语:builders | 宾补:to give construction laborers a break
+gist 那格浦尔的计划提出要求，并建议建筑商让建筑工人休息。
+mod for hospitals to set aside "cold wards" → calls | 介词短语作补充说明 | 要求医院预留降温病房
+mod in the summer for treating heatstroke patients → set aside | 时间和目的状语 | 夏天预留以治疗中暑患者
+mod from work on very hot days → break | 介词短语作定语 | 非常炎热的日子暂停工作
+point calls 与 advises 共用 plan；to set aside、to give 均为不定式，不是新的主句谓语。
+cn 例如，那格浦尔的计划要求医院在夏天预留“降温病房”治疗中暑者，并建议建筑商在酷热天让建筑工人休息。
+
+# 2025-3|1:0
+type 简单句
+chunks But implementation〔主〕 of existing HAPs〔修〕 has been uneven,〔主〕 according to a report from the Centre for Policy Research.〔修〕
+main 主语:implementation | 谓语:has been | 表语:uneven
+gist 实施情况一直不均衡。
+mod of existing HAPs → implementation | 介词短语作定语 | 现行计划的实施
+mod according to a report from the Centre for Policy Research → 整句 | 来源状语 | 政策研究中心报告提供依据
+cn 但政策研究中心的一份报告指出，现有高温行动计划实施情况参差不齐。
+
+# 2025-3|1:1
+type 主从复合句
+chunks Many lack adequate funding,〔C1〕 it found.〔主〕
+main 主语:it | 谓语:found | 宾语:C1
+gist 它发现了（一件事）——内容是从句①。
+C1 宾语从句 | 作 found 的内容 | （省略 that） | 后面 found 引述前面 Many lack funding 完整陈述，省略 that。 | 主语:Many | 谓语:lack | 宾语:adequate funding
+cn 报告发现，许多计划缺乏足够资金。
+
+# 2025-3|1:2
+type 简单句
+chunks And their triggering thresholds often are not customized〔主〕 to the local climate.〔修〕
+main 主语:their triggering thresholds | 谓语:are not customized
+gist 它们的触发阈值没有经过定制。
+mod to the local climate → customized | 介词短语作状语 | 根据当地气候定制
+cn 这些计划的预警触发阈值，也常未按照当地气候定制。
+
+# 2025-3|1:3
+type 简单句
+chunks In some areas,〔修〕 high daytime temperatures alone might serve〔主〕 as an adequate trigger for alerts.〔修〕
+main 主语:high daytime temperatures | 谓语:might serve
+gist 白天的高温可能起作用。
+mod In some areas → 整句 | 地点状语 | 某些地区
+mod as an adequate trigger for alerts → serve | 介词短语作状语 | 作为足够的预警触发依据
+cn 在某些地区，单看白天高温就足以触发预警。
+
+# 2025-3|1:4
+type 简单句
+chunks But〔主〕 in other places,〔修〕 nighttime temperatures or humidity might be as important a gauge〔主〕 of risk as daytime highs.〔修〕
+main 主语:nighttime temperatures or humidity | 谓语:might be | 表语:as important a gauge
+gist 夜间温度或湿度可能是同样重要的指标。
+mod in other places → 整句 | 地点状语 | 在其他地方
+mod of risk → gauge | 介词短语作定语 | 风险的衡量指标
+mod as daytime highs → important | 比较状语 | 与白天最高温同等重要
+point as important a gauge as…结构中 important 位于 a gauge 前；比较项是两类风险指标的重要性。
+cn 但在其他地方，夜间温度或湿度可能与白天最高温同样重要，都是判断风险的指标。
+
+# 2025-3|2:0
+type 主从复合句
+chunks Mumbai's April heatstroke deaths highlighted the need for more nuanced and localized warnings,〔C1〕 researchers say.〔主〕
+main 主语:researchers | 谓语:say | 宾语:C1
+gist 研究者说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 say 的内容 | （省略 that） | 后面 say 引述前面 deaths highlighted 完整陈述，省略 that。 | 主语:Mumbai's April heatstroke deaths | 谓语:highlighted | 宾语:the need
+mod for more nuanced and localized warnings → need | 介词短语作定语 | 需要更细致且适应当地的预警
+cn 研究者说，孟买4月发生的中暑死亡凸显了更细致、本地化预警的必要性。
+
+# 2025-3|2:1
+type 简单句
+chunks That day's high temperature〔主〕 of roughly 36°C〔修〕 was 1°C shy〔主〕 of the heat wave alert threshold for coastal cities set by national meteorological authorities.〔修〕
+main 主语:That day's high temperature | 谓语:was | 表语:1°C shy
+gist 那天的最高气温还低1摄氏度。
+mod of roughly 36°C → temperature | 介词短语作定语 | 约36摄氏度
+mod of the heat wave alert threshold for coastal cities → shy | 介词短语作补充说明 | 尚低于沿海城市热浪预警阈值
+mod set by national meteorological authorities → threshold | 过去分词作定语 | 国家气象部门设定的阈值
+cn 那天约36℃的最高温，比国家气象部门为沿海城市规定的热浪预警阈值低1℃。
+
+# 2025-3|2:2
+type 简单句
+chunks But the effects〔主〕 of the heat〔修〕 were amplified〔主〕 by humidity〔修〕 —〔主〕 an often neglected factor in heat alert systems〔修〕 —〔主〕 and the lack of shade at the late-morning outdoor ceremony.〔修〕
+main 主语:the effects | 谓语:were amplified
+gist 这些影响被放大了。
+mod of the heat → effects | 介词短语作定语 | 高温的影响
+mod by humidity → amplified | 原因状语 | 湿度放大高温效应
+mod an often neglected factor in heat alert systems → humidity | 同位语 | 解释湿度是预警系统常忽略的因素
+mod and the lack of shade at the late-morning outdoor ceremony → humidity | 并列补充 | 另一个放大因素是户外仪式缺少遮阴
+cn 但湿度和上午较晚举行的户外活动缺少遮阴，放大了高温影响；湿度却常被高温预警系统忽略。
+
+# 2025-3|3:0
+type 主从复合句
+chunks To help improve HAPs,〔修〕 urban planner Rajashree Kotharkar's team is working〔主〕 on a model plan〔修〕 that outlines best practices and could be adapted to local conditions.〔C1〕
+main 主语:urban planner Rajashree Kotharkar's team | 谓语:is working
+gist 城市规划师科特卡尔的团队正在工作。
+C1 定语从句 | 修饰 plan | that | 前面是 plan，that 后 outlines 缺主语，outlines 与 could be adapted 共用 that。 | 主语:that | 谓语:outlines … could be adapted | 宾语:best practices
+mod To help improve HAPs → working | 不定式作目的状语 | 为了改善高温行动计划
+mod on a model plan → working | 工作对象状语 | 制定示范计划
+mod to local conditions → adapted | 介词短语作状语 | 适应当地条件
+cn 为改进高温行动计划，城市规划师科特卡尔团队正在制定示范计划，概述最佳做法并可适应当地条件。
+
+# 2025-3|3:1
+type 简单句
+chunks Among other things, she says,〔修〕 all cities should create a vulnerability map〔主〕 to help focus responses on the populations most at risk.〔修〕
+main 主语:all cities | 谓语:should create | 宾语:a vulnerability map
+gist 所有城市都应绘制一张脆弱性地图。
+mod Among other things → 整句 | 范围状语 | 诸多建议中的一项
+mod she says → 整句 | 插入语 | 她说
+mod to help focus responses on the populations most at risk → create | 不定式作目的状语 | 把应对工作聚焦于最脆弱的人群
+cn 她说，所有城市都应绘制脆弱性地图，以把应对工作集中到风险最高的人群。
+
+# 2025-3|4:0
+type 主从复合句
+chunks Such mapping doesn't need to be complex,〔C1〕 Kotharkar says.〔主〕
+main 主语:Kotharkar | 谓语:says | 宾语:C1
+gist 科特卡尔说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 says 的内容 | （省略 that） | 后面 says 引述前面 mapping doesn’t need 完整陈述，省略 that。 | 主语:Such mapping | 谓语:doesn't need | 宾语:to be complex
+cn 科特卡尔说，这种地图不必很复杂。
+
+# 2025-3|4:1
+type 简单句
+chunks "A useful map can be created〔主〕 by looking at even a few key parameters."〔修〕
+main 主语:A useful map | 谓语:can be created
+gist 一张有用的地图可以被绘制出来。
+mod by looking at even a few key parameters → created | 方式状语 | 通过考察哪怕少量关键参数
+cn 只需查看少数关键参数，就能绘制有用的地图。
+
+# 2025-3|4:2
+type 主从复合句
+chunks For example, neighborhoods〔主〕 with a large elderly population or informal dwellings〔修〕 that cope poorly with heat〔C1〕 could get special warnings or be bolstered〔主〕 with cooling centers.〔修〕
+main 主语:neighborhoods | 谓语:could get … be bolstered | 宾语:special warnings
+gist 社区可以得到特别预警，或得到加强。
+C1 定语从句 | 修饰 informal dwellings | that | 前面最近的名词是 informal dwellings，that 后 cope 缺主语，that 指这些住宅，说明其应对高温的能力。 | 主语:that | 谓语:cope
+mod with a large elderly population or informal dwellings → neighborhoods | 介词短语作定语 | 社区老年人多或有非正规住宅
+mod with heat → cope | 介词短语作状语 | 应对炎热
+mod with cooling centers → bolstered | 补充设施状语 | 以降温中心增强应对能力
+cn 例如，老年人口较多、或非正规住宅难以应对炎热的社区，可获特别预警或增设降温中心。
+
+# 2025-3|4:3
+type 主从复合句
+chunks The Nagpur project has already created a risk and vulnerability map,〔主〕 which enabled Kotharkar to tell officials which neighborhoods to focus on in the event of a heat wave this summer.〔C1〕
+main 主语:The Nagpur project | 谓语:has … created | 宾语:a risk and vulnerability map
+gist 那格浦尔项目已绘制了一张风险与脆弱性地图。
+C1 定语从句 | 补充说明绘图产生的作用 | which | 前面是整个绘图事实，which 后 enabled 缺主语，which 指这一事实带来的作用。 | 主语:which | 谓语:enabled | 宾语:Kotharkar | 宾补:to tell officials
+mod which neighborhoods to focus on → tell | 疑问词加不定式作宾语 | 告诉官员应重点关注哪些社区
+mod in the event of a heat wave this summer → focus | 条件状语 | 今夏发生热浪时
+cn 那格浦尔项目已绘制风险与脆弱性地图，使科特卡尔能够告诉官员，今夏出现热浪时该重点关注哪些社区。
+
+# 2025-3|5:0
+type 主从复合句
+chunks HAPs shouldn't just include short-term emergency responses,〔主〕 researchers say,〔修〕 but also recommend medium- to long-term measures〔主〕 that could make communities cooler.〔C1〕
+main 主语:HAPs | 谓语:shouldn't … include | 宾语:short-term emergency responses || &but || 谓语:recommend | 宾语:medium- to long-term measures
+gist 高温行动计划不应只包括短期应急响应，还应建议中长期措施。
+C1 定语从句 | 修饰 measures | that | 前面是 measures，that 后 could make 缺主语，that 指措施。 | 主语:that | 谓语:could make | 宾语:communities | 宾补:cooler
+mod researchers say → 整句 | 插入语 | 研究者说
+point not just X but also Y 否定的是仅有短期响应，并非否定中长期建议。recommend 与 include 共用 HAPs 和 should。
+cn 研究者说，高温行动计划不应只包括短期应急响应，还应建议能使社区更凉爽的中长期措施。
+
+# 2025-3|5:1
+type 简单句
+chunks In Nagpur,〔修〕 for example, Kotharkar's team has been able〔主〕 to advise city officials about where to plant trees to provide shade.〔修〕
+main 主语:Kotharkar's team | 谓语:has been | 表语:able
+gist 科特卡尔的团队已经能够（做某事）。
+mod In Nagpur → 整句 | 地点状语 | 在那格浦尔
+mod to advise city officials → able | 不定式作补充说明 | 已经能够向市政官员提出建议
+mod about where to plant trees → advise | 介词短语作补充说明 | 建议种树的位置，where to plant 为疑问词加不定式
+mod to provide shade → plant | 不定式作目的状语 | 种树是为了遮阴
+cn 例如，在那格浦尔，科特卡尔团队已能建议市政官员应在哪里种树来提供遮阴。
+
+# 2025-3|5:2
+type 简单句
+chunks HAPs could also guide efforts〔主〕 to retrofit homes or modify building regulations.〔修〕
+main 主语:HAPs | 谓语:could … guide | 宾语:efforts
+gist 高温行动计划也能指导工作。
+mod to retrofit homes or modify building regulations → efforts | 不定式作定语 | 改造住房或修改建筑规定的努力
+cn 高温行动计划也能指导住房改造或建筑规范修订工作。
+
+# 2025-3|5:3
+type 主从复合句
+chunks "Reducing deaths in an emergency is a good target to have, but it's the lowest target,"〔C1〕 says climate researcher Chandni Singh.〔主〕
+main 谓语:says | 主语:climate researcher Chandni Singh | 宾语:C1
+gist 气候研究员钱德妮·辛格说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 says 的内容 | 无 | 后面 says 引述前面完整直接引语，Reducing deaths 作前分句主语，but 后 it 是新主语。 | 主语:Reducing deaths | 谓语:is | 表语:a good target | 主语＋谓语:it's | 表语:the lowest target
+mod in an emergency → Reducing | 情境状语 | 紧急情况下减少死亡
+mod to have → target | 不定式作定语 | 可以设定的目标
+cn 气候研究员辛格说：“减少紧急情况下的死亡是好目标，但那只是最低目标。”
+
+# 2025-4|0:0
+type 简单句
+chunks Navigating beyond the organised pavements and parks of our urban spaces,〔修〕 desire paths are the unofficial footprints〔主〕 of a community, revealing the unspoken preferences, shared shortcuts and collective choices of humans.〔修〕
+main 主语:desire paths | 谓语:are | 表语:the unofficial footprints
+gist 愿望小径是非正式足迹。
+mod Navigating beyond the organised pavements and parks of our urban spaces → desire paths | 现在分词作状语 | 说明小径超出正式规划的路线
+mod of a community → footprints | 介词短语作定语 | 社区留下的非正式足迹
+mod revealing the unspoken preferences, shared shortcuts and collective choices of humans → desire paths | 现在分词作补充说明 | 小径显露人们的偏好、捷径和集体选择
+cn 跨出城市规划铺装道路和公园的“愿望小径”，是社区非正式的足迹，显露人们未说出口的偏好、共享的捷径和集体选择。
+
+# 2025-4|0:1
+type 简单句
+chunks Often appearing as trodden dirt tracks through otherwise neat green spaces,〔修〕 these routes〔主〕 of collective disobedience〔修〕 cut corners, bisect lawns and cross hills,〔主〕 representing the natural capability of people (and animals) to go from point A to point B most effectively.〔修〕
+main 主语:these routes | 谓语:cut … bisect … cross | 宾语:corners … lawns … hills
+gist 这些路线抄近路、穿过草坪、跨越山丘。
+mod Often appearing as trodden dirt tracks through otherwise neat green spaces → routes | 现在分词作状语 | 常表现为整齐绿地中踩出的土路
+mod of collective disobedience → routes | 介词短语作定语 | 集体不遵从正式道路规划的路线
+mod representing the natural capability of people (and animals) to go from point A to point B most effectively → routes | 现在分词作补充说明 | 体现人和动物高效到达目的地的自然能力
+point cut、bisect、cross 是同主语并列谓语；appearing 和 representing 无独立时态。
+cn 这些集体偏离规划的路线，常以绿地中的踩踏土路出现，抄近路、穿草坪、越山丘，体现人和动物尽量高效往返两点的能力。
+
+# 2025-4|1:0
+type 并列句
+chunks Urban planners interpret desire paths〔主〕 as more than just convenient shortcuts;〔修〕 they offer valuable insights〔主〕 into the dynamics between planning and behaviour.〔修〕
+main 主语:Urban planners | 谓语:interpret | 宾语:desire paths || 主语:they | 谓语:offer | 宾语:valuable insights
+gist 城市规划者解读愿望小径；它们提供有价值的见解。
+mod as more than just convenient shortcuts → interpret | 介词短语作补充说明 | 不只把它们看成便捷近路
+mod into the dynamics between planning and behaviour → insights | 介词短语作定语 | 对规划与行为相互关系的洞察
+cn 城市规划者认为愿望小径不只是便捷的近路，它们还能帮助理解规划与行为的互动。
+
+# 2025-4|1:1
+type 主从复合句
+chunks Ohio State University allowed its students to navigate the Oval,〔主〕 a lawn in the centre of campus,〔修〕 freely, then proceeded〔主〕 to pave the desire paths, creating a web of effective routes〔修〕 students had established.〔C1〕
+main 主语:Ohio State University | 谓语:allowed … proceeded | 宾语:its students | 宾补:to navigate the Oval
+gist 俄亥俄州立大学允许学生穿行中央草坪，随后继续（下一步行动）。
+C1 定语从句 | 修饰 routes | （省略 that） | 前面是 routes，后面 students had established 缺宾语，省略关系词指路线。 | 主语:students | 谓语:had established
+mod a lawn in the centre of campus → the Oval | 同位语 | 说明Oval是校园中央草坪
+mod to pave the desire paths → proceeded | 不定式作宾语 | 随后把愿望小径铺设为道路
+mod creating a web of effective routes → University | 现在分词作结果状语 | 由此形成有效路线网络
+cn 俄亥俄州立大学让学生自由穿行校园中央草坪，再将学生走出的有效路线铺成正式道路。
+
+# 2025-4|2:0
+type 简单句
+chunks Yet, reluctance persists〔主〕 among other planners to integrate desire paths into formal plans, citing concerns about safety, environmental impact, or primarily, aesthetics.〔修〕
+main 主语:reluctance | 谓语:persists
+gist 不情愿仍然存在。
+mod among other planners → persists | 范围状语 | 这种迟疑存在于其他规划者中
+mod to integrate desire paths into formal plans → reluctance | 不定式作定语 | 不愿将愿望小径纳入正式规划
+mod citing concerns about safety, environmental impact, or primarily, aesthetics → planners | 现在分词作补充说明 | 规划者提出安全、环境和美观方面的担忧
+cn 不过，其他规划者仍不愿把愿望小径纳入正式方案，理由包括安全、环境影响，尤其是美观。
+
+# 2025-4|2:1
+type 简单句
+chunks A Reddit webpage〔主〕 devoted to the phenomenon, boasting nearly 50,000 members,〔修〕 showcases images〔主〕 of local desire paths adorned with signs instructing pedestrians to adhere to designated walkways, underscoring the rebellious nature inherent in these human-made tracks.〔修〕
+main 主语:A Reddit webpage | 谓语:showcases | 宾语:images
+gist 一个Reddit页面展示图片。
+mod devoted to the phenomenon → webpage | 过去分词作定语 | 专门讨论这一现象
+mod boasting nearly 50,000 members → webpage | 现在分词作定语 | 拥有近五万成员
+mod of local desire paths adorned with signs instructing pedestrians to adhere to designated walkways → images | 介词短语作定语 | 图片中小径边有要求走指定通道的标牌
+mod instructing pedestrians to adhere to designated walkways → signs | 现在分词作定语 | 标牌要求行人遵守指定人行道
+mod underscoring the rebellious nature inherent in these human-made tracks → 整句 | 现在分词作结果说明 | 这种反差凸显非正式小径所具有的叛逆特征
+cn 一个拥有近五万成员、专门讨论愿望小径的Reddit页面，展示了带有要求行人走指定道路标牌的小径图片，凸显这些人行小径的叛逆性。
+
+# 2025-4|2:2
+type 简单句
+chunks This clash highlights an ongoing struggle〔主〕 between the organic, user-driven evolution of public spaces and the desire for a visually curated and controlled urban environment.〔修〕
+main 主语:This clash | 谓语:highlights | 宾语:an ongoing struggle
+gist 这一冲突凸显了一场持续的拉扯。
+mod between the organic, user-driven evolution of public spaces and the desire for a visually curated and controlled urban environment → struggle | 介词短语作定语 | 冲突双方是使用者驱动的自然演化与精心控制的城市环境
+cn 这一冲突凸显了公共空间由用户自然演化，与追求视觉上精心设计和受控环境之间的持续拉扯。
+
+# 2025-4|3:0
+type 简单句
+chunks The Wickquasgeck Trail is an example〔主〕 of a historical desire path, created by Native Americans to cross the forests of Manhattan and move between settlements quickly.〔修〕
+main 主语:The Wickquasgeck Trail | 谓语:is | 表语:an example
+gist 威克夸斯盖克步道是一个例子。
+mod of a historical desire path → example | 介词短语作定语 | 历史性愿望小径的例子
+mod created by Native Americans → Trail | 过去分词作定语 | 由美国原住民创建
+mod to cross the forests of Manhattan and move between settlements quickly → created | 不定式作目的状语 | 用于穿越森林、快速往返聚落
+cn 威克夸斯盖克步道是历史性愿望小径的一例，由原住民开辟，用于穿越曼哈顿森林、在聚落间快速通行。
+
+# 2025-4|3:1
+type 主从复合句
+chunks This trail,〔主〕 when Dutch colonists arrived,〔C1〕 was widened and made〔主〕 into one of the main trade roads across the island, known at the time as de Heere Straat, or Gentlemen's Street.〔修〕
+main 主语:This trail | 谓语:was widened … made
+gist 这条步道被拓宽、并被建成（某种道路）。
+C1 时间状语从句 | 限定道路变化的时期 | when | 前后 trail was widened 是主句，when 后 colonists arrived 主谓齐全，说明拓宽的时间。 | 主语:Dutch colonists | 谓语:arrived
+mod into one of the main trade roads across the island → made | 结果状语 | 被改成横穿岛屿的主要商路之一
+mod known at the time as de Heere Straat, or Gentlemen's Street → This trail | 过去分词作补充说明 | 当时名为de Heere Straat即绅士街
+cn 荷兰殖民者到来后，这条小径被拓宽为岛上一条主要商路，当时称为绅士街。
+
+# 2025-4|3:2
+type 简单句
+chunks Following the British assumption of control in New York,〔修〕 the street was renamed Broadway.〔主〕
+main 主语:the street | 谓语:was renamed | 主语补足语:Broadway
+gist 这条街被更名为百老汇。
+mod Following the British assumption of control in New York → renamed | 时间状语 | 在英国接管纽约后
+cn 英国接管纽约后，这条街被更名为百老汇。
+
+# 2025-4|3:3
+type 主从复合句
+chunks Notably, Broadway stands out〔主〕 as one of the few areas in NYC〔修〕 that defies the grid-based system applied to the rest of the city,〔C1〕 cutting a diagonal across parts of the city.〔修〕
+main 主语:Broadway | 谓语:stands out
+gist 百老汇显得突出。
+C1 定语从句 | 修饰 areas | that | 前面是名词 areas，后面 defies 缺主语，that 在从句中作主语 → 定语从句。 | 主语:that | 谓语:defies | 宾语:the grid-based system
+mod as one of the few areas in NYC → stands out | 身份范围状语 | 作为纽约少数特殊地区之一
+mod applied to the rest of the city → system | 过去分词作定语 | 适用于城市其余地区的网格系统
+mod cutting a diagonal across parts of the city → Broadway | 现在分词作补充说明 | 百老汇斜穿部分城区
+point 按常规语法，that 从句修饰 areas，谓语应与复数 areas 呼应；本来源却用单数 defies，似将 that 回指 one/Broadway，存在主谓一致性问题。保留原文，不据此推出这类结构都用单数。
+cn 值得注意的是，百老汇是纽约少数不遵循城市其余地区网格布局的地方之一，斜穿部分城区。
+
+# 2025-4|4:0
+type 主从复合句
+chunks In online spaces,〔修〕 desire paths have sparked a fascination〔主〕 that can approach obsession,〔C1〕 with the Reddit page serving as a hub.〔修〕
+main 主语:desire paths | 谓语:have sparked | 宾语:a fascination
+gist 愿望小径引发了浓厚兴趣。
+C1 定语从句 | 修饰 fascination | that | 前面是 fascination，that 后 can approach 缺主语，that 指这种兴趣。 | 主语:that | 谓语:can approach | 宾语:obsession
+mod In online spaces → 整句 | 地点范围状语 | 网络空间中
+mod with the Reddit page serving as a hub → 整句 | with复合结构作状语 | Reddit页面充当交流中心
+cn 在网络空间，愿望小径引发了近乎痴迷的兴趣，Reddit页面成为讨论中心。
+
+# 2025-4|4:1
+type 简单句
+chunks Contributors offer a wide array〔主〕 of stories, from little-known new shortcuts to long-established alternate routes.〔修〕
+main 主语:Contributors | 谓语:offer | 宾语:a wide array
+gist 投稿者提供了各式各样的（故事）。
+mod of stories → array | 介词短语作定语 | 各种各样的故事
+mod from little-known new shortcuts to long-established alternate routes → stories | 范围补充 | 涵盖新出现的小众近路到长期替代路线
+cn 投稿者提供各类故事，从鲜为人知的新捷径到长期存在的替代路线。
+
+# 2025-4|5:0
+type 简单句
+chunks Animal desire paths,〔主〕 such as ducks forging trails through frozen ponds or dogs carving direct routes in gardens,〔修〕 highlight the adaptability〔主〕 of these trails in both human and animal experiences.〔修〕
+main 主语:Animal desire paths | 谓语:highlight | 宾语:the adaptability
+gist 动物走出的愿望小径凸显了适应性。
+mod such as ducks forging trails through frozen ponds or dogs carving direct routes in gardens → paths | 举例说明 | 两个带逻辑主语的动名词结构，分别举鸭子和狗走出的路线
+mod of these trails → adaptability | 介词短语作定语 | 这些小径的适应性
+mod in both human and animal experiences → adaptability | 范围状语 | 在人与动物两类活动中
+cn 动物走出的愿望小径，例如鸭子穿过结冰池塘、狗在花园走直路，体现了这类路线在人与动物活动中的适应性。
+
+# 2025-4|5:1
+type 主从复合句
+chunks As desire paths criss-cross through both physical and virtual landscapes,〔C1〕 they stand〔主〕 as a proof of the collective insistence on forging unconventional routes and embracing the spirit of communal choice.〔修〕
+main 主语:they | 谓语:stand
+gist 它们构成了（某种见证）。
+C1 时间状语从句 | 说明主句事实发生的背景 | As | 后面 they stand 是主句，As 后 desire paths criss-cross 主谓齐全，表示小径在各空间延伸时。 | 主语:desire paths | 谓语:criss-cross
+mod through both physical and virtual landscapes → criss-cross | 范围状语 | 贯穿现实与虚拟场景
+mod as a proof of the collective insistence → stand | 介词短语作状语 | 成为集体坚持的证明
+mod on forging unconventional routes and embracing the spirit of communal choice → insistence | 介词短语作定语 | 坚持开辟非常规路线并拥抱社区选择精神
+cn 愿望小径纵横于现实和虚拟空间，证明人们共同坚持开辟非常规路线、拥抱社区集体选择的精神。

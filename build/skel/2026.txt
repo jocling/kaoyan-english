@@ -1,0 +1,760 @@
+# 2026-1|0:0
+type 主从复合句
+chunks Ask people〔主〕 about public libraries〔修〕 and a certain image springs〔主〕 to mind:〔修〕 dusty, old-fashioned, the sort of place〔主〕 you enjoyed as a child〔C1〕 but,〔主〕 rather like a British seaside town,〔修〕 would you go there now?〔主〕
+main 谓语:Ask | 宾语:people || &and || 主语:a certain image | 谓语:springs || &but || 主语:you | 谓语:would … go
+gist 问问人们，就会浮现某种印象；但你会去吗？
+C1 定语从句 | 修饰 place | （省略 that） | 前面是 place，后面 you enjoyed 缺宾语，省略关系词指这种地方。 | 主语:you | 谓语:enjoyed
+mod about public libraries → Ask | 话题状语 | 询问公共图书馆
+mod to mind → springs | 方向状语 | 浮现在脑中
+mod as a child → enjoyed | 时间状语 | 小时候
+mod rather like a British seaside town → 整句 | 比较插入语 | 拿英国海滨城镇作比较
+point 开头是省略you的祈使句，and后另有image作主语。冒号后先列印象，随后would you go there now是反问句，you为主语，would go为谓语。
+cn 问起公共图书馆，人们脑中就浮现出陈旧落灰的印象：小时候喜欢的地方，如今还会再去吗？
+
+# 2026-1|0:1
+type 简单句
+chunks And anyway — aren't they all closing?〔主〕
+main 主语:they | 谓语:aren't … closing
+gist 它们难道不是正在关闭吗？
+point 否定形式的一般疑问句，在此用于反问，are提前至主语they前；closing与are构成现在进行时。
+cn 再说，难道它们不是都在关闭吗？
+
+# 2026-1|1:0
+type 主从复合句
+chunks The reality is startlingly different,〔主〕 as I discovered〔C1〕 when the culture department commissioned me to conduct an independent review of English public libraries, published yesterday.〔C2〕
+main 主语:The reality | 谓语:is | 表语:startlingly different
+gist 实际情况截然不同。
+C1 方式状语从句 | 补充说明发现了怎样的事实 | as | 前面 reality is different 完整，as 后 I discovered 缺所发现内容，as 指前面事实，表示正如我发现的。 | 主语:I | 谓语:discovered
+C2 时间状语从句 in C1 | 说明发现事实的时间背景 | when | 前面 I discovered 是发现这一事实，when 后 department commissioned 主谓宾齐全，说明发现时的工作背景。 | 主语:the culture department | 谓语:commissioned | 宾语:me | 宾补:to conduct an independent review
+mod of English public libraries → review | 介词短语作定语 | 针对英国公共图书馆的审查
+mod published yesterday → review | 过去分词作定语 | 该审查报告昨天发布
+cn 但实际情况截然不同；文化部门委托我开展英国公共图书馆独立审查时，我发现了这一点，报告于昨天发布。
+
+# 2026-1|1:1
+type 主从复合句
+chunks As I visited libraries up and down the country,〔C1〕 I was surprised〔主〕 to learn〔修〕 there are more than twice the number of libraries (2,892)〔C2〕 as there are branches of McDonald's.〔C3〕
+main 主语:I | 谓语:was | 表语:surprised
+gist 我感到惊讶。
+C1 时间状语从句 | 说明惊讶发现的过程 | As | 后面 I was surprised 是主句，As 后 I visited libraries 主谓宾齐全，表示走访过程中。 | 主语:I | 谓语:visited | 宾语:libraries
+C2 宾语从句 | 作 learn 的宾语 | （省略 that） | 前面 learn 缺得知内容，后面 there are 完整存在句，省略 that。 | 谓语:are | 主语:more than twice the number of libraries
+C3 比较状语从句 in C2 | 说明倍数比较的基数 | as | 前面 twice the number 构成倍数比较，as 后 there are branches 是完整存在句，说明比较基准。 | 谓语:are | 主语:branches of McDonald's
+mod up and down the country → visited | 范围状语 | 走访全国各地
+mod to learn → surprised | 不定式作原因状语 | 惊讶源于得知这一数量事实
+cn 走访全国各地图书馆时，我惊讶地得知：图书馆有2892家，数量是麦当劳分店的两倍多。
+
+# 2026-1|2:0
+type 并列句
+chunks Enter any one〔主〕 of them〔修〕 and you will find a hive〔主〕 of activity.〔修〕
+main 谓语:Enter | 宾语:any one || &and || 主语:you | 谓语:will find | 宾语:a hive
+gist 走进任何一家，你就会发现一片忙碌景象。
+mod of them → one | 介词短语作定语 | 这些图书馆中任意一家
+mod of activity → hive | 介词短语作定语 | 忙碌活动聚集的景象
+point 祈使句+and+陈述句，表达“只要走进去，就会发现”。前句省略you，后句you明确出现。
+cn 走进其中任何一家，你都会发现一片忙碌景象。
+
+# 2026-1|2:1
+type 主从复合句
+chunks While books are, and should always be, at the heart of any library,〔C1〕 a multitude〔主〕 of other services〔修〕 are offered:〔主〕 employment advice, language classes or digital access and support.〔修〕
+main 主语:a multitude | 谓语:are offered
+gist 许多（服务）被提供出来。
+C1 让步状语从句 | 承认书籍的核心地位 | While | 后面 services are offered 是主句，While 后 books are…and should be 主系表齐全，承认书籍核心地位而引出其他服务。 | 主语:books | 谓语:are … should … be | 表语:at the heart
+mod of any library → heart | 介词短语作定语 | 任何图书馆的核心
+mod of other services → multitude | 介词短语作定语 | 许多其他服务
+mod employment advice, language classes or digital access and support → services | 列举说明 | 列出其他服务的具体内容
+cn 虽然书籍是、也理应永远是图书馆核心，但图书馆还提供就业建议、语言课、数字接入和支持等许多服务。
+
+# 2026-1|3:0
+type 主从复合句
+chunks There are libraries〔主〕 with business and intellectual property centres,〔修〕 which can help business owners and entrepreneurs.〔C1〕
+main 谓语:are | 主语:libraries
+gist 存在一些图书馆。
+C1 定语从句 | 补充说明 centres | which | 前面邻接 centres，which 后 can help 缺主语，which 指这些中心。 | 主语:which | 谓语:can help | 宾语:business owners and entrepreneurs
+mod with business and intellectual property centres → libraries | 介词短语作定语 | 设有商业和知识产权中心的图书馆
+cn 有些图书馆设有商业和知识产权中心，可以帮助企业主和创业者。
+
+# 2026-1|3:1
+type 简单句
+chunks Many have nurses〔主〕 on site to carry out basic health checks, with a link to the GP's surgery.〔修〕
+main 主语:Many | 谓语:have | 宾语:nurses
+gist 许多（图书馆）配有护士。
+mod on site → nurses | 地点状语 | 护士在现场
+mod to carry out basic health checks → have | 不定式作目的状语 | 配备护士以开展基础检查
+mod with a link to the GP's surgery → 整句 | 补充状语 | 与全科医生诊所有联系
+cn 许多图书馆有护士现场开展基础健康检查，并与全科医生诊所相联系。
+
+# 2026-1|3:2
+type 主从复合句
+chunks There are libraries〔主〕 where young people can borrow a Fifa-standard football free.〔C1〕
+main 谓语:are | 主语:libraries
+gist 存在一些图书馆。
+C1 定语从句 | 修饰 libraries | where | 前面是 libraries，后面 young people can borrow football 主谓宾齐全，where 作地点状语。 | 主语:young people | 谓语:can borrow | 宾语:a Fifa-standard football
+mod free → borrow | 方式状语 | 免费借用
+cn 有些图书馆还让年轻人免费借用符合国际足联标准的足球。
+
+# 2026-1|4:0
+type 简单句
+chunks In return for all of this,〔修〕 you'll be asked〔主〕 for precisely nothing.〔修〕
+main 主语＋谓语:you'll | 谓语:be asked
+gist 你将被索取（回报内容另见修饰部分）。
+mod In return for all of this → asked | 交换条件状语 | 对应所有这些服务
+mod for precisely nothing → asked | 索取内容状语 | 恰恰不要求任何回报
+point you'll = you will，will与be asked构成被动谓语；nothing表示不收费。
+cn 享受所有这些服务，你无需付出任何费用。
+
+# 2026-1|4:1
+type 主从复合句
+chunks There will be no charge and you will never be asked to justify or explain yourself; you will simply be welcomed in, offered help〔主〕 if you need it,〔C1〕 and left alone〔主〕 if you do not.〔C2〕
+main 谓语:will be | 主语:no charge || &and || 主语:you | 谓语:will never be asked | 主语补足语:to justify or explain yourself || 主语:you | 谓语:will … be welcomed in … offered … left alone
+gist 这里不会收费；你绝不会被要求解释自己；你会被欢迎、被提供（帮助），或被留出独处空间。
+C1 条件状语从句 | 限定提供帮助的条件 | if | 前面 offered help 描述服务，if 后 you need it 主谓宾齐全，限定提供帮助的条件。 | 主语:you | 谓语:need | 宾语:it
+C2 条件状语从句 | 限定留下独处的条件 | if | 前面 left alone 描述安排，if 后 you do not 省略need help，主谓成立，说明无需帮助时。 | 主语:you | 谓语:do not
+point 第二个you will be后，welcomed、offered、left为共用助动词的并列过去分词；offered后的help是保留宾语。
+cn 这里不收费，也不要求你解释自己；需要帮助时会得到帮助，不需要时也能独处。
+
+# 2026-1|4:2
+type 主从复合句
+chunks There is no other institution,〔主〕 public or private,〔修〕 that can say the same.〔C1〕
+main 谓语:is | 主语:no other institution
+gist 不存在其他机构。
+C1 定语从句 | 修饰 institution | that | 前面是 institution，that 后 can say 缺主语，that 指任何其他机构。 | 主语:that | 谓语:can say | 宾语:the same
+mod public or private → institution | 形容词短语作补充说明 | 无论公共还是私人机构
+cn 没有其他公共或私人机构，能够作出同样承诺。
+
+# 2026-1|4:3
+type 简单句
+chunks Yet still our libraries are often overlooked and underappreciated.〔主〕
+main 主语:our libraries | 谓语:are … overlooked and underappreciated
+gist 我们的图书馆被忽视、被低估了。
+cn 然而，图书馆仍常被忽视，未得到足够重视。
+
+# 2026-1|4:4
+type 主从复合句
+chunks There is an overall decline〔主〕 in visits〔修〕 and many are struggling〔主〕 as local authorities come under continued financial pressure.〔C1〕
+main 谓语:is | 主语:an overall decline || &and || 主语:many | 谓语:are struggling
+gist 存在总体下降；而许多（图书馆）正在艰难维持。
+C1 原因状语从句 | 说明图书馆困难的原因 | as | 前面 many are struggling 已完整，as 后 authorities come 主谓齐全，说明图书馆困难的财政原因。 | 主语:local authorities | 谓语:come
+mod in visits → decline | 介词短语作定语 | 到访量的总体下降
+mod under continued financial pressure → come | 状态状语 | 持续承受财政压力
+cn 到访人数总体下降，而且地方政府持续承受财政压力，许多图书馆正在艰难维持。
+
+# 2026-1|5:0
+type 主从复合句
+chunks The number〔主〕 of libraries〔修〕 that have closed since 2010〔C1〕 is disputed.〔主〕
+main 主语:The number | 谓语:is disputed
+gist 这个数量存在争议。
+C1 定语从句 | 修饰 libraries | that | 前面是 libraries，that 后 have closed 缺主语，that 指关闭的图书馆。 | 主语:that | 谓语:have closed
+mod of libraries → number | 介词短语作定语 | 图书馆数量
+mod since 2010 → closed | 时间状语 | 自2010年以来
+cn 2010年以来到底关闭了多少图书馆，存在争议。
+
+# 2026-1|5:1
+type 并列句
+chunks An annual survey〔主〕 by the Chartered Institute of Public Finance and Accountancy〔修〕 puts it〔主〕 at nearly 800 across the UK;〔修〕 official statistics〔主〕 held by the Arts Council〔修〕 record 230〔主〕 in England.〔修〕
+main 主语:An annual survey | 谓语:puts | 宾语:it || 主语:official statistics | 谓语:record | 宾语:230
+gist 一项年度调查给出了这一数量；官方统计则记录了230家。
+mod by the Chartered Institute of Public Finance and Accountancy → survey | 介词短语作定语 | 由特许公共财政与会计学会开展
+mod at nearly 800 across the UK → puts | 数值范围状语 | 英国范围内近800家
+mod held by the Arts Council → statistics | 过去分词作定语 | 艺术委员会持有的统计
+mod in England → record | 地点范围状语 | 记录的是英格兰数据
+point UK与England范围不同，不能把两组数字直接当成同一区域的差值。
+cn 一项年度调查说英国关闭近800家图书馆；艺术委员会的官方统计则记录英格兰关闭230家。
+
+# 2026-1|5:2
+type 简单句
+chunks It is, of course, 230 libraries too many.〔主〕
+main 主语:It | 谓语:is | 表语:230 libraries too many
+gist 关闭230家图书馆也太多了。
+point 230 libraries too many表达多关闭了230家、任何一家都不该失去的评价，不是说剩下230家太多。
+cn 当然，关闭230家图书馆，也实在太多了。
+
+# 2026-1|5:3
+type 主从复合句
+chunks So〔主〕 if we are to protect our libraries for future generations,〔C1〕 we must raise awareness〔主〕 of them and the work〔修〕 they do.〔C2〕
+main 主语:we | 谓语:must raise | 宾语:awareness
+gist 我们必须提高认识。
+C1 条件状语从句 | 限定提高认识的目标条件 | if | 后面 we must raise 是主句，if 后 we are to protect 主谓齐全，表示如果要实现保护目标。 | 主语:we | 谓语:are to protect | 宾语:our libraries
+C2 定语从句 | 修饰 work | （省略 that） | 前面是 work，后面 they do 缺宾语，省略关系词指图书馆的工作。 | 主语:they | 谓语:do
+mod for future generations → protect | 受益对象状语 | 为后代保护
+mod of them and the work → awareness | 介词短语作定语 | 对图书馆和相关工作的认识
+cn 因此，如果要为后代保护图书馆，就必须提高公众对图书馆及其工作的认识。
+
+# 2026-1|6:0
+type 简单句
+chunks The review recommends a national branding campaign〔主〕 to give libraries a stronger physical presence,〔修〕 the reintroduction of a scheme〔主〕 to enable members to use their card in any library in the country,〔修〕 and automatic memberships〔主〕 for children.〔修〕
+main 主语:The review | 谓语:recommends | 宾语:a national branding campaign … the reintroduction of a scheme … automatic memberships
+gist 这份审查建议开展全国品牌宣传、重新引入一项计划，并实行自动入会。
+mod to give libraries a stronger physical presence → campaign | 不定式作目的状语 | 提高图书馆实体存在感
+mod to enable members to use their card in any library in the country → scheme | 不定式作定语 | 使会员卡能在全国任何图书馆使用
+mod for children → memberships | 对象状语 | 儿童自动获得会员资格
+point recommends后有三项并列宾语，不能只记第一项宣传活动。
+cn 审查建议开展全国品牌宣传，恢复全国图书馆通用借阅证计划，并让儿童自动成为会员。
+
+# 2026-1|6:1
+type 主从复合句
+chunks If we don't use them,〔C1〕 we will end up losing them.〔主〕
+main 主语:we | 谓语:will end up | 宾语:losing them
+gist 我们最终将失去它们。
+C1 条件状语从句 | 说明最终失去图书馆的条件 | If | 后面 we will end up 是主句，If 后 we don’t use them 主谓宾齐全，表示不使用的条件。 | 主语:we | 谓语:don't use | 宾语:them
+cn 如果我们不用图书馆，最终就会失去它们。
+
+# 2026-1|6:2
+type 主从复合句
+chunks And〔主〕 for those〔修〕 who haven't been to a library for some time,〔C1〕 they may be surprised by〔主〕 what they find.〔C2〕
+main 主语:they | 谓语:may be surprised
+gist 他们可能感到惊讶。
+C1 定语从句 | 修饰 those | who | 前面是 those，who 后 haven’t been 缺主语，who 指很久未去图书馆的人。 | 主语:who | 谓语:haven’t been
+C2 宾语从句 | 作 by 的宾语 | what | 前面 by 缺宾语，后面 they find 缺宾语，what 同时表示发现的事物并作find的宾语。 | 主语:they | 谓语:find | 宾语:what
+mod for those → 整句 | 对象范围状语 | 对这些人而言
+mod to a library for some time → been | 地点和时间状语 | 有一段时间没去图书馆
+cn 那些很久没去图书馆的人，或许会对现在发现的服务感到惊讶。
+
+# 2026-2|0:0
+type 简单句
+chunks According to our research,〔修〕 around one in five workers〔主〕 in the UK〔修〕 talk〔主〕 to AI like a friend, looking for guidance on personal and professional problems.〔修〕
+main 主语:around one in five workers | 谓语:talk
+gist 约五分之一的劳动者会交谈。
+mod According to our research → 整句 | 来源状语 | 根据作者的研究
+mod in the UK → workers | 介词短语作定语 | 英国劳动者
+mod to AI like a friend → talk | 对象和方式状语 | 像与朋友交谈一样与人工智能交谈
+mod looking for guidance on personal and professional problems → workers | 现在分词作状语 | 寻求个人与职业问题的建议
+cn 研究显示，英国约五分之一劳动者把人工智能当朋友交谈，寻求人生和工作问题的指引。
+
+# 2026-2|0:1
+type 主从复合句
+chunks Our data shows〔主〕 that engaging with AI like this can leave us feeling heard and less isolated.〔C1〕
+main 主语:Our data | 谓语:shows | 宾语:C1
+gist 我们的数据显示了（一种情况）——内容是从句①。
+C1 宾语从句 | 作 shows 的宾语 | that | 前面 shows 缺显示内容，that 后动名词engaging作主语、can leave作谓语，结构完整，that不作成分。 | 主语:engaging with AI like this | 谓语:can leave | 宾语:us | 宾补:feeling heard and less isolated
+cn 数据显示，这样与人工智能交流会让人感到被倾听，孤独感减轻。
+
+# 2026-2|0:2
+type 主从复合句
+chunks But,〔主〕 with this newfound connection,〔修〕 many of us share sensitive, sometimes highly confidential information,〔主〕 even though over a third of people don't realise〔C1〕 that AI platforms may not be very good at keeping our secrets…secret.〔C2〕
+main 主语:many of us | 谓语:share | 宾语:sensitive, sometimes highly confidential information
+gist 我们中许多人会分享敏感、有时高度机密的信息。
+C1 让步状语从句 | 说明分享发生时存在的认识不足 | even though | 前面 many share information 主谓宾齐全，even though后people don’t realise有主谓，承认用户缺乏认识。 | 主语:over a third of people | 谓语:don't realise | 宾语:C2
+C2 宾语从句 in C1 | 作 realise 的宾语 | that | 前面 realise 缺意识到的内容，that后platforms may not be主系表齐全，that不作成分。 | 主语:AI platforms | 谓语:may not be | 表语:very good
+mod with this newfound connection → 整句 | 背景状语 | 在这种新联系带来的背景下
+mod at keeping → good | 介词短语作补充说明 | keeping的宾语是secrets，secret作宾补，指守住秘密
+cn 然而，这种新联系也让许多人分享敏感甚至高度机密的信息，尽管超过三分之一的人不知道人工智能平台未必善于保密。
+
+# 2026-2|1:0
+type 简单句
+chunks For businesses,〔修〕 the implications are worrying.〔主〕
+main 主语:the implications | 谓语:are | 表语:worrying
+gist 这些影响令人担忧。
+mod For businesses → 整句 | 对象范围状语 | 对企业而言
+cn 对企业而言，这种影响令人担忧。
+
+# 2026-2|1:1
+type 简单句
+chunks Consider Microsoft Copilot, for example.〔主〕
+main 谓语:Consider | 宾语:Microsoft Copilot
+gist 以微软Copilot为例。
+point 这是省略主语you的祈使句；for example为举例提示。
+cn 以微软Copilot为例。
+
+# 2026-2|1:2
+type 主从复合句
+chunks It gains Microsoft broad rights〔主〕 to the data inputted or outputted by any user〔修〕 —〔主〕 rights to use this data in any way〔修〕 it sees fit;〔C1〕 it can even share it〔主〕 with third parties.〔修〕
+main 主语:It | 谓语:gains | 间接宾语:Microsoft | 直接宾语:broad rights || 主语:it | 谓语:can … share | 宾语:it
+gist 它使微软获得广泛权利；它还能够共享这些（数据）。
+C1 定语从句 | 修饰 way | 无 | 前面是way，后面it sees fit为判断使用方式的完整表达，省略关系词说明其认为合适的方式。 | 主语:it | 谓语:sees | 宾补:fit
+mod to the data → rights | 介词短语作定语 | 对数据的权利
+mod inputted or outputted by any user → data | 过去分词作定语 | 任何用户输入或输出的数据
+mod rights to use this data in any way → rights | 同位补充 | 解释广泛权利涉及如何使用数据
+mod with third parties → share | 共享对象状语 | 与第三方共享
+point 本句转述试题原文的产品条款主张，不作为现行条款核验。来源使用 gains Microsoft，保留其非典型用词，不把它推广为常用搭配。sees fit中省略了具体使用数据的动作。
+cn 原文称，该工具使微软获得对用户输入输出数据的广泛使用权，可以按其认为合适的方式使用，甚至与第三方共享。
+
+# 2026-2|1:3
+type 主从复合句
+chunks This means〔主〕 that any sensitive business information could potentially be exposed to the world.〔C1〕
+main 主语:This | 谓语:means | 宾语:C1
+gist 这意味着（一种情况）——内容是从句①。
+C1 宾语从句 | 作 means 的宾语 | that | 前面means缺意味着什么，that后information could be exposed被动句完整，that不作成分。 | 主语:any sensitive business information | 谓语:could … be exposed
+mod to the world → exposed | 暴露对象状语 | 被外界看见
+cn 这意味着，任何敏感商业信息都有可能暴露给外界。
+
+# 2026-2|1:4
+type 简单句
+chunks Employers are taking note and taking action.〔主〕
+main 主语:Employers | 谓语:are taking | 宾语:note … action
+gist 雇主正在关注、并采取行动。
+point taking note与taking action并列，共用Employers和are。
+cn 雇主正在注意这一问题，并采取行动。
+
+# 2026-2|1:5
+type 简单句
+chunks According to our research,〔修〕 25% have decided to either outright ban AI or regulate its use〔主〕 within their organisations.〔修〕
+main 主语:25% | 谓语:have decided | 宾语:to either outright ban AI or regulate its use
+gist 25%已决定全面禁止人工智能，或规范其使用。
+mod According to our research → 整句 | 来源状语 | 依据作者调查
+mod within their organisations → regulate | 范围状语 | 在组织内部
+point 25%省略被统计的雇主；either…or…连接ban和regulate两个选择，共用不定式to。
+cn 研究显示，25%的雇主已决定在组织内全面禁止人工智能，或规范其使用。
+
+# 2026-2|1:6
+type 简单句
+chunks But〔主〕 even with these policies in place,〔修〕 some employees choose to break the rules.〔主〕
+main 主语:some employees | 谓语:choose | 宾语:to break the rules
+gist 一些员工选择违反规定。
+mod even with these policies in place → 整句 | 让步状语 | 即使相关政策已经生效
+cn 但即使有这些规定，一些员工仍选择违反。
+
+# 2026-2|1:7
+type 主从复合句
+chunks They have their reasons — around 63% of them report〔主〕 that using AI increases their productivity,〔C1〕 and some even feel〔主〕 AI offers more help than their human colleagues.〔C2〕
+main 主语:They | 谓语:have | 宾语:their reasons || 主语:around 63% of them | 谓语:report | 宾语:C1 || &and || 主语:some | 谓语:feel | 宾语:C2
+gist 他们有自己的理由；约63%的人报告了（一种情况），另一些人认为（另一种情况）——分别是从句①和②。
+C1 宾语从句 | 作 report 的宾语 | that | 前面report缺报告内容，that后using AI作主语、increases作谓语，主谓宾齐全，that不作成分。 | 主语:using AI | 谓语:increases | 宾语:their productivity
+C2 宾语从句 | 作 feel 的宾语 | （省略 that） | 前面feel缺感受内容，后面AI offers help主谓宾齐全，省略that。 | 主语:AI | 谓语:offers | 宾语:more help
+mod than their human colleagues → more help | 比较状语 | 相比人类同事提供的帮助
+cn 他们有自己的理由：约63%的人说人工智能提高了生产率，有些人甚至认为它比同事更能提供帮助。
+
+# 2026-2|2:0
+type 简单句
+chunks The situation presents a delicate balance〔主〕 between leveraging AI for its productivity gains and risking confidential data exposure.〔修〕
+main 主语:The situation | 谓语:presents | 宾语:a delicate balance
+gist 这种情况呈现出一种微妙平衡。
+mod between leveraging AI for its productivity gains and risking confidential data exposure → balance | 介词短语作定语 | 平衡两方面：效率收益和机密泄露风险
+cn 这种局面要求在利用人工智能提高生产率与机密数据暴露风险之间，保持微妙平衡。
+
+# 2026-2|2:1
+type 简单句
+chunks Employers need to manage AI tools〔主〕 with the same level of care as any other form of data sharing or storage.〔修〕
+main 主语:Employers | 谓语:need | 宾语:to manage AI tools
+gist 雇主需要管理人工智能工具。
+mod with the same level of care as any other form of data sharing or storage → manage | 方式比较状语 | 采用与其他数据共享存储方式同等的谨慎程度
+cn 雇主管理人工智能工具，应像管理其他数据共享或存储方式一样谨慎。
+
+# 2026-2|2:2
+type 主从复合句
+chunks There's also a knowledge gap〔主〕 that needs to be addressed〔C1〕 — 40% of individuals〔主〕 surveyed〔修〕 are unsure about〔主〕 who retains ownership over the content produced by AI.〔C2〕
+main 主语＋谓语:There's | 主语:a knowledge gap || 主语:40% of individuals | 谓语:are | 表语:unsure
+gist 存在认知缺口；40%的人并不确定。
+C1 定语从句 | 修饰 gap | that | 前面是gap，that后needs缺主语，that指这一认知缺口。 | 主语:that | 谓语:needs | 宾语:to be addressed
+C2 宾语从句 | 作 about 的宾语 | who | 前面about缺内容，who后retains缺主语，who表示谁并作retains主语。 | 主语:who | 谓语:retains | 宾语:ownership
+mod surveyed → individuals | 过去分词作定语 | 接受调查的人
+mod over the content → ownership | 介词短语作定语 | 对产出内容的所有权
+mod produced by AI → content | 过去分词作定语 | 人工智能生成的内容
+point There's=There is，there是存在句引导词，不是真正存在的对象。破折号后是独立陈述。
+cn 还有认知缺口需要解决：40%的受访者不确定人工智能产出内容的所有权归谁。
+
+# 2026-2|2:3
+type 主从复合句
+chunks By instilling best practices in AI engagement and creating policies〔修〕 that evolve with the technology,〔C1〕 businesses can positively shift the AI landscape.〔主〕
+main 主语:businesses | 谓语:can … shift | 宾语:the AI landscape
+gist 企业可以改变人工智能应用环境。
+C1 定语从句 | 修饰 policies | that | 前面是policies，that后evolve缺主语，that指政策。 | 主语:that | 谓语:evolve
+mod By instilling best practices in AI engagement and creating policies → shift | 方式状语 | 通过推广最佳实践和制定政策两项行动
+mod with the technology → evolve | 伴随状语 | 随技术发展而演进
+cn 通过传授人工智能交互的最佳做法、制定随技术演进的政策，企业可以积极改善人工智能应用环境。
+
+# 2026-2|3:0
+type 主从复合句
+chunks With AI's potential to simplify our professional lives, do the admin and enhance the work experience,〔修〕 it's up to us to navigate its usage cautiously〔主〕 so it supports us without compromising our privacy.〔C1〕
+main 主语＋谓语:it's | 表语:up to us | 真正主语:to navigate its usage cautiously
+gist 谨慎驾驭它的使用，是我们的责任。
+C1 目的状语从句 | 说明谨慎使用的目的 | so | 前面强调谨慎使用这一行动，so后it supports us主谓宾齐全，说明谨慎使用要达到的结果。 | 主语:it | 谓语:supports | 宾语:us
+mod With AI's potential to simplify our professional lives, do the admin and enhance the work experience → 整句 | 背景状语 | 人工智能具有三类工作辅助潜力
+mod without compromising our privacy → supports | 伴随状语 | 同时不损害隐私
+cn 人工智能有潜力简化工作、处理行政事务、改善体验；我们须谨慎使用，使其提供支持而不损害隐私。
+
+# 2026-2|3:1
+type 主从复合句
+chunks There's no need〔主〕 to back away from progress,〔修〕 as long as we're equipped with the knowledge and tools to make sure〔C1〕 AI remains a friend.〔C2〕
+main 主语＋谓语:There's | 主语:no need
+gist 没有必要（做某事）。
+C1 条件状语从句 | 限定无需退缩的条件 | as long as | 前面There is no need完整，as long as后we are equipped完整被动句，表示只要具备知识工具。 | 主语＋谓语:we're | 谓语:equipped
+C2 宾语从句 in C1 | 作 make sure 的内容 | （省略 that） | 前面make sure缺确保内容，后面AI remains a friend主系表齐全，省略that。 | 主语:AI | 谓语:remains | 表语:a friend
+mod to back away from progress → need | 不定式作定语 | 不需要回避进步
+mod with the knowledge and tools → equipped | 介词短语作补充说明 | 拥有知识和工具
+mod to make sure → tools | 不定式作定语 | 用于确保安全友好
+cn 只要掌握确保人工智能保持友好的知识和工具，我们就不必回避进步。
+
+# 2026-2|3:2
+type 主从复合句
+chunks And this is〔主〕 where the challenge lies.〔C1〕
+main 主语:this | 谓语:is | 表语:C1
+gist 这就是（一种情况）——内容是从句①。
+C1 表语从句 | 作 is 的表语 | where | 前面系动词is后需说明挑战所在，where后challenge lies主谓齐全，where作位置状语。 | 主语:the challenge | 谓语:lies
+cn 而挑战恰恰就在这里。
+
+# 2026-2|3:3
+type 主从复合句
+chunks There are so many products〔主〕 out there, being promoted with huge advertising and marketing budgets,〔修〕 that it's easy to fall victim.〔C1〕
+main 谓语:are | 主语:so many products
+gist 存在如此多的产品。
+C1 结果状语从句 | 作 so many 的结果说明 | that | 前面so many products与后面的that呼应，that后it is easy完整，表示产品太多以至容易受害。 | 主语＋谓语:it's | 表语:easy | 真正主语:to fall victim
+mod out there → products | 地点状语 | 市场上存在的产品
+mod being promoted with huge advertising and marketing budgets → products | 现在分词的被动式作定语 | 正以巨额广告营销预算推广
+cn 市面上产品众多，又投入巨额广告和营销资金推广，以至于人们很容易受害。
+
+# 2026-2|3:4
+type 主从复合句
+chunks But〔主〕 by building a culture of digital responsibility within our businesses,〔修〕 we can create a future〔主〕 where AI can help us without spilling the beans.〔C1〕
+main 主语:we | 谓语:can create | 宾语:a future
+gist 我们可以创造一种未来。
+C1 定语从句 | 修饰 future | where | 前面是future，后面AI can help us主谓宾齐全，where作抽象情境状语，说明未来的样貌。 | 主语:AI | 谓语:can help | 宾语:us
+mod by building a culture of digital responsibility within our businesses → create | 方式状语 | 通过建立企业数字责任文化
+mod without spilling the beans → help | 伴随状语 | 提供帮助而不泄露秘密
+cn 但通过在企业中建立数字责任文化，我们可以创造一个人工智能提供帮助而不泄密的未来。
+
+# 2026-3|0:0
+type 简单句
+chunks Since the 2008 launch of the high-speed rail network between Rome and Milan,〔修〕 trains have become the preferred means〔主〕 of travel across Italy for locals and tourists alike.〔修〕
+main 主语:trains | 谓语:have become | 表语:the preferred means
+gist 火车已成为首选方式。
+mod Since the 2008 launch of the high-speed rail network between Rome and Milan → have become | 时间状语 | 自罗马米兰高铁网2008年开通以来
+mod of travel across Italy → means | 介词短语作定语 | 在意大利境内出行的方式
+mod for locals and tourists alike → preferred | 对象范围状语 | 对本地人和游客都如此
+cn 自2008年罗马至米兰高铁开通以来，火车已成为意大利本地居民和游客首选的出行方式。
+
+# 2026-3|0:1
+type 简单句
+chunks Fast trains can cover the 500km〔主〕 between the two cities in three hours.〔修〕
+main 主语:Fast trains | 谓语:can cover | 宾语:the 500km
+gist 高速列车可以跑完这500公里。
+mod between the two cities → 500km | 介词短语作定语 | 这两座城市之间的路程
+mod in three hours → cover | 时间状语 | 三小时内完成
+cn 高速列车三小时就能跑完两座城市间的500公里。
+
+# 2026-3|0:2
+type 简单句
+chunks The network also connects Naples, Bologna, Florence and Turin.〔主〕
+main 主语:The network | 谓语:connects | 宾语:Naples, Bologna, Florence and Turin
+gist 该铁路网连接那不勒斯、博洛尼亚、佛罗伦萨和都灵。
+cn 该铁路网还连接那不勒斯、博洛尼亚、佛罗伦萨和都灵。
+
+# 2026-3|0:3
+type 简单句
+chunks In many cases,〔修〕 it is the best option —〔主〕 in terms of travel time and cost〔修〕 —〔主〕 for both leisure and business travellers.〔修〕
+main 主语:it | 谓语:is | 表语:the best option
+gist 它是最佳选择。
+mod In many cases → 整句 | 范围状语 | 在许多情形下
+mod in terms of travel time and cost → best | 衡量标准状语 | 从出行时间和费用衡量
+mod for both leisure and business travellers → option | 对象范围状语 | 对休闲和商务旅客都适用
+cn 在许多情形下，无论休闲还是商务旅行，按用时和费用衡量，高铁都是最佳选择。
+
+# 2026-3|1:0
+type 主从复合句
+chunks This is〔主〕 why the recent severe delays caused by numerous maintenance works have thrown the rail industry into chaos at a time〔C1〕 when most people head on holiday,〔C2〕 which matters for business in a country〔C3〕 where tourism accounts for 10 percent of GDP.〔C4〕
+main 主语:This | 谓语:is | 表语:C1
+gist 这就是（原因）——内容是从句①。
+C1 表语从句 | 作 is 的表语 | why | 前面系动词is后需要说明因果关联，why后delays have thrown主谓宾齐全，why作原因状语。 | 主语:the recent severe delays | 谓语:have thrown | 宾语:the rail industry
+C2 定语从句 in C1 | 修饰 time | when | 前面是a time，when后people head主谓齐全，when作时间状语。 | 主语:most people | 谓语:head
+C3 定语从句 in C1 | 补充说明前述混乱对经济的意义 | which | 前面是度假高峰铁路混乱的整件事，which后matters缺主语，which概括前述事实。 | 主语:which | 谓语:matters
+C4 定语从句 in C3 | 修饰 country | where | 前面是country，where后tourism accounts主谓齐全，where作地点状语。 | 主语:tourism | 谓语:accounts
+mod caused by numerous maintenance works → delays | 过去分词作定语 | 由大量维修施工引起
+mod into chaos → thrown | 结果状语 | 令铁路业陷入混乱
+mod at a time → thrown | 时间状语 | 发生在这一时期
+mod on holiday → head | 去向状语 | 出门度假
+mod for business in a country → matters | 影响范围状语 | 对该国商业产生影响
+mod for 10 percent of GDP → accounts | 比例状语 | 旅游业占国内生产总值10%
+cn 正因高铁如此重要，大量维修引起的严重晚点，在多数人度假时令铁路业陷入混乱；对旅游业占GDP一成的国家，商业影响很大。
+
+# 2026-3|2:0
+type 简单句
+chunks Disruptions have become increasingly frequent〔主〕 with train delays now a fixture in Italian media coverage.〔修〕
+main 主语:Disruptions | 谓语:have become | 表语:increasingly frequent
+gist 运行中断变得日益频繁。
+mod with train delays now a fixture in Italian media coverage → 整句 | with复合结构作状语 | 列车晚点现在是媒体报道的固定内容
+cn 铁路运行中断日益频繁，列车晚点已成为意大利媒体经常报道的话题。
+
+# 2026-3|2:1
+type 主从复合句
+chunks Ferrovie dello Stato Italiane,〔主〕 the publicly controlled group〔修〕 that owns train operator Trenitalia and the national train network RFI,〔C1〕 said〔主〕 23 percent of all high-speed trains〔C2〕 it operated〔C3〕 were late in 2023.〔C2〕
+main 主语:Ferrovie dello Stato Italiane | 谓语:said | 宾语:C2
+gist Ferrovie集团说了（一件事）——内容是从句②。
+C1 定语从句 | 修饰 group | that | 前面是group，that后owns缺主语，that指该集团。 | 主语:that | 谓语:owns | 宾语:train operator Trenitalia and the national train network RFI
+C2 宾语从句 | 作 said 的宾语 | （省略 that） | 前面said缺所说内容，后面23 percent…were late主系表齐全，省略that。 | 主语:23 percent of all high-speed trains | 谓语:were | 表语:late
+C3 定语从句 in C2 | 修饰 trains | （省略 that） | 前面是trains，后面it operated缺宾语，省略关系词指列车。 | 主语:it | 谓语:operated
+mod the publicly controlled group → Ferrovie dello Stato Italiane | 同位语 | 这是一家公共控股集团
+mod in 2023 → were | 时间状语 | 2023年的晚点情况
+cn 拥有Trenitalia和全国铁路网RFI的国有控股集团Ferrovie说，其2023年运营的高速列车有23%晚点。
+
+# 2026-3|3:0
+type 主从复合句
+chunks The huge improvements in Italy's obsolete infrastructure partly explained the disruption,〔C1〕 said Ferrovie.〔主〕
+main 谓语:said | 主语:Ferrovie | 宾语:C1
+gist Ferrovie说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的内容 | （省略 that） | 后面said引述前面improvements explained的完整陈述，整块前置作宾语。 | 主语:The huge improvements | 谓语:explained | 宾语:the disruption
+mod in Italy's obsolete infrastructure → improvements | 介词短语作定语 | 升级意大利老旧基础设施
+cn Ferrovie说，对意大利老旧基础设施的大规模升级，是铁路混乱的部分原因。
+
+# 2026-3|3:1
+type 简单句
+chunks RFI,〔主〕 the network operator,〔修〕 is the single largest European recovery fund beneficiary〔主〕 with planned investments of €24bn by 2026.〔修〕
+main 主语:RFI | 谓语:is | 表语:the single largest European recovery fund beneficiary
+gist RFI是欧洲复苏基金最大的单一受益者。
+mod the network operator → RFI | 同位语 | 铁路网络运营商
+mod with planned investments of €24bn by 2026 → beneficiary | 介词短语作补充说明 | 到2026年计划投资240亿欧元
+cn 铁路网运营商RFI是欧洲复苏基金最大的单一受益者，计划到2026年投资240亿欧元。
+
+# 2026-3|3:2
+type 简单句
+chunks Ferrovie will invest a total of €124bn〔主〕 in infrastructure over the next 10 years.〔修〕
+main 主语:Ferrovie | 谓语:will invest | 宾语:a total of €124bn
+gist Ferrovie将投入总计1240亿欧元。
+mod in infrastructure → invest | 投入对象状语 | 投资基础设施
+mod over the next 10 years → invest | 时间状语 | 未来十年期间
+cn Ferrovie将在未来十年向基础设施投入总计1240亿欧元。
+
+# 2026-3|4:0
+type 简单句
+chunks But lack〔主〕 of capacity〔修〕 is another problem.〔主〕
+main 主语:lack | 谓语:is | 表语:another problem
+gist 不足是另一个问题。
+mod of capacity → lack | 介词短语作定语 | 缺少可用运力
+cn 但运力不足是另一个问题。
+
+# 2026-3|4:1
+type 主从复合句
+chunks Transport economist Andrea Giuricin said〔主〕 the planned investments would bring improvements but disruptions in the meantime were inevitable.〔C1〕
+main 主语:Transport economist Andrea Giuricin | 谓语:said | 宾语:C1
+gist 交通经济学家安德烈亚·朱里钦说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的宾语 | （省略 that） | 前面said缺所说内容，后面investments would bring和disruptions were两套完整主谓由but连接，整体作宾语。 | 主语:the planned investments | 谓语:would bring | 宾语:improvements | 主语:disruptions | 谓语:were | 表语:inevitable
+mod in the meantime → disruptions | 时间状语 | 过渡期间的运行中断
+cn 交通经济学家朱里钦说，计划中的投资会带来改善，但施工过渡期的运行中断难以避免。
+
+# 2026-3|4:2
+type 主从复合句
+chunks "We have a mixed system, there is no spare capacity and〔C1〕 as soon as there's a hiccup on the line,〔C2〕 the situation becomes highly complex,"〔C1〕 he said.〔主〕
+main 主语:he | 谓语:said | 宾语:C1
+gist 他说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 said 的内容 | 无 | 后面said引述前面直接引语，内部We have、there is、situation becomes是不同分句主谓。 | 主语:We | 谓语:have | 宾语:a mixed system | 谓语:is | 主语:no spare capacity | 主语:the situation | 谓语:becomes | 表语:highly complex
+C2 时间状语从句 in C1 | 说明情况复杂化的触发时间 | as soon as | 后面situation becomes是主句，as soon as后there is a hiccup为完整存在句，表示一有故障就出现后果。 | 主语＋谓语:there's | 主语:a hiccup
+mod on the line → hiccup | 地点状语 | 线路上的小故障
+cn 他说：“我们采用混合系统，没有冗余运力；线路稍有故障，情况就会变得非常复杂。”
+
+# 2026-3|4:3
+type 主从复合句
+chunks A mixed system means〔主〕 that high-speed trains must travel on the regular tracks on certain routes or when passing through large cities.〔C1〕
+main 主语:A mixed system | 谓语:means | 宾语:C1
+gist 混合系统意味着（一种情况）——内容是从句①。
+C1 宾语从句 | 作 means 的宾语 | that | 前面means缺说明内容，that后trains must travel主谓齐全，that不作成分。 | 主语:high-speed trains | 谓语:must travel
+mod on the regular tracks on certain routes → travel | 地点状语 | 在某些线路上行驶于普通轨道
+mod when passing through large cities → travel | 时间状语从句的省略 | 完整为when they are passing，逻辑主语为高速列车
+cn 混合系统意味着，高速列车在某些路线或穿越大城市时，必须使用普通铁路轨道。
+
+# 2026-3|4:4
+type 主从复合句
+chunks If there's congestion or, for example, a local train breaks down,〔C1〕 the entire high-speed network is affected.〔主〕
+main 主语:the entire high-speed network | 谓语:is affected
+gist 整个高铁网都会受到影响。
+C1 条件状语从句 | 说明高铁网受影响的条件 | If | 后面network is affected是主句，If后there is congestion或local train breaks down均有完整主谓，说明两种触发条件。 | 主语＋谓语:there's | 主语:congestion | 主语:a local train | 谓语:breaks down
+cn 若线路拥堵，或者例如地方列车发生故障，整个高铁网都会受影响。
+
+# 2026-3|5:0
+type 主从复合句
+chunks One〔主〕 of the most important changes〔修〕 the upgrades will bring〔C1〕 is the segregation〔主〕 of the high-speed line from the regular one in certain urban centres through the construction of underground rail links.〔修〕
+main 主语:One | 谓语:is | 表语:the segregation
+gist 其中一项（变化）是分离。
+C1 定语从句 | 修饰 changes | （省略 that） | 前面是changes，后面upgrades will bring缺宾语，省略关系词指变化。 | 主语:the upgrades | 谓语:will bring
+mod of the most important changes → One | 介词短语作定语 | 最重要变化之一
+mod of the high-speed line from the regular one → segregation | 介词短语作定语 | 将高速线与普通线分开
+mod in certain urban centres → segregation | 地点状语 | 在某些城市中心
+mod through the construction of underground rail links → segregation | 方式状语 | 通过修建地下连接线实现
+cn 升级带来的最重要变化之一，是通过修建地下铁路连接，使某些城市中心的高速线路与普通线路分离。
+
+# 2026-3|6:0
+type 主从复合句
+chunks Improvements will also come from the high-density technology and satellite signalling〔C1〕 that RFI has been investing in for years,〔C2〕 say experts.〔主〕
+main 谓语:say | 主语:experts | 宾语:C1
+gist 专家说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 say 的内容 | （省略 that） | 后面say引述前面Improvements will come完整陈述，省略that。 | 主语:Improvements | 谓语:will … come
+C2 定语从句 in C1 | 修饰技术与信号系统 | that | 前面是technology and satellite signalling，后面RFI has been investing in缺介词in宾语，that指技术与信号系统。 | 主语:RFI | 谓语:has been investing | 宾语:that
+mod from the high-density technology and satellite signalling → come | 来源状语 | 改善来自高密度运行技术与卫星信号
+mod for years → investing | 时间状语 | 投资已经多年
+cn 专家说，改善也将来自RFI多年投资的高密度运行技术和卫星信号系统。
+
+# 2026-3|6:1
+type 主从复合句
+chunks It will allow〔主〕 for a reduction of the distance between high-speed trains travelling on the same line at any given time,〔修〕 which should mean a significant increase in capacity and traffic fluidity,〔C1〕 according to Giuricin.〔修〕
+main 主语:It | 谓语:will allow
+gist 这将使（某种变化）成为可能。
+C1 定语从句 | 补充说明缩短间距的作用 | which | 前面是缩短列车间距的整件事，which后should mean缺主语，which概括前述事实。 | 主语:which | 谓语:should mean | 宾语:a significant increase
+mod for a reduction of the distance between high-speed trains → allow | 介词短语作补充说明 | 允许缩短高速列车之间的距离
+mod travelling on the same line at any given time → trains | 现在分词作定语 | 同一时刻在同一路线上行驶的列车
+mod in capacity and traffic fluidity → increase | 介词短语作定语 | 运力和运行流畅度的提升
+mod according to Giuricin → 整句 | 来源状语 | 朱里钦的判断
+cn 朱里钦认为，这将缩短同线运行高速列车之间的距离，从而显著提高运力与通行流畅度。
+
+# 2026-4|0:0
+type 简单句
+chunks In 2023,〔修〕 Chicago lost one〔主〕 of its most beloved street festivals.〔修〕
+main 主语:Chicago | 谓语:lost | 宾语:one
+gist 芝加哥失去了其中一个（节日）。
+mod In 2023 → lost | 时间状语 | 在2023年
+mod of its most beloved street festivals → one | 介词短语作定语 | 最受喜爱的街头节日之一
+cn 2023年，芝加哥失去了最受喜爱的街头节日之一。
+
+# 2026-4|0:1
+type 主从复合句
+chunks The Silver Room Block Party,〔主〕 staged by Hyde Park community leader Eric Williams,〔修〕 announced〔主〕 it would not return in 2024.〔C1〕
+main 主语:The Silver Room Block Party | 谓语:announced | 宾语:C1
+gist Silver Room街区派对宣布了（一件事）——内容是从句①。
+C1 宾语从句 | 作 announced 的宾语 | （省略 that） | 前面announced缺宣布内容，后面it would not return主谓齐全，省略that。 | 主语:it | 谓语:would not return
+mod staged by Hyde Park community leader Eric Williams → Party | 过去分词作定语 | 由威廉斯举办的街区活动
+mod in 2024 → return | 时间状语 | 2024年不再回归
+cn 由海德公园社区领袖埃里克·威廉斯主办的Silver Room街区派对宣布，2024年将不再举办。
+
+# 2026-4|0:2
+type 主从复合句
+chunks What began as a small neighborhood gathering〔C1〕 blossomed〔主〕 into a massive cultural event, welcoming tens of thousands of people each year over nearly two decades before abruptly shutting down.〔修〕
+main 主语:C1 | 谓语:blossomed
+gist （某项事物）蓬勃发展——主语是从句①。
+C1 主语从句 | 作 blossomed 的主语 | What | 后面blossomed为主句谓语，前面What began缺主语，What同时指当初的活动并作began主语，整块作主句主语。 | 主语:What | 谓语:began
+mod as a small neighborhood gathering → began | 身份状语 | 最初是小型社区聚会
+mod into a massive cultural event → blossomed | 结果状语 | 发展成大型文化活动
+mod welcoming tens of thousands of people each year over nearly two decades → event | 现在分词作补充说明 | 近二十年每年迎接成千上万人
+mod before abruptly shutting down → blossomed | 时间状语 | 随后突然停办
+cn 活动从小型邻里聚会发展为大型文化盛事，近二十年来每年吸引成千上万人，随后却突然停办。
+
+# 2026-4|1:0
+type 主从复合句
+chunks Williams pointed〔主〕 to rising production costs and declining attendee donations as primary reasons〔修〕 the Silver Room Block Party could not continue,〔C1〕 highlighting a reality〔修〕 that all street festival organizers face right now.〔C2〕
+main 主语:Williams | 谓语:pointed
+gist 威廉斯指出了（某些因素）。
+C1 定语从句 | 修饰 reasons | 无 | 前面是reasons，后面Party could not continue主谓齐全，省略why说明不能延续的原因。 | 主语:the Silver Room Block Party | 谓语:could not continue
+C2 定语从句 | 修饰 reality | that | 前面是reality，后面organizers face缺宾语，that指这一现实。 | 主语:all street festival organizers | 谓语:face | 宾语:that
+mod to rising production costs and declining attendee donations as primary reasons → pointed | 介词短语作补充说明 | 把成本增加、捐款下降指出为主要原因
+mod highlighting a reality → 整句 | 现在分词作补充说明 | 这一例子凸显共同现实
+cn 威廉斯指出，制作成本上涨与参与者捐款下降，是活动无法延续的主要原因，也凸显所有街头节日组织者面临的现实。
+
+# 2026-4|1:1
+type 简单句
+chunks The cost〔主〕 of producing a street festival in Chicago〔修〕 has skyrocketed.〔主〕
+main 主语:The cost | 谓语:has skyrocketed
+gist 成本已急剧上升。
+mod of producing a street festival in Chicago → cost | 介词短语作定语 | 在芝加哥制作街头活动的成本
+cn 在芝加哥举办街头节日的成本已急剧上升。
+
+# 2026-4|1:2
+type 简单句
+chunks Security, entertainment, portable restrooms, insurance and even basics〔主〕 such as fencing and staffing〔修〕 have all become significantly more expensive.〔主〕
+main 主语:Security, entertainment, portable restrooms, insurance and even basics | 谓语:have … become | 表语:significantly more expensive
+gist 安保、娱乐、移动厕所、保险乃至基本项目都明显变贵了。
+mod such as fencing and staffing → basics | 举例说明 | 基础项目包括围栏和人员配置
+cn 安保、娱乐、移动厕所、保险，乃至围栏和人手等基础项目，都明显更贵了。
+
+# 2026-4|1:3
+type 简单句
+chunks At the same time,〔修〕 donations〔主〕 at festival gates〔修〕 have dropped dramatically.〔主〕
+main 主语:donations | 谓语:have dropped
+gist 捐款已经下降。
+mod At the same time → 整句 | 时间状语 | 与成本上升同时发生
+mod at festival gates → donations | 介词短语作定语 | 节日入口处的捐款
+cn 与此同时，活动入口处收到的捐款大幅下降。
+
+# 2026-4|2:0
+type 主从复合句
+chunks Chicago's summer festivals are about more than just entertainment; they are economic engines〔主〕 that directly benefit the neighborhoods〔C1〕 they're in〔C2〕 and the city of Chicago as a whole.〔C1〕
+main 主语:Chicago's summer festivals | 谓语:are | 表语:about more than just entertainment || 主语:they | 谓语:are | 表语:economic engines
+gist 芝加哥的夏季节日不只是娱乐；它们也是经济引擎。
+C1 定语从句 | 修饰 engines | that | 前面是engines，that后benefit缺主语，that指经济引擎。 | 主语:that | 谓语:benefit | 宾语:the neighborhoods … the city of Chicago
+C2 定语从句 in C1 | 修饰 neighborhoods | （省略 that） | 前面是neighborhoods，后面they are in缺介词in宾语，省略关系词指所在社区。 | 主语＋谓语:they're
+mod as a whole → city | 范围状语 | 作为一个整体的城市
+cn 芝加哥的夏季节日不只是娱乐，也是直接惠及举办社区和全市的经济引擎。
+
+# 2026-4|2:1
+type 主从复合句
+chunks Street festivals drive foot traffic〔主〕 to local businesses〔修〕 and foster the kind〔主〕 of cultural vibrancy〔修〕 that makes our city special.〔C1〕
+main 主语:Street festivals | 谓语:drive … foster | 宾语:foot traffic … the kind
+gist 街头节日带来人流，并培养某种（活力）。
+C1 定语从句 | 修饰 cultural vibrancy | that | 前面是cultural vibrancy，that后makes缺主语，that指文化活力。 | 主语:that | 谓语:makes | 宾语:our city | 宾补:special
+mod to local businesses → traffic | 方向状语 | 为本地商家吸引人流
+mod of cultural vibrancy → kind | 介词短语作定语 | 这一类文化活力
+cn 街头节日为当地商家带来人流，也培养了让这座城市独特的文化活力。
+
+# 2026-4|3:0
+type 主从复合句
+chunks We often hear people ask〔主〕 why we solicit donations at our entry points,〔C1〕 especially〔主〕 when the city's largest festivals like the Chicago Jazz Festival do not request donations.〔C2〕
+main 主语:We | 谓语:hear | 宾语:people | 宾补:ask
+gist 我们听到人们提问。
+C1 宾语从句 | 作 ask 的宾语 | why | 前面ask缺所问内容，why后we solicit donations主谓宾齐全，why作原因状语。 | 主语:we | 谓语:solicit | 宾语:donations
+C2 时间状语从句 | 说明质问的对照背景 | when | 前面表示人们质问，when后festivals do not request主谓宾齐全，说明尤其在大型节日不募捐时的对照情境。 | 主语:the city's largest festivals | 谓语:do not request | 宾语:donations
+mod at our entry points → solicit | 地点状语 | 在活动入口募捐
+mod like the Chicago Jazz Festival → festivals | 举例说明 | 例如芝加哥爵士音乐节
+cn 我们常听人问，为什么在入口募捐，尤其大型芝加哥爵士音乐节等并不要求捐款。
+
+# 2026-4|3:1
+type 主从复合句
+chunks The fact is,〔主〕 unlike those large, city-produced music festivals, your neighborhood street festivals receive no city funding and rely on a combination of sponsorships, vendor fees and gate donations to cover their costs.〔C1〕
+main 主语:The fact | 谓语:is | 表语:C1
+gist 事实是（一种情况）——内容是从句①。
+C1 表语从句 | 作 is 的表语 | （省略 that） | 前面The fact is需要内容作表语，后面festivals receive和rely主谓齐全，省略that，unlike短语为从句内对照状语。 | 主语:your neighborhood street festivals | 谓语:receive … rely | 宾语:no city funding
+mod unlike those large, city-produced music festivals → festivals | 比较状语 | 不同于大型市政音乐节
+mod on a combination of sponsorships, vendor fees and gate donations → rely | 介词短语作状语 | 依赖赞助、摊位费和入口捐款三项组合
+mod to cover their costs → rely | 不定式作目的状语 | 为支付成本
+cn 事实是，邻里街头节日不同于市政府举办的大型音乐节，没有市政资金，只能靠赞助、摊位费和入口捐款共同支付成本。
+
+# 2026-4|4:0
+type 简单句
+chunks Wicker Park Fest has long been one〔主〕 of Chicago's most anticipated summer festivals, drawing upward of 70,000 attendees for a full weekend of live indie music, local art, small business vendors and, most importantly, community connection.〔修〕
+main 主语:Wicker Park Fest | 谓语:has … been | 表语:one
+gist Wicker Park节一直是其中一个（节日）。
+mod of Chicago's most anticipated summer festivals → one | 介词短语作定语 | 最受期待的夏季节日之一
+mod drawing upward of 70,000 attendees → Fest | 现在分词作补充说明 | 吸引超过七万名参与者
+mod for a full weekend of live indie music, local art, small business vendors and, most importantly, community connection → drawing | 活动内容状语 | 一个完整周末的音乐、艺术、商家及最重要的社区联系
+cn Wicker Park节长期是芝加哥最受期待的夏季节日之一，整个周末吸引七万多人享受独立音乐、本地艺术、小商户及社区联结。
+
+# 2026-4|4:1
+type 简单句
+chunks In 2024,〔修〕 Wicker Park Fest saw record-breaking attendance.〔主〕
+main 主语:Wicker Park Fest | 谓语:saw | 宾语:record-breaking attendance
+gist Wicker Park节迎来了创纪录的参与人数。
+mod In 2024 → saw | 时间状语 | 2024年
+cn 2024年，Wicker Park节参与人数打破纪录。
+
+# 2026-4|4:2
+type 简单句
+chunks Despite the turnout,〔修〕 gate donations reached their lowest point〔主〕 in our history.〔修〕
+main 主语:gate donations | 谓语:reached | 宾语:their lowest point
+gist 入口捐款降至最低点。
+mod Despite the turnout → 整句 | 让步状语 | 虽然参与人数多
+mod in our history → lowest | 范围状语 | 在活动历史中最低
+cn 尽管观众众多，入口捐款却降至活动历史最低点。
+
+# 2026-4|4:3
+type 简单句
+chunks This year,〔修〕 we've been forced to scale back the footprint〔主〕 of the fest.〔修〕
+main 主语＋谓语:we've | 谓语:been forced | 主语补足语:to scale back the footprint
+gist 我们被迫缩减规模。
+mod This year → forced | 时间状语 | 今年
+mod of the fest → footprint | 介词短语作定语 | 节庆活动占用的范围和规模
+point we've = we have，have been forced是现在完成时被动谓语；to scale back补充被迫做什么。
+cn 今年，我们被迫缩减节日的活动规模。
+
+# 2026-4|4:4
+type 主从复合句
+chunks We are eliminating a stage, booking fewer performers and making additional cuts〔主〕 to reduce our costs, all while striving to keep the festival as vibrant as ever, as supportive of local artists and businesses, and as true to Wicker Park's unique spirit and reputation〔修〕 as festgoers have come to expect.〔C1〕
+main 主语:We | 谓语:are eliminating … booking … making | 宾语:a stage … fewer performers … additional cuts
+gist 我们正在撤去一个舞台、减少受邀表演者，并作出额外削减。
+C1 比较状语从句 | 说明保持地方精神的比较标准 | as | 前面as true to…形成比较，as后festgoers have come to expect缺期望的内容，as引出节日参与者一贯期望的标准。 | 主语:festgoers | 谓语:have come | 宾语:to expect
+mod to reduce our costs → making | 不定式作目的状语 | 削减项目为了降低成本
+mod all while striving to keep the festival as vibrant as ever, as supportive of local artists and businesses, and as true to Wicker Park's unique spirit and reputation → 整句 | 时间状语从句的省略 | 省略we are，表示削减同时仍努力保持节日各项品质
+point are与eliminating、booking、making三个分词共用；keep后festival为宾语，vibrant、supportive、true为并列宾补，不能漏后两项。
+cn 我们正撤去一个舞台、减少受邀表演者并继续削减开支，同时努力保持节日活力、支持本地艺术家商家，以及人们所期待的Wicker Park精神。
+
+# 2026-4|5:0
+type 主从复合句
+chunks This summer,〔修〕 as you enjoy your favorite neighborhood street festival,〔C1〕 I hope〔主〕 you'll remember〔C2〕 that they exist because of community support.〔C3〕
+main 主语:I | 谓语:hope | 宾语:C2
+gist 我希望（一件事）——内容是从句②。
+C1 时间状语从句 | 说明寄语发生的情境 | as | 后面I hope是主句，as后you enjoy festival主谓宾齐全，表示享受节日时。 | 主语:you | 谓语:enjoy | 宾语:your favorite neighborhood street festival
+C2 宾语从句 | 作 hope 的宾语 | （省略 that） | 前面hope缺希望内容，后面you will remember有主谓，省略that。 | 主语＋谓语:you'll | 谓语:remember | 宾语:C3
+C3 宾语从句 in C2 | 作 remember 的宾语 | that | 前面remember缺记住内容，that后they exist主谓齐全，that不作成分。 | 主语:they | 谓语:exist
+mod This summer → 整句 | 时间状语 | 今年夏天
+mod because of community support → exist | 原因状语 | 因社区支持而存在
+cn 今夏，当你享受喜爱的邻里街头节日时，希望你记得：它们能存在，是因为社区支持。
+
+# 2026-4|5:1
+type 主从复合句
+chunks A thriving summer festival season doesn't happen〔主〕 by accident;〔修〕 it happens〔主〕 when we all chip in.〔C1〕
+main 主语:A thriving summer festival season | 谓语:doesn't happen || 主语:it | 谓语:happens
+gist 繁盛的夏季节日不会自行发生；它会发生（条件另见从句）。
+C1 时间状语从句 | 说明节庆兴盛出现的时间条件 | when | 前面it happens主谓齐全，when后we chip in有主谓，说明大家共同出力时节日才能兴盛。 | 主语:we | 谓语:chip in
+mod by accident → happen | 方式状语 | 偶然地发生，受到doesn’t否定
+cn 繁盛的夏季节日并非偶然发生，而是在我们每个人都出一份力时才会出现。

@@ -1,0 +1,14 @@
+{
+  "purpose": "用户2026-11-01明确允许严格一次性范围核对；仅本轮P2复核修订；后续不得自行刷新授权记录",
+  "head": "2be86bae92fbe4c2c7d2efb3883129e65b55d0f0",
+  "files": {
+    "build/check.py": {
+      "sha256": "b54a78bae5867786b2d1cce81fa630506679c05525742748ec15e9e8c7143357",
+      "patch_sha256": "5e5d764bfe4460d1ea01550ff0a15357f2c30942b9b8755b872ff8c084c406a3"
+    },
+    "build/build.py": {
+      "sha256": "84364a03ae4dc78eac9f65ef3219a1edb95ebd2018d399d84a2baadacea0aeeb",
+      "patch_sha256": "7e7bb3664e6e0dcb45dccf83ed1ff30e25a79d1fc7fea3d73bfd2b5f216c937f"
+    }
+  }
+}

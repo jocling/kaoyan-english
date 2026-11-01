@@ -1,0 +1,758 @@
+# 2023-1|0:0
+type 并列复合句｜并列主句中嵌套强调句
+chunks In the quest for the perfect lawn,〔修〕 homeowners across the country are taking a shortcut — and it is the environment that is paying the price.〔主〕
+main 主语:homeowners | 谓语:are taking | 宾语:a shortcut || 主语:the environment | 谓语:is paying | 宾语:the price
+gist 住户正在走捷径；环境正在付出代价。
+mod In the quest for the perfect lawn → are taking | 目的状语 | 为了追求完美草坪
+mod across the country → homeowners | 介词短语作定语 | 全国各地的住户
+point and 连接两个分句。后半是 it is the environment that…强调句，去掉 it is 和 that，剩下 the environment is paying the price；主干栏按还原后主语、谓语、宾语列出。that 是强调结构标志，不按普通定语从句判断。
+cn 全国各地的住户为了追求完美草坪而走捷径，付出代价的却是环境。
+
+# 2023-1|0:1
+type 并列句｜but 连接两套主谓
+chunks About eight million square metres of plastic grass is sold each year〔主〕 but〔连〕 opposition has now spread to the highest gardening circles.〔主〕
+main 主语:About eight million square metres | 谓语:is sold || &but || 主语:opposition | 谓语:has … spread
+gist 约八百万平方米被售出；但反对声音已经扩散。
+mod of plastic grass → square metres | 介词短语作定语 | 计量的是塑料草坪面积
+mod each year → is sold | 时间状语 | 每年销售
+mod to the highest gardening circles → spread | 介词短语作状语 | 反对声音扩散到园艺界最高层
+point 主语是面积数量短语；原句用 is 把销售面积看作整体，不把 grass 单独当主语。
+cn 每年约售出八百万平方米塑料草坪，但反对声音如今已传到园艺界最高层。
+
+# 2023-1|0:2
+type 简单句｜现在分词补充说明禁令立场
+chunks The Chelsea Flower Show has banned fake grass from this year’s event,〔主〕 declaring it to be not part of its ethos.〔修〕
+main 主语:The Chelsea Flower Show | 谓语:has banned | 宾语:fake grass
+gist 切尔西花展已禁止人造草坪。
+mod from this year’s event → has banned | 介词短语作状语 | 禁止在本届展会上使用
+mod declaring it to be not part of its ethos → The Chelsea Flower Show | 现在分词短语作状语 | 花展方声明这不符合其理念；declaring 不独立承担时态
+cn 切尔西花展已禁止本届展会使用人造草坪，并声明人造草坪不符合其理念。
+
+# 2023-1|0:3
+type 主从复合句｜定语从句和嵌套宾语从句
+chunks The Royal Horticultural Society (RHS),〔主〕 which runs the annual show in west London,〔C1〕 says〔主〕 it has introduced the ban because of the damage〔C2〕 plastic grass does to the environment and biodiversity.〔C3〕
+main 主语:The Royal Horticultural Society | 谓语:says | 宾语:C2
+gist 皇家园艺学会说了（一件事）——内容是从句②。
+C1 定语从句 | 补充说明学会 | which | 前面是名词 Society，which 后 runs 缺主语，which 指学会并作主语 | 主语:which | 谓语:runs | 宾语:the annual show
+C2 宾语从句 | 作 says 的宾语 | （省略 that） | 前面 says 缺所说内容，后面 it has introduced 主谓宾齐全，省略不作成分的 that | 主语:it | 谓语:has introduced | 宾语:the ban
+C3 定语从句 in C2 | 修饰 damage | （省略 that） | 前面是名词 damage，后面 plastic grass does 缺宾语，省略的关系词指 damage | 主语:plastic grass | 谓语:does
+mod in west London → show | 介词短语作定语 | 在伦敦西部举办的年度展会
+mod because of the damage → has introduced | 原因状语 | 出台禁令是因为环境与生物多样性受损
+cn 在伦敦西部举办该年度展会的皇家园艺学会说，出台禁令是因为塑料草坪对环境和生物多样性的损害。
+
+# 2023-1|1:0
+type 主从复合句｜直接引语含并列分句
+chunks Ed Home,〔主〕 of the RHS,〔修〕 said:〔主〕 “We launched our sustainability strategy last year and fake grass is just not in line with our ethos and views on plastic.〔C1〕
+main 主语:Ed Home | 谓语:said | 宾语:C1
+gist 埃德·霍姆说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 said 的内容 | 无 | 前面 said 引出所说内容，冒号后的引语含 We launched 和 fake grass is 两套完整主谓，不靠 that 引导 | 主语:We | 谓语:launched | 宾语:our sustainability strategy | 主语:fake grass | 谓语:is | 表语:not in line with our ethos and views
+mod of the RHS → Ed Home | 介词短语作定语 | 来自皇家园艺学会
+mod last year → launched | 时间状语 | 去年推出战略
+mod on plastic → views | 介词短语作定语 | 对塑料的看法
+point 本条引号未闭合，因为引语在下一句继续；引语中 and 后有新主语 fake grass，是并列分句。
+cn 皇家园艺学会的埃德·霍姆说：“我们去年启动了可持续发展战略，人造草坪完全不符合我们的理念和对塑料的看法。
+
+# 2023-1|1:1
+type 主从复合句｜which 补充说明 benefits
+chunks We recommend using real grass because of its environmental benefits,〔主〕 which include supporting wildlife, alleviating flooding and cooling the environment.”〔C1〕
+main 主语:We | 谓语:recommend | 宾语:using real grass
+gist 我们建议使用天然草坪。
+C1 定语从句 | 补充说明 environmental benefits | which | 前面是名词 benefits，which 后 include 缺主语，which 指这些环境益处 | 主语:which | 谓语:include | 宾语:supporting wildlife … alleviating flooding and cooling the environment
+mod because of its environmental benefits → recommend | 原因状语 | 推荐天然草坪是因为它有环境益处
+point using real grass 整体作 recommend 的宾语，using 没有独立时态；include 后三项动名词并列。
+cn 我们建议使用天然草坪，因为它具有支持野生生物、缓解洪水和为环境降温等环境益处。”
+
+# 2023-1|2:0
+type 主从复合句｜as 状语从句内嵌定语从句
+chunks The RHS’s decision comes〔主〕 as campaigners try to raise awareness of the problems〔C1〕 fake grass causes.〔C2〕
+main 主语:The RHS’s decision | 谓语:comes
+gist 皇家园艺学会的决定出台了。
+C1 时间状语从句 | 说明决定出现时的背景 | as | 前面 decision comes 已能成句，as 后 campaigners try 主谓齐全，as 引出同时发生的背景 | 主语:campaigners | 谓语:try | 宾语:to raise awareness
+C2 定语从句 in C1 | 修饰 problems | （省略 that） | 前面是名词 problems，后面 fake grass causes 缺宾语，省略关系词指这些问题 | 主语:fake grass | 谓语:causes
+mod of the problems → awareness | 介词短语作定语 | 对人造草坪所致问题的认识
+cn 学会作出这一决定之际，活动人士正努力提高公众对人造草坪引发问题的认识。
+
+# 2023-1|2:1
+type 主从复合句｜插入定语从句
+chunks A Twitter account,〔主〕 which claims to “cut through the greenwash” of artificial grass,〔C1〕 already has more than 20,000 followers.〔主〕
+main 主语:A Twitter account | 谓语:has | 宾语:more than 20,000 followers
+gist 一个推特账号有两万多名关注者。
+C1 定语从句 | 补充说明 account | which | 前面是名词 account，which 后 claims 缺主语，which 指该账号 | 主语:which | 谓语:claims | 宾语:to “cut through the greenwash”
+mod of artificial grass → greenwash | 介词短语作定语 | 人造草坪相关的漂绿宣传
+cn 一个声称要“揭穿人造草坪漂绿宣传”的推特账号，已有两万多名关注者。
+
+# 2023-1|2:2
+type 简单句｜两项独立主格补充 petitions
+chunks It is trying to encourage people to sign two petitions,〔主〕 one calling for a ban on the sale of plastic grass and another calling for an “ecological damage” tax on such lawns.〔修〕
+main 主语:It | 谓语:is trying | 宾语:to encourage people to sign two petitions
+gist 它正在尝试鼓励人们签署两份请愿书。
+mod one calling for a ban on the sale of plastic grass → two petitions | 独立主格作补充说明 | 一份要求禁止销售塑料草坪；one 指一份请愿书，calling 不带时态
+mod another calling for an “ecological damage” tax on such lawns → two petitions | 独立主格作补充说明 | 另一份要求对这类草坪征生态损害税
+cn 该账号正努力鼓励人们签署两份请愿书，一份要求禁售塑料草坪，另一份要求对这类草坪征收“生态损害”税。
+
+# 2023-1|2:3
+type 简单句｜并列数量共用 signatures
+chunks They have gathered 7,276 and 11,282 signatures.〔主〕
+main 主语:They | 谓语:have gathered | 宾语:7,276 and 11,282 signatures
+gist 它们已收集到7276个和11282个签名。
+point 两个数量分别对应前句两份请愿书，不相加后解释为某一份的数量。
+cn 两份请愿书分别收集了7276个和11282个签名。
+
+# 2023-1|3:0
+type 主从复合句｜that 宾语从句中嵌套 which 定语从句
+chunks However, supporters of fake grass point out〔主〕 that there is also an environmental impact with natural lawns,〔C1〕 which need mowing and therefore usually consume electricity or petrol.〔C2〕
+main 主语:supporters | 谓语:point out | 宾语:C1
+gist 支持者指出了（一件事）——内容是从句①。
+C1 宾语从句 | 作 point out 的宾语 | that | 前面 point out 缺所指出的内容，that 后是完整 there be 结构，that 不作成分 | 谓语:is | 主语:an environmental impact
+C2 定语从句 in C1 | 补充说明 natural lawns | which | 前面是名词 lawns，which 后 need 缺主语；which 指天然草坪，need 与 consume 共用它 | 主语:which | 谓语:need … consume | 宾语:mowing … electricity or petrol
+mod of fake grass → supporters | 介词短语作定语 | 人造草坪的支持者
+mod with natural lawns → impact | 介词短语作定语 | 天然草坪带来的影响
+point there 是存在句引导词，不是环境影响的发出者；need mowing 相当于 need to be mown。
+cn 不过，人造草坪的支持者指出，天然草坪也会产生环境影响，因为天然草坪需要修剪，通常因此消耗电力或汽油。
+
+# 2023-1|3:1
+type 主从复合句｜两个并列 that 宾语从句
+chunks The industry also points out〔主〕 that real grass requires considerable amounts of water, weed killer or other treatments〔C1〕 and〔连〕 that people〔C2〕 who lay fake grass〔C3〕 tend to use their garden more.〔C2〕
+main 主语:The industry | 谓语:points out | 宾语:C1 | 宾语:C2
+gist 该行业指出了（两件事）——内容分别是从句①和②。
+C1 宾语从句 | 作 points out 的第一个宾语 | that | 前面 points out 缺所说内容，that 后 real grass requires 主谓宾齐全，that 不作成分 | 主语:real grass | 谓语:requires | 宾语:considerable amounts
+C2 宾语从句 | 与 C1 并列作 points out 的宾语 | that | and that 与前一个 that 对应，后面 people tend 主谓齐全，that 不作成分 | 主语:people | 谓语:tend | 宾语:to use their garden
+C3 定语从句 in C2 | 修饰 people | who | 前面是名词 people，who 后 lay 缺主语，who 指铺草坪的人 | 主语:who | 谓语:lay | 宾语:fake grass
+mod of water, weed killer or other treatments → amounts | 介词短语作定语 | 大量的水、除草剂或其他养护用品
+point tend 才是 C2 中带时态的谓语，to use 是它后面的不定式；不能把 who lay 当主句。
+cn 该行业还指出，天然草坪需要大量水、除草剂或其他养护用品，而铺设人造草坪的人往往更常使用花园。
+
+# 2023-1|3:2
+type 主从复合句｜宾语从句中两处定语从句
+chunks The industry also claims〔主〕 that people〔C1〕 who lay fake grass〔C2〕 spend an average of £500 on trees or shrubs for their garden,〔C1〕 which provides habitat for insects.〔C3〕
+main 主语:The industry | 谓语:claims | 宾语:C1
+gist 该行业声称了（一件事）——内容是从句①。
+C1 宾语从句 | 作 claims 的宾语 | that | 前面 claims 缺声称的内容，that 后 people spend 主谓宾齐全，that 不作成分 | 主语:people | 谓语:spend | 宾语:an average of £500
+C2 定语从句 in C1 | 修饰 people | who | 前面是名词 people，who 后 lay 缺主语，who 指这些人 | 主语:who | 谓语:lay | 宾语:fake grass
+C3 定语从句 in C1 | 补充说明 garden | which | 前面最近的单数名词 garden 与 provides 呼应，which 后 provides 缺主语，which 指花园 | 主语:which | 谓语:provides | 宾语:habitat
+mod on trees or shrubs → spend | 介词短语作状语 | 钱花在树木或灌木上
+mod for their garden → trees or shrubs | 介词短语作定语 | 为花园购买的树木或灌木
+cn 该行业还声称，铺人造草坪的人平均花500英镑为花园购置树木或灌木，花园则为昆虫提供栖息地。
+
+# 2023-1|4:0
+type 主从复合句｜状语中的定语从句和主句宾语从句
+chunks In response to another petition last year about banning fake lawns,〔修〕 which gathered 30,000 signatures,〔C1〕 the government responded〔主〕 that it has “no plans to ban the use of artificial grass”.〔C2〕
+main 主语:the government | 谓语:responded | 宾语:C2
+gist 政府回应了（一件事）——内容是从句②。
+C1 定语从句 | 补充说明 petition | which | 前面是名词 petition，which 后 gathered 缺主语，which 指另一份请愿书 | 主语:which | 谓语:gathered | 宾语:30,000 signatures
+C2 宾语从句 | 作 responded 的宾语 | that | 前面 responded 引出回应内容，that 后 it has 主谓宾齐全，that 不作成分 | 主语:it | 谓语:has | 宾语:no plans
+mod In response to another petition last year about banning fake lawns → responded | 背景状语 | 回应去年另一份要求禁止人造草坪的请愿书
+mod to ban the use of artificial grass → plans | 不定式作定语 | 没有哪种计划：禁止使用人造草坪
+cn 对于去年另一份收集了三万个签名、要求禁止人造草坪的请愿书，政府回应说，没有“禁止使用人造草坪的计划”。
+
+# 2023-1|5:0
+type 主从复合句｜直接引语作所补充的内容
+chunks It added:〔主〕 “We prefer to help people and organisations make the right choice rather than legislating on such matters.〔C1〕
+main 主语:It | 谓语:added | 宾语:C1
+gist 它补充了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 added 的内容 | 无 | 前面 added 引出补充内容，冒号后 We prefer 主谓齐全，是直接引语而非关系词从句 | 主语:We | 谓语:prefer | 宾语:to help people and organisations make the right choice
+mod rather than legislating on such matters → prefer | 比较选择状语 | 倾向帮助选择而非立法干预
+point help 后 people and organisations 是宾语，make the right choice 是省略 to 的不定式补足语；make 不是另一主句谓语。
+cn 政府补充说：“我们更愿意帮助个人和组织作出正确选择，而非就这类事情立法。
+
+# 2023-1|5:1
+type 主从复合句｜while 对比两方面要求
+chunks However, the use of artificial grass must comply with the legal and policy safeguards in place to protect biodiversity and ensure sustainable drainage,〔主〕 while measures such as the strengthened biodiversity duty should serve to encourage public authorities to consider sustainable alternatives.”〔C1〕
+main 主语:the use | 谓语:must comply
+gist 这种使用必须合规。
+C1 状语从句（对比） | 对照法律遵守与政策引导两方面 | while | 前面 the use must comply 已是完整句，while 后 measures should serve 主谓齐全，用 while 对照另一项要求 | 主语:measures | 谓语:should serve
+mod of artificial grass → use | 介词短语作定语 | 人造草坪的使用
+mod with the legal and policy safeguards → comply | 介词短语作状语 | 遵守法律和政策保障规定
+mod in place → safeguards | 后置定语 | 已经生效的规定
+mod to protect biodiversity and ensure sustainable drainage → safeguards | 不定式作定语 | 保障规定旨在保护生物多样性和确保可持续排水
+mod such as the strengthened biodiversity duty → measures | 举例说明 | 如强化后的生物多样性保护职责
+mod to encourage public authorities to consider sustainable alternatives → serve | 不定式作状语 | 发挥鼓励公共机构考虑可持续替代方案的作用
+cn 不过，使用人造草坪必须遵守现行法律和政策保障规定，以保护生物多样性、确保可持续排水；强化后的生物多样性保护职责等措施，则应促使公共机构考虑可持续替代方案。”
+
+# 2023-2|0:0
+type 简单句｜it 形式主语和后置真正主语
+chunks It’s easy〔主〕 to dismiss as absurd the federal government’s ideas for plugging the chronic funding gap of our national parks.〔修〕
+main 主语＋谓语:It’s | 表语:easy | 真正主语:to dismiss as absurd the federal government’s ideas
+gist 把联邦政府的想法斥为荒谬是容易的。
+mod for plugging the chronic funding gap of our national parks → ideas | 介词短语作定语 | 用来弥补国家公园长期资金缺口的想法
+point It’s = It is，is 是主句谓语。dismiss A as B 中长宾语 ideas…放在 as absurd 后，不要把 absurd 当 ideas 的定语。
+cn 联邦政府想弥补国家公园长期资金缺口，这些想法很容易被斥为荒谬。
+
+# 2023-2|0:1
+type 主从复合句｜疑问主句中嵌套宾语从句
+chunks Can anyone really think〔主〕 it’s a good idea to allow Amazon deliveries to your tent in Yosemite or food trucks to line up under the redwood trees at Sequoia National Park?〔C1〕
+main 主语:anyone | 谓语:Can … think | 宾语:C1
+gist 真有人能认为（一件事）吗——内容是从句①？
+C1 宾语从句 | 作 think 的宾语 | （省略 that） | 前面 think 缺所想内容，后面 it’s a good idea 主系表齐全，省略不作成分的 that | 主语＋谓语:it’s | 表语:a good idea | 真正主语:to allow Amazon deliveries … or food trucks to line up
+mod to your tent in Yosemite → deliveries | 介词短语作定语 | 送到约塞米蒂帐篷的快递
+mod under the redwood trees at Sequoia National Park → line up | 地点状语 | 餐车停在红杉国家公园的红杉树下
+point allow 后连接 deliveries 和 food trucks 两个许可对象；to line up 只补充餐车做什么。问句语气表达质疑。
+cn 难道真有人会觉得，让亚马逊快递送到约塞米蒂公园的帐篷，或让餐车在红杉国家公园的红杉树下排开，是好主意吗？
+
+# 2023-2|1:0
+type 并列句｜冒号后的独立分句解释 one thing
+chunks But the government is right about one thing: U.S. national parks are in crisis.〔主〕
+main 主语:the government | 谓语:is | 表语:right || 主语:U.S. national parks | 谓语:are | 表语:in crisis
+gist 政府是对的；美国国家公园正处于危机中。
+mod about one thing → right | 介词短语作状语 | 在一点上判断正确
+cn 但政府有一点说得对：美国国家公园正处于危机之中。
+
+# 2023-2|1:1
+type 简单句｜have 表示积压着待维修事项
+chunks Collectively,〔修〕 they have a maintenance backlog of more than $ 12 billion.〔主〕
+main 主语:they | 谓语:have | 宾语:a maintenance backlog
+gist 它们有积压的维修项目。
+mod of more than $ 12 billion → backlog | 介词短语作定语 | 积压维修所需资金超过120亿美元
+cn 总体而言，国家公园积压的维修项目所需资金超过120亿美元。
+
+# 2023-2|1:2
+type 简单句｜多个设施并列作主语
+chunks Roads, trails, restrooms, visitor centers and other infrastructure are crumbling.〔主〕
+main 主语:Roads, trails, restrooms, visitor centers and other infrastructure | 谓语:are crumbling
+gist 道路、步道、厕所、游客中心和其他基础设施正在破败。
+cn 道路、小径、卫生间、游客中心和其他基础设施正在破败。
+
+# 2023-2|2:0
+type 简单句｜两个动名词并列组成主语
+chunks But privatizing and commercializing the campgrounds would not be a cure-all.〔主〕
+main 主语:privatizing and commercializing the campgrounds | 谓语:would not be | 表语:a cure-all
+gist 将营地私有化和商业化不会是万灵药。
+point privatizing 和 commercializing 是并列动名词，整块作主语；would not be 才是有时态的谓语。
+cn 但将营地私有化和商业化并非万能药。
+
+# 2023-2|2:1
+type 并列句｜and 后 businesses 是新主语
+chunks Campgrounds are a tiny portion of the overall infrastructure backlog,〔主〕 and〔连〕 businesses in the parks hand over, on average, only about 5% of their revenues to the National Park Service.〔主〕
+main 主语:Campgrounds | 谓语:are | 表语:a tiny portion || &and || 主语:businesses | 谓语:hand over | 宾语:only about 5%
+gist 营地只是一小部分；而企业只上缴约5%。
+mod of the overall infrastructure backlog → portion | 介词短语作定语 | 整个基础设施维修积压的一小部分
+mod in the parks → businesses | 介词短语作定语 | 公园里的企业
+mod on average → hand over | 插入状语 | 平均而言
+mod of their revenues → 5% | 介词短语作定语 | 营业收入的约5%
+mod to the National Park Service → hand over | 介词短语作状语 | 上缴给国家公园管理局
+cn 营地仅占全部基础设施维修积压的一小部分，而公园里的企业平均只向国家公园管理局上缴约5%的收入。
+
+# 2023-2|3:0
+type 主从复合句｜why 修饰 reasons，that 修饰 drumbeat
+chunks Moreover, increased privatization would certainly undercut one of the major reasons〔主〕 why 300 million visitors come to the parks each year:〔C1〕 to enjoy nature and get a break from the commercial drumbeat〔修〕 that overwhelms daily life.〔C2〕
+main 主语:increased privatization | 谓语:would … undercut | 宾语:one
+C1 定语从句 | 修饰 reasons | why | 前面是名词 reasons，why 后 visitors come 主谓齐全但需表达来访原因，why 作原因状语 | 主语:300 million visitors | 谓语:come
+C2 定语从句 | 修饰 drumbeat | that | 前面是名词 drumbeat，that 后 overwhelms 缺主语，that 指商业宣传的喧嚣 | 主语:that | 谓语:overwhelms | 宾语:daily life
+gist 增加私有化会损害一个（理由）。
+mod of the major reasons → one | 介词短语作定语 | 主要理由之一
+mod to the parks each year → come | 地点和时间状语 | 每年来公园
+mod to enjoy nature and get a break from the commercial drumbeat → reasons | 不定式作补充说明 | 来访是为了享受自然，暂时摆脱商业喧嚣
+cn 此外，加大私有化肯定会损害每年三亿游客前来公园的一个主要理由：享受自然，暂时摆脱充斥日常生活的商业喧嚣。
+
+# 2023-2|4:0
+type 主从复合句｜that 表语从句
+chunks The real problem is〔主〕 that the parks have been chronically starved of funding.〔C1〕
+main 主语:The real problem | 谓语:is | 表语:C1
+gist 真正的问题是（一种情况）——内容是从句①。
+C1 表语从句 | 作 is 的表语 | that | 前面是系动词 is，后面 parks have been starved 主谓齐全，that 不作成分，引出问题的具体内容 | 主语:the parks | 谓语:have been … starved
+mod of funding → starved | 介词短语作状语 | 匮乏的是资金
+cn 真正的问题是国家公园长期资金匮乏。
+
+# 2023-2|4:1
+type 主从复合句｜宾语从句逐层嵌套
+chunks An economic survey of 700 U.S. taxpayers found〔主〕 that people would be willing to pay a significant amount of money to make sure〔C1〕 the parks and their programs are kept intact.〔C2〕
+main 主语:An economic survey | 谓语:found | 宾语:C1
+gist 一项经济调查发现了（一件事）——内容是从句①。
+C1 宾语从句 | 作 found 的宾语 | that | 前面 found 缺调查发现的内容，that 后 people would be 主系表齐全，that 不作成分 | 主语:people | 谓语:would be | 表语:willing
+C2 宾语从句 in C1 | 作 make sure 的内容 | （省略 that） | 前面 make sure 需说明确保什么，后面 parks and their programs are kept intact 完整，省略 that | 主语:the parks and their programs | 谓语:are kept | 主语补足语:intact
+mod of 700 U.S. taxpayers → survey | 介词短语作定语 | 对700名纳税人的调查
+mod to pay a significant amount of money → willing | 不定式作补充说明 | 愿意支付相当多的钱
+mod to make sure → pay | 不定式作目的状语 | 付款是为了确保公园及项目完整保留
+cn 一项针对700名美国纳税人的经济调查发现，人们愿意支付相当多的钱，以确保国家公园及其项目得以完整保留。
+
+# 2023-2|4:2
+type 主从复合句｜said 后省略 that
+chunks Some 81% of respondents said〔主〕 they would be willing to pay additional taxes for the next 10 years to avoid any cuts to the national parks.〔C1〕
+main 主语:Some 81% of respondents | 谓语:said | 宾语:C1
+gist 约81%的受访者说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 said 的宾语 | （省略 that） | 前面 said 缺所说内容，后面 they would be 主系表齐全，省略不作成分的 that | 主语:they | 谓语:would be | 表语:willing
+mod to pay additional taxes → willing | 不定式作补充说明 | 愿意支付额外税款
+mod for the next 10 years → pay | 时间状语 | 未来十年
+mod to avoid any cuts to the national parks → pay | 不定式作目的状语 | 避免国家公园遭受任何经费削减
+cn 约81%的受访者表示，愿意在未来十年缴纳额外税款，避免国家公园遭受任何削减。
+
+# 2023-2|5:0
+type 简单句｜both as…and as…并列说明价值
+chunks The national parks provide great value to U.S. residents both as places to escape and as symbols of nature.〔主〕
+main 主语:The national parks | 谓语:provide | 宾语:great value
+gist 国家公园提供了巨大价值。
+mod to U.S. residents → provide | 介词短语作状语 | 价值的受益者是美国居民
+mod both as places to escape and as symbols of nature → The national parks | 介词短语作状语 | 既作为逃离日常的去处，也作为自然的象征
+cn 国家公园既是暂离日常生活的去处，也是自然的象征，对美国居民具有重大价值。
+
+# 2023-2|5:1
+type 简单句｜多项介词宾语列出价值来源
+chunks On top of this,〔修〕 they produce value from their extensive educational programs, their positive impact on the climate through carbon sequestration, their contribution to our cultural and artistic life, and of course through tourism.〔主〕
+main 主语:they | 谓语:produce | 宾语:value
+gist 它们创造价值。
+mod On top of this → produce | 补充状语 | 除此以外
+mod from their extensive educational programs, their positive impact on the climate through carbon sequestration, their contribution to our cultural and artistic life → produce | 介词短语作状语 | 教育项目、固碳带来的气候益处、文化艺术贡献都是价值来源
+mod through tourism → produce | 介词短语作状语 | 旅游也是创造价值的途径
+cn 此外，国家公园还通过广泛的教育项目、固碳对气候的积极影响、对文化艺术生活的贡献，当然还有旅游，创造价值。
+
+# 2023-2|5:2
+type 简单句｜help 后省略 to 的不定式，working 补充方式
+chunks The parks also help keep America’s past alive,〔主〕 working with thousands of local jurisdictions around the country to protect historical sites and to bring the stories of these places to life.〔修〕
+main 主语:The parks | 谓语:help | 宾语:keep America’s past alive
+gist 公园帮助美国的过去延续下来。
+mod working with thousands of local jurisdictions around the country → The parks | 现在分词短语作状语 | 与全国数千个地方辖区合作
+mod to protect historical sites and to bring the stories of these places to life → working | 不定式作目的状语 | 合作是为了保护历史遗址并让这些地方的故事鲜活起来
+point help 后 keep 是省略 to 的不定式；keep 的宾语是 America’s past，alive 是宾补。working 不是另一套谓语。
+cn 国家公园还与全国数千个地方辖区合作，保护历史遗址，让这些地方的故事鲜活起来，从而帮助美国历史延续。
+
+# 2023-2|6:0
+type 简单句｜on a shoestring 说明经费条件
+chunks The parks do all this on a shoestring.〔主〕
+main 主语:The parks | 谓语:do | 宾语:all this
+gist 公园完成了这一切。
+mod on a shoestring → do | 方式状语 | 靠极少的经费运作
+cn 国家公园靠很少的经费完成所有这些工作。
+
+# 2023-2|6:1
+type 主从复合句｜同位补充名词含 that 定语从句
+chunks Congress allocates only $ 3 billion a year to the national park system — an amount〔主〕 that has been flat since 2001 (in inflation-adjusted dollars) with the exception of a onetime boost in 2009.〔C1〕
+main 主语:Congress | 谓语:allocates | 宾语:only $ 3 billion
+gist 国会仅拨款30亿美元。
+C1 定语从句 | 修饰 amount | that | 前面是名词 amount，that 后 has been 缺主语，that 指拨款金额 | 主语:that | 谓语:has been | 表语:flat
+mod a year → allocates | 时间状语 | 每年拨款
+mod to the national park system → allocates | 介词短语作状语 | 拨款对象是国家公园系统；破折号后的 an 属于 amount
+mod since 2001 → has been | 时间状语 | 从2001年以来
+mod in inflation-adjusted dollars → flat | 计量口径状语 | 扣除通胀后比较金额
+mod with the exception of a onetime boost in 2009 → flat | 例外状语 | 只有2009年一次性增加的例外
+point an amount 是对拨款金额的同位补充，不是 national park system 的一部分。
+cn 国会每年仅向国家公园系统拨款30亿美元；按通胀调整后的美元计，除2009年一次性增加外，这一金额自2001年以来一直没有增长。
+
+# 2023-2|6:2
+type 简单句｜同一主语带两个并列谓语
+chunks Meanwhile, the number of annual visitors has increased by more than 50% since 1980,〔主〕 and〔连〕 now stands at 330 million visitors per year.〔主〕
+main 主语:the number | 谓语:has increased || &and || 谓语:stands
+gist 数量已经增加；并且达到了（某个数值）。
+mod of annual visitors → number | 介词短语作定语 | 中心是人数 number，不是 visitors
+mod by more than 50% → has increased | 程度状语 | 增幅超过50%
+mod since 1980 → has increased | 时间状语 | 自1980年以来
+mod at 330 million visitors per year → stands | 介词短语作状语 | 现在为每年三亿三千万人次
+point and 后没有新主语，stands 与 has increased 共用 the number，是并列谓语。
+cn 与此同时，年游客人数自1980年以来已增长50%以上，如今达到每年三亿三千万人次。
+
+# 2023-3|0:0
+type 主从复合句｜引述内容前置，what 引导宾语从句
+chunks The Internet may be changing merely〔C1〕 what we remember,〔C2〕 not our capacity to do so,〔C1〕 suggests Columbia University psychology professor Betsy Sparrow.〔主〕
+main 谓语:suggests | 主语:Columbia University psychology professor Betsy Sparrow | 宾语:C1
+gist 斯帕罗教授提出了（一种看法）——内容是从句①。
+C1 宾语从句 | 作 suggests 的内容，前置至句首 | （省略 that） | 后面 suggests 是引述动词，前面 The Internet may be changing 为被引述的完整内容，陈述内容作宾语 | 主语:The Internet | 谓语:may be changing | 宾语:C2
+C2 宾语从句 in C1 | 作 changing 的宾语 | what | 前面 changing 缺宾语，后面 we remember 也缺宾语；what 同时表示所记住的内容并作 remember 的宾语 | 主语:we | 谓语:remember | 宾语:what
+mod not our capacity to do so → changing | 对比补充 | 改变的不是我们记忆的能力
+cn 哥伦比亚大学心理学教授贝齐·斯帕罗认为，互联网可能只是在改变我们记住什么，而非我们的记忆能力。
+
+# 2023-3|0:1
+type 主从复合句｜in which 定语从句
+chunks In 2011,〔修〕 Sparrow led a study〔主〕 in which participants were asked to record 40 factoids in a computer〔C1〕 (“an ostrich’s eye is bigger than its brain,” for example).〔修〕
+main 主语:Sparrow | 谓语:led | 宾语:a study
+gist 斯帕罗主持了一项研究。
+C1 定语从句 | 修饰 study | in which | 前面是名词 study，后面 participants were asked 主谓齐全；in which 在从句中作研究情境状语 | 主语:participants | 谓语:were asked | 主语补足语:to record 40 factoids
+mod In 2011 → led | 时间状语 | 在2011年
+mod in a computer → record | 地点状语 | 把小知识录入电脑
+mod (“an ostrich’s eye is bigger than its brain,” for example) → factoids | 插入举例 | 举例说明录入的小知识，不是 study 的另一谓语
+cn 2011年，斯帕罗主持了一项研究，要求参与者把40条小知识录入电脑，例如“鸵鸟的眼睛比脑子还大”。
+
+# 2023-3|0:2
+type 并列复合句｜while 对照两组，told 后均有宾语从句
+chunks Half of the participants were told〔主〕 the information would be erased,〔C1〕 while〔连〕 the other half were told〔主〕 it would be saved.〔C2〕
+main 主语:Half of the participants | 谓语:were told | 宾语:C1 || &while || 主语:the other half | 谓语:were told | 宾语:C2
+gist 一半参与者被告知（一件事）；另一半被告知（另一件事）——分别是从句①和②。
+C1 宾语从句 | 作 told 的内容 | （省略 that） | 前面 told 缺告知内容，后面 information would be erased 完整，省略不作成分的 that | 主语:the information | 谓语:would be erased
+C2 宾语从句 | 作第二个 told 的内容 | （省略 that） | 前面 told 缺告知内容，后面 it would be saved 完整，省略不作成分的 that | 主语:it | 谓语:would be saved
+cn 一半参与者被告知信息会被删除，另一半则被告知信息会被保存。
+
+# 2023-3|0:3
+type 简单句｜省略主语 you 的口语祈使句
+chunks Guess what?〔主〕
+main 谓语:Guess | 宾语:what
+gist 猜猜是什么。
+point 省略的是主语 you。这里 what 单独作宾语，没有自己的主谓，不是独立从句。
+cn 猜猜结果如何？
+
+# 2023-3|0:4
+type 主从复合句｜原因从句内再嵌套宾语从句
+chunks The latter group made no effort to recall the information〔主〕 when quizzed on it later,〔修〕 because they knew〔C1〕 they could find it on their computers.〔C2〕
+main 主语:The latter group | 谓语:made | 宾语:no effort
+gist 后一组没有付出努力。
+C1 原因状语从句 | 解释不努力回忆的原因 | because | 前面 group made no effort 已完整，because 后 they knew 有主谓，引出原因 | 主语:they | 谓语:knew | 宾语:C2
+C2 宾语从句 in C1 | 作 knew 的宾语 | （省略 that） | 前面 knew 缺知道的内容，后面 they could find it 主谓宾齐全，省略 that | 主语:they | 谓语:could find | 宾语:it
+mod to recall the information → effort | 不定式作定语 | 努力回忆这些信息
+mod when quizzed on it later → made | 时间状语从句的省略 | 完整为 when they were quizzed，说明后来接受测验时
+mod on their computers → find | 地点状语 | 在自己的电脑上找到
+cn 后来接受信息测验时，后一组没有努力回忆，因为他们知道能在电脑上找到这些信息。
+
+# 2023-3|0:5
+type 主从复合句｜省略关系词的定语从句，in 后置
+chunks In the same study,〔修〕 a group was asked to remember both the information and the folders〔主〕 it was stored in.〔C1〕
+main 主语:a group | 谓语:was asked | 主语补足语:to remember both the information and the folders
+gist 一组人被要求记住信息和文件夹。
+C1 定语从句 | 修饰 folders | （省略 that） | 前面是名词 folders，后面 it was stored in 缺介词 in 的宾语，省略的关系词指文件夹 | 主语:it | 谓语:was stored
+mod In the same study → was asked | 背景状语 | 同一项研究中
+point in 留在从句结尾，与 folders 对应；it 指 information，不是 folders。
+cn 同一项研究中，一组参与者被要求既记住信息，也记住存放信息的文件夹。
+
+# 2023-3|0:6
+type 并列句｜but 连接两套主谓
+chunks They didn’t remember the information,〔主〕 but〔连〕 they remembered how to find the folders.〔主〕
+main 主语:They | 谓语:didn’t remember | 宾语:the information || &but || 主语:they | 谓语:remembered | 宾语:how to find the folders
+gist 他们没有记住信息；但记住了如何找到文件夹。
+point how to find 是疑问词加不定式，作 remembered 的宾语，不能因有 how 就当作带时态的从句。
+cn 他们没记住信息，却记住了如何找到文件夹。
+
+# 2023-3|0:7
+type 主从复合句｜引述内容前置
+chunks In other words, human memory is not deteriorating but “adapting to new communications technology,”〔C1〕 Sparrow says.〔主〕
+main 主语:Sparrow | 谓语:says | 宾语:C1
+gist 斯帕罗说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 says 的内容 | （省略 that） | 后面 says 引述前面完整陈述，前面 memory is…主谓齐全，不需要关系词补成分 | 主语:human memory | 谓语:is not deteriorating … adapting
+point not…but…连接两个分词，第二项 adapting 共用前面的 is；不能把 adapting 说成独立带时态的谓语。
+cn 换言之，斯帕罗说，人类记忆并没有退化，而是在“适应新的通信技术”。
+
+# 2023-3|1:0
+type 简单句｜同位语和过去分词作补充
+chunks In a very practical way,〔修〕 the Internet is becoming an external hard drive for our memories,〔主〕 a process known as “cognitive offloading.”〔修〕
+main 主语:the Internet | 谓语:is becoming | 表语:an external hard drive
+gist 互联网正在成为外部硬盘。
+mod for our memories → drive | 介词短语作定语 | 用来存放我们的记忆
+mod a process known as “cognitive offloading” → 整句 | 同位补充 | 用一个过程名概括前述现象
+mod known as “cognitive offloading” → process | 过去分词作定语 | 被称为认知卸载的过程
+cn 从非常实际的意义上说，互联网正在成为我们记忆的外部硬盘，这一过程被称为“认知卸载”。
+
+# 2023-3|1:1
+type 简单句｜一般过去时被动语态
+chunks Traditionally, this role was fulfilled by data banks, libraries, and other humans.〔主〕
+main 主语:this role | 谓语:was fulfilled
+gist 这种角色曾由他者承担。
+mod by data banks, libraries, and other humans → fulfilled | 施事状语 | 被动结构中说明承担此作用的是谁
+cn 传统上，这一角色由数据库、图书馆和其他人承担。
+
+# 2023-3|1:2
+type 主从复合句｜because 原因从句中的 does 为替代
+chunks Your father may never remember birthdays〔主〕 because your mother does,〔C1〕 for instance.〔修〕
+main 主语:Your father | 谓语:may never remember | 宾语:birthdays
+gist 你父亲可能永远记不住生日。
+C1 原因状语从句 | 解释父亲不记生日的原因 | because | 前面 father may never remember birthdays 已完整，because 后 mother does 主谓齐全；does 替代 remembers birthdays | 主语:your mother | 谓语:does
+cn 例如，你父亲可能从来不记生日，因为你母亲会记。
+
+# 2023-3|1:3
+type 并列复合句｜第一分句带 that 宾语从句
+chunks Some worry〔主〕 that this is having a destructive effect on society,〔C1〕 but〔连〕 Sparrow sees an upside.〔主〕
+main 主语:Some | 谓语:worry | 宾语:C1 || &but || 主语:Sparrow | 谓语:sees | 宾语:an upside
+gist 有些人担心（一件事）；但斯帕罗看到了好处。
+C1 宾语从句 | 作 worry 的宾语 | that | 前面 worry 缺担心的内容，that 后 this is having 主谓宾齐全，that 不作成分 | 主语:this | 谓语:is having | 宾语:a destructive effect
+mod on society → effect | 介词短语作定语 | 对社会产生的影响
+cn 有人担心这会对社会产生破坏性影响，但斯帕罗看到了一种积极作用。
+
+# 2023-3|1:4
+type 主从复合句｜插入引述和定语从句
+chunks Perhaps,〔修〕 she suggests,〔修〕 the trend will change our approach to learning from a focus on individual facts and memorization to an emphasis on more conceptual thinking—something〔主〕 that is not available on the Internet.〔C1〕
+main 主语:the trend | 谓语:will change | 宾语:our approach
+gist 这种趋势将改变我们的方法。
+C1 定语从句 | 修饰 thinking 后同位补充的 something | that | 前面是同位补充名词 something，that 后 is 缺主语，that 指更具概念性的思考 | 主语:that | 谓语:is | 表语:not available
+mod she suggests → 整句 | 插入语 | 她提出这一可能性，不是 the trend 的主语
+mod to learning → approach | 介词短语作定语 | 学习的方式
+mod from a focus on individual facts and memorization to an emphasis on more conceptual thinking—something → change | 变化方向状语 | 从事实记忆转向概念思考；破折号后的 something 是同位补充
+mod on the Internet → available | 地点状语 | 在互联网上无法直接获得
+point thinking—something 紧连为同一词元；不把 something 当作 thinking 的组成部分。
+cn 她认为，这种趋势或许会让我们的学习方式从关注个别事实和记忆，转向强调更具概念性的思考，而这种思考无法直接在网上获得。
+
+# 2023-3|1:5
+type 主从复合句｜引语前置，adding 内嵌 that 从句
+chunks “I personally have never seen all that much intellectual value in memorizing things,”〔C1〕 Sparrow says,〔主〕 adding〔修〕 that we haven’t lost our ability to do it.〔C2〕
+main 主语:Sparrow | 谓语:says | 宾语:C1
+gist 斯帕罗说了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 says 的内容 | 无 | 后面 says 引述前面的直接引语，I have seen 主谓宾齐全，不需要连接词 | 主语:I | 谓语:have never seen | 宾语:all that much intellectual value
+C2 宾语从句 | 作 adding 的宾语 | that | 前面 adding 缺补充的内容，that 后 we haven’t lost 主谓宾齐全，that 不作成分 | 主语:we | 谓语:haven’t lost | 宾语:our ability
+mod in memorizing things → value | 介词短语作定语 | 记忆事物的智力价值
+mod adding → Sparrow | 现在分词作状语 | 她同时补充说明，adding 没有独立时态
+mod to do it → ability | 不定式作定语 | 做这件事的能力，指记忆能力
+cn “我个人从未觉得死记东西具有多大的智力价值，”斯帕罗说，并补充说，我们并没有失去这样做的能力。
+
+# 2023-3|2:0
+type 主从复合句｜两层宾语从句
+chunks Still other experts say〔主〕 it’s too soon to understand〔C1〕 how the Internet affects our brains.〔C2〕
+main 主语:Still other experts | 谓语:say | 宾语:C1
+gist 另一些专家说了（一件事）——内容是从句①。
+C1 宾语从句 | 作 say 的宾语 | （省略 that） | 前面 say 缺所说内容，后面 it’s too soon 主系表齐全，省略 that | 主语＋谓语:it’s | 表语:too soon | 真正主语:to understand
+C2 宾语从句 in C1 | 作 understand 的宾语 | how | 前面 understand 缺理解的内容，后面 Internet affects our brains 主谓宾齐全，how 作方式状语 | 主语:the Internet | 谓语:affects | 宾语:our brains
+cn 还有其他专家说，现在要理解互联网如何影响我们的大脑，还为时过早。
+
+# 2023-3|2:1
+type 主从复合句｜引述前置，showing 后带宾语从句
+chunks There is no experimental evidence〔C1〕 showing〔C1修〕 that it interferes with our ability to focus,〔C2〕 for instance,〔修〕 wrote psychologists Christopher Chabris and Daniel J. Simons.〔主〕
+main 谓语:wrote | 主语:psychologists Christopher Chabris and Daniel J. Simons | 宾语:C1
+gist 查布里斯和西蒙斯写道（一件事）——内容是从句①。
+C1 宾语从句 | 作 wrote 的内容 | （省略 that） | 后面 wrote 引述前面 There is evidence 存在句，陈述完整，整个内容作宾语 | 主语:no experimental evidence | 谓语:is
+C2 宾语从句 in C1 | 作 showing 的宾语 | that | 前面 showing 缺所显示内容，that 后 it interferes 主谓齐全，that 不作成分 | 主语:it | 谓语:interferes
+mod showing → evidence | 现在分词作定语 | 说明证据要证明什么，showing 不是独立谓语
+mod with our ability to focus → interferes | 介词短语作状语 | 干扰我们的专注能力
+cn 例如，心理学家克里斯托弗·查布里斯和丹尼尔·西蒙斯写道，没有实验证据表明互联网干扰了我们的专注能力。
+
+# 2023-3|2:2
+type 主从复合句｜than 比较从句
+chunks And surfing the web exercised the brain more〔主〕 than reading did〔C1〕 among computer-savvy older adults in a 2008 study involving 24 participants at the Semel Institute for Neuroscience and Human Behavior at the University of California, Los Angeles.〔修〕
+main 主语:surfing the web | 谓语:exercised | 宾语:the brain
+gist 上网锻炼了大脑。
+C1 比较状语从句 | 比较上网与阅读的锻炼作用 | than | 前面 more 发出比较信号，than 后 reading did 有主谓，did 替代 exercised the brain | 主语:reading | 谓语:did
+mod among computer-savvy older adults → exercised | 范围状语 | 研究对象是熟悉电脑的老年人
+mod in a 2008 study → exercised | 研究情境状语 | 在2008年一项研究中
+mod involving 24 participants → study | 现在分词作定语 | 研究涉及24名参与者
+mod at the Semel Institute for Neuroscience and Human Behavior at the University of California, Los Angeles → study | 地点状语 | 研究地点是加州大学洛杉矶分校相关研究所
+cn 加州大学洛杉矶分校塞梅尔神经科学与人类行为研究所2008年一项涉及24名参与者的研究发现，对熟悉电脑的老年人而言，上网比阅读更能锻炼大脑。
+
+# 2023-3|3:0
+type 主从复合句｜引语前置，内部有并列与宾语从句
+chunks “There may be costs associated with our increased reliance on the Internet, but I’d have to imagine〔C1〕 that overall the benefits are going to outweigh those costs,”〔C2〕 observes psychology professor Benjamin Storm.〔主〕
+main 谓语:observes | 主语:psychology professor Benjamin Storm | 宾语:C1
+gist 斯托姆教授指出了（一件事）——内容是从句①。
+C1 宾语从句（直接引语） | 作 observes 的内容 | 无 | 后面 observes 引述前面引语，其中 There may be 和 I’d have to imagine 是并列的完整主谓 | 主语:costs | 谓语:may be | 主语＋谓语:I’d | 谓语:have to imagine | 宾语:C2
+C2 宾语从句 in C1 | 作 imagine 的宾语 | that | 前面 imagine 缺设想内容，that 后 benefits are going to outweigh 主谓宾齐全，that 不作成分 | 主语:the benefits | 谓语:are going to outweigh | 宾语:those costs
+mod associated with our increased reliance on the Internet → costs | 过去分词作定语 | 与我们日益依赖互联网相关的代价
+point I’d = I would，这里的 would 与 have to imagine 合成谓语。there 是存在句的引导词，不是实际主语。
+cn 心理学教授本杰明·斯托姆说：“我们越来越依赖互联网可能有代价，但我想，总体而言收益会超过这些代价。”
+
+# 2023-3|3:1
+type 并列复合句｜it 形式主语，that 内容从句；but 后一般疑问句
+chunks “It seems pretty clear〔主〕 that memory is changing,〔C1〕 but〔连〕 is it changing for the better?〔主〕
+main 形式主语:It | 谓语:seems | 表语:pretty clear | 真正主语:C1 || &but || 主语:it | 谓语:is … changing
+gist （一件事）似乎很清楚——内容是从句①；但它确实正在改变。
+C1 主语从句 | 作真正主语，it 是形式主语 | that | 前面 It seems clear 使用形式主语 it，that 后 memory is changing 完整，that 不作成分，引出真正主语 | 主语:memory | 谓语:is changing
+mod for the better → changing | 方向状语 | 朝更好的方向变化
+cn “记忆显然正在改变，但它是在变得更好吗？
+
+# 2023-3|3:2
+type 简单句｜know 的宾语由前文问题补足
+chunks At this point,〔修〕 we don’t know.”〔主〕
+main 主语:we | 谓语:don’t know
+gist 我们不知道。
+mod At this point → don’t know | 时间状语 | 在目前这个阶段
+cn 目前我们还不知道。”
+
+# 2023-4|0:0
+type 简单句｜主系表结构
+chunks Teenagers are paradoxical.〔主〕
+main 主语:Teenagers | 谓语:are | 表语:paradoxical
+gist 青少年是矛盾的。
+cn 青少年是矛盾的。
+
+# 2023-4|0:1
+type 主从复合句｜that 定语从句
+chunks That’s a mild and detached way of saying something〔主〕 that parents often express with considerably stronger language.〔C1〕
+main 主语＋谓语:That’s | 表语:a mild and detached way
+gist 那是一种温和而抽离的方式。
+C1 定语从句 | 修饰 something | that | 前面是不定代词 something，that 后 parents express 缺宾语，that 指父母表达的事 | 主语:parents | 谓语:express | 宾语:that
+mod of saying something → way | 介词短语作定语 | 对某件事的表达方式
+mod with considerably stronger language → express | 方式状语 | 父母会用强烈得多的语言来表达
+cn 这种说法温和而客观，父母表达同样意思时往往用语强烈得多。
+
+# 2023-4|0:2
+type 简单句｜as well as 连接并列表语
+chunks But the paradox is scientific as well as personal.〔主〕
+main 主语:the paradox | 谓语:is | 表语:scientific as well as personal
+gist 这种矛盾既是科学层面的，也是个人层面的。
+cn 但这种矛盾不仅是个人感受，也具有科学意义。
+
+# 2023-4|0:3
+type 主从复合句｜两个 who 分别修饰 children 与 people
+chunks In adolescence, helpless and dependent children〔主〕 who have relied on grown-ups for just about everything〔C1〕 become independent people〔主〕 who can take care of themselves and help each other.〔C2〕
+main 主语:children | 谓语:become | 表语:independent people
+gist 儿童变成独立的人。
+C1 定语从句 | 修饰 children | who | 前面是名词 children，who 后 have relied 缺主语，who 指孩子们 | 主语:who | 谓语:have relied
+C2 定语从句 | 修饰 people | who | 前面是名词 people，who 后 can take care 缺主语，take care 与 help 共用 who | 主语:who | 谓语:can take care … help | 宾语:themselves … each other
+mod In adolescence → become | 时间状语 | 青春期时
+mod on grown-ups for just about everything → relied | 介词短语作状语 | 几乎所有事情都依赖成年人
+cn 在青春期，原本无助、依赖他人、几乎事事依靠成人的孩子，会变成能够照顾自己、相互帮助的独立个体。
+
+# 2023-4|0:4
+type 简单句｜过去状态修饰主语，现在状态作表语
+chunks At the same time,〔修〕 once cheerful and compliant children become rebellious teenage risk-takers.〔主〕
+main 主语:children | 谓语:become | 表语:rebellious teenage risk-takers
+gist 儿童变成叛逆、敢冒险的青少年。
+mod once cheerful and compliant → children | 形容词短语作定语 | 曾经快乐且顺从，once 在此表示曾经，不引导从句
+cn 与此同时，原本快乐顺从的孩子，也会变成叛逆、敢冒险的青少年。
+
+# 2023-4|1:0
+type 主从复合句｜study 后过去分词修饰，suggests 后宾语从句
+chunks A new study〔主〕 published in the journal Child Development, by Eveline Crone of the University of Leiden and colleagues,〔修〕 suggests〔主〕 that the positive and negative sides of teenagers go hand in hand.〔C1〕
+main 主语:A new study | 谓语:suggests | 宾语:C1
+gist 一项新研究提出了（一种看法）——内容是从句①。
+C1 宾语从句 | 作 suggests 的宾语 | that | 前面 suggests 缺研究表明的内容，that 后 sides go 主谓齐全，that 不作成分 | 主语:the positive and negative sides | 谓语:go
+mod published in the journal Child Development → study | 过去分词作定语 | 发表在《儿童发展》期刊上的研究
+mod by Eveline Crone of the University of Leiden and colleagues → study | 介词短语作定语 | 研究由莱顿大学的克罗内及同事进行
+mod of teenagers → sides | 介词短语作定语 | 青少年的两方面特征
+mod hand in hand → go | 方式状语 | 同步发展
+cn 莱顿大学埃弗琳·克罗内及其同事在《儿童发展》期刊发表的一项新研究表明，青少年的积极面与消极面同步发展。
+
+# 2023-4|1:1
+type 简单句｜主系表结构
+chunks The study is part of a new wave of thinking about adolescence.〔主〕
+main 主语:The study | 谓语:is | 表语:part
+mod of a new wave of thinking about adolescence → part | 介词短语作定语 | 重新思考青春期的新思潮的一部分
+gist 这项研究是一部分。
+cn 该研究是重新思考青春期的一股新思潮的一部分。
+
+# 2023-4|1:2
+type 主从复合句｜同位语从句内嵌定语从句
+chunks For a long time,〔修〕 scientists and policy makers concentrated on the idea〔主〕 that teenagers were a problem〔C1〕 that needed to be solved.〔C2〕
+main 主语:scientists and policy makers | 谓语:concentrated
+C1 同位语从句 | 说明 idea 的内容 | that | 前面是抽象名词 idea，后面 teenagers were a problem 主系表齐全，that 不作成分，解释想法内容 | 主语:teenagers | 谓语:were | 表语:a problem
+C2 定语从句 in C1 | 修饰 problem | that | 前面是名词 problem，that 后 needed 缺主语，that 指需要解决的问题 | 主语:that | 谓语:needed | 宾语:to be solved
+mod For a long time → concentrated | 时间状语 | 长期以来
+mod on the idea → concentrated | 介词短语作状语 | 关注的是一种想法
+gist 科学家和政策制定者曾集中关注（某个方面）。
+cn 长期以来，科学家和政策制定者一直关注这样一种想法：青少年是需要解决的问题。
+
+# 2023-4|1:3
+type 主从复合句｜that 宾语从句
+chunks The new work emphasizes〔主〕 that adolescence is a time of opportunity as well as risk.〔C1〕
+main 主语:The new work | 谓语:emphasizes | 宾语:C1
+C1 宾语从句 | 作 emphasizes 的宾语 | that | 前面 emphasizes 缺强调内容，that 后 adolescence is a time 主系表齐全，that 不作成分 | 主语:adolescence | 谓语:is | 表语:a time
+mod of opportunity as well as risk → time | 介词短语作定语 | 机遇与风险并存的时期
+gist 新研究强调了（一件事）——内容是从句①。
+cn 新研究强调，青春期既是充满风险的时期，也是充满机遇的时期。
+
+# 2023-4|2:0
+type 简单句｜ranging 修饰研究对象年龄范围
+chunks The researchers studied “prosocial” and rebellious traits in more than 200 children and young adults,〔主〕 ranging from 11 to 28 years old.〔修〕
+main 主语:The researchers | 谓语:studied | 宾语:“prosocial” and rebellious traits
+mod in more than 200 children and young adults → traits | 介词短语作定语 | 200多名儿童与年轻人的两类特征
+mod ranging from 11 to 28 years old → children and young adults | 现在分词作定语 | 研究对象年龄从11岁到28岁
+gist 研究者考察了亲社会特质和叛逆特质。
+cn 研究人员调查了200多名11至28岁儿童和年轻人的“亲社会”及叛逆特征。
+
+# 2023-4|2:1
+type 主从复合句｜how often 宾语从句中嵌套定语从句
+chunks The participants filled out questionnaires about〔主〕 how often they did things〔C1〕 that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late.〔C2〕
+main 主语:The participants | 谓语:filled out | 宾语:questionnaires
+C1 宾语从句 | 作 about 的宾语 | how often | 前面介词 about 缺调查内容，后面 they did things 主谓宾齐全，how often 作频率状语 | 主语:they | 谓语:did | 宾语:things
+C2 定语从句 in C1 | 修饰 things | that | 前面是名词 things，that 后 were 缺主语，that 指做的事情；两组形容词共用 were | 主语:that | 谓语:were | 表语:altruistic and positive … rebellious and negative
+mod like sacrificing their own interests to help a friend → altruistic and positive | 举例说明 | 如牺牲自身利益帮助朋友
+mod like getting drunk or staying out late → rebellious and negative | 举例说明 | 如醉酒或深夜不归
+gist 参与者填写了问卷。
+cn 参与者填写问卷，说明自己多常做利他、积极的事情，例如牺牲自身利益帮助朋友，或叛逆、消极的事情，例如醉酒或深夜不归。
+
+# 2023-4|3:0
+type 主从复合句｜that 内容从句内两处 as 状语从句
+chunks Other studies have shown〔主〕 that rebellious behavior increases〔C1〕 as you become a teenager〔C2〕 and then fades away〔C1〕 as you grow older.〔C3〕
+main 主语:Other studies | 谓语:have shown | 宾语:C1
+C1 宾语从句 | 作 shown 的宾语 | that | 前面 shown 缺研究显示内容，that 后 behavior increases 主谓齐全，that 不作成分 | 主语:rebellious behavior | 谓语:increases … fades away
+C2 时间状语从句 in C1 | 说明增加的阶段 | as | 前面 behavior increases 已完整，as 后 you become 主系表齐全，说明随成长进入青春期 | 主语:you | 谓语:become | 表语:a teenager
+C3 时间状语从句 in C1 | 说明减少的阶段 | as | 前面 fades away 已能成句，as 后 you grow older 主系表齐全，说明随后年龄增大 | 主语:you | 谓语:grow | 表语:older
+gist 其他研究已经表明了（一件事）——内容是从句①。
+cn 其他研究表明，进入青春期时叛逆行为增多，随后随着年龄增长逐渐消退。
+
+# 2023-4|3:1
+type 主从复合句｜that 宾语从句中插入副词
+chunks But the new study shows〔主〕 that, interestingly, the same pattern holds for prosocial behavior.〔C1〕
+main 主语:the new study | 谓语:shows | 宾语:C1
+C1 宾语从句 | 作 shows 的宾语 | that | 前面 shows 缺研究发现，that 后 pattern holds 主谓齐全，that 不作成分；interestingly 是插入副词 | 主语:the same pattern | 谓语:holds
+mod for prosocial behavior → holds | 适用范围状语 | 同一规律也适用于亲社会行为
+gist 这项新研究显示了（一件事）——内容是从句①。
+cn 但有趣的是，新研究表明，同样的变化模式也适用于亲社会行为。
+
+# 2023-4|3:2
+type 主从复合句｜report 后带宾语从句
+chunks Teenagers were more likely than younger children or adults to report〔主〕 that they did things like unselfishly helping a friend.〔C1〕
+main 主语:Teenagers | 谓语:were | 表语:more likely
+C1 宾语从句 | 作 report 的宾语 | that | 前面 report 缺报告内容，that 后 they did things 主谓宾齐全，that 不作成分 | 主语:they | 谓语:did | 宾语:things
+mod than younger children or adults → more likely | 比较补充 | 与年龄更小的儿童或成年人相比
+mod to report → likely | 不定式作补充说明 | 更可能报告某类经历
+mod like unselfishly helping a friend → things | 举例说明 | 如无私地帮助朋友
+gist 青少年更有可能（做某事）。
+cn 与较小的儿童或成年人相比，青少年更可能报告自己做过无私帮助朋友之类的事。
+
+# 2023-4|4:0
+type 简单句｜there be 存在句
+chunks Most significantly, there was a positive correlation between prosociality and rebelliousness.〔主〕
+main 谓语:was | 主语:a positive correlation
+mod between prosociality and rebelliousness → correlation | 介词短语作定语 | 亲社会性与叛逆性之间的正相关
+gist 存在一种正相关关系。
+cn 最重要的是，亲社会性与叛逆性之间存在正相关。
+
+# 2023-4|4:1
+type 主从复合句｜定语从句隔开主语与谓语
+chunks The teenagers〔主〕 who were more rebellious〔C1〕 were also more likely to help others.〔主〕
+main 主语:The teenagers | 谓语:were | 表语:more likely
+C1 定语从句 | 修饰 teenagers | who | 前面是名词 teenagers，who 后 were 缺主语，who 指青少年；这一 were 属从句 | 主语:who | 谓语:were | 表语:more rebellious
+mod to help others → likely | 不定式作补充说明 | 更可能帮助他人
+gist 这些青少年更有可能（做某事）。
+cn 更叛逆的青少年也更可能帮助他人。
+
+# 2023-4|4:2
+type 简单句｜seem 后不定式补充趋势
+chunks The good and bad sides of adolescence seem to develop together.〔主〕
+main 主语:The good and bad sides | 谓语:seem | 表语:to develop together
+mod of adolescence → sides | 介词短语作定语 | 青春期的两面
+gist 好的方面和坏的方面似乎共同发展。
+cn 青春期好的一面和坏的一面似乎共同发展。
+
+# 2023-4|5:0
+type 主从复合句｜there be 疑问句含定语从句
+chunks Is there some common factor〔主〕 that underlies these apparently contradictory developments?〔C1〕
+main 谓语:Is | 主语:some common factor
+C1 定语从句 | 修饰 factor | that | 前面是名词 factor，that 后 underlies 缺主语，that 指共同因素 | 主语:that | 谓语:underlies | 宾语:these apparently contradictory developments
+gist 是否存在某个共同因素？
+cn 这些看似矛盾的发展背后，是否存在某种共同因素？
+
+# 2023-4|5:1
+type 主从复合句｜表语从句中嵌套 what 宾语从句
+chunks One idea is〔主〕 that teenage behavior is related to〔C1〕 what researchers call “reward sensitivity.”〔C2〕
+main 主语:One idea | 谓语:is | 表语:C1
+C1 表语从句 | 作 is 的表语 | that | 前面是系动词 is，后面 teenage behavior is related 主谓齐全，that 不作成分，说明想法内容 | 主语:teenage behavior | 谓语:is related
+C2 宾语从句 in C1 | 作介词 to 的宾语 | what | 前面 to 缺宾语，后面 researchers call 缺被命名对象，what 作 call 的宾语，reward sensitivity 作宾补 | 主语:researchers | 谓语:call | 宾语:what | 宾补:“reward sensitivity”
+gist 一种观点是（一种解释）——内容是从句①。
+cn 一种观点认为，青少年的行为与研究者所称的“奖励敏感性”有关。
+
+# 2023-4|5:2
+type 简单句｜动名词宾语里两个同位列举组
+chunks Decision-making always involves balancing rewards and risks, benefits and costs.〔主〕
+main 主语:Decision-making | 谓语:involves | 宾语:balancing rewards and risks, benefits and costs
+gist 决策涉及平衡回报与风险、收益与成本。
+point balancing 是 involves 后的动名词宾语，不是第二个主句谓语；后两组名词列举权衡对象。
+cn 决策总是涉及权衡奖励与风险、收益与成本。
+
+# 2023-4|5:3
+type 主从复合句｜how much 宾语从句
+chunks “Reward sensitivity” measures〔主〕 how much reward it takes to outweigh risk.〔C1〕
+main 主语:“Reward sensitivity” | 谓语:measures | 宾语:C1
+C1 宾语从句 | 作 measures 的宾语 | how much | 前面 measures 缺衡量内容，后面 it takes 缺所需奖励数量，how much reward 整体作 takes 的宾语 | 形式主语:it | 谓语:takes | 宾语:how much reward | 真正主语:to outweigh risk
+gist 回报敏感性衡量了（一种情况）——内容是从句①。
+cn “奖励敏感性”衡量的是需要多少奖励才能抵过风险。
+
+# 2023-4|6:0
+type 简单句｜破折号后列举社会奖励
+chunks Teenagers are particularly sensitive to social rewards—winning the game, impressing a new friend, getting that boy to notice you.〔主〕
+main 主语:Teenagers | 谓语:are | 表语:sensitive
+mod to social rewards—winning the game, impressing a new friend, getting that boy to notice you → sensitive | 介词短语作补充说明 | 对社会奖励敏感，破折号后列举赢比赛、给朋友留下印象、引起男孩注意
+point rewards—winning 紧连为一个词元；winning 等三项是社会奖励的例子，不是主句谓语。
+gist 青少年是敏感的。
+cn 青少年对社会奖励尤其敏感，例如赢得比赛、给新朋友留下深刻印象，或让那个男孩注意到自己。
+
+# 2023-4|6:1
+type 主从复合句｜like 插入比较，as 时间从句
+chunks Reward sensitivity,〔主〕 like prosocial behavior and risk-taking,〔修〕 seems to go up in adolescence and then down again〔主〕 as we age.〔C1〕
+main 主语:Reward sensitivity | 谓语:seems | 表语:to go up … down again
+C1 时间状语从句 | 说明随后回落的阶段 | as | 前面 seems to go up and then down 已完整，as 后 we age 有主谓，as 表示随着年龄增长 | 主语:we | 谓语:age
+mod like prosocial behavior and risk-taking → Reward sensitivity | 比较插入语 | 与亲社会行为及冒险行为一样
+mod in adolescence → go up | 时间状语 | 在青春期上升
+gist 回报敏感性似乎先上升、再下降。
+cn 奖励敏感性与亲社会行为和冒险行为一样，似乎在青春期上升，随后随着年龄增长再次下降。
+
+# 2023-4|6:2
+type 主从复合句｜when 时间从句，chance 后同位语从句
+chunks Somehow,〔修〕 when you hit 30,〔C1〕 the chance〔主〕 that something exciting and new will happen at that party〔C2〕 just doesn’t seem to outweigh the effort of getting up off the couch.〔主〕
+main 主语:the chance | 谓语:doesn’t seem | 表语:to outweigh the effort
+C1 时间状语从句 | 说明判断发生的年龄阶段 | when | 后面 the chance doesn’t seem 是完整主句，when 后 you hit 30 主谓宾齐全，说明到了30岁时 | 主语:you | 谓语:hit | 宾语:30
+C2 同位语从句 | 说明 chance 的具体内容 | that | 前面是抽象名词 chance，that 后 something will happen 主谓齐全，that 不作成分，解释发生什么的可能性 | 主语:something exciting and new | 谓语:will happen
+mod at that party → happen | 地点状语 | 在那场聚会上发生
+mod of getting up off the couch → effort | 介词短语作定语 | 从沙发上起身所需的努力
+gist 这种机会似乎抵不上所需的努力。
+cn 不知为什么，到了30岁，聚会上可能发生新鲜刺激之事的机会，似乎已抵不过从沙发上起身的那份费力。
