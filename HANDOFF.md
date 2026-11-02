@@ -328,3 +328,11 @@ spot （可选）下次怎样识别
 
 **写作指令模板（交给写的 AI）**
 > 读 `6.0  postG/2. 英语/英语工作台/HANDOFF.md`。先 `git pull --rebase`。执行计划表批次 <P?>：按 §4 写 `build/skel/<文件>`（以及 §3 的题目译文和逐项错因）。运行 `python3 build/parse_skel.py`、`python3 build/build.py`、`python3 build/check.py --content`、`node build/test/freeze.js`，全部通过。按 §4.4 自查，列出存疑句。生成 `英语工作台 vNN 预览（未发布）.html` 给我，不要 push，不要改 `build/src/`。
+
+---
+
+## v50 · 查词修复（2026-11-02，Claude，已推送）
+- 问题：① 129 个变形词/派生词（assembling、adding、breaking…）在原 DICT 里只有 `[计][法]` 这类专业行，`brief()` 过滤后为空，显示“本地词典没收录”；② 44 个三单/复数（acts、gets、bets…）撞上 ECDICT 的缩写条目，给出错误释义；③ 原 DICT 只有 5656 词，2023–2026 新入库年份约 1300 词查不到；④ 划短语只按原样查，`is part of` 不会按 `be part of` 查。
+- 做法：`build/tools/make_ecdict_ext.py <ecdict.csv>` 从完整 ECDICT（github.com/skywind3000/ECDICT）抽出真题用到的词和短语，生成 `build/data/ecdict_ext.json`（格式同原 DICT：变形词存原形释义 + `l` 原形 + `f` 变形名 + `wp`）。只有专业义项的词，把标签挪到行尾，并补上 kdict 中文义项、派生词来源和 ECDICT 英文释义。释义均出自词典，不手写。`build.py` 把它并进 `DICT`，新短语存到 `PHX`（不并进 `PHD`，以免完型/翻译页自动标出更多短语）；`phLook()` 依次按原样、按逐词原形查 `PHD`/`PHX`；整段查不到时给出有道链接。
+- 新增年份后：拿 ECDICT 重跑 `make_ecdict_ext.py`，再生成。
+- 检查：`parse_skel` 0 errors、`check.py` 全部通过、`freeze.js` 14 项通过（在云端 playwright 运行）。

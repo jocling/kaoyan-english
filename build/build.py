@@ -11,8 +11,18 @@ def rep(old,new,count=1):
     s=s.replace(old,new)
 rep('#view-sent>*:not(#sr27-frame){display:none!important}','')
 rep('window.innerHeight-g.getBoundingClientRect().top-18','(window.visualViewport?window.visualViewport.height:window.innerHeight)-(g.getBoundingClientRect().top+window.scrollY)-18')
-rep('font:600 10px/1 sans-serif;color:var(--accent)">v35</small>','font:600 10px/1 sans-serif;color:var(--accent)">v49</small>')
+rep('font:600 10px/1 sans-serif;color:var(--accent)">v35</small>','font:600 10px/1 sans-serif;color:var(--accent)">v50</small>')
 rep('<span>点词看释义 · 拖选或点「划短语」存短语 · 点句子编号看拆解</span>','<span>点词看释义 · 拖选两个以上的词存短语 · 点句子编号看拆解</span>')
+# ---- v50 查词修复：完整 ECDICT 补词、变形词还原原形、短语按原形查（数据由 tools/make_ecdict_ext.py 生成）----
+_ecx=open(os.path.join(B,'data','ecdict_ext.json'),encoding='utf-8').read()
+_k='\nconst PHD = '; _i=s.find(_k); assert _i>0 and s.count(_k)==1
+_, _e=json.JSONDecoder().raw_decode(s,_i+len(_k)); assert s[_e]==';'
+s=s[:_e+1]+'\nconst ECX='+_ecx.replace('</','<\\/')+';\nObject.assign(DICT,ECX.w);\nconst PHX=ECX.ph;'+s[_e+1:]
+rep("function phraseInfo(tid, loc, a, b){","function phLook(key){ if(!key) return null; const lk = key.split(' ').map(w => (DICT[w] && DICT[w].l) || w).join(' '); return PHD[key] || PHX[key] || PHD[lk] || PHX[lk] || null; }\nfunction phraseInfo(tid, loc, a, b){")
+rep("const out = { known: best || null, others: ks.filter(k => k !== best), dict: PHD[key] || null, subs: [] };","const out = { known: best || null, others: ks.filter(k => k !== best), dict: phLook(key), subs: [] };")
+rep("const k2 = toks.slice(i, i + len + 1).map(clean).filter(Boolean).join(' '); if(PHD[k2] && !out.subs.some(x => x.k === PHD[k2].k)) out.subs.push(Object.assign({ a: i, b: i + len }, PHD[k2])); }","const k2 = toks.slice(i, i + len + 1).map(clean).filter(Boolean).join(' '); const d2 = phLook(k2); if(d2 && !out.subs.some(x => x.k === d2.k)) out.subs.push(Object.assign({ a: i, b: i + len }, d2)); }")
+rep("  const parts = toks.slice(a, b + 1)","  if(!info.known && !info.dict) meanHtml += `<div class=\"u\"><a href=\"https://dict.youdao.com/result?word=${encodeURIComponent(text)}&lang=en\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--accent)\">本地词典没有整段，去有道查「${esc(text)}」↗</a></div>`;\n  const parts = toks.slice(a, b + 1)")
+rep("本地词典没收录这个词（多半是人名或合成词）。","本地词典没收录这个词（多为人名、地名，或原文里和标点粘在一起的词）。",2)
 skel=json.load(open(os.path.join(B,'data','skel.json')))
 # QCHOICE overrides
 try:
