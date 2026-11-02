@@ -1,7 +1,7 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-11-02T05:43:01.146Z",
- "count": 26,
+ "updatedAt": "2026-11-02T05:43:29.953Z",
+ "count": 27,
  "attempts": [
   {
    "id": "2012-1__202609091611",
@@ -1270,6 +1270,43 @@
      "sent": "But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education."
     }
    ],
+   "sentences": []
+  },
+  {
+   "id": "2018-1__20261102054328_dvu",
+   "textId": "2018-1",
+   "label": "2018 · Text 1",
+   "year": 2018,
+   "startedAt": "2026-11-02T05:43:09.527Z",
+   "submittedAt": "2026-11-02T05:43:28.768Z",
+   "durationSec": 19,
+   "score": 4,
+   "answers": {
+    "21": "A",
+    "22": "A",
+    "23": "B",
+    "24": "D",
+    "25": "A"
+   },
+   "correct": {
+    "21": true,
+    "22": false,
+    "23": true,
+    "24": true,
+    "25": true
+   },
+   "qTimes": {
+    "21": 4,
+    "22": 6,
+    "23": 10,
+    "24": 16,
+    "25": 18
+   },
+   "causes": {},
+   "traps": {},
+   "conf": {},
+   "note": "",
+   "words": [],
    "sentences": []
   }
  ],
