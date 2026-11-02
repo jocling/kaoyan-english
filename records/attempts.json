@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-11-02T05:44:01.414Z",
+ "updatedAt": "2026-11-02T05:44:07.156Z",
  "count": 28,
  "attempts": [
   {
@@ -10792,7 +10792,7 @@
     "contextReveal": false,
     "contextGrades": [],
     "elapsed": 1108.7110000000027,
-    "paused": true,
+    "paused": false,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
     "personalIDs": [
@@ -13103,7 +13103,7 @@
      "success",
      "understand"
     ],
-    "sessionAt": 1793596102423,
+    "sessionAt": 1793598244910,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -13185,172 +13185,6 @@
       "implicit": true,
       "at": 1793335831656
      },
-     "complaint": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335834294
-     },
-     "consider": {
-      "grade": "known",
-      "at": 1792832487094
-     },
-     "constancy": {
-      "grade": "wrong",
-      "at": 1792832478260
-     },
-     "consumerism": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793339251942
-     },
-     "define": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335974777
-     },
-     "dictate": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793339251942
-     },
-     "eberle": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335974777
-     },
-     "efficient": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335833792
-     },
-     "exhausted": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335833792
-     },
-     "faithfulness": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335831656
-     },
-     "femininity": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335831656
-     },
-     "flywheel": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335833792
-     },
-     "free up": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335834294
-     },
-     "inherently": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335974777
-     },
-     "interrupted": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335833792
-     },
-     "intimation": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335831656
-     },
-     "masculine": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335831655
-     },
-     "merely": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335833792
-     },
-     "mournfully": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335834294
-     },
-     "nursery": {
-      "grade": "known",
-      "at": 1792832290640
-     },
-     "or else": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335834294
-     },
-     "pastel": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335831655
-     },
-     "perception": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793339251942
-     },
-     "practical": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793339251942
-     },
-     "psychological": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793339251942
-     },
-     "since": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793339251942
-     },
-     "specific": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335834294
-     },
-     "strength": {
-      "grade": "known",
-      "at": 1792832460739
-     },
-     "sufficient": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335974777
-     },
-     "techniques": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335834294
-     },
-     "thornier": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335974777
-     },
-     "thoughts": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335833792
-     },
-     "toddler": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793339251942
-     },
-     "wear": {
-      "grade": "fuzzy",
-      "implicit": true,
-      "at": 1793335974777
-     },
      "approach": {
       "grade": "fuzzy",
       "implicit": true,
@@ -13376,6 +13210,24 @@
       "implicit": true,
       "at": 1793340953579
      },
+     "complaint": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335834294
+     },
+     "consider": {
+      "grade": "known",
+      "at": 1792832487094
+     },
+     "constancy": {
+      "grade": "wrong",
+      "at": 1792832478260
+     },
+     "consumerism": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793339251942
+     },
      "contrast": {
       "grade": "fuzzy",
       "implicit": true,
@@ -13391,6 +13243,21 @@
       "implicit": true,
       "at": 1793340952974
      },
+     "define": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
+     "dictate": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793339251942
+     },
+     "eberle": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
      "economic": {
       "grade": "fuzzy",
       "implicit": true,
@@ -13401,14 +13268,44 @@
       "implicit": true,
       "at": 1793340206557
      },
+     "efficient": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335833792
+     },
      "environment": {
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793340953579
      },
+     "exhausted": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335833792
+     },
+     "faithfulness": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335831656
+     },
+     "femininity": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335831656
+     },
      "financial": {
       "grade": "forgot",
       "at": 1793340048442
+     },
+     "flywheel": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335833792
+     },
+     "free up": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335834294
      },
      "generation": {
       "grade": "fuzzy",
@@ -13429,6 +13326,21 @@
       "implicit": true,
       "at": 1793340206557
      },
+     "inherently": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
+     "interrupted": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335833792
+     },
+     "intimation": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335831656
+     },
      "lever": {
       "grade": "fuzzy",
       "implicit": true,
@@ -13444,15 +13356,39 @@
       "implicit": true,
       "at": 1793340953579
      },
+     "masculine": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335831655
+     },
      "means": {
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793340206557
      },
+     "merely": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335833792
+     },
      "mortgage": {
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793340949976
+     },
+     "mournfully": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335834294
+     },
+     "nursery": {
+      "grade": "known",
+      "at": 1792832290640
+     },
+     "or else": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335834294
      },
      "overwhelming": {
       "grade": "fuzzy",
@@ -13463,6 +13399,16 @@
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793340206557
+     },
+     "pastel": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335831655
+     },
+     "perception": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793339251942
      },
      "phenomenon": {
       "grade": "fuzzy",
@@ -13484,10 +13430,20 @@
       "implicit": true,
       "at": 1793340953579
      },
+     "practical": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793339251942
+     },
      "progress": {
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793340949976
+     },
+     "psychological": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793339251942
      },
      "rather": {
       "grade": "fuzzy",
@@ -13499,10 +13455,24 @@
       "implicit": true,
       "at": 1793340952974
      },
+     "since": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793339251942
+     },
      "somewhat": {
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793340949976
+     },
+     "specific": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335834294
+     },
+     "strength": {
+      "grade": "known",
+      "at": 1792832460739
      },
      "subtle": {
       "grade": "fuzzy",
@@ -13514,6 +13484,11 @@
       "implicit": true,
       "at": 1793340206557
      },
+     "sufficient": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
      "sympathetic": {
       "grade": "fuzzy",
       "implicit": true,
@@ -13524,6 +13499,26 @@
       "implicit": true,
       "at": 1793340949976
      },
+     "techniques": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335834294
+     },
+     "thornier": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
+     },
+     "thoughts": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335833792
+     },
+     "toddler": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793339251942
+     },
      "understand": {
       "grade": "fuzzy",
       "implicit": true,
@@ -13533,6 +13528,11 @@
       "grade": "fuzzy",
       "implicit": true,
       "at": 1793340949976
+     },
+     "wear": {
+      "grade": "fuzzy",
+      "implicit": true,
+      "at": 1793335974777
      },
      "willing": {
       "grade": "fuzzy",
@@ -14043,7 +14043,7 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1793592458837,
+    "cursorAt30": 1793598241438,
     "quick39": false,
     "stage0": null,
     "home41Seen": true,
@@ -14052,7 +14052,7 @@
     "libTab42": {},
     "v43list": true
    },
-   "updatedAt": 1793596102423
+   "updatedAt": 1793598244910
   },
   "sentenceReview27": {
    "version": 27,
