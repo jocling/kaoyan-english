@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-11-02T05:44:25.630Z",
+ "updatedAt": "2026-11-02T07:39:06.070Z",
  "count": 28,
  "attempts": [
   {
@@ -7778,6 +7778,306 @@
     }
    ],
    "updatedAt": "2026-10-29T16:48:58.230Z"
+  },
+  "2018-1": {
+   "words": [
+    {
+     "w": "curious",
+     "raw": "curious",
+     "p": 0,
+     "s": 0,
+     "sent": "It is curious that Stephen Koziatek feels almost as though he has to justify his efforts to give his students a better future."
+    },
+    {
+     "w": "justify",
+     "raw": "justify",
+     "p": 0,
+     "s": 0,
+     "sent": "It is curious that Stephen Koziatek feels almost as though he has to justify his efforts to give his students a better future."
+    },
+    {
+     "w": "pioneering",
+     "raw": "pioneering.",
+     "p": 1,
+     "s": 0,
+     "sent": "Mr. Koziatek is part of something pioneering."
+    },
+    {
+     "w": "mechanical",
+     "raw": "mechanical",
+     "p": 1,
+     "s": 1,
+     "sent": "He is a teacher at a New Hampshire high school where learning is not something of books and tests and mechanical memorization, but practical."
+    },
+    {
+     "w": "practical",
+     "raw": "practical.",
+     "p": 1,
+     "s": 1,
+     "sent": "He is a teacher at a New Hampshire high school where learning is not something of books and tests and mechanical memorization, but practical."
+    },
+    {
+     "w": "utterly",
+     "raw": "utterly",
+     "p": 1,
+     "s": 2,
+     "sent": "When did it become accepted wisdom that students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain?"
+    },
+    {
+     "w": "wisdom",
+     "raw": "wisdom",
+     "p": 1,
+     "s": 2,
+     "sent": "When did it become accepted wisdom that students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain?"
+    },
+    {
+     "w": "geometry",
+     "raw": "geometry",
+     "p": 2,
+     "s": 1,
+     "sent": "Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum."
+    },
+    {
+     "w": "graffitied",
+     "raw": "graffitied",
+     "p": 2,
+     "s": 1,
+     "sent": "Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum."
+    },
+    {
+     "w": "discarded",
+     "raw": "discarded",
+     "p": 2,
+     "s": 1,
+     "sent": "Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum."
+    },
+    {
+     "w": "assembling",
+     "raw": "assembling",
+     "p": 2,
+     "s": 2,
+     "sent": "They can also learn geometry by assembling a bicycle."
+    },
+    {
+     "w": "insidious",
+     "raw": "insidious",
+     "p": 3,
+     "s": 0,
+     "sent": "But he's also found a kind of insidious prejudice."
+    },
+    {
+     "w": "inferiority",
+     "raw": "inferiority.",
+     "p": 3,
+     "s": 1,
+     "sent": "Working with your hands is seen as almost a mark of inferiority."
+    },
+    {
+     "w": "vocational",
+     "raw": "vocational",
+     "p": 3,
+     "s": 2,
+     "sent": "Schools in the family of vocational education \"have that stereotype...that it's for kids who can't make it academically,\" he says."
+    },
+    {
+     "w": "stereotype...that",
+     "raw": "stereotype...that",
+     "p": 3,
+     "s": 2,
+     "sent": "Schools in the family of vocational education \"have that stereotype...that it's for kids who can't make it academically,\" he says."
+    },
+    {
+     "w": "logical",
+     "raw": "logical",
+     "p": 4,
+     "s": 0,
+     "sent": "On one hand, that viewpoint is a logical product of America's evolution."
+    },
+    {
+     "w": "evolution",
+     "raw": "evolution.",
+     "p": 4,
+     "s": 0,
+     "sent": "On one hand, that viewpoint is a logical product of America's evolution."
+    },
+    {
+     "w": "manufacturing",
+     "raw": "Manufacturing",
+     "p": 4,
+     "s": 1,
+     "sent": "Manufacturing is not the economic engine that it once was."
+    },
+    {
+     "w": "evaporated",
+     "raw": "evaporated.",
+     "p": 4,
+     "s": 2,
+     "sent": "The job security that the US economy once offered to high school graduates has largely evaporated."
+    },
+    {
+     "w": "principle",
+     "raw": "principle.",
+     "p": 4,
+     "s": 3,
+     "sent": "More education is the new principle."
+    },
+    {
+     "w": "rightfully",
+     "raw": "rightfully",
+     "p": 4,
+     "s": 4,
+     "sent": "We want more for our kids, and rightfully so."
+    },
+    {
+     "w": "headlong",
+     "raw": "headlong",
+     "p": 5,
+     "s": 0,
+     "sent": "But the headlong push into bachelor's degrees for all - and the subtle devaluing of anything less - misses an important point: That's not the only thing the American economy needs."
+    },
+    {
+     "w": "subtle",
+     "raw": "subtle",
+     "p": 5,
+     "s": 0,
+     "sent": "But the headlong push into bachelor's degrees for all - and the subtle devaluing of anything less - misses an important point: That's not the only thing the American economy needs."
+    },
+    {
+     "w": "devaluing",
+     "raw": "devaluing",
+     "p": 5,
+     "s": 0,
+     "sent": "But the headlong push into bachelor's degrees for all - and the subtle devaluing of anything less - misses an important point: That's not the only thing the American economy needs."
+    },
+    {
+     "w": "construction",
+     "raw": "construction",
+     "p": 5,
+     "s": 2,
+     "sent": "But even now, 54 percent of the jobs in the country are middle-skill jobs, such as construction and high-skill manufacturing."
+    },
+    {
+     "w": "adequately",
+     "raw": "adequately",
+     "p": 5,
+     "s": 3,
+     "sent": "But only 44 percent of workers are adequately trained."
+    },
+    {
+     "w": "frustrated",
+     "raw": "frustrated",
+     "p": 6,
+     "s": 0,
+     "sent": "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face."
+    },
+    {
+     "w": "vanishing",
+     "raw": "vanishing,",
+     "p": 6,
+     "s": 0,
+     "sent": "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face."
+    },
+    {
+     "w": "solution",
+     "raw": "solution",
+     "p": 6,
+     "s": 0,
+     "sent": "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face."
+    },
+    {
+     "w": "staring",
+     "raw": "staring",
+     "p": 6,
+     "s": 0,
+     "sent": "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face."
+    },
+    {
+     "w": "equipped",
+     "raw": "equipped",
+     "p": 6,
+     "s": 1,
+     "sent": "There is a gap in working-class jobs, but the workers who need those jobs most aren't equipped to do them."
+    },
+    {
+     "w": "overlooking",
+     "raw": "overlooking",
+     "p": 7,
+     "s": 1,
+     "sent": "When education becomes one-size-fits-all, it risks overlooking a nation's diversity of gifts."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 0,
+     "text": "It is curious that Stephen Koziatek feels almost as though he has to justify his efforts to give his students a better future."
+    },
+    {
+     "p": 1,
+     "s": 2,
+     "text": "When did it become accepted wisdom that students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain?"
+    },
+    {
+     "p": 2,
+     "s": 1,
+     "text": "Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum."
+    },
+    {
+     "p": 3,
+     "s": 2,
+     "text": "Schools in the family of vocational education \"have that stereotype...that it's for kids who can't make it academically,\" he says."
+    },
+    {
+     "p": 4,
+     "s": 2,
+     "text": "The job security that the US economy once offered to high school graduates has largely evaporated."
+    },
+    {
+     "p": 5,
+     "s": 0,
+     "text": "But the headlong push into bachelor's degrees for all - and the subtle devaluing of anything less - misses an important point: That's not the only thing the American economy needs."
+    },
+    {
+     "p": 6,
+     "s": 0,
+     "text": "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face."
+    },
+    {
+     "p": 6,
+     "s": 1,
+     "text": "There is a gap in working-class jobs, but the workers who need those jobs most aren't equipped to do them."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "stuck with",
+     "loc": "2:1",
+     "a": 14,
+     "b": 15,
+     "sent": "Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum.",
+     "cn": "强迫学生坐在涂满乱画、粘着几代人丢弃口香糖的课桌前学几何，并不一定能得到什么。",
+     "m": "被迫接受；无法摆脱；肩负",
+     "base": "stuck with",
+     "note": "",
+     "p": 2,
+     "s": 1
+    },
+    {
+     "text": "chewing gum",
+     "loc": "2:1",
+     "a": 19,
+     "b": 20,
+     "sent": "Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum.",
+     "cn": "强迫学生坐在涂满乱画、粘着几代人丢弃口香糖的课桌前学几何，并不一定能得到什么。",
+     "m": "口香糖；[化] 口香糖",
+     "base": "chewing gum",
+     "note": "",
+     "p": 2,
+     "s": 1
+    }
+   ],
+   "qwords": [],
+   "updatedAt": "2026-11-02T07:38:58.593Z"
   }
  },
  "prefs": {
@@ -7836,7 +8136,12 @@
    "joy": 2,
    "bidders": 2,
    "intimidating": 1,
-   "wordy": 1
+   "wordy": 1,
+   "graffitied": 2,
+   "discarded": 2,
+   "assembling": 2,
+   "insidious": 1,
+   "stereotype...that": 2
   },
   "confuse": {
    "intrinsically": [
@@ -7889,6 +8194,9 @@
    ],
    "thornier": [
     "irony 讽刺的"
+   ],
+   "vocational": [
+    "vacation 假期"
    ]
   },
   "quiz": {
@@ -8666,7 +8974,42 @@
    "talents": "2026-10-29T16:41:01.067Z",
    "supervise": "2026-10-29T16:42:37.555Z",
    "sympathetic": "2026-10-29T16:42:51.825Z",
-   "parkun": "2026-10-30T03:34:44.837Z"
+   "parkun": "2026-10-30T03:34:44.837Z",
+   "curious": "2026-11-02T05:44:45.015Z",
+   "efforts": "2026-11-02T05:45:29.503Z",
+   "justify": "2026-11-02T05:45:31.806Z",
+   "pioneering": "2026-11-02T05:47:56.026Z",
+   "mechanical": "2026-11-02T05:48:36.459Z",
+   "utterly": "2026-11-02T05:50:28.661Z",
+   "broken": "2026-11-02T05:50:45.447Z",
+   "overwhelmed": "2026-11-02T07:07:19.856Z",
+   "geometry": "2026-11-02T07:08:54.171Z",
+   "graffitied": "2026-11-02T07:08:57.155Z",
+   "discarded": "2026-11-02T07:09:48.982Z",
+   "chewing": "2026-11-02T07:09:55.821Z",
+   "bicycle": "2026-11-02T07:11:46.714Z",
+   "assembling": "2026-11-02T07:11:54.604Z",
+   "insidious": "2026-11-02T07:15:13.561Z",
+   "inferiority": "2026-11-02T07:15:32.109Z",
+   "vocational": "2026-11-02T07:15:56.276Z",
+   "stereotype...that": "2026-11-02T07:17:03.346Z",
+   "logical": "2026-11-02T07:22:09.588Z",
+   "evolution": "2026-11-02T07:22:15.515Z",
+   "manufacturing": "2026-11-02T07:22:55.576Z",
+   "security": "2026-11-02T07:23:44.523Z",
+   "evaporated": "2026-11-02T07:23:56.727Z",
+   "principle": "2026-11-02T07:24:34.491Z",
+   "rightfully": "2026-11-02T07:24:52.889Z",
+   "headlong": "2026-11-02T07:26:26.983Z",
+   "subtle": "2026-11-02T07:26:46.594Z",
+   "devaluing": "2026-11-02T07:26:54.560Z",
+   "adequately": "2026-11-02T07:32:26.082Z",
+   "frustrated": "2026-11-02T07:35:30.025Z",
+   "vanishing": "2026-11-02T07:35:51.992Z",
+   "solution": "2026-11-02T07:35:58.355Z",
+   "staring": "2026-11-02T07:36:02.221Z",
+   "equipped": "2026-11-02T07:38:06.589Z",
+   "overlooking": "2026-11-02T07:38:56.204Z"
   },
   "archived": {
    "uccelli": {
@@ -10792,7 +11135,7 @@
     "contextReveal": false,
     "contextGrades": [],
     "elapsed": 1108.7110000000027,
-    "paused": false,
+    "paused": true,
     "sound": true,
     "queueDay": "Thu Oct 22 2026",
     "personalIDs": [
@@ -13103,7 +13446,7 @@
      "success",
      "understand"
     ],
-    "sessionAt": 1793598259910,
+    "sessionAt": 1793603780613,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -14043,7 +14386,7 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1793598257242,
+    "cursorAt30": 1793598277273,
     "quick39": false,
     "stage0": null,
     "home41Seen": true,
@@ -14052,7 +14395,7 @@
     "libTab42": {},
     "v43list": true
    },
-   "updatedAt": 1793598259910
+   "updatedAt": 1793603780613
   },
   "sentenceReview27": {
    "version": 27,
