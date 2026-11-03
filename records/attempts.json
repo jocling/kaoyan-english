@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-11-03T02:05:29.224Z",
+ "updatedAt": "2026-11-03T06:10:51.636Z",
  "count": 29,
  "attempts": [
   {
@@ -8144,6 +8144,332 @@
    ],
    "qwords": [],
    "updatedAt": "2026-11-02T07:38:58.593Z"
+  },
+  "2018-2": {
+   "words": [
+    {
+     "w": "fossil",
+     "raw": "fossil",
+     "p": 0,
+     "s": 0,
+     "sent": "While fossil fuels - coal, oil, gas - still generate roughly 85 percent of the world's energy supply, it's clearer than ever that the future belongs to renewable sources such as wind and solar."
+    },
+    {
+     "w": "picking",
+     "raw": "picking",
+     "p": 0,
+     "s": 1,
+     "sent": "The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line."
+    },
+    {
+     "w": "stems",
+     "raw": "stems",
+     "p": 1,
+     "s": 0,
+     "sent": "Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources."
+    },
+    {
+     "w": "commitment",
+     "raw": "commitment",
+     "p": 1,
+     "s": 0,
+     "sent": "Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources."
+    },
+    {
+     "w": "farsighted",
+     "raw": "farsighted",
+     "p": 1,
+     "s": 0,
+     "sent": "Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources."
+    },
+    {
+     "w": "turbines",
+     "raw": "turbines",
+     "p": 1,
+     "s": 2,
+     "sent": "The cost of solar panels has dropped by 80 percent and the cost of wind turbines by close to one-third in the past eight years."
+    },
+    {
+     "w": "notably",
+     "raw": "notably",
+     "p": 2,
+     "s": 2,
+     "sent": "While the rest of the world takes the lead, notably China and Europe, the United States is also seeing a remarkable shift."
+    },
+    {
+     "w": "remarkable",
+     "raw": "remarkable",
+     "p": 2,
+     "s": 2,
+     "sent": "While the rest of the world takes the lead, notably China and Europe, the United States is also seeing a remarkable shift."
+    },
+    {
+     "w": "coal",
+     "raw": "coal",
+     "p": 3,
+     "s": 0,
+     "sent": "President Trump has underlined fossil fuels - especially coal - as the path to economic growth."
+    },
+    {
+     "w": "dismissed",
+     "raw": "dismissed",
+     "p": 3,
+     "s": 1,
+     "sent": "In a recent speech in Iowa, he dismissed wind power as an unreliable energy source."
+    },
+    {
+     "w": "dot",
+     "raw": "dot",
+     "p": 3,
+     "s": 2,
+     "sent": "But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state's electricity generation - and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers."
+    },
+    {
+     "w": "put-down",
+     "raw": "put-down",
+     "p": 4,
+     "s": 0,
+     "sent": "The question \"what happens when the wind doesn't blow or the sun doesn't shine?\" has provided a quick put-down for skeptics."
+    },
+    {
+     "w": "storage",
+     "raw": "storage",
+     "p": 4,
+     "s": 1,
+     "sent": "But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely."
+    },
+    {
+     "w": "flowing",
+     "raw": "flowing",
+     "p": 4,
+     "s": 1,
+     "sent": "But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely."
+    },
+    {
+     "w": "bets",
+     "raw": "bets",
+     "p": 5,
+     "s": 0,
+     "sent": "The advance is driven in part by vehicle manufacturers, who are placing big bets on battery-powered electric vehicles."
+    },
+    {
+     "w": "rarity",
+     "raw": "rarity",
+     "p": 5,
+     "s": 1,
+     "sent": "Although electric cars are still a rarity on roads now, this massive investment could change the picture rapidly in coming years."
+    },
+    {
+     "w": "spiking",
+     "raw": "spiking.",
+     "p": 6,
+     "s": 0,
+     "sent": "While there's a long way to go, the trend lines for renewables are spiking."
+    },
+    {
+     "w": "promote",
+     "raw": "promote",
+     "p": 6,
+     "s": 2,
+     "sent": "What Washington does - or doesn't do - to promote alternative energy may mean less and less at a time of a global shift in thought."
+    },
+    {
+     "w": "alternative",
+     "raw": "alternative",
+     "p": 6,
+     "s": 2,
+     "sent": "What Washington does - or doesn't do - to promote alternative energy may mean less and less at a time of a global shift in thought."
+    }
+   ],
+   "sentences": [
+    {
+     "p": 0,
+     "s": 1,
+     "text": "The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line."
+    },
+    {
+     "p": 1,
+     "s": 0,
+     "text": "Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources."
+    },
+    {
+     "p": 3,
+     "s": 2,
+     "text": "But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state's electricity generation - and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers."
+    },
+    {
+     "p": 6,
+     "s": 2,
+     "text": "What Washington does - or doesn't do - to promote alternative energy may mean less and less at a time of a global shift in thought."
+    }
+   ],
+   "phrases": [
+    {
+     "text": "belongs to",
+     "loc": "0:0",
+     "a": 25,
+     "b": 26,
+     "sent": "While fossil fuels - coal, oil, gas - still generate roughly 85 percent of the world's energy supply, it's clearer than ever that the future belongs to renewable sources such as wind and solar.",
+     "cn": "尽管煤、石油和天然气等化石燃料仍提供全球约85%的能源，但如今比以往任何时候都更清楚：未来属于风能、太阳能等可再生能源。",
+     "m": "",
+     "base": "",
+     "note": "属于",
+     "p": 0,
+     "s": 0
+    },
+    {
+     "text": "picking up",
+     "loc": "0:1",
+     "a": 5,
+     "b": 6,
+     "sent": "The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line.",
+     "cn": "全球向可再生能源转型的势头正在增强；在新增并网投产的电力来源中，可再生能源已占一半以上。",
+     "m": "n. 搭便车；v. 拾起；探出；重新开始",
+     "base": "picking up",
+     "note": "",
+     "p": 0,
+     "s": 1
+    },
+    {
+     "text": "account for",
+     "loc": "0:1",
+     "a": 13,
+     "b": 14,
+     "sent": "The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line.",
+     "cn": "全球向可再生能源转型的势头正在增强；在新增并网投产的电力来源中，可再生能源已占一半以上。",
+     "m": "对…负有责任；对…做出解释；说明……的原因；导致；（比例）占",
+     "base": "account for",
+     "note": "",
+     "p": 0,
+     "s": 1
+    },
+    {
+     "text": "going on line",
+     "loc": "0:1",
+     "a": 22,
+     "b": 24,
+     "sent": "The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line.",
+     "cn": "全球向可再生能源转型的势头正在增强；在新增并网投产的电力来源中，可再生能源已占一半以上。",
+     "m": "[经] (与主机)联机, 在线, 机内",
+     "base": "on line",
+     "note": "",
+     "p": 0,
+     "s": 1
+    },
+    {
+     "text": "for the first time",
+     "loc": "2:3",
+     "a": 2,
+     "b": 5,
+     "sent": "In March, for the first time, wind and solar power accounted for more than 10 percent of the power generated in the US, reported the US Energy Information Administration.",
+     "cn": "美国能源信息署报告，今年3月风能和太阳能发电量首次占美国总发电量10%以上。",
+     "m": "第一次",
+     "base": "for the first time",
+     "note": "",
+     "p": 2,
+     "s": 3
+    },
+    {
+     "text": "play well with",
+     "loc": "3:2",
+     "a": 5,
+     "b": 7,
+     "sent": "But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state's electricity generation - and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers.",
+     "cn": "但这一说法并未得到许多艾奥瓦人的认同；那里田野间遍布风机，提供全州36%的发电量，而且微软等科技巨头正被能够为数据中心供电的清洁能源吸引而来。",
+     "m": "",
+     "base": "",
+     "note": "受到...欢迎，如受到某些群体的欢迎，这里是否定",
+     "p": 3,
+     "s": 2
+    },
+    {
+     "text": "around the clock",
+     "loc": "4:1",
+     "a": 17,
+     "b": 19,
+     "sent": "But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely.",
+     "cn": "但电池储能能力增强，正使可再生能源全天候持续供电更有可能成为现实。",
+     "m": "连续一整天, 连续一昼夜, 二十四小时",
+     "base": "around the clock",
+     "note": "全天候",
+     "p": 4,
+     "s": 1
+    },
+    {
+     "text": "bets on",
+     "loc": "5:0",
+     "a": 13,
+     "b": 14,
+     "sent": "The advance is driven in part by vehicle manufacturers, who are placing big bets on battery-powered electric vehicles.",
+     "cn": "这一进展部分由汽车制造商推动，因为它们正在以巨额投入押注电池驱动的电动汽车。",
+     "m": "v. 打赌",
+     "base": "bet on",
+     "note": "",
+     "p": 5,
+     "s": 0
+    },
+    {
+     "text": "just in time",
+     "loc": "6:1",
+     "a": 14,
+     "b": 16,
+     "sent": "The pace of change in energy sources appears to be speeding up - perhaps just in time to have a meaningful effect in slowing climate change.",
+     "cn": "能源来源变化的速度似乎正在加快，也许正好来得及对减缓气候变化产生实质影响。",
+     "m": "正好；可好；分秒不差",
+     "base": "just in time",
+     "note": "",
+     "p": 6,
+     "s": 1
+    }
+   ],
+   "qwords": [
+    {
+     "key": "26:A:0",
+     "w": "stabilizing",
+     "raw": "stabilizing",
+     "n": 26,
+     "part": "A",
+     "sent": "stabilizing",
+     "cn": "趋于稳定"
+    },
+    {
+     "key": "27:D:4",
+     "w": "impractical",
+     "raw": "impractical",
+     "n": 27,
+     "part": "D",
+     "sent": "has proved to be impractical",
+     "cn": "已被证明不切实际"
+    },
+    {
+     "key": "29:A:1",
+     "w": "application",
+     "raw": "application",
+     "n": 29,
+     "part": "A",
+     "sent": "Its application has boosted battery storage.",
+     "cn": "它的应用促进了电池储能的发展。"
+    },
+    {
+     "key": "29:A:5",
+     "w": "storage",
+     "raw": "storage.",
+     "n": 29,
+     "part": "A",
+     "sent": "Its application has boosted battery storage.",
+     "cn": "它的应用促进了电池储能的发展。"
+    },
+    {
+     "key": "29:D:2",
+     "w": "exploitation",
+     "raw": "exploitation",
+     "n": 29,
+     "part": "D",
+     "sent": "Its sustainable exploitation will remain difficult.",
+     "cn": "它的可持续开发仍将十分困难。"
+    }
+   ],
+   "updatedAt": "2026-11-03T06:08:49.603Z"
   }
  },
  "prefs": {
@@ -8207,7 +8533,8 @@
    "discarded": 2,
    "assembling": 2,
    "insidious": 1,
-   "stereotype...that": 2
+   "stereotype...that": 2,
+   "farsighted": 2
   },
   "confuse": {
    "intrinsically": [
@@ -9075,7 +9402,33 @@
    "solution": "2026-11-02T07:35:58.355Z",
    "staring": "2026-11-02T07:36:02.221Z",
    "equipped": "2026-11-02T07:38:06.589Z",
-   "overlooking": "2026-11-02T07:38:56.204Z"
+   "overlooking": "2026-11-02T07:38:56.204Z",
+   "fossil": "2026-11-03T05:38:07.381Z",
+   "picking": "2026-11-03T05:40:06.893Z",
+   "going": "2026-11-03T05:41:37.774Z",
+   "stems": "2026-11-03T05:43:53.335Z",
+   "farsighted": "2026-11-03T05:44:19.861Z",
+   "plummeting": "2026-11-03T05:45:40.389Z",
+   "turbines": "2026-11-03T05:45:58.682Z",
+   "principal": "2026-11-03T05:48:34.247Z",
+   "notably": "2026-11-03T05:48:58.278Z",
+   "remarkable": "2026-11-03T05:49:32.142Z",
+   "coal": "2026-11-03T05:50:50.700Z",
+   "dismissed": "2026-11-03T05:51:02.083Z",
+   "dot": "2026-11-03T05:52:03.773Z",
+   "attracted": "2026-11-03T05:52:25.229Z",
+   "put-down": "2026-11-03T05:57:27.945Z",
+   "storage": "2026-11-03T05:57:52.830Z",
+   "flowing": "2026-11-03T05:58:06.414Z",
+   "bets": "2026-11-03T05:59:40.754Z",
+   "rarity": "2026-11-03T06:00:13.581Z",
+   "spiking": "2026-11-03T06:00:33.933Z",
+   "alternative": "2026-11-03T06:01:34.911Z",
+   "thought": "2026-11-03T06:02:11.080Z",
+   "stabilizing": "2026-11-03T06:04:28.313Z",
+   "impractical": "2026-11-03T06:04:59.017Z",
+   "application": "2026-11-03T06:08:10.555Z",
+   "exploitation": "2026-11-03T06:08:47.772Z"
   },
   "archived": {
    "uccelli": {
@@ -13595,7 +13948,7 @@
      "assembling",
      "chewing"
     ],
-    "sessionAt": 1793671523683,
+    "sessionAt": 1793686238663,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -14543,7 +14896,7 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1793671523683,
+    "cursorAt30": 1793671529248,
     "quick39": false,
     "stage0": null,
     "home41Seen": true,
@@ -14552,7 +14905,7 @@
     "libTab42": {},
     "v43list": true
    },
-   "updatedAt": 1793671523683
+   "updatedAt": 1793686238663
   },
   "sentenceReview27": {
    "version": 27,
