@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-11-03T02:05:13.078Z",
+ "updatedAt": "2026-11-03T02:05:18.434Z",
  "count": 29,
  "attempts": [
   {
@@ -13595,7 +13595,7 @@
      "assembling",
      "chewing"
     ],
-    "sessionAt": 1793671510249,
+    "sessionAt": 1793671513101,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -14543,7 +14543,7 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1793671507237,
+    "cursorAt30": 1793671513101,
     "quick39": false,
     "stage0": null,
     "home41Seen": true,
@@ -14552,7 +14552,7 @@
     "libTab42": {},
     "v43list": true
    },
-   "updatedAt": 1793671510249
+   "updatedAt": 1793671513101
   },
   "sentenceReview27": {
    "version": 27,
