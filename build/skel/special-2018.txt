@@ -1,0 +1,531 @@
+# special-2018-cloze|0:0
+type 特殊疑问复合句｜并列谓语，that定语从句
+chunks Why do people read negative Internet comments and do other things〔主〕 that will obviously be painful?〔C1〕
+main 主语:people | 谓语:do … read … do | 宾语:negative Internet comments … other things
+gist 人们为何阅读负面评论并做其他事
+C1 定语从句 | 修饰things | that | 前面是things，后面will be painful缺主语；that代指事情作主语，不是引导宾语内容 | 主语:that | 谓语:will … be | 表语:painful
+mod obviously → painful | 语气副词 | 明显会令人痛苦
+point Why询问整句原因，首个do是助动词，and后do是做的实义动词。
+
+# special-2018-cloze|0:1
+type 原因从句答句｜because承接上句的why提问
+chunks Because humans have an inherent need〔C1〕 to 【resolve】 uncertainty,〔C1修〕 according to a recent study in Psychological Science.〔修〕
+gist 因为人有消除不确定性的需求
+C1 原因状语从句 | 回答上一条为什么这样做 | Because | 上句提出Why疑问，Because后humans have a need主谓宾完整；本条只给原因部分，不虚构未出现的主句 | 主语:humans | 谓语:have | 宾语:an inherent need
+mod to 【resolve】 uncertainty → need | 不定式定语 | 消除不确定性的需求
+mod according to a recent study in Psychological Science → 整句 | 信息来源 | 引自该刊近期研究
+
+# special-2018-cloze|0:2
+type 主从复合句｜宾语、so…that结果、even when让步、主语从句
+chunks The new research reveals〔主〕 that the need to know〔C1〕 is so strong〔C1〕 that people will 【seek】 to satisfy their curiosity〔C2〕 even when it is clear〔C3〕 the answer will 【hurt】.〔C4〕
+main 主语:The new research | 谓语:reveals | 宾语:C1
+gist 新研究揭示（一件事）——内容是从句①：人们消除不确定性的需求很强烈。
+C1 宾语从句 | 作reveals的宾语 | that | 前面reveals缺内容，后面the need is so strong主系表完整；第一个that只连接，整块作宾语 | 主语:the need | 谓语:is | 表语:so strong
+C2 结果状语从句 in C1 | 说明需求强烈的结果 | that | 前面so strong提出程度，第二个that后people will seek…主谓完整；so…that…表示如此强以至于 | 主语:people | 谓语:will 【seek】 | 宾语:to satisfy their curiosity
+C3 让步状语从句 in C2 | 即使清楚后果仍满足好奇心 | even when | 前面people will seek…已完整，even when后it is clear主系表完整；整块表示即使在这种情况下 | 形式主语:it | 谓语:is | 表语:clear | 真正主语:C4
+C4 主语从句 in C3 | it的真正主语 | （省略 that） | 前面it is clear用it占位，后面the answer will hurt主谓完整；省略that，整块是清楚的内容 | 主语:the answer | 谓语:will 【hurt】
+mod to know → need | 不定式定语 | 想知道答案的需求
+point 两个明写that分别引导宾语和结果从句，不能一律归为宾语从句。
+
+# special-2018-cloze|0:3
+type 简单句｜不定式限定willingness，目的介词短语
+chunks In a series of four experiments,〔修〕 behavioral scientists〔主〕 at the University of Chicago and the Wisconsin School of Business〔修〕 tested students' willingness〔主〕 to 【expose】 themselves to unpleasant stimuli in an effort to satisfy curiosity.〔修〕
+main 主语:behavioral scientists | 谓语:tested | 宾语:students' willingness
+gist 行为科学家测试学生的意愿
+mod In a series of four experiments → tested | 实验背景 | 四组实验中
+mod at the University of Chicago and the Wisconsin School of Business → scientists | 机构定语 | 介绍研究者所属单位
+mod to 【expose】 themselves to unpleasant stimuli → willingness | 不定式定语 | 愿意让自己接触不愉快刺激
+mod in an effort to satisfy curiosity → 【expose】 | 目的补充 | 为了满足好奇心
+
+# special-2018-cloze|0:4
+type 主从复合句｜双层定语关联，the researcher claimed为插入判断
+chunks For one 【trial】,〔修〕 each participant was shown a pile〔主〕 of pens〔修〕 that〔C1〕 the researcher claimed〔修〕 were from a previous experiment.〔C1〕
+main 主语:each participant | 谓语:was shown | 宾语:a pile
+gist 每个参与者都被展示一堆笔
+C1 定语从句 | 修饰pens | that | 前面是pens，去掉插入的the researcher claimed后that were from…缺主语；that代指笔作were的主语 | 主语:that | 谓语:were | 表语:from a previous experiment
+mod For one 【trial】 → 整句 | 情境状语 | 在一次试验中
+mod of pens → pile | 介词定语 | 一堆笔
+mod the researcher claimed → C1 | 插入性判断 | 表示研究者声称，按插入读法理解而非并列主句
+point shown在双宾语被动句中仍带展示物a pile，属于保留的宾语，不把它当成被展示的参与者。
+
+# special-2018-cloze|0:5
+type 省略疑问短语｜无实际限定谓语
+chunks The twist?〔主〕
+main 主语:The twist
+gist 意外之处是什么
+point 原文只写名词短语The twist，理解时补足提问含义，不在骨架里添加未出现的is。
+
+# special-2018-cloze|0:6
+type 主从复合句｜when clicked为省略被动时间从句
+chunks Half of the pens〔主〕 would 【deliver】 an electric shock〔主〕 when clicked.〔C1〕
+main 主语:Half of the pens | 谓语:would 【deliver】 | 宾语:an electric shock
+gist 一半的笔会释放电击
+C1 时间状语从句（省略） | 说明电击触发条件 | when | when后clicked省略与笔相应的they were，完整义为笔被按下时；不是新出现的独立过去时谓语 | 谓语:clicked
+
+# special-2018-cloze|0:7
+type 多句条目｜which宾语，when省略，who定语与than比较从句
+chunks Twenty-seven students were told〔主〕 which pens were electrified;〔C1〕 another twenty-seven were told only〔主〕 that some were electrified.〔C2〕 【When】 left alone in the room,〔C3〕 the students〔主〕 who did not know〔C4〕 which ones would shock them〔C5〕 clicked more pens and incurred more shocks〔主〕 than the students〔C6〕 who knew〔C7〕 what would 【happen】.〔C8〕
+main 主语:Twenty-seven students | 谓语:were told | 宾语:C1 || 主语:another twenty-seven | 谓语:were told#2 | 宾语:C2 || 主语:the students | 谓语:clicked | 宾语:more pens | 谓语:incurred | 宾语:more shocks
+C1 宾语从句 | 作told后保留的内容宾语 | which | 前面were told缺获知内容，which pens were electrified是疑问限定词加主系表；整块说明哪些笔带电 | 主语:which pens | 谓语:were | 表语:electrified
+C2 宾语从句 | 作第二处told的内容宾语 | that | 前面were told缺告知内容，that后some were electrified主系表完整；that不作成分 | 主语:some | 谓语:were | 表语:electrified
+C3 时间状语从句（省略） | 表示学生独处时 | 【When】 | When后left alone省略they were，表示被留在房间时；主句在后面的students clicked | 谓语:left | 主语补足语:alone
+C4 定语从句 | 修饰主句students | who | 前面students指人，后面did not know缺主语；who代指学生作主语 | 主语:who | 谓语:did not know | 宾语:C5
+C5 宾语从句 in C4 | 作know的宾语 | which | 前面know缺知道内容，which ones would shock them主谓宾完整，which限定ones，整块作宾语 | 主语:which ones | 谓语:would shock | 宾语:them
+C6 比较状语从句（省略） | 比较不知道与知道的学生 | than | 前面more pens及more shocks提出比较，than后the students省略重复点击和遭受动作；这批学生后有who限定 | 主语:the students
+C7 定语从句 in C6 | 修饰比较对象students | who | 前面是students，后面knew缺主语；who代指学生作knew的主语 | 主语:who | 谓语:knew | 宾语:C8
+C8 宾语从句 in C7 | 作knew的宾语 | what | 前面knew缺获知内容，what would happen缺主语；what兼作连接词和主语 | 主语:what | 谓语:would 【happen】
+gist 两组被告知不同内容，不知情者点击更多并受更多电击
+point 原条目包含两句。which pens/ones中的which限定名词，不可一律称作关系代词；when后的left是省略被动结构。
+
+# special-2018-cloze|0:8
+type 简单句｜such as列举刺激
+chunks Subsequent experiments reproduced this effect〔主〕 with other stimuli, 【such as】 the sound of fingernails on a chalkboard and photographs of disgusting insects.〔修〕
+main 主语:Subsequent experiments | 谓语:reproduced | 宾语:this effect
+gist 后续实验复现这种效果
+mod with other stimuli → reproduced | 实验方式 | 改用其他刺激仍有同样效果
+mod 【such as】 the sound of fingernails on a chalkboard and photographs of disgusting insects → stimuli | 举例补充 | 两种刺激，and连接声音与照片两个名词项
+
+# special-2018-cloze|0:9
+type 简单句｜不定式限定drive，比较和引述补充
+chunks The drive〔主〕 to 【discover】〔修〕 is deeply rooted〔主〕 in humans, much the same as the basic drives for 【food】 or shelter, says Christopher Hsee of the University of Chicago.〔修〕
+main 主语:The drive | 谓语:is … rooted
+gist 探索驱动力根植于人
+mod to 【discover】 → drive | 不定式定语 | 探索的驱动力
+mod deeply → rooted | 程度状语 | 根植很深
+mod in humans → rooted | 介词补足 | 根植于人性
+mod much the same as the basic drives for 【food】 or shelter → 整句 | 比较补充 | 与食物或住所的基本需求类似
+mod says Christopher Hsee of the University of Chicago → 整句 | 引述语 | 介绍研究者和所属机构
+
+# special-2018-cloze|0:10
+type 多分句条目｜破折号插入举例，but转折
+chunks Curiosity is often considered a good instinct〔主〕 -〔修〕 it can 【lead to】 new scientific advances,〔主〕 for instance -〔修〕 but〔连〕 sometimes〔修〕 such 【inquiry】 can backfire.〔主〕
+main 主语:Curiosity | 谓语:is … considered | 主语补足语:a good instinct || 主语:it | 谓语:can 【lead to】 | 宾语:new scientific advances || &but || 主语:such 【inquiry】 | 谓语:can backfire
+gist 好奇心被认为有益，能推动进展，却也会适得其反
+mod often → considered | 频率状语 | 通常被如此看待
+mod for instance → 整句 | 举例衔接 | 破折号内举出科研进展的例子
+mod sometimes → backfire | 频率状语 | 有时会有反效果
+
+# special-2018-cloze|0:11
+type 主从复合句｜that同位语从句
+chunks The insight〔主〕 that curiosity can drive you to do 【self-destructive】 things〔C1〕 is a profound one.〔主〕
+main 主语:The insight | 谓语:is | 表语:a profound one
+gist 这是一项深刻认识
+C1 同位语从句 | 解释insight的具体内容 | that | 前面是抽象名词insight，后面curiosity can drive you to do things主谓宾补完整；that不作成分，只说明认识内容 | 主语:curiosity | 谓语:can drive | 宾语:you | 宾补:to do 【self-destructive】 things
+point 不是因that在名词后就判定语从句，关键看后面是否缺由that承担的名词成分。
+
+# special-2018-cloze|0:12
+type 简单句｜possible后不定式，主语对应resist的对象
+chunks Unhealthy curiosity is possible〔主〕 to 【resist】, however.〔修〕
+main 主语:Unhealthy curiosity | 谓语:is | 表语:possible
+gist 不健康的好奇心是可以抵制的
+mod to 【resist】 → possible | 不定式补足 | 抵制的语义对象是Unhealthy curiosity，不是好奇心主动抵制某物
+mod however → 整句 | 转折衔接 | 对前面消极后果作转折
+
+# special-2018-cloze|0:13
+type 主从复合句｜who定语从句内含how宾语从句
+chunks In a final experiment,〔修〕 participants〔主〕 who were encouraged to 【predict】〔C1〕 how they would feel〔C2〕 after viewing an unpleasant picture〔C2修〕 were less likely〔主〕 to 【choose】 to see such an image.〔修〕
+main 主语:participants | 谓语:were | 表语:less likely
+gist 这些参与者更少选择观看
+C1 定语从句 | 修饰participants | who | 前面是参与者，后面were encouraged缺主语；who代指参与者作主语 | 主语:who | 谓语:were encouraged | 主语补足语:to 【predict】
+C2 宾语从句 in C1 | 作predict的宾语 | how | 前面predict缺预测内容，how后they would feel主谓完整；how表示感受方式，整块作宾语 | 主语:they | 谓语:would feel
+mod In a final experiment → 整句 | 实验背景 | 在最后一个实验里
+mod after viewing an unpleasant picture → feel | 时间状语 | 看完不愉快图片之后
+mod to 【choose】 to see such an image → likely | 不定式补足 | 选择观看这种图片的可能性
+
+# special-2018-cloze|0:14
+type 主从复合句｜that宾语内动名词主语，whether宾语从句
+chunks These results suggest〔主〕 that imagining the 【outcome】〔C1〕 of following through on one's curiosity ahead of time〔C1修〕 can help determine〔C1〕 【whether】 it is worth the endeavor.〔C2〕
+main 主语:These results | 谓语:suggest | 宾语:C1
+gist 这些结果表明（一件事）——内容是从句①：想象结果有助于判断是否值得尝试。
+C1 宾语从句 | 作suggest的宾语 | that | 前面suggest缺发现内容，that后imagining…can help determine…有动名词主语及限定谓语；that不作成分 | 主语:imagining the 【outcome】 | 谓语:can help
+C2 宾语从句 in C1 | 作determine的宾语 | 【whether】 | 前面determine缺判断内容，whether后it is worth the endeavor主系表完整；whether表示是否 | 主语:it | 谓语:is | 表语:worth the endeavor
+mod of following through on one's curiosity → 【outcome】 | 介词定语 | 满足好奇心的后果
+mod ahead of time → imagining | 时间状语 | 提前想象后果
+mod determine → help | 不定式补足 | help后省略to的动作补足，不是另一个限定谓语
+
+# special-2018-cloze|0:15
+type 引语条目｜动名词主语，介词to后动名词
+chunks "Thinking about long-term 【consequences】〔主〕 is key〔主〕 to reducing the possible negative effects of curiosity,"〔修〕 Hsee says.〔修〕
+main 主语:Thinking about long-term 【consequences】 | 谓语:is | 表语:key
+gist 思考长期后果是关键
+mod to reducing the possible negative effects of curiosity → key | 介词补足 | key to中的to是介词，后接reducing动名词
+mod Hsee says → 整句 | 引述语 | 研究者这样说
+
+# special-2018-cloze|0:16
+type 否定祈使句｜省略主语you
+chunks In other words,〔修〕 don't read online comments.〔主〕
+main 谓语:don't read | 宾语:online comments
+gist 不要阅读网上评论
+mod In other words → 整句 | 换言衔接 | 以前文研究结论给建议
+
+# special-2018-newtype|0:0
+type 名词性标题｜不定式限定ways
+chunks Five ways〔主〕 to make conversation with anyone〔修〕
+main 主语:Five ways
+gist 五种交谈方法
+mod to make conversation with anyone → ways | 不定式定语 | 与任何人交谈的方法
+point 标题没有限定谓语，主语栏只列标题名词中心。
+
+# special-2018-newtype|1:0
+type 主从复合句｜which评价，零that宾语内含when和零关系词定语
+chunks Conversations are links,〔主〕 which means〔C1〕 when you have a conversation with a new person〔C2〕 a link gets formed〔C3〕 and〔连〕 every conversation〔C3〕 you have after that moment〔C4〕 will strengthen the link.〔C3〕
+main 主语:Conversations | 谓语:are | 表语:links
+gist 谈话就是联结
+C1 非限制性定语从句 | 解释谈话是联结的含义 | which | 前面是完整判断Conversations are links，which后means缺主语；which指这一事实作主语 | 主语:which | 谓语:means | 宾语:C3
+C2 时间状语从句 in C3 | 表示何时建立联结 | when | when后you have a conversation主谓宾完整；前置作时间背景，不作means的宾语中心 | 主语:you | 谓语:have | 宾语:a conversation
+C3 宾语从句 in C1 | 作means的宾语，内部两个并列分句 | （省略 that） | 前面means缺解释内容，后面a link gets formed及every conversation will strengthen都有主谓；省略that，整块说明含义 | 主语:a link | 谓语:gets formed | 主语:every conversation | 谓语:will strengthen | 宾语:the link
+C4 定语从句 in C3 | 修饰conversation | （省略 that） | 前面是conversation，后面you have缺宾语；省略关系词指谈话作have宾语 | 主语:you | 谓语:have
+mod with a new person → conversation | 介词定语 | 与新认识的人进行的交谈
+mod after that moment → have | 时间状语 | 在那个时刻之后的交谈
+point when背景同时支撑后面的联结形成与加强；means后的整块才是宾语。
+
+# special-2018-newtype|1:1
+type 简单句｜冒号后列举宾语
+chunks You meet new people〔主〕 every day: the grocery worker, the cab driver, new people at work or the security guard at the door.〔修〕
+main 主语:You | 谓语:meet | 宾语:new people
+gist 你会遇到新的人
+mod every day → meet | 时间状语 | 每一天
+mod the grocery worker, the cab driver, new people at work or the security guard at the door → new people | 同位列举 | 列出每天可能遇到的人
+
+# special-2018-newtype|1:2
+type 简单句｜动名词短语作主语
+chunks Simply〔修〕 starting a conversation〔主〕 with them〔修〕 will form a link.〔主〕
+main 主语:starting a conversation | 谓语:will form | 宾语:a link
+gist 开始交谈就会建立联系
+mod Simply → starting | 限定副词 | 只要开始即可
+mod with them → conversation | 介词定语 | 与这些人的谈话
+
+# special-2018-newtype|1:3
+type 主从复合句｜here倒装，that方式定语从句
+chunks Here are five simple ways〔主〕 that you can make the first move〔C1〕 and start a conversation〔C1〕 with strangers.〔C1修〕
+main 谓语:are | 主语:five simple ways
+gist 这里有五个简单方法
+C1 定语从句 | 修饰ways | that | 前面是方式名词ways，后面you can make…and start…主谓宾完整；that表示借以做这些事的方式，不作两个动词的宾语 | 主语:you | 谓语:can make | 宾语:the first move | 谓语:start | 宾语:a conversation
+mod with strangers → conversation | 介词定语 | 与陌生人交谈
+point here前置引起are与名词主语倒装；that在way类关系结构中表示方式，不要误判为同位语内容。
+
+# special-2018-newtype|2:0
+type 多分句条目｜suppose宾语、零关系词定语、直接引语和that定语
+chunks Suppose〔主〕 you are in a room〔C1〕 with someone〔C1修〕 you don't know〔C2〕 and〔连〕 something within you says〔C1〕 "I want to talk with this person"〔修〕 - this is something〔主〕 that mostly happens with all of us.〔C3〕
+main 谓语:Suppose | 宾语:C1 || 主语:this | 谓语:is | 表语:something
+gist 假设与陌生人同处一室，心里想和对方交谈；大家常有这种经历。
+C1 宾语从句 | 作Suppose的宾语，两个并列分句 | （省略 that） | 前面Suppose要求设想内容，后面you are…及something says…各有主谓；省略that，整块作宾语 | 主语:you | 谓语:are | 表语:in a room | 主语:something | 谓语:says
+C2 定语从句 in C1 | 修饰someone | （省略 that） | 前面是someone，后面you don't know缺宾语；省略关系词代指陌生人 | 主语:you | 谓语:don't know
+C3 定语从句 | 修饰something | that | 前面something为先行词，后面mostly happens缺主语；that代指这种情境作主语 | 主语:that | 谓语:happens
+mod within you → something | 后置定语 | 心里的某个念头
+mod "I want to talk with this person" → says | 直接引语内容 | 心里说出的念头，引语有I want自己的骨架
+mod with all of us → happens | 适用范围 | 大家都可能遇到
+
+# special-2018-newtype|2:1
+type 多分句条目｜but转折，like表语从句
+chunks You wanted to say something〔主〕 - the first word -〔修〕 but〔连〕 it just won't come out,〔主〕 it feels〔主〕 like it is stuck somewhere.〔C1〕
+main 主语:You | 谓语:wanted | 宾语:to say something || &but || 主语:it | 谓语:won't come out || 主语:it#2 | 谓语:feels | 表语:C1
+gist 你想说话，却说不出，感觉卡住了
+C1 表语从句 | 说明feels的具体感受 | like | 前面feels缺状态内容，like后it is stuck主系表完整；like相当于好像，整块作表语 | 主语:it | 谓语:is stuck
+mod the first word → something | 同位解释 | 想说出的第一个词
+mod just → won't come out | 强调副词 | 就是说不出来
+mod somewhere → stuck | 地点状语 | 卡在某处
+
+# special-2018-newtype|2:2
+type 多分句条目｜and并列，here倒装，冒号后祈使建议
+chunks I know the feeling〔主〕 and〔连〕 here is my advice:〔主〕 just get it out.〔主〕
+main 主语:I | 谓语:know | 宾语:the feeling || &and || 谓语:is | 主语:my advice || 谓语:get | 宾语:it | 宾补:out
+gist 我了解感觉；建议是把话说出来
+point here is my advice中名词主语在系动词后；冒号后的祈使句省略you。
+
+# special-2018-newtype|2:3
+type 多分句条目｜祈使引导思考，疑问句含that定语
+chunks Just think:〔主〕 what is the worst〔主〕 that could happen?〔C1〕
+main 谓语:think || 主语:what | 谓语:is | 表语:the worst
+gist 想一想：最坏的情况是什么
+C1 定语从句 | 修饰the worst所指事情 | that | 前面the worst表示最坏的事情，后面could happen缺主语；that代指事情作主语 | 主语:that | 谓语:could happen
+
+# special-2018-newtype|2:4
+type 陈述语序疑问句｜用升调提出假设结果
+chunks They won't talk〔主〕 with you?〔修〕
+main 主语:They | 谓语:won't talk
+gist 他们不跟你说话吗
+mod with you → talk | 介词补足 | 交谈对象是你
+point 采用陈述语序加问号，原文没有把won't提前，本批不改写。
+
+# special-2018-newtype|2:5
+type 简单句｜进行时否定
+chunks Well,〔修〕 they are not talking〔主〕 with you now!〔修〕
+main 主语:they | 谓语:are not talking
+gist 他们本来就没有交谈
+mod with you → talking | 介词补足 | 与你交谈
+mod now → talking | 时间状语 | 此刻就是如此
+
+# special-2018-newtype|2:6
+type 主从复合句｜that宾语内含once时间从句
+chunks I truly believe〔主〕 that〔C1〕 once you get that first word out〔C2〕 everything else will just flow.〔C1〕
+main 主语:I | 谓语:believe | 宾语:C1
+gist 我确实相信（一件事）——内容是从句①：第一句话说出来，其余便会顺畅。
+C1 宾语从句 | 作believe的宾语 | that | 前面believe缺内容，that后主体everything else will flow主谓完整；that只连接，once部分为其时间背景 | 主语:everything else | 谓语:will … flow
+C2 时间状语从句 in C1 | 表示何时会顺畅 | once | once后you get that first word out主谓宾补完整；once表示一旦，不是名词定语 | 主语:you | 谓语:get | 宾语:that first word | 宾补:out
+mod truly → believe | 程度副词 | 确实相信
+mod just → flow | 语气副词 | 自然而然会顺畅
+
+# special-2018-newtype|2:7
+type 多分句祈使条目｜零关系词定语，to不定式表目的
+chunks So〔连〕 keep it simple:〔主〕 "Hi", "Hey" or "Hello" -〔修〕 do the best〔主〕 you can〔C1〕 to gather all of the enthusiasm and energy〔修〕 you can,〔C2〕 put on a big smile〔主〕 and〔连〕 say "Hi".〔主〕
+main 谓语:keep | 宾语:it | 宾补:simple || 谓语:do | 宾语:the best || 谓语:put on | 宾语:a big smile || &and || 谓语:say | 宾语:"Hi"
+gist 简单开口；尽力调动精力，微笑并问好
+C1 定语从句（省略谓语补足） | 修饰best所指程度 | （省略 that） | 前面the best为先行部分，后面you can省略重复do，关系词作被省略动作的宾语；表示能做到的最好 | 主语:you | 谓语:can
+C2 定语从句（省略谓语补足） | 修饰enthusiasm and energy | （省略 that） | 前面是并列名词，后面you can省略gather且缺其宾语；省略关系词代指可调动的热情精力 | 主语:you | 谓语:can
+mod "Hi", "Hey" or "Hello" → simple | 举例说明 | 例如 Hi、Hey、Hello
+mod to gather all of the enthusiasm and energy → do | 不定式目的 | 为了调动所有热情与精力
+point can后的动作由上下文补足，不把can当成独立的能做完所有事的完整词义。
+
+# special-2018-newtype|3:0
+type 多分句条目｜多个零关系词与that定语从句
+chunks It is a problem〔主〕 all of us face;〔C1〕 you have limited time〔主〕 with the person〔修〕 that you want to talk with〔C2〕 and〔连〕 you want to make this talk memorable.〔主〕
+main 主语:It | 谓语:is | 表语:a problem || 主语:you | 谓语:have | 宾语:limited time || &and || 主语:you#3 | 谓语:want#2 | 宾语:to make this talk memorable
+gist 这是共同问题：时间有限，却想让谈话难忘
+C1 定语从句 | 修饰problem | （省略 that） | 前面是problem，后面all of us face缺宾语；省略关系词指问题作face宾语 | 主语:all of us | 谓语:face
+C2 定语从句 | 修饰person | that | 前面是人的person，后面you want to talk with缺with宾语；that代指那个人作with宾语 | 主语:you | 谓语:want | 宾语:to talk
+mod with the person → time | 介词定语 | 与那个人共处的时间
+point make this talk memorable是不定式内部的宾语talk与宾补memorable，不是want的另一限定谓语。
+
+# special-2018-newtype|3:1
+type 主从复合句｜if条件，that定语从句
+chunks Honestly,〔修〕 if we got stuck in the rut of "hi", "hello", "how are you?" and "what is going on?",〔C1〕 you will fail to give the initial jolt〔主〕 to the conversation〔修〕 that can make it so memorable.〔C2〕
+main 主语:you | 谓语:will fail
+gist 你将无法给出最初的触动
+C1 条件状语从句 | 说明失败的条件 | if | if后we got stuck主谓完整，后面的引号内问题是rut的内容例子；整块给出陷入老套话的条件 | 主语:we | 谓语:got stuck
+C2 定语从句 | 修饰jolt，说明带来触动的作用 | that | 前面中心名词jolt，后面can make it memorable缺主语；that代指触动，it指谈话，按语义不是conversation使自己难忘 | 主语:that | 谓语:can make | 宾语:it | 宾补:memorable
+mod to give the initial jolt → fail | 不定式补足 | 未能给出开场触动，不把不定式硬标成fail的直接宾语
+mod to the conversation → jolt | 介词定语 | 给谈话带来的触动
+mod so → memorable | 程度副词 | 如此令人难忘
+point 原题if部分用got而主句用will，保留原表达；引号内how are you等不是整句的主要疑问结构。
+
+# special-2018-newtype|3:2
+type 否定祈使句｜be afraid后不定式
+chunks So〔连〕 don't be afraid〔主〕 to ask more personal questions.〔修〕
+main 谓语:don't be | 表语:afraid
+gist 不必害怕
+mod to ask more personal questions → afraid | 不定式补足 | 询问更加个人化的问题
+
+# special-2018-newtype|3:3
+type 多分句条目｜祈使提示，how宾语和if条件
+chunks Trust me,〔主〕 you'll be surprised〔主〕 to see〔修〕 how much people are willing to share〔C1〕 if you just ask.〔C2〕
+main 谓语:Trust | 宾语:me || 主语＋谓语:you'll be | 表语:surprised
+gist 相信我，你会惊讶
+C1 宾语从句 | 作see的宾语 | how much | 前面see缺看见的内容，后面people are willing to share缺share的对象数量；how much指愿分享多少，整块作宾语 | 主语:people | 谓语:are | 表语:willing
+C2 条件状语从句 in C1 | 限定愿意分享的情境 | if | if后you just ask主谓完整，表示只要开口问，整块补充people willing to share的条件 | 主语:you | 谓语:ask
+mod to see → surprised | 不定式原因补足 | 看到这一点会惊讶
+mod to share → willing | 不定式补足 | 乐意分享
+
+# special-2018-newtype|4:0
+type 主从复合句｜when时间、which定语、so that目的从句
+chunks When you meet a person for the first time,〔C1〕 make an effort〔主〕 to find the things〔修〕 which you and that person have in common〔C2〕 so that you can build the conversation〔C3〕 from that point.〔C3修〕
+main 谓语:make | 宾语:an effort
+gist 努力寻找共同点
+C1 时间状语从句 | 给出首次见面的情境 | When | When后you meet a person主谓宾完整；时间背景在祈使主句make之前，不是宾语从句 | 主语:you | 谓语:meet | 宾语:a person
+C2 定语从句 | 修饰things | which | 前面是things，后面you and that person have in common缺宾语；which代指共同点作have宾语 | 主语:you and that person | 谓语:have | 宾语:which
+C3 目的状语从句 | 说明寻找共同点的目的 | so that | 前面make an effort…已完整，so that后you can build the conversation主谓宾完整；整块给出目的 | 主语:you | 谓语:can build | 宾语:the conversation
+mod to find the things → effort | 不定式定语 | 努力找出这些事情
+mod in common → have | 固定关系补足 | 共同拥有
+mod from that point → build | 起点状语 | 以共同点为出发点
+
+# special-2018-newtype|4:1
+type 主从复合句｜when时间从句，that宾语从句
+chunks When you start conversation from there and then move outwards,〔C1〕 you'll find〔主〕 all of a sudden〔修〕 that the conversation becomes a lot easier.〔C2〕
+main 主语＋谓语:you'll find | 宾语:C2
+gist 你会突然发现（一件事）——内容是从句②：交谈变得更容易。
+C1 时间状语从句 | 给出发现的时间背景 | When | When后you start…and move…主谓完整，两个动作共用you；整块说明从共同点开始扩展时 | 主语:you | 谓语:start | 宾语:conversation | 谓语:move
+C2 宾语从句 | 作find的宾语 | that | 前面find缺发现内容，that后the conversation becomes easier主系表完整；that不作成分，整块作宾语 | 主语:the conversation | 谓语:becomes | 表语:easier
+mod from there → start | 起点状语 | 从共同点开始
+mod outwards → move | 方向副词 | 向外扩展
+mod all of a sudden → find | 时间方式 | 突然发现
+mod a lot → easier | 程度副词 | 比较级前表示容易得多
+
+# special-2018-newtype|5:0
+type 主从复合句｜Imagine后零that宾语，内部并列和if条件
+chunks Imagine〔主〕 you are pouring your heart out〔C1〕 to someone〔C1修〕 and〔连〕 they are just busy on their phone,〔C1〕 and〔连〕 if you ask for their attention〔C2〕 you get the response "I can multitask".〔C1〕
+main 谓语:Imagine | 宾语:C1
+gist 想象这样一幅情境
+C1 宾语从句 | 作Imagine的宾语，包含多项并列事实 | （省略 that） | 前面Imagine要求设想内容，后面you are…they are…及you get…各有主谓；整块作宾语，不能把后两项误当成对读者的新指令 | 主语:you | 谓语:are pouring … out | 宾语:your heart | 主语:they | 谓语:are | 表语:busy | 主语:you#3 | 谓语:get | 宾语:the response
+C2 条件状语从句 in C1 | 限定得到回答的条件 | if | if后you ask for their attention主谓完整，表示如果请对方专心；后面you get the response是对应结果 | 主语:you | 谓语:ask
+mod to someone → pouring … out | 对象补足 | 向某人倾诉
+mod on their phone → busy | 介词补足 | 忙着看手机
+mod "I can multitask" → response | 同位内容 | 回答的原话
+
+# special-2018-newtype|5:1
+type 主从复合句｜when时间从句，主句祈使
+chunks So〔连〕 when someone tries to communicate with you,〔C1〕 just be〔主〕 in that communication wholeheartedly.〔修〕
+main 谓语:be | 表语:in that communication
+ gist 全心投入这次交流
+C1 时间状语从句 | 表示有人交流的时候 | when | when后someone tries to communicate主谓及补足完整；时间背景之后be是省略you的祈使主句 | 主语:someone | 谓语:tries
+mod to communicate with you → tries | 不定式补足 | 尝试与你交流
+mod wholeheartedly → be | 方式状语 | 全心全意投入
+
+# special-2018-newtype|5:2
+type 祈使句｜省略主语you
+chunks Make eye contact.〔主〕
+main 谓语:Make | 宾语:eye contact
+gist 进行目光接触
+
+# special-2018-newtype|5:3
+type 多分句条目｜where表语从句
+chunks Trust me,〔主〕 eye contact is〔主〕 where all the magic happens.〔C1〕
+main 谓语:Trust | 宾语:me || 主语:eye contact | 谓语:is | 表语:C1
+gist 相信我，目光接触就是关键所在
+C1 表语从句 | 说明奇妙联结发生之处 | where | 前面is缺表语，where后all the magic happens主谓完整；where作地点情境状语，整块作表语 | 主语:all the magic | 谓语:happens
+
+# special-2018-newtype|5:4
+type 主从复合句｜when时间从句
+chunks When you make eye contact,〔C1〕 you can feel the conversation.〔主〕
+main 主语:you | 谓语:can feel | 宾语:the conversation
+gist 你能感受到谈话
+C1 时间状语从句 | 给出感受交流的条件情境 | When | When后you make eye contact主谓宾完整；整块表示目光接触时，不是名词定语 | 主语:you | 谓语:make | 宾语:eye contact
+
+# special-2018-newtype|6:0
+type 并列复合句｜where定语，but后两个并列完成时动作
+chunks You all came into a conversation〔主〕 where you first met the person,〔C1〕 but〔连〕 after some time〔修〕 you may have met again and have forgotten their name.〔主〕
+main 主语:You | 谓语:came || &but || 主语:you#3 | 谓语:may have met | 谓语:have forgotten | 宾语:their name
+gist 你曾认识对方，后来再见却忘了名字
+C1 定语从句 | 修饰conversation | where | 前面conversation指谈话情境，后面you first met the person主谓宾完整；where作情境状语，限定第一次见面的交谈 | 主语:you | 谓语:met | 宾语:the person
+mod into a conversation → came | 进入对象补足 | 进入一次交谈
+mod after some time → may have met | 时间状语 | 一段时间之后
+mod again → met | 重复副词 | 再次遇见
+point have forgotten与may have met共享情态范围，保留原题较松散的时态表达，不修改原文。
+
+# special-2018-newtype|6:1
+type 否定疑问感叹句｜系动词倒装
+chunks Isn't that awkward!〔主〕
+main 主语:that | 谓语:Isn't | 表语:awkward
+gist 那不是很尴尬吗
+point Isn't提前形成反问，不能把that当连接从句的词；它是指代忘记名字的主语。
+
+# special-2018-newtype|6:2
+type 多分句条目｜多处零关系词定语，末尾whatever概括
+chunks So,〔修〕 remember the little details〔主〕 of the people〔修〕 you met〔C1〕 or〔连〕 you talked with;〔C1〕 perhaps the places〔修〕 they have been to,〔C2〕 the places〔修〕 they want to go,〔C3〕 the things〔修〕 they like,〔C4〕 the things〔修〕 they hate〔C5〕 -〔修〕 whatever you talk about.〔C6〕
+main 谓语:remember | 宾语:the little details
+gist 记住对方的小细节
+C1 定语从句 | 修饰people，内部两个并列动作 | （省略 that） | 前面people指人，后面you met缺宾语，you talked with缺with宾语；省略关系词指交谈对象 | 主语:you | 谓语:met | 主语:you#2 | 谓语:talked
+C2 定语从句 | 修饰第一处places | （省略 that） | 前面是places，后面they have been to缺to的宾语；省略关系词指去过的地方 | 主语:they | 谓语:have been
+C3 定语从句 | 修饰第二处places | （省略 that） | 前面是places，后面they want to go表示想去哪里，省略地点关系词，整块限定地点 | 主语:they | 谓语:want | 宾语:to go
+C4 定语从句 | 修饰第一处things | （省略 that） | 前面是things，后面they like缺宾语；省略关系词代指喜欢的事物 | 主语:they | 谓语:like
+C5 定语从句 | 修饰第二处things | （省略 that） | 前面是things，后面they hate缺宾语；省略关系词代指讨厌的事物 | 主语:they | 谓语:hate
+C6 让步状语从句 | 表示无论谈到什么都可记住 | whatever | whatever后you talk about缺about宾语，whatever兼具连接与宾语作用；整块表示无论什么，不是单独命令 | 主语:you | 谓语:talk
+point 逗号后的places和things都是details的例子，不给每个名词短语硬配主句谓语。
+
+# special-2018-newtype|6:3
+type 主从复合句｜when时间从句
+chunks When you remember such things〔C1〕 you can automatically become investor〔主〕 in their wellbeing.〔修〕
+main 主语:you | 谓语:can … become | 表语:investor
+gist 你会成为关心对方的人
+C1 时间状语从句 | 给出成为关心者的情境 | When | When后you remember such things主谓宾完整；整块表示记得细节时，不作宾语内容 | 主语:you | 谓语:remember | 宾语:such things
+mod automatically → become | 方式副词 | 自然会产生这种投入
+mod in their wellbeing → investor | 介词补足 | 对对方身心状态有投入
+point 原文investor前缺冠词，照原始句子保留，并不把缺字补入。
+
+# special-2018-newtype|6:4
+type 简单句｜不定式限定responsibility，keep复合宾语
+chunks So〔连〕 they feel a responsibility〔主〕 to you to keep that relationship going.〔修〕
+main 主语:they | 谓语:feel | 宾语:a responsibility
+gist 他们会感到责任
+mod to you → responsibility | 介词定语 | 对你的责任
+mod to keep that relationship going → responsibility | 不定式定语 | 维持关系的责任；relationship是keep宾语，going是宾补
+
+# special-2018-newtype|6:5
+type 简单句｜主系表
+chunks That's it.〔主〕
+main 主语＋谓语:That's | 表语:it
+gist 就是这些
+
+# special-2018-newtype|6:6
+type 名词短语收尾｜that方式定语从句，无独立主句谓语
+chunks Five amazing ways〔主〕 that you can make conversation with almost anyone.〔C1〕
+main 主语:Five amazing ways
+gist 五种交谈方法
+C1 定语从句 | 修饰ways | that | 前面是方式名词ways，后面you can make conversation主谓宾完整；that表示借以交谈的方式，不作为conversation的内容 | 主语:you | 谓语:can make | 宾语:conversation
+mod with almost anyone → conversation | 介词定语 | 与几乎任何人的交谈
+point 外层是收尾名词短语，没有实际的限定谓语；限定谓语can make只出现在定语从句内。
+
+# special-2018-newtype|6:7
+type 简单句｜两个不定式定语作比喻
+chunks Every person is a really good book〔主〕 to read, or to have a conversation with!〔修〕
+main 主语:Every person | 谓语:is | 表语:a really good book
+gist 每个人都是一本好书
+mod to read, or to have a conversation with → book | 不定式定语及并列补充 | 可阅读、可与之交谈；第二项语义上回到被比喻的人
+point to have不是与is并列的谓语；本句把人比作值得理解的书。
+
+# special-2018-translation|0:0
+type 简单句｜不定式说明assignment任务
+chunks A fifth grader gets a homework assignment〔主〕 to select his future career path from a list of occupations.〔修〕
+main 主语:A fifth grader | 谓语:gets | 宾语:a homework assignment
+gist 五年级学生收到作业
+mod to select his future career path from a list of occupations → assignment | 不定式定语 | 作业要求从职业清单选择未来职业方向
+
+# special-2018-translation|0:1
+type 简单句｜同一主语三个并列谓语
+chunks He ticks "astronaut"〔主〕 but〔连〕 quickly adds "scientist"〔主〕 to the list〔修〕 and〔连〕 selects it as well.〔主〕
+main 主语:He | 谓语:ticks | 宾语:"astronaut" || &but || 谓语:adds | 宾语:"scientist" || &and || 谓语:selects | 宾语:it
+gist 他勾选、增添并选择另一职业
+mod quickly → adds | 方式副词 | 很快又添上
+mod to the list → adds | 方向补足 | 添进清单
+mod as well → selects | 添加副词 | 也选择了科学家
+
+# special-2018-translation|0:2
+type 主从复合句｜that宾语内容，if条件和as比较从句
+chunks The boy is convinced〔主〕 that〔C1〕 if he reads enough,〔C2〕 he can explore as many career paths〔C1〕 as he likes.〔C3〕
+main 主语:The boy | 谓语:is convinced | 宾语:C1
+gist 男孩深信（一件事）——内容是从句①：他可以探索多种职业道路。
+C1 宾语从句 | 补足convinced确信内容 | that | 前面is convinced需说明确信什么，that后he can explore…主谓宾完整；that不作成分，if为内部条件 | 主语:he | 谓语:can explore | 宾语:as many career paths
+C2 条件状语从句 in C1 | 限定探索职业的条件 | if | if后he reads enough主谓完整；整块表示只要阅读足够多，不是宾语中心 | 主语:he | 谓语:reads
+C3 比较状语从句 in C1 | 对应as many，表示想要多少就探索多少 | as | 前面as many career paths提出数量比较，as后he likes省略重复的探索内容；整块给出数量上限 | 主语:he | 谓语:likes
+point enough在reads后作程度补充；两个as共同构成数量比较。
+
+# special-2018-translation|0:3
+type 简单句｜破折号后列举阅读对象
+chunks And so〔修〕 he reads〔主〕 - everything from encyclopedias to science fiction novels.〔修〕
+main 主语:he | 谓语:reads | 宾语:everything
+gist 于是他什么都读
+mod from encyclopedias to science fiction novels → everything | 范围补充 | 从百科全书到科幻小说
+
+# special-2018-translation|0:4
+type 主从复合句｜so…that结果从句
+chunks He reads so passionately〔主〕 that his parents have to institute a "no reading policy"〔C1〕 at the dinner table.〔C1修〕
+main 主语:He | 谓语:reads
+gist 他读得非常入迷
+C1 结果状语从句 | 说明入迷到什么程度 | that | 前面so passionately提出程度，that后his parents have to institute a policy主谓宾完整；so…that…表示结果，不作reads的宾语 | 主语:his parents | 谓语:have to institute | 宾语:a "no reading policy"
+mod so passionately → reads | 方式程度 | 读得如此热情
+mod at the dinner table → institute | 适用场合 | 吃饭时不许阅读
+
+# special-2018-translation|0:5
+type 并列句｜after后动名词，让步递进
+chunks That boy was Bill Gates,〔主〕 and〔连〕 he hasn't stopped reading yet〔主〕 - not even after becoming one of the most successful people on the planet.〔修〕
+main 主语:That boy | 谓语:was | 表语:Bill Gates || &and || 主语:he | 谓语:hasn't stopped | 宾语:reading
+gist 那个男孩是盖茨，他从未停止阅读
+mod yet → stopped | 时间副词 | 至今仍没有停止
+mod not even after becoming one of the most successful people on the planet → stopped | 让步递进 | 甚至成了成功人士后仍未停止；becoming在after后为动名词
+
+# special-2018-translation|0:6
+type 多分句条目｜冒号补充说明，that宾语从句
+chunks Nowadays,〔修〕 his reading material has changed〔主〕 from science fiction and reference books:〔修〕 recently,〔修〕 he revealed〔主〕 that he reads at least 50 nonfiction books a year.〔C1〕
+main 主语:his reading material | 谓语:has changed || 主语:he | 谓语:revealed | 宾语:C1
+gist 阅读内容改变了，他还透露（一件事）——内容是从句①：他每年阅读至少五十本非虚构作品。
+C1 宾语从句 | 作revealed的宾语 | that | 前面revealed缺透露内容，that后he reads books主谓宾完整；that只连接，整块作宾语 | 主语:he | 谓语:reads | 宾语:at least 50 nonfiction books
+mod from science fiction and reference books → changed | 起点补足 | 不再只读原来的这两类
+mod a year → reads | 频率状语 | 每年
+mod recently → revealed | 时间状语 | 近期透露
+mod Nowadays → 整句 | 时间衔接 | 现在的情形
+
+# special-2018-translation|0:7
+type 主从复合句｜because原因内含how宾语从句
+chunks Gates chooses nonfiction titles〔主〕 because they explain〔C1〕 how the world works.〔C2〕
+main 主语:Gates | 谓语:chooses | 宾语:nonfiction titles
+gist 盖茨选择非虚构类书籍
+C1 原因状语从句 | 解释选择的原因 | because | because后they explain加内容主谓完整，前面的Gates chooses已成句；整块给出理由 | 主语:they | 谓语:explain | 宾语:C2
+C2 宾语从句 in C1 | 作explain的宾语 | how | 前面explain缺解释内容，how后the world works主谓完整；how作方式状语，整块作宾语 | 主语:the world | 谓语:works
+
+# special-2018-translation|0:8
+type 引语条目｜不定式限定avenues
+chunks "Each book opens up new avenues〔主〕 of knowledge to explore",〔修〕 Gates says.〔修〕
+main 主语:Each book | 谓语:opens up | 宾语:new avenues
+gist 每本书打开新的途径
+mod of knowledge → avenues | 介词定语 | 获取知识的途径
+mod to explore → avenues | 不定式定语 | 可以探索的新途径
+mod Gates says → 整句 | 引述语 | 盖茨这样说

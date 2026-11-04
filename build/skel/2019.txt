@@ -584,22 +584,6 @@ C1 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，后面
 mod on the job → arrive | 地点状语 | 到达工作岗位
 mod 22 days late → arrive | 时间补充 | 晚到22天
 
-# 2019-3|4:6
-type 跨条目句段｜被动句尚未结束
-chunks The shortage is compounded〔主〕 by federal immigration〔修〕
-main 主语:The shortage | 谓语:is compounded
-gist 短缺被联邦移民执法突袭进一步加剧
-mod by federal immigration → compounded | 被动施事前段 | 下一条的raids补全by federal immigration raids
-point 本条与下一条5:0原本同一句。完整为The shortage is compounded by federal immigration raids, which remove some workers and drive others underground. immigration不是施事名词中心，下一条raids才是，勿在此当句末。
-
-# 2019-3|5:0
-type 跨条目句段｜承接raids并带which定语从句
-chunks raids,〔主〕 which remove some workers and drive others underground.〔C1〕
-main 宾语:raids
-gist 执法突袭带走工人或迫使其转入地下
-C1 非限制性定语从句 | 修饰raids | which | 前面raids接上条by federal immigration，后面remove…与drive…共用缺失主语；which代指突袭作主语 | 主语:which | 谓语:remove | 宾语:some workers | 谓语:drive | 宾语:others | 宾补:underground
-point raids是上条by的宾语中心，本条没有独立主句谓语，需接4:6连读；remove和drive是which从句里的并列谓语。
-
 # 2019-3|6:0
 type 主从复合句｜said省略that宾语从句
 chunks In a 2012 survey,〔修〕 71 percent of tree-fruit growers and almost 80 percent of raisin and berry growers said〔主〕 they were short of labor.〔C1〕
@@ -832,3 +816,12 @@ C1 定语从句 | 修饰policies | that | 前面是名词policies，后面shape�
 mod alongside engaged citizens pushing for change → 整句 | 伴随状语 | 在政策之外，还需积极参与的公民推动改变
 mod pushing for change → citizens | 现在分词作后置定语 | 推动变革的公民
 point polluting修饰businesses，不是新的谓语；政策和公民行动是并行配合，不是互相替代。
+
+# 2019-3|4:6
+type 主从复合句｜被动主句，which非限制性定语从句
+chunks The shortage is compounded〔主〕 by federal immigration raids,〔修〕 which remove some workers〔C1〕 and drive others underground.〔C1〕
+main 主语:The shortage | 谓语:is compounded
+gist 缺工情况进一步加剧
+C1 非限制性定语从句 | 修饰federal immigration raids | which | 前面是名词raids，后面remove some workers和drive others underground都缺共用主语；which代指执法突袭作主语 | 主语:which | 谓语:remove | 宾语:some workers | 谓语:drive | 宾语:others | 宾补:underground
+mod by federal immigration raids → compounded | 被动施事 | 加剧劳动力短缺的是联邦移民执法突袭
+point and连接which从句内两个共用主语的谓语remove和drive；raids是by的宾语，不是另一独立句的主语。

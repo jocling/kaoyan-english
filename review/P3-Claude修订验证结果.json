@@ -1,0 +1,59 @@
+{
+  "index_sha256": "c5dd2f3958f5a90dbdcfc60cfb066f39e58b6dd309998baa18ba8298e947895e",
+  "existing_changed": [
+    "build/build.py",
+    "build/check.py",
+    "build/parse_skel.py",
+    "build/skel/special-2022.txt",
+    "build/skel/special-2023.txt",
+    "build/skel/special-2021.txt",
+    "build/skel/special-2020.txt",
+    "build/skel/special-2018.txt",
+    "build/skel/special-2024.txt",
+    "build/skel/special-2025.txt",
+    "build/skel/special-2019.txt",
+    "build/skel/special-2026.txt",
+    "build/skel/special-2017.txt",
+    "build/skel/special-2016.txt",
+    "build/skel/special-2015.txt",
+    "build/tools/original_compat.js",
+    "build/tools/original_fixes.py",
+    "build/tools/test_source_fixes.cjs",
+    "build/data/skel.json",
+    "build/data/original_fixes.json",
+    "build/data/original_compat.json",
+    "build/data/all_sents.json",
+    "HANDOFF.md",
+    "进度.csv",
+    "index.html"
+  ],
+  "recordsUntouched": true,
+  "parseCount": 1518,
+  "parseErrors": 0,
+  "lintYears": 12,
+  "freezePass": 14,
+  "compatGroups": 71,
+  "sourceSentences": 22,
+  "sourceReplacements": 25,
+  "sourceIDsUnchanged": true,
+  "formalClaudeReview7": "pending",
+  "browser": {
+    "opened": 682,
+    "newOpened": 567,
+    "modClicks": 1185,
+    "flows": 36,
+    "bad": [],
+    "errors": [],
+    "puts": 0
+  },
+  "focused": {
+    "indexes": 22,
+    "oldV51States": 26,
+    "freshRevision2": 26,
+    "wordMarked": [
+      7
+    ],
+    "errors": [],
+    "puts": 0
+  }
+}

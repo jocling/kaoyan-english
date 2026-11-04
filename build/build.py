@@ -77,6 +77,32 @@ if papers:
 else:
     late=''
 
+# P3 sentence translations live beside their manually authored analyses.
+# Update the existing data indexes before the unchanged renderers read them.
+late+="""for(const [full,sk] of Object.entries(SKEL36)){
+ if(!sk.cn||!full.startsWith('special-'))continue;
+ const [id,key]=full.split('|'),[pi,si]=key.split(':').map(Number),[,year,kind]=id.split('-');
+ if(ANN[id])((ANN[id].trans[pi]||=[])[si]=sk.cn);
+ if(STUDY_V17[id]?.sentences[key])STUDY_V17[id].sentences[key].cn=sk.cn;
+ for(const index of [PARSE2,SPECIAL_PARSE])if(index[id]?.[key])index[id][key].cn=sk.cn;
+ if(kind==='newtype'){
+  const block=NEWTYPE_STUDY[year]?.blocks[pi],sentence=block?.sentences.find(s=>s.key===key);
+  if(sentence)sentence.cn=sk.cn;
+ }else if(kind==='translation'){
+  const sentence=TRANSLATION_STUDY[year]?.sentences.find(s=>s.key===key);if(sentence)sentence.cn=sk.cn;
+ }
+}
+for(const year of Object.keys(PAPERS))for(const block of NEWTYPE_STUDY[year]?.blocks||[]){
+ if(block.sentences.length&&block.sentences.every(s=>s.cn&&s.cn!=='暂无'))block.cn=block.sentences.map(s=>s.cn).join(' ');
+}
+"""
+
+# Source-backed reading corrections share the data-import stage; the v35 base stays immutable.
+sys.dont_write_bytecode=True
+from tools.original_fixes import apply_original_fixes, special_index_patch
+s=apply_original_fixes(s,B)
+late+=special_index_patch(B)
+
 css=open(os.path.join(B,'src','g36.css')).read()
 qtr={}
 for _f in sorted(glob.glob(os.path.join(B,'data','qtr*.json'))):

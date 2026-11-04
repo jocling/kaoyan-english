@@ -1,0 +1,557 @@
+# special-2025-cloze|0:0
+type 主从复合句｜why定语内嵌时间
+chunks There are many understandable reasons〔主〕 why you might find it difficult〔C1〕 to ask for help〔C1修〕 when you need it.〔C2〕
+main 谓语:are | 主语:many understandable reasons
+C1 定语从句 | 修饰reasons | why | reasons为原因先行词；why后you might find it difficult完整，why作原因状语 | 主语:you | 谓语:might find | 形式宾语:it | 宾补:difficult
+C2 状语从句（时间） in C1 | 说明需要帮助时 | when | when后you need it完整，给出求助时机 | 主语:you | 谓语:need | 宾语:it
+mod to ask for help → difficult | 真正宾语补充 | find it difficult to do，it为形式宾语，真正内容是求助。
+gist 有许多可以理解的原因。
+point C1中的it实际为形式宾语；不能把它认作动作发出者。
+cn 当你需要帮助时，却觉得难以开口求助，这背后有许多可以理解的原因。
+
+# special-2025-cloze|0:1
+type 主从复合句｜because原因与A of B
+chunks Psychologists have been interested〔主〕 in this 【question】 for decades,〔修〕 not least because people's widespread 【reluctance】〔C1〕 to ask for help〔C1修〕 has led〔C1〕 to some high-profile failures.〔C1修〕
+main 主语:Psychologists | 谓语:have been | 表语:interested
+C1 状语从句（原因） | 说明长期研究的原因 | because | because后reluctance has led完整，reluctance是中心主语，to ask非谓语 | 主语:people's widespread 【reluctance】 | 谓语:has led
+mod in this 【question】 for decades → interested | 对象与时长 | 数十年来关注这一问题。
+mod to ask for help → reluctance | 不定式定语 | 不愿求助。
+mod to some high-profile failures → led | 结果补充 | 导致引人注目的失败。
+gist 心理学家长期对此感兴趣。
+cn 心理学家关注这一问题已达数十年，一个重要原因是，人们普遍不愿求助，已导致一些备受关注的失败。
+
+# special-2025-cloze|0:2
+type 简单句｜动名词主语
+chunks Asking〔主〕 for help〔修〕 takes 【courage】 .〔主〕
+main 主语:Asking | 谓语:takes | 宾语:【courage】
+mod for help → Asking | 介词补充 | 向他人求助。
+gist 求助需要勇气。
+cn 开口求助需要勇气。
+
+# special-2025-cloze|0:3
+type 多分句条目｜破折号解释与which评注
+chunks It involves communicating a need〔主〕 on your part〔修〕 —〔修〕 there's something〔主〕 you can't do.〔C1〕 【In other words】〔修〕 you're broadcasting your own weaknesses,〔主〕 which can be 【uncomfortable】 .〔C2〕
+main 主语:It | 谓语:involves | 宾语:communicating a need || & || 谓语:there's | 主语:something || & || 主语＋谓语:you're broadcasting | 宾语:your own weaknesses
+C1 定语从句 | 修饰something | （省略 that） | something后you can't do缺宾语，关系词省略 | 主语:you | 谓语:can't do
+C2 定语从句 | 补充评注前述公开弱点这件事 | which | which后can be uncomfortable缺主语，which指前面的事 | 主语:which | 谓语:can be | 表语:【uncomfortable】
+mod on your part → need | 需求归属 | 指你有某种需求。
+gist 求助意味着表达需求，也就是公开弱点。
+cn 求助意味着表达你有某种需要——有件事你做不了。换句话说，你是在公开自己的弱点，这会让人不自在。
+
+point 破折号后的存在句解释需求：there's为there is，there不是主语，something才是存在对象。
+
+# special-2025-cloze|0:4
+type 简单句｜介词后动名词
+chunks You might worry〔主〕 about coming across as incompetent.〔修〕
+main 主语:You | 谓语:might worry
+mod about coming across as incompetent → worry | 担忧内容 | 怕给人留下无能印象，coming为介词后动名词。
+gist 你可能担忧。
+cn 你可能担心自己显得无能。
+
+# special-2025-cloze|0:5
+type 多分句复合条目｜whatever、关系省略与once时间
+chunks You might have 【concerns】〔主〕 about losing control of〔修〕 whatever it is〔C1〕 you're asking for help with.〔C2〕 【Once】 someone starts to help,〔C3〕 perhaps〔修〕 they'll take over,〔主〕 or〔连〕 get credit〔主〕 for your earlier efforts.〔修〕
+main 主语:You | 谓语:might have | 宾语:【concerns】 || & || 主语＋谓语:they'll take over || &or || 谓语:get | 宾语:credit
+C1 宾语从句 | 作of的宾语 | whatever | of后缺失去控制的对象；whatever it is中it is缺表语，whatever代表任何所求助的事 | 主语:it | 谓语:is | 表语:whatever
+C2 定语从句 in C1 | 限定whatever所指事项 | （省略 that） | you're asking for help with缺with宾语，承接前面的事项 | 主语＋谓语:you're asking
+C3 状语从句（时间） | 一旦有人开始帮忙 | 【Once】 | Once后someone starts to help完整，给出后面接管的时点 | 主语:someone | 谓语:starts | 宾语:to help
+mod about losing control of whatever it is you're asking for help with → concerns | 介词定语 | 对求助事项失去控制的担忧。
+mod for help → asking | 介词补充 | asking for help表示求助，help不是asking的直接宾语。
+mod for your earlier efforts → credit | 介词定语 | 原先努力的功劳。
+gist 你可能担心；别人也许接管并拿走功劳。
+cn 你可能担心对所求助的事情失去控制。一旦有人开始帮忙，他们也许会接管，或者将你先前的努力据为己功。
+
+# special-2025-cloze|0:6
+type 主从复合句｜两处定语与动名词表语
+chunks Yet another 【factor】〔主〕 that you might be worried about〔C1〕 is being a nuisance or 【inconveniencing】 the person〔主〕 you go to for help.〔C2〕
+main 主语:another 【factor】 | 谓语:is | 表语:being a nuisance … 【inconveniencing】 the person
+C1 定语从句 | 修饰factor | that | factor后you might be worried about缺about宾语，that指担忧事项 | 主语:you | 谓语:might be | 表语:worried
+C2 定语从句 | 修饰person | （省略 whom） | person后you go to缺to的宾语，关系词省略 | 主语:you | 谓语:go
+mod for help → go | 目的补充 | 找那个人求助。
+gist 另一担忧是打扰别人。
+cn 你可能担心的另一个因素，是自己会给求助对象添麻烦或带来不便。
+
+# special-2025-cloze|0:7
+type 主从复合句｜条件、原因与动名词复合结构
+chunks If you struggle with low self-esteem,〔C1〕 you might find it especially difficult〔主〕 to 【reach out】 for help〔修〕 because you have the added worry〔C2〕 of the other person 【declining】 your request.〔C2修〕
+main 主语:you | 谓语:might find | 宾语:it | 宾补:difficult
+C1 状语从句（条件） | 以自尊较低为条件 | If | If后you struggle主谓完整，介词短语补情况 | 主语:you | 谓语:struggle
+C2 状语从句（原因） | 解释求助更难的原因 | because | because后you have the added worry主谓宾完整 | 主语:you | 谓语:have | 宾语:the added worry
+mod to 【reach out】 for help → difficult | 真正宾语补充 | it为形式宾语，实际困难的事是求助。
+mod of the other person 【declining】 your request → worry | 介词定语 | 对方拒绝请求的担忧；person为动名词declining的逻辑主语。
+gist 你可能觉得求助尤其困难。
+cn 如果你自尊心较弱，可能尤其难以开口求助，因为你还担心对方会拒绝请求。
+
+# special-2025-cloze|0:8
+type 简单句｜see...as...
+chunks You might see such refusals〔主〕 as implying something 【negative】 about the status of your relationship with them.〔修〕
+main 主语:You | 谓语:might see | 宾语:such refusals
+mod as implying something 【negative】 about the status of your relationship with them → see | 判断内容 | 把拒绝理解为双方关系状况不好的信号。
+gist 你可能这样看待拒绝。
+cn 你可能把这样的拒绝理解为，你们的关系状况存在某种负面问题。
+
+# special-2025-cloze|0:9
+type 主从复合句｜目的与that宾语
+chunks To 【overcome】 these difficulties,〔修〕 try to remind yourself〔主〕 that everyone needs help sometimes.〔C1〕
+main 谓语:try | 宾语:to remind yourself
+C1 宾语从句 | 补足remind的提醒内容 | that | remind已有yourself作对象，还缺内容；that后everyone needs help完整 | 主语:everyone | 谓语:needs | 宾语:help
+mod To 【overcome】 these difficulties → try | 目的状语 | 为克服困难。
+gist 尝试这样提醒自己。
+cn 为克服这些困难，试着提醒自己：每个人都有需要帮助的时候。
+
+# special-2025-cloze|0:10
+type 简单句｜共用否定主语的并列谓语
+chunks Nobody knows everything〔主〕 and〔连〕 can do everything〔主〕 all by themselves.〔修〕
+main 主语:Nobody | 谓语:knows … can do | 宾语:everything … everything
+mod all by themselves → do | 方式状语 | 完全靠自己。
+gist 没人无所不知、无所不能。
+cn 没有人什么都知道，也没有人能完全独自做好所有事情。
+
+# special-2025-cloze|0:11
+type 主从复合句｜让步、定语与宾语
+chunks And〔连〕 while you might 【fear】 coming across as incompetent,〔C1〕 there's actually research〔主〕 that shows〔C2〕 that advice-seekers are 【perceived】 as more competent, not less.〔C3〕
+main 谓语:there's | 主语:research
+C1 状语从句（让步） | 虽怕显得无能 | while | while后you might fear加动名词宾语完整，表示让步 | 主语:you | 谓语:might 【fear】 | 宾语:coming across as incompetent
+C2 定语从句 | 修饰research | that | research后shows缺主语，that代研究 | 主语:that | 谓语:shows | 宾语:C3
+C3 宾语从句 in C2 | 作shows的宾语 | that | shows后缺展示内容；that后advice-seekers are perceived被动完整 | 主语:advice-seekers | 谓语:are 【perceived】
+mod as more competent, not less → perceived | 评价补充 | 被认为更有能力，而非相反。
+gist 实际有研究表明这一点。
+point there's为there is，there不是主语；实际谓语is与there缩合整词定位。
+cn 而且，尽管你可能怕显得无能，实际上研究表明，寻求建议的人会被认为更有能力，而不是更无能。
+
+# special-2025-cloze|0:12
+type 主从复合句｜表语前置倒装与两层定语
+chunks Perhaps〔修〕 most encouraging〔主〕 of all〔修〕 is a paper〔主〕 from 2022 by researchers at Stanford University〔修〕 that involved a mix of contrived help-seeking interactions and asking people to 【recall】 times〔C1〕 they'd sought help in the past.〔C2〕
+main 主语:a paper | 谓语:is | 表语:most encouraging
+C1 定语从句 | 修饰paper | that | paper后involved缺主语，that代论文研究；不是researchers，因为involved的内容描述研究设计 | 主语:that | 谓语:involved | 宾语:a mix
+C2 定语从句 in C1 | 修饰times | （省略 when） | times为时间先行词；they'd sought help主谓宾完整，省略关系副词when | 主语＋谓语:they'd sought | 宾语:help
+mod from 2022 by researchers at Stanford University → paper | 时间及作者定语 | 2022年斯坦福研究者的论文。
+mod of contrived help-seeking interactions and asking people to 【recall】 times they'd sought help in the past → mix | 介词定语 | 结合设计的求助互动和回忆求助经历。
+gist 最鼓舞人的或许是一篇论文。
+cn 最令人鼓舞的或许是斯坦福大学研究者2022年的一篇论文，其中既安排了人为设计的求助互动，也请人们回忆以往求助的经历。
+
+# special-2025-cloze|0:13
+type 主从复合句｜嵌套两个how宾语与括号补说
+chunks The findings showed〔主〕 that help-seekers generally underestimate〔C1〕 how 【willing】 other people will be to help〔C2〕 and〔连〕 how good it'll make the help-giver feel〔C3〕 (for most people,〔修〕 having the chance to help someone is highly 【rewarding】 ).〔主〕
+main 主语:The findings | 谓语:showed | 宾语:C1 || & || 主语:having the chance to help someone | 谓语:is | 表语:【rewarding】
+C1 宾语从句 | 作showed的宾语 | that | showed后缺发现内容；that后help-seekers underestimate需要宾语，由C2和C3补足 | 主语:help-seekers | 谓语:underestimate | 宾语:C2 | 宾语:C3
+C2 宾语从句 in C1 | 作underestimate的第一项宾语 | how | underestimate后缺程度内容；how willing前置表语，other people will be...结构完整 | 主语:other people | 谓语:will be | 表语:【willing】
+C3 宾语从句 in C1 | 作underestimate的第二项宾语 | how | and how与前项并列；it'll make...feel中good前置为feel的表语 | 主语＋谓语:it'll make | 宾语:the help-giver | 宾补:feel
+mod to help → willing | 不定式补充 | 乐于帮助。
+mod how good → feel | 前置表语 | 让帮助者感觉有多好。
+mod for most people → rewarding | 适用范围 | 对多数人而言。
+gist 结果显示求助者有所低估；帮人很有满足感。
+cn 研究发现，求助者通常低估别人有多愿意帮助，也低估帮助行为能让帮助者感到多好；对大多数人来说，有机会帮助别人非常有满足感。
+
+# special-2025-cloze|0:14
+type 多分句条目｜时间从句与两个并列宾语
+chunks So,〔修〕 bear all this〔主〕 in mind〔修〕 the next time you need to ask for help.〔C1〕 【Also】 take care〔主〕 over〔修〕 who you ask〔C2〕 and〔连〕 when you ask them.〔C3〕
+main 谓语:bear | 宾语:all this || & || 谓语:take | 宾语:care
+C1 状语从句（时间） | 下一次求助时 | the next time | the next time引出完整you need to ask，充当时间连接结构 | 主语:you | 谓语:need | 宾语:to ask for help
+C2 宾语从句 | 作over的第一项宾语 | who | over后缺考虑对象；who后you ask缺宾语，who代求助对象 | 主语:you | 谓语:ask | 宾语:who
+C3 宾语从句 | 与C2并列作over的宾语 | when | when后you ask them完整，when说明求助时间 | 主语:you | 谓语:ask | 宾语:them
+mod in mind → bear | 固定搭配补充 | 记住。
+gist 记住这些，并谨慎考虑。
+cn 所以下次需要求助时，记住这些。也要注意向谁求助、何时开口。
+
+# special-2025-cloze|0:15
+type 主从复合句｜if条件与动名词宾语
+chunks And〔连〕 if someone can't help right now,〔C1〕 avoid taking it〔主〕 personally.〔修〕
+main 谓语:avoid | 宾语:taking it
+C1 状语从句（条件） | 对方暂时不能帮助的条件 | if | if后someone can't help主谓完整，说明应避免介怀的情境 | 主语:someone | 谓语:can't help
+mod personally → taking | 方式状语 | 把拒绝视为针对自己。
+gist 避免把它当成对自己的否定。
+cn 如果有人现在帮不上忙，别觉得是在针对你。
+
+# special-2025-cloze|0:16
+type 并列句｜两套主系表
+chunks They might just be too 【busy】 ,〔主〕 or〔连〕 they might not feel confident〔主〕 about their ability to help.〔修〕
+main 主语:They | 谓语:might … be | 表语:【busy】 || &or || 主语:they#2 | 谓语:might not feel | 表语:confident
+mod about their ability to help → confident | 介词补充 | 对自己帮助人的能力有信心。
+gist 他们或许很忙，或缺少信心。
+cn 他们可能只是太忙，或者对自己能否帮上忙没有信心。
+
+# special-2025-newtype|0:0
+type 标题片段｜名词中心与that定语
+chunks Five Steps to Suggesting a Change at Work〔修〕 That’ll Actually Get Taken Seriously〔C1〕
+main
+C1 定语从句 | 修饰Change | That | Change后’ll Get Taken缺主语，That代所提改变 | 主语＋谓语:That’ll … Get Taken
+gist 提出能被认真对待的工作改进建议的五个步骤。
+mod Seriously → Taken | 方式补充 | 被认真对待。
+point 标题整体无主句谓语；That’ll中的will属于定语从句，不是Steps的谓语。
+cn 在工作中提出真正会被认真对待的改进建议的五个步骤。
+
+# special-2025-newtype|1:0
+type 主从复合句｜名词补说与并列定语
+chunks Everyone wants to be that person〔主〕 — the one〔修〕 who looks at the same information as everyone else,〔C1〕 but〔连〕 who sees a fresh, innovative solution.〔C2〕
+main 主语:Everyone | 谓语:wants | 宾语:to be that person
+C1 定语从句 | 修饰one | who | one后looks缺主语，who代那种人 | 主语:who | 谓语:looks
+C2 定语从句 | 与C1并列修饰one | who | but who后sees缺主语，who继续代同一个人 | 主语:who | 谓语:sees | 宾语:a fresh, innovative solution
+mod at the same information as everyone else → looks | 观察对象及比较 | 看的是与其他人相同的信息。
+gist 每个人都想成为那种人。
+cn 人人都想成为这样的人：和其他人看着同样的信息，却能发现新颖、有创意的解决办法。
+
+point the one同位补说that person；两个who从句共同限定同一个人。
+
+# special-2025-newtype|1:1
+type 简单句｜take宾语
+chunks However,〔修〕 it takes more than simply having a good idea.〔主〕
+main 主语:it | 谓语:takes | 宾语:more than simply having a good idea
+gist 这需要的不只是好想法。
+cn 但这需要的不只是有一个好点子。
+
+# special-2025-newtype|1:2
+type 主从复合句｜how主语与as比较
+chunks How you share it〔C1〕 is as important〔主〕 as the suggestion itself.〔C2〕
+main 主语:C1 | 谓语:is | 表语:important
+C1 主语从句 | 作is的主语 | How | How块在is前；you share it完整，how表示分享方式 | 主语:you | 谓语:share | 宾语:it
+C2 状语从句（比较，省略） | 比较方法和建议的重要性 | as | as important引出同等比较；as后the suggestion itself省略is important | 主语:the suggestion itself
+gist 分享方式同样重要。
+cn 你如何表达这个点子，与建议本身同样重要。
+
+# special-2025-newtype|1:3
+type 省略问句｜原因追问
+chunks Why?〔修〕
+main
+gist 为什么？
+point Why承接上句，没有显式主谓。
+cn 为什么？
+
+# special-2025-newtype|1:4
+type 从句独立作答｜because内嵌宾语
+chunks Because writing a new script〔C1〕 — literally or figuratively —〔C1修〕 means〔C1〕 that other team members will have to adapt to something new.〔C2〕
+main
+C1 状语从句（原因） | 回答Why | Because | Because后writing短语作主语，means为谓语，完整解释原因 | 主语:writing a new script | 谓语:means | 宾语:C2
+C2 宾语从句 in C1 | 作means的宾语 | that | means后缺意味着什么；that后members will have to adapt完整 | 主语:other team members | 谓语:will have to adapt
+mod to something new → adapt | 适应对象 | 适应新事物。
+gist 因为提出新做法意味着他人要适应。
+cn 因为写出一个新脚本——不论是实际脚本，还是比喻意义的新做法——都意味着其他团队成员必须适应新事物。
+
+# special-2025-newtype|1:5
+type 主从复合句｜条件中嵌套两个定语
+chunks Not to mention,〔修〕 if the process〔C1〕 you're scrapping〔C2〕 is one〔C1〕 someone else suggested,〔C3〕 there's the possibility〔主〕 of hurt feelings.〔修〕
+main 谓语:there's | 主语:the possibility
+C1 状语从句（条件） | 提出废除别人建议的情境 | if | if后process is one主系表完整，两个名词分别带定语 | 主语:the process | 谓语:is | 表语:one
+C2 定语从句 in C1 | 修饰process | （省略 that） | process后you're scrapping缺宾语，关系词指流程 | 主语＋谓语:you're scrapping
+C3 定语从句 in C1 | 修饰one | （省略 that） | one后someone else suggested缺宾语，关系词指流程 | 主语:someone else | 谓语:suggested
+mod of hurt feelings → possibility | 介词定语 | 伤害感情的可能。
+gist 还可能伤人感情。
+point there's为there is缩合，实际谓语is；hurt为分词定语，不是谓语。
+cn 更不用说，如果你要废除的流程是别人提出的，还可能伤害对方的感情。
+
+# special-2025-newtype|1:6
+type 简单句｜目的与祈使句
+chunks To gain buy-in on an innovative, new idea,〔修〕 follow these steps:〔主〕
+main 谓语:follow | 宾语:these steps
+mod To gain buy-in on an innovative, new idea → follow | 目的状语 | 为创新点子争取支持。
+gist 遵循这些步骤。
+cn 要让一个创新点子获得支持，请遵循以下步骤。
+
+# special-2025-newtype|2:0
+type 简单句｜stand不及物
+chunks Great ideas don't stand〔主〕 alone.〔修〕
+main 主语:Great ideas | 谓语:don't stand
+mod alone → stand | 方式状语 | 孤立地，指好点子需要推动。
+gist 好点子不能独立奏效。
+cn 好点子不能仅靠自身就发挥作用。
+
+# special-2025-newtype|2:1
+type 简单句｜并列谓语与被动宾补
+chunks In other words,〔修〕 you can't mention your suggestion〔主〕 once〔修〕 and〔连〕 expect it to be adopted.〔主〕
+main 主语:you | 谓语:can't mention … expect | 宾语:your suggestion … it | 宾补:to be adopted
+mod once → mention | 频次状语 | 只提一次。
+gist 不能只提建议就期待它被采纳。
+cn 换句话说，不能只提一次建议，就指望它被采纳。
+
+# special-2025-newtype|2:2
+type 简单句｜目的与不定式并列
+chunks To see a change,〔修〕 you'll need to champion your plan and sell its merits.〔主〕
+main 主语＋谓语:you'll need | 宾语:to champion your plan … sell its merits
+mod To see a change → need | 目的状语 | 为促成改变。
+gist 你需要支持计划、宣传优点。
+cn 要促成改变，你需要积极推动自己的计划，向别人说明它的优点。
+
+# special-2025-newtype|2:3
+type 简单句｜并列不定式宾语
+chunks In addition,〔修〕 you need to be willing〔主〕 to stand up to scrutiny and criticism〔修〕 and〔连〕 be prepared〔主〕 to explain your innovation in different ways for various audiences.〔修〕
+main 主语:you | 谓语:need | 宾语:to be willing … be prepared
+mod to stand up to scrutiny and criticism → willing | 不定式补充 | 愿意接受审视和批评。
+mod to explain your innovation in different ways for various audiences → prepared | 不定式补充 | 准备用不同方式向不同人解释创新。
+gist 你需要愿意受审视，并做好解释准备。
+cn 此外，你要愿意接受审视和批评，并准备好针对不同听众，用不同方式解释自己的创新。
+
+# special-2025-newtype|3:0
+type 简单句｜形式主语
+chunks Sometimes〔修〕 it makes sense〔主〕 to go to your boss first.〔修〕
+main 形式主语:it | 谓语:makes | 宾语:sense | 真正主语:to go to your boss
+mod first → go | 时间顺序 | 先找上司。
+gist 先找上司有时合理。
+cn 有时，先找上司谈是合理的。
+
+# special-2025-newtype|3:1
+type 简单句｜形式主语
+chunks But〔连〕 other times,〔修〕 it's useful〔主〕 to build a coalition among your co-workers or other stakeholders.〔修〕
+main 主语＋谓语:it's | 表语:useful | 真正主语:to build a coalition
+mod among your co-workers or other stakeholders → coalition | 介词定语 | 在同事或其他利益相关者中建立支持联盟。
+gist 建立联盟有时有用。
+cn 但有时，在同事或其他利益相关者中争取支持也很有用。
+
+# special-2025-newtype|3:2
+type 多层引语复合句｜时间、原因与两个宾语
+chunks When it works,〔C1〕 it works great〔主〕 —〔修〕 because you're ready〔C2〕 for your stubborn supervisor's pushback with answers like,〔C2修〕 "Actually,〔修〕 I connected〔主〕 with a few people in our tech department to discuss〔修〕 how much time these kinds of website updates would take,〔C3〕 and〔连〕 they suggested〔主〕 they have the bandwidth."〔C4〕
+main 主语:it | 谓语:works || & || 主语:I | 谓语:connected || &and || 主语:they | 谓语:suggested | 宾语:C4
+C1 状语从句（时间） | 说明方法奏效时 | When | When后it works完整，说明主句发生时 | 主语:it | 谓语:works
+C2 状语从句（原因） | 解释方法效果好的原因 | because | because粘在great — because中；后面you're ready完整主系表 | 主语＋谓语:you're | 表语:ready
+C3 宾语从句 | 作discuss的宾语 | how much time | discuss后缺讨论内容；how much time前置作take宾语，updates would take缺宾语 | 主语:these kinds of website updates | 谓语:would take | 宾语:how much time
+C4 宾语从句 | 作suggested的宾语 | （省略 that） | suggested后they have bandwidth完整，省略that | 主语:they | 谓语:have | 宾语:the bandwidth
+mod with a few people in our tech department → connected | 联系对象 | 与技术部门几个人联系。
+mod to discuss how much time these kinds of website updates would take → connected | 目的状语 | 讨论更新网站所需时间。
+gist 方法奏效；你已联系并获得支持意见。
+cn 当这种方法奏效时，效果会很好，因为面对固执上司的反对，你已经备好这样的回答：“实际上，我联系了技术部门的几个人，讨论这类网站更新需要多少时间，他们说自己有余力处理。”
+
+point 破折号后because解释为什么效果好；引语中的I connected和they suggested分别有自己的主谓。
+
+# special-2025-newtype|3:3
+type 主从复合句｜形容词后的内容从句及定语
+chunks However, just〔修〕 be certain〔主〕 you can explain your end-around approach〔C1〕 as one〔C1修〕 that built your case, rather than simply circumvented your manager.〔C2〕
+main 谓语:be | 表语:certain
+C1 宾语从句 | 补充certain的确定内容 | （省略 that） | certain后you can explain另起完整主谓，省略that，表示确信的内容 | 主语:you | 谓语:can explain | 宾语:your end-around approach
+C2 定语从句 in C1 | 修饰one | that | one代approach；that后built缺主语，that指方式，circumvented与built并列对照 | 主语:that | 谓语:built … circumvented | 宾语:your case … your manager
+mod as one that built your case, rather than simply circumvented your manager → explain | 解释方式 | 说明是强化论据，而非绕开经理。
+gist 但要确保自己能解释这种做法。
+cn 不过，务必能解释，你的迂回做法是为了加强论据，而不是单纯绕过经理。
+
+# special-2025-newtype|3:4
+type 主从复合句｜定语、for不定式、原因内容与which
+chunks The last thing〔主〕 you want〔C1〕 is for your boss to feel embarrassed〔主〕 he wasn’t informed〔C2〕 —〔修〕 which could lead him〔C3〕 to quash the idea〔C3修〕 before it even takes off.〔C4〕
+main 主语:The last thing | 谓语:is | 表语:for your boss to feel embarrassed
+C1 定语从句 | 修饰thing | （省略 that） | thing后you want缺宾语，关系词省略 | 主语:you | 谓语:want
+C2 宾语从句 | 补充embarrassed的原因内容 | （省略 that） | embarrassed后he wasn’t informed为完整被动结构，省略that，说明尴尬内容 | 主语:he | 谓语:wasn’t informed
+C3 定语从句 | 补说上司未被告知而尴尬这件事 | which | which后could lead缺主语，which指上司未被告知而尴尬这件事 | 主语:which | 谓语:could lead | 宾语:him | 宾补:to quash the idea
+C4 状语从句（时间） in C3 | 尚未启动就被否决 | before | before后it takes off完整，说明quash的时间 | 主语:it | 谓语:takes off
+gist 最不希望的是上司觉得尴尬。
+cn 你最不希望的，就是上司因未被告知而感到尴尬，进而可能在点子尚未启动前就否决它。
+
+point for your boss to feel embarrassed是不定式表语；boss是其中的逻辑主语，外层主语仍是The last thing。
+
+# special-2025-newtype|4:0
+type 主从复合句｜A of B与when时间
+chunks One〔主〕 of the biggest barriers to gaining buy-in〔修〕 occurs〔主〕 when the owner〔C1〕 of an idea〔C1修〕 is viewed as argumentative, defensive, or close-minded.〔C1〕
+main 主语:One | 谓语:occurs
+C1 状语从句（时间） | 指出阻力出现的情境 | when | when后owner is viewed完整被动，说明阻力发生时 | 主语:the owner | 谓语:is viewed
+mod of the biggest barriers to gaining buy-in → One | 范围定语 | 争取支持时最大的阻力之一。
+mod as argumentative, defensive, or close-minded → viewed | 评价补充 | 被看成好争辩、戒备或固执。
+gist 一项重大阻力会在这种情境下出现。
+cn 争取支持时，一项最大的阻力出现在点子提出者被认为爱争辩、戒备心强或思想封闭的时候。
+
+# special-2025-newtype|4:1
+type 原因答句｜插入祈使语
+chunks Because,〔C1〕 let's be honest:〔修〕 No one likes a know-it-all.〔C1〕
+main
+C1 状语从句（原因） | 解释上句的阻力 | Because | Because后No one likes a know-it-all主谓宾完整，中间let's be honest为插入语 | 主语:No one | 谓语:likes | 宾语:a know-it-all
+mod let's be honest → 整句 | 插入语 | 坦率地说。
+gist 因为没人喜欢自以为无所不知的人。
+cn 因为，坦率说，没人喜欢自以为无所不知的人。
+
+# special-2025-newtype|4:2
+type 主从复合句｜if条件祈使句
+chunks So,〔修〕 if people disagree with you,〔C1〕 don't be indignant.〔主〕
+main 谓语:don't be | 表语:indignant
+C1 状语从句（条件） | 面对不同意见 | if | if后people disagree主谓完整，说明不要愤怒的条件 | 主语:people | 谓语:disagree
+mod with you → disagree | 对象补充 | 与你的意见不同。
+gist 不要愤愤不平。
+cn 所以，如果别人不同意你，不要愤愤不平。
+
+# special-2025-newtype|4:3
+type 简单句｜三项并列祈使谓语
+chunks Instead,〔修〕 listen〔主〕 to their concerns fully,〔修〕 try to understand their perspective,〔主〕 and〔连〕 include their concerns〔主〕 (and possible remedies) in future discussions.〔修〕
+main 谓语:listen … try … include | 宾语:to understand their perspective … their concerns
+mod to their concerns fully → listen | 对象及方式 | 充分听取顾虑。
+mod and possible remedies → concerns | 括号补充 | 也纳入可能的补救办法。
+mod in future discussions → include | 范围状语 | 放进未来讨论。
+gist 听取、理解并纳入顾虑。
+cn 相反，应充分听取他们的顾虑，努力理解他们的看法，并在后续讨论中纳入这些顾虑和可能的补救办法。
+
+# special-2025-newtype|4:4
+type 多层引语条目｜对照示例与同位语、宾语、定语
+chunks So, instead of saying,〔修〕 "Martha, our current slogan is confusing and should be updated,"〔主〕 you could try,〔主〕 "Martha raises a great point〔主〕 that our current slogan has a long history for our stakeholders,〔C1〕 but〔连〕 I wonder〔主〕 if we might be able to brainstorm a tagline〔C2〕 that could build on that — and be clearer for new customers."〔C3〕
+main 主语:our current slogan | 谓语:is … should be updated | 表语:confusing || & || 主语:you | 谓语:could try || & || 主语:Martha#2 | 谓语:raises | 宾语:a great point || &but || 主语:I | 谓语:wonder | 宾语:C2
+C1 同位语从句 | 解释point的具体内容 | that | point为抽象观点名词；that后our slogan has a history主谓宾完整，that不作成分 | 主语:our current slogan | 谓语:has | 宾语:a long history
+C2 宾语从句 | 作wonder的宾语 | if | wonder后缺想知道的内容；if后we might be able...完整，表示是否 | 主语:we | 谓语:might be | 表语:able to brainstorm a tagline
+C3 定语从句 in C2 | 修饰tagline | that | tagline后could build缺主语，that代标语；be与build共用could | 主语:that | 谓语:could build … be | 表语:clearer
+mod for our stakeholders → history | 介词补充 | 对相关方而言已有很长历史。
+mod for new customers → clearer | 适用对象 | 对新客户更清晰。
+gist 你可这样尝试：肯定观点，再询问新可能。
+cn 所以，别说“玛莎，我们现在的标语令人困惑，应该更新”，而可以试着说：“玛莎提得很好，这个标语对相关方已有很长历史。但我想，我们能否一起想出既延续它、又让新客户更容易理解的标语？”
+
+point build on后的that是指示代词，指现有标语；破折号后的and连接be clearer，和build共用could，不是另一个that从句。
+
+# special-2025-newtype|5:0
+type 简单句｜比喻表语
+chunks New ideas are the grandchildren〔主〕 of old ones.〔修〕
+main 主语:New ideas | 谓语:are | 表语:the grandchildren
+mod of old ones → grandchildren | 介词定语 | 新点子由旧点子发展而来。
+gist 新点子是旧点子的后代。
+cn 新点子是旧点子的“孙辈”。
+
+# special-2025-newtype|5:1
+type 简单句｜祈使与目的
+chunks In other words,〔修〕 don't throw old solutions〔主〕 under the bus to make your improvement stand out.〔修〕
+main 谓语:don't throw | 宾语:old solutions
+mod under the bus → throw | 比喻补充 | 贬低、牺牲旧方案。
+mod to make your improvement stand out → throw | 目的状语 | 为突出自己的改进。
+gist 不要贬损旧方案。
+cn 换句话说，不要为了突出自己的改进，就贬低旧方案。
+
+# special-2025-newtype|5:2
+type 主从复合句｜宾语中插入疑问内容与定语
+chunks Remember〔主〕 that〔C1〕 in light of〔C1修〕 whatever the problem〔C2〕 the old system solved〔C3〕 —〔修〕 or, maybe, has failed to solve〔C3〕 in recent memory〔C3修〕 —〔修〕 it was a great idea at the time.〔C1〕
+main 谓语:Remember | 宾语:C1
+C1 宾语从句 | 作Remember的宾语 | that | Remember后缺内容；that后it was a great idea主系表完整，中间是in light of补充 | 主语:it | 谓语:was | 表语:a great idea
+C2 宾语从句（省略性片段） in C1 | 作of的宾语 | whatever | in light of后需考虑内容；whatever the problem是压缩的让步式名词内容，可按无论什么问题理解；本片段没有显式谓语，不能当作完整从句范例 | 主语:the problem
+C3 定语从句 in C2 | 限定problem | （省略 that） | problem后the old system solved缺宾语，关系词省略，has failed与solved并列 | 主语:the old system | 谓语:solved … has failed
+mod at the time → was | 时间状语 | 在当时。
+gist 记住：它在当时是好点子。
+cn 记住，考虑到旧系统当时解决的问题——或最近未能解决的问题——它在当时曾是个好点子。
+
+point 两个破折号框起补充内容or, maybe, has failed to solve in recent memory；it在第二个破折号后，是外层that从句的主语。whatever the problem部分为压缩表达，无显式系词，不补造谓语。
+
+# special-2025-newtype|5:3
+type 主从复合句｜动名词主语内含时间从句
+chunks Appreciating the older contributions〔主〕 as you suggest future innovations〔C1〕 helps bolster the credibility of your idea.〔主〕
+main 主语:Appreciating the older contributions | 谓语:helps | 宾语:bolster the credibility
+C1 状语从句（时间） | 提建议时肯定过去贡献 | as | as后you suggest future innovations完整，表示同时 | 主语:you | 谓语:suggest | 宾语:future innovations
+mod of your idea → credibility | 介词定语 | 你的想法的可信度。
+gist 肯定旧贡献有助于增强可信度。
+point bolster为help后省略to的不定式，不是另一有限谓语。
+cn 提出未来创新时肯定过去的贡献，有助于增强你这个点子的可信度。
+
+# special-2025-newtype|6:0
+type 主从复合句｜省略时间与形式主语
+chunks When pitching a new idea,〔C1〕 it's important〔主〕 to use the language of abundance instead of the language of deficit.〔修〕
+main 主语＋谓语:it's | 表语:important | 真正主语:to use the language
+C1 状语从句（时间，省略） | 推介点子时 | When | When pitching省略you are，pitching无独立时态 | 
+mod of abundance instead of the language of deficit → language | 对照定语 | 用丰富可能性的语言，替代强调不足的语言。
+gist 使用这种语言很重要。
+cn 推介新点子时，要使用强调丰富可能性的语言，而不是强调不足的语言。
+
+# special-2025-newtype|6:1
+type 主从复合句｜两个what内容从句对照
+chunks Instead of saying〔修〕 what is wrong, broken, or suboptimal,〔C1〕 talk〔主〕 about〔修〕 what is right, fixable, or ideal.〔C2〕
+main 谓语:talk
+C1 宾语从句 | 作saying的宾语 | what | saying后缺内容；what后is wrong缺主语，what代不足之处 | 主语:what | 谓语:is | 表语:wrong … broken … suboptimal
+C2 宾语从句 | 作about的宾语 | what | about后缺谈论内容；what后is right缺主语，what代积极之处 | 主语:what | 谓语:is | 表语:right … fixable … ideal
+mod Instead of saying what is wrong, broken, or suboptimal → talk | 对照状语 | 不只说哪里不对、损坏或不理想。
+gist 谈论积极的可能。
+cn 与其说哪里不对、出了问题或不够理想，不如谈谈哪些地方是对的、可以修好的或理想的。
+
+# special-2025-newtype|6:2
+type 直接引语条目｜祈使与两种说法
+chunks For example,〔修〕 try,〔主〕 "I can see lots of applications〔主〕 for this new approach" rather than,〔修〕 "This innovation is the only way."〔主〕
+main 谓语:try || & || 主语:I | 谓语:can see | 宾语:lots of applications || & || 主语:This innovation | 谓语:is | 表语:the only way
+mod for this new approach → applications | 介词定语 | 新方法的多种用途。
+mod rather than → 整句 | 对照标记 | 对照两种直接引语表达。
+gist 试着说它有多种用途。
+cn 例如，可以说“我能看到这种新方法有很多用途”，而不是“这项创新是唯一的办法”。
+
+# special-2025-newtype|6:3
+type 并列句｜祈使句引出结果
+chunks Be optimistic〔主〕 but〔连〕 realistic,〔主〕 and〔连〕 you will stand out.〔主〕
+main 谓语:Be | 表语:optimistic … realistic || &and || 主语:you | 谓语:will stand out
+gist 保持乐观、务实，你就会出彩。
+point but连接两个并列表语；and后you开启另一个主句。
+cn 保持乐观又务实，你就会脱颖而出。
+
+# special-2025-translation|0:0
+type 多分句条目｜破折号解释
+chunks You know the moment〔主〕 —〔修〕 the conversation slows,〔主〕 then〔修〕 there's a pause.〔主〕
+main 主语:You | 谓语:know | 宾语:the moment || & || 主语:conversation | 谓语:slows || & || 谓语:there's | 主语:a pause
+gist 你熟悉那一刻：交谈慢下来，然后停顿。
+cn 你熟悉那一刻：交谈慢下来，随后出现一阵停顿。
+
+point 破折号后另起解释分句the conversation slows；there's a pause是随后发生的另一存在句。
+
+# special-2025-translation|0:1
+type 主从复合句｜so...that结果
+chunks It's awkward,〔主〕 and〔连〕 so awkward〔修〕 that some people will panic and say anything.〔C1〕
+main 主语＋谓语:It's | 表语:awkward
+C1 状语从句（结果） | 说明尴尬带来的结果 | that | so awkward给出程度；that后some people will panic and say完整，表示结果 | 主语:some people | 谓语:will panic … say | 宾语:anything
+point and so awkward省略it is，与前面的awkward递进，不虚构新主语。
+gist 气氛很尴尬。
+cn 这很尴尬，尴尬到有些人会慌乱，随口说点什么。
+
+# special-2025-translation|0:2
+type 简单句｜疑问与复合宾语
+chunks Do we all find such silences so stressful?〔主〕
+main 主语:we | 谓语:Do … find | 宾语:such silences | 宾补:stressful
+mod so → stressful | 程度修饰 | 如此令人紧张。
+gist 我们都觉得沉默令人紧张吗？
+cn 我们都会觉得这样的沉默让人如此紧张吗？
+
+# special-2025-translation|0:3
+type 主从复合句｜定语、宾语、结果与让步
+chunks Researchers analysed the frequency and impact〔主〕 of gaps greater than 2 seconds during conversations, including an overview of previous studies〔修〕 which indicate〔C1〕 that the fear〔C2〕 of awkward silences〔C2修〕 can be so extreme〔C2〕 that people avoid talking to strangers,〔C3〕 even though doing so is likely to be an enjoyable experience.〔C4〕
+main 主语:Researchers | 谓语:analysed | 宾语:the frequency … impact
+C1 定语从句 | 修饰studies | which | studies后indicate缺主语，which指以往研究 | 主语:which | 谓语:indicate | 宾语:C2
+C2 宾语从句 in C1 | 作indicate的宾语 | that | indicate后缺内容；that后fear can be extreme完整主系表 | 主语:the fear | 谓语:can be | 表语:extreme
+C3 状语从句（结果） in C2 | 说明恐惧程度导致回避 | that | so extreme引出结果；that后people avoid talking完整 | 主语:people | 谓语:avoid | 宾语:talking to strangers
+C4 状语从句（让步） in C3 | 承认交谈本可愉快 | even though | even though后doing so is likely完整，表示让步 | 主语:doing so | 谓语:is | 表语:likely
+mod of gaps greater than 2 seconds during conversations → frequency | 介词定语 | 对话中超过两秒停顿的频率和影响。
+mod including an overview of previous studies → analysed | 补充说明 | 分析还概述了既有研究。
+mod to be an enjoyable experience → likely | 不定式补充 | 本可能是愉快经历。
+gist 研究者分析了停顿的频率和影响。
+cn 研究者分析了交谈中超过两秒停顿的频率与影响，并综述以往研究。这些研究表明，人们对尴尬沉默的恐惧可能强烈到回避与陌生人交谈，尽管交谈本来很可能是愉快的经历。
+
+# special-2025-translation|0:4
+type 简单句｜feel表语
+chunks During conversations with short gaps,〔修〕 people feel more connected〔主〕 to their conversation partners.〔修〕
+main 主语:people | 谓语:feel | 表语:connected
+mod During conversations with short gaps → feel | 时间情境 | 停顿较短的交谈中。
+mod to their conversation partners → connected | 联系对象 | 与交谈对象更亲近。
+gist 人们觉得更亲近。
+cn 在停顿较短的交谈中，人们觉得与交谈对象更亲近。
+
+# special-2025-translation|0:5
+type 主从复合句｜when省略时间
+chunks But〔连〕 such feelings〔主〕 of connection〔修〕 markedly dip〔主〕 when entering a long gap.〔C1〕
+main 主语:such feelings | 谓语:dip
+C1 状语从句（时间，省略） | 长停顿出现时 | when | when entering省略交谈者进入停顿的主谓，entering本身无时态 | 
+mod of connection → feelings | 介词定语 | 亲近感。
+mod markedly → dip | 程度修饰 | 明显下降。
+gist 这种亲近感明显下降。
+point 省略结构的逻辑行为人是交谈者，不能机械补成feelings are entering；可整体理解为出现长停顿时。
+cn 但当交谈出现较长停顿时，这种亲近感会明显下降。
+
+# special-2025-translation|0:6
+type 简单句｜likely不定式补充
+chunks Long gaps〔主〕 between strangers〔修〕 are likely〔主〕 to be followed by a change in topic.〔修〕
+main 主语:Long gaps | 谓语:are | 表语:likely
+mod between strangers → gaps | 介词定语 | 陌生人之间的长停顿。
+mod to be followed by a change in topic → likely | 不定式补充 | 随后可能换话题，to be followed为非限定被动。
+gist 长停顿之后可能换话题。
+cn 陌生人之间出现较长停顿后，很可能会转移话题。
+
+# special-2025-translation|0:7
+type 简单句｜seem不定式补足
+chunks But〔连〕 the opposite seems〔主〕 to be true for conversations between friends.〔修〕
+main 主语:the opposite | 谓语:seems | 表语:to be true
+mod for conversations between friends → true | 适用范围 | 朋友之间的交谈。
+gist 相反情况似乎成立。
+cn 但朋友之间的交谈似乎正好相反。
+
+# special-2025-translation|0:8
+type 简单句｜see表示经历
+chunks Long gaps〔主〕 there〔修〕 saw increased connection.〔主〕
+main 主语:Long gaps | 谓语:saw | 宾语:increased connection
+mod there → gaps | 场合指代 | 指朋友之间的交谈。
+gist 长停顿伴随更强亲近感。
+cn 在朋友之间，较长的停顿反而伴随着亲近感增强。
+
+# special-2025-translation|0:9
+type 简单句｜seem与目的定语
+chunks Between friends,〔修〕 longer gaps seem〔主〕 to provide natural moments for reflection and expression.〔修〕
+main 主语:longer gaps | 谓语:seem | 表语:to provide natural moments
+mod Between friends → seem | 适用范围 | 朋友之间。
+mod for reflection and expression → moments | 用途定语 | 用于思考与表达的时刻。
+gist 长停顿似乎提供自然时机。
+cn 在朋友之间，较长停顿似乎为思考和表达提供了自然的时机。

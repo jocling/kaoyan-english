@@ -1,0 +1,452 @@
+# special-2019-cloze|0:0
+type 多句条目｜动名词主语；when省略和than比较从句
+chunks Weighing yourself〔主〕 regularly〔修〕 is a wonderful way〔主〕 to stay aware of any significant weight fluctuations.〔修〕 【However】,〔修〕 when done too often,〔C1〕 this habit can sometimes hurt more〔主〕 than it 【helps】.〔C2〕
+main 主语:Weighing yourself | 谓语:is | 表语:a wonderful way || 主语:this habit | 谓语:can … hurt
+gist 称重是个办法，但这一习惯有时弊大于利
+C1 时间状语从句（省略） | 限定坏处在频繁称重时出现 | when | when后done省略与称重这一行为对应的it is，表示被做得太频繁时；非独立过去时谓语 | 谓语:done
+C2 比较状语从句 | 比较伤害与帮助程度 | than | 前面hurt more提出比较，than后it helps有主语和谓语，省略相应程度内容；it指称重习惯 | 主语:it | 谓语:【helps】
+mod regularly → Weighing | 频率状语 | 定期称重
+mod to stay aware of any significant weight fluctuations → way | 不定式定语 | 留意体重变化的方法
+mod sometimes → hurt | 频率副词 | 并非每次都有伤害
+mod 【However】 → 整句 | 转折衔接 | 第二句提醒过度的风险
+
+# special-2019-cloze|0:1
+type 简单句｜动名词主语，cause复合宾语
+chunks As for me,〔修〕 weighing myself〔主〕 every day〔修〕 caused me to shift my focus〔主〕 from being generally healthy and physically active, to focusing 【solely】 on the scale.〔修〕
+main 主语:weighing myself | 谓语:caused | 宾语:me | 宾补:to shift my focus
+gist 每天称重使我转移了关注点
+mod As for me → 整句 | 对象限定 | 就自己的经历而言
+mod every day → weighing | 频率状语 | 每天都称
+mod from being generally healthy and physically active, to focusing 【solely】 on the scale → shift | 变化方向补足 | 从关注健康运动转向只看体重秤；两个介词后均用动名词
+
+# special-2019-cloze|0:2
+type 简单句｜主系表，保留原题介词表达
+chunks That was bad〔主〕 to my overall fitness goals.〔修〕
+main 主语:That | 谓语:was | 表语:bad
+gist 那是不利的
+mod to my overall fitness goals → bad | 介词补足 | 对整体健身目标不利，照录原题to
+
+# special-2019-cloze|0:3
+type 并列句｜but后分词前置，共有两个主句
+chunks I had gained weight〔主〕 in the form of muscle mass,〔修〕 but〔连〕 thinking only of 【lowering】 the number on the scale,〔修〕 I altered my training program.〔主〕
+main 主语:I#1 | 谓语:had gained | 宾语:weight || &but || 主语:I#2 | 谓语:altered | 宾语:my training program
+gist 我增加了体重，却改变了训练计划
+mod in the form of muscle mass → gained | 方式补充 | 增加的是肌肉量
+mod thinking only of 【lowering】 the number on the scale → I altered | 现在分词表原因背景 | 因只想着减轻秤上的数字而改变计划，thinking无独立时态
+
+# special-2019-cloze|0:4
+type 主从复合句｜how作介词后的宾语从句
+chunks That conflicted〔主〕 with〔修〕 how I needed to train〔C1〕 to 【reach】 my goals.〔C1修〕
+main 主语:That | 谓语:conflicted
+gist 那与目标所需方式相冲突
+C1 宾语从句 | 作with的宾语 | how | 前面介词with需要冲突对象，how后I needed to train主谓及补足完整；how表示训练方式，整块作介词宾语 | 主语:I | 谓语:needed | 宾语:to train
+mod to 【reach】 my goals → train | 不定式目的 | 为了达到目标
+
+# special-2019-cloze|0:5
+type 主从复合句｜that宾语内动名词主语，零关系词定语
+chunks I also found〔主〕 that weighing myself〔C1〕 daily〔C1修〕 did not provide an accurate 【depiction】〔C1〕 of the hard work and progress〔C1修〕 I was making〔C2〕 in the gym.〔C2修〕
+main 主语:I | 谓语:found | 宾语:C1
+gist 我还发现（一件事）——内容是从句①：体重不能准确反映努力和进步。
+C1 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，that后weighing…did not provide depiction主谓宾完整；动名词短语整体作主语，that只连接 | 主语:weighing myself | 谓语:did not provide | 宾语:an accurate 【depiction】
+C2 定语从句 in C1 | 修饰hard work and progress | （省略 that） | 前面是努力与进步，后面I was making缺宾语；省略关系词，整块限定在健身房付出及取得的内容 | 主语:I | 谓语:was making
+mod also → found | 添加副词 | 还有另一发现
+mod daily → weighing | 频率状语 | 每天称重
+mod of the hard work and progress → 【depiction】 | 介词定语 | 对努力和进步的反映
+mod in the gym → making | 地点状语 | 在健身房中
+
+# special-2019-cloze|0:6
+type 简单句｜it形式主语，to notice真正主语
+chunks It takes about three weeks to a month〔主〕 to notice significant changes in your weight 【due to】 altering your training program.〔修〕
+main 形式主语:It | 谓语:takes | 宾语:about three weeks to a month | 真正主语:to notice significant changes
+gist 察觉变化需要三周到一个月
+mod in your weight → changes | 介词定语 | 体重上的变化
+mod 【due to】 altering your training program → changes | 原因补充 | 因训练计划改变而产生的体重变化
+point to notice是真正主语，不是takes的第二个名词宾语；altering在due to后用动名词。
+
+# special-2019-cloze|0:7
+type 简单句｜被动谓语，分词限定并列对象
+chunks The most 【immediate】 changes will be observed〔主〕 in skill level, strength and inches lost.〔修〕
+main 主语:The most 【immediate】 changes | 谓语:will be observed
+gist 最先发生的变化会被观察到
+mod in skill level, strength and inches lost → observed | 观察范围 | 技能、力量与减少的围度；lost修饰inches，不是另一过去时谓语
+
+# special-2019-cloze|0:8
+type 简单句｜同一主语两个并列谓语
+chunks For these 【reasons】,〔修〕 I stopped weighing myself〔主〕 every day〔修〕 and〔连〕 switched〔主〕 to a bimonthly weighing schedule 【instead】.〔修〕
+main 主语:I | 谓语:stopped | 宾语:weighing myself || &and || 谓语:switched
+gist 我停止每天称重，并改了安排
+mod every day → weighing | 频率状语 | 原来每天称重
+mod to a bimonthly weighing schedule → switched | 方向补足 | 改为另一称重频率
+mod 【instead】 → switched | 替代副词 | 转而这样做
+mod For these 【reasons】 → 整句 | 原因状语 | 基于上述理由
+point bimonthly在本篇由下文every other week及既有译文限定为约每两周一次，不能脱离语境机械解释。
+
+# special-2019-cloze|0:9
+type 主从复合句｜since原因，it形式主语
+chunks Since weight loss is not my goal,〔C1〕 it is less important〔主〕 for me〔修〕 to 【track】 my weight〔主〕 each week.〔修〕
+main 形式主语:it | 谓语:is | 表语:less important | 真正主语:to 【track】 my weight
+gist 每周追踪体重并不那么重要
+C1 原因状语从句 | 说明追踪体重不重要的理由 | Since | Since后weight loss is not my goal主系表完整；since在此表示既然，不是自从，整块作原因背景 | 主语:weight loss | 谓语:is not | 表语:my goal
+mod for me → important | 适用对象 | 对我而言
+mod each week → 【track】 | 频率状语 | 每周追踪
+
+# special-2019-cloze|0:10
+type 简单句｜动名词主语，allow复合宾语
+chunks Weighing〔主〕 every other week〔修〕 allows me to observe and 【account for】 any significant weight changes.〔主〕
+main 主语:Weighing | 谓语:allows | 宾语:me | 宾补:to observe and 【account for】 any significant weight changes
+gist 称重让我观察并解释变化
+mod every other week → Weighing | 频率状语 | 每隔一周
+point observe与account for共用to，属于不定式宾补；allows才是主句限定谓语。
+
+# special-2019-cloze|0:11
+type 主从复合句｜whether内容宾语
+chunks That tells me〔主〕 whether I need to 【adjust】 my training program.〔C1〕
+main 主语:That | 谓语:tells | 间接宾语:me | 直接宾语:C1
+gist 那告诉我是否需要调整
+C1 宾语从句 | 作tells的内容宾语 | whether | 前面tells me已有接受者但缺内容，whether后I need to adjust…主谓及补足完整；whether表示是否 | 主语:I | 谓语:need | 宾语:to 【adjust】 my training program
+
+# special-2019-cloze|0:12
+type 简单句｜不定式表使用目的
+chunks I use my bimonthly weigh-in 【results】〔主〕 to get information about my nutrition as well.〔修〕
+main 主语:I | 谓语:use | 宾语:my bimonthly weigh-in 【results】
+gist 我利用称重结果
+mod to get information about my nutrition → use | 不定式目的 | 用于了解营养状况
+mod as well → use | 添加副词 | 还兼有这一用途
+
+# special-2019-cloze|0:13
+type 主从复合句｜if内并列条件，that同位语从句
+chunks If my training intensity remains the same,〔C1〕 but〔连〕 I'm constantly 【hungry】 and dropping weight,〔C1〕 this is a 【sign】〔主〕 that I need to increase my daily caloric intake.〔C2〕
+main 主语:this | 谓语:is | 表语:a 【sign】
+gist 这是一个信号
+C1 条件状语从句 | 给出出现信号的条件 | If | If后intensity remains及I'm hungry and dropping weight均有主谓；but在同一条件块内形成转折，主句是this is a sign | 主语:my training intensity | 谓语:remains | 表语:the same | 主语＋谓语:I'm | 表语:【hungry】 | 谓语:dropping
+C2 同位语从句 | 解释sign的具体内容 | that | 前面是抽象名词sign，后面I need to increase…主谓及补足完整；that不充当成分，说明信号含义 | 主语:I | 谓语:need | 宾语:to increase my daily caloric intake
+point I'm是I am，am同时支撑形容词hungry与现在分词dropping的状态和进行意义；不把dropping当独立现在时。
+
+# special-2019-cloze|0:14
+type 简单句｜不定式限定decision
+chunks The 【decision】〔主〕 to stop weighing myself every day〔修〕 has done wonders〔主〕 for my overall health, fitness and well-being.〔修〕
+main 主语:The 【decision】 | 谓语:has done | 宾语:wonders
+gist 这个决定产生了显著好处
+mod to stop weighing myself every day → 【decision】 | 不定式定语 | 不再每天称重的决定
+mod for my overall health, fitness and well-being → wonders | 受益对象补足 | 给健康、体能和身心状态带来好处
+
+# special-2019-cloze|0:15
+type 主从复合句｜since原因从句
+chunks I'm experiencing increased zeal〔主〕 for working out〔修〕 since I no longer carry the burden〔C1〕 of a 【disappointing】 morning weigh-in.〔C1修〕
+main 主语＋谓语:I'm experiencing | 宾语:increased zeal
+gist 我更有锻炼热情
+C1 原因状语从句 | 解释热情增加的原因 | since | since后I no longer carry the burden主谓宾完整，表示因为不再背负负担；主句experience有宾语已完整 | 主语:I | 谓语:carry | 宾语:the burden
+mod for working out → zeal | 介词定语 | 对锻炼的热情
+mod of a 【disappointing】 morning weigh-in → burden | 介词定语 | 清晨称重令人失望的负担
+mod no longer → carry | 否定时间限定 | 已不再背负
+
+# special-2019-cloze|0:16
+type 主从复合句｜because原因
+chunks I've also experienced greater success〔主〕 in achieving my specific fitness goals,〔修〕 【because】 I'm training〔C1〕 according to those goals, not the numbers on a scale.〔C1修〕
+main 主语＋谓语:I've … experienced | 宾语:greater success
+gist 我也获得了更大成功
+C1 原因状语从句 | 解释取得成功的原因 | 【because】 | because后I'm training主谓完整，整块解释成功为何发生；不是experience的宾语内容 | 主语＋谓语:I'm training
+mod also → experienced | 添加副词 | 还有这一变化
+mod in achieving my specific fitness goals → success | 介词定语 | 在达到具体健身目标方面的成功
+mod according to those goals, not the numbers on a scale → training | 依据对比 | 按目标而非秤上的数字训练
+
+# special-2019-cloze|0:17
+type 祈使复合句｜rather than对比，how宾语从句并列
+chunks Rather than 【obsessing】 over the scale,〔修〕 turn your focus〔主〕 to〔修〕 how you look, feel,〔C1〕 how your clothes fit〔C2〕 and〔连〕 your overall energy level.〔修〕
+main 谓语:turn | 宾语:your focus
+gist 转移关注点
+C1 宾语从句 | 作to后的第一个关注对象 | how | 前面介词to需要对象，how后you look与省略主语的feel有谓语但需状态内容；how表示外观和感觉方式 | 主语:you | 谓语:look | 谓语:feel
+C2 宾语从句 | 与第一项并列作to的对象 | how | 前面继续列举关注内容，how后your clothes fit主谓完整；how表示衣服合身程度，整块作介词宾语 | 主语:your clothes | 谓语:fit
+mod Rather than 【obsessing】 over the scale → turn | 对比状语 | 不要痴迷体重秤而应转移注意
+mod your overall energy level → focus | 并列关注对象 | 与两个how从句共同列举总体精力水平
+
+# special-2019-newtype|0:3
+type 简单句｜冒号后同位内容
+chunks In choosing a new home,〔修〕 Camille McClain's kids have a single demand:〔主〕 a backyard.〔修〕
+main 主语:Camille McClain's kids | 谓语:have | 宾语:a single demand
+gist 孩子们只有一个要求
+mod In choosing a new home → 整句 | 情境状语 | 在选择新家时
+mod a backyard → demand | 同位内容 | 要求是有后院
+
+# special-2019-newtype|0:4
+type 并列复合句｜who定语与when时间从句
+chunks McClain's little ones aren't the only kids〔主〕 who have an opinion〔C1〕 when it comes to housing,〔C2〕 and〔连〕 in many cases〔修〕 youngsters' views weigh heavily〔主〕 on parents' real estate decisions, according to a 2018 Harris Poll survey of more than 2,000 U. S. adults.〔修〕
+main 主语:McClain's little ones | 谓语:aren't | 表语:the only kids || &and || 主语:youngsters' views | 谓语:weigh
+ gist 不只这些孩子有意见，孩子意见影响决定
+C1 定语从句 | 修饰kids | who | 前面是指人的kids，后面have an opinion缺主语；who代指孩子作主语 | 主语:who | 谓语:have | 宾语:an opinion
+C2 时间状语从句 in C1 | 表示涉及住房时 | when | when后it comes to housing主谓完整，it是习语中的泛指主语；整块作情境，不作opinion的定语 | 主语:it | 谓语:comes
+mod on parents' real estate decisions → weigh | 影响对象补足 | 对父母房产决定有影响
+mod according to a 2018 Harris Poll survey of more than 2,000 U. S. adults → 整句 | 信息来源 | 说明调查年份与样本
+mod heavily → weigh | 程度状语 | 影响很大
+
+# special-2019-newtype|0:5
+type 主从复合句｜while让步，零关系词定语
+chunks While more families buck an older-generation proclivity〔C1〕 to leave kids in the dark about real estate decisions,〔C1修〕 realty agents and psychologists have mixed views〔主〕 about the financial, personal and long-term effects〔修〕 kids' opinions may have.〔C2〕
+main 主语:realty agents and psychologists | 谓语:have | 宾语:mixed views
+gist 经纪人与心理学家意见不一
+C1 让步状语从句 | 虽然更多家庭改变旧习惯 | While | While后more families buck a proclivity主谓宾完整；while表示虽然，与后面看法不一形成让步，不是时间同时 | 主语:more families | 谓语:buck | 宾语:an older-generation proclivity
+C2 定语从句 | 修饰effects | （省略 that） | 前面是effects，后面kids' opinions may have缺宾语；省略关系词代指可能产生的影响 | 主语:kids' opinions | 谓语:may have
+mod to leave kids in the dark about real estate decisions → proclivity | 不定式定语 | 不让孩子了解房产决定的倾向
+mod about the financial, personal and long-term effects → views | 介词定语 | 对各种影响的看法
+
+# special-2019-newtype|0:6
+type 主从复合句｜because原因，what介词宾语
+chunks The idea〔主〕 of involving children in a big decision〔修〕 is a great idea〔主〕 because it can help them feel a sense〔C1〕 of control and ownership〔C1修〕 in〔C1修〕 what can be an overwhelming process,〔C2〕 said Ryan Hooper, clinical psychologist in Chicago.〔修〕
+main 主语:The idea | 谓语:is | 表语:a great idea
+gist 这一想法很好
+C1 原因状语从句 | 解释为何让孩子参与是好主意 | because | because后it can help them feel…有主语谓语与补足，前面The idea is…已完整；整块给出理由 | 主语:it | 谓语:can help | 宾语:them | 宾补:feel a sense
+C2 宾语从句 in C1 | 作介词in的宾语 | what | 前面in需要过程情境，what后can be an overwhelming process缺主语；what兼有连接与主语作用 | 主语:what | 谓语:can be | 表语:an overwhelming process
+mod of involving children in a big decision → idea | 介词定语 | 让孩子参与重大决定的想法
+mod of control and ownership → sense | 介词定语 | 控制感和主人翁感
+mod said Ryan Hooper, clinical psychologist in Chicago → 整句 | 引述与同位 | 说明发言者身份
+
+# special-2019-newtype|0:7
+type 引语复合句｜especially if条件
+chunks "Children may face serious difficulties〔主〕 in coping with significant moves,〔修〕 especially if it removes them〔C1〕 from their current school or support system,"〔C1修〕 he said.〔修〕
+main 主语:Children | 谓语:may face | 宾语:serious difficulties
+gist 孩子可能面对严重困难
+C1 条件状语从句 | 特别指出搬迁离开支持系统的情况 | if | if后it removes them主谓宾完整；especially强调这个条件，it指重大搬迁，不是孩子 | 主语:it | 谓语:removes | 宾语:them
+mod in coping with significant moves → difficulties | 介词定语 | 应对重大搬迁的困难
+mod from their current school or support system → removes | 离开对象补足 | 从现有学校或支持系统移开
+mod he said → 整句 | 引述语 | 原话的发言者
+
+# special-2019-newtype|0:8
+type 主从复合句｜said宾语、that确信内容，内部but并列
+chunks Greg Jaroszewski,〔主〕 real estate broker with Gagliardo Realty Associates,〔修〕 said〔主〕 he's not convinced〔C1〕 that kids should be involved in selecting a home〔C2〕 - but〔连〕 their opinions should be considered〔C1〕 in regards to proximity to friends and social activities, if possible.〔C1修〕
+main 主语:Greg Jaroszewski | 谓语:said | 宾语:C1
+gist 经纪人表明自己的看法
+C1 宾语从句 | 作said的宾语，内有两项转折意见 | （省略 that） | 前面said缺内容，后面he's not convinced与their opinions should be considered各有主谓；省略that，整块作宾语 | 主语＋谓语:he's not convinced | 宾语:C2 | 主语:their opinions | 谓语:should be considered
+C2 宾语从句 in C1 | 补足convinced确信内容 | that | 前面not convinced需要说明不确信什么，that后kids should be involved主谓完整；that不作成分 | 主语:kids | 谓语:should be involved
+mod real estate broker with Gagliardo Realty Associates → Greg Jaroszewski | 同位身份说明 | 房产经纪人及所属公司
+mod in selecting a home → involved | 参与对象补足 | 参与选房，selecting是动名词
+mod in regards to proximity to friends and social activities → considered | 考虑范围 | 就朋友和社交活动的距离而言，保留原题表达
+mod if possible → considered | 省略条件补充 | 在可能的情况下，不虚构原文中未写出的it is
+
+# special-2019-newtype|0:9
+type 主从复合句｜like表语从句，without动名词
+chunks Younger children should feel〔主〕 like they're choosing their home〔C1〕 - without actually getting a choice in the matter, said Adam Bailey, real estate attorney based in New York.〔修〕
+main 主语:Younger children | 谓语:should feel | 表语:C1
+gist 小孩子应有参与选择的感受
+C1 表语从句 | 说明feel的内容 | like | 前面feel缺感受状态，like后they're choosing their home主谓宾完整；like表示好像，整块作表语 | 主语＋谓语:they're choosing | 宾语:their home
+mod without actually getting a choice in the matter → 整句 | 伴随限制 | 实际上不把决定权交给孩子
+mod said Adam Bailey, real estate attorney based in New York → 整句 | 引述身份说明 | based修饰律师，不是另一个过去时谓语
+
+# special-2019-newtype|0:10
+type 主从复合句｜动名词主语内what宾语，like表语从句
+chunks Asking them questions〔主〕 about〔修〕 what they like〔C1〕 about the backyard of a potential home〔C1修〕 will make them feel〔主〕 like they're being included in the decision-making process,〔C2〕 Bailey said.〔修〕
+main 主语:Asking them questions | 谓语:will make | 宾语:them | 宾补:feel
+C1 宾语从句 | 作about的宾语 | what | 前面介词about需要询问内容，what后they like缺宾语；what兼具连接和宾语作用，整块作介词宾语 | 主语:they | 谓语:like | 宾语:what
+C2 表语从句 | 补足feel的感受 | like | 前面feel缺具体感受，like后they're being included主谓完整；整块表示好像被纳入 | 主语＋谓语:they're being included
+gist 向孩子提问会让他们有参与感
+mod about the backyard of a potential home → like | 方面补足 | 喜欢候选住房后院的哪些地方
+mod in the decision-making process → included | 介词补足 | 被纳入决策过程
+mod Bailey said → 整句 | 引述语 | 这是Bailey的意见
+
+# special-2019-newtype|0:11
+type 简单句｜主语长of定语，句尾引述
+chunks Many of the aspects〔主〕 of homebuying〔修〕 aren't a consideration〔主〕 for children, said Tracey Hampson, a real estate agent based in Santa Clarita, Calif.〔修〕
+main 主语:Many of the aspects | 谓语:aren't | 表语:a consideration
+gist 许多方面不在孩子的考虑中
+mod of homebuying → aspects | 介词定语 | 买房的各个方面
+mod for children → consideration | 对象补足 | 对孩子而言
+mod said Tracey Hampson, a real estate agent based in Santa Clarita, Calif. → 整句 | 引述与身份 | 介绍发言者职业及地区
+
+# special-2019-newtype|0:12
+type 简单句｜动名词作主语
+chunks And〔连〕 placing too much emphasis〔主〕 on their opinions〔修〕 can ruin a fantastic home purchase.〔主〕
+main 主语:placing too much emphasis | 谓语:can ruin | 宾语:a fantastic home purchase
+gist 过度强调意见可能毁掉好交易
+mod on their opinions → emphasis | 介词定语 | 强调孩子意见
+
+# special-2019-newtype|0:13
+type 并列复合句｜动名词主语，before时间从句
+chunks "Speaking with your children〔主〕 before you make a real estate decision〔C1〕 is wise,〔主〕 but〔连〕 I wouldn't base the purchasing decision〔主〕 solely on their opinions."〔修〕
+main 主语:Speaking with your children | 谓语:is | 表语:wise || &but || 主语:I | 谓语:wouldn't base | 宾语:the purchasing decision
+gist 与孩子交谈明智，但决定不能只凭他们
+C1 时间状语从句 | 限定与孩子交谈的时间 | before | before后you make a decision主谓宾完整；整块表示作决定之前，不是children的定语 | 主语:you | 谓语:make | 宾语:a real estate decision
+mod solely on their opinions → base | 决策依据补足 | 只把他们意见当依据
+
+# special-2019-newtype|0:14
+type 引述句｜承接上文的说话人
+chunks Hampson said.〔主〕
+main 主语:Hampson | 谓语:said
+gist 汉普森说
+point 原数据把引述语单列一条，内容接前一条引语，不在本批改变句界。
+
+# special-2019-newtype|0:15
+type 主从复合句｜that表语从句
+chunks The other issue is〔主〕 that many children〔C1〕 - especially older ones -〔C1修〕 may base their real state knowledge〔C1〕 on HGTV shows,〔C1修〕 said Aaron Norris of The Norris Group in Riverside, Calif.〔修〕
+main 主语:The other issue | 谓语:is | 表语:C1
+gist 另一个问题是这种情形
+C1 表语从句 | 解释issue是什么 | that | 前面is缺表语，that后many children may base knowledge主谓宾完整；that只连接，整块作表语 | 主语:many children | 谓语:may base | 宾语:their real state knowledge
+mod especially older ones → children | 特别列举 | 尤其年长的孩子
+mod on HGTV shows → base | 知识依据补足 | 根据电视节目形成认知
+mod said Aaron Norris of The Norris Group in Riverside, Calif. → 整句 | 引述身份说明 | 交代说话人
+point 原文real state照录，语义上指房产认知；不在内容批次补改estate。
+
+# special-2019-newtype|0:16
+type 引语复合句｜as…as比较省略
+chunks "They love Chip and Joanna Gaines〔主〕 just as much〔修〕 as the rest of us,"〔C1〕 he said.〔修〕
+main 主语:They | 谓语:love | 宾语:Chip and Joanna Gaines
+gist 他们喜欢这两位主持人
+C1 比较状语从句（省略） | 比较孩子与其他人的喜爱程度 | as | 前面as much提出程度，后一个as后的the rest of us省略重复love…；它在比较从句中是逻辑主语 | 主语:the rest of us
+mod just as much → love | 程度比较 | 一样喜欢
+mod he said → 整句 | 引述语 | 说话人的说明
+
+# special-2019-newtype|0:17
+type 主从复合句｜how宾语从句
+chunks "HGTV has seriously changed〔主〕 how people view real estate.〔C1〕
+main 主语:HGTV | 谓语:has … changed | 宾语:C1
+gist 电视节目改变了看法
+C1 宾语从句 | 作changed的宾语 | how | 前面changed缺改变的对象，how后people view real estate主谓宾完整；how作方式状语，整块表示看待房产的方式 | 主语:people | 谓语:view | 宾语:real estate
+mod seriously → changed | 程度副词 | 极大地改变
+
+# special-2019-newtype|0:18
+type 两个并列判断｜逗号连接原题中的两项主系表
+chunks It's not shelter,〔主〕 it's a lifestyle.〔主〕
+main 主语＋谓语:It's … it's | 表语:not shelter … a lifestyle
+gist 它不只是住所，而是一种生活方式
+point 第二个it's与第一个规范化重复，原文保留；两项判断各有自己的it is，不是shelter作后半主语。
+
+# special-2019-newtype|0:19
+type 倒装句｜前置with短语，名词主语在come之后
+chunks With that mindset change〔修〕 come some serious money consequences."〔主〕
+main 主语:some serious money consequences | 谓语:come
+gist 严重的财务后果随之而来
+mod With that mindset change → come | 伴随状语 | 随着观念变化
+point come前置、主语在后，不能将介词with后的mindset change当作主语。
+
+# special-2019-newtype|0:20
+type 引语条目｜tend后不定式
+chunks Kids tend to get stuck〔主〕 in the features and the immediate benefits to them personally,〔修〕 Norris said.〔修〕
+main 主语:Kids | 谓语:tend | 表语:to get stuck
+gist 孩子容易只盯着某些特点
+mod in the features and the immediate benefits to them personally → stuck | 介词补足 | 陷在房屋特色与对自己眼前利益的考虑中
+mod Norris said → 整句 | 引述语 | 说明发言者
+
+# special-2019-newtype|0:21
+type 主从复合句｜need后不定式，that内容宾语
+chunks Parents need to remind their children〔主〕 that their needs and desires may change〔C1〕 over time,〔C1修〕 said Julie Gurner, a real estate analyst with FitSmallBusiness.com.〔修〕
+main 主语:Parents | 谓语:need | 宾语:to remind their children
+C1 宾语从句 | 作remind的内容宾语 | that | 前面remind their children已有接受者但缺提醒内容，that后needs and desires may change主谓完整；that不作成分 | 主语:their needs and desires | 谓语:may change
+gist 父母需要提醒孩子
+mod over time → change | 时间状语 | 随时间改变
+mod said Julie Gurner, a real estate analyst with FitSmallBusiness.com → 整句 | 引述身份说明 | 说明发言者职业及机构
+
+# special-2019-newtype|0:22
+type 引语条目｜情态谓语
+chunks "Their opinions can change〔主〕 tomorrow," Gurner said.〔修〕
+main 主语:Their opinions | 谓语:can change
+gist 他们的意见可能改变
+mod tomorrow → change | 时间状语 | 可能明天就变
+mod Gurner said → 整句 | 引述语 | 说明发言者
+
+# special-2019-newtype|0:23
+type 主从复合句｜as让步倒装，what宾语从句
+chunks "Harsh as it may be to say,〔C1〕 that decision should likely not be made〔主〕 contingent on a child's opinions,〔修〕 but rather〔连〕 made〔主〕 for them with great consideration into〔修〕 what home can meet their needs best〔C2〕 -〔修〕 and〔连〕 give them an opportunity〔主〕 to customize it a bit and make it their own."〔修〕
+main 主语:that decision | 谓语:should … not be made || &but rather || 谓语:made#2 || &and || 谓语:give | 间接宾语:them#2 | 直接宾语:an opportunity
+C1 让步状语从句 | 承认这话可能严厉 | as | 形容词Harsh前置，as后it may be to say主系结构完整；相当于though it may be harsh，整块表示让步 | 形式主语:it | 谓语:may be | 表语:Harsh | 真正主语:to say
+C2 宾语从句 | 作into的宾语 | what | 前面介词into需考虑内容，what home can meet…中what限定home，整个主语是what home；从句主谓宾完整，表示哪种房子合适 | 主语:what home | 谓语:can meet | 宾语:their needs
+ gist 决定不应取决于孩子，而应替孩子作出
+mod contingent on a child's opinions → made | 结果状态补足 | 使决定取决于孩子意见
+mod for them → made | 受益对象 | 替他们作决定
+mod with great consideration → made | 方式状语 | 经过充分考虑
+mod best → meet | 方式状语 | 最能满足孩子需求；and后转为给父母的追加祈使建议。
+mod to customize it a bit and make it their own → opportunity | 不定式定语 | 给孩子个性布置并当作自己家的机会；make的宾补是their own
+
+point give是面向父母的追加祈使建议，省略主语you，不是what home的并列谓语；made前承前省略should be。
+
+# special-2019-newtype|0:24
+type 主从复合句｜than比较省略，even as让步
+chunks This advice is more relevant〔主〕 now〔修〕 than ever before,〔C1〕 even as more parents want to embrace the ideas〔C2〕 of their children, despite the current housing crunch.〔C2修〕
+main 主语:This advice | 谓语:is | 表语:more relevant
+gist 这一建议更加切题
+C1 比较状语从句（省略） | 比较现在与过去的适用程度 | than | 前面more relevant提出比较，than后ever before省略原有主系结构，表示比以往任何时候
+C2 让步状语从句 | 即使更多父母想接纳孩子想法 | even as | even as后more parents want…主谓及补足完整；表示即便如此而建议仍相关，不作advice定语 | 主语:more parents | 谓语:want | 宾语:to embrace the ideas
+mod of their children → ideas | 介词定语 | 孩子的想法
+mod despite the current housing crunch → want | 让步补充 | 尽管住房紧张仍想接纳
+point 比较省略中的before是时间副词，不是实际限定谓语；这里只保留原词，不补写不存在的was。
+
+# special-2019-translation|0:0
+type 简单句｜it形式主语
+chunks It is easy〔主〕 to underestimate English writer James Herriot.〔修〕
+main 形式主语:It | 谓语:is | 表语:easy | 真正主语:to underestimate English writer James Herriot
+gist 低估这位作家很容易
+point 真正被评价的是to underestimate这件事，不是it有具体人物指代。
+
+# special-2019-translation|0:1
+type 主从复合句｜such…that结果，内含that宾语从句
+chunks He had such a pleasant, readable style〔主〕 that one might think〔C1〕 that anyone could imitate it.〔C2〕
+main 主语:He | 谓语:had | 宾语:such a pleasant, readable style
+gist 他的文风亲切易读
+C1 结果状语从句 | 说明文风带来的误判 | that | 前面such…style提出程度，that后one might think主谓完整；such…that表示如此以至于 | 主语:one | 谓语:might think | 宾语:C2
+C2 宾语从句 in C1 | 作think的宾语 | that | 前面think缺想法内容，后面anyone could imitate it主谓宾完整；第二个that只连接内容 | 主语:anyone | 谓语:could imitate | 宾语:it
+
+# special-2019-translation|0:2
+type 疑问式感叹引语｜hear感官复合宾语
+chunks How many times〔修〕 have I heard people say,〔主〕 "I could write a book.〔修〕
+main 主语:I | 谓语:have … heard | 宾语:people | 宾补:say
+gist 我不知听人说过多少次
+mod How many times → heard | 次数疑问 | 问次数，语用上表示很多次
+mod "I could write a book → say | 直接引语内容 | 说话人的原话，内部I是主语、could write是谓语、book是宾语
+
+# special-2019-translation|0:3
+type 简单句｜have实义动词否定，引语续句
+chunks I just haven't the time."〔主〕
+main 主语:I | 谓语:haven't | 宾语:the time
+gist 我没有时间
+mod just → haven't | 限定副词 | 只是缺时间
+point haven't在这里是没有这一实义用法，不是后面省略过去分词的完成时；引号承接前条。
+
+# special-2019-translation|0:4
+type 被动省略片段｜未写出主语和be
+chunks Easily〔修〕 said.〔修〕
+gist 说来容易
+mod Easily → said | 方式状语 | 说起来容易
+point 理解为It is easily said，但原文只有分词said，不把said称作独立过去时谓语；骨架栏仅展示省略后的动作残留。
+
+# special-2019-translation|0:5
+type 被动省略片段｜与上条形成对照
+chunks Not so easily〔修〕 done.〔修〕
+gist 做来不容易
+mod Not so easily → done | 方式否定 | 做起来没那么容易
+point 可理解为It is not so easily done；原文没有主语和be，done是被动结构的分词残留，不是完整限定谓语。
+
+# special-2019-translation|0:6
+type 主从复合句｜find复合宾语，it回指写作；as引述插入语
+chunks James Herriot,〔主〕 contrary to popular opinion,〔修〕 did not find it easy〔主〕 in his early days of,〔修〕 as he put it,〔C1〕 "having a go at the writing game".〔修〕
+main 主语:James Herriot | 谓语:did not find | 宾语:it | 宾补:easy
+gist 赫里奥特并不觉得写作容易
+C1 方式状语从句 | 插入引述他自己的说法 | as | as后he put it主谓宾完整，as表示正如他所说，整块是插入引述而非主句宾语 | 主语:he | 谓语:put | 宾语:it
+mod contrary to popular opinion → 整句 | 对比评述 | 与大众印象相反
+mod in his early days of → find | 时间背景 | 在他早期尝试写作时，原条目把of的对象置于引语中
+point it指代从语境得知的写作这件事；引语原样嵌在of后，不能把of后的动名词同时硬当作find的实际后置真正宾语。
+
+# special-2019-translation|0:7
+type 主从复合句｜while让步，that定语从句
+chunks While he obviously had an abundance of natural talent,〔C1〕 the final, polished work〔主〕 that he gave to the world〔C2〕 was the result〔主〕 of years of practicing, re-writing and reading.〔修〕
+main 主语:the final, polished work | 谓语:was | 表语:the result
+gist 成熟作品是多年实践的成果
+C1 让步状语从句 | 承认他具有天赋 | While | While后he had talent主谓宾完整，while表示虽然，与成果来自实践形成让步关系 | 主语:he | 谓语:had | 宾语:an abundance of natural talent
+C2 定语从句 | 修饰work | that | 前面是作品work，后面he gave to the world缺给出的宾语；that代指作品作gave宾语 | 主语:he | 谓语:gave | 宾语:that
+mod of years of practicing, re-writing and reading → result | 介词定语 | 多年练习、重写和阅读的结果
+
+# special-2019-translation|0:8
+type 并列句｜but连接两主句，过去分词形容状态
+chunks Like the majority of authors,〔修〕 he had to suffer many disappointments and rejections〔主〕 along the way,〔修〕 but〔连〕 these made him all the more determined〔主〕 to succeed.〔修〕
+main 主语:he | 谓语:had to suffer | 宾语:many disappointments and rejections || &but || 主语:these | 谓语:made | 宾语:him | 宾补:determined
+gist 他经历挫折，这些反而使他坚定
+mod Like the majority of authors → 整句 | 比较状语 | 与大部分作者一样
+mod along the way → suffer | 时间过程 | 在写作道路上
+mod all the more → determined | 程度副词 | 反而更加坚定
+mod to succeed → determined | 不定式补足 | 决心取得成功
+
+# special-2019-translation|0:9
+type 并列复合句｜零关系词定语
+chunks Everything〔主〕 he achieved in life〔C1〕 was earned the hard way〔主〕 and〔连〕 his success in the literary field〔主〕 was no exception.〔主〕
+main 主语:Everything | 谓语:was earned || &and || 主语:his success | 谓语:was#2 | 表语:no exception
+gist 一切成就来之不易，文学成功也不例外
+C1 定语从句 | 修饰Everything | （省略 that） | 前面Everything为先行词，后面he achieved缺宾语；省略关系词代指成就作achieved宾语 | 主语:he | 谓语:achieved
+mod in life → achieved | 时间范围 | 一生中取得
+mod the hard way → earned | 方式状语 | 以艰难方式争取到
+mod in the literary field → success | 介词定语 | 文学领域的成功

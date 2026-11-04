@@ -1,0 +1,139 @@
+[
+  {
+    "old": [
+      {
+        "key": "2013-1|3:2",
+        "text": "As Davidson notes, \"In the 10 years ending in 2009, [U.",
+        "cn": "正如戴维森所指出的：“在截至2009年的十年间，美国……（引文续下句）"
+      },
+      {
+        "key": "2013-1|3:3",
+        "text": "S.] factories shed workers so fast that they erased almost all the gains of the previous 70 years; roughly one out of every three manufacturing jobs - about 6 million in total - disappeared.\"",
+        "cn": "工厂裁员的速度如此之快，以至于此前70年间增加的就业岗位几乎全部被抹去；制造业大约每三个岗位就有一个消失，总计约600万个。”"
+      }
+    ],
+    "new": [
+      {
+        "key": "2013-1|3:2",
+        "text": "As Davidson notes, \"In the 10 years ending in 2009, [U. S.] factories shed workers so fast that they erased almost all the gains of the previous 70 years; roughly one out of every three manufacturing jobs - about 6 million in total - disappeared.\"",
+        "cn": "正如戴维森所指出的：“在截至2009年的十年间，美国工厂裁员的速度如此之快，以至于此前70年间增加的就业岗位几乎全部被抹去；大约每三个制造业岗位就有一个消失，总计约600万个。”"
+      }
+    ],
+    "approved": "用户已确认六组迁移；保留其他编号和旧记录"
+  },
+  {
+    "old": [
+      {
+        "key": "2017-3|2:1",
+        "text": "Rather than pulling students back, a gap year pushes them ahead by preparing them for independence, new responsibilities and environmental changes",
+        "cn": "间隔年并非把学生向后拉，而是让他们为独立生活、新责任和环境变化做好准备，从而把他们推到前面——"
+      },
+      {
+        "key": "2017-3|3:0",
+        "text": "- all things that first-year students often struggle with the most.",
+        "cn": "这些恰恰都是大一新生最常感到棘手的事情。"
+      }
+    ],
+    "new": [
+      {
+        "key": "2017-3|2:1",
+        "text": "Rather than pulling students back, a gap year pushes them ahead by preparing them for independence, new responsibilities and environmental changes - all things that first-year students often struggle with the most.",
+        "cn": "间隔年通过帮助学生为独立、新责任和环境变化做好准备，推动他们向前，而非拖后腿——这些都是大学新生常常最难应付的事情。"
+      }
+    ],
+    "approved": "用户已确认六组迁移；保留其他编号和旧记录"
+  },
+  {
+    "old": [
+      {
+        "key": "2018-3|0:0",
+        "text": "The power and ambition of the giants of the digital economy is astonishing-",
+        "cn": "数字经济巨头的实力与野心令人震惊——"
+      },
+      {
+        "key": "2018-3|1:0",
+        "text": "Amazon has just announced the purchase of the upmarket grocery chain Whole Foods for ＄ 13.5bn, but two years ago Facebook paid even more than that to acquire the WhatsApp messaging service, which doesn't have any physical product at all.",
+        "cn": "亚马逊刚宣布以135亿美元收购高端食品杂货连锁全食超市，但两年前脸书收购即时通信服务WhatsApp时支付得更多，而后者根本没有任何实体产品。"
+      }
+    ],
+    "new": [
+      {
+        "key": "2018-3|0:0",
+        "text": "The power and ambition of the giants of the digital economy is astonishing - Amazon has just announced the purchase of the upmarket grocery chain Whole Foods for ＄ 13.5bn, but two years ago Facebook paid even more than that to acquire the WhatsApp messaging service, which doesn't have any physical product at all.",
+        "cn": "数字经济巨头的实力与野心令人震惊——亚马逊刚宣布以135亿美元收购高端杂货连锁全食超市，但两年前脸书为收购没有任何实体产品的WhatsApp即时通信服务支付了更多的钱。"
+      }
+    ],
+    "approved": "用户已确认六组迁移；保留其他编号和旧记录"
+  },
+  {
+    "old": [
+      {
+        "key": "2018-3|3:7",
+        "text": "That would be the people who buy advertising",
+        "cn": "真正的顾客是购买广告的人——"
+      },
+      {
+        "key": "2018-3|4:0",
+        "text": "from them - and Facebook and Google, the two virtual giants, dominate digital",
+        "cn": "而脸书和谷歌这两个虚拟巨头主宰着数字——"
+      },
+      {
+        "key": "2018-3|5:0",
+        "text": "advertising to the disadvantage of all other media and entertainment companies.",
+        "cn": "广告，使所有其他媒体和娱乐公司处于不利地位。"
+      }
+    ],
+    "new": [
+      {
+        "key": "2018-3|3:7",
+        "text": "That would be the people who buy advertising from them - and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies.",
+        "cn": "真正的顾客是向它们购买广告的人——而脸书与谷歌这两个数字世界巨头主导数字广告，使所有其他媒体和娱乐公司处于不利地位。"
+      }
+    ],
+    "approved": "用户已确认六组迁移；保留其他编号和旧记录"
+  },
+  {
+    "old": [
+      {
+        "key": "2019-3|4:6",
+        "text": "The shortage is compounded by federal immigration",
+        "cn": "联邦移民执法突袭使短缺进一步加剧——"
+      },
+      {
+        "key": "2019-3|5:0",
+        "text": "raids, which remove some workers and drive others underground.",
+        "cn": "突袭带走一些工人，也迫使另一些转入地下。"
+      }
+    ],
+    "new": [
+      {
+        "key": "2019-3|4:6",
+        "text": "The shortage is compounded by federal immigration raids, which remove some workers and drive others underground.",
+        "cn": "联邦移民执法突袭进一步加剧了劳动力短缺；这些突袭带走一些工人，并迫使另一些人转入地下。"
+      }
+    ],
+    "approved": "用户已确认六组迁移；保留其他编号和旧记录"
+  },
+  {
+    "old": [
+      {
+        "key": "2020-1|5:1",
+        "text": "The robot was the same size as a regular rat but resembled a simple plastic box on wheels. \" We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+        "cn": "它与普通老鼠一样大，却只像一个装在轮子上的简单塑料盒；参与研究的珍妮特·怀尔斯说，他们原以为必须加上会动的头尾、面部和气味，但都没有必要。"
+      }
+    ],
+    "new": [
+      {
+        "key": "2020-1|5:1",
+        "text": "The robot was the same size as a regular rat but resembled a simple plastic box on wheels.",
+        "cn": "机器鼠与普通老鼠大小相同，却像一个装着轮子的简单塑料盒。"
+      },
+      {
+        "key": "2020-1|5:2",
+        "text": "\" We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+        "cn": "“我们原以为必须给它加上能动的头尾、面部特征，并添上气味，让它闻起来像真老鼠，但事实证明没有必要。”参与研究的澳大利亚昆士兰大学研究者珍妮特·威尔斯说。"
+      }
+    ],
+    "approved": "用户已确认六组迁移；保留其他编号和旧记录"
+  }
+]

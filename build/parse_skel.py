@@ -37,6 +37,18 @@ def parse_parts(s):
         if not _: raise Err('bad part '+seg)
         out.append((r.strip(),t.strip()))
     return out
+def located_part(T, role, text, regions):
+    # An explicit #N counts occurrences in the original sentence, like mod #N.
+    # Without it, retain the existing owner-region lookup and fallback.
+    m=re.fullmatch(r'(.*?)#([1-9][0-9]*)',text)
+    if m:
+        text=m.group(1).strip();occ=int(m.group(2))
+        first=re.split(r'\s*…\s*|\s*\.\.\.\s*',text)[0].strip()
+        candidates=[c for c in find_seq(T,first,0,len(T)-1) if norm(T[c[0]])]
+        if len(candidates)<occ: raise Err(f'cannot find occurrence #{occ} of「{text}」')
+        ranges=locate(T,text,[(candidates[occ-1][0],len(T)-1)])
+    else: ranges=locate(T,text,regions)
+    return {'r':role,'t':text,'rg':ranges}
 def parse_block(key, lines, raw):
     T=toks(raw); n=len(T)
     d={'type':None,'chunks':[],'main':[],'gist':'','clauses':[],'mods':[]}
@@ -90,7 +102,7 @@ def parse_block(key, lines, raw):
     for c in d['clauses']:
         c['a'],c['b']=span(c['id'])
         own=[(ch['a'],ch['b']) for ch in d['chunks'] if ch['owner']==c['id']]
-        c['parts']=[({'r':r,'t':t,'c':t} if re.fullmatch(r'C\d+',t) else {'r':r,'t':t,'rg':locate(T,t,own+[(c['a'],c['b'])])}) for r,t in c['parts']]
+        c['parts']=[({'r':r,'t':t,'c':t} if re.fullmatch(r'C\d+',t) else located_part(T,r,t,own+[(c['a'],c['b'])])) for r,t in c['parts']]
         if c['conn'] and c['conn'] not in('(that)','（省略 that）','—','无'):
             try: c['connRg']=locate(T,c['conn'].split('/')[0],[(c['a'],c['b'])])
             except Err: c['connRg']=None
@@ -101,7 +113,7 @@ def parse_block(key, lines, raw):
             if re.fullmatch(r'C\d+',t):
                 if t not in cid: raise Err('unknown clause ref '+t)
                 np.append({'r':r,'t':t,'c':t})
-            else: np.append({'r':r,'t':t,'rg':locate(T,t,mainreg)})
+            else: np.append(located_part(T,r,t,mainreg))
         g['parts']=np
         if g['conn']:
             g['connRg']=locate(T,g['conn'],[(0,n-1)])

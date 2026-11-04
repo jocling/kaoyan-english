@@ -1,0 +1,692 @@
+# special-2021-cloze|0:0
+type 简单句｜形式主语 it
+chunks It's not difficult〔主〕 to set targets for staff.〔修〕
+main 主语＋谓语:It's | 表语:not difficult | 真正主语:to set targets
+gist 设定目标并不难。
+mod for staff → set | 介词短语 | 给员工设定。
+point to set是不定式，整个动作充当真正主语，不是另一谓语。
+
+# special-2021-cloze|0:1
+type 简单句｜形式主语与插入语
+chunks It is much harder,〔主〕 【however】,〔修〕 to understand their negative consequences.〔主〕
+main 形式主语:It | 谓语:is | 表语:harder | 真正主语:to understand their negative consequences
+gist 理解负面后果更难。
+mod much → harder | 程度修饰 | 强调难得多。
+mod 【however】 → 整句 | 插入转折 | 然而。
+
+# special-2021-cloze|0:2
+type 多分句条目｜陈述句与祈使句＋and
+chunks Most work-related behaviors have multiple components.〔主〕 【Emphasize】 one〔主〕 and〔连〕 the others become distorted.〔主〕
+main 主语:behaviors | 谓语:have | 宾语:components || & || 谓语:【Emphasize】 | 宾语:one || &and || 主语:the others | 谓语:become | 表语:distorted
+gist 行为有多个部分；突出一个，其他便会失衡。
+mod work-related → behaviors | 前置定语 | 与工作有关。
+point Emphasize省略主语you，and后另有the others作主语，表示前一做法引出的结果。
+
+# special-2021-cloze|0:3
+type 并列句｜祈使句＋and与how宾语从句
+chunks Travel〔主〕 on a London bus〔修〕 and〔连〕 you'll 【quickly】 see〔主〕 how this works with drivers.〔C1〕
+main 谓语:Travel || &and || 主语＋谓语:you'll | 谓语:see | 宾语:C1
+gist 乘公交，你会看出其中机制。
+C1 宾语从句 | 作see的宾语 | how | see后缺所见内容；how后this works主谓完整，how说明方式 | 主语:this | 谓语:works
+mod on a London bus → Travel | 地点状语 | 在伦敦公交上。
+mod with drivers → works | 介词短语 | 在司机身上体现。
+
+# special-2021-cloze|0:4
+type 简单句｜感官动词复合宾语
+chunks Watch people get on and show their tickets.〔主〕
+main 谓语:Watch | 宾语:people | 宾补:get on … show their tickets
+gist 看乘客上车、出示车票。
+point get和show共用people，是Watch后的不带to不定式宾补；Watch才是祈使句谓语。
+
+# special-2021-cloze|0:5
+type 简单句｜被动一般疑问句
+chunks Are they carefully inspected?〔主〕
+main 主语:they | 谓语:Are … inspected
+gist 车票会被检查吗？
+mod carefully → inspected | 方式状语 | 仔细地。
+point Are移到主语前；被动谓语是Are inspected，不是只有inspected。
+
+# special-2021-cloze|0:6
+type 省略答句｜副词独立回答
+chunks Never.〔修〕
+main
+gist 从不检查。
+point Never承接上句，省略了票被检查的主谓；原文没有显式谓语。
+
+# special-2021-cloze|0:7
+type 简单句｜一般疑问句
+chunks Do people get on〔主〕 without paying?〔修〕
+main 主语:people | 谓语:Do … get on
+gist 人们会这样上车吗？
+mod without paying → get on | 方式状语 | 不付钱就上车。
+
+# special-2021-cloze|0:8
+type 省略答句｜固定回应
+chunks Of course!〔修〕
+main
+gist 当然会。
+point Of course承接上句作肯定回答，未写出独立主谓。
+
+# special-2021-cloze|0:9
+type 主从复合句｜存在句与that宾语从句
+chunks Are there inspectors〔主〕 to 【check】〔修〕 that people have paid?〔C1〕
+main 谓语:Are | 主语:inspectors
+gist 有查票员吗？
+C1 宾语从句 | 作check的宾语 | that | check后缺检查内容；that后people have paid成分完整，that不作成分 | 主语:people | 谓语:have paid
+mod to 【check】 that people have paid → inspectors | 不定式定语 | 查票员的任务是检查是否付费。
+point there是存在句引导词，inspectors才是存在的对象；不定式不是主句谓语。
+
+# special-2021-cloze|0:10
+type 省略答句｜可能有但很少
+chunks Possibly,〔修〕 but〔连〕 very few.〔修〕
+main
+gist 或许有，但很少。
+point 承接查票员是否存在的问题，省略there are；few是省略了inspectors的数量表达。
+
+# special-2021-cloze|0:11
+type 省略问句｜名词短语带定语从句
+chunks And〔连〕 people〔修〕 who run for the bus?〔C1〕
+main
+gist 那追公交的人呢？
+C1 定语从句 | 修饰people | who | people是先行词；who后run缺主语，who代人作主语 | 主语:who | 谓语:run
+mod for the bus → run | 介词短语 | 为赶上公交而跑。
+point 原文只提出话题people，没有主句谓语；run由who管着，属于定语从句。
+
+# special-2021-cloze|0:12
+type 简单句｜被动语态
+chunks They are 【ignored】.〔主〕
+main 主语:They | 谓语:are 【ignored】
+gist 他们被忽视。
+point ignored与are共同构成被动谓语。
+
+# special-2021-cloze|0:13
+type 省略问句｜How about＋动名词
+chunks How about jumping lights?〔修〕
+main
+gist 闯红灯又怎样呢？
+point How about是提问框架；jumping lights是动名词短语，未出现独立带时态谓语。
+
+# special-2021-cloze|0:14
+type 主从复合句｜as比较省略
+chunks Buses do so〔主〕 almost as frequently〔修〕 as cyclists.〔C1〕
+main 主语:Buses | 谓语:do | 宾语:so
+gist 公交车也这样做。
+C1 状语从句（比较，省略） | 比较闯红灯的频率 | as | 前面as frequently给出比较尺度；as后cyclists省略do so，承接相同动作 | 主语:cyclists
+mod almost as frequently as cyclists → do | 频率状语 | 几乎和骑车人一样频繁。
+point so指前句的闯红灯；比较从句没有显式谓语，不把cyclists当宾语。
+
+# special-2021-cloze|0:15
+type 省略问句｜原因追问
+chunks Why?〔修〕
+main
+gist 为什么？
+point Why单独承接前文，没有写出的主谓。
+
+# special-2021-cloze|0:16
+type 从句独立作答｜because原因从句
+chunks Because the target is 【punctuality】.〔C1〕
+main
+gist 因为目标是准点。
+C1 状语从句（原因） | 回答Why | Because | Because承接前文原因问题；后面the target is punctuality主系表完整 | 主语:the target | 谓语:is | 表语:【punctuality】
+point 整条是原因从句式回答，不补造一个主句。
+
+# special-2021-cloze|0:17
+type 多分句条目｜宾语从句、被动并列句与定语从句
+chunks People complained〔主〕 that buses were late and infrequent.〔C1〕 【So】,〔修〕 the number of buses and bus lanes were increased,〔主〕 and〔连〕 drivers were 【rewarded】 or punished〔主〕 according to the time〔修〕 they took.〔C2〕
+main 主语:People | 谓语:complained | 宾语:C1 || & || 主语:the number | 谓语:were increased || & || 主语:drivers | 谓语:were 【rewarded】 … punished
+gist 人们抱怨；数量增加了，司机受奖惩。
+C1 宾语从句 | 作complained的内容 | that | complained后缺抱怨内容；that后buses were late and infrequent完整 | 主语:buses | 谓语:were | 表语:late … infrequent
+C2 定语从句 | 修饰time | （省略 that） | time后they took缺所耗时间的宾语，关系词省略 | 主语:they | 谓语:took
+mod of buses and bus lanes → number | 介词短语定语 | 公交和公交车道的数量。
+mod according to the time they took → rewarded | 依据状语 | 按耗时奖惩。
+mod and#3 → 整句 | 并列连接 | 连接数量增加和司机受奖惩两项结果。
+point 原数据把两句保留在一条；the number为单数但原文用were，照录并识别其主语中心，不改原题措辞。
+
+# special-2021-cloze|0:18
+type 简单句｜and承接前文
+chunks And〔连〕 drivers hit these targets.〔主〕
+main 主语:drivers | 谓语:hit | 宾语:these targets
+gist 司机达到了目标。
+point hit在这里表示达标，And承接上文而不属于主干成分。
+
+# special-2021-cloze|0:19
+type 简单句｜转折承接
+chunks But〔连〕 they 【also】 hit cyclists.〔主〕
+main 主语:they | 谓语:hit | 宾语:cyclists
+gist 他们也撞上了骑车人。
+mod 【also】 → hit | 副词修饰 | 也；与前一句hit targets构成语义反转。
+
+# special-2021-cloze|0:20
+type 主从复合句｜虚拟条件
+chunks If the target was changed to 【revenue】,〔C1〕 you would have more inspectors and more sensitive pricing.〔主〕
+main 主语:you | 谓语:would have | 宾语:inspectors … pricing
+gist 你会有更多查票员和更灵活的定价。
+C1 状语从句（条件） | 提出改变目标的假设 | If | If引出假设；后面the target was changed被动结构完整 | 主语:the target | 谓语:was changed
+mod to 【revenue】 → changed | 介词短语 | 改为营收目标。
+mod more sensitive → pricing | 前置定语 | 定价更灵活。
+
+# special-2021-cloze|0:21
+type 主从复合句｜条件与定语从句
+chunks If the criterion changed to safety,〔C1〕 you would get more 【cautious】 drivers〔主〕 who obeyed traffic laws.〔C2〕
+main 主语:you | 谓语:would get | 宾语:drivers
+gist 你会得到更谨慎的司机。
+C1 状语从句（条件） | 提出安全标准的假设 | If | If后the criterion changed成分完整，说明主句实现条件 | 主语:the criterion | 谓语:changed
+C2 定语从句 | 修饰drivers | who | drivers是人；who后obeyed缺主语，who代司机作主语 | 主语:who | 谓语:obeyed | 宾语:traffic laws
+mod more 【cautious】 → drivers | 前置定语 | 更谨慎的司机。
+mod to safety → changed | 介词短语 | 改成安全标准。
+
+# special-2021-cloze|0:22
+type 简单句｜be＋介词短语表语
+chunks But〔连〕 both these criteria would be at the expense of time.〔主〕
+main 主语:both these criteria | 谓语:would be | 表语:at the expense of time
+gist 两项标准都会牺牲时间。
+point at the expense of time整体作表语，不把time误认成be的直接宾语。
+
+# special-2021-cloze|0:23
+type 多分句条目｜存在句与冒号解释
+chunks There is another 【problem】:〔主〕 people became immensely inventive〔主〕 in hitting targets.〔修〕
+main 谓语:is | 主语:【problem】 || & || 主语:people | 谓语:became | 表语:inventive
+gist 有另一个问题：人们变得很善于想办法。
+mod immensely → inventive | 程度修饰 | 极其善于。
+mod in hitting targets → inventive | 方面补充 | 在达成目标方面。
+point 冒号后是另一套主谓，解释problem，不是that从句。
+
+# special-2021-cloze|0:24
+type 主从复合句｜疑问主句与宾语从句
+chunks Have you 【noticed】〔主〕 that you can leave on a flight an hour late but still arrive on time?〔C1〕
+main 主语:you | 谓语:Have … 【noticed】 | 宾语:C1
+gist 你注意到这个现象了吗？
+C1 宾语从句 | 作noticed的宾语 | that | noticed后缺所注意到的内容；that后you can leave和arrive共用主语，结构完整 | 主语:you | 谓语:can leave … arrive
+mod on a flight → leave | 介词短语 | 乘航班出发。
+mod an hour late → leave | 时间状语 | 晚一小时。
+mod on time → arrive | 时间状语 | 准时到达。
+
+# special-2021-cloze|0:25
+type 省略问句｜名词短语
+chunks Tailwinds?〔修〕
+main
+gist 是顺风吗？
+point Tailwinds单独提出可能原因，未写出独立主谓。
+
+# special-2021-cloze|0:26
+type 省略答句｜否定回应
+chunks Of course not!〔修〕
+main
+gist 当然不是。
+point Of course not承接前句的猜测，省略完整命题。
+
+# special-2021-cloze|0:27
+type 主从复合句｜省略关系词的定语从句
+chunks Airlines have simply changed the time〔主〕 a 【trip】 is meant to take.〔C1〕
+main 主语:Airlines | 谓语:have … changed | 宾语:the time
+gist 航空公司改变了标定时间。
+C1 定语从句 | 修饰time | （省略 that） | time后a trip is meant to take缺take的宾语，即所需时间 | 主语:a 【trip】 | 谓语:is meant | 主语补足语:to take
+point a trip是从句主语，不能与主句Airlines混在一起。
+
+# special-2021-cloze|0:28
+type 简单句｜被动谓语
+chunks A one-hour flight is now billed〔主〕 as a two-hour flight.〔修〕
+main 主语:A one-hour flight | 谓语:is … billed
+gist 一小时航程被列了另一种时间。
+mod as a two-hour flight → billed | 介词短语补充 | 列为两小时航程。
+mod now → billed | 时间状语 | 现在。
+
+# special-2021-cloze|0:29
+type 简单句｜A of B主语中心
+chunks The 【moral】〔主〕 of the story〔修〕 is simple.〔主〕
+main 主语:The 【moral】 | 谓语:is | 表语:simple
+gist 道理很简单。
+mod of the story → moral | 介词短语定语 | 这个故事的道理，中心是moral。
+
+# special-2021-cloze|0:30
+type 简单句｜主系表
+chunks Most jobs are multidimensional,〔主〕 with multiple criteria.〔修〕
+main 主语:Most jobs | 谓语:are | 表语:multidimensional
+gist 大多数工作是多维的。
+mod with multiple criteria → jobs | 伴随补充 | 具有多个衡量标准。
+
+# special-2021-cloze|0:31
+type 并列句｜祈使句＋and表结果
+chunks Choose one criterion〔主〕 and〔连〕 you may well 【sacrifice】 others.〔主〕
+main 谓语:Choose | 宾语:one criterion || &and || 主语:you | 谓语:may … 【sacrifice】 | 宾语:others
+gist 选一个标准，很可能牺牲其他标准。
+mod well → sacrifice | 语气副词 | may well表示很可能。
+point others代其他标准；and后有新主语you，是另一分句。
+
+# special-2021-cloze|0:32
+type 并列句｜共用助动词的被动与存在句
+chunks Everything can be done faster and made cheaper,〔主〕 but〔连〕 there is a 【cost】.〔主〕
+main 主语:Everything | 谓语:can be done … made | 主语补足语:cheaper || &but || 谓语:is | 主语:a 【cost】
+gist 一切可做得更快更便宜，但有代价。
+mod faster → done | 方式状语 | 做得更快。
+point made前省略can be；cheaper表示Everything被做得更便宜的结果，不是made的宾语。
+
+# special-2021-cloze|0:33
+type 简单句｜动名词主语与强调谓语
+chunks Setting targets can and does have unforeseen negative consequences.〔主〕
+main 主语:Setting targets | 谓语:can … does have | 宾语:consequences
+gist 设目标可能且确实产生后果。
+mod unforeseen negative → consequences | 前置定语 | 未预见的负面后果。
+point can and does共用have；does是强调，Setting是主语中的动名词，不是谓语。
+
+# special-2021-cloze|0:34
+type 简单句｜主系表
+chunks This is not an argument〔主〕 against target-setting.〔修〕
+main 主语:This | 谓语:is | 表语:not an argument
+gist 这并非一种反对论证。
+mod against target-setting → argument | 介词短语定语 | 反对设定目标的论证。
+
+# special-2021-cloze|0:35
+type 简单句｜转折承接
+chunks But〔连〕 it is an argument〔主〕 for exploring consequences first.〔修〕
+main 主语:it | 谓语:is | 表语:an argument
+gist 这是一种主张。
+mod for exploring consequences first → argument | 介词短语定语 | 主张先研究后果；exploring为介词for的宾语。
+
+# special-2021-cloze|0:36
+type 简单句｜现在分词后置定语
+chunks All good targets should have multiple criteria〔主〕 【relating to】 critical factors such as time, money, quality and customer feedback.〔修〕
+main 主语:All good targets | 谓语:should have | 宾语:criteria
+gist 好目标应有多个标准。
+mod 【relating to】 critical factors → criteria | 分词短语定语 | 关联关键因素的标准，relating没有时态。
+mod such as time, money, quality and customer feedback → factors | 举例补充 | 列举时间、金钱、质量、顾客反馈。
+
+# special-2021-cloze|0:37
+type 简单句｜not only…but also并列表语
+chunks The trick is not only to 【specify】 just one or even two dimensions of the objective,〔主〕 but also〔连〕 to understand〔主〕 how to help people better 【achieve】 the objective.〔修〕
+main 主语:The trick | 谓语:is | 表语:to 【specify】 … to understand
+gist 诀窍是明确维度并理解办法。
+mod just one or even two dimensions of the objective → specify | 不定式内宾语 | 明确目标的一或两个维度。
+mod better → achieve | 方式修饰 | 更好地实现。
+point to help是非限定结构的核心，不标为带时态谓语；people为其对象，achieve为宾补。
+mod how to help people better 【achieve】 the objective → understand | 宾语（疑问词＋不定式） | 理解如何帮助人们实现目标；how to help没有时态，不是从句。
+
+# special-2021-newtype|0:0
+type 标题片段｜疑问不定式
+chunks How to disagree with someone more powerful than you〔修〕
+main
+gist 如何向更有权势的人表达异议。
+mod more powerful than you → someone | 形容词后置定语 | 比你更有权势的人。
+point How to disagree是标题的非限定结构，没有独立时态谓语。
+
+# special-2021-newtype|1:0
+type 主从复合句｜含插入判断的定语从句
+chunks Your boss proposes a new initiative〔主〕 you think won't work.〔C1〕
+main 主语:Your boss | 谓语:proposes | 宾语:a new initiative
+gist 上司提出一项新举措。
+C1 定语从句 | 修饰initiative | （省略 that） | initiative后you think是插入判断，后面的won't work缺主语，省略的关系词指initiative | 谓语:won't work
+mod new → initiative | 前置定语 | 新的举措。
+mod you think → won't work | 插入判断 | 你认为该举措行不通。
+
+# special-2021-newtype|1:1
+type 主从复合句｜含插入判断的定语从句
+chunks Your senior colleague outlines a project timeline〔主〕 you believe is unrealistic.〔C1〕
+main 主语:Your senior colleague | 谓语:outlines | 宾语:a project timeline
+gist 同事列出项目时间表。
+C1 定语从句 | 修饰timeline | （省略 that） | timeline后you believe插入判断；is unrealistic缺主语，由省略关系词指timeline | 谓语:is | 表语:unrealistic
+mod you believe → is | 插入判断 | 你认为这份时间表不现实。
+
+# special-2021-newtype|1:2
+type 主从复合句｜特殊疑问与时间、定语从句
+chunks What do you say〔主〕 when you disagree with someone〔C1〕 who has more power〔C2〕 than you do?〔C3〕
+main 主语:you | 谓语:do … say | 宾语:What
+gist 你该说什么？
+C1 状语从句（时间） | 说明何时说 | when | say的疑问骨架完整；when后you disagree完整，说明情境 | 主语:you | 谓语:disagree
+C2 定语从句 in C1 | 修饰someone | who | someone后has缺主语，who代人作主语 | 主语:who | 谓语:has | 宾语:power
+C3 状语从句（比较） in C2 | 比较权力多少 | than | more power引出比较；than后you do用do代have power | 主语:you | 谓语:do
+mod with someone → disagree | 介词短语 | 与某人意见相左。
+
+# special-2021-newtype|1:3
+type 主从复合句｜whether宾语从句
+chunks How do you decide〔主〕 whether it's worth speaking up?〔C1〕
+main 主语:you | 谓语:do … decide
+gist 你如何作决定？
+C1 宾语从句 | 作decide的宾语 | whether | decide后缺决定的内容；whether后it's worth speaking up完整，表示是否 | 主语＋谓语:it's | 表语:worth speaking up
+point it指开口这件事；speaking up为worth后的动名词，不是时态谓语。
+
+# special-2021-newtype|1:4
+type 主从复合句｜if条件与疑问句
+chunks And〔连〕 if you do,〔C1〕 what exactly should you say?〔主〕
+main 主语:you | 谓语:should … say | 宾语:what
+C1 状语从句（条件） | 以决定开口为条件 | if | if后you do以do代决定表达，主谓完整；主句询问说什么 | 主语:you | 谓语:do
+gist 你具体该说什么？
+mod exactly → say | 语气修饰 | 究竟、具体。
+
+# special-2021-newtype|1:5
+type 简单句｜here引出方法
+chunks Here's〔主〕 how to disagree with someone more powerful than you.〔修〕
+main 谓语:Here's | 主语:how to disagree
+gist 下面是表达异议的办法。
+mod with someone more powerful than you → disagree | 介词短语 | 向更有权势的人表达异议。
+point here不是主语；实际谓语is因收缩与here合在一起定位。how to disagree为倒装主语中的疑问不定式，没有第二套时态主谓。
+
+# special-2021-newtype|2:0
+type 主从复合句｜省略that的宾语从句
+chunks You may decide〔主〕 it's best to hold off on voicing your opinion.〔C1〕
+main 主语:You | 谓语:may decide | 宾语:C1
+gist 你也许作出这个决定。
+C1 宾语从句 | 作decide的宾语 | （省略 that） | decide后缺决定内容；it's best构成另一套主系表，省略that | 主语＋谓语:it's | 表语:best | 真正主语:to hold off on voicing your opinion
+point hold off on后接动名词voicing，整块to hold off是真正主语。
+
+# special-2021-newtype|2:1
+type 并列复合句｜动名词宾语与what宾语从句
+chunks Maybe〔修〕 you haven't finished thinking the problem through,〔主〕 or〔连〕 you want to get a clearer sense〔主〕 of〔修〕 what the group thinks.〔C1〕
+main 主语:you | 谓语:haven't finished | 宾语:thinking the problem through || &or || 主语:you#2 | 谓语:want | 宾语:to get a clearer sense
+gist 你还未想透，或想获得更清楚的认识。
+C1 宾语从句 | 作of的宾语 | what | of后缺内容；what后the group thinks缺宾语，what充当所想内容 | 主语:the group | 谓语:thinks | 宾语:what
+mod of what the group thinks → sense | 介词短语定语 | 对群体想法的认识。
+
+# special-2021-newtype|2:2
+type 主从复合句｜条件中嵌套宾语从句
+chunks If you think〔C1〕 other people are going to disagree, too,〔C2〕 you might want to gather your army first.〔主〕
+main 主语:you | 谓语:might want | 宾语:to gather your army
+C1 状语从句（条件） | 提出争取支持的条件 | If | If引导条件；think需要思考的内容，由C2补足 | 主语:you | 谓语:think | 宾语:C2
+C2 宾语从句 in C1 | 作think的宾语 | （省略 that） | think后other people are going to disagree是完整主谓，省略that | 主语:other people | 谓语:are going to disagree
+gist 你可能想先争取支持。
+mod first → gather | 时间顺序 | 首先。
+point army在语境中比喻支持者，不是实际军队。
+
+# special-2021-newtype|2:3
+type 主从复合句｜补说名词与定语从句
+chunks People can contribute experience or information〔主〕 to your thinking — all the things〔修〕 that would make the disagreement stronger or more valid.〔C1〕
+main 主语:People | 谓语:can contribute | 宾语:experience … information
+gist 人们能贡献经验或信息。
+C1 定语从句 | 修饰things | that | things后would make缺主语，that代things | 主语:that | 谓语:would make | 宾语:the disagreement | 宾补:stronger … more valid
+mod to your thinking → contribute | 介词短语 | 为你的思考提供帮助。
+mod all the things that would make the disagreement stronger or more valid → experience | 补充说明 | 补说经验与信息可让异议更有力、更有依据。
+
+point 破折号后all the things补说前面的经验和信息，that从句限定things；would make是从句谓语。
+
+# special-2021-newtype|2:4
+type 主从复合句｜形式主语与if条件
+chunks It's also a good idea〔主〕 to delay the conversation〔修〕 if you are in a meeting or other public space.〔C1〕
+main 主语＋谓语:It's | 表语:a good idea | 真正主语:to delay the conversation
+gist 推迟交谈也是好主意。
+C1 状语从句（条件） | 说明推迟交谈的条件 | if | 主句已完整；if后you are in a meeting or other public space成分完整 | 主语:you | 谓语:are | 表语:in a meeting … other public space
+
+# special-2021-newtype|2:5
+type 简单句｜动名词主语与复合宾语
+chunks Discussing the issue〔主〕 in private〔修〕 will make the powerful person feel less threatened.〔主〕
+main 主语:Discussing the issue | 谓语:will make | 宾语:the powerful person | 宾补:feel less threatened
+gist 讨论问题会让对方较少感到威胁。
+mod in private → Discussing | 方式状语 | 私下讨论。
+point Discussing整个动名词短语作主语，will make才是谓语；feel是不带to的宾补。
+
+# special-2021-newtype|3:0
+type 多分句条目｜时间从句、宾语从句与补说
+chunks Before you share your thoughts,〔C1〕 think〔主〕 about〔修〕 what the powerful person cares about〔C2〕 —〔修〕 it may be the credibility of their team or getting a project done on time.〔主〕
+main 谓语:think || & || 主语:it | 谓语:may be | 表语:the credibility … getting a project done
+gist 考虑对方在意什么；可能是信誉或完成项目。
+C1 状语从句（时间） | 规定先后顺序 | Before | Before后you share your thoughts完整，说明think发生在share之前 | 主语:you | 谓语:share | 宾语:your thoughts
+C2 宾语从句 | 作about的宾语 | what | about后缺思考内容；what后the powerful person cares about缺介词宾语，what补足它 | 主语:the powerful person | 谓语:cares | 宾语:what
+mod of their team → credibility | 介词短语定语 | 团队信誉。
+mod on time → done | 时间状语 | 按时完成。
+
+point Before从句要求先思考、后分享；破折号后的it may be另起主句，解释对方在意的事情。
+
+# special-2021-newtype|3:1
+type 主从复合句｜if条件
+chunks You're more likely〔主〕 to be heard〔修〕 if you can connect your disagreement to a higher purpose.〔C1〕
+main 主语＋谓语:You're | 表语:more likely
+gist 你更可能被听见。
+C1 状语从句（条件） | 提出异议被听见的条件 | if | 主句已完整；if后you can connect及宾语齐全 | 主语:you | 谓语:can connect | 宾语:your disagreement
+mod to be heard → likely | 不定式补充 | likely的具体内容是被听见。
+mod to a higher purpose → connect | 介词短语 | 与更高的目标联系。
+
+# special-2021-newtype|3:2
+type 主从复合句｜时间从句与宾语从句
+chunks When you do speak up,〔C1〕 don't assume〔主〕 the link will be clear.〔C2〕
+main 谓语:don't assume | 宾语:C2
+gist 不要作这种假定。
+C1 状语从句（时间） | 说明开口时 | When | When后you do speak up完整，do强调speak | 主语:you | 谓语:do speak up
+C2 宾语从句 | 作assume的宾语 | （省略 that） | assume后缺假定内容；the link will be clear为完整主系表，省略that | 主语:the link | 谓语:will be | 表语:clear
+
+# special-2021-newtype|3:3
+type 主从复合句｜目的从句嵌套定语从句
+chunks You'll want to state it〔主〕 overtly, contextualizing your statements〔修〕 so that you're seen not as a disagreeable subordinate but as a colleague〔C1〕 who's trying to advance a common objective.〔C2〕
+main 主语＋谓语:You'll want | 宾语:to state it
+gist 你需要明确说出这种联系。
+C1 状语从句（目的） | 说明交代背景要达到的目的 | so that | 前面已说明说清背景；so that后you're seen被动结构完整，说明希望获得的理解 | 主语＋谓语:you're seen
+C2 定语从句 in C1 | 修饰colleague | who | colleague后's trying缺主语，who代同事作主语 | 主语＋谓语:who's trying | 宾语:to advance a common objective
+mod overtly → state | 方式状语 | 明确地说。
+mod contextualizing your statements → state | 分词补充 | 给发言交代背景。
+mod not as a disagreeable subordinate but as a colleague → seen | 对照补充 | 被看作同事而非爱反对的下属。
+
+# special-2021-newtype|3:4
+type 简单句｜比较表语
+chunks The discussion will then become more like a chess game〔主〕 than a boxing match.〔修〕
+main 主语:The discussion | 谓语:will … become | 表语:like a chess game
+gist 讨论会更像棋局。
+mod than a boxing match → more | 比较补充 | 与拳击赛相比较。
+mod then → become | 时间状语 | 经过上述做法之后。
+
+# special-2021-newtype|4:0
+type 并列句｜主系表与不定式定语
+chunks This step may sound overly deferential,〔主〕 but〔连〕 it's a smart way〔主〕 to give the powerful person psychological safety and control.〔修〕
+main 主语:This step | 谓语:may sound | 表语:deferential || &but || 主语＋谓语:it's | 表语:a smart way
+gist 这一步听着恭顺，却是聪明办法。
+mod overly → deferential | 程度状语 | 过分恭顺。
+mod to give the powerful person psychological safety and control → way | 不定式定语 | 给对方心理安全感和控制感的办法。
+
+# special-2021-newtype|4:1
+type 多层引语条目｜说话示例与宾语从句
+chunks You can say something〔主〕 like,〔修〕 "I know〔主〕 we seem to be moving toward a first-quarter commitment here.〔C1〕
+main 主语:You | 谓语:can say | 宾语:something || & || 主语:I | 谓语:know | 宾语:C1
+gist 你可这样说：我知道这一情况。
+C1 宾语从句 | 作know的宾语 | （省略 that） | know后we seem另起主谓，内容完整而省略that | 主语:we | 谓语:seem | 表语:to be moving
+mod toward a first-quarter commitment → moving | 方向补充 | 朝第一季度的承诺推进。
+mod here → moving | 情境状语 | 在目前的讨论中。
+point 引语在本条开始，下条继续；不改变原数据分句编号。
+
+# special-2021-newtype|4:2
+type 主从复合句｜不定式中省略that的宾语从句
+chunks I have reasons〔主〕 to think〔修〕 that won't work.〔C1〕
+main 主语:I | 谓语:have | 宾语:reasons
+gist 我有理由。
+C1 宾语从句 | 作think的宾语 | （省略 that） | think后that won't work成分完整；这里that是指示代词作主语，另省连接词that | 主语:that | 谓语:won't work
+mod to think that won't work → reasons | 不定式定语 | 认为行不通的理由。
+
+# special-2021-newtype|4:3
+type 简单句｜would like＋不定式宾语
+chunks I'd like to lay out my reasoning.〔主〕
+main 主语＋谓语:I'd like | 宾语:to lay out my reasoning
+gist 我想说明理由。
+point 'd为would；to lay out是不定式宾语，不是带时态谓语。
+
+# special-2021-newtype|4:4
+type 简单句｜引语内一般疑问
+chunks Would that be OK?"〔主〕
+main 主语:that | 谓语:Would … be | 表语:OK
+gist 那样可以吗？
+point that为指示代词，指说明理由这件事；不是从句连接词。
+
+# special-2021-newtype|4:5
+type 简单句｜双宾语与分词补充
+chunks This gives the person a choice,〔主〕 allowing him to verbally opt in.〔修〕
+main 主语:This | 谓语:gives | 间接宾语:the person | 直接宾语:a choice
+gist 这给对方一个选择。
+mod allowing him to verbally opt in → gives | 分词补充 | 让对方口头表示愿意参与；allowing不带时态。
+
+# special-2021-newtype|4:6
+type 主从复合句｜assuming条件与省略that
+chunks And,〔连〕 assuming he says yes,〔C1〕 it will make you feel more confident about voicing your disagreement.〔主〕
+main 主语:it | 谓语:will make | 宾语:you | 宾补:feel more confident
+C1 状语从句（条件） | 假设对方同意 | assuming | assuming为条件连接词，相当于假如；后面he says yes主谓宾完整 | 主语:he | 谓语:says | 宾语:yes
+gist 这会让你更有信心。
+mod about voicing your disagreement → confident | 介词短语 | 对表达异议有信心。
+point assuming也可整体按分词条件补充理解；本句并无独立时态谓语assuming。
+
+# special-2021-newtype|5:0
+type 并列复合句｜感官复合宾语与whatever宾语从句
+chunks You might feel your heart racing or your face turning red,〔主〕 but〔连〕 do〔主〕 whatever you can〔C1〕 to remain neutral in both your words and actions.〔修〕
+main 主语:You | 谓语:might feel | 宾语:your heart … your face | 宾补:racing … turning red || &but || 谓语:do | 宾语:C1
+C1 宾语从句 | 作do的宾语 | whatever | do后缺所做之事；whatever融合先行内容，后面you can省略do，whatever为其宾语 | 主语:you | 谓语:can
+gist 你也许心慌，但尽力保持中性。
+mod to remain neutral in both your words and actions → do | 目的状语 | 为使言语行为都保持中性。
+point racing和turning是感官宾补；whatever you can整体作do的宾语。
+
+# special-2021-newtype|5:1
+type 主从复合句｜时间或条件情境
+chunks When your body language communicates reluctance or anxiety,〔C1〕 it undercuts the message.〔主〕
+main 主语:it | 谓语:undercuts | 宾语:the message
+C1 状语从句（时间） | 说明传达负面情绪时 | When | When后body language communicates及宾语齐全，说明主句发生情境 | 主语:your body language | 谓语:communicates | 宾语:reluctance … anxiety
+gist 这削弱信息的效果。
+
+# special-2021-newtype|5:2
+type 并列句｜疑问不定式宾语
+chunks It sends a mixed message,〔主〕 and〔连〕 your counterpart gets〔主〕 to choose what signals to read.〔修〕
+main 主语:It | 谓语:sends | 宾语:a mixed message || &and || 主语:your counterpart | 谓语:gets
+gist 它传递混杂信号，对方得以选择。
+mod to choose what signals to read → gets | 不定式补充 | get to do表示得以做；what signals to read是choose的疑问不定式宾语。
+
+# special-2021-newtype|5:3
+type 主从复合句｜as承接倒装
+chunks Deep breaths can help,〔主〕 as can speaking more slowly and deliberately.〔C1〕
+main 主语:Deep breaths | 谓语:can help
+C1 状语从句（方式） | 补说另一做法也有同样作用 | as | 前面can help已完整；as后can提前，主语为speaking短语，help承前省略 | 主语:speaking more slowly and deliberately | 谓语:can
+gist 深呼吸有帮助。
+
+point as从句倒装，还原为speaking more slowly and deliberately can help；speaking短语是动名词主语，help承前省略。
+
+# special-2021-newtype|5:4
+type 主从复合句｜when与tend to
+chunks When we feel panicky,〔C1〕 we tend〔主〕 to talk louder and faster.〔修〕
+main 主语:we | 谓语:tend
+C1 状语从句（时间） | 说明慌张时 | When | When后we feel panicky主系表完整，提供发生情境 | 主语:we | 谓语:feel | 表语:panicky
+gist 我们往往如此。
+mod to talk louder and faster → tend | 不定式补充 | 倾向于说得更响、更快，talk没有独立时态。
+
+# special-2021-newtype|5:5
+type 简单句｜动名词主语与并列谓语
+chunks Simply〔修〕 slowing the pace and talking〔主〕 in an even tone〔修〕 helps the other person cool down and does the same for you.〔主〕
+main 主语:slowing the pace … talking | 谓语:helps … does | 宾语:the other person … the same | 宾补:cool down
+gist 放慢说话使对方冷静，也对你有相同作用。
+mod in an even tone → talking | 方式状语 | 用平稳语调。
+mod for you → does | 介词短语 | 对你自己也如此。
+point 两个动名词动作作为一套做法，用helps；and does共用主语，不是talking作谓语。
+
+# special-2021-newtype|5:6
+type 主从复合句｜even if让步
+chunks It also makes you seem confident,〔主〕 even if you aren't.〔C1〕
+main 主语:It | 谓语:makes | 宾语:you | 宾补:seem confident
+C1 状语从句（让步） | 退一步说明即使无信心 | even if | 主句makes结构完整；even if后you aren't省略confident，仍为主系结构 | 主语:you | 谓语:aren't
+gist 这让你显得有信心。
+mod also → makes | 副词修饰 | 也有这一效果。
+
+# special-2021-newtype|6:0
+type 主从复合句｜祈使句的宾语从句
+chunks Emphasize〔主〕 that you're only offering your opinion, not gospel truth.〔C1〕
+main 谓语:Emphasize | 宾语:C1
+C1 宾语从句 | 作Emphasize的宾语 | that | Emphasize后缺强调内容；that后you're offering及宾语完整 | 主语＋谓语:you're … offering | 宾语:your opinion
+gist 强调这一点。
+mod not gospel truth → opinion | 对照补充 | 是个人意见，而非绝对真理。
+
+# special-2021-newtype|6:1
+type 并列句｜转折后以so引出建议
+chunks It may be a well-informed, well-researched opinion,〔主〕 but〔连〕 it's still an opinion,〔主〕 so〔连〕 talk tentatively〔主〕 and〔连〕 slightly understate your confidence.〔主〕
+main 主语:It | 谓语:may be | 表语:an opinion || &but || 主语＋谓语:it's | 表语:an opinion || &so || 谓语:talk || &and || 谓语:understate | 宾语:your confidence
+gist 它仍只是意见，因此谨慎说并稍收确信。
+mod well-informed, well-researched → opinion | 前置定语 | 有充分信息和研究依据的。
+mod tentatively → talk | 方式状语 | 试探地说。
+mod slightly → understate | 程度状语 | 稍微降低表达的确信。
+
+# special-2021-newtype|6:2
+type 引语复合条目｜条件从句与how宾语从句
+chunks Instead of saying:〔修〕 "If we set an end-of-quarter deadline,〔C1〕 we will never make it,"〔主〕 say,〔主〕 " This is just my opinion,〔主〕 but〔连〕 I don't see〔主〕 how we will make that deadline."〔C2〕
+main 谓语:say || & || 主语:we | 谓语:will … make | 宾语:it || & || 主语:This | 谓语:is | 表语:my opinion || &but || 主语:I | 谓语:don't see | 宾语:C2
+C1 状语从句（条件） | 引语中设定截止日期的条件 | If | If后we set及宾语齐全，提供will make的条件 | 主语:we | 谓语:set | 宾语:an end-of-quarter deadline
+C2 宾语从句 | 作see的宾语 | how | see后缺理解内容；how后we will make that deadline完整，how表示实现方式 | 主语:we | 谓语:will make | 宾语:that deadline
+gist 说出自己的意见和疑问。
+mod Instead of saying → say | 对照方式 | 主句建议say，前面的引语是应避免的说法。
+point 原文两组直接引语分别有自己的主谓；不把引语中will make当成主句say的谓语。
+
+# special-2021-newtype|6:3
+type 简单句｜完成式分词与祈使句
+chunks Having asserted your opinion (as a position, not as a fact),〔修〕 demonstrate equal curiosity〔主〕 about other views.〔修〕
+main 谓语:demonstrate | 宾语:curiosity
+gist 表现出同等的好奇心。
+mod Having asserted your opinion → demonstrate | 分词状语 | 表达完自己的意见后；完成式强调先后，没有时态。
+mod as a position, not as a fact → asserted | 方式补充 | 当作立场提出，而非事实。
+mod about other views → curiosity | 介词短语定语 | 对其他意见的好奇心。
+
+# special-2021-newtype|6:4
+type 主从复合句｜宾语从句与并列谓语
+chunks Remind the person〔主〕 that this is your point of view,〔C1〕 and〔连〕 then〔修〕 invite critique.〔主〕
+main 谓语:Remind … invite | 宾语:the person … critique
+C1 宾语从句 | 补足remind提醒的内容 | that | remind已有提醒对象person，但还需内容；that后this is your point of view成分完整 | 主语:this | 谓语:is | 表语:your point of view
+gist 提醒对方，并邀请批评。
+mod then → invite | 时间顺序 | 然后邀请。
+point remind的对象是person，that从句是所提醒的内容；invite与Remind共用省略主语you。
+
+# special-2021-newtype|6:5
+type 简单句｜祈使句主系表
+chunks Be open〔主〕 to hearing other opinions.〔修〕
+main 谓语:Be | 表语:open
+gist 保持开放态度。
+mod to hearing other opinions → open | 介词短语 | 对听取其他观点开放，to为介词，hearing是动名词。
+
+# special-2021-translation|0:0
+type 主从复合句｜that宾语从句
+chunks We tend〔主〕 to think〔修〕 that friends and family members are our biggest sources of connection, laughter, and warmth.〔C1〕
+main 主语:We | 谓语:tend
+C1 宾语从句 | 作think的宾语 | that | think后缺所想内容；that后friends and family members are sources完整 | 主语:friends … family members | 谓语:are | 表语:our biggest sources
+mod to think that friends and family members are our biggest sources of connection, laughter, and warmth → tend | 不定式补充 | 倾向于这样想。
+mod of connection, laughter, and warmth → sources | 介词短语定语 | 联结、欢笑和温暖的来源。
+gist 我们往往这样认为。
+
+# special-2021-translation|0:1
+type 主从复合句｜让步、宾语与定语从句
+chunks While that may well be true,〔C1〕 researchers have also recently found〔主〕 that interacting with strangers actually brings a boost〔C2〕 in mood and feelings of belonging〔C2修〕 that we didn't expect.〔C3〕
+main 主语:researchers | 谓语:have … found | 宾语:C2
+C1 状语从句（让步） | 认可前述说法后转折 | While | While后that may be true完整，that指上文说法；与研究新发现构成让步 | 主语:that | 谓语:may … be | 表语:true
+C2 宾语从句 | 作found的宾语 | that | found后缺发现内容；that后动名词主语加brings及宾语完整 | 主语:interacting with strangers | 谓语:brings | 宾语:a boost
+C3 定语从句 in C2 | 修饰boost及其所指的改善 | that | boost后we didn't expect缺宾语，that指这份改善 | 主语:we | 谓语:didn't expect | 宾语:that
+mod in mood and feelings of belonging → boost | 介词短语定语 | 心情和归属感的提升。
+gist 研究者也发现了这一点。
+
+# special-2021-translation|0:2
+type 简单句｜分词定语与不定式宾补
+chunks In one series of studies,〔修〕 researchers instructed Chicago-area commuters〔主〕 using public transportation〔修〕 to strike up a conversation〔主〕 with someone near them.〔修〕
+main 主语:researchers | 谓语:instructed | 宾语:commuters | 宾补:to strike up a conversation
+mod In one series of studies → instructed | 情境状语 | 在一系列研究中。
+mod using public transportation → commuters | 分词定语 | 使用公共交通的通勤者。
+mod with someone near them → conversation | 介词短语定语 | 与身边人的交谈。
+gist 研究者要求通勤者主动交谈。
+
+# special-2021-translation|0:3
+type 主从复合句｜定语与比较从句
+chunks On average,〔修〕 participants〔主〕 who followed this instruction〔C1〕 felt better〔主〕 than those〔C2〕 who had been told to stand or sit in silence.〔C3〕
+main 主语:participants | 谓语:felt | 表语:better
+C1 定语从句 | 修饰participants | who | participants后followed缺主语，who代参与者 | 主语:who | 谓语:followed | 宾语:this instruction
+C2 状语从句（比较，省略） | 比较两组人的感受 | than | better引出比较；than后those省略felt，those再由C3限定 | 主语:those
+C3 定语从句 in C2 | 修饰those | who | those后had been told缺主语，who代另一组人 | 主语:who | 谓语:had been told | 主语补足语:to stand … sit
+mod in silence → stand | 方式状语 | 安静站着或坐着。
+gist 参与者平均感觉更好。
+
+# special-2021-translation|0:4
+type 主从复合句｜宾语中嵌套时间与同位语从句
+chunks The researchers also argued〔主〕 that〔C1〕 when we shy away from casual interactions with strangers,〔C2〕 it is often due to a misplaced anxiety〔C1〕 that they might not want to talk to us.〔C3〕
+main 主语:The researchers | 谓语:argued | 宾语:C1
+C1 宾语从句 | 作argued的宾语 | that | argued后缺论述内容；that后的it is due to...主系表完整 | 主语:it | 谓语:is | 表语:due to a misplaced anxiety
+C2 状语从句（时间） in C1 | 说明回避交流时 | when | when后we shy away结构完整，提供it所指行为发生情境 | 主语:we | 谓语:shy away
+C3 同位语从句 in C1 | 解释anxiety的内容 | that | anxiety是抽象名词；that后they might not want to talk完整，that不作成分 | 主语:they | 谓语:might … want | 宾语:to talk
+mod from casual interactions with strangers → shy away | 介词短语 | 回避与陌生人的随意交流。
+mod to us → talk | 介词短语 | 与我们说话。
+gist 研究者也提出这一解释。
+
+# special-2021-translation|0:5
+type 简单句｜插入语与主系表
+chunks Much of the time, however,〔修〕 this belief is false.〔主〕
+main 主语:this belief | 谓语:is | 表语:false
+mod Much of the time → is | 时间状语 | 大多数时候。
+mod however → 整句 | 插入转折 | 然而。
+gist 这种想法不属实。
+
+# special-2021-translation|0:6
+type 主从复合句｜as评注与并列表语
+chunks As it turns out,〔C1〕 many people are actually perfectly willing to talk〔主〕 - and〔连〕 may even be flattered〔主〕 to receive your attention.〔修〕
+main 主语:many people | 谓语:are | 表语:willing || &and || 谓语:may … be | 表语:flattered
+C1 状语从句（方式） | 对后文作事实评注 | As | As后it turns out主谓完整；整块表示事实结果如此 | 主语:it | 谓语:turns out
+mod to talk → willing | 不定式补充 | 愿意交谈。
+mod to receive your attention → flattered | 原因补充 | 因受到关注感到荣幸。
+gist 许多人愿意交谈，甚至感到荣幸。

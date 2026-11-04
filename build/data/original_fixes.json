@@ -1,0 +1,925 @@
+[
+  {
+    "key": "2012-3|2:5",
+    "before": "In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature…than are cotton fibres that have been separated from cotton seeds.\"",
+    "after": "In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature … than are cotton fibres that have been separated from cotton seeds.\"",
+    "replacements": [
+      [
+        "nature…than",
+        "nature … than"
+      ]
+    ],
+    "source": "2012 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2018-1|3:2",
+    "before": "Schools in the family of vocational education \"have that stereotype...that it's for kids who can't make it academically,\" he says.",
+    "after": "Schools in the family of vocational education \"have that stereotype ... that it's for kids who can't make it academically,\" he says.",
+    "replacements": [
+      [
+        "stereotype...that",
+        "stereotype ... that"
+      ]
+    ],
+    "source": "2018 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2018-4|6:0",
+    "before": "\"Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body…[idleness] is, paradoxically, necessary to getting any work done,\" he argues.",
+    "after": "\"Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body … [idleness] is, paradoxically, necessary to getting any work done,\" he argues.",
+    "replacements": [
+      [
+        "body…[idleness]",
+        "body … [idleness]"
+      ]
+    ],
+    "source": "2018 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-1|1:0",
+    "before": "They housed eight adult rats with two types of robotic rat-one social and one asocial-for four days.",
+    "after": "They housed eight adult rats with two types of robotic rat - one social and one asocial - for four days.",
+    "replacements": [
+      [
+        "rat-one",
+        "rat - one"
+      ],
+      [
+        "asocial-for",
+        "asocial - for"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-1|5:1",
+    "before": "The robot was the same size as a regular rat but resembled a simple plastic box on wheels. \" We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\"says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+    "after": "The robot was the same size as a regular rat but resembled a simple plastic box on wheels. \" We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+    "replacements": [
+      [
+        "necessary,\"says",
+        "necessary,\" says"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-2|0:0",
+    "before": "It is true that CEO pay has gone up-top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%.",
+    "after": "It is true that CEO pay has gone up - top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%.",
+    "replacements": [
+      [
+        "up-top",
+        "up - top"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-3|2:1",
+    "before": "That's because they inevitably put the costs of cleaning the air on to individual drivers-who must pay fees or buy better vehicles-rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+    "after": "That's because they inevitably put the costs of cleaning the air on to individual drivers - who must pay fees or buy better vehicles - rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+    "replacements": [
+      [
+        "drivers-who",
+        "drivers - who"
+      ],
+      [
+        "vehicles-rather",
+        "vehicles - rather"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-3|5:1",
+    "before": "They are acting because national governments-Britain's and others across Europe-have failed to do so.",
+    "after": "They are acting because national governments - Britain's and others across Europe - have failed to do so.",
+    "replacements": [
+      [
+        "governments-Britain's",
+        "governments - Britain's"
+      ],
+      [
+        "Europe-have",
+        "Europe - have"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-3|6:0",
+    "before": "Restrictions that keep highly polluting cars out of certain areas-city centres, \"school streets\", even individual roads-are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance.",
+    "after": "Restrictions that keep highly polluting cars out of certain areas - city centres, \"school streets\", even individual roads - are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance.",
+    "replacements": [
+      [
+        "areas-city",
+        "areas - city"
+      ],
+      [
+        "roads-are",
+        "roads - are"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-4|0:0",
+    "before": "Now that members of Generation Z are graduating college this spring-the most commonly-accepted definition says this generation was born after 1995, give or take a year-the attention has been rising steadily in recent weeks.",
+    "after": "Now that members of Generation Z are graduating college this spring - the most commonly-accepted definition says this generation was born after 1995, give or take a year - the attention has been rising steadily in recent weeks.",
+    "replacements": [
+      [
+        "spring-the",
+        "spring - the"
+      ],
+      [
+        "year-the",
+        "year - the"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2020-4|2:2",
+    "before": "Job security or stability was the second most important career goal(work-life balance was number one), followed by a sense of being dedicated to a cause or to feel good about serving the greater good.",
+    "after": "Job security or stability was the second most important career goal (work-life balance was number one), followed by a sense of being dedicated to a cause or to feel good about serving the greater good.",
+    "replacements": [
+      [
+        "goal(work-life",
+        "goal (work-life"
+      ]
+    ],
+    "source": "2020 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-1|0:2",
+    "before": "Research by the World Economic Forum finds that on average 42 per cent of the\"core skills\"within job roles will change by 2022.",
+    "after": "Research by the World Economic Forum finds that on average 42 per cent of the \"core skills\" within job roles will change by 2022.",
+    "replacements": [
+      [
+        "the\"core skills\"within",
+        "the \"core skills\" within"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-1|2:1",
+    "before": "In February,at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere.",
+    "after": "In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere.",
+    "replacements": [
+      [
+        "February,at",
+        "February, at"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-1|2:2",
+    "before": "As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent,and although many worker shortages had disappeared, not all had done so.",
+    "after": "As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so.",
+    "replacements": [
+      [
+        "cent,and",
+        "cent, and"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-2|1:2",
+    "before": "A move back to self-sufficiency,the argument goes, would boost the farming industry, political sovereignty and even the nation's health.",
+    "after": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health.",
+    "replacements": [
+      [
+        "self-sufficiency,the",
+        "self-sufficiency, the"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-2|2:0",
+    "before": "According to a report on UK food production from the University of Leeds,UK, 85 per cent of the country's total land area is associated with meat and dairy production.",
+    "after": "According to a report on UK food production from the University of Leeds, UK, 85 per cent of the country's total land area is associated with meat and dairy production.",
+    "replacements": [
+      [
+        "Leeds,UK",
+        "Leeds, UK"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-2|3:0",
+    "before": "There are many caveats to those figures,but they are still grave.",
+    "after": "There are many caveats to those figures, but they are still grave.",
+    "replacements": [
+      [
+        "figures,but",
+        "figures, but"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-3|0:0",
+    "before": "When Microsoft bought task management app Wunderlist and mobile calendar Sunrise in 2015,it picked two newcomers that were attracting considerable buzz in Silicon Valley.",
+    "after": "When Microsoft bought task management app Wunderlist and mobile calendar Sunrise in 2015, it picked two newcomers that were attracting considerable buzz in Silicon Valley.",
+    "replacements": [
+      [
+        "2015,it",
+        "2015, it"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-3|1:1",
+    "before": "Their teams of engineers stayed on,making them two of the many \" acqui-hires\"that the biggest companies have used to feed their great hunger for tech talent.",
+    "after": "Their teams of engineers stayed on, making them two of the many \"acqui-hires\" that the biggest companies have used to feed their great hunger for tech talent.",
+    "replacements": [
+      [
+        "on,making",
+        "on, making"
+      ],
+      [
+        "\" acqui-hires\"that",
+        "\"acqui-hires\" that"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-3|2:0",
+    "before": "To Microsoft's critics,the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path.",
+    "after": "To Microsoft's critics, the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path.",
+    "replacements": [
+      [
+        "critics,the",
+        "critics, the"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-3|5:0",
+    "before": "Given their combined market value of more than $5.5 trillion, rifling through such small deals-many of them much less prominent than Wunderlist and Sunrise-might seem beside the point.",
+    "after": "Given their combined market value of more than $5.5 trillion, rifling through such small deals - many of them much less prominent than Wunderlist and Sunrise - might seem beside the point.",
+    "replacements": [
+      [
+        "deals-many",
+        "deals - many"
+      ],
+      [
+        "Sunrise-might",
+        "Sunrise - might"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-3|5:1",
+    "before": "Between them, the five biggest tech companies have spent an average of only $3.4 billion a year on sub- $ 1 billion acquisitions over the past five years-a drop in the ocean compared with their massive financial reserves, and the more than $130 billion of venture capital that was invested in the US last year.",
+    "after": "Between them, the five biggest tech companies have spent an average of only $3.4 billion a year on sub- $ 1 billion acquisitions over the past five years - a drop in the ocean compared with their massive financial reserves, and the more than $130 billion of venture capital that was invested in the US last year.",
+    "replacements": [
+      [
+        "years-a",
+        "years - a"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-3|6:0",
+    "before": "However, critics say the big companies use such deals to buy their most threatening potential competitors before their businesses have a chance to gain momentum, in some cases as part of a\" buy and kill\"tactic to simply close them down.",
+    "after": "However, critics say the big companies use such deals to buy their most threatening potential competitors before their businesses have a chance to gain momentum, in some cases as part of a \"buy and kill\" tactic to simply close them down.",
+    "replacements": [
+      [
+        "a\" buy and kill\"tactic",
+        "a \"buy and kill\" tactic"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-4|0:1",
+    "before": "In one study of the ability she called\"thin slicing,\" the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor's overall effectiveness.",
+    "after": "In one study of the ability she called \"thin slicing,\" the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor's overall effectiveness.",
+    "replacements": [
+      [
+        "called\"thin",
+        "called \"thin"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-4|2:2",
+    "before": "But if you go on automatic pilot,you're fine.",
+    "after": "But if you go on automatic pilot, you're fine.",
+    "replacements": [
+      [
+        "pilot,you're",
+        "pilot, you're"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-4|3:2",
+    "before": "And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex-when they had a lot of information to process.",
+    "after": "And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex - when they had a lot of information to process.",
+    "replacements": [
+      [
+        "complex-when",
+        "complex - when"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-4|4:1",
+    "before": "In one study,participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech).",
+    "after": "In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech).",
+    "replacements": [
+      [
+        "study,participants",
+        "study, participants"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2021-4|4:2",
+    "before": "Then they rated the degree to which they had used intuition (\"gut feelings,\" \" hunches,\" \"my heart\").",
+    "after": "Then they rated the degree to which they had used intuition (\"gut feelings,\" \"hunches,\" \"my heart\").",
+    "replacements": [
+      [
+        "\" hunches,",
+        "\"hunches,"
+      ]
+    ],
+    "source": "2021 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-1|1:0",
+    "before": "These eggs, which are making their debut now on shelves for as much as $ 8 a dozen, are still labeled organic and animal-friendly, but they're also from birds that live on farms using regenerative agriculture-special techniques to cultivate rich soils that can trap greenhouse gases.",
+    "after": "These eggs, which are making their debut now on shelves for as much as $ 8 a dozen, are still labeled organic and animal-friendly, but they're also from birds that live on farms using regenerative agriculture - special techniques to cultivate rich soils that can trap greenhouse gases.",
+    "replacements": [
+      [
+        "agriculture-special",
+        "agriculture - special"
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-2|1:1",
+    "before": "Even more surprising is that more than half of \"unretirees\"-those who plan to work in retirement or went back to work after retiring-said they would be employed in their later years even if they had enough money to settle down, the survey showed.",
+    "after": "Even more surprising is that more than half of \"unretirees\" - those who plan to work in retirement or went back to work after retiring - said they would be employed in their later years even if they had enough money to settle down, the survey showed.",
+    "replacements": [
+      [
+        "\"unretirees\"-those",
+        "\"unretirees\" - those"
+      ],
+      [
+        "retiring-said",
+        "retiring - said"
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-3|1:0",
+    "before": "First coined in 2010 by user experience expert Harry Brignull, \" dark patterns\" is a catch-all term for practices that manipulate user interfaces to influence the decision-making ability of users.",
+    "after": "First coined in 2010 by user experience expert Harry Brignull, \"dark patterns\" is a catch-all term for practices that manipulate user interfaces to influence the decision-making ability of users.",
+    "replacements": [
+      [
+        "\" dark patterns\"",
+        "\"dark patterns\""
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-3|2:1",
+    "before": "Though widely prevalent, the concept o f dark patterns is still not well understood.",
+    "after": "Though widely prevalent, the concept of dark patterns is still not well understood.",
+    "replacements": [
+      [
+        "o f",
+        "of"
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-3|4:2",
+    "before": "The regulations aim to ban dark patterns-this means prohibiting companies from using u confusing language or unnecessary steps such as forcing them to click through multiple screens or listen to reasons why they shouldn't opt out.\"",
+    "after": "The regulations aim to ban dark patterns - this means prohibiting companies from using confusing language or unnecessary steps such as forcing them to click through multiple screens or listen to reasons why they shouldn't opt out.\"",
+    "replacements": [
+      [
+        "patterns-this",
+        "patterns - this"
+      ],
+      [
+        "using u confusing",
+        "using confusing"
+      ]
+    ],
+    "source": "2022本地英二原卷第7页视觉核对；删除误识别u，不增补引号，句尾原卷闭引号保留"
+  },
+  {
+    "key": "2022-4|1:4",
+    "before": "Then, unknown to the students, the researchers studied their anonymized meal-card purchases for that semester-nearly 14,000 receipts for almost 500 students.",
+    "after": "Then, unknown to the students, the researchers studied their anonymized meal-card purchases for that semester - nearly 14,000 receipts for almost 500 students.",
+    "replacements": [
+      [
+        "semester-nearly",
+        "semester - nearly"
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-4|2:1",
+    "before": "But among student subjects who discussed meat ethics, meal purchases containing meat decreased from 52 to 45 percent-and this effect held steady for the study's duration of several weeks.",
+    "after": "But among student subjects who discussed meat ethics, meal purchases containing meat decreased from 52 to 45 percent - and this effect held steady for the study's duration of several weeks.",
+    "replacements": [
+      [
+        "percent-and",
+        "percent - and"
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-4|4:0",
+    "before": "Schwitzgebel suspects the greatest impact came from social influence- classmates or teaching assistants leading the discussions may have shared their own vegetarianism, showing it as achievable or more common.",
+    "after": "Schwitzgebel suspects the greatest impact came from social influence - classmates or teaching assistants leading the discussions may have shared their own vegetarianism, showing it as achievable or more common.",
+    "replacements": [
+      [
+        "influence- classmates",
+        "influence - classmates"
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2022-4|4:4",
+    "before": "Meanwhile, Schwitzgebel-who had predicted no effect-will be eating his words.",
+    "after": "Meanwhile, Schwitzgebel - who had predicted no effect - will be eating his words.",
+    "replacements": [
+      [
+        "Schwitzgebel-who",
+        "Schwitzgebel - who"
+      ],
+      [
+        "effect-will",
+        "effect - will"
+      ]
+    ],
+    "source": "2022 本地英二原卷；仅恢复词/标点边界"
+  },
+  {
+    "key": "2014-3|1:1",
+    "before": "This argument has attracted a lot of attention, via the success of the book Race A gainst the Machine, by Erik Brynjolfsson and Andrew McAfee, who both hail from MIT's Center for Digital Business.",
+    "after": "This argument has attracted a lot of attention, via the success of the book Race Against the Machine, by Erik Brynjolfsson and Andrew McAfee, who both hail from MIT's Center for Digital Business.",
+    "replacements": [
+      [
+        "Race A gainst",
+        "Race Against"
+      ]
+    ],
+    "source": "2014本地英二原卷；已核对视觉/文字来源"
+  },
+  {
+    "key": "2015-3|3:2",
+    "before": "Terms like unplug, ofjline, life-hack, bandwidth, and capacity are all about setting boundaries between the office and the home.",
+    "after": "Terms like unplug, offline, life-hack, bandwidth, and capacity are all about setting boundaries between the office and the home.",
+    "replacements": [
+      [
+        "ofjline",
+        "offline"
+      ]
+    ],
+    "source": "2015本地英二原卷；已核对视觉/文字来源"
+  },
+  {
+    "key": "2020-2|1:2",
+    "before": "It's not popular to say. but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U. S. economy.",
+    "after": "It's not popular to say, but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U. S. economy.",
+    "replacements": [
+      [
+        "say. but",
+        "say, but"
+      ]
+    ],
+    "source": "2020本地英二原卷；已核对视觉/文字来源"
+  },
+  {
+    "key": "special-2019-newtype|0:23",
+    "before": "\"Harsh as it may be to say, that decision should likely not be made contingent on a child's opinions, but rather made for them with great consideration into what home can meet their needs best-and give them an opportunity to customize it a bit and make it their own.\"",
+    "after": "\"Harsh as it may be to say, that decision should likely not be made contingent on a child's opinions, but rather made for them with great consideration into what home can meet their needs best - and give them an opportunity to customize it a bit and make it their own.\"",
+    "replacements": [
+      [
+        "best-and",
+        "best - and"
+      ]
+    ],
+    "source": "2019年考研英语二真题（可复制搜索查词）.pdf PDF第13页；已逐字/页面图像核对：what home can meet their needs best – and give them an opportunity",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2019年考研英语二真题（可复制搜索查词）.pdf",
+    "pdf_page": 13,
+    "pdf_quote": "what home can meet their needs best – and give them an opportunity",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2021-newtype|2:3",
+    "before": "People can contribute experience or information to your thinking-all the things that would make the disagreement stronger or more valid.",
+    "after": "People can contribute experience or information to your thinking — all the things that would make the disagreement stronger or more valid.",
+    "replacements": [
+      [
+        "thinking-all",
+        "thinking — all"
+      ]
+    ],
+    "source": "2021年考研英语二真题（可复制搜索查词）.pdf PDF第12页；已逐字/页面图像核对：thinking—all the things that would make the disagreement stronger or more valid",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2021年考研英语二真题（可复制搜索查词）.pdf",
+    "pdf_page": 12,
+    "pdf_quote": "thinking—all the things that would make the disagreement stronger or more valid",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2021-newtype|3:0",
+    "before": "Before you share your thoughts, think about what the powerful person cares about-it may be the credibility of their team or getting a project done on time.",
+    "after": "Before you share your thoughts, think about what the powerful person cares about — it may be the credibility of their team or getting a project done on time.",
+    "replacements": [
+      [
+        "about-it",
+        "about — it"
+      ]
+    ],
+    "source": "2021年考研英语二真题（可复制搜索查词）.pdf PDF第12页；已逐字/页面图像核对：cares about—it may be the credibility of their team",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2021年考研英语二真题（可复制搜索查词）.pdf",
+    "pdf_page": 12,
+    "pdf_quote": "cares about—it may be the credibility of their team",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2021-newtype|5:2",
+    "before": "It sends a mixed message,and your counterpart gets to choose what signals to read.",
+    "after": "It sends a mixed message, and your counterpart gets to choose what signals to read.",
+    "replacements": [
+      [
+        "message,and",
+        "message, and"
+      ]
+    ],
+    "source": "2021年考研英语二真题（可复制搜索查词）.pdf PDF第13页；已逐字/页面图像核对：It sends a mixed message, and your counterpart gets to choose",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2021年考研英语二真题（可复制搜索查词）.pdf",
+    "pdf_page": 13,
+    "pdf_quote": "It sends a mixed message, and your counterpart gets to choose",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2021-newtype|5:3",
+    "before": "Deep breaths can help,as can speaking more slowly and deliberately.",
+    "after": "Deep breaths can help, as can speaking more slowly and deliberately.",
+    "replacements": [
+      [
+        "help,as",
+        "help, as"
+      ]
+    ],
+    "source": "2021年考研英语二真题（可复制搜索查词）.pdf PDF第13页；已逐字/页面图像核对：Deep breaths can help, as can speaking more slowly and deliberately",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2021年考研英语二真题（可复制搜索查词）.pdf",
+    "pdf_page": 13,
+    "pdf_quote": "Deep breaths can help, as can speaking more slowly and deliberately",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2021-newtype|6:3",
+    "before": "Having asserted your opinion (as a position, not as a fact),demonstrate equal curiosity about other views.",
+    "after": "Having asserted your opinion (as a position, not as a fact), demonstrate equal curiosity about other views.",
+    "replacements": [
+      [
+        "fact),demonstrate",
+        "fact), demonstrate"
+      ]
+    ],
+    "source": "2021年考研英语二真题（可复制搜索查词）.pdf PDF第13页；已逐字/页面图像核对：as a position, not as a fact), demonstrate equal curiosity",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2021年考研英语二真题（可复制搜索查词）.pdf",
+    "pdf_page": 13,
+    "pdf_quote": "as a position, not as a fact), demonstrate equal curiosity",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2022-cloze|0:1",
+    "before": "For him writing is a 【normal】 job-a job like any other.",
+    "after": "For him writing is a 【normal】 job — a job like any other.",
+    "replacements": [
+      [
+        "job-a",
+        "job — a"
+      ]
+    ],
+    "source": "2022年考研英语二真题【可复制搜索查词】.pdf PDF第2页；已逐字/页面图像核对：job—a job like any other",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2022年考研英语二真题【可复制搜索查词】.pdf",
+    "pdf_page": 2,
+    "pdf_quote": "job—a job like any other",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2022-cloze|0:13",
+    "before": "There's just one thing you should try to keep at least some time for, 【in addition to】 your writing-and that's reading.",
+    "after": "There's just one thing you should try to keep at least some time for, 【in addition to】 your writing — and that's reading.",
+    "replacements": [
+      [
+        "writing-and",
+        "writing — and"
+      ]
+    ],
+    "source": "2022年考研英语二真题【可复制搜索查词】.pdf PDF第2页；已逐字/页面图像核对：writing—and that’s reading",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2022年考研英语二真题【可复制搜索查词】.pdf",
+    "pdf_page": 2,
+    "pdf_quote": "writing—and that’s reading",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2022-cloze|0:14",
+    "before": "Any writer needs to read as much and as widely as they can; it's the one 【indispensable】 supporter-something you can't do without.",
+    "after": "Any writer needs to read as much and as widely as they can; it's the one 【indispensable】 supporter — something you can't do without.",
+    "replacements": [
+      [
+        "supporter-something",
+        "supporter — something"
+      ]
+    ],
+    "source": "2022年考研英语二真题【可复制搜索查词】.pdf PDF第2页；已逐字/页面图像核对：supporter—something you can’t do without",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2022年考研英语二真题【可复制搜索查词】.pdf",
+    "pdf_page": 2,
+    "pdf_quote": "supporter—something you can’t do without",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2022-cloze|0:18",
+    "before": "If you're a writer, that means- 【above all】 writing.",
+    "after": "If you're a writer, that means — 【above all】 writing.",
+    "replacements": [
+      [
+        "means-",
+        "means —"
+      ]
+    ],
+    "source": "2022年考研英语二真题【可复制搜索查词】.pdf PDF第2页；已逐字/页面图像核对：that means—（第20空）writing",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2022年考研英语二真题【可复制搜索查词】.pdf",
+    "pdf_page": 2,
+    "pdf_quote": "that means—（第20空）writing",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2024-newtype|0:10",
+    "before": "Josoph Adegboyega-Edun, a Maryland High school guidance counselor, says unconventional, extracurricular activities can help students, impress college admissions offices, assuming they demonstrated, serious commitment.\"",
+    "after": "Joseph Adegboyega-Edun, a Maryland High school guidance counselor, says unconventional, extracurricular activities can help students, impress college admissions offices, assuming they demonstrated, serious commitment.\"",
+    "replacements": [
+      [
+        "Josoph",
+        "Joseph"
+      ]
+    ],
+    "source": "2024年考研英语二真题（网络补齐）.pdf PDF第8页；已逐字/页面图像核对：Joseph Adegboyega-Edun",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2024年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 8,
+    "pdf_quote": "Joseph Adegboyega-Edun",
+    "note": "姓名转录按PDF图像改正；其他标点未扩改",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2024-newtype|0:11",
+    "before": "Again, since one of the big questions high school seniors muse consider is\"What makes you unique?\" having an uncommon, extracurricular activity, a conventional one is an advantage,\" he wrote in an email.",
+    "after": "Again, since one of the big questions high school seniors must consider is \"What makes you unique?\" having an uncommon, extracurricular activity, a conventional one is an advantage,\" he wrote in an email.",
+    "replacements": [
+      [
+        "muse consider",
+        "must consider"
+      ],
+      [
+        "is\"What",
+        "is \"What"
+      ]
+    ],
+    "source": "2024年考研英语二真题（网络补齐）.pdf PDF第8页；已逐字/页面图像核对：high school seniors must consider is ‘What makes you unique?’",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2024年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 8,
+    "pdf_quote": "high school seniors must consider is ‘What makes you unique?’",
+    "note": "PDF页面图像可核定must与引语间隔；不补PDF未给出的比较词或活动名词",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2024-newtype|0:16",
+    "before": "“If you already know your major, having an extracurricular that fits into that major can be a big plus,\"says Mayghin Levine, the manager of educational opportunities with The Cabbage Patch Settlement House, a Louisville, Kentucky, nonprofit community center.",
+    "after": "“If you already know your major, having an extracurricular that fits into that major can be a big plus,\" says Mayghin Levine, the manager of educational opportunities with The Cabbage Patch Settlement House, a Louisville, Kentucky, nonprofit community center.",
+    "replacements": [
+      [
+        "plus,\"says",
+        "plus,\" says"
+      ]
+    ],
+    "source": "2024年考研英语二真题（网络补齐）.pdf PDF第8页；已逐字/页面图像核对：a big plus,” says Mayghin Levine",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2024年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 8,
+    "pdf_quote": "a big plus,” says Mayghin Levine",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2024-translation|0:2",
+    "before": "Farmers' markets are usually weekly or monthly events, most oflen with outdoor stalls, which allow farmers or producers to sell their food directly to customers.",
+    "after": "Farmers' markets are usually weekly or monthly events, most often with outdoor stalls, which allow farmers or producers to sell their food directly to customers.",
+    "replacements": [
+      [
+        "oflen",
+        "often"
+      ]
+    ],
+    "source": "2024年考研英语二真题（网络补齐）.pdf PDF第9页；已逐字/页面图像核对：most often with outdoor stalls",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2024年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 9,
+    "pdf_quote": "most often with outdoor stalls",
+    "note": "按PDF图像改正oflen转录",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-cloze|0:3",
+    "before": "It involves communicating a need on your part—there's something you can't do. 【In other words】 you're broadcasting your own weaknesses, which can be 【uncomfortable】 .",
+    "after": "It involves communicating a need on your part — there's something you can't do. 【In other words】 you're broadcasting your own weaknesses, which can be 【uncomfortable】 .",
+    "replacements": [
+      [
+        "part—there's",
+        "part — there's"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第1页；已逐字/页面图像核对：on your part- / there’s something you can’t do",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 1,
+    "pdf_quote": "on your part- / there’s something you can’t do",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-newtype|1:0",
+    "before": "Everyone wants to be that person—the one who looks at the same information as everyone else, but who sees a fresh, innovative solution.",
+    "after": "Everyone wants to be that person — the one who looks at the same information as everyone else, but who sees a fresh, innovative solution.",
+    "replacements": [
+      [
+        "person—the",
+        "person — the"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第11页；已逐字/页面图像核对：that person—the one who looks at the same information",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 11,
+    "pdf_quote": "that person—the one who looks at the same information",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-newtype|1:4",
+    "before": "Because writing a new script—literally or figuratively—means that other team members will have to adapt to something new.",
+    "after": "Because writing a new script — literally or figuratively — means that other team members will have to adapt to something new.",
+    "replacements": [
+      [
+        "script—literally",
+        "script — literally"
+      ],
+      [
+        "figuratively—means",
+        "figuratively — means"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第11页；已逐字/页面图像核对：writing a new script-literally or figuratively- / means that other team members",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 11,
+    "pdf_quote": "writing a new script-literally or figuratively- / means that other team members",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-newtype|3:2",
+    "before": "When it works, it works great—because you're ready for your stubborn supervisor's pushback with answers like, \"Actually, I connected with a few people in our tech department to discuss how much time these kinds of website updates would take, and they suggested they have the bandwidth.\"",
+    "after": "When it works, it works great — because you're ready for your stubborn supervisor's pushback with answers like, \"Actually, I connected with a few people in our tech department to discuss how much time these kinds of website updates would take, and they suggested they have the bandwidth.\"",
+    "replacements": [
+      [
+        "great—because",
+        "great — because"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第12页；已逐字/页面图像核对：it works great—because you’re ready",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 12,
+    "pdf_quote": "it works great—because you’re ready",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-newtype|3:4",
+    "before": "The last thing you want is for your boss to feel embarrassed he wasn’t informed—which could lead him to quash the idea before it even takes off.",
+    "after": "The last thing you want is for your boss to feel embarrassed he wasn’t informed — which could lead him to quash the idea before it even takes off.",
+    "replacements": [
+      [
+        "informed—which",
+        "informed — which"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第12页；已逐字/页面图像核对：he wasn’t informed—which could lead him",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 12,
+    "pdf_quote": "he wasn’t informed—which could lead him",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-newtype|4:4",
+    "before": "So, instead of saying, \"Martha, our current slogan is confusing and should be updated,\" you could try, \"Martha raises a great point that our current slogan has a long history for our stakeholders, but I wonder if we might be able to brainstorm a tagline that could build on that—and be clearer for new customers.\"",
+    "after": "So, instead of saying, \"Martha, our current slogan is confusing and should be updated,\" you could try, \"Martha raises a great point that our current slogan has a long history for our stakeholders, but I wonder if we might be able to brainstorm a tagline that could build on that — and be clearer for new customers.\"",
+    "replacements": [
+      [
+        "that—and",
+        "that — and"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第12页；已逐字/页面图像核对：build on that—and be clearer for new customers",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 12,
+    "pdf_quote": "build on that—and be clearer for new customers",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-newtype|5:2",
+    "before": "Remember that in light of whatever the problem the old system solved—or, maybe, has failed to solve in recent memory—it was a great idea at the time.",
+    "after": "Remember that in light of whatever the problem the old system solved — or, maybe, has failed to solve in recent memory — it was a great idea at the time.",
+    "replacements": [
+      [
+        "solved—or",
+        "solved — or"
+      ],
+      [
+        "memory—it",
+        "memory — it"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第12页；已逐字/页面图像核对：the old system solved—or, maybe, has failed to solve in recent memory—it was a great idea",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 12,
+    "pdf_quote": "the old system solved—or, maybe, has failed to solve in recent memory—it was a great idea",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2025-translation|0:0",
+    "before": "You know the moment—the conversation slows, then there's a pause.",
+    "after": "You know the moment — the conversation slows, then there's a pause.",
+    "replacements": [
+      [
+        "moment—the",
+        "moment — the"
+      ]
+    ],
+    "source": "2025年考研英语二真题（网络补齐）.pdf PDF第13页；已逐字/页面图像核对：You know the moment --- the conversation slows",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2025年考研英语二真题（网络补齐）.pdf",
+    "pdf_page": 13,
+    "pdf_quote": "You know the moment --- the conversation slows",
+    "note": "仅恢复分词边界；破折号本身是正常排版，不是原题错误",
+    "batch": "P3-Claude-7"
+  },
+  {
+    "key": "special-2018-newtype|2:7",
+    "before": "So keep it simple: \"Hi\", \"Hey\"or \"Hello\" - do the best you can to gather all of the enthusiasm and energy you can, put on a big smile and say \"Hi\".",
+    "after": "So keep it simple: \"Hi\", \"Hey\" or \"Hello\" - do the best you can to gather all of the enthusiasm and energy you can, put on a big smile and say \"Hi\".",
+    "replacements": [
+      [
+        "\"Hey\"or",
+        "\"Hey\" or"
+      ]
+    ],
+    "source": "2018年考研英语二真题（可复制搜索查词）.pdf PDF第13页：So keep it simple: \"Hi\", \"Hey\"or \"Hello\"；仅恢复词边界。Claude复审必改4。",
+    "pdf": "../2.1 原始资料/英二/2010-2026 真题/2018年考研英语二真题（可复制搜索查词）.pdf",
+    "pdf_page": 13,
+    "pdf_quote": "So keep it simple: \"Hi\", \"Hey\"or \"Hello\"",
+    "note": "仅恢复or前空格，不改词语与句子编号。",
+    "batch": "P3-Claude-7"
+  }
+]

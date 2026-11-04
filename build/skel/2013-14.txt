@@ -239,3 +239,17 @@ mod of grants → programme | 介词短语作定语 | 拨款项目
 mod to fund new affordable housing → grants | 不定式作定语 | 用于资助新经济适用房的拨款
 mod set to expire in 2015 → programme | 过去分词作定语 | 定于 2015 年到期
 mod beyond then → extended | 时间 | 延续到那之后
+
+# 2013-1|3:2
+type 主从复合句｜as引述，so…that结果从句；分号连接两项变化
+chunks As Davidson notes,〔C1〕 "In the 10 years ending in 2009,〔修〕 [U. S.] factories shed workers〔主〕 so fast〔修〕 that they erased almost all the gains〔C2〕 of the previous 70 years;〔C2修〕 roughly one out of every three manufacturing jobs〔主〕 - about 6 million in total -〔修〕 disappeared."〔主〕
+main 主语:[U. S.] factories | 谓语:shed | 宾语:workers || 主语:one out of every three manufacturing jobs | 谓语:disappeared
+gist 美国工厂大量裁员，约三分之一的制造业岗位消失了
+C1 方式状语从句 | 引述Davidson的观察 | As | 前面没有待修饰的名词，as后Davidson notes主谓完整；as表示正如，引出对整句事实的引述 | 主语:Davidson | 谓语:notes
+C2 结果状语从句 | 说明裁员如此快所带来的结果 | that | 前面so fast提出程度，that后they erased almost all the gains主谓宾完整；so…that…表示如此……以至于 | 主语:they | 谓语:erased | 宾语:almost all the gains
+mod In the 10 years ending in 2009 → shed | 时间状语 | 在截至2009年的十年间
+mod so fast → shed | 方式和程度状语 | 裁员如此迅速，后面的that从句说明结果
+mod of the previous 70 years → gains | 介词短语作定语 | 前70年间增加的岗位
+mod about 6 million in total → jobs | 数量补充 | 消失的岗位总计约600万个
+mod roughly → one out of every three manufacturing jobs | 近似数量限定 | 大约每三个制造业岗位中的一个
+point [U. S.]是美国这一缩写，内部句点不是真正句末。分号后另有主语one out of every three manufacturing jobs和谓语disappeared。

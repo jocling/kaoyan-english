@@ -1,0 +1,539 @@
+# special-2020-cloze|0:0
+type 主从复合句｜动名词主语，what表语从句
+chunks Being a good parent is,〔主〕 of course,〔修〕 what every parent would like to be.〔C1〕
+main 主语:Being a good parent | 谓语:is | 表语:C1
+gist 做好父母是大家向往的事
+C1 表语从句 | 说明主语所指的内容 | what | 前面is缺表语，what后every parent would like to be缺be的表语；what兼有连接与表语作用 | 主语:every parent | 谓语:would like | 宾语:to be | 表语:what
+mod of course → 整句 | 评述语 | 当然如此
+
+# special-2020-cloze|0:1
+type 主从复合句｜主语中what宾语，since原因从句
+chunks But〔连〕 defining〔主〕 what it means〔C1〕 to be a good parent〔C1修〕 is undoubtedly very 【tricky】,〔主〕 particularly since children respond differently〔C2〕 to the same style of parenting.〔C2修〕
+main 主语:defining | 谓语:is | 表语:【tricky】
+gist 界定好父母很棘手
+C1 宾语从句 | 作defining的宾语 | what | 前面defining缺要界定内容，what后it means缺means的宾语；what兼有连接与宾语作用 | 形式主语:it | 谓语:means | 宾语:what | 真正主语:to be a good parent
+C2 原因状语从句 | 尤其说明为何棘手 | since | since后children respond主谓完整，表示因为孩子反应不同；前面主句已完整，不是时间起点 | 主语:children | 谓语:respond
+mod undoubtedly → 【tricky】 | 语气副词 | 无疑很棘手
+mod very → 【tricky】 | 程度副词 | 非常棘手
+mod to the same style of parenting → respond | 反应对象补足 | 对同一教养方式的反应
+
+# special-2020-cloze|0:2
+type 多句条目｜than比较省略，there be和that定语
+chunks A calm, rule-following child might respond better〔主〕 to a different sort of parenting〔修〕 than, 【for example】, a younger sibling.〔C1〕 【Fortunately】,〔修〕 there's another sort of parent〔主〕 that's a bit easier to 【describe】:〔C2〕 a patient parent.〔修〕
+main 主语:A calm, rule-following child | 谓语:might respond || 谓语:there's | 主语:another sort of parent
+gist 一类孩子反应不同；有一类父母较易描述
+C1 比较状语从句（省略） | 将此孩子与弟妹的反应比较 | than | 前面respond better提出比较，than后younger sibling省略重复的responds；原题比较搭配稍松散，保留 | 主语:a younger sibling
+C2 定语从句 | 修饰parent | that | 前面是parent，that's a bit easier中的that's等于that is，that代指这一类父母作主语 | 主语＋谓语:that's | 表语:easier
+mod to a different sort of parenting → respond | 对象补足 | 对另一教养方式反应更好
+mod 【for example】 → C1 | 举例插入 | 用较小弟妹举例
+mod 【Fortunately】 → 整句 | 评述语 | 转向更易描述的一类
+mod to 【describe】 → easier | 不定式补足 | 更容易描述
+mod a patient parent → parent | 同位说明 | 这就是有耐心的父母
+
+# special-2020-cloze|0:3
+type 简单句｜主语后of定语
+chunks Children〔主〕 of every age〔修〕 benefit〔主〕 from patient parenting.〔修〕
+main 主语:Children | 谓语:benefit
+gist 孩子都能受益
+mod of every age → Children | 介词定语 | 各个年龄的孩子
+mod from patient parenting → benefit | 受益来源 | 从有耐心的教养中受益
+
+# special-2020-cloze|0:4
+type 主从复合句｜while让步
+chunks Still,〔修〕 【while】 every parent would like to be patient,〔C1〕 this is no easy 【task】.〔主〕
+main 主语:this | 谓语:is | 表语:no easy 【task】
+gist 这不是容易的任务
+C1 让步状语从句 | 承认父母都有耐心愿望 | 【while】 | while后every parent would like to be patient主谓及补足完整；表示虽然，后面指出实现不易 | 主语:every parent | 谓语:would like | 宾语:to be patient
+
+# special-2020-cloze|0:5
+type 简单句｜get与are两组状态谓语共用主语
+chunks Sometimes〔修〕 parents get exhausted and frustrated〔主〕 and〔连〕 are unable〔主〕 to maintain a 【tolerant】 and composed style with their kids.〔修〕
+main 主语:parents | 谓语:get | 表语:exhausted and frustrated || &and || 谓语:are | 表语:unable
+gist 父母有时疲惫沮丧并难以保持冷静
+mod to maintain a 【tolerant】 and composed style with their kids → unable | 不定式补足 | 无法以宽容冷静方式对待孩子
+point exhausted和frustrated是get后表示状态的分词形容词，不是两个过去时动作。
+
+# special-2020-cloze|0:6
+type 简单句｜主谓宾
+chunks I understand this.〔主〕
+main 主语:I | 谓语:understand | 宾语:this
+gist 我理解这一点
+
+# special-2020-cloze|0:7
+type 并列句｜and后有新的名词主语
+chunks You're only human,〔主〕 and〔连〕 sometimes〔修〕 your kids can 【push】 you〔主〕 just a little too far.〔修〕
+main 主语＋谓语:You're | 表语:human || &and || 主语:your kids | 谓语:can 【push】 | 宾语:you
+gist 你是普通人，而孩子有时会把你逼过头
+mod only → human | 限定副词 | 毕竟只是普通人
+mod just a little too far → 【push】 | 程度补足 | 超过可承受范围一点
+
+# special-2020-cloze|0:8
+type 多分句条目｜冒号解释，that定语内部并列谓语
+chunks And then〔修〕 the 【inevitable】 happens:〔主〕 You lose your patience〔主〕 and〔连〕 either scream〔主〕 at your kids〔修〕 or〔连〕 say something〔主〕 that was a bit too 【harsh】 and does nobody any good.〔C1〕
+main 主语:the 【inevitable】 | 谓语:happens || 主语:You | 谓语:lose | 宾语:your patience || &and || 谓语:scream || &or || 谓语:say | 宾语:something
+gist 难免的事发生：你失去耐心，大喊或说重话
+C1 定语从句 | 修饰something | that | 前面是something，后面was harsh与does nobody any good均缺共同主语；that代指说出的话 | 主语:that | 谓语:was | 表语:【harsh】 | 谓语:does | 间接宾语:nobody | 直接宾语:any good
+mod at your kids → scream | 对象补足 | 冲孩子喊
+mod a bit too → 【harsh】 | 程度限定 | 稍微过于严厉
+point either…or…连接scream和say，不是两个不同主语的句子。
+
+# special-2020-cloze|0:9
+type 多句条目｜宾语、even though让步、it形式主语内宾语和定语
+chunks You wish〔主〕 that you could 【turn back】 the clock and start over,〔C1〕 We've all been there.〔主〕 【However】,〔修〕 even though it's common,〔C2〕 it's important〔主〕 to keep in mind〔修〕 that in a single moment of fatigue, you can say something to your child〔C3〕 that you may 【regret】 for a long time.〔C4〕
+main 主语:You | 谓语:wish | 宾语:C1 || 主语＋谓语:We've … been | 表语:there || 形式主语＋谓语:it's | 表语:important | 真正主语:to keep in mind
+C1 宾语从句 | 作wish的宾语 | that | 前面wish缺希望内容，that后you could turn back…and start…主谓宾完整；that只连接 | 主语:you | 谓语:could 【turn back】 | 宾语:the clock | 谓语:start over
+C2 让步状语从句 | 承认发火常见仍应注意 | even though | even though后it's common主系表完整；表示虽然，不是外层important的宾语 | 主语＋谓语:it's | 表语:common
+C3 宾语从句 | 作keep in mind的宾语 | that | 前面keep in mind缺所记内容，that后you can say something主谓宾完整；that只连接，时间状语在其内部 | 主语:you | 谓语:can say | 宾语:something
+C4 定语从句 in C3 | 修饰something | that | 前面something是先行词，后面you may regret缺宾语；that代指所说的话，作regret宾语 | 主语:you | 谓语:may 【regret】
+gist 你希望重来；我们都经历过，但记住后果很重要
+mod in a single moment of fatigue → can say | 时间情境 | 一瞬间疲惫时说出的话
+mod to your child → say | 对象补足 | 对孩子说
+mod for a long time → 【regret】 | 持续时间 | 后悔很久
+point 原条目含逗号连接的多项判断，保留既有句界；外层it's指形式主语，that内容位于keep in mind后。
+
+# special-2020-cloze|0:10
+type 简单句｜not only…but also并列两谓语
+chunks This may not only do damage〔主〕 to your relationship with your child〔修〕 but also〔连〕 【affect】 your child's self-esteem.〔主〕
+main 主语:This | 谓语:may … do | 宾语:damage || &but || 谓语:【affect】 | 宾语:your child's self-esteem
+gist 这既可能伤害关系，也会影响自尊
+mod to your relationship with your child → damage | 介词补足 | 对亲子关系的伤害
+point affect共用may，not only…but also表示递进并列，不是两个新主语。
+
+# special-2020-cloze|0:11
+type 主从复合句｜if条件
+chunks If you consistently lose your 【cool】〔C1〕 with your kids,〔C1修〕 then〔修〕 you are inadvertently modeling a lack〔主〕 of emotional control for your kids.〔修〕
+main 主语:you | 谓语:are … modeling | 宾语:a lack
+gist 你在示范缺乏情绪控制
+C1 条件状语从句 | 给出示范不良控制的条件 | If | If后you lose your cool主谓宾完整；整块表示如果经常失控，不作modeling的宾语 | 主语:you | 谓语:lose | 宾语:your 【cool】
+mod consistently → lose | 频率状语 | 一贯如此
+mod with your kids → lose | 交往对象 | 面对孩子时
+mod inadvertently → modeling | 方式副词 | 不经意地示范
+mod of emotional control → lack | 介词定语 | 情绪控制的缺乏
+mod for your kids → modeling | 示范对象 | 给孩子的示范
+
+# special-2020-cloze|0:12
+type 简单句｜become系动词，aware后介词补足
+chunks We are all becoming increasingly aware〔主〕 of the 【importance】 of modeling tolerance and patience for the younger generation.〔修〕
+main 主语:We | 谓语:are … becoming | 表语:aware
+gist 我们越来越意识到重要性
+mod all → We | 总括强调 | 大家都如此
+mod increasingly → aware | 程度变化 | 越来越清楚
+mod of the 【importance】 of modeling tolerance and patience for the younger generation → aware | 介词补足 | 意识到为年轻一代示范宽容耐心的重要性
+
+# special-2020-cloze|0:13
+type 主从复合句｜that定语
+chunks This is a skill〔主〕 that will help them〔C1〕 all throughout life.〔C1修〕
+main 主语:This | 谓语:is | 表语:a skill
+gist 这是一项能力
+C1 定语从句 | 修饰skill | that | 前面是skill，后面will help them缺主语；that代指能力作主语 | 主语:that | 谓语:will help | 宾语:them
+mod all throughout life → help | 时间范围 | 使他们终身受益
+
+# special-2020-cloze|0:14
+type 主从复合句｜不定式限定ability，when省略条件
+chunks In fact,〔修〕 the ability〔主〕 to emotionally regulate or maintain emotional control〔修〕 when 【confronted】 by stress〔C1〕 is one of the most important of all life's skills.〔主〕
+main 主语:the ability | 谓语:is | 表语:one
+C1 时间状语从句（省略） | 表示面临压力时 | when | when后confronted by stress省略与人对应的主语和be，表示人被压力迎面困住时；分词不是独立谓语 | 谓语:【confronted】
+gist 这种能力是最重要的技能之一
+mod to emotionally regulate or maintain emotional control → ability | 不定式定语 | 调节或保持情绪控制的能力，两个动词共用to
+mod of the most important of all life's skills → one | 介词定语 | 人生所有重要技能之一
+
+# special-2020-cloze|0:15
+type 简单句｜it形式主语，不定式真正主语
+chunks Certainly,〔修〕 it's incredibly 【hard】〔主〕 to maintain patience at all times with your children.〔修〕
+main 形式主语＋谓语:it's | 表语:【hard】 | 真正主语:to maintain patience
+gist 始终保持耐心很难
+mod incredibly → 【hard】 | 程度副词 | 非常困难
+mod at all times with your children → maintain | 时间与对象补充 | 时时刻刻面对孩子都保持耐心
+
+# special-2020-cloze|0:16
+type 主从复合句｜不定式表语，as比较省略，when条件省略
+chunks A more practical goal is to try,〔主〕 to the best of your ability,〔修〕 to be as tolerant and composed〔修〕 as you can〔C1〕 when faced〔C2〕 with 【trying】 situations involving your children.〔C2修〕
+main 主语:A more practical goal | 谓语:is | 表语:to try
+C1 比较状语从句（省略） | 对应as tolerant and composed，限定尽力程度 | as | 前面as tolerant and composed提出程度，as后you can省略be tolerant and composed；整块作比较依据 | 主语:you | 谓语:can
+C2 时间状语从句（省略） | 限定遇到棘手情境时 | when | when后faced省略与you一致的you are，表示面对困难时；faced为被动省略，不是新的过去时主句 | 主语补足语:faced
+ gist 更实际的目标是尽力尝试
+mod to the best of your ability → try | 程度限定 | 在能力所及范围尽力
+mod to be as tolerant and composed → try | 不定式补足 | 试着保持宽容冷静
+mod with 【trying】 situations involving your children → faced | 处境补足 | 面对涉及孩子的棘手情况，trying是形容词，involving分词限定situations
+
+# special-2020-cloze|0:17
+type 多分句条目｜冒号后保证内容，分词表示状态
+chunks I can promise you this:〔主〕 As a result of working toward this goal.〔修〕 you and your children will benefit〔主〕 and〔连〕 【emerge】〔主〕 from stressful moments feeling better physically and emotionally.〔修〕
+main 主语:I | 谓语:can promise | 间接宾语:you | 直接宾语:this || 主语:you and your children | 谓语:will benefit || &and || 谓语:【emerge】
+gist 我保证，你和孩子会受益并更好地走出压力
+mod As a result of working toward this goal → benefit | 原因状语 | 由于朝这一目标努力
+mod from stressful moments → 【emerge】 | 离开处境补足 | 走出压力时刻
+mod feeling better physically and emotionally → you and your children | 分词表状态 | 人感觉身心更好，不是压力时刻自己感觉
+point 原数据goal后句点但you仍小写，本批保留；feeling没有独立时态。
+
+# special-2020-newtype|0:0
+type 名词性标题｜不定式定语
+chunks Five Ways〔主〕 to Win Over Everyone in the Office〔修〕
+main 主语:Five Ways
+gist 赢得同事支持的五种办法
+mod to Win Over Everyone in the Office → Ways | 不定式定语 | 赢得办公室所有人支持的方法
+
+# special-2020-newtype|1:0
+type 一般疑问句｜it形式主语
+chunks Is it possible〔主〕 to like everyone in your office?〔修〕
+main 形式主语:it | 谓语:Is | 表语:possible | 真正主语:to like everyone in your office
+gist 喜欢所有同事可能吗
+point Is提前是疑问语序，真正被评价的是to like…这件事。
+
+# special-2020-newtype|1:1
+type 祈使复合句｜how宾语、it形式主语，who定语
+chunks Think〔主〕 about〔修〕 how tough it is〔C1〕 to get together 15 people,〔C1修〕 much less 50,〔C1修〕 who all get along perfectly.〔C2〕
+main 谓语:Think
+gist 想想这有多难
+C1 宾语从句 | 作about的宾语 | how | 前面介词about需思考内容，how tough前置，后面it is加不定式完整；how修饰tough，整块作宾语 | 形式主语:it | 谓语:is | 表语:tough | 真正主语:to get together 15 people
+C2 定语从句 in C1 | 修饰people及省略people的50 | who | 前面是人，后面all get along缺主语；who代指这批人作主语 | 主语:who | 谓语:get along
+mod much less 50 → 15 people | 数量递进 | 更不用说五十个人，50后省略people
+mod perfectly → get along | 方式程度 | 完全融洽相处
+
+# special-2020-newtype|1:2
+type 简单句｜unlike介词短语
+chunks But unlike in friendships,〔修〕 you need coworkers.〔主〕
+main 主语:you | 谓语:need | 宾语:coworkers
+gist 你需要同事
+mod unlike in friendships → 整句 | 比较状语 | 与朋友关系中的情形不同
+
+# special-2020-newtype|1:3
+type 并列复合句｜as比较方式从句
+chunks You work〔主〕 with them every day,〔修〕 and〔连〕 you depend〔主〕 on them just〔修〕 as they depend on you.〔C1〕
+main 主语:You#1 | 谓语:work || &and || 主语:you#2 | 谓语:depend#1
+gist 你与同事工作，也依赖他们
+C1 比较状语从句 | 表示相互依赖的同样情形 | as | 前面you depend on them已完整，as后they depend on you主谓及补足完整；just as表示正如 | 主语:they | 谓语:depend
+mod with them every day → work | 对象与频率 | 每天与他们共事
+mod on them → depend | 依赖对象 | 依赖同事
+mod on you → C1 | 介词补足 | 他们也依赖你
+
+# special-2020-newtype|1:4
+type 主从复合句｜here倒装，that方式定语
+chunks Here are some ways〔主〕 that you can get the whole office on your side.〔C1〕
+main 谓语:are | 主语:some ways
+gist 这里有一些办法
+C1 定语从句 | 修饰ways | that | 前面是方式名词ways，后面you can get the office on your side主谓宾补完整；that表示借以做到的方式，不作get的宾语 | 主语:you | 谓语:can get | 宾语:the whole office | 宾补:on your side
+
+# special-2020-newtype|2:0
+type 主从复合句｜if条件
+chunks If you have a bone to pick〔C1〕 with someone in your workplace,〔C1修〕 you may try〔主〕 to stay tight-lipped around them.〔修〕
+main 主语:you | 谓语:may try
+C1 条件状语从句 | 限定可能保持沉默的情况 | If | If后you have a bone to pick主谓宾完整，表示对同事有意见这一条件；后面you may try为主句 | 主语:you | 谓语:have | 宾语:a bone to pick
+ gist 你可能试着保持沉默
+mod with someone in your workplace → pick | 交涉对象 | 工作场所中的某人
+mod to stay tight-lipped around them → try | 不定式补足 | 在那人身边闭口不言
+
+# special-2020-newtype|2:1
+type 简单句｜将来进行意义
+chunks But〔连〕 you won't be helping either one of you.〔主〕
+main 主语:you | 谓语:won't be helping | 宾语:either one of you
+gist 这对双方都没帮助
+
+# special-2020-newtype|2:2
+type 主从复合句｜that宾语，两个who定语与while对比
+chunks A Harvard Business School study found〔主〕 that observers consistently rated those〔C1〕 who were upfront about themselves〔C2〕 more highly,〔C1〕 while those〔C3〕 who hid〔C4〕 lost trustworthiness.〔C3〕
+main 主语:A Harvard Business School study | 谓语:found | 宾语:C1
+C1 宾语从句 | 作found的宾语 | that | 前面found缺内容，that后observers rated those主谓宾完整；that只连接，后面while补充对照结果 | 主语:observers | 谓语:rated | 宾语:those
+C2 定语从句 in C1 | 修饰第一处those | who | 前面those指坦诚的人，后面were upfront缺主语；who代指这些人作主语 | 主语:who | 谓语:were | 表语:upfront
+C3 让步对比状语从句 in C1 | 对照隐藏自己的人的后果 | while | while后those lost trustworthiness主谓宾完整，while表示而，形成对比不是时间同时 | 主语:those | 谓语:lost | 宾语:trustworthiness
+C4 定语从句 in C3 | 修饰第二处those | who | 前面those指人，后面hid缺主语；who作主语，限定隐藏自己信息的人 | 主语:who | 谓语:hid
+gist 研究发现坦诚者获更高评价，隐藏者失去可信度
+mod consistently → rated | 频率副词 | 评价一直如此
+mod about themselves → upfront | 介词补足 | 对自己的情况坦诚
+mod more highly → rated | 程度方式 | 给出更高评价
+
+# special-2020-newtype|2:3
+type 主从复合句｜两个表语内容对比，when省略被动
+chunks The lesson is not〔主〕 that you should make your personal life an open book,〔C1〕 but rather,〔修〕 when given the option to offer up details about yourself or studiously stash them away,〔C2〕 you should just be honest.〔C3〕
+main 主语:The lesson | 谓语:is | 表语:C1 | 表语:C3
+gist 教训不是必须公开一切，而是应诚实
+C1 表语从句 | 与后半相对的第一项内容 | that | 前面is not否定第一种教训，that后you should make life an open book主谓宾补完整；that只连接 | 主语:you | 谓语:should make | 宾语:your personal life | 宾补:an open book
+C2 时间状语从句（省略） in C3 | 限定何时应诚实 | when | when后given省略you are，表示当获得透露或隐藏信息的选择时；主句部分是you should be honest | 主语补足语:given | 宾语:the option
+C3 表语从句 | 与第一项对比，给出真正教训 | （省略 that） | 前面but rather承接The lesson is，后面you should be honest主系表完整；省略that的内容构成第二项表语 | 主语:you | 谓语:should … be | 表语:honest
+mod to offer up details about yourself or studiously stash them away → option | 不定式定语 | 透露细节或刻意隐藏它们的选择
+mod just → be honest | 限定副词 | 要点只是诚实
+point not…but rather…对比两项内容，共用is；不把省略主语的given误作新主句谓语。
+
+# special-2020-newtype|3:0
+type 倒装主系表｜表语及as比较短语前置
+chunks Just as〔修〕 important〔主〕 as being honest about yourself〔修〕 is being receptive to others.〔主〕
+main 主语:being receptive to others | 谓语:is | 表语:important
+gist 接纳他人同样重要
+mod as being honest about yourself → important | 比较补充 | 与对自己诚实一样重要
+point 前置的是表语Just as important…，真正主语为is后的动名词短语；不是把being honest当作句子主语。
+
+# special-2020-newtype|3:1
+type 主从复合句｜how宾语，whether…or让步选择
+chunks We often feel the need〔主〕 to tell others〔修〕 how we feel,〔C1〕 whether it's a concern about a project, a stray thought, or a compliment.〔C2〕
+main 主语:We | 谓语:feel | 宾语:the need
+C1 宾语从句 | 作tell的内容宾语 | how | 前面tell others有接受者但缺内容，how后we feel主谓完整；how说明感受方式，整块作宾语 | 主语:we | 谓语:feel
+C2 让步状语从句 | 无论感受属于哪种情况 | whether | whether后it's a concern, thought or compliment主系表完整，三项or并列；表示无论是哪种，不是feel的另一宾语 | 主语＋谓语:it's | 表语:a concern … a stray thought … a compliment
+gist 我们常想告诉别人感受
+mod to tell others → need | 不定式定语 | 告诉别人感受的需要
+mod often → feel | 频率副词 | 经常如此
+mod about a project → concern | 介词定语 | 对项目的担忧
+
+# special-2020-newtype|3:2
+type 并列句｜but后不定式作need宾语
+chunks Those are all valid,〔主〕 but〔连〕 you need to take time〔主〕 to hear out your coworkers, too.〔修〕
+main 主语:Those | 谓语:are | 表语:valid || &but || 主语:you | 谓语:need | 宾语:to take time
+ gist 这些都合理，但你也需要花时间
+mod to hear out your coworkers → take | 不定式目的 | 花时间听完同事的话
+mod too → need | 添加副词 | 也要如此
+
+# special-2020-newtype|3:3
+type 主从复合句｜动名词主语，feel后省略that宾语
+chunks In fact,〔修〕 rushing〔主〕 to get your own ideas out there〔修〕 can cause colleagues to feel〔主〕 you don't value their opinions.〔C1〕
+main 主语:rushing | 谓语:can cause | 宾语:colleagues | 宾补:to feel
+C1 宾语从句 | 作feel的宾语 | （省略 that） | 前面feel缺感受内容，后面you don't value their opinions主谓宾完整；省略that，整块说明同事的感受 | 主语:you | 谓语:don't value | 宾语:their opinions
+gist 急着表达会让同事有不被重视的感觉
+mod to get your own ideas out there → rushing | 不定式补足 | 急着把想法表达出去
+
+# special-2020-newtype|3:4
+type 祈使句｜不定式表目的，rather than动名词对比
+chunks Do your best〔主〕 to engage coworkers in a genuine, back-and-forth conversation, rather than prioritizing your own thoughts.〔修〕
+main 谓语:Do | 宾语:your best
+gist 尽力与同事真正交流
+mod to engage coworkers in a genuine, back-and-forth conversation → Do | 不定式目的 | 与同事展开真诚的双向谈话
+mod rather than prioritizing your own thoughts → engage | 对比补充 | 而不是优先自己的想法
+
+# special-2020-newtype|4:0
+type 简单句｜it形式主语
+chunks It's common〔主〕 to have a "cubicle mate" or special confidant in a work setting.〔修〕
+main 形式主语＋谓语:It's | 表语:common | 真正主语:to have a "cubicle mate" or special confidant
+gist 有亲近同事很常见
+mod in a work setting → have | 情境状语 | 在工作场合
+
+# special-2020-newtype|4:1
+type 简单句｜共用should的并列谓语
+chunks But in addition to those trusted coworkers,〔修〕 you should expand your horizons〔主〕 and〔连〕 find out〔主〕 about all the people around you.〔修〕
+main 主语:you | 谓语:should expand | 宾语:your horizons || &and || 谓语:find out
+ gist 你应拓展交往并了解他人
+mod in addition to those trusted coworkers → 整句 | 添加范围 | 除了已经信赖的同事
+mod about all the people around you → find out | 了解对象 | 身边的所有人
+
+# special-2020-newtype|4:2
+type 祈使复合句｜零关系词定语
+chunks Use your lunch and coffee breaks〔主〕 to meet up with colleagues〔修〕 you don't always see.〔C1〕
+main 谓语:Use | 宾语:your lunch and coffee breaks
+gist 利用休息时间见同事
+C1 定语从句 | 修饰colleagues | （省略 that） | 前面是colleagues，后面you don't always see缺宾语；省略关系词代指不常见的同事 | 主语:you | 谓语:don't … see
+mod to meet up with colleagues → Use | 不定式目的 | 用休息时间约见同事
+mod always → see | 频率副词 | not always表示并非总能见到
+
+# special-2020-newtype|4:3
+type 祈使句｜find out about介词补足
+chunks Find out〔主〕 about their lives and interests beyond the job.〔修〕
+main 谓语:Find out
+gist 了解同事的生活兴趣
+mod about their lives and interests beyond the job → Find out | 介词补足 | 工作之外的生活与兴趣，beyond the job限定它们
+
+# special-2020-newtype|4:4
+type 简单句｜一个主语两个并列谓语
+chunks It requires minimal effort〔主〕 and〔连〕 goes a long way.〔主〕
+main 主语:It | 谓语:requires | 宾语:minimal effort || &and || 谓语:goes
+ gist 这只需少量努力，却作用很大
+mod a long way → goes | 程度习语补足 | 能产生很大帮助，不是实际路程
+
+# special-2020-newtype|4:5
+type 简单句｜help后不定式补足，介词后动名词
+chunks This will help〔主〕 to grow your internal network, in addition to being a nice break in the work day.〔修〕
+main 主语:This | 谓语:will help
+gist 这会有所帮助
+mod to grow your internal network → help | 不定式补足 | 有助拓展内部人脉
+mod in addition to being a nice break in the work day → 整句 | 添加补充 | 还让工作日有愉快休息
+
+# special-2020-newtype|5:0
+type 简单句｜主语与不定式宾语语义关联
+chunks Positive feedback is important〔主〕 for anyone to hear.〔修〕
+main 主语:Positive feedback | 谓语:is | 表语:important
+gist 积极反馈很重要
+mod for anyone to hear → important | 不定式补足及逻辑主语 | 对任何人来说听见积极反馈都重要；feedback是hear的语义宾语
+
+# special-2020-newtype|5:1
+type 主从复合句｜to tell目的内部省略that宾语
+chunks And〔连〕 you don't have to be someone's boss〔主〕 to tell them〔修〕 they did an exceptional job〔C1〕 on a particular project.〔C1修〕
+main 主语:you | 谓语:don't have to be | 表语:someone's boss
+C1 宾语从句 | 作tell的内容宾语 | （省略 that） | 前面tell them有接受者但缺内容，后面they did an exceptional job主谓宾完整；省略that，整块作宾语 | 主语:they | 谓语:did | 宾语:an exceptional job
+gist 你不必是上司也可以称赞别人
+mod to tell them → don't have to be | 不定式目的条件 | 要告诉对方表现很好，不必先是他的老板
+mod on a particular project → job | 介词定语 | 在某个项目上的表现
+
+# special-2020-newtype|5:2
+type 简单句｜help后裸不定式
+chunks This will help〔主〕 engender good will in others.〔修〕
+main 主语:This | 谓语:will help
+gist 这有助产生好感
+mod engender good will in others → help | 不定式补足 | help后省略to，表示使别人产生善意
+
+# special-2020-newtype|5:3
+type 否定祈使句｜or并列两个谓语
+chunks But〔连〕 don't overdo it〔主〕 or〔连〕 be fake〔主〕 about it.〔修〕
+main 谓语:don't overdo | 宾语:it || &or || 谓语:be | 表语:fake
+gist 不要过度，也不要虚假
+mod about it → fake | 介词补足 | 在称赞这件事上虚假
+point be共用前面的don't否定，不能读成要求对方变虚假。
+
+# special-2020-newtype|5:4
+type 主从复合句｜that宾语与定语，because内省略that宾语
+chunks One study found〔主〕 that people responded best to comments〔C1〕 that shifted from negative to positive,〔C2〕 possibly because it suggested〔C3〕 they had won somebody over.〔C4〕
+main 主语:One study | 谓语:found | 宾语:C1
+C1 宾语从句 | 作found的宾语 | that | 前面found缺研究内容，that后people responded主谓完整；that只连接 | 主语:people | 谓语:responded
+C2 定语从句 in C1 | 修饰comments | that | 前面是comments，后面shifted from negative to positive缺主语；that代指评论作主语 | 主语:that | 谓语:shifted
+C3 原因状语从句 in C1 | 解释人们为何回应最好 | because | because后it suggested有主语谓语及内容，整块给responded best的原因，不是comments的定语 | 主语:it | 谓语:suggested | 宾语:C4
+C4 宾语从句 in C3 | 作suggested的宾语 | （省略 that） | 前面suggested缺暗示内容，后面they had won somebody over主谓宾完整；省略that，整块作宾语 | 主语:they | 谓语:had won … over | 宾语:somebody
+gist 研究发现人们对由负到正的评论反应最好
+mod best → responded | 程度副词 | 回应最好
+mod to comments → responded | 回应对象 | 对评论的回应
+mod possibly → C3 | 可能性限定 | 对原因的解释是推测
+
+# special-2020-newtype|6:0
+type 并列句｜不定式补足与介词to后动名词
+chunks This one may be a bit more difficult〔主〕 to pull off,〔修〕 but〔连〕 it can go a long way〔主〕 to achieving results.〔修〕
+main 主语:This one | 谓语:may be | 表语:difficult || &but || 主语:it | 谓语:can go
+gist 这一条较难，却有很大帮助
+mod a bit more → difficult | 程度副词 | 稍微更难
+mod to pull off → difficult | 不定式补足 | 要做到这一点更难
+mod a long way to achieving results → go | 程度及方向补足 | 大大帮助达到成果；to在此是介词，后接achieving
+
+# special-2020-newtype|6:1
+type 祈使复合句｜what宾语，介词动名词插入
+chunks Remember〔主〕 in dealing with any coworker〔修〕 what they appreciate〔C1〕 from an interaction.〔C1修〕
+main 谓语:Remember | 宾语:C1
+C1 宾语从句 | 作Remember的宾语 | what | 前面Remember缺所记内容，what后they appreciate缺宾语；what兼有连接与宾语作用，指对方重视的东西 | 主语:they | 谓语:appreciate | 宾语:what
+gist 记住对方看重什么
+mod in dealing with any coworker → Remember | 情境状语 | 与任何同事打交道时
+mod from an interaction → appreciate | 来源补足 | 从一次互动中得到的内容
+
+# special-2020-newtype|6:2
+type 祈使复合句｜how宾语从句
+chunks Watch out〔主〕 for〔修〕 how they verbalize〔C1〕 with others.〔C1修〕
+main 谓语:Watch out
+C1 宾语从句 | 作for的宾语 | how | 前面介词for需留意对象，how后they verbalize主谓完整；how作方式状语，整块作介词宾语 | 主语:they | 谓语:verbalize
+gist 留意对方怎样说话
+mod with others → verbalize | 对象补足 | 与其他人交谈
+
+# special-2020-newtype|6:3
+type 并列复合句｜while对比，before动名词
+chunks Some people like small talk〔主〕 in a meeting before digging into important matters,〔修〕 while others are more straightforward.〔C1〕
+main 主语:Some people | 谓语:like | 宾语:small talk
+C1 让步对比状语从句 | 对照另一类人的沟通偏好 | while | while后others are more straightforward主系表完整；while表示而，不表示两种行为同时发生 | 主语:others | 谓语:are | 表语:more straightforward
+gist 有人喜欢寒暄，另一些人更直接
+mod in a meeting before digging into important matters → small talk | 场合与时间补充 | 开会进入要事之前闲聊，digging在before后
+
+# special-2020-newtype|6:4
+type 主从复合句｜that定语
+chunks Jokes〔主〕 that work〔C1〕 on one person〔C1修〕 won't necessarily land〔主〕 with another.〔修〕
+main 主语:Jokes | 谓语:won't … land
+C1 定语从句 | 修饰Jokes | that | 前面是Jokes，后面work缺主语；that代指笑话作主语，整块限定对某人奏效的笑话 | 主语:that | 谓语:work
+gist 这种笑话未必对别人也有效
+mod on one person → work | 适用对象 | 对一个人奏效
+mod necessarily → land | 可能性限定 | 不一定奏效
+mod with another → land | 对象补足 | 对另一个人
+
+# special-2020-newtype|6:5
+type 祈使句｜方式副词
+chunks So,〔修〕 adapt your style〔主〕 accordingly to type.〔修〕
+main 谓语:adapt | 宾语:your style
+gist 调整交谈风格
+mod accordingly to type → adapt | 对象依据 | 按对方类型相应调整，保留原题搭配
+
+# special-2020-newtype|6:6
+type 祈使复合句｜名词与what从句并列作宾语
+chunks Consider the person〔主〕 that you're dealing with〔C1〕 in advance〔修〕 and〔连〕 what will get you〔C2〕 to your desired outcome.〔C2修〕
+main 谓语:Consider | 宾语:the person | 宾语:C2
+C1 定语从句 | 修饰person | that | 前面是person，后面you're dealing with缺with的宾语；that代指交往的人 | 主语＋谓语:you're dealing
+C2 宾语从句 | 与the person并列作Consider宾语 | what | 前面Consider继续要求考虑对象，what后will get you缺主语；what兼有连接与主语作用 | 主语:what | 谓语:will get | 宾语:you | 宾补:to your desired outcome
+gist 考虑交谈对象和能达到目标的方法
+mod in advance → Consider | 时间状语 | 预先考虑
+
+# special-2020-translation|0:0
+type 简单句｜it形式主语
+chunks It's almost impossible〔主〕 to go through life without experiencing some kind of failure.〔修〕
+main 形式主语＋谓语:It's | 表语:impossible | 真正主语:to go through life
+gist 不经历失败度过一生几乎不可能
+mod without experiencing some kind of failure → go through | 伴随条件 | 一生完全不经历任何失败
+mod almost → impossible | 程度副词 | 几乎不可能
+
+# special-2020-translation|0:1
+type 主从复合句｜that表语内it形式主语，how不定式宾语
+chunks But,〔修〕 the wonderful thing〔主〕 about failure〔修〕 is〔主〕 that it's entirely up to us〔C1〕 to decide〔C1修〕 how to look at it.〔C1修〕
+main 主语:the wonderful thing | 谓语:is | 表语:C1
+C1 表语从句 | 说明失败的可贵之处 | that | 前面is缺表语，that后it's up to us加不定式结构完整；that不作成分，整块作表语 | 形式主语＋谓语:it's | 表语:up to us | 真正主语:to decide
+gist 失败的可贵在于看法由自己决定
+mod about failure → thing | 介词定语 | 关于失败的可贵之处
+mod entirely → up to us | 程度限定 | 完全由我们决定
+point how to look at it不是完整限定从句，不把to look标成有独立时态的谓语。
+mod how to look at it → decide | 宾语（疑问词＋不定式） | 决定如何看待失败；how to look没有时态，不是宾语从句。
+
+# special-2020-translation|0:2
+type 简单句｜choose后不定式，see A as B
+chunks We can choose〔主〕 to see failure as "the end of the world".〔修〕
+main 主语:We | 谓语:can choose | 宾语:to see failure
+ gist 我们可以选择如何看待失败
+mod as "the end of the world" → see | 宾语认定补足 | 把失败看作世界末日
+
+# special-2020-translation|0:3
+type 主从复合句｜that定语从句，关系词作表语
+chunks Or,〔修〕 we can look〔主〕 at failure as the incredible learning experience〔修〕 that it often is.〔C1〕
+main 主语:we | 谓语:can look
+C1 定语从句 | 修饰experience | that | 前面是experience，后面it often is缺表语；that代指失败本来就是的经历，作is的表语 | 主语:it | 谓语:is | 表语:that
+gist 我们也可以这样看待失败
+mod at failure as the incredible learning experience → look | 对象与认定补足 | 将失败看作难得的学习经历
+mod often → is | 频率副词 | 失败往往确实如此
+
+# special-2020-translation|0:4
+type 主从复合句｜every time时间，零关系词定语
+chunks Every time we fail at something,〔C1〕 we can choose〔主〕 to look for the lesson〔修〕 we're meant to learn.〔C2〕
+main 主语:we | 谓语:can choose | 宾语:to look
+C1 时间状语从句 | 表示每次失败时 | Every time | Every time后we fail主谓完整，整个时间名词短语带从句用作时间连接；不是主句宾语 | 主语:we | 谓语:fail
+C2 定语从句 | 修饰lesson | （省略 that） | 前面是lesson，后面we're meant to learn缺learn的宾语；省略关系词代指应学习的教训 | 主语＋谓语:we're meant | 主语补足语:to learn
+gist 每次失败都能选择找出教训
+mod for the lesson → look | 寻找对象 | 寻找失败中的教训
+mod at something → fail | 方面补足 | 在某件事上失败
+
+# special-2020-translation|0:5
+type 多分句条目｜两个how表语从句
+chunks These lessons are very important;〔主〕 they're〔主〕 how we grow,〔C1〕 and〔连〕 how we keep〔C2〕 from making that same mistake again.〔C2修〕
+main 主语:These lessons | 谓语:are | 表语:important || 主语＋谓语:they're | 表语:C1 | 表语:C2
+C1 表语从句 | 说明教训是成长的方式 | how | 前面they're缺表语，how后we grow主谓完整；how作方式状语，整块作表语 | 主语:we | 谓语:grow
+C2 表语从句 | 与第一项并列说明避免重犯的方式 | how | and后继续接how方式内容，we keep主谓完整；how表示方法，不是主语，整块同作表语 | 主语:we | 谓语:keep
+gist 教训重要，它们是成长和避免重犯的方式
+mod very → important | 程度副词 | 很重要
+mod from making that same mistake again → keep | 介词补足 | 避免再犯同样错误，making为动名词
+
+# special-2020-translation|0:6
+type 主从复合句｜only if条件，let后省略重复动作
+chunks Failures stop us〔主〕 only if we let them.〔C1〕
+main 主语:Failures | 谓语:stop | 宾语:us
+C1 条件状语从句 | only if表示必要条件 | if | if后we let them省略stop us这一动作补足，only if限定只有任由它们阻挡时才会停止；不是宾语从句 | 主语:we | 谓语:let | 宾语:them
+gist 失败只有在我们放任时才阻挡我们
+point them指Failures，省略的stop us不添加进原文词序。
+
+# special-2020-translation|0:7
+type 主从复合句｜teach双宾语，that定语
+chunks Failure can also teach us things〔主〕 about ourselves〔修〕 that we would never have learned otherwise.〔C1〕
+main 主语:Failure | 谓语:can … teach | 间接宾语:us | 直接宾语:things
+C1 定语从句 | 修饰things，不是ourselves | that | 前面中心名词things，后面we would never have learned缺宾语；that代指有关自己的知识作learned宾语 | 主语:we | 谓语:would … have learned | 宾语:that
+gist 失败还会教给我们有关自己的事
+mod also → teach | 添加副词 | 还有这种作用
+mod about ourselves → things | 介词定语 | 关于自己的事
+mod otherwise → learned | 反事实条件 | 否则本来不会学到
+mod never → have learned | 否定副词 | 在反事实情况下绝不会学到
+
+# special-2020-translation|0:8
+type 主从复合句｜help复合宾语，how宾语从句
+chunks For instance,〔修〕 failure can help you discover〔主〕 how strong a person you are.〔C1〕
+main 主语:failure | 谓语:can help | 宾语:you | 宾补:discover
+C1 宾语从句 | 作discover的宾语 | how | 前面discover缺发现内容，how strong a person前置，后面you are保持陈述语序；整块表示你有多坚强 | 主语:you | 谓语:are | 表语:strong a person
+gist 失败帮助你发现自己的坚强
+point how修饰strong，a person属于被评价的表语名词短语，不是外层discover的主语。
+
+# special-2020-translation|0:9
+type 简单句｜动名词主语，or并列两个help结构
+chunks Failing〔主〕 at something〔修〕 can help you discover your truest friends,〔主〕 or〔连〕 help you find unexpected motivation〔主〕 to succeed.〔修〕
+main 主语:Failing | 谓语:can help … help | 宾语:you … you | 宾补:discover your truest friends … find unexpected motivation
+gist 失败可助你认清朋友，或找到意外动力
+mod at something → Failing | 方面补足 | 在某件事上失败
+mod to succeed → motivation | 不定式定语 | 为成功而努力的动力
+point 两个help结构各有you和不带to的动作补足；并列定位完整保留两次help与you，不把第二个you指回第一处。

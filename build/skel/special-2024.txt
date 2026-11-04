@@ -1,0 +1,438 @@
+# special-2024-cloze|0:0
+type 主从复合句｜被动定义、定语与时间
+chunks Your social life is defined〔主〕 as the ‘activities〔修〕 you do with other people, for pleasure,〔C1〕 when you are not working’.〔C2〕
+main 主语:Your social life | 谓语:is defined
+C1 定语从句 | 修饰activities | （省略 that） | activities后you do缺宾语，关系词指活动 | 主语:you | 谓语:do
+C2 状语从句（时间） in C1 | 限定活动时间 | when | when后you are not working完整，说明活动发生时 | 主语:you | 谓语:are not working
+mod as the ‘activities you do with other people, for pleasure, when you are not working’ → defined | 定义补充 | 定义为非工作时与他人愉快进行的活动。
+mod with other people, for pleasure → do | 对象与目的 | 与他人一起，为了愉快。
+gist 社交生活被这样定义。
+cn 社交生活被定义为“不工作时，为了愉快而与他人一起进行的活动”。
+
+# special-2024-cloze|0:1
+type 并列复合句｜形式主语与what主语
+chunks It is important〔主〕 to have a social life,〔修〕 but〔连〕 what is right for one person〔C1〕 won't be right for another.〔主〕
+main 形式主语:It | 谓语:is | 表语:important | 真正主语:to have a social life || &but || 主语:C1 | 谓语:won't be | 表语:right
+C1 主语从句 | 作won't be的主语 | what | what块在won't be前；is right缺主语，what代适合的社交方式 | 主语:what | 谓语:is | 表语:right
+mod for one person → right | 适用对象 | 对某一个人合适。
+mod for another → right | 适用对象 | 对另一个人。
+gist 有社交很重要，但适合一人的未必适合另一人。
+cn 社交生活很重要，但适合一个人的方式未必适合另一个人。
+
+# special-2024-cloze|0:2
+type 主从复合句｜whereas对照及even if让步
+chunks Some〔主〕 of us〔修〕 feel energised〔主〕 by spending lots of time with others,〔修〕 【whereas】 some of us may feel drained,〔C1〕 even if it's doing something〔C2〕 we enjoy.〔C3〕
+main 主语:Some | 谓语:feel | 表语:energised
+C1 状语从句（对照） | 对照另一些人 | 【whereas】 | whereas后some may feel drained完整，对照前面感到充电 | 主语:some | 谓语:may feel | 表语:drained
+C2 状语从句（让步） in C1 | 即使做喜欢的活动 | even if | even if后it's doing something完整，退一步说明也会疲惫 | 主语＋谓语:it's doing | 宾语:something
+C3 定语从句 in C2 | 修饰something | （省略 that） | something后we enjoy缺宾语，关系词省略 | 主语:we | 谓语:enjoy
+mod by spending lots of time with others → energised | 原因方式 | 与他人相处很久使人有精神。
+gist 有人感到充电，有人却感到疲惫。
+cn 有些人与他人相处很久会精神充沛，而另一些人即使做着自己喜欢的事，也可能感到精疲力竭。
+
+# special-2024-cloze|0:3
+type 主从复合句｜why表语
+chunks This is〔主〕 why finding a 【balance】〔C1〕 in your social life〔C1修〕 is key.〔C1〕
+main 主语:This | 谓语:is | 表语:C1
+C1 表语从句 | 解释重要性的缘由 | why | is后缺表语；why后finding a balance is key主系表完整，why表示原因 | 主语:finding a 【balance】 | 谓语:is | 表语:key
+mod in your social life → balance | 范围定语 | 社交生活中的平衡。
+gist 这就是其中原因。
+cn 这就是为什么在社交生活中找到平衡至关重要。
+
+# special-2024-cloze|0:4
+type 简单句｜动名词主语与感官宾补
+chunks Spending too much time〔主〕 on your own, not 【Seeing】 others,〔修〕 can make you feel lonely and 【disconnected】 .〔主〕
+main 主语:Spending too much time | 谓语:can make | 宾语:you | 宾补:feel lonely and 【disconnected】
+mod on your own → Spending | 方式状语 | 独处。
+mod not 【Seeing】 others → Spending | 动名词补说 | 不与别人见面，解释独处状态。
+gist 独处太久会让你孤独疏离。
+cn 独处时间太多、不与他人见面，会让你感到孤独，与外界脱节。
+
+# special-2024-cloze|0:5
+type 简单句｜被动报道与不定式补足
+chunks Loneliness is known〔主〕 to impact on your mental health and 【contribute to】 a low mood.〔修〕
+main 主语:Loneliness | 谓语:is known | 主语补足语:to impact … 【contribute to】
+mod on your mental health → impact | 影响对象 | 影响心理健康。
+mod a low mood → contribute | 不定式内宾语补充 | contribute to后接情绪低落，表示促成它。
+gist 孤独被认为会产生影响。
+point impact和contribute共用to，属于不定式补足，不是新的时态谓语。
+cn 已知孤独会影响心理健康，并使人情绪低落。
+
+# special-2024-cloze|0:6
+type 简单句｜主系表
+chunks Anyone can feel lonely〔主〕 at any time.〔修〕
+main 主语:Anyone | 谓语:can feel | 表语:lonely
+mod at any time → feel | 时间状语 | 任何时候。
+gist 任何人都可能孤独。
+cn 任何人在任何时候都可能感到孤独。
+
+# special-2024-cloze|0:7
+type 主从复合句｜条件内嵌定语
+chunks This might be especially true〔主〕 if,〔C1〕 【for example】〔C1修〕 you are working from home and you are 【missing out】 on the usual social conversations〔C1〕 that happen in an office.〔C2〕
+main 主语:This | 谓语:might be | 表语:true
+C1 状语从句（条件） | 提出居家工作的情境 | if | if后you are working和you are missing out两套主谓完整，for example插入举例 | 主语:you | 谓语:are working | 主语:you#2 | 谓语:are 【missing out】
+C2 定语从句 in C1 | 修饰conversations | that | conversations后happen缺主语，that代交谈 | 主语:that | 谓语:happen
+mod from home → working | 地点方式 | 居家工作。
+mod on the usual social conversations that happen in an office → missing | 介词补充 | 错过办公室的日常社交聊天。
+gist 这一点可能尤其真实。
+cn 例如，居家工作、错过办公室日常社交聊天时，这种情况可能尤其明显。
+
+# special-2024-cloze|0:8
+type 简单句｜举例补充
+chunks Other life changes can 【trigger】 periods〔主〕 of loneliness too, such as retirement, changing jobs or becoming a parent.〔修〕
+main 主语:Other life changes | 谓语:can 【trigger】 | 宾语:periods
+mod of loneliness → periods | 介词定语 | 一段段孤独期。
+mod such as retirement, changing jobs or becoming a parent → changes | 举例说明 | 退休、换工作或成为父母。
+gist 其他生活变化也会引发孤独期。
+cn 退休、换工作或成为父母等其他生活变化，也可能引发一段孤独期。
+
+# special-2024-cloze|0:9
+type 简单句｜形式主语
+chunks It's important〔主〕 to recognize feelings of loneliness.〔修〕
+main 主语＋谓语:It's | 表语:important | 真正主语:to recognize feelings of loneliness
+gist 识别孤独感很重要。
+cn 认识到自己的孤独感很重要。
+
+# special-2024-cloze|0:10
+type 简单句｜存在句与不定式定语
+chunks There are ways〔主〕 to 【regain】 a social life.〔修〕
+main 谓语:are | 主语:ways
+mod to 【regain】 a social life → ways | 不定式定语 | 重建社交生活的方法。
+gist 有一些方法。
+cn 有办法重新建立社交生活。
+
+# special-2024-cloze|0:11
+type 简单句｜主系表
+chunks But〔连〕 it feels overwhelming〔主〕 【at first】 .〔修〕
+main 主语:it | 谓语:feels | 表语:overwhelming
+mod 【at first】 → feels | 时间状语 | 起初。
+gist 这让人感到不知所措。
+cn 但起初可能会觉得无从应对。
+
+# special-2024-cloze|0:12
+type 主从复合句｜形式主语与定语
+chunks It’s a great idea〔主〕 to start by thinking about hobbies〔修〕 you enjoy.〔C1〕
+main 主语＋谓语:It’s | 表语:a great idea | 真正主语:to start
+C1 定语从句 | 修饰hobbies | （省略 that） | hobbies后you enjoy缺宾语，关系词指爱好 | 主语:you | 谓语:enjoy
+mod by thinking about hobbies you enjoy → start | 方式状语 | 从思考喜欢的爱好开始。
+gist 这样开始是好主意。
+cn 不妨先想想自己喜欢哪些爱好。
+
+# special-2024-cloze|0:13
+type 主从复合句｜分词定语与where定语
+chunks You can then find groups and activities〔主〕 related to those〔修〕 where you will be able to meet 【like-minded】 people.〔C1〕
+main 主语:You | 谓语:can … find | 宾语:groups … activities
+C1 定语从句 | 修饰groups and activities | where | groups and activities提供场合；where后you will be able to meet完整，where作场合状语 | 主语:you | 谓语:will be | 表语:able to meet 【like-minded】 people
+mod related to those → groups | 分词定语 | 与这些爱好有关，同时限定activities。
+gist 你可找到团体和活动。
+cn 然后，你可以寻找相关的团体和活动，在那里结识志趣相投的人。
+
+# special-2024-cloze|0:14
+type 主从复合句｜存在句、分词及who定语
+chunks There are groups〔主〕 aimed at new parents, at those〔修〕 who want to 【try】 a new sport for the first time,〔C1〕 or〔连〕 networking events〔主〕 for those in the same profession to meet up and 【share】 ideas.〔修〕
+main 谓语:are | 主语:groups … networking events
+C1 定语从句 | 修饰those | who | those后want缺主语，who代想尝试者 | 主语:who | 谓语:want | 宾语:to 【try】 a new sport
+mod aimed at new parents, at those who want to 【try】 a new sport for the first time → groups | 分词定语 | 面向新父母或初次尝试运动者。
+mod for those in the same profession to meet up and 【share】 ideas → events | 用途定语 | 供同行聚会交流的社交活动。
+gist 有各种团体和社交活动。
+cn 有面向新父母、初次尝试某项运动者的团体，也有供同行见面交流想法的社交活动。
+
+# special-2024-cloze|0:15
+type 简单句｜形式主语
+chunks On the other hand,〔修〕 it’s 【also】 possible〔主〕 to have too much of a social life.〔修〕
+main 主语＋谓语:it’s | 表语:possible | 真正主语:to have too much of a social life
+mod On the other hand → 整句 | 转向另一面 | 社交也可能过多。
+gist 社交过多也有可能。
+cn 另一方面，社交生活也可能过于丰富。
+
+# special-2024-cloze|0:16
+type 主从复合句｜条件、like内容与存在句
+chunks If you feel〔C1〕 like you're always doing something〔C2〕 and〔连〕 there is never any 【space】 in your calendar for downtime,〔C3〕 you could suffer social burnout or social 【fatigue】 .〔主〕
+main 主语:you | 谓语:could suffer | 宾语:social burnout … social 【fatigue】
+C1 状语从句（条件） | 提出社交过量的感受 | If | If后you feel有感受内容，由like引出C2和C3 | 主语:you | 谓语:feel | 宾语:C2 | 宾语:C3
+C2 宾语从句 in C1 | 作feel like的感受内容 | like | feel like后you're doing something完整，like引入仿佛的内容 | 主语＋谓语:you're … doing | 宾语:something
+C3 宾语从句 in C1 | 与C2并列的感受内容 | like | and后there is space完整，第二情境承前共用like，而非省略that | 谓语:is | 主语:any 【space】
+mod in your calendar for downtime → space | 介词定语 | 日程表中供休息的空档。
+gist 你可能遭受社交倦怠或疲劳。
+cn 如果你觉得总在忙着做事，日程中从无休息空档，就可能出现社交倦怠或社交疲劳。
+
+# special-2024-cloze|0:17
+type 并列复合句｜形式主语、when宾语与like内容
+chunks We all have our own social limit〔主〕 and〔连〕 it's important〔主〕 to recognize〔修〕 when you're feeling〔C1〕 like it's all too much.〔C2〕
+main 主语:We | 谓语:have | 宾语:our own social limit || &and || 主语＋谓语:it's | 表语:important | 真正主语:to recognize
+C1 宾语从句 | 作recognize的宾语 | when | recognize后缺识别内容；when后you're feeling加like内容完整，when说明何时 | 主语＋谓语:you're feeling | 宾语:C2
+C2 宾语从句 in C1 | 作feel like的内容 | like | like后it's all too much主系表完整，说明感受 | 主语＋谓语:it's | 表语:too much
+point 从句里的it's需按其所在C2理解，不与主句形式主语it's混淆。
+gist 我们有社交限度，识别过量感很重要。
+cn 我们都有自己的社交限度；察觉自己何时开始觉得一切太多了，非常重要。
+
+# special-2024-cloze|0:18
+type 简单句｜并列主语与A of B
+chunks Low mood, low energy, irritability and trouble sleeping could all be 【signs】〔主〕 of poor social health.〔修〕
+main 主语:Low mood … low energy … irritability … trouble sleeping | 谓语:could … be | 表语:【signs】
+mod of poor social health → signs | 介词定语 | 社交健康不佳的迹象。
+gist 情绪低落等都可能是信号。
+cn 情绪低落、精力不足、易怒和睡眠困难，都可能是社交健康不佳的迹象。
+
+# special-2024-cloze|0:19
+type 主从复合句｜宾语、定语及并列祈使
+chunks Make sure〔主〕 you 【mark out】 some time〔C1〕 in your diary〔C1修〕 when you're 【unavailable】 for socialising〔C2〕 and〔连〕 use this time〔主〕 to relax, 【rest】 and recover.〔修〕
+main 谓语:Make sure | 宾语:C1 || &and || 谓语:use | 宾语:this time
+C1 宾语从句 | 表示确保的内容 | （省略 that） | Make sure后you mark out另起完整主谓，省略that | 主语:you | 谓语:【mark out】 | 宾语:some time
+C2 定语从句 in C1 | 修饰time | when | time后you're unavailable主系表完整，when作时间状语 | 主语＋谓语:you're | 表语:【unavailable】
+mod in your diary → mark out | 地点状语 | 在日程中划出。
+mod for socialising → unavailable | 介词补充 | 不安排社交。
+mod to relax, 【rest】 and recover → use | 目的状语 | 用于放松、休息、恢复。
+gist 确保留出时间，并利用这段时间。
+cn 确保在日程中划出不参加社交的时间，用来放松、休息和恢复精力。
+
+# special-2024-newtype|0:0
+type 简单句｜形容词定语与分词目的
+chunks High school students〔主〕 eager to stand out in the college application process〔修〕 often participate〔主〕 in a litany of extracurricular activities hoping to bolster their chances of admission to a selective undergraduate institution.〔修〕
+main 主语:High school students | 谓语:participate
+mod eager to stand out in the college application process → students | 形容词定语 | 希望在大学申请中脱颖而出的学生。
+mod in a litany of extracurricular activities → participate | 参与对象 | 参与大量课外活动。
+mod hoping to bolster their chances of admission to a selective undergraduate institution → participate | 分词状语 | 希望提高进入选拔严格院校的机会。
+gist 高中生常参与课外活动。
+cn 希望在大学申请中脱颖而出的高中生，常参加许多课外活动，期待增加被选拔严格的本科院校录取的机会。
+
+# special-2024-newtype|0:1
+type 主从复合句｜宾语与省略关系词
+chunks However,〔修〕 college admissions experts say〔主〕 that the quality〔C1〕 of a college hopeful's extracurricular activities〔C1修〕 matter more than the number〔C1〕 of activities〔C1修〕 he or she participates in.〔C2〕
+main 主语:college admissions experts | 谓语:say | 宾语:C1
+C1 宾语从句 | 作say的宾语 | that | say后缺内容；that后quality matter成主谓，原文一致关系有误但可辨结构 | 主语:the quality | 谓语:matter
+C2 定语从句 in C1 | 修饰activities | （省略 that） | activities后he or she participates in缺介词宾语，关系词省略 | 主语:he … she | 谓语:participates
+mod of a college hopeful's extracurricular activities → quality | 介词定语 | 申请者课外活动的质量。
+mod more than the number of activities he or she participates in → matter | 比较补充 | 比参与活动的数量更重要。
+gist 专家说，质量更重要。
+point quality单数，原数据却写matter，保留并列来源问题，不把activities当从句主语。
+cn 不过，大学招生专家表示，申请者课外活动的质量，比所参加活动的数量更重要。
+
+# special-2024-newtype|0:2
+type 跨条目名词片段｜人名与未完身份说明
+chunks Sue Rexford, the director of college guidance at the Charles.〔修〕
+main
+gist 苏·雷克斯福德及其任职身份。
+point 原数据在校名Charles.处断开，谓语says在下一条；本条不是完整句，不凭空补谓语。
+cn 苏·雷克斯福德，查尔斯……学校的大学升学指导主任（校名和句子续下条）。
+
+# special-2024-newtype|0:3
+type 跨条目续句｜主句主语位于上一条与形式主语宾语
+chunks E. Smith Jewish Day School ,〔修〕 says〔主〕 it is not necessary〔C1〕 for a student filling out the Common Application〔C1修〕 to list 10 activities in the application.〔C1〕
+main 谓语:says | 宾语:C1
+C1 宾语从句 | 作says的宾语 | （省略 that） | says后it is not necessary另起完整主系表，省略that；it为形式主语 | 形式主语:it | 谓语:is | 表语:not necessary | 真正主语:to list 10 activities
+mod for a student filling out the Common Application → necessary | 不定式逻辑主语 | 填写通用申请表的学生。
+mod in the application → list | 地点范围 | 在申请表中。
+gist 她说列十项活动并非必要。
+point 句首E. Smith...续上条Charles校名；says主语Sue Rexford在上一条，原编号保留。
+cn ……E.史密斯犹太日校的主任说，填写通用申请表的学生不必在申请中列出十项活动。
+
+# special-2024-newtype|0:4
+type 引语复合句｜宾语内嵌定语
+chunks “No” college will expect〔主〕 that a student has a huge laundry list〔C1〕 of extracurricular〔C1修〕 that they have been passionately involved in each for an tended period of time,〔C2〕 " Rexford wrote in an email.〔主〕
+main 主语:“No” college | 谓语:will expect | 宾语:C1 || & || 主语:Rexford | 谓语:wrote
+C1 宾语从句 | 作expect的宾语 | that | expect后缺期望内容；that后a student has a list主谓宾完整 | 主语:a student | 谓语:has | 宾语:a huge laundry list
+C2 定语从句 in C1 | 修饰所列课外活动 | that | extracurricular处原数据疑有缺词；后面in each存在疑损，无法可靠核定缺位；只按语义把that理解为回指活动，不作为规范定语从句判例 | 主语:they | 谓语:have been … involved
+mod in an email → wrote | 方式状语 | 在邮件中写道。
+gist 学校不会有这种期待，雷克斯福德写道。
+point 两份本地PDF在extracurricular后都未给出activities，并均印有in each和an tended；尚无法核定应补哪些词。此条只讲可辨认的外层expect及has，不把后半段当规范定语从句例句。
+cn 雷克斯福德在邮件中写道，没有大学会期望学生列出一大串长期热情投入的课外活动。（原数据末段有转录疑点。）
+
+# special-2024-newtype|0:5
+type 主从复合句｜宾语中比较与定语
+chunks Experts say〔主〕 it is tougher〔C1〕 to distinguish oneself in a school-affiliated extracurricular activity〔C1修〕 that is common among high school students〔C2〕 than it is to stand out〔C3〕 while doing an uncommon activity.〔C4〕
+main 主语:Experts | 谓语:say | 宾语:C1
+C1 宾语从句 | 作say的宾语 | （省略 that） | say后it is tougher主系表完整，省略that；it为形式主语 | 形式主语:it | 谓语:is | 表语:tougher | 真正主语:to distinguish oneself
+C2 定语从句 in C1 | 修饰activity | that | activity后is common缺主语，that代活动 | 主语:that | 谓语:is | 表语:common
+C3 状语从句（比较） in C1 | 比较两种脱颖而出的难度 | than | tougher引出比较；than后it is结构完整，to stand out是真正主语 | 形式主语:it | 谓语:is | 真正主语:to stand out
+C4 状语从句（时间，省略） in C3 | 说明做不常见活动时 | while | while doing省略one is，doing无独立时态 | 
+mod among high school students → common | 范围状语 | 在高中生中常见。
+gist 专家说，参加常见活动更难出彩。
+cn 专家说，与参加不常见的活动相比，在高中生普遍参与的校内课外活动中脱颖而出更难。
+
+# special-2024-newtype|0:6
+type 多分句引语｜条件与插入语
+chunks The competition〔主〕 to stand out and make an impact〔修〕 is going to be much stiffer,〔主〕 and so〔连〕 if they're going to do a popular activity,〔C1〕 I'd say,〔修〕 be the best〔主〕 at it."〔修〕 says Sara Harherson,〔主〕 a college admission consultant.〔修〕
+main 主语:The competition | 谓语:is going to be | 表语:stiffer || & || 谓语:be | 表语:the best || & || 主语:Sara Harherson | 谓语:says
+C1 状语从句（条件） | 提出参加热门活动的条件 | if | if后they're going to do及宾语完整，给出建议的条件 | 主语＋谓语:they're going to do | 宾语:a popular activity
+mod to stand out and make an impact → competition | 不定式定语 | 为脱颖而出并产生影响而竞争。
+mod I'd say → be | 插入语 | 表示我建议。
+mod a college admission consultant → Harherson | 同位说明 | 大学招生顾问。
+gist 竞争更激烈，因此要做到最好，顾问说。
+cn 大学招生顾问萨拉·哈赫森说，想脱颖而出并产生影响，竞争会激烈得多；所以，如果要参加热门活动，她建议做到最好。
+
+# special-2024-newtype|0:7
+type 主从复合引语｜两层定语与后置评注
+chunks High school students〔主〕 who have an impressive personal project〔C1〕 they are working on independently〔C2〕 often impress colleges, experts say.〔主〕
+main 主语:High school students | 谓语:impress | 宾语:colleges || & || 主语:experts | 谓语:say
+C1 定语从句 | 修饰students | who | students后have缺主语，who代学生 | 主语:who | 谓语:have | 宾语:an impressive personal project
+C2 定语从句 in C1 | 修饰project | （省略 that） | project后they are working on缺on宾语，关系词省略 | 主语:they | 谓语:are working
+mod independently → working | 方式状语 | 独立开展项目。
+gist 高中生给大学留下印象，专家说。
+cn 专家说，拥有出色个人项目、并独立开展项目的高中生，常能给大学留下深刻印象。
+
+# special-2024-newtype|0:8
+type 简单引语句｜by动名词方式
+chunks "For example,〔修〕 a student〔主〕 with an interest in entrepreneurship〔修〕 could demonstrate skills and potential〔主〕 by starting a profitable small business."〔修〕
+main 主语:a student | 谓语:could demonstrate | 宾语:skills … potential
+mod with an interest in entrepreneurship → student | 介词定语 | 对创业有兴趣的学生。
+mod by starting a profitable small business → demonstrate | 方式状语 | 通过创办盈利小企业。
+gist 学生可展示技能和潜力。
+cn “例如，对创业感兴趣的学生，可以通过创办一家盈利的小企业，展示自己的技能和潜力。”
+
+# special-2024-newtype|0:9
+type 简单句｜承接上条引语
+chunks Olivia Valdes,〔主〕 the founder of Zen Admissions consulting firm,〔修〕 wrote〔主〕 in an email.〔修〕
+main 主语:Olivia Valdes | 谓语:wrote
+mod the founder of Zen Admissions consulting firm → Valdes | 同位说明 | Zen Admissions咨询公司创始人。
+mod in an email → wrote | 方式状语 | 在邮件中写下前条引语。
+gist 瓦尔德斯写道。
+cn Zen Admissions咨询公司的创始人奥利维娅·瓦尔德斯在一封邮件中写道。
+
+# special-2024-newtype|0:10
+type 主从复合引语｜宾语与条件
+chunks Joseph Adegboyega-Edun,〔主〕 a Maryland High school guidance counselor,〔修〕 says〔主〕 unconventional, extracurricular activities can help students, impress college admissions offices,〔C1〕 assuming they demonstrated, serious commitment."〔C2〕
+main 主语:Joseph Adegboyega-Edun | 谓语:says | 宾语:C1
+C1 宾语从句 | 作says的宾语 | （省略 that） | says后activities can help主谓完整，省略that | 主语:unconventional, extracurricular activities | 谓语:can help | 宾语:students | 宾补:impress college admissions offices
+C2 状语从句（条件） in C1 | 以认真投入为条件 | assuming | assuming为条件连接词；后面they demonstrated serious commitment本可构成完整主谓宾 | 主语:they | 谓语:demonstrated, | 宾语:serious commitment
+mod a Maryland High school guidance counselor → Adegboyega-Edun | 同位说明 | 马里兰州高中升学指导顾问。
+gist 顾问说，特别的活动可帮助学生留下印象。
+cn 马里兰州高中升学指导顾问阿德博耶加-埃登说，只要学生表现出认真投入，不同寻常的课外活动就能帮助他们给大学招生部门留下深刻印象。
+
+point assuming引出认真投入的条件；help后的impress是不带to的宾补，不是新的主句。
+
+# special-2024-newtype|0:11
+type 主从复合引语｜since原因、定语与嵌入疑问引语
+chunks Again,〔修〕 since one〔C1〕 of the big questions〔C1修〕 high school seniors must consider〔C2〕 is "What makes you unique?"〔C1〕 having an uncommon, extracurricular activity,〔主〕 a conventional one〔修〕 is an advantage," he wrote in an email.〔主〕
+main 主语:having an uncommon, extracurricular activity | 谓语:is | 表语:an advantage || & || 主语:he | 谓语:wrote
+C1 状语从句（原因） | 解释不常见活动的优势 | since | since后one is...构成主系表，one由of短语及定语限定 | 主语:one | 谓语:is | 表语:"What makes you unique?"
+C2 定语从句 in C1 | 修饰questions | （省略 that） | questions后high school seniors must consider应表达考虑问题，consider缺宾语 | 主语:high school seniors | 谓语:must consider
+mod in an email → wrote | 方式状语 | 在邮件中写道。
+gist 参加特别活动是一项优势，他写道。
+cn 他在邮件中写道，高中毕业生要思考的一个大问题是“你有什么独特之处？”，因此参加不常见的课外活动是一项优势。（原数据中间有缺损疑点。）
+
+mod "What makes you unique?" → is | 直接引语表语 | 问题的完整内容是“什么使你与众不同”；引语内部What作主语，makes为谓语，you为宾语，unique为宾补。
+point 引语后的a conventional one与前半句关系仍无法从两份本地PDF核定，这一段不作为规范比较结构范例；外层主语having an uncommon, extracurricular activity、谓语is、表语an advantage可辨。
+
+# special-2024-newtype|0:12
+type 主从复合句｜动名词主语的宾语从句
+chunks Experts say〔主〕 demonstrating talent〔C1〕 in at least one extracurricular activity〔C1修〕 can help〔C1〕 in the college admissions process, especially at top-tier undergraduate institutions.〔C1修〕
+main 主语:Experts | 谓语:say | 宾语:C1
+C1 宾语从句 | 作say的宾语 | （省略 that） | say后动名词demonstrating talent作主语，can help为谓语，省略that | 主语:demonstrating talent | 谓语:can help
+mod in at least one extracurricular activity → demonstrating | 范围状语 | 至少在一种课外活动中。
+mod in the college admissions process, especially at top-tier undergraduate institutions → help | 范围状语 | 有助于招生，尤其顶尖院校。
+gist 专家说，展示才华有帮助。
+cn 专家说，至少在一项课外活动中展示才华，有助于大学录取，尤其是顶尖本科院校的录取。
+
+# special-2024-newtype|0:13
+type 复合引语句｜动名词主语与where定语
+chunks “Distinguishing yourself〔主〕 in one focused type of extracurricular activity〔修〕 can be a positive〔主〕 in the admissions process, especially for highly selective institutions,〔修〕 where having top grades and test scores is not enough,”〔C1〕 Katie Kelley〔主〕 admissions counselor at Ivy Wise admissions consultancy,〔修〕 wrote〔主〕 in an email.〔修〕
+main 主语:Distinguishing yourself | 谓语:can be | 表语:a positive || & || 主语:Katie Kelley | 谓语:wrote
+C1 定语从句 | 修饰institutions | where | institutions为院校场合；where后having top grades and test scores is not enough主系表完整 | 主语:having top grades and test scores | 谓语:is | 表语:not enough
+mod in one focused type of extracurricular activity → Distinguishing | 范围状语 | 在某一类专注的活动中出色。
+mod admissions counselor at Ivy Wise admissions consultancy → Kelley | 同位说明 | 说明招生顾问身份。
+mod in an email → wrote | 方式状语 | 在邮件中写道。
+gist 表现突出是一项优势，凯利写道。
+cn Ivy Wise升学咨询公司的招生顾问凯蒂·凯利在邮件中写道：“在某一类课外活动中表现突出，是申请时的优势，尤其对于仅有优异成绩和考试分数还不够的高选拔性院校。”
+
+# special-2024-newtype|0:14
+type 主从复合句｜定语内嵌how宾语
+chunks “Students need to have that quality or hook〔主〕 that will appeal to admissions officers and allow them to visualize〔C1〕 how the student might come and enrich their campus community.”〔C2〕
+main 主语:Students | 谓语:need | 宾语:to have that quality or hook
+C1 定语从句 | 修饰quality or hook | that | quality or hook后will appeal缺主语，that代特质；allow与appeal共用will | 主语:that | 谓语:will appeal | 谓语:will … allow | 宾语:them | 宾补:to visualize
+C2 宾语从句 in C1 | 作visualize的宾语 | how | visualize后缺想象内容；how后student might come and enrich成分完整，表示方式 | 主语:the student | 谓语:might come | 谓语:might … enrich | 宾语:their campus community
+mod to admissions officers → appeal | 介词补充 | 对招生官有吸引力。
+gist 学生需要拥有这种特质。
+cn “学生需要具备能吸引招生官的特质或亮点，让他们想象这位学生将如何加入并丰富校园社区。”
+
+# special-2024-newtype|0:15
+type 引语句｜两层分词定语
+chunks Extracurricular activities〔主〕 related to the college major declared on a college application〔修〕 are beneficial, experts suggest.〔主〕
+main 主语:Extracurricular activities | 谓语:are | 表语:beneficial || & || 主语:experts | 谓语:suggest
+mod related to the college major declared on a college application → activities | 分词定语 | 与申请中所报专业相关的活动。
+mod declared on a college application → major | 分词定语 | 在大学申请中声明的专业。
+gist 这些课外活动有益，专家建议。
+cn 专家认为，与大学申请所报专业相关的课外活动是有益的。
+
+# special-2024-newtype|0:16
+type 复合引语句｜条件与定语
+chunks “If you already know your major,〔C1〕 having an extracurricular〔主〕 that fits into that major〔C2〕 can be a big plus," says Mayghin Levine,〔主〕 the manager of educational opportunities with The Cabbage Patch Settlement House, a Louisville, Kentucky, nonprofit community center.〔修〕
+main 主语:having an extracurricular | 谓语:can be | 表语:a big plus || & || 主语:Mayghin Levine | 谓语:says
+C1 状语从句（条件） | 已知专业的条件 | If | If后you know your major完整，给出选择活动的条件 | 主语:you | 谓语:know | 宾语:your major
+C2 定语从句 | 修饰extracurricular | that | extracurricular在此名词化指课外活动；that后fits缺主语，that代该活动 | 主语:that | 谓语:fits
+mod into that major → fits | 介词补充 | 与该专业相符。
+mod the manager of educational opportunities with The Cabbage Patch Settlement House, a Louisville, Kentucky, nonprofit community center → Levine | 同位说明 | 介绍任职机构及机构性质。
+gist 相关活动是加分项，莱文说。
+cn 肯塔基州路易斯维尔一家非营利社区中心的教育机会负责人梅金·莱文说：“如果已经知道所选专业，参加与之相关的课外活动会是很大的加分项。”
+
+# special-2024-newtype|0:17
+type 复合引语句｜两处定语与并列谓语
+chunks High school students〔主〕 who have had a strong positive influence〔C1〕 on their community through an extracurricular activity〔C1修〕 may impress a college and win a scholarship, says Erica Gwyn,〔主〕 a former math and science magnet program assistant at a public high school〔修〕 who is now executive director of the Kaleidoscope Careers Academy〔C2〕 in Atlanta, a nonprofit organization.〔C2修〕
+main 主语:High school students | 谓语:may impress … win | 宾语:a college … a scholarship || & || 主语:Erica Gwyn | 谓语:says
+C1 定语从句 | 修饰students | who | students后have had缺主语，who代高中生 | 主语:who | 谓语:have had | 宾语:a strong positive influence
+C2 定语从句 | 修饰Erica Gwyn | who | who代前述人Erica Gwyn，后is缺主语；不能因school就近就说学校是执行主任 | 主语:who | 谓语:is | 表语:executive director
+mod on their community through an extracurricular activity → influence | 对象与途径 | 通过课外活动对社区产生积极影响。
+mod a former math and science magnet program assistant at a public high school → Gwyn | 同位说明 | 过去的任职。
+mod in Atlanta, a nonprofit organization → Academy | 地点及同位补充 | 学院位于亚特兰大，是非营利组织。
+gist 学生可能获青睐和奖学金，格温说。
+cn 埃里卡·格温说，通过课外活动对社区产生强烈积极影响的高中生，可能打动大学并获得奖学金。她曾任公立高中数理特色项目助理，现任亚特兰大非营利机构Kaleidoscope Careers Academy的执行主任。
+
+# special-2024-translation|0:0
+type 简单句｜with复合背景
+chunks With the smell of coffee and fresh bread floating in the air, stalls bursting with colorful vegetables and tempting cheeses, and the buzz of friendly chats,〔修〕 farmers' markets are a feast〔主〕 for the senses.〔修〕
+main 主语:farmers' markets | 谓语:are | 表语:a feast
+mod With the smell of coffee and fresh bread floating in the air, stalls bursting with colorful vegetables and tempting cheeses, and the buzz of friendly chats → markets | 背景状语 | 咖啡面包香气、满载果蔬奶酪的摊位与友好聊天声共同构成市集氛围。
+mod for the senses → feast | 介词定语 | 感官盛宴。
+gist 农贸市场是一场盛宴。
+cn 空气中飘着咖啡和新鲜面包的香味，摊位摆满色彩鲜艳的蔬菜与诱人的奶酪，四周传来友好的交谈声，农贸市场是一场感官盛宴。
+
+# special-2024-translation|0:1
+type 简单句｜不定式中并列动作
+chunks They also provide an opportunity〔主〕 to talk to the people responsible for growing or raising your food, support your local economy and pick up fresh seasonal produce - all at the same time.〔修〕
+main 主语:They | 谓语:provide | 宾语:an opportunity
+mod to talk to the people responsible for growing or raising your food, support your local economy and pick up fresh seasonal produce → opportunity | 不定式定语 | 机会包括交谈、支持当地经济、购买时令农产品三项。
+mod responsible for growing or raising your food → people | 形容词定语 | 负责种植或饲养食物的人。
+mod all at the same time → provide | 时间补充 | 三件事同时做到。
+gist 市集还提供一个机会。
+point support和pick up与talk在不定式内部并列，不能越过opportunity误接为provide的主句并列谓语。
+cn 市集还让你有机会与负责种植或饲养食物的人交谈、支持当地经济、买到新鲜时令农产品，而且一举兼得。
+
+# special-2024-translation|0:2
+type 主从复合句｜which定语
+chunks Farmers' markets are usually weekly or monthly events,〔主〕 most often with outdoor stalls,〔修〕 which allow farmers or producers to sell their food directly to customers.〔C1〕
+main 主语:Farmers' markets | 谓语:are | 表语:weekly or monthly events
+C1 定语从句 | 补充说明markets/events | which | which后allow缺主语，指农贸市场这种活动，说明其提供直接交易机会 | 主语:which | 谓语:allow | 宾语:farmers … producers | 宾补:to sell their food
+mod most often with outdoor stalls → events | 伴随补充 | 通常设有户外摊位。
+mod directly to customers → sell | 方式及对象 | 直接出售给顾客。
+gist 市集是每周或每月的活动。
+cn 农贸市场通常每周或每月举办，多设户外摊位，让农民或生产者直接向顾客出售食品。
+
+# special-2024-translation|0:3
+type 并列句｜分词条件与likely补足
+chunks The size or regularity〔主〕 of markets〔修〕 can vary〔主〕 from season to season, depending on the area's agricultural calendar,〔修〕 and〔连〕 you're likely〔主〕 to find different produce on sale at different times of the year.〔修〕
+main 主语:The size … regularity | 谓语:can vary || &and || 主语＋谓语:you're | 表语:likely
+mod of markets → regularity | 介词定语 | 市集的规模或举办频率。
+mod from season to season → vary | 变化范围 | 随季节变化。
+mod depending on the area's agricultural calendar → vary | 条件补充 | 取决于当地农事安排。
+mod to find different produce on sale at different times of the year → likely | 不定式补充 | 不同时间可见不同农产品出售。
+gist 规模或频率会变，你可能看到不同农产品。
+cn 市集规模或举办频率会随季节而变，取决于当地农事安排；一年中的不同时间，你可能会发现不同的农产品在售。
+
+# special-2024-translation|0:4
+type 简单句｜by方式
+chunks By cutting out the middlemen,〔修〕 the farmers secure more profit〔主〕 for their produce.〔修〕
+main 主语:the farmers | 谓语:secure | 宾语:more profit
+mod By cutting out the middlemen → secure | 方式状语 | 减少中间商环节。
+mod for their produce → profit | 介词补充 | 从农产品中获得利润。
+gist 农民获得更多利润。
+cn 通过省去中间商，农民能从自己的农产品中获得更多利润。
+
+# special-2024-translation|0:5
+type 主从复合句｜where与to who并列疑问内容
+chunks Shoppers also benefit〔主〕 from seeing〔修〕 exactly where — and to who — their money is going.〔C1〕
+main 主语:Shoppers | 谓语:benefit
+C1 宾语从句 | 作seeing的宾语 | where | seeing后缺所见内容；where及插入的to who问钱的去向、收款人，their money is going主谓完整 | 主语:their money | 谓语:is going
+mod from seeing exactly where — and to who — their money is going → benefit | 获益来源 | 清楚看到钱流向何处、付给谁。
+gist 消费者也受益。
+point to who为原数据措辞，正式写法通常为to whom；不改原文。
+cn 消费者也能从中受益，因为他们清楚知道钱流向哪里、付给了谁。

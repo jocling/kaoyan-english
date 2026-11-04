@@ -1,0 +1,543 @@
+# special-2016-cloze|0:0
+type 简单句｜主谓与方式状语
+chunks Happy people work〔主〕 differently.〔修〕
+main 主语:Happy people | 谓语:work
+gist 快乐的人在工作
+mod differently → work | 方式状语 | 工作的方式不同，不是说换了一份工作
+
+# special-2016-cloze|0:1
+type 简单句｜三个形容词短语并列表语
+chunks They're more productive, more creative, and willing〔主〕 to take greater risks.〔修〕
+main 主语＋谓语:They're | 表语:more productive, more creative, and willing
+gist 他们效率更高、更有创意，也更愿意冒险
+mod to take greater risks → willing | 不定式补足 | 愿意承担更大的风险
+point They're是They are；and连接三个表语，不是另起一个主句。
+
+# special-2016-cloze|0:2
+type 主从复合句｜that宾语从句内嵌how宾语从句
+chunks And〔连〕 new research suggests〔主〕 that happiness might influence〔C1〕 【how】 firms work,〔C2〕 too.〔修〕
+main 主语:new research | 谓语:suggests | 宾语:C1
+gist 新研究表明（一件事）——内容是从句①：幸福感可能影响企业的运作方式。
+C1 宾语从句 | 作suggests的宾语 | that | 前面suggests缺研究发现的内容，that后happiness might influence后接宾语内容，主谓完整；that只连接，整块作宾语 | 主语:happiness | 谓语:might influence | 宾语:C2
+C2 宾语从句 in C1 | 作influence的宾语 | 【how】 | 前面influence缺影响的对象，how后firms work主谓完整；how作方式状语，整块表示企业如何运作 | 主语:firms | 谓语:work
+mod too → 整句 | 添加状语 | 不仅影响个人，也影响企业
+
+# special-2016-cloze|0:3
+type 多句条目｜过去分词限定主语，第二句进一步说明
+chunks Companies〔主〕 located in places with happier people〔修〕 invest more,〔主〕 according to a recent research paper.〔修〕 【In particular】,〔修〕 firms〔主〕 in happy places〔修〕 spend more〔主〕 on R&D (research and development).〔修〕
+main 主语:Companies | 谓语:invest || 主语:firms | 谓语:spend | 宾语:more
+gist 这些公司投资，并花费更多
+mod located in places with happier people → Companies | 过去分词作后置定语 | 位于人们更快乐的地区的公司
+mod more → invest | 程度状语 | 投资得更多
+mod according to a recent research paper → 整句 | 信息来源 | 一篇近期研究论文的发现
+mod 【In particular】 → 整句 | 具体化衔接 | 后一句将投资具体到研发开支
+mod in happy places → firms | 介词短语作定语 | 幸福水平高的地区中的企业
+mod on R&D (research and development) → spend | 支出对象补足 | 花在研发上，括号解释R&D
+point located没有独立时态，修饰Companies；invest和spend属于原始条目中的两个不同句子，不共用同一个主语。
+
+# special-2016-cloze|0:4
+type 主从复合句｜because表语从句，形容词短语后置限定thinking
+chunks That's〔主〕 because happiness is linked〔C1〕 to the kind of longer-term thinking〔C1修〕 【necessary】 for making investments for the future.〔C1修〕
+main 主语＋谓语:That's | 表语:C1
+gist 原因是（一件事）——内容是从句①：幸福感与投资未来所需的长远思考存在关联。
+C1 表语从句 | 在That is后解释原因 | because | 前面That's等于That is，because后happiness is linked主谓完整；整块补足系动词后原因内容，不是另外一个独立主句 | 主语:happiness | 谓语:is linked
+mod to the kind of longer-term thinking → linked | 介词补足 | 与这种更长远的思考方式相关
+mod 【necessary】 for making investments for the future → thinking | 形容词作后置定语 | 为未来投资所必需的思考方式
+mod for the future → investments | 介词短语作定语 | 面向未来的投资
+point necessary是形容词，不是动词；making在介词for后，构成动名词短语。
+
+# special-2016-cloze|0:5
+type 主从复合句｜if宾语从句，内嵌that与零关系词定语从句
+chunks The researchers wanted to know〔主〕 if the 【optimism】 and inclination〔C1〕 for risk-taking〔C1修〕 that come〔C2〕 with happiness〔C2修〕 would 【change】 the way〔C1〕 companies invested.〔C3〕
+main 主语:The researchers | 谓语:wanted | 宾语:to know
+gist 研究者想弄清（一件事）——内容是从句①：乐观态度和冒险倾向是否会改变企业的投资方式。
+C1 宾语从句 | 作know的宾语 | if | 前面know缺想弄清的内容，if后optimism and inclination would change the way主谓宾完整；if表示是否，不表示如果 | 主语:the 【optimism】 and inclination | 谓语:would 【change】 | 宾语:the way
+C2 定语从句 in C1 | 修饰optimism and inclination | that | 前面是两个并列名词，后面come with happiness缺主语；that代指乐观态度与冒险倾向作主语 | 主语:that | 谓语:come
+C3 定语从句 in C1 | 修饰way | （省略 that） | 前面是方式名词way，后面companies invested主谓完整；省略的关系词表示投资的方式，整块限定way | 主语:companies | 谓语:invested
+mod for risk-taking → inclination | 介词短语作定语 | 冒险倾向
+mod with happiness → come | 伴随补足 | 伴随快乐而来的态度与倾向
+point would change属于if从句，come属于修饰并列名词的that从句；不能把最近的happiness当作would change的主语。
+
+# special-2016-cloze|0:6
+type 多句条目｜measured过去分词定语；第二句含in which定语从句
+chunks So〔连〕 they compared U. S. cities' average happiness〔主〕 【measured】 by Gallup polling〔修〕 with the investment activity〔修〕 of publicly traded firms in those areas.〔修〕 【Sure】 enough,〔修〕 firms' investment and R&D intensity were correlated〔主〕 with the happiness of the area〔修〕 in which they were 【headquartered】.〔C1〕
+main 主语:they | 谓语:compared | 宾语:U. S. cities' average happiness || 主语:firms' investment and R&D intensity | 谓语:were correlated
+gist 研究者作了比较；投资与研发强度存在相关关系
+C1 定语从句 | 修饰area | in which | 前面是地点名词area，后面they were headquartered主谓完整；in which相当于在该地区，作地点状语，which代指area作in的宾语 | 主语:they | 谓语:were 【headquartered】
+mod 【measured】 by Gallup polling → happiness | 过去分词作定语 | 由盖洛普民调测量出的幸福水平
+mod with the investment activity → compared | 比较对象补足 | compare A with B，把幸福水平与投资活动相比
+mod of publicly traded firms in those areas → activity | 介词短语作定语 | 这些地区上市公司的投资活动
+mod 【Sure】 enough → 整句 | 评述衔接 | 果然，接着说明观察结果
+mod with the happiness of the area → correlated | 介词补足 | 与企业所在地区的幸福水平相关
+point compared的对象是幸福水平，不是measured；measured无独立助动词，是定语。原始条目合并两句，本批保留编号。
+
+# special-2016-cloze|0:7
+type 两个疑问分句｜首问为强调结构，次问含why宾语从句
+chunks But〔连〕 is it really〔修〕 happiness〔主〕 that's linked〔主〕 to investment,〔修〕 or〔连〕 could something else〔主〕 about happier cities〔修〕 【explain】〔主〕 why firms there spend more〔C1〕 on R&D?〔C1修〕
+main 主语:happiness | 谓语:is … linked || &or || 主语:something else | 谓语:could … 【explain】 | 宾语:C1
+gist 真是快乐与投资相关，还是别的因素可以解释
+C1 宾语从句 | 作explain的宾语 | why | 前面explain缺要解释的内容，后面firms spend more主谓完整；why作原因状语，整块表示这些企业为何花费更多 | 主语:firms | 谓语:spend | 宾语:more
+mod is it really → 整句 | 疑问强调框架 | 与后面的that's共同构成追问确实是快乐吗的强调结构；骨架按还原的一般疑问句列出
+mod to investment → linked | 介词补足 | 与投资相关
+mod about happier cities → something else | 后置定语 | 快乐城市的其他特征
+mod there → firms | 后置地点说明 | 那些地方的企业
+mod on R&D → spend | 支出对象补足 | 花在研发上
+point 第一个问句按去强调框架后的Is happiness linked to investment?列还原骨架，不能把it或that's硬套成另一项普通定语。第二个问句是could提前的一般疑问句，something else才是explain的主语。
+
+# special-2016-cloze|0:8
+type 主从复合句｜that定语从句与that同位语从句
+chunks To find out,〔修〕 the researchers controlled〔主〕 for various 【factors】〔修〕 that might make firms more likely to invest〔C1〕 - like size, industry, and sales -〔修〕 and for indicators〔修〕 that a place was 【desirable】〔C2〕 to live in,〔C2修〕 like growth in wages or population.〔修〕
+main 主语:the researchers | 谓语:controlled
+gist 研究者控制了这些因素
+C1 定语从句 | 修饰factors | that | 前面是名词factors，后面might make firms more likely缺主语；that代指这些因素作主语，整块限定哪些因素 | 主语:that | 谓语:might make | 宾语:firms | 宾补:more likely
+C2 同位语从句 | 说明indicators所表示的内容 | that | 前面是抽象名词indicators，后面a place was desirable to live in表达完整判断；that不作成分，整块说明指标所反映的宜居性 | 主语:a place | 谓语:was | 表语:【desirable】
+mod To find out → controlled | 不定式作目的状语 | 为了查清快乐是否起作用
+mod for various 【factors】 … and for indicators → controlled | 控制对象补足 | control for表示控制变量，两处for分别引入两类对象
+mod to invest → likely | 不定式补足 | 更可能投资
+mod like size, industry, and sales → 【factors】 | 例子补充 | 例如规模、行业和销售额
+mod to live in → 【desirable】 | 不定式补足 | 值得居住，place在语义上也是居住的地方
+mod like growth in wages or population → indicators | 例子补充 | 例如工资或人口增长
+point 两个that不同：第一个代指factors作主语，第二个只引出indicators表示的完整判断。and连接两类控制变量，不连接两个主句。
+
+# special-2016-cloze|0:9
+type 简单句｜after后动名词，描述控制变量后的结果
+chunks The link〔主〕 between happiness and investment〔修〕 generally 【held】〔主〕 even after accounting for these things.〔修〕
+main 主语:The link | 谓语:【held】
+gist 这种联系依然成立
+mod between happiness and investment → link | 介词短语作定语 | 快乐与投资之间的联系
+mod generally → 【held】 | 范围状语 | 总体上成立
+mod even after accounting for these things → 【held】 | 时间兼让步补充 | 即使考虑过上述因素之后
+point 主语是link，不是介词后的happiness或investment；accounting在after后是动名词，不是第二个谓语。
+
+# special-2016-cloze|0:10
+type 主从复合句｜which定语从句内含who定语从句
+chunks The correlation〔主〕 between happiness and investment〔修〕 was particularly strong〔主〕 for younger firms,〔修〕 which the authors 【attribute】〔C1〕 to "less codified decision making process" and the possible presence of "younger and less 【experienced】 managers〔C1修〕 who are more likely to be influenced〔C2〕 by sentiment."〔C2修〕
+main 主语:The correlation | 谓语:was | 表语:strong
+gist 这种相关关系很强
+C1 非限制性定语从句 | 指前述年轻企业中更强的相关关系，并解释其原因 | which | 前面陈述相关性在年轻企业中更强，后面the authors attribute…to…缺被归因的宾语；which回指前述关系，作attribute的宾语 | 主语:the authors | 谓语:【attribute】 | 宾语:which
+C2 定语从句 in C1 | 修饰managers | who | 前面是人的名词managers，后面are more likely…缺主语；who代指这些经理作主语，不指企业 | 主语:who | 谓语:are | 表语:more likely
+mod between happiness and investment → correlation | 介词短语作定语 | 快乐与投资的相关性
+mod particularly → strong | 程度状语 | 尤其强
+mod for younger firms → strong | 适用范围 | 对年轻企业而言更强
+mod to "less codified decision making process" and the possible presence of "younger and less 【experienced】 managers → 【attribute】 | 归因对象补足 | attribute A to B，把更强相关性归因于决策较少制度化及年轻经理的存在
+mod to be influenced → likely | 不定式补足 | 更容易受到影响
+mod by sentiment → influenced | 被动施事 | 受到情绪影响
+point which作attribute的宾语，不是主语；who才是后一个从句的主语。原题引语中的process单数形式照原文保留。
+
+# special-2016-cloze|0:11
+type 主从复合句｜where地点定语从句
+chunks The relationship was 【also】 stronger〔主〕 in places〔修〕 where happiness was spread〔C1〕 more 【equally】.〔C1修〕
+main 主语:The relationship | 谓语:was | 表语:stronger
+gist 这种关系也更强
+C1 定语从句 | 修饰places | where | 前面是地点名词places，后面happiness was spread主谓完整；where在从句作地点状语，相当于in which，整块限定地区 | 主语:happiness | 谓语:was spread
+mod 【also】 → stronger | 添加状语 | 还存在另一种相关性更强的地区
+mod in places → stronger | 地点范围 | 在这些地区中
+mod more 【equally】 → spread | 方式状语 | 幸福分布得更均匀
+
+# special-2016-cloze|0:12
+type 多句条目｜where定语，while让步，that及零that宾语从句
+chunks Firms seem to invest more〔主〕 in places〔修〕 where most people are relatively happy,〔C1〕 rather than in places with happiness inequality.〔修〕 【While】 this doesn't prove〔C2〕 that happiness causes firms to invest more or to take a longer-term view,〔C3〕 the authors believe〔主〕 it at least 【hints】〔C4〕 at that possibility.〔C4修〕
+main 主语:Firms | 谓语:seem | 表语:to invest || 主语:the authors | 谓语:believe | 宾语:C4
+gist 企业似乎更愿投资；作者相信（一件事）——内容是从句④：研究暗示了这种可能性。
+C1 定语从句 | 修饰第一处places | where | 前面是地点名词places，后面most people are happy主系表完整；where作地点状语，相当于in which，整块限定地区 | 主语:most people | 谓语:are | 表语:happy
+C2 让步状语从句 | 承认不能据此证明因果关系 | 【While】 | While后this doesn't prove后接宾语，主谓完整；while表示虽然，与后面作者认为仍有暗示形成让步，不表示同时发生 | 主语:this | 谓语:doesn't prove | 宾语:C3
+C3 宾语从句 in C2 | 作prove的宾语 | that | 前面prove缺要证明的内容，that后happiness causes firms to invest…主谓宾补完整；that不作成分，整块作宾语 | 主语:happiness | 谓语:causes | 宾语:firms | 宾补:to invest more or to take a longer-term view
+C4 宾语从句 | 作believe的宾语 | （省略 that） | 前面believe缺相信的内容，后面it hints at that possibility主谓及补足完整；省略that，整块作宾语 | 主语:it | 谓语:【hints】
+mod more → invest | 程度状语 | 投资更多
+mod in places … rather than in places with happiness inequality → invest | 地点对比 | 在大多数人幸福的地区投资，而非幸福不均的地区
+mod relatively → happy | 程度状语 | 相对快乐
+mod at least → 【hints】 | 限定状语 | 至少有暗示
+mod at that possibility → 【hints】 | 介词补足 | 暗示快乐影响投资的可能性
+point 第一条原始记录中的句点分开两句话；第二句主句是the authors believe。causes属于被否定能证明的内容，不等于研究已证明因果。
+
+# special-2016-cloze|0:13
+type 主从复合句｜it形式主语，不定式内含that及how宾语从句
+chunks It's not hard to imagine〔主〕 that local culture and sentiment would help 【shape】〔C1〕 how executives think〔C2〕 about the future.〔C2修〕
+main 形式主语＋谓语:It's | 表语:not hard | 真正主语:to imagine
+gist 想象这种情况并不难
+C1 宾语从句 | 作imagine的宾语 | that | 前面imagine缺想象内容，that后local culture and sentiment would help shape…主谓及补足完整；that只连接，整块作宾语 | 主语:local culture and sentiment | 谓语:would help
+C2 宾语从句 in C1 | 作shape的宾语 | how | 前面shape缺影响的内容，后面executives think主谓完整；how作方式状语，整块表示管理者如何思考 | 主语:executives | 谓语:think
+mod 【shape】 → help | 不定式补足 | help后可省略to，表示帮助塑造，不是新独立谓语
+mod about the future → think | 介词补足 | 对未来的思考
+point it是形式主语，真正被评价为not hard的是to imagine…；不能把imagine或shape当成与is并列的限定谓语。
+
+# special-2016-cloze|0:14
+type 主从复合句｜it形式主语，that主语从句；引语后附倒装引述语
+chunks "It surely seems plausible〔主〕 that happy people would be more forward-thinking and creative〔C1〕 and 【lean towards】 R&D〔C1〕 more than the average,"〔C1修〕 said one researcher.〔修〕
+main 形式主语:It | 谓语:seems | 表语:plausible | 真正主语:C1
+gist 这种推测似乎合理
+C1 主语从句 | it后置的真正主语 | that | 前面It seems plausible用It占位，that后happy people would be…and lean…主谓完整；that不作成分，整块是被评价为合理的内容 | 主语:happy people | 谓语:would be | 表语:more forward-thinking and creative | 谓语:【lean towards】 | 宾语:R&D
+mod surely → seems | 语气状语 | 确实显得合理
+mod more than the average → 【lean towards】 | 比较补充 | 比一般人更倾向于研发
+mod said one researcher → 整句 | 倒装引述语 | one researcher是said的后置主语
+point lean与be共用would；不是把lean读作没有时态的独立谓语。that从句是真正主语，不是seems的直接宾语。
+
+# special-2016-newtype|0:0
+type 祈使式标题｜以鞋码和年龄作对比，省略主语you
+chunks Act Your Shoe Size,〔主〕 Not Your Age〔修〕
+main 谓语:Act | 宾语:Your Shoe Size
+gist 按鞋码而不是年龄行事
+mod Not Your Age → Your Shoe Size | 对比补充 | 将鞋码与年龄作对比，借此引出向孩子学习的建议
+point 这是祈使式标题，主语you省略；不是把Shoe Size当成Act的主语。标题中的鞋码与年龄对比是一种修辞。
+
+# special-2016-newtype|1:0
+type 主从复合句｜it seems that引出主语从句
+chunks As adults,〔修〕 it seems〔主〕 that we are constantly pursuing happiness,〔C1〕 often with mixed results.〔C1修〕
+main 形式主语:it | 谓语:seems | 真正主语:C1
+gist 事情似乎是这样
+C1 主语从句 | 说明看起来存在的情况 | that | 前面it seems用it占位，that后we are pursuing happiness主谓宾完整；that不作成分，整块说明似乎如此的内容 | 主语:we | 谓语:are … pursuing | 宾语:happiness
+mod As adults → we | 身份状语 | 作为成年人；不是带主谓的as从句
+mod constantly → pursuing | 频率状语 | 不断追求
+mod often with mixed results → pursuing | 结果补充 | 结果常常好坏参半
+
+# special-2016-newtype|1:1
+type 并列句｜appear不定式表语，and后有新主语they
+chunks Yet〔连〕 children appear to have it〔主〕 down to an art〔修〕 - and〔连〕 for the most part〔修〕 they don't need self-help books or therapy.〔主〕
+main 主语:children | 谓语:appear | 表语:to have it || &and || 主语:they | 谓语:don't need | 宾语:self-help books … therapy
+gist 孩子似乎掌握了这件事，而且不需要那些帮助
+mod down to an art → have | 结果或程度补足 | 把这件事掌握得非常熟练，it承接照顾幸福感这件事
+mod for the most part → don't need | 范围状语 | 大多数时候不需要
+point appear是限定谓语，to have是不定式；and后they是新的主语，因此这里连接两个主句。
+
+# special-2016-newtype|1:2
+type 主从复合句｜than比较状语从句省略重复动作
+chunks Instead,〔修〕 they look after their wellbeing〔主〕 instinctively,〔修〕 and usually more effectively〔修〕 than we do〔C1〕 as grownups.〔C1修〕
+main 主语:they | 谓语:look after | 宾语:their wellbeing
+gist 他们照顾自己的身心状态
+C1 比较状语从句 | 比较儿童与成人照顾自己的效果 | than | 前面more effectively提出比较，than后we do用do代替look after our wellbeing；主语和代动词保留，重复动作省略 | 主语:we | 谓语:do
+mod Instead → 整句 | 对照衔接 | 对照成人依赖自助书或治疗
+mod instinctively → look after | 方式状语 | 本能地照顾自己
+mod and usually more effectively → look after | 并列方式说明 | 而且通常更有效，and没有连接新的主句
+mod as grownups → we | 身份状语 | 我们作为成年人
+
+# special-2016-newtype|1:3
+type 简单句｜it's time后不定式限定time
+chunks Perhaps〔修〕 it's time〔主〕 to learn a few lessons〔修〕 from them.〔修〕
+main 主语＋谓语:it's | 表语:time
+gist 也许是时候了
+mod Perhaps → 整句 | 语气状语 | 表示也许
+mod to learn a few lessons → time | 不定式作后置定语 | 是学习几课的时候了
+mod from them → learn | 来源补足 | 向孩子学习
+point 本句是It's time to do…结构；time后不定式说明该做什么，不把learn当作独立谓语。
+
+# special-2016-newtype|2:0
+type 特殊疑问句｜when时间状语从句
+chunks What does a child do〔主〕 when he's sad?〔C1〕
+main 主语:a child | 谓语:does … do | 宾语:What
+gist 孩子会做什么
+C1 时间状语从句 | 说明孩子何时这样做 | when | when后he's sad等于he is sad，主系表完整；when给出难过时这一背景，不是do缺少的宾语 | 主语＋谓语:he's | 表语:sad
+point What是do的宾语，疑问句中提前；does是一般现在时疑问助动词，do是实义动词。
+
+# special-2016-newtype|2:1
+type 简单句｜主谓结构
+chunks He cries.〔主〕
+main 主语:He | 谓语:cries
+gist 他会哭
+point cries是第三人称单数一般现在时，回答上句孩子难过时会做什么。
+
+# special-2016-newtype|2:2
+type 省略疑问句｜只留下when时间从句，主句由上文补足
+chunks When he's angry?〔C1〕
+gist 生气时又会怎样
+C1 时间状语从句 | 接续上文询问孩子生气时会做什么 | When | When后he's angry是完整主系表；整条只留下时间从句，主句What does a child do由前文补足，不能凭空写入原文骨架 | 主语＋谓语:he's | 表语:angry
+point 本条不是普通的完整主句，故不虚构主句主语和谓语；这是承接上文的省略问法。
+
+# special-2016-newtype|2:3
+type 简单句｜主谓结构
+chunks He shouts.〔主〕
+main 主语:He | 谓语:shouts
+gist 他会喊
+
+# special-2016-newtype|2:4
+type 省略疑问句｜只保留形容词，不能当作限定谓语
+chunks Scared?〔主〕
+main 表语:Scared
+gist 害怕时呢
+point 这接续前面的What does a child do when…?，原条目只写出形容词Scared。理解时可补出孩子害怕时会怎样，但不把未出现的he is添加进骨架。
+
+# special-2016-newtype|2:5
+type 省略答句｜名词短语承接哭与喊两种行为
+chunks Probably〔修〕 a bit〔主〕 of both.〔修〕
+main 宾语:a bit
+gist 两样也许都有一点
+mod Probably → 整句 | 语气状语 | 大概会如此
+mod of both → bit | 介词短语作定语 | both指前文哭和喊两种反应
+point 原条目只有名词短语，没有显式的主句主谓。宾语栏按省略的He does a bit of both理解，只展示可作do宾语的名词中心；原文未出现的He does不加入骨架。
+
+# special-2016-newtype|2:6
+type 主从复合句｜as时间从句，so目的从句，which评价前述事实
+chunks As we grow up,〔C1〕 we learn to control our emotions〔主〕 so they are manageable〔C2〕 and don't dictate our behaviours,〔C2〕 which is〔C3〕 in many ways〔C3修〕 a good thing.〔C3〕
+main 主语:we | 谓语:learn | 宾语:to control our emotions
+gist 我们学着控制情绪
+C1 时间状语从句 | 说明何时学会控制情绪 | As | As后we grow up主谓完整，as表示随着成长，给出时间背景，不作主句的宾语 | 主语:we | 谓语:grow up
+C2 目的状语从句 | 说明控制情绪所要达到的状态 | so | 前面we learn to control our emotions已完整，so后they are…and don't dictate…主谓完整；so相当于so that，引出让情绪可管理的目的 | 主语:they | 谓语:are | 表语:manageable | 谓语:don't dictate | 宾语:our behaviours
+C3 非限制性定语从句 | 评价前面学会控制情绪这一事实 | which | 前面陈述学会控制情绪，which后is a good thing缺主语；which指前述事实作主语，不是指behaviours这个复数名词 | 主语:which | 谓语:is | 表语:a good thing
+mod in many ways → a good thing | 方面状语 | 从许多方面来看是好事
+point so后they指情绪，are与don't dictate共用they；which后单数is评价的是整个事实。
+
+# special-2016-newtype|2:7
+type 简单句｜同一主语两个谓语，end up后动名词
+chunks But〔连〕 too often〔修〕 we take this process〔主〕 too far〔修〕 and end up suppressing emotions,〔主〕 especially negative ones.〔修〕
+main 主语:we | 谓语:take | 宾语:this process || &and || 谓语:end up
+gist 我们常常做得过头，最终压抑情绪
+mod too often → take | 频率状语 | 这种情况发生得过于频繁
+mod too far → take | 程度补足 | 将控制情绪的过程推得过远
+mod suppressing emotions → end up | 动名词补足 | 最终成了压抑情绪
+mod especially negative ones → emotions | 特别列举 | 尤其是负面情绪，ones代指emotions
+point end up是第二个带时态的谓语；suppressing不是与take并列的另一个限定谓语。
+
+# special-2016-newtype|2:8
+type 简单句｜as…as比较，can make与is共用主语that
+chunks That's about as effective〔主〕 as brushing dirt under a carpet〔修〕 and〔连〕 can even make us ill.〔主〕
+main 主语＋谓语:That's | 表语:effective || &and || 谓语:can … make | 宾语:us | 宾补:ill
+gist 这种做法有那样的效果，还会使人生病
+mod about → effective | 近似程度限定 | 差不多具有那种效果
+mod as brushing dirt under a carpet → effective | 比较补充 | 与把灰尘扫到地毯下相比较，语义上讽刺没有真正解决问题
+mod even → make | 递进副词 | 甚至产生伤害
+point as后是动名词短语brushing dirt，不是本条出现的另一个完整主句；ill是形容词宾补。
+
+# special-2016-newtype|2:9
+type 主从复合句｜what主语从句，另一个what作express等动作的宾语
+chunks What we need to do〔C1〕 is find a way〔主〕 to acknowledge and express〔修〕 what we feel〔C2〕 appropriately,〔修〕 and then〔连〕 - again, like children -〔修〕 move on.〔主〕
+main 主语:C1 | 谓语:is | 表语:find a way … move on
+gist 我们需要做的是找到方法，然后继续向前
+C1 主语从句 | 整体作is的主语 | What | What位于句首，到is前形成整块，后面we need to do缺do的宾语；What兼有连接和宾语作用，整块表示我们需要做的事 | 主语:we | 谓语:need | 宾语:to do
+C2 宾语从句 | 作acknowledge与express的宾语 | what | 前面acknowledge和express缺所承认及表达的内容，后面we feel缺宾语；what兼有连接与宾语作用，指真实感受，整块作宾语 | 主语:we | 谓语:feel | 宾语:what
+mod to acknowledge and express → way | 不定式作后置定语 | 承认和表达感受的方法；两个动词共用to
+mod appropriately → acknowledge and express | 方式状语 | 以适当方式处理和表达
+mod again, like children → move on | 方式比较补充 | 再一次像孩子一样继续生活
+point What we need to do is后可用不带to的不定式作表语，find不是与is并列的另一限定谓语。按现有译文将move on与find对应为先找方法、再继续向前。
+
+# special-2016-newtype|3:0
+type 主从复合句｜who非限制性定语从句
+chunks A couple of Christmases ago,〔修〕 my youngest stepdaughter,〔主〕 who was nine years old〔C1〕 at the time,〔C1修〕 got a Superman T-shirt〔主〕 for Christmas.〔修〕
+main 主语:my youngest stepdaughter | 谓语:got | 宾语:a Superman T-shirt
+gist 继女得到了一件超人T恤
+C1 非限制性定语从句 | 补充stepdaughter当时的年龄 | who | 前面是指人的名词stepdaughter，后面was nine years old缺主语；who代指她作主语，补充年龄而非另起主句 | 主语:who | 谓语:was | 表语:nine years old
+mod A couple of Christmases ago → got | 时间状语 | 几个圣诞节以前
+mod at the time → was | 时间状语 | 当时的年龄
+mod for Christmas → got | 场合或用途状语 | 作为圣诞礼物
+
+# special-2016-newtype|3:1
+type 并列句｜but后有新主语she，and后共用she
+chunks It cost less than a fiver〔主〕 but〔连〕 she was overjoyed,〔主〕 and〔连〕 couldn't stop talking〔主〕 about it.〔修〕
+main 主语:It | 谓语:cost | 宾语:less than a fiver || &but || 主语:she | 谓语:was | 表语:overjoyed || &and || 谓语:couldn't stop | 宾语:talking
+gist 它花费不多，她却欣喜若狂，还不停谈论
+mod about it → talking | 介词补足 | 谈论那件T恤
+point cost是原形与过去式同形的动词，这里叙述过去的礼物；and后的couldn't stop共用she作主语。
+
+# special-2016-newtype|3:2
+type 并列复合句｜that宾语从句、that定语从句、零that表语从句
+chunks Too often〔修〕 we believe〔主〕 that a new job, bigger house or better car will be the magic silver bullet〔C1〕 that will allow us to finally be content,〔C2〕 but〔连〕 the reality is〔主〕 these things have very little lasting impact〔C3〕 on our happiness levels.〔C3修〕
+main 主语:we | 谓语:believe | 宾语:C1 || &but || 主语:the reality | 谓语:is | 表语:C3
+gist 我们以为（一件事）——内容是从句①：新东西能使人满足；但现实是从句③：它们几乎没有持久影响。
+C1 宾语从句 | 作believe的宾语 | that | 前面believe缺相信的内容，that后几个并列名词加will be the magic silver bullet主系表完整；that只连接，整块作宾语 | 主语:a new job, bigger house or better car | 谓语:will be | 表语:the magic silver bullet
+C2 定语从句 in C1 | 修饰bullet | that | 前面是名词bullet，后面will allow us to be content缺主语；that代指所谓万能法宝作主语 | 主语:that | 谓语:will allow | 宾语:us | 宾补:to … be content
+C3 表语从句 | 作is的表语，说明现实是什么 | （省略 that） | 前面the reality is缺表语内容，后面these things have impact主谓宾完整；省略that，整块说明现实情况 | 主语:these things | 谓语:have | 宾语:very little lasting impact
+mod Too often → believe | 频率状语 | 常常如此相信
+mod finally → be content | 时间状语 | 终于满足
+mod on our happiness levels → impact | 介词短语作定语 | 对幸福水平的影响
+point 两个明写的that不同：第一个只连接宾语内容，第二个在定语从句里作主语；is后另有一个省略that的表语从句。
+
+# special-2016-newtype|3:3
+type 简单句｜动名词短语作主语，不定式限定way
+chunks Instead,〔修〕 being grateful〔主〕 for small things〔修〕 every day〔修〕 is a much better way〔主〕 to improve wellbeing.〔修〕
+main 主语:being grateful | 谓语:is | 表语:a … better way
+gist 感恩是一种更好的方法
+mod Instead → 整句 | 对照衔接 | 对照依赖新工作大房子等重大改变
+mod for small things → grateful | 介词补足 | 为小事感恩
+mod every day → being grateful | 时间状语 | 每一天如此
+mod much → better | 程度状语 | 修饰比较级，表示好得多
+mod to improve wellbeing → way | 不定式作后置定语 | 改善身心状态的方法
+point 主语是being grateful这一整项做法；being没有另带时态，不能把它与后面的is都当作主句谓语。
+
+# special-2016-newtype|4:0
+type 特殊疑问句｜how much宾语从句
+chunks Have you ever noticed〔主〕 how much children laugh?〔C1〕
+main 主语:you | 谓语:Have … noticed | 宾语:C1
+gist 你是否注意过（一件事）——内容是从句①：孩子多么爱笑。
+C1 宾语从句 | 作noticed的宾语 | how much | 前面noticed缺注意的内容，后面children laugh主谓完整；how much表示笑的频率或程度，作状语，整块作宾语 | 主语:children | 谓语:laugh
+mod ever → noticed | 时间副词 | 是否曾经注意过
+point Have提前构成疑问语序；从句内部仍是children laugh的陈述语序，不改成do children laugh。
+
+# special-2016-newtype|4:1
+type 主从复合句｜if条件从句；主句四个并列谓语共用would
+chunks If we adults could indulge〔C1〕 in a bit of silliness and giggling,〔C1修〕 we would reduce the stress hormones〔主〕 in our bodies,〔修〕 increase good hormones〔主〕 like endorphins,〔修〕 improve blood flow〔主〕 to our hearts〔修〕 and even have a greater chance〔主〕 of fighting off infection.〔修〕
+main 主语:we | 谓语:would reduce | 宾语:the stress hormones || 谓语:increase | 宾语:good hormones || 谓语:improve | 宾语:blood flow || &and || 谓语:have | 宾语:a greater chance
+C1 条件状语从句 | 给出成人也放松欢笑的假设条件 | If | If后we adults could indulge主谓完整，adults补充we的身份；if引出假设，后面we would reduce…是主句，不是名词的定语 | 主语:we adults | 谓语:could indulge
+gist 我们会减少压力激素，增加有益激素，改善血流并拥有更大机会
+mod in a bit of silliness and giggling → indulge | 介词补足 | 放松地做些傻事并咯咯笑
+mod in our bodies → hormones | 介词短语作定语 | 体内的压力激素
+mod like endorphins → good hormones | 举例说明 | 例如内啡肽
+mod to our hearts → flow | 方向定语 | 流向心脏的血流
+mod even → have | 递进副词 | 甚至会有更大机会
+mod of fighting off infection → chance | 介词短语作定语 | 抵抗感染的机会
+point increase、improve、have都共用would；不能因后面没重复would，就把它们当成新的祈使句。
+
+# special-2016-newtype|4:2
+type 承接性定语从句片段｜All of which回指上句列出的效果
+chunks All of which would,〔C1〕 of course,〔C1修〕 have a positive effect〔C1〕 on our happiness levels.〔C1修〕
+gist 所有这些都会产生积极影响
+C1 非限制性定语从句 | 承接上句列举的多种效果 | which | 前面条目列出减压等一组结果，All of which后would have a positive effect缺独立的主语；All of which整体作主语，which回指上文的结果 | 主语:All of which | 谓语:would … have | 宾语:a positive effect
+mod of course → 整句 | 评述状语 | 当然如此
+mod on our happiness levels → effect | 介词短语作定语 | 对幸福水平的积极影响
+point 原卷也单独用句点写这一片段，语法上仍承接上句，不硬称为独立主句；本条骨架在从句卡片中展开，不虚构一个主句。
+
+# special-2016-newtype|5:0
+type 主从复合句｜that表语从句中含疑问不定式
+chunks The problem〔主〕 with being a grownup〔修〕 is〔主〕 that there's an awful lot〔C1〕 of serious stuff〔C1修〕 to deal with〔C1修〕 - work, mortgage payments, figuring out〔C1修〕 what to cook for dinner.〔C1修〕
+main 主语:The problem | 谓语:is | 表语:C1
+gist 成人的问题是（一件事）——内容是从句①：有许多严肃事务要处理。
+C1 表语从句 | 说明problem的内容 | that | 前面is缺表语，that后there's an awful lot为完整存在句；that只连接，整块说明成人的问题是什么 | 谓语:there's | 主语:an awful lot
+mod with being a grownup → problem | 介词短语作定语 | 作为成年人所面临的问题
+mod of serious stuff → lot | 介词短语作定语 | 许多严肃事务
+mod to deal with → stuff | 不定式作后置定语 | 需要处理的事情，stuff在语义上是with的宾语
+mod work, mortgage payments, figuring out → stuff | 列举说明 | 工作、还贷、想清某件事；最后一项figuring out再带疑问不定式宾语
+mod for dinner → cook | 用途状语 | 晚饭要做什么
+point what to cook是疑问词加不定式，不是有完整时态的普通从句；本条将它的宾语关系单独展示，不把to cook当成实际限定谓语。
+mod what to cook for dinner → figuring out | 宾语（疑问词＋不定式） | 要弄清晚餐做什么；what是不定式cook的宾语，没有独立时态谓语。
+
+# special-2016-newtype|5:1
+type 并列复合句｜it形式主语，that主语从句，零关系词定语从句
+chunks But〔连〕 as adults〔修〕 we also have the luxury〔主〕 of being able to control our own diaries〔修〕 and〔连〕 it's important〔主〕 that we schedule in time〔C1〕 to enjoy the things〔C1修〕 we love.〔C2〕
+main 主语:we | 谓语:have | 宾语:the luxury || &and || 形式主语＋谓语:it's | 表语:important | 真正主语:C1
+gist 我们有这种便利，而安排时间很重要
+C1 主语从句 | it的后置真正主语，说明什么重要 | that | 前面it's important用it占位，that后we schedule in time主谓结构完整；that不作成分，整块作真正主语 | 主语:we | 谓语:schedule in | 宾语:time
+C2 定语从句 in C1 | 修饰things | （省略 that） | 前面是名词things，后面we love有主语和谓语但缺宾语；省略的关系词代指things作love的宾语 | 主语:we | 谓语:love
+mod as adults → we | 身份状语 | 作为成年人
+mod also → have | 添加状语 | 成年人也有可取的条件
+mod of being able to control our own diaries → luxury | 介词短语作定语 | 能掌控自己日程的便利
+mod to enjoy the things → schedule | 不定式作目的状语 | 安排时间享受喜爱的事情
+point schedule in是把某件事安排进日程，time是其宾语；不能把in time误读成及时。we love修饰things，省略了宾语关系词。
+
+# special-2016-newtype|5:2
+type 多分句条目｜so long as条件从句，if条件从句在举例内部
+chunks Those things might be social, sporting, creative or completely random〔主〕 (dancing around the living room, anyone?)〔修〕 - it doesn't matter,〔主〕 so long as they're enjoyable, and not likely〔C1〕 to have negative side effects,〔C1修〕 such as drinking too much alcohol or going on a wild spending spree〔C1修〕 if you're on a tight budget.〔C2〕
+main 主语:Those things | 谓语:might be | 表语:social, sporting, creative or completely random || 主语:it | 谓语:doesn't matter
+gist 那些事情可以多种多样，具体是哪一种并不重要
+C1 条件状语从句 | 限定it doesn't matter成立的条件 | so long as | 前面it doesn't matter主谓完整，so long as后they're enjoyable and not likely…主系表完整；整块表示只要，不是从时间长度解释 | 主语＋谓语:they're | 表语:enjoyable … not likely
+C2 条件状语从句 in C1 | 限定疯狂购物成为负面后果的情境 | if | 前面举例说going on a wild spending spree，if后you're on a tight budget主系表完整；条件是预算紧张，修饰举例中的购物行为，不是限制所有娱乐 | 主语＋谓语:you're | 表语:on a tight budget
+mod (dancing around the living room, anyone?) → random | 括号举例 | 比如随兴在客厅跳舞；括号是省略式邀请，不是外层主句
+mod to have negative side effects → likely | 不定式补足 | 不容易带来负面影响
+mod such as drinking too much alcohol or going on a wild spending spree → side effects | 举例说明 | 负面后果例如饮酒过量，或在特定情况下疯狂消费
+point they're的are同时支撑enjoyable和not likely两项表语；if从句贴近第二个负面例子，不能把全句解释为只有预算紧才可享乐。
+
+# special-2016-newtype|6:0
+type 主从复合句｜it形式主语，不定式内部that宾语从句
+chunks Having said all of the above,〔修〕 it's important to add〔主〕 that we shouldn't try〔C1〕 too hard〔C1修〕 to be happy.〔C1修〕
+main 形式主语＋谓语:it's | 表语:important | 真正主语:to add
+gist 补充这一点很重要
+C1 宾语从句 | 作add的宾语 | that | 前面add缺补充的内容，that后we shouldn't try主谓完整；that不作成分，整块作宾语，不是直接作important的主语 | 主语:we | 谓语:shouldn't try
+mod Having said all of the above → 整句 | 完成式分词作衔接 | 说完上述内容后作转折补充，惯用引入语，不把having said视为限定谓语
+mod too hard → try | 程度状语 | 不要过于用力追求
+mod to be happy → try | 不定式补足 | 试图达到快乐状态
+point 真正主语是to add…这个不定式短语；that从句嵌在add后面，说明补充什么。
+
+# special-2016-newtype|6:1
+type 主从复合句｜tell双宾语，省略that的宾语从句内有并列谓语
+chunks Scientists tell us〔主〕 this can backfire〔C1〕 and actually have a negative impact〔C1〕 on our wellbeing.〔C1修〕
+main 主语:Scientists | 谓语:tell | 间接宾语:us | 直接宾语:C1
+gist 科学家告诉我们（一件事）——内容是从句①：这种做法可能适得其反，产生负面影响。
+C1 宾语从句 | 作tell的直接宾语 | （省略 that） | 前面tell us已有接受者但缺所说的内容，后面this can backfire and have…主谓完整；省略that，两个谓语共用this与can | 主语:this | 谓语:can backfire | 谓语:have | 宾语:a negative impact
+mod actually → have | 评述状语 | 实际上还会带来伤害
+mod on our wellbeing → impact | 介词短语作定语 | 对身心状态的影响
+point this指过分努力追求快乐；have与backfire共用can，不是Scientists的另一个主句谓语。
+
+# special-2016-newtype|6:2
+type 主从复合句｜As引述性状语从句，引语是主句
+chunks As the Chinese philosopher Chuang Tzu is reported to have said:〔C1〕 "Happiness is the absence〔主〕 of striving for happiness."〔修〕
+main 主语:Happiness | 谓语:is | 表语:the absence
+gist 幸福是一种不再追求的状态
+C1 方式状语从句 | 引述庄子的说法，修饰后面的引语判断 | As | As后Chuang Tzu is reported to have said有主语、被动谓语和补足语；as表示正如，引出说法来源，后面的Happiness is…才是被引述的主句 | 主语:the Chinese philosopher Chuang Tzu | 谓语:is reported | 主语补足语:to have said
+mod of striving for happiness → absence | 介词短语作定语 | 不再费力追求幸福这一状态
+point to have said是不定式完成式，表示说过这件事早于被报道；不是第二个与is reported并列的限定谓语。
+
+# special-2016-newtype|6:3
+type 主从复合句｜to whom定语从句，内嵌way后的零关系词从句
+chunks And〔连〕 in that,〔修〕 once more,〔修〕 we need to look〔主〕 to the example〔修〕 of our children,〔修〕 to whom happiness is not a goal but a natural byproduct〔C1〕 of the way〔C1修〕 they live.〔C2〕
+main 主语:we | 谓语:need | 宾语:to look
+gist 我们需要向榜样学习
+C1 非限制性定语从句 | 修饰children，说明快乐对孩子意味着什么 | to whom | 前面是指人的名词children，后面happiness is not a goal but a byproduct主系表完整；to whom相当于对这些孩子而言，whom作to的宾语 | 主语:happiness | 谓语:is | 表语:not a goal … a natural byproduct
+C2 定语从句 in C1 | 修饰way | （省略 that） | 前面是方式名词way，后面they live主谓完整；省略的关系词表示生活方式，整块限定way | 主语:they | 谓语:live
+mod in that → 整句 | 方面状语 | 在不费力追求幸福这一点上
+mod once more → need | 重复衔接 | 又一次需要向孩子学习
+mod to the example → look | 介词补足 | look to表示向某种榜样求取指引
+mod of our children → example | 介词短语作定语 | 孩子的榜样
+mod of the way → byproduct | 介词短语作定语 | 生活方式带来的自然副产品
+point to whom整体前置，不是主句look to的宾语。not…but…连接goal与byproduct两个表语，不是两个主句。
+
+# special-2016-translation|0:0
+type 简单句｜被动谓语，不定式表设计目的
+chunks The supermarket is designed〔主〕 to lure customers〔修〕 into spending as much time as possible〔修〕 within its doors.〔修〕
+main 主语:The supermarket | 谓语:is designed
+gist 超市经过了这样的设计
+mod to lure customers → designed | 不定式作目的状语 | 设计目的是吸引顾客
+mod into spending as much time as possible → lure | 介词补足 | lure customers into doing把顾客吸引去做某事，这里是尽量多花时间
+mod within its doors → spending | 地点状语 | 在超市门内，也就是店内
+point spending在介词into后是动名词；is designed才是带时态的被动谓语。
+
+# special-2016-translation|0:1
+type 多分句条目｜冒号解释；两组the比较级…the比较级关联结构
+chunks The reason〔主〕 for this〔修〕 is simple:〔主〕 The longer you stay〔C1〕 in the store,〔C1修〕 the more stuff you'll see,〔主〕 and〔连〕 the more stuff you see,〔C2〕 the more you'll buy.〔主〕
+main 主语:The reason | 谓语:is | 表语:simple || 主语＋谓语:you'll see | 宾语:the more stuff || &and || 主语＋谓语:you'll buy
+gist 原因很简单：停留越久看到越多，看到越多买得越多
+C1 比较状语从句 | 第一组关联结构的前件，说明停留时间增加 | The longer | The longer后you stay主谓完整，longer是前置的时间程度；整块与后面的the more对应，表示越久越多，不是普通名词的定语 | 主语:you | 谓语:stay
+C2 比较状语从句 | 第二组关联结构的前件，说明看到的商品增多 | the more | the more后stuff是see的前置宾语，you see有主语和谓语；整块与后面的the more you'll buy对应，表示看到越多买得越多 | 主语:you | 谓语:see | 宾语:stuff
+mod for this → reason | 介词短语作定语 | 这种超市设计的原因
+mod in the store → stay | 地点状语 | 在店内停留
+mod the more#3 → buy | 前置宾语补充 | 最后这一处the more相当于more stuff，作buy的宾语，不能当作buy的主语
+point 冒号后有两组越……越……。第一组后件为you'll see the more stuff；第二组后件为you'll buy the more（stuff），末尾宾语的前置位置在补充行单独定位，避免将重复more误标在第一处。you'll均是you will。
+
+# special-2016-translation|0:2
+type 简单句｜主谓宾结构
+chunks And〔连〕 supermarkets contain a lot〔主〕 of stuff.〔修〕
+main 主语:supermarkets | 谓语:contain | 宾语:a lot
+gist 超市拥有大量商品
+mod of stuff → lot | 介词短语作定语 | 大量的是商品
+
+# special-2016-translation|0:3
+type 并列句｜插入信息来源，many省略supermarkets
+chunks The average supermarket,〔主〕 according to the Food Marketing Institute,〔修〕 carries some 44,000 different items,〔主〕 and〔连〕 many carry tens of thousands more.〔主〕
+main 主语:The average supermarket | 谓语:carries | 宾语:some 44,000 different items || &and || 主语:many | 谓语:carry | 宾语:tens of thousands more
+gist 普通超市经营约44000种商品，许多超市经营得更多
+mod according to the Food Marketing Institute → 整句 | 信息来源状语 | 这一统计来自食品营销协会
+point many省略supermarkets，是第二个主句的主语，不是前一个宾语items的一部分；more后省略重复的items。
+
+# special-2016-translation|0:4
+type 简单句｜主语后of定语，enough后不定式表结果
+chunks The sheer volume〔主〕 of available choice〔修〕 is enough〔主〕 to send shoppers〔修〕 into a state〔修〕 of information overload.〔修〕
+main 主语:The sheer volume | 谓语:is | 表语:enough
+gist 可选商品数量之大足以让购物者信息过载。
+mod of available choice → volume | 介词短语作定语 | 可供选择的商品的数量
+mod to send shoppers → enough | 不定式作结果补充 | 足以让购物者发生下面这种变化
+mod into a state → send | 结果状态补足 | 使购物者进入某种状态
+mod of information overload → state | 介词短语作定语 | 信息过载的状态
+point 主语中心是volume，不是of后的choice；to send没有独立时态，说明数量庞大足以带来的结果。
+
+# special-2016-translation|0:5
+type 简单句｜according to前置信息来源，become系动词
+chunks According to brain-scan experiments,〔修〕 the demands〔主〕 of so much decision-making〔修〕 quickly become too much〔主〕 for us.〔修〕
+main 主语:the demands | 谓语:become | 表语:too much
+gist 这些需求很快变得难以承受
+mod According to brain-scan experiments → 整句 | 信息来源状语 | 按脑部扫描实验结果来看
+mod of so much decision-making → demands | 介词短语作定语 | 大量决策所带来的需求
+mod quickly → become | 时间速度状语 | 很快就超过承受能力
+mod for us → too much | 适用对象补足 | 对我们而言过多
+point 主语是复数demands，因此用become；不能把较近的decision-making当作主语。
+
+# special-2016-translation|0:6
+type 主从复合句｜并列谓语；which、at which与that三层定语从句
+chunks After about 40 minutes〔修〕 of shopping,〔修〕 most people stop struggling〔主〕 to be rationally selective,〔修〕 and〔连〕 instead begin shopping〔主〕 emotionally〔修〕 - which is the point〔C1〕 at which we accumulate the 50 percent〔C2〕 of stuff〔C2修〕 in our cart〔C2修〕 that we never intended buying.〔C3〕
+main 主语:most people | 谓语:stop | 宾语:struggling || &and || 谓语:begin | 宾语:shopping
+gist 多数人不再挣扎着挑选，而开始凭情绪购物
+C1 非限制性定语从句 | 将开始凭情绪购物的阶段概括为那个时点 | which | 前面说人们开始凭情绪购物，which后is the point缺主语；which回指这一转变作主语，不是指单独的副词emotionally | 主语:which | 谓语:is | 表语:the point
+C2 定语从句 in C1 | 修饰point | at which | 前面是时间或阶段名词point，后面we accumulate the 50 percent of stuff主谓宾完整；at which表示在该时点，作时间状语 | 主语:we | 谓语:accumulate | 宾语:the 50 percent
+C3 定语从句 in C2 | 修饰stuff，限定哪些商品 | that | 前面是名词stuff，后面we never intended buying中buying缺购买对象；that代指商品作buying的宾语，整块限定原本没打算买的东西 | 主语:we | 谓语:never intended | 宾语:buying | 宾语:that
+mod After about 40 minutes → stop | 时间状语 | 大约四十分钟之后
+mod of shopping → minutes | 介词短语作定语 | 购物四十分钟
+mod to be rationally selective → struggling | 不定式补足 | 努力保持理性挑选
+mod instead → begin | 转折副词 | 转而开始另一种购物方式
+mod emotionally → shopping | 方式状语 | 凭情绪购物
+mod of stuff → percent | 介词短语作定语 | 所指比例的对象是商品
+mod in our cart → stuff | 介词短语作定语 | 购物车中的东西
+point that从句内有两层宾语关系：buying这一动名词短语作intended的宾语，that代指商品作buying的宾语，不能把两个宾语都算成intended直接支配的并列对象。at which指时点，不指商品。

@@ -26,14 +26,15 @@ point as will…不是另一个主句的疑问倒装；它表示要求也会变�
 
 # 2021-1|0:2
 type 主从复合句｜that宾语从句
-chunks Research〔主〕 by the World Economic Forum〔修〕 finds〔主〕 that on average 42 per cent of the"core skills"within job roles will change〔C1〕 by 2022.〔C1修〕
+chunks Research〔主〕 by the World Economic Forum〔修〕 finds〔主〕 that on average 42 per cent of the "core skills" within job roles will change〔C1〕 by 2022.〔C1修〕
 main 主语:Research | 谓语:finds | 宾语:C1
 gist 研究发现，到2022年岗位中平均42%的核心技能将改变
-C1 宾语从句 | 作finds宾语 | that | 前面finds缺研究发现的内容，后面百分比主语加will change主谓完整；that只连接，不作成分 | 主语:42 per cent of the"core skills"within job roles | 谓语:will change
+C1 宾语从句 | 作finds宾语 | that | 前面finds缺研究发现的内容，后面百分比主语加will change主谓完整；that只连接，不作成分 | 主语:42 per cent of the "core skills" within job roles | 谓语:will change
 mod by the World Economic Forum → Research | 介词短语作定语 | 世界经济论坛所做的研究
 mod on average → C1 | 范围状语 | 平均而言
 mod by 2022 → change | 时间状语 | 到2022年为止的变化预期
-point 原文the"core skills"within存在词间粘连，按现有原文保留；百分比统计对象为岗位的核心技能，不是42%的工作岗位消失。
+point 百分比统计对象是岗位的核心技能，不是42%的工作岗位消失。
+
 
 # 2021-1|0:3
 type 简单句｜系表结构
@@ -126,23 +127,26 @@ mod indeed → 整句 | 强调状语 | 的确如此
 
 # 2021-1|2:1
 type 并列句｜失业率与用工短缺同时出现
-chunks In February,at 3.5 per cent and 5.5 per cent respectively,〔修〕 unemployment rates〔主〕 in Canada and the United States〔修〕 were at generational lows〔主〕 and〔连〕 worker shortages were everywhere.〔主〕
+chunks In February, at 3.5 per cent and 5.5 per cent respectively,〔修〕 unemployment rates〔主〕 in Canada and the United States〔修〕 were at generational lows〔主〕 and〔连〕 worker shortages were everywhere.〔主〕
 main 主语:unemployment rates | 谓语:were | 表语:at generational lows || &and || 主语:worker shortages | 谓语:were | 表语:everywhere
 gist 2月失业率处于很低水平，同时到处都缺工
-mod In February,at 3.5 per cent and 5.5 per cent respectively → were | 时间与数值补充 | 原文给出2月及两个失业率；February,at因缺空格粘连，按原文整体定位
+mod In February, at 3.5 per cent and 5.5 per cent respectively → were | 时间与数值补充 | 2月时两国失业率分别为3.5%和5.5%，respectively表示按前后顺序一一对应
 mod in Canada and the United States → rates | 地点定语 | 加拿大和美国的失业率
 point 原文两国名称顺序和数据依原样保留，不在此凭常识交换；and后出现新主语worker shortages，是并列句。
 
+
 # 2021-1|2:2
-type 并列复合句｜although让步从句，原文cent,and粘连
-chunks As of May,〔修〕 those rates had spiked up to 13.3 per cent and 13.7 per cent,and〔主〕 although many worker shortages had disappeared,〔C1〕 not all had done so.〔主〕
+type 并列复合句｜and连接两项事实，第二分句含although让步从句
+chunks As of May,〔修〕 those rates had spiked up〔主〕 to 13.3 per cent and 13.7 per cent,〔修〕 and〔连〕 although many worker shortages had disappeared,〔C1〕 not all had done so.〔主〕
 main 主语:those rates | 谓语:had spiked up || 主语:not all | 谓语:had done
 gist 到5月失业率激增，尽管许多缺工现象消失，却并非全部消失
 C1 让步状语从句 | 限定not all had done so | although | although后many worker shortages had disappeared主谓完整；整块承认许多短缺已消失，与并非全部消失形成让步 | 主语:many worker shortages | 谓语:had disappeared
 mod As of May → had spiked up | 时间状语 | 到5月时
-mod to 13.3 per cent and 13.7 per cent,and → had spiked up | 数值补足 | 激增到两个百分比；末尾and因原数据粘连不能独立切开
+mod to 13.3 per cent and 13.7 per cent → had spiked up | 数值补足 | 激增到13.3%和13.7%
 mod so → had done | 动作替代 | done so替代disappeared，all指所有worker shortages
-point not all是部分否定，仍存在某些岗位缺工；原文cent,and的粘连不改变and连接两分句的关系。
+point not all是部分否定，表示仍有某些岗位缺工；and连接失业率上升与部分岗位仍缺工这两项事实。
+
+
 
 # 2021-1|2:3
 type 主从复合句｜that宾语从句
@@ -240,11 +244,13 @@ mod in the late 1980s → three-quarters | 时间限定 | 近四分之三是20�
 
 # 2021-2|1:2
 type 简单句｜插入引述语隔开主语与谓语
-chunks A move back to self-sufficiency,the argument goes,〔主〕 would boost the farming industry, political sovereignty and even the nation's health.〔主〕
+chunks A move〔主〕 back to self-sufficiency,〔修〕 the argument goes,〔修〕 would boost the farming industry, political sovereignty and even the nation's health.〔主〕
 main 主语:A move | 谓语:would boost | 宾语:the farming industry, political sovereignty … the nation's health
 gist 支持者认为回归自给自足会促进农业、主权和国民健康
-mod back to self-sufficiency,the argument goes → move | 插入说明及方向定语 | back to self-sufficiency修饰move；the argument goes是引述语“这种论点认为”，原文缺空格粘连，无法独立切分
-point 真正主句是A move would boost…；the argument goes不是would boost的主语。原文self-sufficiency,the粘连，按原样保留，结构在此说明。
+mod back to self-sufficiency → move | 方向定语 | 回到自给自足状态的转变
+point 主句是A move would boost…；the argument goes作为插入语介绍这一主张。
+mod the argument goes → 整句 | 插入引述语 | 表示“这种论点认为”，不是would boost的主语
+
 
 # 2021-2|1:3
 type 并列结构｜省略主语的评论与疑问句转折
@@ -257,12 +263,13 @@ point 疑问句中is在this vision之前，分析主干时仍对应this vision i
 
 # 2021-2|2:0
 type 简单句｜报告来源状语很长
-chunks According to a report on UK food production from the University of Leeds,UK,〔修〕 85 per cent of the country's total land area is associated〔主〕 with meat and dairy production.〔修〕
+chunks According to a report on UK food production from the University of Leeds, UK,〔修〕 85 per cent of the country's total land area is associated〔主〕 with meat and dairy production.〔修〕
 main 主语:85 per cent of the country's total land area | 谓语:is associated
 gist 报告说英国85%的土地与肉类乳制品生产相关
-mod According to a report on UK food production from the University of Leeds,UK → 整句 | 依据状语 | 来源为英国利兹大学的食品生产报告
+mod According to a report on UK food production from the University of Leeds, UK → 整句 | 依据状语 | 来源为英国利兹大学的食品生产报告
 mod with meat and dairy production → associated | 介词补足 | be associated with表示与肉奶生产相关
-point 85%是土地占比，不是肉奶消费自给率；Leeds,UK是原文粘连，不改其字元。
+point 85%是与肉奶生产有关的土地占比，不是肉奶消费自给率。
+
 
 # 2021-2|2:1
 type 并列复合句｜what宾语从句；动名词短语作第二句主语
@@ -275,12 +282,15 @@ point covering…整体是动名词主语，限定谓语是wouldn't allow；That
 
 # 2021-2|3:0
 type 并列句｜there be与转折分句
-chunks There are many caveats to those figures,but〔主〕 they are still grave.〔主〕
-main 谓语:are | 主语:many caveats || 主语:they | 谓语:are | 表语:grave
+chunks There are many caveats〔主〕 to those figures,〔修〕 but〔连〕 they are still grave.〔主〕
+main 谓语:are | 主语:many caveats || &but || 主语:they | 谓语:are | 表语:grave
 gist 这些数字有不少限制条件，但呈现的形势仍然严峻
-mod to those figures,but → caveats | 介词补足及转折连接 | caveats针对这些数字，末尾but属于后面转折；原文figures,but缺空格而粘连
+mod to those figures → caveats | 介词补足 | 对这些数字的使用有一些保留条件
 mod still → grave | 时间或让步状语 | 即使有条件限制仍然严峻
-point they回指figures；原文figures,but无法逐词拆开，语法上but连接两个分句，不是figures的一部分。
+point they回指figures；but表示即使存在保留条件，这些数字所反映的形势仍然严峻。
+
+
+
 
 # 2021-2|3:1
 type 简单句｜need后的并列不定式；meaning补充结果
@@ -357,14 +367,17 @@ point That回指此前的自给率推算；不是要人们减少热量摄入。
 
 # 2021-3|0:0
 type 主从复合句｜when状语从句与that定语从句
-chunks When Microsoft bought task management app Wunderlist and mobile calendar Sunrise〔C1〕 in 2015,it〔C1修〕 picked two newcomers〔主〕 that were attracting considerable buzz〔C2〕 in Silicon Valley.〔C2修〕
-main 主语:2015,it | 谓语:picked | 宾语:two newcomers
+chunks When Microsoft bought task management app Wunderlist and mobile calendar Sunrise〔C1〕 in 2015,〔C1修〕 it picked two newcomers〔主〕 that were attracting considerable buzz〔C2〕 in Silicon Valley.〔C2修〕
+main 主语:it | 谓语:picked | 宾语:two newcomers
 gist 微软选中了两个在硅谷备受关注的应用新秀
 C1 时间状语从句 | 说明收购的时间情境 | When | When后Microsoft bought两个应用主谓宾完整，主句谓语在后面的picked；When引出时间背景，不修饰名词 | 主语:Microsoft | 谓语:bought | 宾语:task management app Wunderlist … mobile calendar Sunrise
 C2 定语从句 | 修饰newcomers | that | 前面是newcomers，后面were attracting缺主语；that代指两家新秀企业作主语 | 主语:that | 谓语:were attracting | 宾语:considerable buzz
-mod in 2015,it → bought | 时间状语及粘连主语说明 | 时间状语本应到2015结束；逗号后的it是picked的主语，但原文2015,it粘成一词，无法独立定位
+mod in 2015 → bought | 时间状语 | 微软在2015年收购这两款应用
 mod in Silicon Valley → attracting | 地点状语 | 在硅谷引起关注
-point 原文2015,it缺空格，主干栏将粘连词元整体列为主语定位；语法上主句是it picked two newcomers，2015并非主语的一部分。
+point When从句说明收购的时间背景，主句是it picked two newcomers；it指Microsoft。
+
+
+
 
 # 2021-3|0:1
 type 并列句｜but连接两种技术地位；过去分词定语
@@ -389,28 +402,34 @@ mod in its own products → used | 范围状语 | 将特色用于微软自家产
 
 # 2021-3|1:1
 type 主从复合句｜making结果补充，that定语从句
-chunks Their teams〔主〕 of engineers〔修〕 stayed on,making them two of the many " acqui-hires"that〔修〕 the biggest companies have used〔C1〕 to feed their great hunger for tech talent.〔C1修〕
-main 主语:Their teams | 谓语:stayed
+chunks Their teams〔主〕 of engineers〔修〕 stayed on,〔主〕 making them two of the many "acqui-hires"〔修〕 that the biggest companies have used〔C1〕 to feed their great hunger for tech talent.〔C1修〕
+main 主语:Their teams | 谓语:stayed on
 gist 工程师团队留任，使这些收购成为巨头获取人才的收购式招聘
-C1 定语从句 | 修饰acqui-hires | that | 前面是收购式招聘名词，关系词that与前词粘连；后面companies have used缺宾语，that代指这类收购作used的宾语 | 主语:the biggest companies | 谓语:have used
+C1 定语从句 | 修饰acqui-hires | that | 前面是名词acqui-hires，后面the biggest companies have used缺宾语；that代指这类收购，作used的宾语 | 主语:the biggest companies | 谓语:have used
 mod of engineers → teams | 介词短语作定语 | 工程师团队
-mod on,making them two of the many " acqui-hires"that → stayed | 结果补充及词元限制 | on属于stayed on，making引出结果“使它们成为收购式招聘”；原文on,making及acqui-hires"that均粘连，无法独立分开定位
+mod making them two of the many "acqui-hires" → 整句 | 现在分词作结果补充 | 工程团队留下来，使两笔交易成为收购式招聘的例子
 mod to feed their great hunger for tech talent → used | 不定式作目的状语 | 利用收购满足技术人才需求
-point 主句谓语是stayed on；making本身不带时态。因词元粘连，限定谓语栏只独立定位stayed，两个边界的真实关系在此说明。
+point stayed on是继续留下来；making没有独立时态，补充说明团队留下所形成的结果。
+
+
+
+
 
 # 2021-3|2:0
 type 主从复合句｜that定语从句
-chunks To Microsoft's critics,the〔修〕 fates〔主〕 of Wunderlist and Sunrise〔修〕 are examples〔主〕 of a remorseless drive〔修〕 by Big Tech〔修〕 to chew up any innovative companies〔修〕 that lie〔C1〕 in their path.〔C1修〕
+chunks To Microsoft's critics,〔修〕 the fates〔主〕 of Wunderlist and Sunrise〔修〕 are examples〔主〕 of a remorseless drive〔修〕 by Big Tech〔修〕 to chew up any innovative companies〔修〕 that lie〔C1〕 in their path.〔C1修〕
 main 主语:fates | 谓语:are | 表语:examples
 gist 批评者认为两款应用的命运体现巨头吞噬创新企业的冲动
 C1 定语从句 | 修饰companies | that | 前面是companies，后面lie in their path缺主语；that代指创新企业作主语 | 主语:that | 谓语:lie
-mod To Microsoft's critics,the → 整句 | 观点来源及粘连说明 | To Microsoft's critics表示在微软批评者看来；末尾the语法上属于后面的fates，因原文粘连无法独立切开
+mod To Microsoft's critics → 整句 | 观点来源 | 在微软的批评者看来
 mod of Wunderlist and Sunrise → fates | 介词短语作定语 | 两款应用的命运
 mod of a remorseless drive → examples | 介词短语作定语 | 是无情吞并冲动的例子
 mod by Big Tech → drive | 主体说明 | 发动吞并的是科技巨头
 mod to chew up any innovative companies → drive | 不定式作后置定语 | 吞下任何创新企业的冲动
 mod in their path → lie | 地点状语 | 挡在巨头发展道路上
-point chew up是吞并的比喻；原文critics,the粘连不改变fates为主语中心。
+point chew up在此比喻吞并企业；主语中心是fates，of Wunderlist and Sunrise说明是谁的命运。
+
+
 
 # 2021-3|2:1
 type 主从复合句｜引语内并列谓语，分词补充含定语从句
@@ -496,28 +515,30 @@ point wading是动名词结构内部动作，不是request的谓语；their指�
 
 # 2021-3|5:0
 type 简单句｜动名词主语，given背景与独立补充
-chunks Given their combined market value of more than $5.5 trillion,〔修〕 rifling through such small deals-many of them much less prominent than Wunderlist and Sunrise-might〔主〕 seem beside the point.〔主〕
-main 主语:rifling through such small deals-many of them much less prominent than Wunderlist and Sunrise-might | 谓语:seem | 表语:beside the point
+chunks Given their combined market value of more than $5.5 trillion,〔修〕 rifling through such small deals〔主〕 - many of them much less prominent than Wunderlist and Sunrise -〔修〕 might seem beside the point.〔主〕
+main 主语:rifling through such small deals | 谓语:might seem | 表语:beside the point
 gist 考虑巨头市值，追查这类小交易似乎无关紧要
 mod Given their combined market value of more than $5.5 trillion → 整句 | 背景状语 | 考虑到它们合计超过5.5万亿美元的市值
-point 原文deals-many与Sunrise-might两端粘连，完整动名词主语实际是rifling through such small deals；many of them much less prominent…是插入补充，might seem才是谓语。因词元限制主语栏整体定位该段，谓语栏仅定位seem，不把might或插入段真当主语内容。
+point 动名词短语rifling through such small deals整体作主语，might seem是谓语；破折号内many of them…补充说明这些小交易。
+mod many of them much less prominent than Wunderlist and Sunrise → deals | 独立主格式补充 | 很多交易远不及Wunderlist和Sunrise显眼，much less prominent前省略being
 
 # 2021-3|5:1
 type 主从复合句｜金额同位补充及that定语从句
-chunks Between them,〔修〕 the five biggest tech companies have spent an average of only $3.4 billion a year〔主〕 on sub- $ 1 billion acquisitions〔修〕 over the past five years-a drop in the ocean〔修〕 compared with their massive financial reserves, and the more than $130 billion of venture capital〔修〕 that was invested〔C1〕 in the US last year.〔C1修〕
+chunks Between them,〔修〕 the five biggest tech companies have spent an average of only $3.4 billion a year〔主〕 on sub- $ 1 billion acquisitions〔修〕 over the past five years - a drop in the ocean〔修〕 compared with their massive financial reserves, and the more than $130 billion of venture capital〔修〕 that was invested〔C1〕 in the US last year.〔C1修〕
 main 主语:the five biggest tech companies | 谓语:have spent | 宾语:an average of only $3.4 billion
 gist 五大巨头小收购的年均开支仅34亿美元，相比其财力很小
 C1 定语从句 | 修饰venture capital | that | 前面是venture capital，后面was invested缺主语；that代指风险投资资金作主语 | 主语:that | 谓语:was invested
 mod Between them → have spent | 合计范围状语 | 五家合起来算
 mod a year → $3.4 billion | 频率限定 | 年均金额
 mod on sub- $ 1 billion acquisitions → spent | 介词补足 | 用于低于10亿美元的收购
-mod over the past five years-a drop in the ocean → have spent | 时间及同位补充 | 过去五年；a drop in the ocean把这一金额比作沧海一粟。原文years-a粘连，无法精确独立定位边界
+mod over the past five years → have spent | 时间状语 | 过去五年间的支出
 mod compared with their massive financial reserves, and the more than $130 billion of venture capital → $3.4 billion | 比较状语 | 与储备及风险投资总额相比很小，and连接的是两个比较对象
 mod in the US last year → invested | 地点时间状语 | 去年在美国投入的风险资本
+mod a drop in the ocean → $3.4 billion | 同位比喻 | 把34亿美元比作沧海一粟，后面的compared with交代比较对象
 
 # 2021-3|6:0
 type 主从复合句｜say宾语从句中嵌before时间从句
-chunks However,〔修〕 critics say〔主〕 the big companies use such deals〔C1〕 to buy their most threatening potential competitors〔C1修〕 before their businesses have a chance〔C2〕 to gain momentum,〔C2修〕 in some cases as part of a" buy and kill"tactic to simply close them down.〔C1修〕
+chunks However,〔修〕 critics say〔主〕 the big companies use such deals〔C1〕 to buy their most threatening potential competitors〔C1修〕 before their businesses have a chance〔C2〕 to gain momentum,〔C2修〕 in some cases as part of a "buy and kill" tactic to simply close them down.〔C1修〕
 main 主语:critics | 谓语:say | 宾语:C1
 gist 批评者说巨头趁潜在竞争者尚未壮大就买下，有时再关闭
 C1 宾语从句 | 作say宾语 | （省略 that） | 前面say缺观点内容，后面the big companies use such deals主谓宾完整，省略that引出内容 | 主语:the big companies | 谓语:use | 宾语:such deals
@@ -525,7 +546,7 @@ C2 时间状语从句 in C1 | 说明收购发生的时机 | before | 前面to bu
 mod However → 整句 | 转折连接语 | 转向批评者对小交易的担忧
 mod to buy their most threatening potential competitors → use | 不定式作目的状语 | 通过交易买下最有威胁的潜在竞争者
 mod to gain momentum → chance | 不定式作后置定语 | 发展壮大的机会
-mod in some cases as part of a" buy and kill"tactic to simply close them down → buy | 情境与目的补充 | 有些收购属于买下关闭的策略，to close说明策略目的，them指被收购企业
+mod in some cases as part of a "buy and kill" tactic to simply close them down → buy | 情境与目的补充 | 有些收购属于买下关闭的策略，to close说明策略目的，them指被收购企业
 point before不意味着等竞争者发展起来才买；in some cases限定只是部分情况，不能概括所有收购都为关闭。
 
 # 2021-4|0:0
@@ -542,14 +563,16 @@ point We're是We are；not only…but…连接extraneous和intrusive两个表语
 
 # 2021-4|0:1
 type 主从复合句｜省略that的定语从句及宾补不定式
-chunks In one study〔修〕 of the ability〔修〕 she called"thin slicing,"〔C1〕 the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips〔主〕 of professors〔修〕 and to rate the instructor's overall effectiveness.〔主〕
+chunks In one study〔修〕 of the ability〔修〕 she called "thin slicing,"〔C1〕 the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips〔主〕 of professors〔修〕 and to rate the instructor's overall effectiveness.〔主〕
 main 主语:the late psychologist Nalini Ambady | 谓语:asked | 宾语:participants | 宾补:to watch silent 10-second video clips … to rate the instructor's overall effectiveness
 gist 安巴迪让参与者看十秒无声教学片段并评教师效果
-C1 定语从句 | 修饰ability | （省略 that） | 前面是ability，后面she called…缺被称呼的对象，省略关系词作宾语；thin slicing是名称宾补，但与called粘连 | 主语:she | 谓语:called"thin | 宾补:slicing
+C1 定语从句 | 修饰ability | （省略 that） | 前面是名词ability，后面she called…缺宾语，省略的关系词作called的宾语；thin slicing是宾语补足语，说明她给能力起的名称 | 主语:she | 谓语:called | 宾补:thin slicing
 mod In one study → asked | 研究情境状语 | 在其中一项研究里
 mod of the ability → study | 介词短语作定语 | 研究一种能力
 mod of professors → clips | 介词短语作定语 | 教授的视频片段
-point 原文called"thin粘连，无法单独定位called；真实结构是she called该能力thin slicing，called为谓语，thin slicing为宾补。上方定位的词元跨越二者，语法关系以此说明为准。
+point call A B表示把A称为B；这里A由省略的关系词承担，指ability，B是thin slicing。
+
+
 
 # 2021-4|0:2
 type 简单句｜correlate with表相关关系
@@ -643,13 +666,17 @@ mod about it too much → thinking | 内容及程度状语 | 对自动化动作�
 point 引语中的and连接前后陈述，中间插入引述语；It's与you're均为主语及助动词的缩写，不能把doing单独当限定谓语。
 
 # 2021-4|2:2
-type 主从复合句｜if条件从句，原文pilot,you're粘连
-chunks But〔连〕 if you go on automatic pilot,you're〔C1〕 fine.〔主〕
-main 主语＋谓语:pilot,you're | 表语:fine
+type 主从复合句｜if条件从句与主句
+chunks But〔连〕 if you go〔C1〕 on automatic pilot,〔C1修〕 you're fine.〔主〕
+main 主语＋谓语:you're | 表语:fine
 gist 若让熟练动作自动运行，就会表现正常
-C1 条件状语从句 | 限定fine成立的条件 | if | if后you go on automatic pilot主谓及补足完整；逗号后you're fine为主句，二者因缺空格共用一个词元 | 主语:you | 谓语:go
-mod on automatic pilot,you're → go | 方式补足及词元说明 | on automatic pilot表示自动驾驶式运作；逗号后的you're实际属于主句，不属于该介词短语
-point pilot,you're为原文粘连词元，无法独立切块；语法上从句止于pilot，主句为you're fine，pilot不是主语的一部分。
+C1 条件状语从句 | 限定fine成立的条件 | if | if后you go on automatic pilot主谓及补足完整，逗号后的you're fine是主句；if引出条件，不修饰名词 | 主语:you | 谓语:go
+mod on automatic pilot → go | 方式补足 | 像自动驾驶一样，不刻意分析每一步
+point if从句结束于pilot，you're fine回到主句；you're是you are。
+
+
+
+
 
 # 2021-4|2:3
 type 简单句｜系表结构
@@ -680,14 +707,16 @@ point weren't asked是否定被动，不能读成学生没有任何理由；实�
 
 # 2021-4|3:2
 type 主从复合句｜that定语从句；when省略从句与only if条件
-chunks And〔连〕 people made car-buying decisions〔主〕 that were both objectively better and more personally satisfying〔C1〕 when asked to focus on their feelings rather than on details,〔C2〕 but only if the decision was complex-when they had a lot of information〔C3〕 to process.〔C3修〕
+chunks And〔连〕 people made car-buying decisions〔主〕 that were both objectively better and more personally satisfying〔C1〕 when asked to focus on their feelings rather than on details,〔C2〕 but only if the decision was complex〔C3〕 - when they had a lot of information〔C4〕 to process.〔C4修〕
 main 主语:people | 谓语:made | 宾语:car-buying decisions
 gist 复杂决策中，关注感受而非细节的人所作购车决定更好
 C1 定语从句 | 修饰decisions | that | 前面decisions为名词，后面were…缺主语；that代指决定作主语，两个形容词短语并列表语 | 主语:that | 谓语:were | 表语:better … more … satisfying
 C2 时间兼条件状语从句 | 说明作出更好决定的实验要求 | when | when后asked省略与people一致的主语及were；完整意为当人们被要求关注感受时，后接不定式补足被动结构 | 谓语:asked | 主语补足语:to focus on their feelings rather than on details
-C3 条件状语从句 | 限定这一效果只在复杂决定中成立 | if | only if后the decision was complex主系表完整；后面的when they had…解释复杂的含义，complex-when因原文粘连不能准确另切 | 主语:the decision | 谓语:was | 表语:complex-when
+C3 条件状语从句 | 限定更好决策成立的条件 | if | 前面people made decisions主谓宾完整，only if后the decision was complex主系表完整；整块限制这一效果只对复杂决定成立 | 主语:the decision | 谓语:was | 表语:complex
 mod to process → information | 不定式作后置定语 | 需要处理的信息
-point only if明确限制，不能推广到所有决定。原文complex-when粘连，语法上complex为表语，when另起解释性的时间从句they had a lot of information to process；由于同词元边界限制，从句③合并展示并在这里说明内层主谓they had。
+point only if强调必要条件，不能推广到所有决定；破折号后when从句解释这里的复杂情形，即要处理大量信息。
+C4 时间状语从句 in C3 | 说明决定复杂时的具体情形 | when | 前面complex说明决定复杂，when后they had a lot of information主谓宾完整；when引出需要处理大量信息的情形 | 主语:they | 谓语:had | 宾语:a lot of information
+
 
 # 2021-4|4:0
 type 简单句｜被动谓语与only条件范围
@@ -698,27 +727,30 @@ mod only in certain circumstances → unleashed | 限定范围状语 | 只有某
 
 # 2021-4|4:1
 type 主从复合句｜including举例中含两个that定语从句
-chunks In one study,participants〔修〕 completed a battery〔主〕 of eight tasks,〔修〕 including four〔修〕 that tapped reflective thinking〔C1〕 (discerning rules, comprehending vocabulary)〔C1修〕 and four〔修〕 that tapped intuition and creativity〔C2〕 (generating new products or figures of speech).〔C2修〕
-main 主语:study,participants | 谓语:completed | 宾语:a battery
+chunks In one study,〔修〕 participants completed a battery〔主〕 of eight tasks,〔修〕 including four〔修〕 that tapped reflective thinking〔C1〕 (discerning rules, comprehending vocabulary)〔C1修〕 and four〔修〕 that tapped intuition and creativity〔C2〕 (generating new products or figures of speech).〔C2修〕
+main 主语:participants | 谓语:completed | 宾语:a battery
 gist 参与者完成八项任务，一半调用反思，一半调用直觉与创造力
 C1 定语从句 | 修饰第一个four所指任务 | that | 前面four省略tasks，后面tapped reflective thinking缺主语；that代指四项任务作主语 | 主语:that | 谓语:tapped | 宾语:reflective thinking
 C2 定语从句 | 修饰第二个four所指任务 | that | 前面and four表示另一组任务，后面tapped intuition and creativity缺主语；that代指第二组四项任务作主语 | 主语:that | 谓语:tapped | 宾语:intuition and creativity
-mod In one study,participants → 整句 | 情境状语及粘连主语说明 | 语法上In one study是状语，逗号后participants才是主语，因原文study,participants粘连不能独立定位
+mod In one study → completed | 情境状语 | 在其中一项研究中
 mod of eight tasks → battery | 介词短语作定语 | 一套八项任务
 mod including four → tasks | 举例补充 | 其中四项，后接定语从句说明其类型
 mod (discerning rules, comprehending vocabulary) → thinking | 同位例证 | 辨别规则、理解词汇是反思思维的例子
 mod and four → tasks | 并列补充 | 还有另外四项任务
 mod (generating new products or figures of speech) → creativity | 同位例证 | 构思新产品或修辞，举直觉与创造力的例子
-point battery这里指一套任务；study,participants的完整词元包含状语末尾及真正主语，不能真的将study视为completed的主语。
+point battery在此指一套任务；participants才是完成任务的人，In one study只是研究背景。
+
+
+
 
 # 2021-4|4:2
 type 主从复合句｜to which定语从句
-chunks Then〔修〕 they rated the degree〔主〕 to which they had used intuition〔C1〕 ("gut feelings," " hunches," "my heart").〔C1修〕
+chunks Then〔修〕 they rated the degree〔主〕 to which they had used intuition〔C1〕 ("gut feelings," "hunches," "my heart").〔C1修〕
 main 主语:they | 谓语:rated | 宾语:the degree
 gist 随后参与者评估自己使用直觉的程度
 C1 定语从句 | 修饰degree | to which | 前面degree表示程度，后面they had used intuition主谓宾完整；which作to宾语，to which在从句作程度状语 | 主语:they | 谓语:had used | 宾语:intuition
 mod Then → rated | 时间顺序状语 | 完成任务之后再评估
-mod ("gut feelings," " hunches," "my heart") → intuition | 同位解释 | 列出描述直觉的几种表达
+mod ("gut feelings," "hunches," "my heart") → intuition | 同位解释 | 列出描述直觉的几种表达
 point rate是评定程度，不是又做一次任务；to which不是不定式，which为关系代词。
 
 # 2021-4|4:3

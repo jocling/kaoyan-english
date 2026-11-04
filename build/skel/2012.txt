@@ -88,7 +88,7 @@ mod probably → over | 情态 | 可能
 
 # 2012-3|2:5
 type 主从复合句｜arguing 分词短语带 that 宾语从句；no less … than 倒装比较
-chunks In October〔修〕 the Department of Justice filed a brief〔主〕 in the Myriad case,〔修〕 arguing〔修〕 that an isolated DNA molecule "is no less a product of nature…than〔C1〕 are cotton fibres〔C2〕 that have been separated from cotton seeds."〔C3〕
+chunks In October〔修〕 the Department of Justice filed a brief〔主〕 in the Myriad case,〔修〕 arguing〔修〕 that an isolated DNA molecule "is no less a product of nature … than〔C1〕 are cotton fibres〔C2〕 that have been separated from cotton seeds."〔C3〕
 main 主语:the Department of Justice | 谓语:filed | 宾语:a brief
 gist 司法部提交了一份意见书
 C1 宾语从句 | 作 arguing 的宾语 | that | arguing 后缺宾语，that 后 molecule is … 是完整句子 → 宾语从句 | 主语:an isolated DNA molecule | 谓语:"is | 表语:no less a product

@@ -32,8 +32,8 @@ mod climate-friendly eggs → its next big thing | 同位语 | 冒号后揭示�
 point it's 是 it is。bets 的主语是行业，will be 的主语是 what 所指产品；不要把 industry 同时硬当两个动作的主语。
 
 # 2022-1|1:0
-type 并列复合句｜which 补充鸡蛋上市；that 定语从句层层限定鸟、农场和土壤
-chunks These eggs,〔主〕 which are making their debut〔C1〕 now on shelves for as much as $ 8 a dozen,〔C1修〕 are still labeled organic and animal-friendly,〔主〕 but〔连〕 they're also from birds〔主〕 that live on farms〔C2〕 using regenerative agriculture-special techniques〔C2修〕 to cultivate rich soils〔C2修〕 that can trap greenhouse gases.〔C3〕
+type 并列复合句｜which补充鸡蛋上市；that限定birds与soils，using修饰farms
+chunks These eggs,〔主〕 which are making their debut〔C1〕 now on shelves for as much as $ 8 a dozen,〔C1修〕 are still labeled organic and animal-friendly,〔主〕 but〔连〕 they're also from birds〔主〕 that live on farms〔C2〕 using regenerative agriculture - special techniques〔C2修〕 to cultivate rich soils〔C2修〕 that can trap greenhouse gases.〔C3〕
 main 主语:These eggs | 谓语:are … labeled | 主语补足语:organic and animal-friendly || &but || 主语＋谓语:they're | 表语:from birds
 gist 这些鸡蛋仍具备有机和动物友好属性，还来自再生农业农场
 C1 非限制性定语从句 | 补充 eggs 的上市与售价 | which | 前面是 eggs，后面 are making their debut 缺主语；which 代指鸡蛋作主语 | 主语:which | 谓语:are making | 宾语:their debut
@@ -43,9 +43,11 @@ mod now on shelves for as much as $ 8 a dozen → making | 时间地点和价格
 mod still → labeled | 时间状语 | 仍然具有这些标签
 mod also → from birds | 添加状语 | 在有机与动物友好之外再加一层来源特点
 mod on farms → live | 地点状语 | 鸡生活在农场
-mod using regenerative agriculture-special techniques → farms | 现在分词作后置定语 | 农场采用再生农业；原文 agriculture-special 连字，语义上 special techniques 解释 regenerative agriculture，不当成一个完整英语单词教学
+mod using regenerative agriculture → farms | 现在分词作后置定语 | 采用再生农业的农场；using没有独立时态
 mod to cultivate rich soils → techniques | 不定式作后置定语 | 技术用于培育肥沃土壤
-point they're 是 they are；using 无独立时态，不是与 live 并列的谓语。agriculture-special 的原始粘连保留并说明，未改写。
+point they're是they are；using修饰farms，special techniques在破折号后解释regenerative agriculture，to cultivate说明技术的用途。
+mod special techniques → regenerative agriculture | 同位解释 | special techniques解释再生农业是什么样的技术
+
 
 # 2022-1|1:1
 type 简单句｜被动谓语＋as doing
@@ -205,20 +207,24 @@ point have 与 plan 并列，plan 内又接 to have；原文按复数 Americans 
 
 # 2022-2|1:1
 type 主从复合句｜表语前置倒装；that 内容从句含who定语、if让步
-chunks Even more surprising is〔主〕 that more than half〔C1〕 of "unretirees"-those〔C1修〕 who plan to work〔C2〕 in retirement〔C2修〕 or went back to work〔C2〕 after retiring-said〔C2修〕 they would be employed〔C3〕 in their later years〔C3修〕 even if they had enough money〔C4〕 to settle down,〔C4修〕 the survey showed.〔修〕
+chunks Even more surprising is〔主〕 that more than half〔C1〕 of "unretirees" - those〔C1修〕 who plan to work〔C2〕 in retirement〔C2修〕 or went back to work〔C2〕 after retiring〔C2修〕 - said〔C1〕 they would be employed〔C3〕 in their later years〔C3修〕 even if they had enough money〔C4〕 to settle down,〔C4修〕 the survey showed.〔修〕
 main 表语:Even more surprising | 谓语:is | 主语:C1
 gist 更意外的是，半数以上不退休者即使有钱也打算晚年工作
-C1 主语从句 | 倒装后置的主语，解释什么更令人意外 | that | 前面表语 Even more surprising 和 is 前置；that 后本应为 more than half…said…完整陈述，但原文 retiring-said 粘连，said 不能准确独立定位，结构见point | 主语:more than half | 宾语:C3
+C1 主语从句 | 后置的真正主语，解释什么令人意外 | that | 前面Even more surprising is将表语和系动词前置，that后more than half…said…主谓宾完整；that只连接，整块作主语 | 主语:more than half | 谓语:said | 宾语:C3
 C2 定语从句 in C1 | 修饰 those，说明不退休者的两种情况 | who | 前面 those 指人，后面 plan…或 went…都缺共用主语；who 作主语，or 连接计划退休后工作与退休后返岗 | 主语:who | 谓语:plan | 宾语:to work | 谓语:went back
-C3 宾语从句 in C1 | 作原文粘连词元中 said 的宾语 | （省略 that） | 前面实际引述动词为 said，后面 they would be employed 主谓完整，省略that，内容是晚年仍会就业 | 主语:they | 谓语:would be employed
+C3 宾语从句 in C1 | 作said的宾语 | （省略 that） | 前面said缺说的内容，后面they would be employed主谓完整；省略that，说明晚年仍会工作 | 主语:they | 谓语:would be employed
 C4 让步状语从句 in C3 | 即使有钱也仍工作 | even if | 前面 they would be employed 已完整，后面 they had enough money 主谓宾完整；even if 引出让步条件 | 主语:they | 谓语:had | 宾语:enough money
 mod to work#2 → went back | 目标补足 | go back to work指重返工作岗位；不是go back的表语
 mod in retirement → work | 时间状语 | 在退休期间
-mod after retiring-said → went back | 原文粘连处的时间说明 | after retiring 说明退休后返岗，-said 本应在插入说明结束后引出主句谓语；此词元跨层，只能整体定位
+mod after retiring → went back | 时间状语 | 在退休之后重新回去工作
 mod in their later years → employed | 时间状语 | 在他们晚年
 mod to settle down → money | 不定式作后置定语 | 足以安顿生活的钱
 mod the survey showed → 整句 | 引述语 | 调查显示前面的结果，非并列的另一个事实
-point 原文 unretirees"-those 与 retiring-said 使主干、插入说明粘连。真实外层是 more than half of unretirees said C3；said 在 retiring-said 词元内，当前骨架仅标能准确定位的部分。第二处to work为返回工作的目标，非系动词表语；词元问题留待原文修正，不静默拆写。
+point 外层主语从句是more than half…said C3；破折号内those who…解释unretirees，said在破折号后接回。第二处to work表示重返工作岗位。
+
+
+
+
 
 # 2022-2|2:0
 type 简单句｜否定系表结构
@@ -450,11 +456,11 @@ mod of dark patterns → examples | 介词短语作定语 | 前面注册容易�
 
 # 2022-3|1:0
 type 主从复合句｜过去分词前置；that定语从句内含不定式目的
-chunks First coined〔修〕 in 2010 by user experience expert Harry Brignull,〔修〕 " dark patterns" is a catch-all term〔主〕 for practices〔修〕 that manipulate user interfaces〔C1〕 to influence the decision-making ability of users.〔C1修〕
-main 主语:" dark patterns" | 谓语:is | 表语:a catch-all term
+chunks First coined〔修〕 in 2010 by user experience expert Harry Brignull,〔修〕 "dark patterns" is a catch-all term〔主〕 for practices〔修〕 that manipulate user interfaces〔C1〕 to influence the decision-making ability of users.〔C1修〕
+main 主语:"dark patterns" | 谓语:is | 表语:a catch-all term
 gist 暗黑模式是操纵界面、影响用户决策能力的做法的统称
 C1 定语从句 | 修饰practices | that | 前面是practices，后面manipulate user interfaces缺主语；that指这些做法，作manipulate的主语 | 主语:that | 谓语:manipulate | 宾语:user interfaces
-mod First coined → " dark patterns" | 过去分词作补充说明 | 该术语最早被提出，coined没有限定助动词
+mod First coined → "dark patterns" | 过去分词作补充说明 | 该术语最早被提出，coined没有限定助动词
 mod in 2010 by user experience expert Harry Brignull → coined | 时间与施事补充 | 2010年由用户体验专家提出
 mod for practices → term | 介词短语作定语 | 对这些做法的统称
 mod to influence the decision-making ability of users → manipulate | 不定式作目的状语 | 操纵界面以影响用户决策能力
@@ -483,13 +489,13 @@ mod of 53,000 product pages and 11,000 websites → study | 介词短语作定�
 point 主语比例中中心one为单数，因此employs用三单；这里的研究结果用于说明普遍程度。
 
 # 2022-3|2:1
-type 主从复合句｜Though省略让步；原文of断成o f
-chunks Though widely prevalent,〔C1〕 the concept o f dark patterns is still not well understood.〔主〕
+type 主从复合句｜Though引出省略的让步状语从句
+chunks Though widely prevalent,〔C1〕 the concept of dark patterns is still not well understood.〔主〕
 main 主语:the concept | 谓语:is … not … understood
 gist 虽然广泛存在，人们对暗黑模式概念仍不理解
 C1 让步状语从句（省略） | 承认暗黑模式普遍存在 | Though | Though后widely prevalent没有显式主语和be，为省略结构；与主句不被充分理解形成让步，语义上普遍的是暗黑模式 | 表语:prevalent
 mod widely → prevalent | 程度状语 | 广泛存在
-mod o f dark patterns → concept | 原文断词处的定语 | o f按语义为of，原字元保留，不把o和f当独立英语单词
+mod of dark patterns → concept | 介词短语作定语 | 暗黑模式这一概念
 mod still → understood | 时间状语 | 仍然
 mod well → understood | 程度状语 | 没有得到充分理解
 point 省略从句的逻辑对象是暗黑模式；主句主语中心为concept，不把dark patterns当is的主语。
@@ -553,14 +559,17 @@ mod under the California Consumer Privacy Act (CCPA) → regulations | 依据定
 point seeking在省略从句里展示保留部分，完整语义是consumers are seeking；不把它当主句的独立时态谓语。
 
 # 2022-3|4:2
-type 主从复合句｜原文patterns-this粘连；why定语从句
-chunks The regulations aim to ban dark patterns-this means prohibiting companies〔主〕 from using u confusing language or unnecessary steps〔修〕 such as forcing them to click through multiple screens or listen to reasons〔修〕 why they shouldn't opt out."〔C1〕
-main 主语:The regulations | 谓语:aim | 宾语:to ban dark patterns-this || 主语:patterns-this | 谓语:means | 宾语:prohibiting companies
+type 并列复合句｜破折号后解释前句；why定语从句
+chunks The regulations aim to ban dark patterns〔主〕 - this means prohibiting companies〔主〕 from using confusing language or unnecessary steps〔修〕 such as forcing them to click through multiple screens or listen to reasons〔修〕 why they shouldn't opt out."〔C1〕
+main 主语:The regulations | 谓语:aim | 宾语:to ban dark patterns || 主语:this | 谓语:means | 宾语:prohibiting companies
 C1 定语从句 | 修饰reasons | why | 前面是原因名词reasons，后面they shouldn't opt out主谓完整；why作原因状语，解释所谓不应退出的理由 | 主语:they | 谓语:shouldn't opt out
 gist 规定旨在禁止用混淆语言或多余步骤阻挠用户退出
-mod from using u confusing language or unnecessary steps → prohibiting | 介词补足 | prohibit companies from doing，禁止公司采用混淆语言或多余步骤；u是原文异常字元，未自行删除
+mod from using confusing language or unnecessary steps → prohibiting | 介词补足 | prohibit companies from doing表示禁止公司采用混淆语言或多余步骤
 mod such as forcing them to click through multiple screens or listen to reasons → unnecessary steps | 举例说明 | 例如逼用户连续点击多个界面或听取不退出的理由
-point 原文patterns-this把第一分句宾语尾部与第二分句主语粘连，不能准确分别高亮；此处第一组宾语仅展示含粘连的原词元，第二分句真实主语this也在该词元内，骨架栏不应将其他位置的the regulations误作means主语。原字元u及连字符均待原文机制修正。
+point 破折号后this回指禁止暗黑模式这件事，means引出解释；prohibiting后companies是宾语，from using…说明被禁止的行为。
+
+
+
 
 # 2022-3|5:0
 type 主从复合句｜As背景状语与there be
@@ -648,13 +657,14 @@ mod instead → focused | 对照状语 | 替代前一组的肉食伦理，形成
 
 # 2022-4|1:4
 type 简单句｜插入状态说明与破折号样本补充
-chunks Then,〔修〕 unknown to the students,〔修〕 the researchers studied their anonymized meal-card purchases〔主〕 for that semester-nearly 14,000 receipts for almost 500 students.〔修〕
+chunks Then,〔修〕 unknown to the students,〔修〕 the researchers studied their anonymized meal-card purchases〔主〕 for that semester - nearly 14,000 receipts for almost 500 students.〔修〕
 main 主语:the researchers | 谓语:studied | 宾语:their anonymized meal-card purchases
 gist 研究者在学生不知情时分析了该学期匿名餐卡记录
 mod Then → studied | 顺序状语 | 教学干预之后
 mod unknown to the students → 整句 | 形容词作补充说明 | 学生不知道研究者正在分析购买记录
-mod for that semester-nearly 14,000 receipts for almost 500 students → purchases | 时间与数量补充 | 该学期近500名学生约14000张小票；semester-nearly为原文连字符粘连，nearly不是semester的词缀
+mod for that semester → purchases | 时间定语 | 研究者查看该学期的购买记录
 point unknown形容研究安排不为学生所知，不是学生是“不认识的人”；anonymized修饰记录，不是另一个限定谓语。
+mod nearly 14,000 receipts for almost 500 students → purchases | 数量补充 | 近500名学生的近14000张小票
 
 # 2022-4|2:0
 type 并列复合句｜分号前后主句均含宾语从句
@@ -669,16 +679,19 @@ mod on a range of behaviors → differ | 比较范围状语 | 在一系列实际
 mod including voting rates, blood donation and returning library books → behaviors | 举例说明 | 包括投票、献血、还书等，非仅道德知识掌握
 
 # 2022-4|2:1
-type 并列复合句｜who定语、containing分词；percent-and粘连
-chunks But〔连〕 among student subjects〔修〕 who discussed meat ethics,〔C1〕 meal purchases〔主〕 containing meat〔修〕 decreased〔主〕 from 52 to 45 percent-and〔修〕 this effect held steady〔主〕 for the study's duration of several weeks.〔修〕
-main 主语:meal purchases | 谓语:decreased || 主语:this effect | 谓语:held | 表语:steady
+type 并列复合句｜who定语从句、containing分词；and连接两分句
+chunks But〔连〕 among student subjects〔修〕 who discussed meat ethics,〔C1〕 meal purchases〔主〕 containing meat〔修〕 decreased〔主〕 from 52 to 45 percent〔修〕 - and〔连〕 this effect held steady〔主〕 for the study's duration of several weeks.〔修〕
+main 主语:meal purchases | 谓语:decreased || &and || 主语:this effect | 谓语:held | 表语:steady
 gist 肉食伦理组含肉餐食购买比例由52%降到45%，效果持续数周
 C1 定语从句 | 修饰student subjects | who | 前面subjects指学生参与者，后面discussed meat ethics缺主语；who作主语，限定实验组 | 主语:who | 谓语:discussed | 宾语:meat ethics
 mod among student subjects → decreased | 范围状语 | 在讨论过肉食伦理的学生中
 mod containing meat → purchases | 现在分词作后置定语 | 买的是含肉的餐食，不是直接买生肉的次数
-mod from 52 to 45 percent-and → decreased | 幅度说明及原粘连处 | 从52%到45%；词元末-and在语法上连接下一主句，不能当百分比单位的一部分
+mod from 52 to 45 percent → decreased | 幅度说明 | 含肉餐食的购买比例从52%降到45%
 mod for the study's duration of several weeks → held | 持续时间状语 | 在研究覆盖的数周内保持
-point held steady是保持稳定；原文percent-and使连接词不能单独定位，已保留字元并说明。不能由数周观察外推永久有效。
+point and后有新的主语this effect，连接另一分句；held steady表示保持稳定。数周观察不能直接外推为永久效果。
+
+
+
 
 # 2022-4|2:2
 type 简单句｜remain表状态
@@ -719,11 +732,11 @@ mod "Easy come, easy go." → 整句 | 引语概括 | 来得容易去得快，�
 
 # 2022-4|4:0
 type 主从复合句｜suspects后省略that；连字符后补充解释
-chunks Schwitzgebel suspects〔主〕 the greatest impact came〔C1〕 from social influence-〔C1修〕 classmates or teaching assistants〔主〕 leading the discussions〔修〕 may have shared their own vegetarianism,〔主〕 showing it as achievable or more common.〔修〕
+chunks Schwitzgebel suspects〔主〕 the greatest impact came〔C1〕 from social influence〔C1修〕 -〔修〕 classmates or teaching assistants〔主〕 leading the discussions〔修〕 may have shared their own vegetarianism,〔主〕 showing it as achievable or more common.〔修〕
 main 主语:Schwitzgebel | 谓语:suspects | 宾语:C1 || 主语:classmates or teaching assistants | 谓语:may have shared | 宾语:their own vegetarianism
 gist 他推测社会影响最大：同学或助教的素食分享让做法显得可行且常见
 C1 宾语从句 | 作suspects的宾语 | （省略 that） | 前面suspects缺推测内容，后面the greatest impact came主谓完整，省略that；连字符后具体解释社会影响如何发生 | 主语:the greatest impact | 谓语:came
-mod from social influence- → came | 来源补足 | 来自社会影响；词末连字符是解释性边界，按原文保留
+mod from social influence → came | 来源补足 | 来自社会影响；破折号后补充说明具体影响方式
 mod leading the discussions → classmates or teaching assistants | 现在分词作后置定语 | 指主持讨论的同学或助教
 mod showing it as achievable or more common → 整句 | 现在分词作结果补充 | 分享使素食习惯显得做得到或更普遍，it指vegetarianism
 point suspects与may保留推测，不是已分离检验了各因素的因果强度；leading不能升为主句谓语。
@@ -754,10 +767,10 @@ mod Now → are probing | 时间状语 | 当前继续研究
 mod of teaching style, teaching assistants' eating habits and students' video exposure → effects | 介词短语作定语 | 三个并列因素的具体影响，不是已确定单一解释
 
 # 2022-4|4:4
-type 主从复合句｜原文主语、who从句、will粘连
-chunks Meanwhile,〔修〕 Schwitzgebel-who had predicted no effect-will〔C1〕 be eating his words.〔主〕
-main 主语:Schwitzgebel-who | 谓语:effect-will … be eating | 宾语:his words
+type 主从复合句｜who非限制性定语从句插入主句
+chunks Meanwhile,〔修〕 Schwitzgebel〔主〕 - who had predicted no effect -〔C1〕 will be eating his words.〔主〕
+main 主语:Schwitzgebel | 谓语:will be eating | 宾语:his words
 gist 曾预言没有效果的施维茨格贝尔如今要收回自己的话
-C1 非限制性定语从句 | 修饰Schwitzgebel，提醒他原来的预测 | who | 原文Schwitzgebel-who把先行人名与who粘连，had predicted后有宾语no effect，实际缺主语，由who承担；effect-will又跨到主句助动词，定位不能精确分开 | 谓语:had predicted | 宾语:no effect-will
+C1 非限制性定语从句 | 修饰Schwitzgebel，提醒他原来的预测 | who | 前面是人名Schwitzgebel，后面had predicted no effect有谓语和宾语但缺主语；who代指他作主语 | 主语:who | 谓语:had predicted | 宾语:no effect
 mod Meanwhile → 整句 | 时间与篇章状语 | 与继续研究并行，研究者需要修正原先判断
-point 原文Schwitzgebel-who与effect-will为跨成分粘连词元。真实主干是Schwitzgebel will be eating his words；从句是who had predicted no effect。骨架中含整词元只为保留可定位原文，不能把-who当姓名词缀，或把effect当will的组成部分。eat one's words表示收回先前判断，不是字面吃话。
+point who从句在两个破折号之间；will be eating回到主句。eat one's words表示收回先前说过的话。

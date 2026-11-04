@@ -1,0 +1,488 @@
+# special-2023-cloze|0:0
+type 多分句条目｜定语、让步与冒号补说
+chunks Here’s a common scenario〔主〕 that any number of entrepreneurs face today:〔C1〕 you’re the CEO〔主〕 of a small business,〔修〕 and〔连〕 though you’re making a nice 【profit】 ,〔C2〕 you need to find a way〔主〕 to take it to the next level.〔修〕
+main 谓语:Here’s | 主语:a common scenario || & || 主语＋谓语:you’re | 表语:the CEO || &and || 主语:you | 谓语:need | 宾语:to find a way
+C1 定语从句 | 修饰scenario | that | scenario后entrepreneurs face缺宾语，that指情形 | 主语:any number of entrepreneurs | 谓语:face | 宾语:that
+C2 状语从句（让步） | 虽赚钱仍需发展 | though | though后you’re making a profit完整，表示让步 | 主语＋谓语:you’re making | 宾语:a nice 【profit】
+mod of a small business → CEO | 介词定语 | 小企业的首席执行官。
+mod to take it to the next level → way | 不定式定语 | 把企业提升到下一阶段的办法。
+gist 这里有常见情形：你是负责人，需要找到办法。
+point Here’s为Here is，here是引导副词，主语是a common scenario；缩合词整词定位，实际谓语只有is。
+cn 如今许多创业者都面临这样一种常见情况：你是一家小企业的首席执行官，虽然利润不错，却需要找到让企业更上一层楼的办法。
+
+# special-2023-cloze|0:1
+type 主从复合句｜what主语从句
+chunks What you need to do〔C1〕 is 【prioritize】 growth〔主〕 by establishing a growth team.〔修〕
+main 主语:C1 | 谓语:is | 表语:【prioritize】 growth
+C1 主语从句 | 作is的主语 | What | What块位于is前；you need to do缺do的宾语，what代要做的事情 | 主语:you | 谓语:need | 宾语:to do
+mod by establishing a growth team → prioritize | 方式状语 | 通过建立增长团队。
+gist 要做的是优先推动增长。
+point 主语从句含do时，表语不定式可省略to；prioritize不是另一个带时态谓语。
+cn 你需要做的是建立一支增长团队，把增长放在优先位置。
+
+# special-2023-cloze|0:2
+type 并列句｜被动与主动谓语
+chunks A growth team is made up〔主〕 of members from different departments within your company,〔修〕 and〔连〕 it harnesses the power〔主〕 of collaboration to focus 【exclusively】 on finding ways to grow.〔修〕
+main 主语:A growth team | 谓语:is made up || &and || 主语:it | 谓语:harnesses | 宾语:the power
+mod of members from different departments within your company → made up | 构成补充 | 由公司不同部门成员组成。
+mod of collaboration → power | 介词定语 | 协作的力量。
+mod to focus 【exclusively】 on finding ways to grow → harnesses | 目的状语 | 专注寻找增长办法。
+gist 团队由成员组成，并运用协作力量。
+cn 增长团队由公司不同部门的成员组成，借助协作的力量，专注于寻找促进增长的方法。
+
+# special-2023-cloze|0:3
+type 简单句｜let祈使结构
+chunks Let’s look〔主〕 at a real-world 【example】 .〔修〕
+main 谓语:Let’s | 宾补:look
+mod at a real-world 【example】 → look | 介词短语 | 看现实中的例子。
+gist 让我们看看。
+point Let’s为Let us的缩合，us是let的宾语而非主语；祈使主语you省略。整词定位内含谓语Let和宾语us，look为宾补。
+cn 让我们看一个现实中的例子。
+
+# special-2023-cloze|0:4
+type 简单句｜have复合宾语与分词
+chunks Prior to forming a growth team,〔修〕 the software company BitTorrent had 50 employees〔主〕 working〔主〕 in the 【traditional】 departments of engineering, marketing and product development.〔修〕
+main 主语:the software company BitTorrent | 谓语:had | 宾语:50 employees | 宾补:working
+mod Prior to forming a growth team → had | 时间状语 | 建立增长团队之前。
+mod in the 【traditional】 departments of engineering, marketing and product development → working | 地点范围 | 在工程、营销、产品开发等传统部门工作。
+gist 公司有50名员工在工作。
+cn 建立增长团队以前，软件公司BitTorrent有50名员工，分属工程、营销和产品开发等传统部门。
+
+# special-2023-cloze|0:5
+type 主从复合句｜when非限制定语
+chunks This brought them good results〔主〕 until 2012,〔修〕 when their growth plateaued.〔C1〕
+main 主语:This | 谓语:brought | 间接宾语:them | 直接宾语:good results
+C1 定语从句 | 补充说明2012 | when | 先行词2012为时间；when后their growth plateaued主谓完整，when作时间状语 | 主语:their growth | 谓语:plateaued
+mod until 2012 → brought | 时间界限 | 效果持续至2012年。
+gist 这给他们带来好结果。
+cn 这一直给他们带来不错的效果，直到2012年，增长陷入停滞。
+
+# special-2023-cloze|0:6
+type 主从复合句｜that表语
+chunks The 【problem】 was〔主〕 that too many customers were using the basic, free version of their product.〔C1〕
+main 主语:The 【problem】 | 谓语:was | 表语:C1
+C1 表语从句 | 说明问题所在 | that | 系动词was后缺表语；that后customers were using及宾语完整 | 主语:too many customers | 谓语:were using | 宾语:the basic, free version
+mod of their product → version | 介词定语 | 他们产品的版本。
+gist 问题是下述情况。
+cn 问题在于，太多客户使用的是他们产品的基础免费版。
+
+# special-2023-cloze|0:7
+type 简单句｜despite让步短语
+chunks And〔连〕 【despite】 improvements to the premium, paid version,〔修〕 few people were making the upgrade.〔主〕
+main 主语:few people | 谓语:were making | 宾语:the upgrade
+mod 【despite】 improvements to the premium, paid version → making | 让步状语 | 虽然付费高级版有所改进。
+gist 几乎没人升级。
+cn 而且，尽管高级付费版已有改进，升级的人仍然很少。
+
+# special-2023-cloze|0:8
+type 主从复合句｜时间与定语从句
+chunks Things changed,〔主〕 【however】 ,〔修〕 when an innovative project-marketing manager came aboard, 【created】 a growth team and sparked the kind〔C1〕 of 【fresh】 perspective〔C1修〕 they needed.〔C2〕
+main 主语:Things | 谓语:changed
+C1 状语从句（时间） | 交代转变发生时 | when | when后manager came aboard、created、sparked共主语，结构完整 | 主语:an innovative project-marketing manager | 谓语:came aboard … 【created】 … sparked | 宾语:a growth team … the kind
+C2 定语从句 in C1 | 修饰perspective | （省略 that） | perspective后they needed缺宾语，关系词指新视角 | 主语:they | 谓语:needed
+mod of 【fresh】 perspective → kind | 介词定语 | 某种全新视角。
+gist 然而情况改变了。
+cn 然而，一位富有创新精神的项目营销经理加入公司，建立增长团队，带来他们需要的新视角，情况由此改变。
+
+# special-2023-cloze|0:9
+type 主从复合句｜形式主语与that主语从句
+chunks By looking at engineering issues from a marketing point of view,〔修〕 it became clear〔主〕 that the 【lack】 of upgrades wasn’t due to a quality issue.〔C1〕
+main 形式主语:it | 谓语:became | 表语:clear | 真正主语:C1
+C1 主语从句 | 作真正主语 | that | it先占主语位；that后lack wasn’t due to...完整，提供变得清楚的事实 | 主语:the 【lack】 | 谓语:wasn’t | 表语:due to a quality issue
+mod By looking at engineering issues from a marketing point of view → became | 方式状语 | 从营销角度看技术问题。
+mod of upgrades → lack | 介词定语 | 升级的缺乏。
+gist 这一事实变清楚了。
+point By短语按团队采取的观察方式理解；不把形式主语it当作looking的行为人。
+cn 从营销角度审视技术问题后，团队明白了：用户不升级，并非因为产品质量有问题。
+
+# special-2023-cloze|0:10
+type 主从复合句｜what作介词宾语
+chunks Most customers were simply unaware〔主〕 of the premium version〔修〕 and〔连〕 what it offered.〔C1〕
+main 主语:Most customers | 谓语:were | 表语:unaware
+C1 宾语从句 | 与version并列作of的宾语 | what | of后需要知晓对象；what后it offered缺宾语，what代所提供的内容 | 主语:it | 谓语:offered | 宾语:what
+mod of the premium version and what it offered → unaware | 介词补充 | 不知道高级版及其功能。
+gist 大多数客户并不知情。
+cn 大多数客户只是不知道有高级版，也不了解它提供什么。
+
+# special-2023-cloze|0:11
+type 多分句条目｜分词背景与结果陈述
+chunks Armed with this 【insight】 ,〔修〕 the marketing and engineering teams joined forces〔主〕 to raise awareness by prominently 【promoting】 the premium version to users of the free version.〔修〕 【As a result】 ,〔修〕 upgrades skyrocketed,〔主〕 and〔连〕 revenue increased〔主〕 by 92 percent.〔修〕
+main 主语:the marketing and engineering teams | 谓语:joined | 宾语:forces || & || 主语:upgrades | 谓语:skyrocketed || & || 主语:revenue | 谓语:increased
+mod Armed with this 【insight】 → teams | 分词背景 | 团队掌握了这一认识。
+mod to raise awareness by prominently 【promoting】 the premium version to users of the free version → joined | 目的与方式 | 向免费用户突出推广高级版以提高认知。
+mod by 92 percent → increased | 幅度状语 | 增加92%。
+gist 团队联合行动；升级激增，收入增加。
+cn 有了这一认识，营销和工程团队联手，向免费版用户大力推广高级版以提高知晓度。结果，升级数量猛增，收入增长了92%。
+
+# special-2023-cloze|0:12
+type 简单句｜for引出不定式逻辑主语
+chunks But〔连〕 in order for your growth team to succeed,〔修〕 it needs to have a strong leader.〔主〕
+main 主语:it | 谓语:needs | 宾语:to have a strong leader
+mod in order for your growth team to succeed → needs | 目的状语 | 为让团队成功，for后team是不定式的逻辑主语。
+gist 团队需要强有力的领导者。
+cn 但要让增长团队取得成功，必须有一位强有力的领导者。
+
+# special-2023-cloze|0:13
+type 主从复合句｜who定语
+chunks It needs someone〔主〕 who can 【unite】 the interdisciplinary team and keep them on course for improvement.〔C1〕
+main 主语:It | 谓语:needs | 宾语:someone
+C1 定语从句 | 修饰someone | who | someone后can unite缺主语，who代人；keep与unite共用can | 主语:who | 谓语:can 【unite】 … keep | 宾语:the interdisciplinary team … them
+mod on course for improvement → keep | 结果补充 | 让团队保持在改进的轨道上。
+gist 它需要这样的人。
+cn 它需要有人能团结跨学科团队，使团队始终朝着改进的方向前进。
+
+# special-2023-cloze|0:14
+type 简单句｜三个并列谓语
+chunks This leader will 【identify】 the target area, set clear goals and establish a time frame〔主〕 for the 【accomplishment】 of these goals.〔修〕
+main 主语:This leader | 谓语:will 【identify】 … set … establish | 宾语:the target area … clear goals … a time frame
+mod for the 【accomplishment】 of these goals → frame | 介词定语 | 完成这些目标的时间框架。
+gist 领导者确定领域、制定目标并安排时间。
+cn 这位领导者会确定目标领域、设定明确目标，并规定完成目标的时间框架。
+
+# special-2023-cloze|0:15
+type 多分句条目｜省略让步与宾语从句
+chunks The growth leader is also 【responsible】〔主〕 for keeping the team focused on moving forward and steering them clear of distractions.〔修〕 【While】 attractive,〔C1〕 new ideas can be distracting; the team leader must recognize〔主〕 when these ideas don’t 【serve】 the current goal and need to be put on the back burner.〔C2〕
+main 主语:The growth leader | 谓语:is | 表语:【responsible】 || & || 主语:new ideas | 谓语:can be | 表语:distracting || & || 主语:the team leader | 谓语:must recognize | 宾语:C2
+C1 状语从句（让步，省略） | 虽吸引人仍会干扰 | 【While】 | While后attractive省略new ideas are；补全为完整主系表，表示让步 | 表语:attractive
+C2 宾语从句 | 作recognize的宾语 | when | recognize后缺识别内容；when后ideas don’t serve并列need结构完整，when表示何种时候 | 主语:these ideas | 谓语:don’t 【serve】 … need | 宾语:the current goal … to be put on the back burner
+mod for keeping the team focused on moving forward and steering them clear of distractions → responsible | 职责补充 | 让团队专注推进并避开干扰。
+gist 领导者负责保持专注，也须判断新想法何时应暂缓。
+cn 增长负责人还要让团队专注前进，避开干扰。新想法虽然诱人，却可能分散注意力；负责人必须识别它们何时无助于当前目标、需要暂时搁置。
+
+# special-2023-newtype|0:0
+type 标题片段｜省略be的set to
+chunks Net-Zero Rules〔主〕 Set to Send Cost of New Homes and Extensions Soaring〔修〕
+main 主语:Net-Zero Rules
+gist 净零排放规定将推高住房成本。
+point 标题省略are；Set为分词，不单标时态谓语。send后Cost作宾语、Soaring作宾补。
+cn 净零排放规定将使新房及扩建成本飙升。
+
+# special-2023-newtype|1:0
+type 简单句｜分词定语与are set to
+chunks New building regulations〔主〕 aimed at improving energy efficiency〔修〕 are set〔主〕 to increase the price of new homes, as well as those of extensions and loft conversions on existing ones.〔修〕
+main 主语:New building regulations | 谓语:are set
+mod aimed at improving energy efficiency → regulations | 分词定语 | 旨在提高能效的规定。
+mod to increase the price of new homes, as well as those of extensions and loft conversions on existing ones → set | 不定式补充 | 将提高新房及现有房屋扩建、阁楼改造的价格。
+gist 新建筑规定将带来变化。
+point those代prices，ones代homes；不把aimed当谓语。
+cn 旨在提高能源效率的新建筑规定，将推高新房价格，也会提高现有住房扩建和阁楼改造的费用。
+
+# special-2023-newtype|2:0
+type 主从复合句｜which定语
+chunks The rules,〔主〕 which came into effect on Wednesday in England,〔C1〕 are part〔主〕 of government plans to reduce the UK's carbon emissions to net zero by 2050.〔修〕
+main 主语:The rules | 谓语:are | 表语:part
+C1 定语从句 | 补充说明rules | which | rules后which came缺主语，which指规定 | 主语:which | 谓语:came into effect
+mod on Wednesday in England → came | 时间地点 | 周三在英格兰生效。
+mod of government plans to reduce the UK's carbon emissions to net zero by 2050 → part | 介词定语 | 政府2050年净零排放计划的一部分。
+gist 这些规定是计划的一部分。
+cn 这些规定于周三在英格兰生效，是政府到2050年将英国碳排放降至净零计划的一部分。
+
+# special-2023-newtype|2:1
+type 主从复合句｜并列谓语与宾语从句
+chunks They set new standards〔主〕 for ventilation, energy efficiency and heating,〔修〕 and〔连〕 state〔主〕 that new residential buildings must have charging points for electric vehicles.〔C1〕
+main 主语:They | 谓语:set … state | 宾语:new standards | 宾语:C1
+C1 宾语从句 | 作state的宾语 | that | state后缺规定内容；that后buildings must have及宾语完整 | 主语:new residential buildings | 谓语:must have | 宾语:charging points
+mod for ventilation, energy efficiency and heating → standards | 介词定语 | 通风、能效和供暖标准。
+mod for electric vehicles → points | 用途定语 | 用于电动汽车。
+gist 规定设标准并提出要求。
+cn 规定为通风、能源效率和供暖设定新标准，并要求新建住宅配备电动汽车充电设施。
+
+# special-2023-newtype|3:0
+type 并列复合句｜宾语嵌套时间定语
+chunks The moves are the most significant change〔主〕 to building regulations in years,〔修〕 and〔连〕 industry experts say〔主〕 they will inevitably lead to higher prices〔C1〕 at a time〔C1修〕 when a shortage of materials and high labour costs are already driving up bills.〔C2〕
+main 主语:The moves | 谓语:are | 表语:the most significant change || &and || 主语:industry experts | 谓语:say | 宾语:C1
+C1 宾语从句 | 作say的宾语 | （省略 that） | say后they will lead完整，省略that | 主语:they | 谓语:will … lead
+C2 定语从句 in C1 | 修饰time | when | time为时间先行词；when后shortage and costs are driving up bills完整，when作时间状语 | 主语:a shortage … high labour costs | 谓语:are … driving up | 宾语:bills
+mod to building regulations in years → change | 介词定语 | 多年来建筑规定的变化。
+mod to higher prices → lead | 结果补充 | 导致涨价。
+mod of materials → shortage | 介词定语 | 材料短缺。
+gist 这些举措是重大变化，专家说它们将推高价格。
+cn 这些举措是多年来建筑规定最重大的变化。业内专家称，在材料短缺和人工成本高企已推高支出的情况下，它们必然进一步推高价格。
+
+# special-2023-newtype|4:0
+type 主从复合句｜宾语与被动不定式
+chunks Brian Berry,〔主〕 chief executive of the Federation of Master Builders,〔修〕 says〔主〕 the measures will require new materials, testing methods, products and systems to be installed.〔C1〕
+main 主语:Brian Berry | 谓语:says | 宾语:C1
+C1 宾语从句 | 作says的宾语 | （省略 that） | says后measures will require另起完整主谓，省略that | 主语:the measures | 谓语:will require | 宾语:new materials … testing methods … products … systems | 宾补:to be installed
+mod chief executive of the Federation of Master Builders → Berry | 同位说明 | 说明行业协会负责人身份。
+gist 贝里说了这些要求。
+cn 建筑商联合会首席执行官布赖恩·贝里表示，这些措施将要求采用新的材料、测试方法、产品和系统。
+
+# special-2023-newtype|4:1
+type 主从复合句｜when定语
+chunks “All this comes〔主〕 at an increased cost during a time〔修〕 when prices are already sky high.〔C1〕
+main 主语:All this | 谓语:comes
+C1 定语从句 | 修饰time | when | time后prices are sky high完整；when在从句中作时间状语 | 主语:prices | 谓语:are | 表语:sky high
+mod at an increased cost → comes | 伴随代价 | 带来增加的成本。
+gist 这一切带来成本。
+cn “在价格已经高企的时候，这一切还会增加成本。
+
+# special-2023-newtype|4:2
+type 引语句｜pay与says
+chunks Inevitably,〔修〕 consumers will have to pay more,” he says.〔主〕
+main 主语:consumers | 谓语:will have to pay | 宾语:more || & || 主语:he | 谓语:says
+mod Inevitably → pay | 评注状语 | 不可避免地。
+gist 消费者将多付钱，他说。
+cn 消费者不可避免地要支付更多费用。”他说。
+
+# special-2023-newtype|5:0
+type 主从复合句｜宾语中嵌套定语
+chunks Gareth Belsham,〔主〕 of surveyors Naismiths,〔修〕 says〔主〕 people〔C1〕 who are upgrading, or extending their home,〔C2〕 will be directly affected.〔C1〕
+main 主语:Gareth Belsham | 谓语:says | 宾语:C1
+C1 宾语从句 | 作says的宾语 | （省略 that） | says后people will be affected主谓完整，省略that | 主语:people | 谓语:will be … affected
+C2 定语从句 in C1 | 修饰people | who | people后are upgrading缺主语，who指房主；extending共用are | 主语:who | 谓语:are upgrading … extending | 宾语:their home
+mod of surveyors Naismiths → Belsham | 身份说明 | 来自Naismiths测量顾问公司。
+gist 贝尔舍姆说这些人会受影响。
+cn Naismiths测量顾问公司的加雷思·贝尔舍姆表示，正在翻新或扩建住宅的人将直接受到影响。
+
+# special-2023-newtype|5:1
+type 引语句｜relate与explains
+chunks “The biggest changes relate〔主〕 to heating and insulation,”〔修〕 he explains.〔主〕
+main 主语:The biggest changes | 谓语:relate || & || 主语:he | 谓语:explains
+mod to heating and insulation → relate | 关联对象 | 涉及供暖与保温。
+gist 最大变化涉及这两方面，他解释说。
+cn 他解释说：“最大的变化涉及供暖和保温。”
+
+# special-2023-newtype|5:2
+type 并列句｜存在句与被动
+chunks “There are new rules〔主〕 concerning the amount of glazing used in extensions,〔修〕 and〔连〕 any new windows or doors must be highly insulated.”〔主〕
+main 谓语:are | 主语:new rules || &and || 主语:any new windows or doors | 谓语:must be … insulated
+mod concerning the amount of glazing used in extensions → rules | 介词短语定语 | 涉及扩建使用玻璃的数量。
+mod used in extensions → glazing | 分词定语 | 扩建中使用的玻璃。
+mod highly → insulated | 程度修饰 | 高度保温。
+gist 有新规定，门窗也必须保温。
+cn “扩建工程使用的玻璃面积有了新规定，任何新门窗也必须具有很好的保温性能。”
+
+# special-2023-newtype|6:0
+type 主从复合句｜while对照与定语
+chunks Windows and doors will have to adhere〔主〕 to higher standards,〔修〕 while there are new limits〔C1〕 on the amount of glazing〔C1修〕 you can have〔C2〕 to reduce unwanted heat from the sun.〔修〕
+main 主语:Windows and doors | 谓语:will have to adhere
+C1 状语从句（对照） | 并说玻璃面积限制 | while | while后there are new limits存在句完整，与门窗标准形成对照补说 | 谓语:are | 主语:new limits
+C2 定语从句 in C1 | 修饰glazing | （省略 that） | glazing后you can have缺宾语，关系词指玻璃面积 | 主语:you | 谓语:can have
+mod to higher standards → adhere | 介词补充 | 遵守更高标准。
+mod to reduce unwanted heat from the sun → limits | 目的补充 | 限制玻璃面积以减少不需要的太阳热量。
+gist 门窗须达更高标准，同时有新限制。
+cn 门窗必须遵守更高标准，允许使用的玻璃面积也有了新的限制，以减少不需要的太阳热量。
+
+# special-2023-newtype|7:0
+type 主从复合句｜省略that宾语
+chunks Thomas Goodman,〔主〕 of MyJobQuote,〔修〕 says〔主〕 this will bring in new restrictions for extensions.〔C1〕
+main 主语:Thomas Goodman | 谓语:says | 宾语:C1
+C1 宾语从句 | 作says的宾语 | （省略 that） | says后this will bring in及宾语完整，省略that | 主语:this | 谓语:will bring in | 宾语:new restrictions
+mod of MyJobQuote → Goodman | 身份说明 | 来自MyJobQuote。
+mod for extensions → restrictions | 介词定语 | 针对扩建的限制。
+gist 古德曼说会带来新限制。
+cn MyJobQuote的托马斯·古德曼表示，这将给扩建工程带来新的限制。
+
+# special-2023-newtype|7:1
+type 引语句｜cover与says
+chunks “Glazing〔主〕 on windows, doors and roof lights〔修〕 must cover no more than 25%〔主〕 of the floor area to prevent heat loss,”〔修〕 he says.〔主〕
+main 主语:Glazing | 谓语:must cover | 宾语:no more than 25% || & || 主语:he | 谓语:says
+mod on windows, doors and roof lights → Glazing | 范围定语 | 窗户、门、天窗的玻璃。
+mod of the floor area → 25% | 介词补充 | 建筑面积的比例。
+mod to prevent heat loss → cover | 目的状语 | 防止热量流失。
+gist 玻璃须不超过25%，他说。
+cn 他说：“为防止热量流失，窗户、门和天窗的玻璃面积不得超过地面面积的25%。”
+
+# special-2023-newtype|8:0
+type 主从复合句｜as原因与时间
+chunks As the rules came into effect last Wednesday,〔C1〕 property developers were rushing〔主〕 to file plans just before the deadline.〔修〕
+main 主语:property developers | 谓语:were rushing
+C1 状语从句（原因） | 说明赶交计划的缘由 | As | As后rules came into effect完整，生效时间解释开发商赶交的原因 | 主语:the rules | 谓语:came into effect
+mod to file plans just before the deadline → rushing | 不定式补充 | 赶在截止前提交方案。
+gist 开发商在赶时间。
+cn 由于规定于上周三生效，开发商纷纷赶在截止日期之前提交方案。
+
+# special-2023-newtype|8:1
+type 主从复合句｜分词定语与条件
+chunks Any plans〔主〕 submitted before that date〔修〕 are considered to be under the previous rules,〔主〕 and〔连〕 can go ahead〔主〕 as long as work starts before 15 June next year.〔C1〕
+main 主语:Any plans | 谓语:are considered … can go ahead | 主语补足语:to be under the previous rules
+C1 状语从句（条件） | 规定可以推进的条件 | as long as | as long as后work starts完整，表示只要满足此条件 | 主语:work | 谓语:starts
+mod submitted before that date → plans | 分词定语 | 在该日期前提交的方案。
+mod before 15 June next year → starts | 时间界限 | 次年6月15日前开工。
+gist 这些方案按旧规认定并可继续。
+cn 在该日期前提交的方案按旧规定处理，只要工程于次年6月15日前开始，就可继续推进。
+
+# special-2023-newtype|9:0
+type 主从复合引语句｜定语与says后置
+chunks Builders〔主〕 which have costed projects, but have not filed the paperwork,〔C1〕 may need to go back and submit fresh estimates, says Marcus Jefford〔主〕 of Build Aviator.〔修〕
+main 主语:Builders | 谓语:may need | 宾语:to go back … submit fresh estimates || & || 主语:Marcus Jefford | 谓语:says
+C1 定语从句 | 修饰Builders | which | Builders后have costed缺主语，which指建筑商，have not filed与其并列 | 主语:which | 谓语:have costed … have not filed | 宾语:projects … the paperwork
+mod of Build Aviator → Jefford | 身份说明 | 来自Build Aviator。
+gist 建筑商或需重新报价，杰福德说。
+cn Build Aviator的马库斯·杰福德表示，已经核算项目成本却尚未提交文件的建筑商，可能需要重新提交估价。
+
+# special-2023-newtype|10:0
+type 简单句｜up作表语
+chunks Materials prices are already up 25%〔主〕 in the last two years.〔修〕
+main 主语:Materials prices | 谓语:are | 表语:up 25%
+mod in the last two years → up | 时间状语 | 过去两年内。
+gist 材料价格已上涨25%。
+cn 过去两年，材料价格已经上涨了25%。
+
+# special-2023-newtype|10:1
+type 主从复合句｜how much主语从句
+chunks How much overall prices will increase〔C1〕 as a result of the rule changes〔C1修〕 is not clear.〔主〕
+main 主语:C1 | 谓语:is | 表语:not clear
+C1 主语从句 | 作is的主语 | How much | How much整块在is前；overall prices will increase主谓完整，how much问上涨幅度 | 主语:overall prices | 谓语:will increase
+mod as a result of the rule changes → increase | 原因状语 | 由于规定变化。
+gist 涨幅尚不清楚。
+cn 规定变化究竟会使总体价格上涨多少，目前尚不清楚。
+
+# special-2023-newtype|10:2
+type 复合引语句｜省略让步、时间定语与宾语
+chunks “Whilst admirable〔C1〕 in their intentions,〔C1修〕 they will add〔主〕 to the cost of housebuilding at a time〔修〕 when many already feel〔C2〕 that they are priced out of homeownership,”〔C3〕 says Jonathan Rolande〔主〕 of the National Association of Property Buyers.〔修〕
+main 主语:they | 谓语:will add || & || 主语:Jonathan Rolande | 谓语:says
+C1 状语从句（让步，省略） | 肯定意图后指出代价 | Whilst | Whilst后admirable省略they are，补全主系表完整，表示让步 | 表语:admirable
+C2 定语从句 | 修饰time | when | time后many feel主谓完整，when作时间状语 | 主语:many | 谓语:feel | 宾语:C3
+C3 宾语从句 in C2 | 作feel的宾语 | that | feel后缺所感内容；that后they are priced out完整被动结构 | 主语:they | 谓语:are priced out
+mod to the cost of housebuilding → add | 结果补充 | 增加建房成本。
+mod of the National Association of Property Buyers → Rolande | 身份说明 | 来自全国购房者协会。
+gist 规定增加建房成本，罗兰德说。
+cn 全国购房者协会的乔纳森·罗兰德说：“虽然这些规定的初衷值得肯定，但在很多人已觉得房价高得买不起房的时候，它们还会增加建房成本。”
+
+# special-2023-newtype|10:3
+type 简单句｜see引出成本增加
+chunks “An average extension will probably see around £3,000 additional cost〔主〕 thanks to the new regs.”〔修〕
+main 主语:An average extension | 谓语:will … see | 宾语:around £3,000 additional cost
+mod thanks to the new regs → see | 原因状语 | 由于新规定。
+gist 一般扩建将多花约三千英镑。
+cn “由于新规定，一项普通扩建工程大概会增加约3000英镑的成本。”
+
+# special-2023-newtype|11:0
+type 主从复合句｜省略that宾语
+chunks John Kelly,〔主〕 a construction lawyer at Freeths law firm,〔修〕 believes〔主〕 prices will eventually come down.〔C1〕
+main 主语:John Kelly | 谓语:believes | 宾语:C1
+C1 宾语从句 | 作believes的宾语 | （省略 that） | believes后prices will come down是完整主谓，省略that | 主语:prices | 谓语:will … come down
+mod a construction lawyer at Freeths law firm → Kelly | 同位说明 | Freeths律所的建筑法律师。
+gist 凯利相信价格会回落。
+cn Freeths律师事务所的建筑法律师约翰·凯利认为，价格最终会下降。
+
+# special-2023-newtype|11:1
+type 省略片段｜承接上句时间
+chunks But〔连〕 not in the immediate future.〔修〕
+main
+gist 但不会马上下降。
+point 承接prices will come down，省略完整主谓，只保留否定时间短语。
+cn 但近期不会。
+
+# special-2023-newtype|11:2
+type 复合引语句｜时间、定语与转折
+chunks “As the marketplace adapts〔C1〕 to the new requirements, and the technologies〔C1修〕 that support them,〔C2〕 the scaling up〔主〕 of these technologies〔修〕 will eventually bring costs down,〔主〕 but〔连〕 in the short term,〔修〕 we will all have to pay the price〔主〕 of the necessary transition,”〔修〕 he says.〔主〕
+main 主语:the scaling up | 谓语:will … bring | 宾语:costs | 宾补:down || &but || 主语:we | 谓语:will … have to pay | 宾语:the price || & || 主语:he | 谓语:says
+C1 状语从句（时间） | 随市场适应而成本下降 | As | As后marketplace adapts主谓完整，表示随着 | 主语:the marketplace | 谓语:adapts
+C2 定语从句 in C1 | 修饰technologies | that | technologies后support缺主语，that代技术 | 主语:that | 谓语:support | 宾语:them
+mod of these technologies → scaling up | 介词定语 | 技术规模的扩大。
+mod of the necessary transition → price | 介词定语 | 必要转型的代价。
+gist 规模扩大将降成本，但短期要付出代价。
+cn 他说：“随着市场适应新要求及其配套技术，这些技术的规模扩大最终会降低成本；但短期内，我们都必须为必要的转型付出代价。”
+
+# special-2023-newtype|12:0
+type 引语句｜长表语与adds倒装
+chunks However,〔修〕 the long-term effects〔主〕 of the changes〔修〕 will be more comfortable and energy-efficient homes, adds Andrew Mellor,〔主〕 of PRP architects.〔修〕
+main 主语:the long-term effects | 谓语:will be | 表语:more comfortable and energy-efficient homes || & || 主语:Andrew Mellor | 谓语:adds
+mod of the changes → effects | 介词定语 | 这些变化的影响。
+mod of PRP architects → Mellor | 身份说明 | 来自PRP建筑设计公司。
+gist 长期结果是更好的住宅，梅勒补充说。
+cn 不过，PRP建筑设计公司的安德鲁·梅勒补充说，这些变化的长期结果将是更舒适、更节能的住宅。
+
+# special-2023-newtype|12:1
+type 简单句｜费用收回
+chunks “Homeowners will probably recoup that cost〔主〕 over time in energy bill savings.〔修〕
+main 主语:Homeowners | 谓语:will … recoup | 宾语:that cost
+mod over time in energy bill savings → recoup | 时间方式 | 长期通过节省能源账单收回费用。
+gist 房主会收回成本。
+cn “房主可能会随着时间推移，通过节省能源开支收回这笔成本。
+
+# special-2023-newtype|12:2
+type 并列句｜主系表与have
+chunks It will obviously be very volatile〔主〕 at the moment,〔修〕 but〔连〕 they will have that benefit〔主〕 over time.”〔修〕
+main 主语:It | 谓语:will … be | 表语:volatile || &but || 主语:they | 谓语:will have | 宾语:that benefit
+mod at the moment → volatile | 时间状语 | 当前会有较大波动。
+mod over time → have | 时间状语 | 随时间获得收益。
+gist 目前会波动，但他们终将获益。
+cn 眼下显然会很不稳定，但他们日后会获得这些好处。”
+
+# special-2023-translation|0:0
+type 简单句｜主系表
+chunks In the late 18th century,〔修〕 William Wordsworth became famous〔主〕 for his poems about nature.〔修〕
+main 主语:William Wordsworth | 谓语:became | 表语:famous
+mod In the late 18th century → became | 时间状语 | 十八世纪末。
+mod for his poems about nature → famous | 原因补充 | 因描写自然的诗而出名。
+gist 华兹华斯出名了。
+
+# special-2023-translation|0:1
+type 主从复合句｜分词定语与which定语
+chunks And〔连〕 he was one〔主〕 of the founders of a movement called Romanticism,〔修〕 which celebrated the wonders of the natural world.〔C1〕
+main 主语:he | 谓语:was | 表语:one
+C1 定语从句 | 补充说明Romanticism运动 | which | movement后which celebrated缺主语，which代运动 | 主语:which | 谓语:celebrated | 宾语:the wonders
+mod of the founders of a movement called Romanticism → one | 范围定语 | 浪漫主义运动创始人之一。
+mod called Romanticism → movement | 分词定语 | 被称为浪漫主义的运动。
+mod of the natural world → wonders | 介词定语 | 自然世界的奇迹。
+gist 他是创始人之一。
+
+# special-2023-translation|0:2
+type 简单句｜主系表
+chunks Poetry is powerful.〔主〕
+main 主语:Poetry | 谓语:is | 表语:powerful
+gist 诗歌很有感染力。
+
+# special-2023-translation|0:3
+type 简单句｜三组并列谓语与宾补
+chunks Its energy and rhythm can capture a reader, transport them〔主〕 to another world〔修〕 and〔连〕 make them see things〔主〕 differently.〔修〕
+main 主语:Its energy and rhythm | 谓语:can capture … transport … make | 宾语:a reader … them … them | 宾补:see things
+mod to another world → transport | 方向状语 | 带到另一个世界。
+mod differently → see | 方式状语 | 以不同方式看。
+gist 能量与韵律吸引、带领并改变读者的眼光。
+point see为make后的不带to宾补；capture、transport、make共用can。
+
+# special-2023-translation|0:4
+type 简单句｜并列表语
+chunks Through carefully selected words and phrases,〔修〕 poems can be dramatic, funny, beautiful, moving and inspiring.〔主〕
+main 主语:poems | 谓语:can be | 表语:dramatic … funny … beautiful … moving … inspiring
+mod Through carefully selected words and phrases → be | 方式状语 | 通过精心选取的词句。
+gist 诗歌可以精彩、幽默、优美、感人并启发人。
+point moving与inspiring在系词后描述性质，不是进行时谓语。
+
+# special-2023-translation|0:5
+type 并列复合句｜when宾语与before时间
+chunks No one knows〔主〕 for sure〔修〕 when poetry began〔C1〕 but〔连〕 it has been around〔主〕 for thousands of years,〔修〕 even before people could write.〔C2〕
+main 主语:No one | 谓语:knows | 宾语:C1 || &but || 主语:it | 谓语:has been | 表语:around
+C1 宾语从句 | 作knows的宾语 | when | knows后缺所知内容；when后poetry began完整，when问起始时间 | 主语:poetry | 谓语:began
+C2 状语从句（时间） | 追溯早于书写 | before | before后people could write完整，说明诗歌存在的时间 | 主语:people | 谓语:could write
+mod for sure → knows | 方式状语 | 确切知道。
+mod for thousands of years → been | 时长状语 | 已存在数千年。
+gist 无人知道起点，但诗歌已存在很久。
+
+# special-2023-translation|0:6
+type 简单句｜不定式定语
+chunks It was a way〔主〕 to tell stories and pass down history.〔修〕
+main 主语:It | 谓语:was | 表语:a way
+mod to tell stories and pass down history → way | 不定式定语 | 讲故事和传承历史的方式。
+gist 它是一种方式。
+
+# special-2023-translation|0:7
+type 并列复合句｜被动与省略时间从句
+chunks It is closely related〔主〕 to song〔修〕 and〔连〕 even when written〔C1〕 it is usually created〔主〕 to be performed out loud.〔修〕
+main 主语:It | 谓语:is … related || &and || 主语:it#2 | 谓语:is … created#2
+C1 状语从句（时间，省略） | 即使写成文字时 | when | when written省略it is，written为保留分词，even加强让步意味 | 
+mod to song → related | 关联补充 | 与歌曲相关。
+mod to be performed out loud → created | 目的状语 | 为大声演绎而创作。
+gist 它与歌曲相关，也被创作出来供演绎。
+point 第二组it is用整组定位，避免落到前一个It is。
+
+# special-2023-translation|0:8
+type 主从复合句｜when时间
+chunks Poems really come to life〔主〕 when they are recited.〔C1〕
+main 主语:Poems | 谓语:come to life
+C1 状语从句（时间） | 朗诵时鲜活 | when | when后they are recited完整被动结构，说明主句发生时 | 主语:they | 谓语:are recited
+gist 诗歌鲜活起来。
+
+# special-2023-translation|0:9
+type 主从复合句｜because原因
+chunks This can also help〔主〕 with understanding them too,〔修〕 because the rhythm and sounds of the words become clearer.〔C1〕
+main 主语:This | 谓语:can … help
+C1 状语从句（原因） | 解释朗诵助理解 | because | 主句can help完整；because后rhythm and sounds become clearer主系表完整 | 主语:the rhythm and sounds | 谓语:become | 表语:clearer
+mod with understanding them → help | 介词补充 | 有助于理解诗歌。
+mod of the words → sounds | 介词定语 | 词语的声音，与rhythm共同说明词语节奏声韵。
+gist 这也能帮助理解。

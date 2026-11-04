@@ -1,0 +1,474 @@
+# special-2022-cloze|0:0
+type 主从复合句｜并列宾语从句内嵌条件
+chunks Harlan Coben believes〔主〕 that〔C1〕 if you're a writer,〔C2〕 you'll find the time;〔C1〕 and〔连〕 that〔C3〕 if you can't find the time,〔C4〕 then writing isn't a priority and you're not a writer.〔C3〕
+main 主语:Harlan Coben | 谓语:believes | 宾语:C1 | 宾语:C3
+gist 科本相信这两点。
+C1 宾语从句 | 作believes的第一项宾语 | that | believes后缺相信内容；that后you'll find the time完整 | 主语＋谓语:you'll find | 宾语:the time
+C2 状语从句（条件） in C1 | 提出作家这一条件 | if | if后you're a writer完整，给C1设条件 | 主语＋谓语:you're | 表语:a writer
+C3 宾语从句 | 作believes的第二项宾语 | that | and that与前一个that并列；writing isn't a priority和you're not a writer两套主系表完整 | 主语:writing | 谓语:isn't | 表语:a priority | 主语＋谓语:you're | 表语:not a writer
+C4 状语从句（条件） in C3 | 设定找不到时间的条件 | if | if后you can't find the time完整，说明C3判断的条件 | 主语:you | 谓语:can't find | 宾语:the time
+
+# special-2022-cloze|0:1
+type 简单句｜名词补说
+chunks For him〔修〕 writing is a 【normal】 job〔主〕 — a job like any other.〔修〕
+main 主语:writing | 谓语:is | 表语:a 【normal】 job
+gist 写作是普通工作。
+mod For him → is | 立场状语 | 对他而言。
+mod like any other → job | 介词短语定语 | 与其他工作相同。
+
+mod a job like any other → job | 同位补说 | 第二个job补说这就是一份和其他工作一样的工作。
+
+# special-2022-cloze|0:2
+type 多分句条目｜两层宾语与条件句
+chunks He has 【compared】 it〔主〕 with plumbing, pointing out〔修〕 that a plumber doesn't wake up and say〔C1〕 that he can't work with pipes today.〔C2〕 【If】,〔C3〕 like most writers these days,〔修〕 you're holding down a job〔C3〕 to pay the bills,〔C3修〕 it's not 【easy】〔主〕 to find the time to write.〔修〕
+main 主语:He | 谓语:has 【compared】 | 宾语:it || & || 主语＋谓语:it's | 表语:not 【easy】 | 真正主语:to find the time
+C1 宾语从句 | 作pointing out的宾语 | that | pointing out后缺指出内容；that后a plumber doesn't wake up and say完整 | 主语:a plumber | 谓语:doesn't wake up … say | 宾语:C2
+C2 宾语从句 in C1 | 作say的宾语 | that | say后缺所说内容；that后he can't work结构完整 | 主语:he | 谓语:can't work
+C3 状语从句（条件） | 说明难找写作时间的条件 | 【If】 | If后you're holding down a job完整，中间like短语插入比较 | 主语＋谓语:you're holding down | 宾语:a job
+mod with plumbing → compared | 比较对象 | 与修管道相比。
+mod with pipes today → work | 工作对象及时间 | 今天不能碰管道。
+mod to pay the bills → holding down | 目的状语 | 为支付账单而工作。
+mod to write → time | 不定式定语 | 写作的时间。
+gist 他作了比较；找到时间并不容易。
+
+# special-2022-cloze|0:3
+type 简单句｜主系表
+chunks But〔连〕 it's not impossible.〔主〕
+main 主语＋谓语:it's | 表语:not impossible
+gist 但这并非不可能。
+point it承接找写作时间这件事。
+
+# special-2022-cloze|0:4
+type 多分句条目｜陈述、祈使与嵌套从句
+chunks It requires determination and single-mindedness.〔主〕 【Remember】〔主〕 that most bestselling authors began writing〔C1〕 when they were doing other things〔C2〕 to earn a living.〔C2修〕
+main 主语:It | 谓语:requires | 宾语:determination … single-mindedness || & || 谓语:【Remember】 | 宾语:C1
+C1 宾语从句 | 作Remember的宾语 | that | Remember后缺所记内容；that后authors began writing主谓宾齐全 | 主语:most bestselling authors | 谓语:began | 宾语:writing
+C2 状语从句（时间） in C1 | 说明开始写作时 | when | when后they were doing other things完整，交代开始的背景 | 主语:they | 谓语:were doing | 宾语:other things
+mod to earn a living → doing | 目的状语 | 为谋生。
+gist 这需要决心和专心；记住作者的经历。
+
+# special-2022-cloze|0:5
+type 主从复合句｜who定语与不定式目的
+chunks And〔连〕 today,〔修〕 even writers〔主〕 who are fairly 【well-known】〔C1〕 often have to do other work〔主〕 to 【supplement】 their writing income.〔修〕
+main 主语:writers | 谓语:have to do | 宾语:other work
+C1 定语从句 | 修饰writers | who | writers后are缺主语，who指作家 | 主语:who | 谓语:are | 表语:【well-known】
+mod to 【supplement】 their writing income → do | 目的状语 | 补足写作收入。
+mod today → do | 时间状语 | 即使是今天。
+gist 作家也常必须做其他工作。
+
+# special-2022-cloze|0:6
+type 主从复合句｜as评注
+chunks As Harlan Coben has suggested,〔C1〕 it's a 【question】〔主〕 of priorities.〔修〕
+main 主语＋谓语:it's | 表语:a 【question】
+C1 状语从句（方式） | 引述科本的观点 | As | As后Harlan Coben has suggested主谓完整，suggested的内容由主句照应 | 主语:Harlan Coben | 谓语:has suggested
+mod of priorities → question | 介词短语定语 | 优先顺序的问题。
+gist 这是优先顺序问题。
+
+# special-2022-cloze|0:7
+type 主从复合句｜目的与省略关系词
+chunks To make writing a priority,〔修〕 you'll have to 【sacrifice】 some of your day-to-day activities and some things〔主〕 you really enjoy.〔C1〕
+main 主语＋谓语:you'll have to 【sacrifice】 | 宾语:some … some things
+C1 定语从句 | 修饰things | （省略 that） | things后you really enjoy缺宾语，关系词省略 | 主语:you | 谓语:enjoy
+mod To make writing a priority → sacrifice | 目的状语 | 让写作成为优先事项。
+mod of your day-to-day activities → some | 介词短语 | 一些日常活动。
+gist 你必须作出牺牲。
+
+# special-2022-cloze|0:8
+type 主从复合句｜让步中嵌套时间从句
+chunks Depending on your 【interests】 and your lifestyle,〔修〕 that might mean spending less time watching television or listening to music,〔主〕 though some people can write〔C1〕 【while】 they listen to music.〔C2〕
+main 主语:that | 谓语:might mean | 宾语:spending less time
+C1 状语从句（让步） | 承认听音乐也能写作的例外 | though | though后some people can write完整，对前述少听音乐建议作让步 | 主语:some people | 谓语:can write
+C2 状语从句（时间） in C1 | 说明同时听音乐 | 【while】 | while后they listen to music主谓完整，表示同步 | 主语:they | 谓语:listen
+mod Depending on your 【interests】 and your lifestyle → mean | 条件补充 | 取决于兴趣和生活方式。
+mod watching television or listening to music → spending | 动名词补充 | spend time doing，说明把时间花在哪里。
+gist 这可能意味着少花时间。
+
+# special-2022-cloze|0:9
+type 主从复合句｜定语从句
+chunks You might have to 【cut down on】 the amount〔主〕 of exercise or sport〔修〕 you do.〔C1〕
+main 主语:You | 谓语:might have to 【cut down on】 | 宾语:the amount
+C1 定语从句 | 修饰exercise or sport | （省略 that） | exercise or sport后you do缺宾语，关系词指所做运动 | 主语:you | 谓语:do
+mod of exercise or sport → amount | 介词短语定语 | 运动的量。
+gist 你可能必须减少数量。
+
+# special-2022-cloze|0:10
+type 简单句｜make复合宾语
+chunks You'll have to make social media an 【occasional】 activity〔主〕 rather than a daily, time-consuming 【habit】.〔修〕
+main 主语＋谓语:You'll have to make | 宾语:social media | 宾补:an 【occasional】 activity
+mod rather than a daily, time-consuming 【habit】 → activity | 对照补充 | 变成偶尔活动而非每日耗时习惯。
+gist 必须让社交媒体成为偶尔的活动。
+
+# special-2022-cloze|0:11
+type 简单句｜there存在句
+chunks There'll probably have to be less socialising〔主〕 with your friends〔修〕 and〔连〕 less time〔主〕 with your family.〔修〕
+main 主语＋谓语:There'll … have to be | 主语:less socialising … less time
+mod with your friends → socialising | 介词短语 | 与朋友社交。
+mod with your family → time | 介词短语定语 | 与家人共度的时间。
+gist 社交和陪家人的时间可能必须减少。
+point There为存在句引导词，不是行为发出者；主语是后面的两项。
+
+# special-2022-cloze|0:12
+type 并列句｜主系表与复合宾语
+chunks It's a 【tough】 learning curve〔主〕 and〔连〕 it won't always make you popular.〔主〕
+main 主语＋谓语:It's | 表语:a 【tough】 learning curve || &and || 主语:it | 谓语:won't … make | 宾语:you | 宾补:popular
+gist 这是艰难的适应过程，也不会总让你受欢迎。
+
+# special-2022-cloze|0:13
+type 并列复合句｜存在句与定语从句
+chunks There's just one thing〔主〕 you should try to keep at least some time for,〔C1〕 【in addition to】 your writing〔C1修〕 —〔修〕 and〔连〕 that's reading.〔主〕
+main 主语＋谓语:There's | 主语:one thing || &and || 主语＋谓语:that's | 表语:reading
+C1 定语从句 | 修饰thing | （省略 that） | thing后you should try...keep time for缺for的宾语，关系词指那件事 | 主语:you | 谓语:should try | 宾语:to keep at least some time
+mod 【in addition to】 your writing → keep | 介词短语 | 除写作之外，还要留出时间。
+gist 有一件事要留时间，那就是阅读。
+
+# special-2022-cloze|0:14
+type 并列复合句｜比较省略与补说定语
+chunks Any writer needs to read〔主〕 as much and as widely〔修〕 as they can;〔C1〕 it's the one 【indispensable】 supporter〔主〕 — something〔修〕 you can't do without.〔C2〕
+main 主语:Any writer | 谓语:needs | 宾语:to read || & || 主语＋谓语:it's | 表语:the one 【indispensable】 supporter
+C1 状语从句（比较，省略） | 表示尽可能多且广 | as | 前面as much and as widely给出尺度；as后they can省略read | 主语:they | 谓语:can
+C2 定语从句 | 修饰something | （省略 that） | something后you can't do without缺without宾语，关系词省略 | 主语:you | 谓语:can't do
+mod as much and as widely as they can → read | 程度方式 | 尽可能多、尽可能广地阅读。
+gist 作家需要读书，阅读不可缺。
+
+point something补说阅读这种支持；you can’t do without缺without的宾语，关系词省略。
+
+# special-2022-cloze|0:15
+type 简单句｜主系表
+chunks Time is finite.〔主〕
+main 主语:Time | 谓语:is | 表语:finite
+gist 时间有限。
+
+# special-2022-cloze|0:16
+type 主从复合句｜the比较级关联
+chunks The older you get,〔C1〕 the 【quicker】 it seems〔主〕 to go.〔修〕
+main 主语:it | 谓语:seems
+C1 状语从句（比较） | 年龄与时间感受同步变化 | The older | The older后you get主系结构，older为前置表语；与主句the quicker呼应 | 主语:you | 谓语:get | 表语:older
+mod to go → seems | 不定式补充 | 似乎流逝。
+mod the 【quicker】 → go | 程度状语 | 流逝得越快。
+gist 时间似乎流逝。
+
+# special-2022-cloze|0:17
+type 多分句条目｜比较、目的与定语从句
+chunks We need to use it〔主〕 as carefully and as 【productively】〔修〕 as we can,〔C1〕 that means prioritising our activities〔主〕 so that we spend most time on the things〔C2〕 we really want to do.〔C3〕
+main 主语:We | 谓语:need | 宾语:to use it || & || 主语:that | 谓语:means | 宾语:prioritising our activities
+C1 状语从句（比较，省略） | 表示尽可能谨慎有效 | as | as carefully and as productively引出比较尺度；as后we can省略use it | 主语:we | 谓语:can
+C2 状语从句（目的） | 说明排优先顺序的目的 | so that | means内容已完整；so that后we spend time结构完整，说明目的 | 主语:we | 谓语:spend | 宾语:most time
+C3 定语从句 in C2 | 修饰things | （省略 that） | things后we want to do缺do的宾语，关系词省略 | 主语:we | 谓语:want | 宾语:to do
+mod as carefully and as 【productively】 as we can → use | 方式状语 | 尽可能谨慎且有成效地使用。
+gist 我们要使用时间；这意味着安排优先顺序。
+point 逗号后that为指示代词作主语，不是从句连接词。
+
+# special-2022-cloze|0:18
+type 主从复合句｜条件句
+chunks If you're a writer,〔C1〕 that means〔主〕 — 【above all】〔修〕 writing.〔主〕
+main 主语:that | 谓语:means | 宾语:writing
+C1 状语从句（条件） | 以是作家为条件 | If | If后you're a writer完整，说明means的条件 | 主语＋谓语:you're | 表语:a writer
+mod 【above all】 → writing | 强调补充 | 首先、最重要地。
+gist 那意味着写作。
+
+point writing是动名词宾语，above all强调写作最优先，破折号提示稍后补明内容。
+
+# special-2022-newtype|0:0
+type 标题片段｜疑问不定式
+chunks How to Get Active Again〔修〕
+main
+gist 如何重新开始活动。
+point How to Get为标题非限定结构，无时态谓语。
+
+# special-2022-newtype|1:0
+type 并列句｜动名词主语与形式主语
+chunks Getting back into exercise can be a challenge〔主〕 in the best of times,〔修〕 but〔连〕 with gyms and in-person exercise classes off-limits to many people these days,〔修〕 it can be tricky〔主〕 to know where to start.〔修〕
+main 主语:Getting back into exercise | 谓语:can be | 表语:a challenge || &but || 主语:it | 谓语:can be#2 | 表语:tricky | 真正主语:to know where to start
+mod in the best of times → be | 情境状语 | 即使最好的时候。
+mod with gyms and in-person exercise classes off-limits to many people these days → tricky | with独立结构 | 场所和线下课不可用的背景，使重新开始更难。
+gist 恢复锻炼是挑战，知道从何开始也难。
+point where to start是know的疑问不定式宾语，不是完整时态从句。
+
+# special-2022-newtype|1:1
+type 简单句｜形式主语
+chunks And〔连〕 it's important〔主〕 to get the right dose of activity.〔修〕
+main 主语＋谓语:it's | 表语:important | 真正主语:to get the right dose of activity
+gist 获得适当活动量很重要。
+
+# special-2022-newtype|1:2
+type 引语句｜主句says与直接引语
+chunks "Too much too soon either results〔主〕 in injury or burnout,"〔修〕 says Mary Yoke,〔主〕 PhD, a faculty member in the kinesiology department at Indiana University in Bloomington.〔修〕
+main 主语:Mary Yoke | 谓语:says || & || 主语:Too much too soon | 谓语:results
+gist 约克说，过量过快会造成后果。
+mod in injury or burnout → results | 介词短语补充 | 造成受伤或耗竭。
+mod PhD, a faculty member in the kinesiology department at Indiana University in Bloomington → Mary Yoke | 同位说明 | 说明学位、任职院系和学校。
+point 引语前置，says后的Mary Yoke才是说话者；either...or并列injury和burnout。
+
+# special-2022-newtype|1:3
+type 简单句｜help复合宾语
+chunks The following simple strategies will help you return to exercise〔主〕 safely after a break.〔修〕
+main 主语:The following simple strategies | 谓语:will help | 宾语:you | 宾补:return to exercise
+mod safely after a break → return | 方式与时间 | 中断后安全恢复。
+gist 这些策略帮助你恢复锻炼。
+
+# special-2022-newtype|2:0
+type 主从复合句｜what介词宾语
+chunks Don't try〔主〕 to go back to〔修〕 what you were doing before your break.〔C1〕
+main 谓语:Don't try | 宾语:to go back
+C1 宾语从句 | 作to的宾语 | what | go back to后缺回到的内容；what后you were doing缺宾语，what充当活动内容 | 主语:you | 谓语:were doing | 宾语:what
+mod before your break → doing | 时间状语 | 中断锻炼之前。
+gist 不要试图立即恢复原来的做法。
+
+# special-2022-newtype|2:1
+type 主从复合句｜长条件句与祈使并列谓语
+chunks If you were walking 3 miles a day, playing 18 holes of golf three times a week, or lifting 10-pound dumbbells for three sets of 10 reps,〔C1〕 reduce activity〔主〕 to half a mile every other day, or nine holes of golf once a week with short walks on other days,〔修〕 or〔连〕 use 5-pound dumbbells〔主〕 for one set of 10 reps.〔修〕
+main 谓语:reduce … use | 宾语:activity … 5-pound dumbbells
+C1 状语从句（条件） | 描述中断前活动量 | If | If后you were walking、playing、lifting共用you were，完整描述条件 | 主语:you | 谓语:were walking … playing … lifting | 宾语:3 miles … 18 holes … 10-pound dumbbells
+mod to half a mile every other day, or nine holes of golf once a week with short walks on other days → reduce | 调整幅度 | 减为隔天半英里或每周九洞等。
+mod for one set of 10 reps → use | 数量状语 | 一组、每组十次。
+gist 减少活动量或改用轻哑铃。
+
+# special-2022-newtype|2:2
+type 简单句｜祈使句并列宾语
+chunks Increase time, distance, and intensity〔主〕 gradually.〔修〕
+main 谓语:Increase | 宾语:time … distance … intensity
+mod gradually → Increase | 方式状语 | 逐步增加。
+gist 增加时间、距离和强度。
+
+# special-2022-newtype|2:3
+type 引语复合句｜说话者倒装、两处定语
+chunks "This isn't something〔主〕 you can do overnight,"〔C1〕 says Keri L. Denay,〔主〕 MD, lead author of a recent American College of Sports Medicine advisory〔修〕 that encourages Americans to not overlook the benefits of activity during the pandemic.〔C2〕
+main 主语:This | 谓语:isn't | 表语:something || & || 主语:Keri L. Denay | 谓语:says
+C1 定语从句 | 修饰something | （省略 that） | something后you can do缺宾语，关系词指该事 | 主语:you | 谓语:can do
+C2 定语从句 | 修饰advisory | that | advisory后encourages缺主语，that指这份建议 | 主语:that | 谓语:encourages | 宾语:Americans | 宾补:to not overlook the benefits
+mod MD, lead author of a recent American College of Sports Medicine advisory → Denay | 同位说明 | 说明医生身份与建议作者资格。
+mod of activity during the pandemic → benefits | 介词短语定语 | 疫情期间活动的益处。
+gist 德奈说，这并非一夜可成。
+
+# special-2022-newtype|2:4
+type 简单句｜并列谓语
+chunks But〔连〕 you will reap benefits〔主〕 such as less anxiety〔修〕 and〔连〕 improve sleep〔主〕 right away.〔修〕
+main 主语:you | 谓语:will reap … improve | 宾语:benefits … sleep
+mod such as less anxiety → benefits | 举例说明 | 减轻焦虑等益处。
+mod right away → reap | 时间状语 | 立即见效。
+gist 你会获得益处并改善睡眠。
+point 原文improve为动词，按与reap共用will理解，不擅自改成形容词improved。
+
+# special-2022-newtype|3:0
+type 主从复合句｜条件与too...to
+chunks If you're breathing〔C1〕 too hard to talk in complete sentences,〔C1修〕 back off.〔主〕
+main 谓语:back off
+C1 状语从句（条件） | 提示减小强度的条件 | If | If后you're breathing主谓完整，too hard是不定式结构的程度条件 | 主语＋谓语:you're breathing
+mod too hard to talk in complete sentences → breathing | 程度结果 | 喘得太厉害而无法完整说话。
+gist 降低强度。
+
+# special-2022-newtype|3:1
+type 主从复合句｜条件祈使句
+chunks If you feel good,〔C1〕 go〔主〕 a little longer or faster.〔修〕
+main 谓语:go
+C1 状语从句（条件） | 提出感觉良好的条件 | If | If后you feel good主系表完整，说明go的条件 | 主语:you | 谓语:feel | 表语:good
+mod a little longer or faster → go | 程度方式 | 稍久一些或快一些。
+gist 继续运动。
+
+# special-2022-newtype|3:2
+type 省略问句｜省略Are you
+chunks Feeling wiped out after a session?〔修〕
+main
+gist 锻炼后筋疲力尽吗？
+mod after a session → Feeling | 时间状语 | 一次锻炼之后。
+point 可还原Are you feeling...；原文Feeling没有时态，不能标为独立谓语。
+
+# special-2022-newtype|3:3
+type 简单句｜祈使句
+chunks Go〔主〕 easier next time.〔修〕
+main 谓语:Go
+mod easier next time → Go | 方式与时间 | 下次降低强度。
+gist 放轻松一些。
+
+# special-2022-newtype|3:4
+type 简单句｜祈使句并列谓语
+chunks And〔连〕 stay alert〔主〕 to serious symptoms, such as chest pain or pressure, severe shortness of breath or dizziness, or faintness,〔修〕 and〔连〕 seek medical attention〔主〕 immediately.〔修〕
+main 谓语:stay … seek | 表语:alert | 宾语:medical attention
+mod to serious symptoms → alert | 介词补充 | 警惕严重症状。
+mod such as chest pain or pressure, severe shortness of breath or dizziness, or faintness → symptoms | 举例说明 | 列举严重症状。
+mod immediately → seek | 时间状语 | 立即就医。
+gist 保持警惕并寻求医疗帮助。
+
+# special-2022-newtype|4:0
+type 简单句｜主系表与介词to
+chunks Consistency is the key〔主〕 to getting stronger and building endurance and stamina.〔修〕
+main 主语:Consistency | 谓语:is | 表语:the key
+mod to getting stronger and building endurance and stamina → key | 介词短语定语 | 变强、提高耐力的关键；to后接动名词。
+gist 坚持是关键。
+
+# special-2022-newtype|4:1
+type 引语句｜陈述引语与倒装says
+chunks Ten minutes〔主〕 of activity per day〔修〕 is a good start, says Marcus Jackovitz,〔主〕 DPT, a physical therapist at the University of Miami Hospital.〔修〕
+main 主语:Ten minutes | 谓语:is | 表语:a good start || & || 主语:Marcus Jackovitz | 谓语:says
+mod of activity per day → minutes | 介词短语定语 | 每天十分钟活动。
+mod DPT, a physical therapist at the University of Miami Hospital → Jackovitz | 同位说明 | 说明专业身份和任职医院。
+gist 十分钟是好起点，杰科维茨说。
+point 一段时间视为整体用is，不因minutes复数就误选are。
+
+# special-2022-newtype|4:2
+type 主从复合句｜定语与原因从句
+chunks All the experts〔主〕 we spoke with〔C1〕 highly recommend walking〔主〕 because it's the easiest, most accessible form of exercise.〔C2〕
+main 主语:All the experts | 谓语:recommend | 宾语:walking
+C1 定语从句 | 修饰experts | （省略 whom） | experts后we spoke with缺with的宾语，关系词指专家 | 主语:we | 谓语:spoke
+C2 状语从句（原因） | 解释推荐步行的原因 | because | 主句recommend walking已完整；because后it's a form主系表完整 | 主语＋谓语:it's | 表语:the easiest, most accessible form
+mod of exercise → form | 介词短语定语 | 运动形式。
+gist 所有专家都推荐步行。
+
+# special-2022-newtype|4:3
+type 主从复合句｜让步与条件
+chunks Although it can be a workout on its own,〔C1〕 if your goal is to get back to Zumba classes, tennis, cycling, or any other activity,〔C2〕 walking is also a great first step.〔主〕
+main 主语:walking | 谓语:is | 表语:a great first step
+C1 状语从句（让步） | 承认步行可独立成锻炼 | Although | Although后it can be a workout完整，与后面第一步的定位作让步 | 主语:it | 谓语:can be | 表语:a workout
+C2 状语从句（条件） | 设定恢复其他活动的目标 | if | if后your goal is to get back完整，给步行作为第一步设条件 | 主语:your goal | 谓语:is | 表语:to get back
+mod on its own → workout | 介词短语 | 单独本身即算锻炼。
+mod to Zumba classes, tennis, cycling, or any other activity → get back | 介词短语 | 恢复到这些活动。
+gist 步行也是很好的第一步。
+
+# special-2022-newtype|5:0
+type 主从复合句｜even if让步
+chunks Even if you can't yet do a favorite activity,〔C1〕 you can practice the moves.〔主〕
+main 主语:you | 谓语:can practice | 宾语:the moves
+C1 状语从句（让步） | 即使暂时不能活动也可练动作 | Even if | Even if后you can't do a favorite activity完整，提出退一步情形 | 主语:you | 谓语:can't … do | 宾语:a favorite activity
+gist 你可以练习动作。
+
+# special-2022-newtype|5:1
+type 主从复合句｜like方式从句
+chunks With or without a club or racket,〔修〕 swing〔主〕 like you're hitting the ball.〔C1〕
+main 谓语:swing
+C1 状语从句（方式） | 模仿击球动作 | like | swing主句完整；like后you're hitting the ball成分完整，表示好像 | 主语＋谓语:you're hitting | 宾语:the ball
+mod With or without a club or racket → swing | 条件状语 | 有无球杆或球拍都可以。
+gist 挥动手臂。
+
+# special-2022-newtype|5:2
+type 主从复合句｜like方式从句
+chunks Paddle〔主〕 like you're in a kayak or canoe.〔C1〕
+main 谓语:Paddle
+C1 状语从句（方式） | 模仿船中划桨 | like | Paddle祈使骨架完整；like后you're in a kayak or canoe完整，给出想象方式 | 主语＋谓语:you're | 表语:in a kayak or canoe
+gist 划桨。
+
+# special-2022-newtype|5:3
+type 简单句｜祈使句
+chunks Mimic your favorite swimming strokes.〔主〕
+main 谓语:Mimic | 宾语:your favorite swimming strokes
+gist 模仿喜欢的泳姿。
+
+# special-2022-newtype|5:4
+type 主从复合句｜定语与when宾语
+chunks The action will remind you〔主〕 of the joy〔修〕 the activity brought you〔C1〕 and〔连〕 prime your muscles〔主〕 for〔修〕 when you can get out there again.〔C2〕
+main 主语:The action | 谓语:will remind … prime | 宾语:you … your muscles
+C1 定语从句 | 修饰joy | （省略 that） | joy后the activity brought you缺带来的事物这一直接宾语，you是间接宾语 | 主语:the activity | 谓语:brought | 间接宾语:you
+C2 宾语从句 | 作for的宾语 | when | for后缺准备所针对的时机；when后you can get out there again主谓完整 | 主语:you | 谓语:can get out
+mod of the joy the activity brought you → remind | 提醒内容 | 让你想起活动的快乐。
+mod for when you can get out there again → prime | 介词短语 | 为能再次外出活动之时作准备。
+gist 动作会提醒你并为肌肉作准备。
+
+# special-2022-newtype|6:0
+type 引语复合句｜动名词主语、并列谓语及so结果
+chunks Exercising〔主〕 with others〔修〕 "can keep you accountable〔主〕 and〔连〕 make it more fun,〔主〕 so〔连〕 you're more likely〔主〕 to do it again,"〔修〕 Jackovitz says.〔主〕
+main 主语:Exercising | 谓语:can keep … make | 宾语:you … it | 宾补:accountable … more fun || &so || 主语＋谓语:you're | 表语:more likely || & || 主语:Jackovitz | 谓语:says
+mod with others → Exercising | 方式状语 | 与别人一起锻炼。
+mod to do it again → likely | 不定式补充 | 更可能再次锻炼。
+gist 结伴锻炼使人负责且更有趣，所以更愿再做。
+
+# special-2022-newtype|6:1
+type 简单句｜共用can的并列谓语
+chunks You can do activities〔主〕 such as golf and tennis〔修〕 or〔连〕 take a walk〔主〕 with others〔修〕 and〔连〕 still〔修〕 be socially distant.〔主〕
+main 主语:You | 谓语:can do … take … be | 宾语:activities … a walk | 表语:socially distant
+mod such as golf and tennis → activities | 举例说明 | 高尔夫、网球等。
+mod with others → take | 伴随状语 | 与他人一起。
+gist 可以做活动、散步，并保持距离。
+
+# special-2022-newtype|6:2
+type 主从复合句｜时间从句与动名词宾语
+chunks But〔连〕 when you can't connect in person,〔C1〕 consider using technology.〔主〕
+main 谓语:consider | 宾语:using technology
+C1 状语从句（时间） | 说明不能面对面时 | when | when后you can't connect完整，给出考虑技术的情境 | 主语:you | 谓语:can't connect
+mod in person → connect | 方式状语 | 面对面。
+gist 考虑使用技术。
+
+# special-2022-newtype|6:3
+type 主从复合句｜while时间
+chunks Chat〔主〕 on the phone with a friend〔修〕 while you walk around your neighborhood.〔C1〕
+main 谓语:Chat
+C1 状语从句（时间） | 散步同时聊天 | while | Chat骨架完整；while后you walk完整，表示同步 | 主语:you | 谓语:walk
+mod on the phone with a friend → Chat | 方式与对象 | 与朋友打电话。
+mod around your neighborhood → walk | 地点状语 | 在社区周围走。
+gist 聊天。
+
+# special-2022-newtype|6:4
+type 主从复合句｜as时间
+chunks FaceTime〔主〕 with a relative〔修〕 as you strength train or stretch at home.〔C1〕
+main 谓语:FaceTime
+C1 状语从句（时间） | 训练时视频交谈 | as | FaceTime祈使骨架完整；as后you strength train or stretch共主语，表示同时 | 主语:you | 谓语:strength train … stretch
+mod with a relative → FaceTime | 交谈对象 | 与亲人视频。
+mod at home → train | 地点状语 | 在家训练或拉伸。
+gist 视频交谈。
+
+# special-2022-newtype|6:5
+type 简单句｜join及并列定语
+chunks You can also join a livestream or on-demand exercise class.〔主〕
+main 主语:You | 谓语:can … join | 宾语:a livestream or on-demand exercise class
+gist 你也可以加入运动课程。
+point livestream和on-demand分别说明直播和点播课程，不是两套谓语。
+
+# special-2022-translation|0:0
+type 主从复合句｜让步与省略方式
+chunks Although we try our best,〔C1〕 sometimes〔修〕 our paintings rarely turn out〔主〕 as originally planned.〔C2〕
+main 主语:our paintings | 谓语:turn out
+C1 状语从句（让步） | 虽尽力但结果不同 | Although | Although后we try our best完整，给出让步情境 | 主语:we | 谓语:try | 宾语:our best
+C2 状语从句（方式，省略） | 对照原先计划 | as | turn out后as originally planned省略主语和be，说明原设想方式 | 
+mod rarely → turn out | 频率状语 | 很少达到预想。
+gist 画作很少如愿呈现。
+point planned是省略结构中的分词，不是独立时态谓语。
+
+# special-2022-translation|0:1
+type 主从复合句｜宾语中嵌套what主语及方式
+chunks Changes〔主〕 in the light,〔修〕 the limitations〔主〕 of your painting materials,〔修〕 and〔连〕 the lack〔主〕 of experience and technique〔修〕 mean〔主〕 that〔C1〕 what you start out trying to achieve〔C2〕 may not come to life the way〔C1〕 that you expected.〔C3〕
+main 主语:Changes … the limitations … the lack | 谓语:mean | 宾语:C1
+C1 宾语从句 | 作mean的宾语 | that | mean后缺意味着什么；that后由what从句作主语，may not come to life为谓语结构 | 主语:C2 | 谓语:may not come to life
+C2 主语从句 in C1 | 作may not come to life的主语 | what | what块位于may not come前；start out trying to achieve缺achieve宾语，what补足目标内容 | 主语:you | 谓语:start out
+C3 定语从句 in C1 | 修饰way，说明预期方式 | that | way为方式先行词；that后you expected省略预期内容，that在此引导限定方式的从句 | 主语:you | 谓语:expected
+mod in the light → Changes | 介词短语定语 | 光线变化。
+mod of your painting materials → limitations | 介词短语定语 | 绘画材料的局限。
+mod of experience and technique → lack | 介词短语定语 | 经验与技巧的不足。
+gist 光线变化、材料局限及经验技巧不足，意味着最初想达到的效果未必能如愿呈现。
+point what在内部作achieve的宾语；整个what从句在更外层作主语，层次不同。
+
+# special-2022-translation|0:2
+type 主从复合句｜让步与形式主语
+chunks Although this can be frustrating and disappointing,〔C1〕 it turns out〔主〕 that this can actually be good for you.〔C2〕
+main 形式主语:it | 谓语:turns out | 真正主语:C2
+C1 状语从句（让步） | 承认沮丧后转折 | Although | Although后this can be frustrating and disappointing完整，表示让步 | 主语:this | 谓语:can be | 表语:frustrating … disappointing
+C2 主语从句 | 作it指代的真正主语 | that | it turns out后需要事实内容；that后this can be good完整，that不作成分 | 主语:this | 谓语:can … be | 表语:good
+mod for you → good | 介词短语 | 对你有益。
+gist 事实证明这有益。
+
+# special-2022-translation|0:3
+type 多分句条目｜冒号解释与嵌套宾语
+chunks Unexpected results have two benefits:〔主〕 you pretty quickly learn to deal〔主〕 with disappointment,〔修〕 and〔连〕 realise〔主〕 that〔C1〕 when one door closes,〔C2〕 another opens.〔C1〕
+main 主语:Unexpected results | 谓语:have | 宾语:two benefits || & || 主语:you | 谓语:learn … realise | 宾语:to deal | 宾语:C1
+C1 宾语从句 | 作realise的宾语 | that | realise后缺认识内容；that后another opens主谓完整 | 主语:another | 谓语:opens
+C2 状语从句（时间） in C1 | 说明一扇门关时 | when | when后one door closes完整，说明另一扇打开的时机 | 主语:one door | 谓语:closes
+mod with disappointment → deal | 介词补充 | 应对失望。
+gist 意外结果有两项好处：你学会应对并认识机会。
+point another省略door；learn和realise共用主语you。
+
+# special-2022-translation|0:4
+type 并列复合句｜定语从句与动名词主语
+chunks You also quickly learn to adapt and come up〔主〕 with creative solutions to the problems〔修〕 the painting presents,〔C1〕 and〔连〕 thinking〔主〕 outside the box〔修〕 will become your second nature.〔主〕
+main 主语:You | 谓语:learn | 宾语:to adapt … come up || & || 主语:thinking | 谓语:will become | 表语:your second nature
+C1 定语从句 | 修饰problems | （省略 that） | problems后the painting presents缺宾语，关系词指所呈现的问题 | 主语:the painting | 谓语:presents
+mod with creative solutions to the problems the painting presents → come up | 介词短语 | 想出针对绘画问题的创意办法。
+mod outside the box → thinking | 方式修饰 | 跳出固有框架思考。
+point 逗号后的and才连接thinking开头的新主句，前一个and只连接adapt和come up。
+gist 你学会适应和想办法，创新思考会成为习惯。
+
+# special-2022-translation|0:5
+type 主从复合句｜with which定语内嵌时间
+chunks In fact,〔修〕 creative problem-solving skills are incredibly useful〔主〕 in daily life,〔修〕 with which you're more likely to be able to find a solution〔C1〕 when a problem arises.〔C2〕
+main 主语:creative problem-solving skills | 谓语:are | 表语:useful
+C1 定语从句 | 修饰skills | with which | skills后with which相当于with these skills；you're likely to find结构完整，which作with宾语 | 主语＋谓语:you're | 表语:more likely
+C2 状语从句（时间） in C1 | 说明问题出现时 | when | when后a problem arises主谓完整，说明找到办法的时机 | 主语:a problem | 谓语:arises
+mod in daily life → useful | 范围状语 | 日常生活中。
+mod to be able to find a solution → likely | 不定式补充 | 更可能能够找到办法。
+gist 创意解决问题的能力很有用。

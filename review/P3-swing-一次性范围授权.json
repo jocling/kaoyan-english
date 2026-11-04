@@ -1,0 +1,6 @@
+{
+  "head": "806eb00f184f7391c15bb2633a2ab69c18eeeda5",
+  "sha256": "27d40aba9e12fcfa752d181a0b819ff527a525fbfaf8fc1c654ae588edae7e8a",
+  "patch_sha256": "9aba135cf0ba362b01cfb640e04b343710975b21c61a07be0f1dc3f07e321e35",
+  "authorization": "用户明确同意只增加swing误报例外；此记录精确绑定本次检查器补丁及HEAD，另含必要的临时范围核对入口，无永久放行。"
+}

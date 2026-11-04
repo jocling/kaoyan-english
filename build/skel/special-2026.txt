@@ -1,0 +1,514 @@
+# special-2026-cloze|0:0
+type 主从复合句｜目的解释与who宾语
+chunks Most〔主〕 of us〔修〕 strive〔主〕 for self-respect — to see ourselves in a positive light, to be 【proud】 of〔修〕 who we are.〔C1〕
+main 主语:Most | 谓语:strive
+C1 宾语从句 | 作of的宾语 | who | proud of后需内容；who后we are缺表语，who代我们的身份 | 主语:we | 谓语:are | 表语:who
+mod of us → Most | 介词限定 | 我们中的大多数人。
+mod for self-respect → strive | 追求对象 | 追求自尊。
+mod to see ourselves in a positive light, to be 【proud】 of who we are → self-respect | 解释补充 | 正面看待自己、为自身身份自豪。
+gist 大多数人追求自尊。
+cn 我们大多数人都努力维护自尊——积极地看待自己，为自己是什么样的人而自豪。
+
+# special-2026-cloze|0:1
+type 并列复合句｜定语与形式主语
+chunks Any comments or experiences〔主〕 that undermine those feelings of self-worth〔C1〕 can be uncomfortable〔主〕 and〔连〕 it's only 【natural】〔主〕 to want to avoid them.〔修〕
+main 主语:Any comments … experiences | 谓语:can be | 表语:uncomfortable || &and || 主语＋谓语:it's | 表语:【natural】 | 真正主语:to want to avoid them
+C1 定语从句 | 修饰comments or experiences | that | comments or experiences后undermine缺主语，that代评论或经历 | 主语:that | 谓语:undermine | 宾语:those feelings
+mod of self-worth → feelings | 介词定语 | 自我价值感。
+gist 评论或经历可能令人不适，想回避很自然。
+cn 任何损害自我价值感的评论或经历都可能令人不适，想要回避它们是很自然的。
+
+# special-2026-cloze|0:2
+type 主从复合句｜插入引入与whether主语
+chunks But〔连〕 the thing is,〔修〕 【whether】 your self-worth really is being undermined〔C1〕 is,〔主〕 to a large degree,〔修〕 subjective.〔主〕
+main 主语:C1 | 谓语:is | 表语:subjective
+C1 主语从句 | 作第二个is的主语 | 【whether】 | whether整块在主句is前；self-worth is being undermined为完整被动，whether表示是否 | 主语:your self-worth | 谓语:is being undermined
+mod the thing is → 整句 | 引入评注 | 问题在于。
+mod to a large degree → subjective | 程度状语 | 在很大程度上。
+gist 是否受损很大程度上是主观判断。
+point 主句is在C1后，不是引入语the thing is里的is；切块区分两者。
+cn 但问题在于，你的自我价值是否真的受到损害，很大程度上是主观的。
+
+# special-2026-cloze|0:3
+type 主从复合句｜what宾语
+chunks Much〔主〕 of it〔修〕 comes down〔主〕 to your 【perception】 of〔修〕 what someone said or did.〔C1〕
+main 主语:Much | 谓语:comes down
+C1 宾语从句 | 作of的宾语 | what | of后缺感知内容；what后someone said or did缺共同宾语，what代言行 | 主语:someone | 谓语:said … did | 宾语:what
+mod of it → Much | 范围限定 | 其中很大一部分。
+mod to your 【perception】 of what someone said or did → comes down | 归结对象 | 归结为你如何理解别人的言行。
+gist 很大部分取决于你的理解。
+cn 这在很大程度上取决于你如何理解别人的言行。
+
+# special-2026-cloze|0:4
+type 主从复合句｜when时间与as解释
+chunks When you take things personally,〔C1〕 you're interpreting these situations〔主〕 as saying something significant and negative about you as a person.〔修〕
+main 主语＋谓语:you're interpreting | 宾语:these situations
+C1 状语从句（时间） | 说明往心里去时 | When | When后you take things personally完整，说明interpret的情境 | 主语:you | 谓语:take | 宾语:things
+mod as saying something significant and negative about you as a person → interpreting | 理解内容 | 认为事件在对你的人格作重要而负面的评价。
+gist 你在这样解读情境。
+cn 当你把事情往心里去时，你是在把这些情境理解为对你这个人作出了重要的负面评价。
+
+# special-2026-cloze|0:5
+type 主从复合句｜假设引入与多层内容
+chunks Say〔主〕 your boss picks holes〔C1〕 in your sales report,〔C1修〕 and〔连〕 you come away〔C1〕 feeling〔C1修〕 like this means〔C2〕 she thinks〔C3〕 you're a 【poor】 member of staff.〔C4〕
+main 谓语:Say | 宾语:C1
+C1 宾语从句 | 作假设引入Say的内容 | （省略 that） | Say相当于假设；后面boss picks和you come为完整并列主谓 | 主语:your boss | 谓语:picks | 宾语:holes | 主语:you | 谓语:come away
+C2 宾语从句 in C1 | 作feeling like的感受内容 | like | feeling like后this means另起主谓，内容由C3补足 | 主语:this | 谓语:means | 宾语:C3
+C3 宾语从句 in C2 | 作means的宾语 | （省略 that） | means后she thinks另起主谓，省略that | 主语:she | 谓语:thinks | 宾语:C4
+C4 宾语从句 in C3 | 作thinks的宾语 | （省略 that） | thinks后you're a member主系表完整，省略that | 主语＋谓语:you're | 表语:a 【poor】 member
+mod in your sales report → holes | 范围补充 | 挑销售报告里的毛病。
+mod of staff → member | 介词定语 | 员工队伍中的一员。
+gist 假设上司挑报告的毛病，而你认为这说明她觉得你是差劲员工。
+cn 比如，上司挑你的销售报告的毛病，你离开时觉得，这意味着她认为你是个差劲的员工。
+
+# special-2026-cloze|0:6
+type 并列复合句｜as动名词内嵌宾语
+chunks Or,〔修〕 two〔主〕 of your friends〔修〕 cancel your 【planned】 get-together〔主〕 at the pub〔修〕 and〔连〕 you interpret this〔主〕 as meaning〔修〕 they're bored of you.〔C1〕
+main 主语:two | 谓语:cancel | 宾语:your 【planned】 get-together || &and || 主语:you | 谓语:interpret | 宾语:this
+C1 宾语从句 | 作meaning的宾语 | （省略 that） | meaning后they're bored另起完整主系表，省略that | 主语＋谓语:they're | 表语:bored
+mod of your friends → two | 介词限定 | 你的两个朋友。
+mod at the pub → get-together | 地点定语 | 原定酒吧聚会。
+mod as meaning they're bored of you → interpret | 解读内容 | 理解为朋友厌倦你。
+gist 两位朋友取消聚会，而你这样解读。
+cn 或者，两个朋友取消了原定的酒吧聚会，你就理解为他们已经厌倦你了。
+
+# special-2026-cloze|0:7
+type 简单句｜冒号补说名称
+chunks Psychologists have a 【term】〔主〕 for this way of thinking: personalisation.〔修〕
+main 主语:Psychologists | 谓语:have | 宾语:a 【term】
+mod for this way of thinking → term | 适用定语 | 给这种思维方式的术语。
+mod personalisation → term | 名称补充 | 冒号后给出名称“个人化”。
+gist 心理学家有一个术语。
+cn 心理学家为这种思维方式取了个术语：个人化。
+
+# special-2026-cloze|0:8
+type 主从复合句｜that表语
+chunks But〔连〕 the 【reality】 is〔主〕 that your boss might view you very highly.〔C1〕
+main 主语:the 【reality】 | 谓语:is | 表语:C1
+C1 表语从句 | 说明实际情况 | that | is后缺表语；that后your boss might view you完整，that不作成分 | 主语:your boss | 谓语:might view | 宾语:you
+mod very highly → view | 评价方式 | 对你评价很高。
+gist 实际情况是下述内容。
+cn 但实际上，你的上司可能对你评价很高。
+
+# special-2026-cloze|0:9
+type 多分句条目｜表语内容、目的与并列句
+chunks It's just〔主〕 you made some 【mistakes】〔C1〕 in the report〔C1修〕 and〔连〕 she wanted to point these out〔C1〕 so that you do better next time.〔C2〕 【Similarly】 , in the case of your friends cancelling, perhaps〔修〕 they both felt unwell〔主〕 that weekend〔修〕 or〔连〕 they just 【changed】 their minds.〔主〕
+main 主语＋谓语:It's | 表语:C1 || & || 主语:they | 谓语:felt | 表语:unwell || &or || 主语:they#2 | 谓语:【changed】 | 宾语:their minds
+C1 表语从句 | 解释实际原因 | （省略 that） | It's后需解释内容；you made和she wanted两套完整主谓并列，省略that | 主语:you | 谓语:made | 宾语:some 【mistakes】 | 主语:she | 谓语:wanted | 宾语:to point these out
+C2 状语从句（目的） in C1 | 说明指出问题的目的 | so that | so that后you do better完整，说明她希望你下次改进 | 主语:you | 谓语:do
+mod in the report → mistakes | 介词定语 | 报告里的错误。
+mod in the case of your friends cancelling → felt | 情境状语 | 朋友取消聚会的情境。
+mod that weekend → felt | 时间状语 | 那个周末。
+gist 原因只是出错；朋友也许不适或改变了主意。
+cn 只是你在报告里犯了些错误，她想指出来，让你下次做得更好。同样，朋友取消聚会，也许只是那个周末两人都不舒服，或者临时改变了主意。
+
+# special-2026-cloze|0:10
+type 主从复合句｜存在句与两处定语
+chunks In both 【examples】 — and others〔修〕 that we all experience〔C1〕 —〔修〕 there's another 【process】〔主〕 at work〔修〕 that psychologists call mind reading.〔C2〕
+main 谓语:there's | 主语:another 【process】
+C1 定语从句 | 修饰others | that | others后we experience缺宾语，that代其他经历 | 主语:we | 谓语:experience | 宾语:that
+C2 定语从句 | 修饰process | that | process后psychologists call缺宾语，that代过程，mind reading为宾补 | 主语:psychologists | 谓语:call | 宾语:that | 宾补:mind reading
+mod In both 【examples】 — and others that we all experience → work | 范围状语 | 两个例子及其他人人经历的情境。
+mod at work → process | 后置补充 | 正在起作用。
+gist 还有另一过程在起作用。
+point there's实际谓语is，there是存在句引导词。
+cn 在这两个例子以及我们都会经历的其他情境中，还有另一种过程在起作用，心理学家称之为“读心”。
+
+# special-2026-cloze|0:11
+type 主从复合句｜when表语、what宾语与让步
+chunks This is〔主〕 when you assume〔C1〕 to know〔C1修〕 what other people are thinking about you,〔C2〕 when you can't really know without 【asking】 them directly.〔C3〕
+main 主语:This | 谓语:is | 表语:C1
+C1 表语从句 | 说明读心所指的情形 | when | is后缺表语；when后you assume to know结构完整，when指这种情形 | 主语:you | 谓语:assume | 宾语:to know
+C2 宾语从句 in C1 | 作know的宾语 | what | know后缺所知内容；what后people are thinking缺思考内容，what补足 | 主语:other people | 谓语:are thinking | 宾语:what
+C3 状语从句（让步） | 事实上不问无法知道 | when | when后you can't know完整，这里不是单纯同时，而是既然实际上不可能的对照让步 | 主语:you | 谓语:can't … know
+mod about you → thinking | 话题补充 | 关于你的想法。
+mod without 【asking】 them directly → know | 条件方式 | 不直接询问就无法知道。
+gist 这指你自以为知道他人想法的情形。
+cn 所谓读心，就是你自以为知道别人如何看你，但不直接问他们，其实不可能真正知道。
+
+# special-2026-cloze|0:12
+type 主从复合句｜不定式定语与what宾语
+chunks One simple way〔主〕 to avoid 【engaging in】 personalisation and mind reading〔修〕 is to challenge your negative assumptions〔主〕 of〔修〕 what's 【happened】 .〔C1〕
+main 主语:One simple way | 谓语:is | 表语:to challenge your negative assumptions
+C1 宾语从句 | 作of的宾语 | what | of后缺假设针对的事情；what's happened中what作has happened主语 | 主语＋谓语:what's 【happened】
+mod to avoid 【engaging in】 personalisation and mind reading → way | 不定式定语 | 避免个人化和读心的方法。
+gist 简单办法是质疑负面假设。
+cn 避免个人化和读心的一个简单方法，是质疑自己对所发生事情的负面假设。
+
+# special-2026-cloze|0:13
+type 主从复合句｜时间与定语
+chunks When you find yourself taking a situation personally,〔C1〕 try to think〔主〕 of other interpretations〔修〕 that are less focused on you〔C2〕 — especially in the sense of saying anything deep or 【fundamental】 about you.〔修〕
+main 谓语:try | 宾语:to think
+C1 状语从句（时间） | 发现自己往心里去时 | When | When后you find yourself taking完整，taking为宾补不是有限谓语 | 主语:you | 谓语:find | 宾语:yourself | 宾补:taking a situation personally
+C2 定语从句 | 修饰interpretations | that | interpretations后are less focused缺主语，that代解释 | 主语:that | 谓语:are | 表语:less focused
+mod of other interpretations that are less focused on you → think | 思考对象 | 想其他不那么以你为中心的解释。
+mod especially in the sense of saying anything deep or 【fundamental】 about you → focused | 补充说明 | 尤其不把事情当作对你深层、本质特征的评判。
+gist 尝试想出其他解释。
+cn 当你发现自己把情境往心里去时，试着想想其他不那么以自己为中心的解释，尤其不要把它理解成对你深层或本质特征的评价。
+
+# special-2026-cloze|0:14
+type 主从复合句｜when与形式主语
+chunks When you do this,〔C1〕 it might help〔主〕 to try to put yourself in other people's shoes.〔修〕
+main 形式主语:it | 谓语:might help | 真正主语:to try to put yourself in other people's shoes
+C1 状语从句（时间） | 重新理解时 | When | When后you do this完整，给出尝试换位思考的情境 | 主语:you | 谓语:do | 宾语:this
+point put yourself in others' shoes为换位思考，多个to do不构成新的时态谓语。
+gist 试着换位思考可能有帮助。
+cn 这样做时，试着设身处地为别人着想，可能会有帮助。
+
+# special-2026-cloze|0:15
+type 主从复合句｜fact同位语与means宾语
+chunks The fact〔主〕 your boss took the time〔C1〕 to give you 【feedback】 at all〔C1修〕 means〔主〕 they care enough to want to help you 【improve】 .〔C2〕
+main 主语:The fact | 谓语:means | 宾语:C2
+C1 同位语从句 | 解释fact的具体事实 | （省略 that） | fact后boss took the time成分完整，不缺宾语；整体补说事实而非限定哪个fact | 主语:your boss | 谓语:took | 宾语:the time
+C2 宾语从句 | 作means的宾语 | （省略 that） | means后they care主谓完整，省略that，表示意味着的内容 | 主语:they | 谓语:care
+mod to give you 【feedback】 at all → time | 不定式定语 | 愿意花时间给反馈。
+mod enough to want to help you 【improve】 → care | 程度结果 | 足够关心，想帮助你改进。
+gist 这件事实意味着上司关心你。
+cn 上司毕竟愿意花时间给你反馈，这说明他们足够关心你，想帮助你进步。
+
+# special-2026-cloze|0:16
+type 主从复合句｜it's because…that…强调原因
+chunks When it comes to your friends〔C1〕 — maybe it's〔修〕 because your friendship is so 【strong】〔C2〕 that〔修〕 they felt able〔主〕 to cancel at late notice.〔修〕
+main 主语:they | 谓语:felt | 表语:able
+C1 状语从句（时间） | 转到朋友的情境 | When | When后it comes to your friends主谓完整，表示谈到朋友时 | 主语:it | 谓语:comes
+C2 状语从句（原因，被强调） | 解释朋友敢临时取消的原因 | because | because后your friendship is strong完整；去掉it's和that后，仍是they felt able...because...的因果句 | 主语:your friendship | 谓语:is | 表语:【strong】
+mod to cancel at late notice → able | 不定式补充 | 觉得临时取消也可以。
+gist 朋友觉得可以临时取消，强调原因是友谊牢固。
+point 骨架按去掉it's...that...强调框架后的原来句列出：they felt able to cancel because your friendship is so strong。被强调的是because原因从句；so只修饰strong的程度，不与后面的that构成结果从句。
+cn 至于朋友，也许正因为你们的友谊很牢固，他们才觉得临时取消也没关系。
+
+# special-2026-newtype|0:0
+type 简单句｜三个并列进行时谓语
+chunks In an effort to support restoration programmes,〔修〕 specialists are developing supplies〔主〕 of seeds and seedlings,〔修〕 maintaining gene banks〔主〕 and〔连〕 sequencing the genomes〔主〕 of indigenous trees and other crops.〔修〕
+main 主语:specialists | 谓语:are developing … maintaining … sequencing | 宾语:supplies … gene banks … the genomes
+mod In an effort to support restoration programmes → developing | 目的状语 | 为支持生态恢复项目。
+mod of seeds and seedlings → supplies | 介词定语 | 种子与幼苗供应。
+mod of indigenous trees and other crops → genomes | 介词定语 | 本地树木及其他作物基因组。
+gist 专家在开发供应、维护基因库并测序。
+cn 为支持生态恢复项目，专家正在开发种子和幼苗供应、维护基因库，并对本地树木和其他作物进行基因组测序。
+
+# special-2026-newtype|0:1
+type 主从复合句｜that定语
+chunks Their work deals〔主〕 with one of the problems〔修〕 that could block major restoration efforts in different parts of the world.〔C1〕
+main 主语:Their work | 谓语:deals
+C1 定语从句 | 修饰problems | that | problems后could block缺主语，that指问题 | 主语:that | 谓语:could block | 宾语:major restoration efforts
+mod with one of the problems that could block major restoration efforts in different parts of the world → deals | 处理对象 | 处理可能阻碍全球恢复工作的一个问题。
+mod in different parts of the world → efforts | 范围定语 | 世界不同地区的恢复工作。
+gist 他们的工作应对一项问题。
+cn 他们的工作针对一个可能阻碍世界各地重大生态恢复行动的问题。
+
+# special-2026-newtype|1:0
+type 简单句｜特殊疑问与be going to
+chunks "Where's the planting material going to come from?〔主〕
+main 谓语:Where's … going to come | 主语:the planting material
+point Where's为Where is；is与going to come构成将来表达，Where问来源，from保留在末尾。
+gist 种植材料将从哪里来？
+cn “种植材料从哪里来？
+
+# special-2026-newtype|1:1
+type 引语句｜主系表与says
+chunks That's one big bottleneck," says genetic-resources specialist Ramni Jamnadass.〔主〕
+main 主语＋谓语:That's | 表语:one big bottleneck || & || 主语:Ramni Jamnadass | 谓语:says
+mod genetic-resources specialist → Jamnadass | 身份定语 | 遗传资源专家。
+gist 那是一大瓶颈，专家说。
+cn 遗传资源专家拉姆妮·贾姆纳达斯说：“那是一大瓶颈。”
+
+# special-2026-newtype|2:0
+type 简单句｜分词定语与不定式目的
+chunks Asia is arguably the region〔主〕 most neglected by global efforts to increase diversity in restoration and to study native species.〔修〕
+main 主语:Asia | 谓语:is | 表语:the region
+mod most neglected by global efforts to increase diversity in restoration and to study native species → region | 分词定语 | 全球增加恢复多样性、研究本地物种的努力中，亚洲最受忽视。
+gist 亚洲可能是最受忽视地区。
+cn 可以说，在提高生态恢复多样性、研究本地物种的全球努力中，亚洲是最受忽视的地区。
+
+# special-2026-newtype|2:1
+type 主从复合句｜长插入、宾语、原因及定语
+chunks Christopher Kettle,〔主〕 Biodiversity International's director for forest genetic resources and restoration in Rome,〔修〕 says〔主〕 that the need〔C1〕 for infrastructure — things such as mechanisms for collecting and storing seeds, and nurseries to raise seedlings —〔C1修〕 might be most desperate here〔C1〕 because many trees are 'masting' species,〔C2〕 which don't produce seeds every year.〔C3〕
+main 主语:Christopher Kettle | 谓语:says | 宾语:C1
+C1 宾语从句 | 作says的宾语 | that | says后缺内容；that后need might be desperate完整，长破折号为名词解释 | 主语:the need | 谓语:might be | 表语:desperate
+C2 状语从句（原因） in C1 | 解释基础设施急需的原因 | because | because后many trees are species完整，说明原因 | 主语:many trees | 谓语:are | 表语:'masting' species
+C3 定语从句 in C2 | 修饰masting species | which | species后don't produce缺主语，which代树种 | 主语:which | 谓语:don't produce | 宾语:seeds
+mod for infrastructure → need | 介词定语 | 对基础设施的需要。
+mod things such as mechanisms for collecting and storing seeds, and nurseries to raise seedlings → infrastructure | 同位解释 | 收集储存种子的机制、育苗苗圃等。
+mod every year → produce | 频率状语 | 并非每年产种。
+gist 凯特尔说，这里的需求或最迫切。
+cn 国际生物多样性组织在罗马负责森林遗传资源与恢复工作的克里斯托弗·凯特尔说，这里可能最急需基础设施，例如种子收集储存机制和育苗苗圃，因为许多树属于“结实大小年”树种，并非每年都产种。
+
+# special-2026-newtype|2:2
+type 简单句｜need不定式宾语
+chunks People need to be ready.〔主〕
+main 主语:People | 谓语:need | 宾语:to be ready
+gist 人们需要准备好。
+cn 人们必须做好准备。
+
+# special-2026-newtype|2:3
+type 多分句引语｜连续结果与says
+chunks "Otherwise,〔修〕 you miss the boat, you lose all the seed〔主〕 and〔连〕 you've got to wait another seven years," says Kettle.〔主〕
+main 主语:you | 谓语:miss | 宾语:the boat || & || 主语:you#2 | 谓语:lose | 宾语:all the seed || &and || 主语＋谓语:you've got to wait || & || 主语:Kettle | 谓语:says
+mod another seven years → wait | 时长状语 | 再等七年。
+mod Otherwise → 整句 | 条件承接 | 不然就会错失机会。
+gist 你会错过机会、失去种子并再等七年。
+cn 凯特尔说：“否则，你就会错失良机，失去所有种子，还得再等七年。”
+
+# special-2026-newtype|2:4
+type 主从复合句｜because原因中话题复指与定语
+chunks "This is a really, really critical issue〔主〕 for restoration in Southeast Asia,〔修〕 because many〔C1〕 of the most important timber species and tree species — the ones〔C1修〕 that will lock up the most carbon〔C2〕 —〔C1修〕 they're all masting species."〔C1〕
+main 主语:This | 谓语:is | 表语:a … critical issue
+C1 状语从句（原因） | 解释恢复工作的关键问题 | because | because后many...为前置话题，they复指它，再由are masting species构成完整主系表 | 主语＋谓语:they're | 表语:masting species
+C2 定语从句 in C1 | 修饰ones | that | ones后will lock up缺主语，that代树种 | 主语:that | 谓语:will lock up | 宾语:the most carbon
+mod for restoration in Southeast Asia → issue | 适用范围 | 东南亚生态恢复的问题。
+point many...和they指同一批树种，口语话题复指，不把它误讲为规范书面语需要两个主语。
+gist 这是关键问题，因为这些都是大小年树种。
+cn “这对东南亚的生态恢复是极其关键的问题，因为许多最重要的用材树种——那些能固定最多碳的树种——都是结实有大小年的树种。”
+
+# special-2026-newtype|3:0
+type 并列复合句｜such as引出疑问内容
+chunks Climate change is a driving factor〔主〕 in the push to restore forests,〔修〕 but〔连〕 it also raises questions,〔主〕 such as〔修〕 where trees can thrive in the future.〔C1〕
+main 主语:Climate change | 谓语:is | 表语:a driving factor || &but || 主语:it | 谓语:raises | 宾语:questions
+C1 宾语从句 | 作such as后的问题举例 | where | such as引出问题内容；where后trees can thrive主谓完整，where问地点 | 主语:trees | 谓语:can thrive
+mod in the push to restore forests → factor | 介词定语 | 推动森林恢复的因素。
+mod in the future → thrive | 时间状语 | 未来。
+gist 气候变化是动力，也带来问题。
+cn 气候变化是推动森林恢复的因素，但也带来一些问题，例如树木未来能在哪里茁壮生长。
+
+# special-2026-newtype|3:1
+type 简单句｜被动报道结构
+chunks Climate change is also expected〔主〕 to alter relationships between trees, insects, diseases and other forest species.〔修〕
+main 主语:Climate change | 谓语:is … expected | 主语补足语:to alter relationships
+mod between trees, insects, diseases and other forest species → relationships | 介词定语 | 树木、昆虫、病害及其他森林物种间的关系。
+gist 气候变化也预计会改变关系。
+cn 预计气候变化还会改变树木、昆虫、病害和其他森林物种之间的关系。
+
+# special-2026-newtype|3:2
+type 复合引语句｜定语与if条件
+chunks "Insects〔主〕 that today are a minor problem〔C1〕 may become a major problem〔主〕 if they can produce three or four generations in a year,"〔C2〕 says forest ecologist John Stanturf.〔主〕
+main 主语:Insects | 谓语:may become | 表语:a major problem || & || 主语:John Stanturf | 谓语:says
+C1 定语从句 | 修饰Insects | that | Insects后are缺主语，that代昆虫 | 主语:that | 谓语:are | 表语:a minor problem
+C2 状语从句（条件） | 以一年繁殖多代为条件 | if | if后they can produce及宾语完整，给出成为大问题的条件 | 主语:they | 谓语:can produce | 宾语:three or four generations
+mod forest ecologist → Stanturf | 身份定语 | 森林生态学家。
+mod in a year → produce | 时间状语 | 一年内。
+gist 昆虫可能变成大问题，生态学家说。
+cn 森林生态学家约翰·斯坦特夫说：“现在只是小问题的昆虫，如果一年能繁殖三四代，可能就会成为大问题。”
+
+# special-2026-newtype|3:3
+type 简单句｜remain系动词
+chunks This remains a significant knowledge gap.〔主〕
+main 主语:This | 谓语:remains | 表语:a significant knowledge gap
+gist 这仍是重大知识缺口。
+cn 这仍是一个重大的知识缺口。
+
+# special-2026-newtype|3:4
+type 并列复合句｜that宾语与疑问不定式
+chunks "We know enough〔主〕 to know〔修〕 that this is a concern,〔C1〕 but〔连〕 we don't know enough〔主〕 about how to respond to it yet.〔修〕
+main 主语:We | 谓语:know | 宾语:enough || &but || 主语:we#2 | 谓语:don't know
+C1 宾语从句 | 作第二个know的宾语 | that | to know后缺所知内容；that后this is a concern完整 | 主语:this | 谓语:is | 表语:a concern
+mod to know that this is a concern → enough | 程度结果 | 已足以知道这是个问题。
+mod enough#2 → know | 宾语补充 | 第二个enough是第二个know的宾语，意为掌握的知识还不充分。
+mod about how to respond to it yet → know | 认知范围 | 但尚不充分了解如何应对；how to respond为非限定疑问结构。
+gist 我们知道它是问题，却还不够了解应对办法。
+cn “我们掌握的知识足以知道这是个问题，却还不足以知道该如何应对。
+
+# special-2026-newtype|3:5
+type 简单句｜不定式定语
+chunks That's a great area〔主〕 to be doing research."〔修〕
+main 主语＋谓语:That's | 表语:a great area
+mod to be doing research → area | 不定式定语 | 值得开展研究的领域。
+gist 那是很好的研究领域。
+cn 那是一个很值得研究的领域。”
+
+# special-2026-newtype|3:6
+type 倒装引语句｜so＋be＋主语
+chunks So is soil, says Cindy Prescott,〔主〕 a forest ecologist at the University of British Columbia in Vancouver.〔修〕
+main 主语:soil | 谓语:is || & || 主语:Cindy Prescott | 谓语:says
+mod So → is | 承前表语替代 | 土壤同样是值得研究的领域。
+mod a forest ecologist at the University of British Columbia in Vancouver → Prescott | 同位说明 | 温哥华不列颠哥伦比亚大学森林生态学家。
+gist 土壤也是如此，普雷斯科特说。
+cn 温哥华不列颠哥伦比亚大学的森林生态学家辛迪·普雷斯科特说，土壤也是如此。
+
+# special-2026-newtype|3:7
+type 主从复合句｜if条件与that定语
+chunks "If you don't look at the soil at the start,〔C1〕 you can spend a lot〔主〕 of money and time putting in species〔修〕 that aren't going to survive there."〔C2〕
+main 主语:you | 谓语:can spend | 宾语:a lot
+C1 状语从句（条件） | 未先考察土壤的条件 | If | If后you don't look完整，提出花钱无效的条件 | 主语:you | 谓语:don't look
+C2 定语从句 | 修饰species | that | species后aren't going to survive缺主语，that代物种 | 主语:that | 谓语:aren't going to survive
+mod of money and time → lot | 数量限定 | 大量金钱和时间。
+mod putting in species that aren't going to survive there → spend | 动名词补充 | 花时间金钱种下无法存活的物种。
+gist 你可能花费大量金钱时间。
+cn “如果一开始不考察土壤，你可能花很多钱和时间，种下根本无法在那里存活的物种。”
+
+# special-2026-newtype|4:0
+type 主从复合句｜with背景与并列被动
+chunks With so much research left to do,〔修〕 leaders〔主〕 in the field〔修〕 have been doing some soul-searching,〔主〕 and〔连〕 acknowledging〔主〕 that restoration can be motivated by — and designed to meet — different needs.〔C1〕
+main 主语:leaders | 谓语:have been doing … acknowledging | 宾语:some soul-searching | 宾语:C1
+C1 宾语从句 | 作acknowledging的宾语 | that | acknowledging后缺承认内容；that后restoration can be motivated and designed被动结构完整 | 主语:restoration | 谓语:can be motivated … designed
+mod With so much research left to do → doing | 背景状语 | 仍有大量研究待做。
+mod by — and designed to meet — different needs → motivated | 共用名词补充 | different needs既作by宾语，又作meet宾语：受到不同需求驱动并为满足它们设计。
+gist 领域领导者在反思并承认这一点。
+cn 由于仍有大量研究要做，这一领域的领导者开始反思，并承认生态恢复可能由不同需求驱动，也会为满足不同需求而设计。
+
+# special-2026-newtype|4:1
+type 复合引语句｜when时间与压缩问题表语
+chunks "When you talk about conservation or restoration,〔C1〕 the first question has to be restoration〔主〕 by whom, for whom?"〔修〕 says Daniel Janzen,〔主〕 a biologist at the University of Pennsylvania.〔修〕
+main 主语:the first question | 谓语:has to be | 表语:restoration || & || 主语:Daniel Janzen | 谓语:says
+C1 状语从句（时间） | 谈到保护恢复时 | When | When后you talk完整，给出提出第一问题的情境 | 主语:you | 谓语:talk
+mod by whom, for whom → restoration | 疑问补充 | 谁来恢复、为了谁恢复。
+mod a biologist at the University of Pennsylvania → Janzen | 同位说明 | 宾夕法尼亚大学生物学家。
+gist 第一个问题必须问恢复由谁、为谁。
+cn 宾夕法尼亚大学生物学家丹尼尔·詹森说：“谈到保护或恢复时，第一个问题必须是：由谁恢复，为谁恢复？”
+
+# special-2026-newtype|5:0
+type 简单句｜have宾语
+chunks The question can have more than one answer.〔主〕
+main 主语:The question | 谓语:can have | 宾语:more than one answer
+gist 问题可能不止一个答案。
+cn 这个问题可能不止一个答案。
+
+# special-2026-newtype|5:1
+type 引语句｜A of B与介词动名词
+chunks Much〔主〕 of the global funding for restoration〔修〕 is dedicated〔主〕 to developing it as a tool to mitigate climate change,〔修〕 notes restoration ecologist Pedro Brancalion.〔主〕
+main 主语:Much | 谓语:is dedicated || & || 主语:Pedro Brancalion | 谓语:notes
+mod of the global funding for restoration → Much | 范围定语 | 全球恢复资金中很大一部分。
+mod to developing it as a tool to mitigate climate change → dedicated | 用途补充 | 用于把生态恢复发展为减缓气候变化的工具；to是介词。
+mod restoration ecologist → Brancalion | 身份定语 | 恢复生态学家。
+gist 大量资金被用于这一用途，生态学家指出。
+cn 恢复生态学家佩德罗·布兰卡利昂指出，全球很大一部分恢复资金，都用于把生态恢复发展成减缓气候变化的工具。
+
+# special-2026-newtype|5:2
+type 多层引语复合句｜if条件内嵌是否宾语
+chunks "But〔修〕 if you ask a farmer〔C1〕 in Brazil〔C1修〕 if he or she is concerned about climate change,〔C2〕 they would say,〔主〕 'No,〔修〕 I am concerned〔主〕 about water,'"〔修〕 he says.〔主〕
+main 主语:they | 谓语:would say || & || 主语:I | 谓语:am | 表语:concerned || & || 主语:he | 谓语:says
+C1 状语从句（条件） | 提出询问农民的假设 | if | 第一个if后you ask a farmer结构完整，设定会如何回答的条件 | 主语:you | 谓语:ask | 宾语:a farmer | 宾语:C2
+C2 宾语从句 in C1 | 作ask的询问内容 | if | 第二个if位于ask之后；he or she is concerned完整，if表示是否 | 主语:he … she | 谓语:is | 表语:concerned
+mod in Brazil → farmer | 介词定语 | 巴西的农民。
+mod about water → concerned | 关心对象 | 水的问题。
+gist 农民会说关心水，他说。
+cn 他说：“但如果问一位巴西农民是否关心气候变化，他们会回答：‘不，我关心的是水。’”
+
+# special-2026-newtype|5:3
+type 主从复合句｜被动与who定语
+chunks Their interests〔主〕 as stewards of the land〔修〕 need to be better integrated〔主〕 with those〔修〕 who have the money〔C1〕 to support restoration.〔C1修〕
+main 主语:Their interests | 谓语:need | 宾语:to be better integrated
+C1 定语从句 | 修饰those | who | those指人；who后have缺主语，who代资助者 | 主语:who | 谓语:have | 宾语:the money
+mod as stewards of the land → interests | 身份补充 | 作为土地管理者的利益。
+mod with those who have the money to support restoration → integrated | 整合对象 | 与有钱支持恢复者的利益协调。
+mod to support restoration → money | 不定式定语 | 支持恢复的资金。
+gist 他们的利益需要更好地整合。
+point 原文interests与those who have money形式上比较利益和人，按语义补足资助者的利益理解，不改写原文。
+cn 他们作为土地管理者的利益，需要与有资金支持生态恢复者的利益更好地协调。
+
+# special-2026-newtype|6:0
+type 简单句｜现在完成时主系表
+chunks That has been the strongest lesson〔主〕 of all for forest ecologist Robin Chazdon.〔修〕
+main 主语:That | 谓语:has been | 表语:the strongest lesson
+mod of all → lesson | 范围限定 | 所有教训中最深刻的。
+mod for forest ecologist Robin Chazdon → lesson | 适用对象 | 对森林生态学家罗宾·查兹登而言。
+gist 那是最深刻的教训。
+cn 对森林生态学家罗宾·查兹登而言，这是最深刻的一课。
+
+# special-2026-newtype|6:1
+type 主从复合引语句｜what介词宾语
+chunks Restoration is〔主〕 about more than〔修〕 what gets planted in the ground,〔C1〕 she says.〔主〕
+main 主语:Restoration | 谓语:is | 表语:about more than || & || 主语:she | 谓语:says
+C1 宾语从句 | 补足about more than的内容 | what | about后需内容；what后gets planted缺主语，what指种下的东西 | 主语:what | 谓语:gets planted
+mod in the ground → planted | 地点状语 | 种入土地。
+gist 恢复涉及的不仅是种植。
+point she says是后置报道语，主语she、谓语says；主句about的完整内容为more than加C1，不把整个从句塞进骨架。
+cn 她说，生态恢复关乎的不只是种在地里的东西。
+
+# special-2026-newtype|6:2
+type 并列句｜两个主系表
+chunks "Yes,〔修〕 it's about forests,〔主〕 but〔连〕 it's really about people.〔主〕
+main 主语＋谓语:it's … it's | 表语:about forests … about people
+mod about forests → it's | 介词短语表语 | 涉及森林。
+mod about people → it's | 介词短语表语 | 实质涉及人。
+gist 它涉及森林，更涉及人。
+point 两处it's各自为it is，省略号依次定位，避免第二项误指第一项；about短语是表语而不是附加状语。
+cn “是的，它关乎森林，但归根结底关乎人。
+
+# special-2026-newtype|6:3
+type 简单句｜主系表
+chunks They are the agents〔主〕 of restoration."〔修〕
+main 主语:They | 谓语:are | 表语:the agents
+mod of restoration → agents | 介词定语 | 恢复行动的实施者。
+gist 人是行动者。
+cn 人才是生态恢复的行动者。”
+
+# special-2026-translation|0:0
+type 主从复合句｜how宾语内嵌定语
+chunks The influence〔主〕 of wearables on psychology〔修〕 refers〔主〕 to〔修〕 how the clothes〔C1〕 we wear〔C2〕 affect our thoughts, feelings, and behaviors.〔C1〕
+main 主语:The influence | 谓语:refers
+C1 宾语从句 | 作to的宾语 | how | refers to后缺所指内容；how后clothes affect主谓宾完整，how说明影响方式 | 主语:the clothes | 谓语:affect | 宾语:our thoughts … feelings … behaviors
+C2 定语从句 in C1 | 修饰clothes | （省略 that） | clothes后we wear缺宾语，关系词指衣服 | 主语:we | 谓语:wear
+mod of wearables on psychology → influence | 介词定语 | 穿着对心理的影响。
+gist 这种影响指向衣服怎样影响我们。
+cn 穿着对心理的影响，是指我们穿的衣服如何影响自己的思想、感受和行为。
+
+# special-2026-translation|0:1
+type 多分句条目｜主系表与play a role
+chunks Clothing is not just about covering our bodies; it plays a significant role〔主〕 in shaping our self-perception and interactions with others.〔修〕
+main 主语:Clothing | 谓语:is | 表语:about covering our bodies || & || 主语:it | 谓语:plays | 宾语:a significant role
+mod in shaping our self-perception and interactions with others → role | 作用范围 | 塑造自我认知和与他人的互动。
+gist 服装不只是遮体，还发挥作用。
+cn 服装不只是用来遮盖身体，它还在塑造自我认知以及我们与他人的互动中起着重要作用。
+
+# special-2026-translation|0:2
+type 简单句｜A of B主语中心
+chunks One aspect〔主〕 of this influence〔修〕 is self-expression.〔主〕
+main 主语:One aspect | 谓语:is | 表语:self-expression
+mod of this influence → aspect | 介词定语 | 这种影响的一个方面。
+gist 一个方面是自我表达。
+cn 这种影响的一个方面是自我表达。
+
+# special-2026-translation|0:3
+type 主从复合句｜定语与并列宾语
+chunks The clothes〔主〕 we choose〔C1〕 can reflect our personality, mood, and identity.〔主〕
+main 主语:The clothes | 谓语:can reflect | 宾语:our personality … mood … identity
+C1 定语从句 | 修饰clothes | （省略 that） | clothes后we choose缺宾语，关系词指衣服 | 主语:we | 谓语:choose
+gist 服装能反映个性、心情和身份。
+cn 我们选择的衣服可以反映自己的个性、心情和身份。
+
+# special-2026-translation|0:4
+type 主从复合句｜whether让步与并列宾语
+chunks Whether we opt for bold, colorful outfits or prefer more understated styles,〔C1〕 our dress choices convey messages〔主〕 about〔修〕 who we are〔C2〕 and〔连〕 how we want to be perceived.〔C3〕
+main 主语:our dress choices | 谓语:convey | 宾语:messages
+C1 状语从句（让步） | 无论选择何种风格 | Whether | Whether后we opt or prefer共主语，结构完整；or给出两种选择，主句结果均成立 | 主语:we | 谓语:opt … prefer | 宾语:more understated styles
+C2 宾语从句 | 作about的第一项宾语 | who | about后需内容；who后we are缺表语，who代身份 | 主语:we | 谓语:are | 表语:who
+C3 宾语从句 | 与C2并列作about的宾语 | how | how后we want to be perceived完整，how问被看待的方式 | 主语:we | 谓语:want | 宾语:to be perceived
+mod for bold, colorful outfits → opt | 选择对象 | 大胆、鲜艳的穿搭。
+gist 着装选择传达信息。
+cn 无论选择大胆鲜艳的服装，还是更低调的风格，我们的着装都传达出自己是什么样的人，以及希望别人如何看待自己。
+
+# special-2026-translation|0:5
+type 简单句｜impact宾语
+chunks Additionally,〔修〕 clothing can impact our confidence levels.〔主〕
+main 主语:clothing | 谓语:can impact | 宾语:our confidence levels
+gist 服装也影响自信。
+cn 此外，服装还会影响我们的自信程度。
+
+# special-2026-translation|0:6
+type 主从复合句｜时间内嵌定语
+chunks When we wear clothes〔C1〕 that make us feel comfortable and confident,〔C2〕 it can positively affect our self-esteem and overall mood.〔主〕
+main 主语:it | 谓语:can … affect | 宾语:our self-esteem … overall mood
+C1 状语从句（时间） | 穿舒适衣服时 | When | When后we wear clothes主谓宾完整，说明affect的情境 | 主语:we | 谓语:wear | 宾语:clothes
+C2 定语从句 in C1 | 修饰clothes | that | clothes后make缺主语，that代衣服 | 主语:that | 谓语:make | 宾语:us | 宾补:feel comfortable and confident
+gist 这会积极影响自尊和心情。
+cn 当我们穿着让自己感觉舒适、自信的衣服时，自尊和整体心情都可能受到积极影响。
+
+# special-2026-translation|0:7
+type 简单句｜play a role
+chunks Moreover,〔修〕 cultural and societal influences play a significant role〔主〕 in shaping our dress choices.〔修〕
+main 主语:cultural and societal influences | 谓语:play | 宾语:a significant role
+mod in shaping our dress choices → role | 作用范围 | 塑造穿衣选择。
+gist 文化与社会影响发挥重要作用。
+cn 此外，文化和社会因素在塑造我们的着装选择时，也发挥重要作用。
+
+# special-2026-translation|0:8
+type 主从复合句｜which定语内嵌定语与分词
+chunks Different cultures have their norms and expectations〔主〕 regarding dress,〔修〕 which can influence the types〔C1〕 of clothing〔C1修〕 people wear〔C2〕 and〔连〕 the meanings〔C1〕 attributed to them.〔C1修〕
+main 主语:Different cultures | 谓语:have | 宾语:their norms … expectations
+C1 定语从句 | 补充说明norms and expectations | which | which后can influence缺主语，which指规范与期待；两项宾语为types和meanings | 主语:which | 谓语:can influence | 宾语:the types … the meanings
+C2 定语从句 in C1 | 修饰clothing | （省略 that） | clothing后people wear缺宾语，关系词指衣服 | 主语:people | 谓语:wear
+mod regarding dress → norms | 介词定语 | 有关穿衣的规范与期待。
+mod attributed to them → meanings | 分词定语 | 赋予服装的含义；attributed没有独立时态。
+gist 不同文化有规范和期待。
+cn 不同文化对着装有各自的规范和期待，这些会影响人们穿什么，以及赋予服装怎样的含义。

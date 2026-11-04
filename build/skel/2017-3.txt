@@ -70,23 +70,6 @@ mod from the United States and Australia → Studies | 介词短语作定语 | �
 mod generally → better prepared | 程度 | 总体上
 mod in college → perform better | 地点 | 在大学的表现
 
-# 2017-3|2:1
-type 简单句｜Rather than 对比 + by doing 方式
-chunks Rather than pulling students back,〔修〕 a gap year pushes them ahead〔主〕 by preparing them for independence, new responsibilities and environmental changes〔修〕
-main 主语:a gap year | 谓语:pushes | 宾语:them | 宾补:ahead
-gist 间隔年推动他们向前
-mod Rather than pulling students back → pushes them ahead | 对比状语 | 不是拖后腿，而是……
-mod by preparing them for independence, new responsibilities and environmental changes → pushes | 方式状语 | 怎么推动：让他们为独立、新责任、环境变化做好准备
-
-# 2017-3|3:0
-type 名词短语｜接上句末尾的同位语，带省略 that 的定语从句
-chunks -〔修〕 all things〔主〕 that first-year students often struggle with the most.〔C1〕
-main 主语:all things
-gist （上面三样）都是新生最头疼的事
-C1 定语从句 | 修饰 all things | （省略 that） | all things 后紧跟 first-year students … struggle with，with 缺宾语 → 省略了关系词 that，定语从句 | 主语:first-year students | 谓语:struggle with
-mod - → 整句 | 破折号 | 这半句是上一句 independence, new responsibilities and environmental changes 的同位语，被分到了新段落
-mod the most → struggle with | 程度 | 最
-
 # 2017-3|3:1
 type 简单句｜when it comes to 引出话题；现在分词表结果
 chunks Gap year experiences can lessen the blow〔主〕 when it comes to adjusting to college and being thrown into a brand new environment,〔C1〕 making it easier to focus on academics and activities rather than acclimation blunders.〔修〕
@@ -161,4 +144,17 @@ main 主语:Taking a gap year | 谓语:can help | 宾语:prevent stress and save
 gist 休间隔年能帮助避免压力、节省钱
 mod to figure things out initially → Taking a gap year | 不定式作目的状语 | 一开始先把事情想清楚
 mod later on → prevent stress and save money | 时间 | 以后
+
+# 2017-3|2:1
+type 主从复合句｜rather than对比，by doing表方式，that定语从句
+chunks Rather than pulling students back,〔修〕 a gap year pushes them ahead〔主〕 by preparing them for independence, new responsibilities and environmental changes〔修〕 - all things〔修〕 that first-year students often struggle with the most.〔C1〕
+main 主语:a gap year | 谓语:pushes | 宾语:them | 宾补:ahead
+gist 间隔年推动学生向前
+C1 定语从句 | 修饰all things | that | 前面是名词all things，后面first-year students struggle with缺介词with的宾语；that代指这些事情，作with的宾语 | 主语:first-year students | 谓语:struggle with
+mod Rather than pulling students back → pushes | 对比状语 | 与把学生拉回去形成对比
+mod by preparing them for independence, new responsibilities and environmental changes → pushes | 方式状语 | 通过帮助学生为独立、新责任和环境变化做好准备
+mod all things → independence, new responsibilities and environmental changes | 同位概括 | 上述三项都是大学新生经常最难应付的事情
+mod often → struggle with | 频率状语 | 经常感到难以应付
+mod the most → struggle with | 程度状语 | 最难应付
+point that在原句中明确出现，并未省略；all things概括破折号前列出的三项，不是另一个独立句子的主语。
 

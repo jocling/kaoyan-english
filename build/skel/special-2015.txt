@@ -1,0 +1,623 @@
+# special-2015-cloze|0:0
+type 简单句｜主语后接of短语，or连接两种动作
+chunks In our contemporary culture,〔修〕 the prospect〔主〕 of communicating with〔修〕 - or even looking at -〔修〕 a stranger〔修〕 is virtually unbearable.〔主〕
+main 主语:the prospect | 谓语:is | 表语:unbearable
+gist 这种前景令人难以忍受
+mod In our contemporary culture → 整句 | 背景状语 | 在当代文化中
+mod of communicating with … a stranger → prospect | 介词短语作定语 | 与陌生人交流的前景；a stranger是with的宾语
+mod or even looking at → communicating with | 并列补充 | 甚至只是看着陌生人；with与at共用后面的a stranger
+mod virtually → unbearable | 程度状语 | 几乎无法忍受
+point 主语中心是prospect，不是介词of后面的communicating；or连接两种行为，不连接两个主句。
+
+# special-2015-cloze|0:1
+type 主从复合句｜way后省略关系词的定语从句
+chunks Everyone〔主〕 around us〔修〕 seems to agree〔主〕 by the way〔修〕 they cling〔C1〕 to their phones,〔C1修〕 even without a 【signal】 on a subway.〔C1修〕
+main 主语:Everyone | 谓语:seems | 表语:to agree
+gist 每个人似乎都赞同
+C1 定语从句 | 修饰way | （省略 that） | 前面是方式名词way，后面they cling to their phones主谓及补足完整；省略的关系词表示以何种方式，整块限定way | 主语:they | 谓语:cling
+mod around us → Everyone | 后置定语 | 我们周围的人
+mod by the way → seems | 判断依据状语 | 根据他们紧抓手机的样子作判断
+mod to their phones → cling | 介词补足 | cling to表示紧抓不放
+mod even without a 【signal】 on a subway → cling | 让步情境补充 | 即使在没有信号的地铁上也抓着手机
+point seems带时态，to agree是不定式表语；they cling属于修饰way的从句。
+
+# special-2015-cloze|0:2
+type 主从复合句｜破折号内同位解释；because原因从句
+chunks It's a sad reality〔主〕 - our desire〔修〕 to avoid interacting with other human beings〔修〕 - because there's 【much】〔C1〕 to be gained〔C1修〕 from talking to the stranger〔C1修〕 standing by you.〔C1修〕
+main 主语＋谓语:It's | 表语:a sad reality
+gist 这是一个令人遗憾的现实
+C1 原因状语从句 | 解释为什么这一现实令人遗憾 | because | 前面It's a sad reality主系表完整，because后there's much为完整存在句；because引出原因，不修饰前面的名词 | 谓语:there's | 主语:【much】
+mod our desire → reality | 同位解释 | 所谓现实是人们想要避免交流的愿望
+mod to avoid interacting with other human beings → desire | 不定式作定语 | 避免与他人交往的愿望
+mod to be gained → 【much】 | 不定式作后置定语 | 有很多好处可以获得，gain与好处之间是被动关系
+mod from talking to the stranger → gained | 来源状语 | 收获来自与陌生人交谈
+mod standing by you → stranger | 现在分词作定语 | 站在你身旁的陌生人
+point interacting是avoid的动名词宾语；standing修饰stranger，都不是带时态的独立谓语。
+
+# special-2015-cloze|0:3
+type 简单句｜过去分词短语补充主语所处状态
+chunks But〔连〕 you wouldn't know it,〔主〕 【plugged】 into your phone.〔修〕
+main 主语:you | 谓语:wouldn't know | 宾语:it
+gist 你却不会知道这些好处
+mod 【plugged】 into your phone → you | 过去分词作状态补充 | 沉浸在手机中的你；与you构成被动或状态关系
+point wouldn't know是谓语；plugged前没有独立助动词，是逗号后说明you状态的分词短语。
+
+# special-2015-cloze|0:4
+type 简单句｜冒号后用祈使句说明message内容
+chunks This universal protection sends the 【message】:〔主〕 "Please don't approach me."〔修〕
+main 主语:This universal protection | 谓语:sends | 宾语:the 【message】
+gist 这种保护姿态传递着一个信息
+mod "Please don't approach me." → 【message】 | 同位内容说明 | 信息的内容是请不要靠近我；祈使句省略主语you
+point 冒号后的引语给message的具体内容；don't approach是引语内部的谓语，不与sends共用protection作主语。
+
+# special-2015-cloze|0:5
+type 疑问强调句｜去掉is it that框架后识别骨架；feel后宾语从句
+chunks What〔主〕 is it that〔修〕 makes us feel〔主〕 we need to hide〔C1〕 【behind】 our screens?〔C1修〕
+main 主语:What | 谓语:makes | 宾语:us | 宾补:feel
+gist 什么使我们产生这种感受
+C1 宾语从句 | 作feel的宾语 | （省略 that） | 前面feel缺感受的内容，后面we need to hide主谓及补足完整；省略that，整块说明我们觉得需要做什么 | 主语:we | 谓语:need | 宾语:to hide
+mod is it that → 整句 | 疑问强调框架 | What is it that…相当于强调追问What…，意思是究竟是什么；这不是名词后的普通定语从句
+mod 【behind】 our screens → hide | 地点状语 | 躲在屏幕后面
+point 本条按去强调框架后的What makes us feel…?列还原骨架，原句字词和顺序完整保留。is it that是特殊强调框架，不能把其中it教成普通it形式主语结构；feel后才是本条要单独识别的宾语从句。
+
+# special-2015-cloze|0:6
+type 简单句｜according to给出观点来源；同位语介绍人物
+chunks One answer is fear,〔主〕 according to Jon Wortmann,〔修〕 an executive mental coach.〔修〕
+main 主语:One answer | 谓语:is | 表语:fear
+gist 一个答案是恐惧
+mod according to Jon Wortmann → 整句 | 观点来源状语 | 按照Jon Wortmann的说法
+mod an executive mental coach → Jon Wortmann | 同位语 | 介绍Wortmann的职业身份
+
+# special-2015-cloze|0:7
+type 主从复合句｜or连接名词宾语与that宾语从句
+chunks We fear rejection,〔主〕 or〔连〕 that our innocent social advances will be 【misinterpreted】〔C1〕 as "weird."〔C1修〕
+main 主语:We | 谓语:fear | 宾语:rejection | 宾语:C1
+gist 我们害怕被拒绝，也害怕另一种结果
+C1 宾语从句 | 与rejection并列作fear的宾语 | that | 前面fear后先有名词宾语rejection，or后that连接另一项害怕的内容；our innocent social advances will be misinterpreted主谓完整，that不作成分 | 主语:our innocent social advances | 谓语:will be 【misinterpreted】
+mod as "weird" → 【misinterpreted】 | 介词补足 | 被理解成古怪的行为
+point or连接两个宾语，不是两个主句；will be misinterpreted整体构成被动谓语。
+
+# special-2015-cloze|0:8
+type 主从复合句｜fear后省略that的宾语从句
+chunks We fear〔主〕 we'll be 【judged】.〔C1〕
+main 主语:We | 谓语:fear | 宾语:C1
+gist 我们害怕（一件事）——担忧的内容是从句①：自己会被评判。
+C1 宾语从句 | 作fear的宾语 | （省略 that） | 前面fear缺害怕的内容，后面we'll be judged是主语加被动谓语；省略that，整块作宾语 | 主语＋谓语:we'll be 【judged】
+point we'll是we will；will be judged是被动谓语，不把judged单独当另一个谓语。
+
+# special-2015-cloze|0:9
+type 主从复合句｜fear后省略that的宾语从句
+chunks We fear〔主〕 we'll be disruptive.〔C1〕
+main 主语:We | 谓语:fear | 宾语:C1
+gist 我们害怕（一件事）——担忧的内容是从句①：自己会打扰别人。
+C1 宾语从句 | 作fear的宾语 | （省略 that） | 前面fear缺担心的内容，后面we'll be disruptive是完整主系表；省略that，整块说明担心会打扰别人 | 主语＋谓语:we'll be | 表语:disruptive
+
+# special-2015-cloze|0:10
+type 并列复合句｜so连接因果；when引出省略的时间状语从句
+chunks Strangers are inherently 【unfamiliar】〔主〕 to us,〔修〕 so〔连〕 we are more likely to feel 【anxious】〔主〕 when communicating〔C1〕 with them〔C1修〕 compared with our friends and acquaintances.〔修〕
+main 主语:Strangers | 谓语:are | 表语:【unfamiliar】 || &so || 主语:we | 谓语:are | 表语:more likely
+C1 时间状语从句（省略） | 说明何时更容易感到焦虑 | when | 前面we are more likely已能成句，when后communicating省略与主句一致的we are；整块作时间状语，不修饰名词 | 谓语:communicating
+gist 陌生人是不熟悉的，因此我们更容易焦虑
+mod inherently → 【unfamiliar】 | 程度和性质状语 | 陌生人本来就不熟悉
+mod to us → 【unfamiliar】 | 介词补足 | 对我们而言不熟悉
+mod to feel 【anxious】 → likely | 不定式补足 | 更有可能感到焦虑
+mod with them → communicating | 介词补足 | 与陌生人交流
+mod compared with our friends and acquaintances → 整句 | 比较补充 | 将与陌生人交流和与朋友熟人交流作比较
+point when从句中的communicating因we are被省略而留下；不能把它当成无省略依据的独立现在时谓语。
+
+# special-2015-cloze|0:11
+type 简单句｜不定式前置表目的
+chunks To avoid this uneasiness,〔修〕 we 【turn】〔主〕 to our phones.〔修〕
+main 主语:we | 谓语:【turn】
+gist 我们转向手机
+mod To avoid this uneasiness → 【turn】 | 不定式作目的状语 | 转向手机是为了避免不安
+mod to our phones → 【turn】 | 介词补足 | turn to表示求助于
+
+# special-2015-cloze|0:12
+type 简单句｜直接引语后附引述语
+chunks "Phones become our security blanket,"〔主〕 Wortmann says.〔修〕
+main 主语:Phones | 谓语:become | 表语:our security blanket
+gist 手机成了我们的安全毯
+mod Wortmann says → 整句 | 引述语 | Wortmann是说话人，says引出前面的引语
+
+# special-2015-cloze|0:13
+type 主从复合句｜that定语从句，from后what宾语从句
+chunks "They are our happy glasses〔主〕 that protect us〔C1〕 from〔C1修〕 what〔C2〕 we perceive〔修〕 is going to be more 【dangerous】."〔C2〕
+main 主语:They | 谓语:are | 表语:our happy glasses
+gist 手机是让我们安心的眼镜
+C1 定语从句 | 修饰glasses | that | 前面是名词glasses，后面protect us缺主语；that代指眼镜作protect的主语，整块限定glasses | 主语:that | 谓语:protect | 宾语:us
+C2 宾语从句 in C1 | 作介词from的宾语 | what | 前面介词from需要宾语，去掉插入的we perceive后what is going to be dangerous中缺少名词性主语；what兼有连接和主语作用，指我们认为会更危险的事情 | 主语:what | 谓语:is going to be | 表语:more 【dangerous】
+mod we perceive → C2 | 插入判断 | 表示按我们的判断、我们认为，修饰整项判断，不与is going to be构成并列谓语
+point from后整块what…表示被保护而免于面对的事情；本句的we perceive可按插入性判断理解。不要把perceive和is going to be硬并成同一层的两个谓语。
+
+# special-2015-cloze|0:14
+type 主从复合句｜once时间状语从句内有三个并列谓语
+chunks But〔连〕 once we rip off the band-aid, tuck our smartphones〔C1〕 in our pockets〔C1修〕 and look up,〔C1〕 it doesn't 【hurt】〔主〕 so bad.〔修〕
+main 主语:it | 谓语:doesn't 【hurt】
+gist 事情并没有那么难受
+C1 时间状语从句 | 说明何时就不再那么难受 | once | 前面But承接转折，once后we rip off…tuck…and look up主谓完整；once表示一旦，整块提供主句成立的时间条件 | 主语:we | 谓语:rip off | 宾语:the band-aid | 谓语:tuck | 宾语:our smartphones | 谓语:look up
+mod in our pockets → tuck | 地点状语 | 把手机塞入口袋
+mod so bad → 【hurt】 | 程度状语 | 没有那么让人难受，保留原题口语bad
+point rip off、tuck和look up共用从句主语we；it doesn't hurt才是主句。
+
+# special-2015-cloze|0:15
+type 简单句｜ask复合宾语；冒号后说明unthinkable的内容
+chunks In one 2011 experiment,〔修〕 behavioral scientists Nicholas Epley and Juliana Schroeder asked commuters to do the unthinkable:〔主〕 Start a 【conversation】.〔修〕
+main 主语:Nicholas Epley and Juliana Schroeder | 谓语:asked | 宾语:commuters | 宾补:to do the unthinkable
+gist 两位研究者让通勤者做一件难以想象的事
+mod In one 2011 experiment → asked | 时间情境状语 | 在2011年的一次实验中
+mod behavioral scientists → Nicholas Epley and Juliana Schroeder | 身份说明 | 两位研究者是行为科学家
+mod Start a 【conversation】 → the unthinkable | 同位内容说明 | 所谓难以想象的事，就是主动开始交谈
+point asked带时态；to do是不定式宾补。冒号后的祈使句说明具体任务，省略主语you。
+
+# special-2015-cloze|0:16
+type 简单句｜have使役结构，宾补用不带to的动词原形
+chunks They had Chicago train commuters talk〔主〕 to their fellow 【passengers】.〔修〕
+main 主语:They | 谓语:had | 宾语:Chicago train commuters | 宾补:talk
+gist 他们让列车通勤者交谈
+mod to their fellow 【passengers】 → talk | 介词补足 | 与同车乘客交谈
+point had是过去时谓语；have somebody do something中的talk是不带to的宾补，不是第二个过去时谓语。
+
+# special-2015-cloze|0:17
+type 主从复合句｜引语内when时间、how宾语、零that宾语与if条件从句
+chunks "When Dr. Epley and Ms. Schroeder asked other people〔C1〕 in the same train station〔C1修〕 to 【predict】〔C1〕 how they would feel〔C2〕 after talking to a stranger,〔C2修〕 the commuters thought〔主〕 their 【ride】 would be more pleasant〔C3〕 if they sat〔C4〕 on their own,"〔C4修〕 The New York Times summarizes.〔修〕
+main 主语:the commuters | 谓语:thought | 宾语:C3
+gist 通勤者以为（一件事）——想法是从句③：独自坐着会更愉快。
+C1 时间状语从句 | 说明通勤者作出判断的实验情境 | When | When后两位研究者asked other people to predict…主谓宾补完整；它给出时间背景，后面的the commuters thought才是主句 | 主语:Dr. Epley and Ms. Schroeder | 谓语:asked | 宾语:other people | 宾补:to 【predict】
+C2 宾语从句 in C1 | 作predict的宾语 | how | 前面predict缺预测内容，后面they would feel主谓完整但需要感受方式；how作方式成分，引出预测会有怎样的感受 | 主语:they | 谓语:would feel
+C3 宾语从句 | 作thought的宾语 | （省略 that） | 前面thought缺想法内容，后面their ride would be more pleasant主系表完整；省略that，整块作宾语 | 主语:their 【ride】 | 谓语:would be | 表语:more pleasant
+C4 条件状语从句 in C3 | 限定行程更愉快的条件 | if | 前面their ride would be more pleasant已完整，if后they sat on their own主谓完整；if表示如果，提供独自坐着的条件 | 主语:they | 谓语:sat
+mod in the same train station → other people | 后置定语 | 同一车站里的其他人
+mod after talking to a stranger → would feel | 时间状语 | 与陌生人交谈之后
+mod on their own → sat | 方式状语 | 独自坐着
+mod The New York Times summarizes → 整句 | 引述语 | 《纽约时报》这样概括实验
+point thought而非asked是引语主句谓语；asked被When管着，属于时间从句。
+
+# special-2015-cloze|0:18
+type 多句合并条目｜though与after状语从句；which定语从句、since原因从句
+chunks Though the participants didn't expect a positive experience,〔C1〕 after they 【went through】〔C2〕 with the experiment,〔C2修〕 "not a single person reported having been embarrassed."〔主〕 【In fact】,〔修〕 these commutes were reportedly more enjoyable〔主〕 compared with those without communication,〔修〕 which makes absolute sense,〔C3〕 【since】 human beings thrive〔C4〕 off of social connections.〔C4修〕
+main 主语:not a single person | 谓语:reported | 宾语:having been embarrassed || 主语:these commutes | 谓语:were | 表语:more enjoyable
+gist 没有人报告尴尬；这些行程更令人愉快
+C1 让步状语从句 | 承认实验前没有期待积极体验 | Though | Though后the participants didn't expect a positive experience主谓宾完整；though表示虽然，与后面的实际结果形成让步关系 | 主语:the participants | 谓语:didn't expect | 宾语:a positive experience
+C2 时间状语从句 | 说明报告体验发生在何时 | after | after后they went through with the experiment主谓和补足完整；整块表示完成实验后，不修饰某个名词 | 主语:they | 谓语:【went through】
+C3 非限制性定语从句 | 评价前面行程更愉快这一事实 | which | 前面是一整项行程更愉快的事实，后面makes absolute sense缺主语；which指前面这一事实作主语，而非仅指communication | 主语:which | 谓语:makes | 宾语:absolute sense
+C4 原因状语从句 in C3 | 解释为什么该结果合理 | 【since】 | 前面which makes absolute sense已完整，since后human beings thrive主谓完整；since在此说明原因，不表示自从 | 主语:human beings | 谓语:thrive
+mod with the experiment → 【went through】 | 介词补足 | go through with表示把计划真正做完
+mod 【In fact】 → 整句 | 评述状语 | 用事实补充原先预期与实际体验的反差
+mod reportedly → were | 信息来源状语 | 根据报告可知
+mod compared with those without communication → more enjoyable | 比较补充 | 与没有交流的通勤行程相比；those指commutes
+mod off of social connections → thrive | 介词补足 | 良好状态来自社会联结
+point 原始条目把两个完整句子放在一起，本批保留编号。having been embarrassed是动名词完成被动式，整体作reported的宾语，没有独立时态。
+
+# special-2015-cloze|0:19
+type 多分句条目｜冒号后解释前句内容；make复合宾语
+chunks It's that 【simple】:〔主〕 Talking to strangers can make you feel connected.〔主〕
+main 主语＋谓语:It's | 表语:【simple】 || 主语:Talking to strangers | 谓语:can make | 宾语:you | 宾补:feel connected
+gist 道理很简单：与陌生人交谈能让你感到联结
+mod that → 【simple】 | 程度状语 | that在此表示就那么、如此，不引导从句
+point Talking to strangers整体是动名词主语；feel是不带to的宾补，connected说明feel的状态。
+
+# special-2015-translation|0:0
+type 祈使句｜about后动名词；that定语从句
+chunks Think about driving a route〔主〕 that's very familiar.〔C1〕
+main 谓语:Think about | 宾语:driving a route
+gist 想一想沿某条路线驾驶
+C1 定语从句 | 修饰route | that | 前面是名词route，后面的that's very familiar中that's是that is；that代指route作从句主语，后面主语位置由它承担 | 主语＋谓语:that's | 表语:familiar
+mod very → familiar | 程度状语 | 非常熟悉
+point 主句是省略you的祈使句，Think about是动词与介词的搭配；driving是about后的动名词，不是现在进行时谓语。
+
+# special-2015-translation|0:1
+type 简单句｜三个名词短语并列表语
+chunks It could be your commute〔主〕 to work,〔修〕 a trip〔主〕 into town〔修〕 or the way〔主〕 home.〔修〕
+main 主语:It | 谓语:could be | 表语:your commute … a trip … the way
+gist 它可能是通勤路线、一次路程或回家的路
+mod to work → commute | 方向定语 | 去工作的通勤路线
+mod into town → trip | 方向定语 | 进城的路程
+mod home → way | 方向补充 | 回家的路
+point or连接三个表语，不是三个主句。
+
+# special-2015-translation|0:2
+type 主从复合句｜whichever让步状语从句
+chunks Whichever it is,〔C1〕 you know every twist and turn〔主〕 like the back of your hand.〔修〕
+main 主语:you | 谓语:know | 宾语:every twist and turn
+gist 你知道每一个转弯
+C1 让步状语从句 | 表示无论是哪条路线 | Whichever | Whichever后it is有主语与系动词，但表语位置由Whichever承担；前置整块表示无论哪一种，不是主句缺少的宾语 | 主语:it | 谓语:is | 表语:Whichever
+mod like the back of your hand → know | 方式比较 | 像了解手背一样熟悉
+
+# special-2015-translation|0:3
+type 简单句｜it形式主语；两个不定式动作构成真正主语
+chunks On these sorts of trips〔修〕 it's easy to lose concentration〔主〕 on the driving〔修〕 and pay little attention〔主〕 to the passing scenery.〔修〕
+main 形式主语＋谓语:it's | 表语:easy | 真正主语:to lose concentration … pay little attention
+gist 走神和少留意沿途景色很容易发生
+mod On these sorts of trips → 整句 | 情境状语 | 在这类熟悉的行程中
+mod on the driving → concentration | 介词补足 | 对驾驶的专注
+mod to the passing scenery → attention | 介词补足 | 对沿途景色的注意
+point and后的pay与lose共用to，两个动作共同构成不定式真正主语；不能把pay另立成it's的第二个限定谓语。
+
+# special-2015-translation|0:4
+type 主从复合句｜that表语从句，内含that宾语与than比较从句
+chunks The consequence is〔主〕 that you perceive〔C1〕 that the trip has taken less time〔C2〕 than it actually has.〔C3〕
+main 主语:The consequence | 谓语:is | 表语:C1
+gist 结果是（一件事）——具体内容是从句①：你觉得旅程用时更短。
+C1 表语从句 | 说明consequence的具体内容 | that | 前面系动词is缺表语，that后you perceive后接宾语内容，主谓完整；that不作成分，整块作表语 | 主语:you | 谓语:perceive | 宾语:C2
+C2 宾语从句 in C1 | 作perceive的宾语 | that | 前面perceive缺感知的内容，that后the trip has taken less time主谓宾完整；that只连接，整块作宾语 | 主语:the trip | 谓语:has taken | 宾语:less time
+C3 比较状语从句 in C2 | 比较感觉用时与实际用时 | than | 前面less time给出比较，than后it actually has省略重复的taken和用时内容；it指the trip，has保留现在完成时 | 主语:it | 谓语:has
+mod actually → has | 评述状语 | 实际上耗费的时间
+point 两个that分属不同层级：第一个接在is后作表语，第二个接在perceive后作宾语；than从句中的has是助动词省略，不是拥有。
+
+# special-2015-translation|0:5
+type 多分句条目｜冒号后解释熟路效应；it takes时间结构修饰time
+chunks This is the well-travelled road effect:〔主〕 People tend to underestimate the time〔主〕 it takes to travel a familiar route.〔C1〕
+main 主语:This | 谓语:is | 表语:the well-travelled road effect || 主语:People | 谓语:tend | 表语:to underestimate the time
+gist 这是熟路效应：人们往往低估时间
+C1 定语从句 | 修饰time | （省略 that） | 前面是名词time，后面it takes to travel…中takes缺少表示耗时的宾语；省略的关系词指time，在从句中作takes的宾语 | 形式主语:it | 谓语:takes | 真正主语:to travel a familiar route
+point it takes time to do中的it是形式主语；to travel是真正主语。此处time提前为先行词，不要把it错当作路线。
+
+# special-2015-translation|0:6
+type 主从复合句｜被动主句，way后省略关系词的定语从句
+chunks The effect is caused〔主〕 by the way〔修〕 we allocate our attention.〔C1〕
+main 主语:The effect | 谓语:is caused
+gist 这种效应是被引起的
+C1 定语从句 | 修饰way | （省略 that） | 前面是方式名词way，后面we allocate our attention主谓宾完整；省略的关系词表示以何种方式，整块限定way | 主语:we | 谓语:allocate | 宾语:our attention
+mod by the way → caused | 被动原因或施事补足 | 效应由分配注意力的方式引起，way后有定语从句进一步限定
+point is caused是完整被动谓语；we allocate属于修饰way的从句。
+
+# special-2015-translation|0:7
+type 主从复合句｜when时间从句、because原因从句
+chunks When we travel〔C1〕 down a well-known route,〔C1修〕 because we don't have to concentrate much,〔C2〕 time seems to flow〔主〕 more quickly.〔修〕
+main 主语:time | 谓语:seems | 表语:to flow
+gist 时间似乎在流逝
+C1 时间状语从句 | 说明感觉时间变快的情境 | When | When后we travel down a route主谓及补足完整，整块表示何时出现感觉，不修饰名词 | 主语:we | 谓语:travel
+C2 原因状语从句 | 解释为什么感觉时间更快 | because | because后we don't have to concentrate much主谓完整，整块说明time seems to flow more quickly的原因，不是time的定语 | 主语:we | 谓语:don't have to concentrate
+mod down a well-known route → travel | 路线状语 | 沿着一条熟悉的路线前行
+mod much → concentrate | 程度状语 | 不必投入很多注意力
+mod more quickly → flow | 方式状语 | 感觉流逝得更快
+
+# special-2015-translation|0:8
+type 主从复合句｜when时间从句与because原因从句
+chunks And afterwards,〔修〕 when we come to think back〔C1〕 on it,〔C1修〕 we can't remember the journey〔主〕 well〔修〕 because we didn't pay much attention〔C2〕 to it.〔C2修〕
+main 主语:we | 谓语:can't remember | 宾语:the journey
+gist 我们记不清这段行程
+C1 时间状语从句 | 说明何时记不清行程 | when | when后we come to think back主谓及补足完整，整块表示回想时这一时间背景，不修饰名词 | 主语:we | 谓语:come
+C2 原因状语从句 | 解释为何记不清行程 | because | 前面we can't remember the journey已完整，because后we didn't pay much attention主谓宾完整；because给出原因 | 主语:we | 谓语:didn't pay | 宾语:much attention
+mod And afterwards → 整句 | 时间和衔接状语 | 并且在这之后
+mod to think back → come | 不定式补足 | come to do表示开始或逐渐做某事，这里转到回想行程
+mod on it → think back | 介词补足 | 回想这段行程
+mod well → remember | 方式状语 | 记得不清楚
+mod to it → attention | 介词补足 | 对行程的注意
+
+# special-2015-translation|0:9
+type 主从复合句｜assume后省略that的宾语从句
+chunks So〔连〕 we assume〔主〕 it was shorter.〔C1〕
+main 主语:we | 谓语:assume | 宾语:C1
+gist 我们便作出一个判断
+C1 宾语从句 | 作assume的宾语 | （省略 that） | 前面assume缺推断内容，后面it was shorter主系表完整；省略that，整块作宾语 | 主语:it | 谓语:was | 表语:shorter
+point it指这次行程；shorter说的是感觉中的用时更短，而非熟悉的道路实际变短。
+
+# special-2015-newtype|0:0
+type 标题名词短语｜不定式说明用途，无完整限定谓语
+chunks Some Old Truths〔主〕 to Help You Overcome Tough Times〔修〕
+main 主语:Some Old Truths
+gist 一些老道理
+mod to Help You Overcome Tough Times → Truths | 不定式作后置定语 | 能帮助你克服困难的道理；help后You是宾语，Overcome是不带to的宾补
+point 这是文章标题，不是完整陈述句；主语栏仅展示标题的中心名词短语，不能凭空补is或把Help当作带时态的谓语。
+
+# special-2015-newtype|1:0
+type 简单句｜主系表结构
+chunks Unfortunately,〔修〕 life is not a bed of roses.〔主〕
+main 主语:life | 谓语:is not | 表语:a bed of roses
+gist 生活并非一帆风顺
+mod Unfortunately → 整句 | 评述状语 | 说话人对事实的遗憾评价
+point a bed of roses整体比喻安逸顺利的生活，不是现实中一张摆满玫瑰的床。
+
+# special-2015-newtype|1:1
+type 简单句｜进行时谓语，facing分词补充伴随状态
+chunks We are going〔主〕 through life〔修〕 facing sad experiences.〔修〕
+main 主语:We | 谓语:are going
+gist 我们正走过人生
+mod through life → going | 过程补足 | 度过人生的过程
+mod facing sad experiences → We | 现在分词作伴随状语 | 人生路上面对着令人伤心的经历
+point are going整体是带时态的谓语；facing没有另一个are，不是并列的限定谓语。
+
+# special-2015-newtype|1:2
+type 简单句｜冒号后列举loss的种类
+chunks Moreover,〔修〕 we are grieving various kinds〔主〕 of loss:〔修〕 a friendship, a romantic relationship or a house.〔修〕
+main 主语:we | 谓语:are grieving | 宾语:various kinds
+gist 我们还在为各种失去哀伤
+mod Moreover → 整句 | 添加衔接 | 除前面提到的悲伤经历以外
+mod of loss → kinds | 介词短语作定语 | 各种失去
+mod a friendship, a romantic relationship or a house → loss | 同位列举 | 失去可能涉及友谊、爱情或房子
+point grieving与are共同构成进行时；or连接列举的三种失去，不连接三个句子。
+
+# special-2015-newtype|1:3
+type 并列复合句｜what宾语从句；remember后that宾语从句
+chunks Hard times may hold you down〔主〕 at〔修〕 what usually seems like the most inopportune time,〔C1〕 but〔连〕 you should remember〔主〕 that they won't last〔C2〕 forever.〔C2修〕
+main 主语:Hard times | 谓语:may hold … down | 宾语:you || &but || 主语:you | 谓语:should remember | 宾语:C2
+gist 困难可能压住你，但你应记住（一件事）——内容是从句②：困难不会永远持续。
+C1 宾语从句 | 作介词at的宾语 | what | 前面介词at需要时间内容，what后usually seems like…缺主语；what充当主语，整块表示看起来最不合时宜的时刻 | 主语:what | 谓语:seems | 表语:like the most inopportune time
+C2 宾语从句 | 作remember的宾语 | that | 前面remember缺记住的内容，that后they won't last主谓完整；that不作成分，整块作宾语 | 主语:they | 谓语:won't last
+mod usually → seems | 频率状语 | 通常看来如此
+mod forever → last | 时间状语 | 不会永久持续
+point at后不是普通定语从句，因为没有放在what前面的先行名词；what在自己的从句里作主语。
+
+# special-2015-newtype|1:4
+type 主从复合句｜when时间从句，形容词短语补充主语状态
+chunks When our time〔C1〕 of mourning〔C1修〕 is over,〔C1〕 we press forward,〔主〕 stronger〔修〕 with a greater understanding and respect for life.〔修〕
+main 主语:we | 谓语:press forward
+gist 我们继续前行
+C1 时间状语从句 | 说明何时继续前行 | When | When后our time is over主系表完整，整块提供主句时间背景；when不修饰某个名词 | 主语:our time | 谓语:is | 表语:over
+mod of mourning → time | 介词短语作定语 | 哀悼的时期
+mod stronger → we | 形容词作状态补充 | 前行时我们比原来更坚强，不是press的宾语
+mod with a greater understanding and respect for life → we | 伴随状态补充 | 带着对生活更深的理解与尊重
+point stronger没有另带be，是逗号后说明we状态的形容词；不能把它当成第二个谓语。
+
+# special-2015-newtype|1:5
+type 简单句｜同一主语带make和move两个并列谓语
+chunks Furthermore,〔修〕 these losses make us mature〔主〕 and〔连〕 eventually move us〔主〕 toward future opportunities〔修〕 for growth and happiness.〔修〕
+main 主语:these losses | 谓语:make | 宾语:us | 宾补:mature || &and || 谓语:move | 宾语:us
+gist 这些失去使我们成熟，并推动我们向前
+mod Furthermore → 整句 | 添加衔接 | 继续补充失去带来的成长
+mod eventually → move | 时间状语 | 最终产生的推动
+mod toward future opportunities → move | 方向状语 | 推向未来的机会
+mod for growth and happiness → opportunities | 介词短语作定语 | 获得成长与幸福的机会
+point make us mature中的mature是宾补；and后move带时态，与make共用these losses作主语。
+
+# special-2015-newtype|1:6
+type 主从复合句｜truths后省略关系词的定语从句
+chunks I want to share these old truths〔主〕 I've learned〔C1〕 along the way.〔C1修〕
+main 主语:I | 谓语:want | 宾语:to share these old truths
+gist 我想分享这些老道理
+C1 定语从句 | 修饰truths | （省略 that） | 前面是名词truths，后面I've learned缺学习的宾语；省略的关系词代指truths作learned的宾语 | 主语＋谓语:I've learned
+mod along the way → learned | 过程状语 | 在一路走来的经历中学到
+point I've是I have；want是主句谓语，have learned是从句谓语，to share是不定式宾语。
+
+# special-2015-newtype|2:0
+type 简单句｜两个形容词并列表语
+chunks Fear is both useful and harmful.〔主〕
+main 主语:Fear | 谓语:is | 表语:useful … harmful
+gist 恐惧既有用也有害
+point both…and…连接useful和harmful两个表语，不是两个句子。
+
+# special-2015-newtype|2:1
+type 简单句｜被动谓语；不定式表目的，by后两个动名词并列
+chunks This normal human reaction is used〔主〕 to protect us〔修〕 by signaling danger and preparing us to deal with it.〔修〕
+main 主语:This normal human reaction | 谓语:is used
+gist 这种反应被用来发挥作用
+mod to protect us → used | 不定式作目的状语 | 被用来保护我们
+mod by signaling danger and preparing us to deal with it → protect | 方式状语 | 通过提示危险并让我们准备应对来保护我们
+mod to deal with it → preparing | 不定式作宾补 | prepare us to do让我们准备做某事，it指危险
+point is used to do表示被用来做，不是be used to doing的习惯于；signaling和preparing在by后并列，均为动名词。
+
+# special-2015-newtype|2:2
+type 简单句｜with短语表方式，保留原题a help表达
+chunks Unfortunately,〔修〕 people create inner barriers〔主〕 with a help of exaggerating fears.〔修〕
+main 主语:people | 谓语:create | 宾语:inner barriers
+gist 人们制造内心的障碍
+mod Unfortunately → 整句 | 评述状语 | 表示这种结果令人遗憾
+mod with a help of exaggerating fears → create | 方式状语 | 通过夸大恐惧形成障碍；保留原题表达
+point 本地原卷就是with a help of，常规更常见with the help of；本批不改写原题。exaggerating在介词of后，不是独立谓语。
+
+# special-2015-newtype|2:3
+type 直接引语条目｜引述句后给出原话的第一句
+chunks My favorite actor Will Smith once said,〔主〕 "Fear is not real.〔主〕
+main 主语:Will Smith | 谓语:said || 主语:Fear | 谓语:is not | 表语:real
+gist 威尔·史密斯说，恐惧并不真实
+mod My favorite actor → Will Smith | 身份说明 | 介绍说话人是自己喜欢的演员
+mod once → said | 时间状语 | 曾经说过
+point 引述语和引语各有自己的主谓；它们不是and连接的并列句。引号在后续条目结束，本条保留原始句界。
+
+# special-2015-newtype|2:4
+type 主从复合句｜thoughts后省略关系词的定语从句
+chunks It is a product〔主〕 of thoughts〔修〕 you create.〔C1〕
+main 主语:It | 谓语:is | 表语:a product
+gist 它是一种产物
+C1 定语从句 | 修饰thoughts | （省略 that） | 前面是名词thoughts，后面you create有主语和谓语但缺宾语；省略的关系词指thoughts，作create的宾语 | 主语:you | 谓语:create
+mod of thoughts → product | 介词短语作定语 | 想法产生的产物，thoughts后又有从句限定
+point It承接上条的Fear；you create不是与It is并列的主句。
+
+# special-2015-newtype|2:5
+type 祈使句｜否定命令，省略主语you
+chunks Do not misunderstand me.〔主〕
+main 谓语:Do not misunderstand | 宾语:me
+gist 不要误解我
+point 祈使句省略you；Do not构成否定祈使，不能因为没有显式主语就另补一个名词主语。
+
+# special-2015-newtype|2:6
+type 简单句｜主系表结构
+chunks Danger is very real.〔主〕
+main 主语:Danger | 谓语:is | 表语:real
+gist 危险是真实的
+mod very → real | 程度状语 | 非常真实
+
+# special-2015-newtype|2:7
+type 简单句｜主系表结构，But表示转折
+chunks But〔连〕 fear is a choice."〔主〕
+main 主语:fear | 谓语:is | 表语:a choice
+gist 恐惧是一种选择
+point But在语义上与前句的危险真实形成对比；句末引号结束Will Smith的整段原话。
+
+# special-2015-newtype|2:8
+type 主从复合句｜that宾语从句，do强调谓语
+chunks I do completely agree〔主〕 that fears are just the product〔C1〕 of our luxuriant imagination.〔C1修〕
+main 主语:I | 谓语:do … agree | 宾语:C1
+gist 我完全同意（一件事）——内容是从句①：恐惧是想象的产物。
+C1 宾语从句 | 作agree的宾语 | that | 前面agree缺同意的内容，that后fears are the product主系表完整；that不作成分，整块作宾语 | 主语:fears | 谓语:are | 表语:the product
+mod completely → agree | 程度状语 | 完全同意
+mod just → the product | 限定副词 | 只是这种产物
+mod of our luxuriant imagination → product | 介词短语作定语 | 丰富想象力的产物
+point do在肯定句里强调agree，不是另一个表示做的实义谓语。
+
+# special-2015-newtype|3:0
+type 主从复合句｜if条件从句，主句为祈使句
+chunks If you are surrounded〔C1〕 by problems〔C1修〕 and cannot stop thinking〔C1〕 about the past,〔C1修〕 try to focus〔主〕 on the present moment.〔修〕
+main 谓语:try | 宾语:to focus
+gist 试着集中注意力
+C1 条件状语从句 | 给出提出建议的条件 | If | If后you are surrounded…and cannot stop…有主语和并列谓语；if提供条件，后面的try是省略you的祈使主句 | 主语:you | 谓语:are surrounded | 谓语:cannot stop | 宾语:thinking
+mod by problems → surrounded | 被动施事补足 | 被问题包围
+mod about the past → thinking | 介词补足 | 想着过去的事情
+mod on the present moment → focus | 介词补足 | 专注当下这一刻
+point are surrounded与cannot stop共用you，但都在if从句中；主句不是省略主语的cannot stop，而是try。
+
+# special-2015-newtype|3:1
+type 简单句｜be后并列过去分词和形容词状态
+chunks Many of us are weighed down〔主〕 by the past〔修〕 or〔连〕 anxious〔主〕 about the future.〔修〕
+main 主语:Many of us | 谓语:are weighed down || &or || 谓语:are | 表语:anxious
+gist 我们许多人被压住，或感到焦虑
+mod by the past → weighed down | 被动施事 | 被过去的事情压住
+mod about the future → anxious | 介词补足 | 对未来感到焦虑
+point anxious前省略重复的are，原句只出现一次are，后半是共用be的并列状态；不把anxious当动词。
+
+# special-2015-newtype|3:2
+type 并列复合句｜but连接两主句，零关系词定语从句
+chunks You may feel guilt〔主〕 over your past,〔修〕 but〔连〕 you are poisoning the present〔主〕 with the things and circumstances〔修〕 you cannot change.〔C1〕
+main 主语:You | 谓语:may feel | 宾语:guilt || &but || 主语:you | 谓语:are poisoning | 宾语:the present
+gist 你可能内疚，却正在破坏当下
+C1 定语从句 | 修饰things and circumstances | （省略 that） | 前面是并列名词things and circumstances，后面you cannot change缺宾语；省略的关系词指这些事情和处境，作change的宾语 | 主语:you | 谓语:cannot change
+mod over your past → guilt | 介词短语作定语 | 对过去的内疚
+mod with the things and circumstances → poisoning | 方式状语 | 用这些事情和处境破坏当下
+point but后有新的you，是两个主句；最后you cannot change被前面的名词限定关系管着，不是第三个主句。
+
+# special-2015-newtype|3:3
+type 祈使复合句｜两个并列祈使谓语，how宾语从句
+chunks Value the present moment〔主〕 and〔连〕 remember〔主〕 how fortunate you are〔C1〕 to be alive.〔C1修〕
+main 谓语:Value | 宾语:the present moment || &and || 谓语:remember | 宾语:C1
+gist 珍惜当下，并记住（一件事）——内容是从句①：你有多幸运。
+C1 宾语从句 | 作remember的宾语 | how | 前面remember缺记住的内容，后面you are fortunate主系表完整；how修饰fortunate并前置，表示有多幸运，整块作宾语 | 主语:you | 谓语:are | 表语:fortunate
+mod to be alive → fortunate | 不定式补足 | 有幸活着
+point how fortunate在宾语从句中前置，后面仍是you are的陈述语序，不改成are you。
+
+# special-2015-newtype|3:4
+type 简单祈使句｜两个并列谓语，不定式表目的
+chunks Enjoy the beauty〔主〕 of the world〔修〕 around〔修〕 and〔连〕 keep the eyes open〔主〕 to see the possibilities〔修〕 before you.〔修〕
+main 谓语:Enjoy | 宾语:the beauty || &and || 谓语:keep | 宾语:the eyes | 宾补:open
+gist 欣赏美，并睁开眼睛
+mod of the world → beauty | 介词短语作定语 | 世界的美
+mod around → world | 后置定语 | 周围的世界
+mod to see the possibilities → keep | 不定式作目的状语 | 睁眼去看可能性
+mod before you → possibilities | 介词短语作定语 | 摆在眼前的可能性
+point open是形容词宾补，不是与keep并列的动词；Enjoy和keep共用省略的主语you。
+
+# special-2015-newtype|3:5
+type 主从复合句｜not…but并列表语，that定语从句
+chunks Happiness is not a point〔主〕 of future〔修〕 and not a moment〔主〕 from the past,〔修〕 but a mindset〔主〕 that can be designed〔C1〕 into the present.〔C1修〕
+main 主语:Happiness | 谓语:is | 表语:not a point … not a moment … a mindset
+gist 幸福不是时间点或瞬间，而是一种心态
+C1 定语从句 | 修饰mindset | that | 前面是名词mindset，后面can be designed into the present缺被设计的主语；that代指mindset作主语 | 主语:that | 谓语:can be designed
+mod of future → point | 介词短语作定语 | 未来的时间点，保留原题表达
+mod from the past → moment | 介词短语作定语 | 来自过去的一瞬
+mod into the present → designed | 方向补足 | 被融入当下
+point and和but连接同一is后的表语项目；不是每遇到but都另起一个主句。
+
+# special-2015-newtype|4:0
+type 主从复合句｜it形式主语，because原因从句
+chunks Sometimes〔修〕 it is easy to feel bad〔主〕 because you are going〔C1〕 through tough times.〔C1修〕
+main 形式主语:it | 谓语:is | 表语:easy | 真正主语:to feel bad
+gist 心情低落很容易发生
+C1 原因状语从句 | 解释为何容易心情低落 | because | 前面it is easy to feel bad已完整，because后you are going through tough times主谓及补足完整；整块说明原因，不作easy的宾语 | 主语:you | 谓语:are going
+mod Sometimes → 整句 | 频率状语 | 有时候
+mod through tough times → going | 经历补足 | 经历艰难时期
+point 主句it是形式主语，真正被评价为easy的是to feel bad这件事。
+
+# special-2015-newtype|4:1
+type 主从复合句｜that按结果理解；things后零关系词定语从句
+chunks You can be easily caught up〔主〕 by life problems〔修〕 that you forget to pause and appreciate the things〔C1〕 you have.〔C2〕
+main 主语:You | 谓语:can be … caught up
+gist 你可能被生活问题卷住
+C1 结果状语从句 | 说明被问题卷住带来的结果 | that | 前面You can be caught up by life problems已成句，后面you forget…主谓宾完整；按上下文that引出以至于忘记停下来的结果，原卷未写常见的so，保留这一非典型表达 | 主语:you | 谓语:forget | 宾语:to pause and appreciate the things
+C2 定语从句 in C1 | 修饰things | （省略 that） | 前面是名词things，后面you have有主语和谓语但缺宾语；省略的关系词指things作have的宾语 | 主语:you | 谓语:have
+mod easily → caught up | 方式状语 | 容易被卷入
+mod by life problems → caught up | 被动施事补足 | 被生活中的问题困住
+point 本地原卷也没有so。按语义理解为结果关系，不能把that you forget…解释成修饰problems的普通定语从句；该从句主谓宾本身完整。本条原题表达存疑，已单列说明。
+
+# special-2015-newtype|4:2
+type 简单句｜prefer后两个并列不定式，instead of后两个动名词
+chunks Only strong people prefer to smile and value their life〔主〕 instead of crying and complaining〔修〕 about something.〔修〕
+main 主语:Only strong people | 谓语:prefer | 宾语:to smile and value their life
+gist 坚强的人更愿意微笑并珍视生活
+mod instead of crying and complaining → prefer | 对比补充 | 与哭泣和抱怨形成选择对比
+mod about something → complaining | 介词补足 | 抱怨某件事
+point Only修饰主语strong people，不能据此把整句改成倒装。smile与value共用to，crying与complaining共用介词of。
+
+# special-2015-newtype|5:0
+type 主从复合句｜两个no matter how让步从句，that宾语从句
+chunks No matter how isolated you might feel〔C1〕 and how serious the situation is,〔C2〕 you should always remember〔主〕 that you are not alone.〔C3〕
+main 主语:you | 谓语:should … remember | 宾语:C3
+gist 你应当记住（一件事）——内容是从句③：你并不孤单。
+C1 让步状语从句 | 表示无论你觉得多么孤单 | No matter how | No matter how后you might feel isolated主系表完整，how将isolated的程度提前；整块表示无论程度如何，不是主句的宾语 | 主语:you | 谓语:might feel | 表语:isolated
+C2 让步状语从句 | 与前一让步条件并列，表示无论情况多严重 | how | 前面and承接No matter how，后面the situation is serious主系表完整；how将serious的程度前置，第二项共用no matter的让步意义 | 主语:the situation | 谓语:is | 表语:serious
+C3 宾语从句 | 作remember的宾语 | that | 前面remember缺要记住的内容，that后you are not alone主系表完整；that不作成分，整块作宾语 | 主语:you | 谓语:are not | 表语:alone
+mod always → remember | 频率状语 | 无论何时都应记住
+point how后的you might feel、the situation is都保持陈述语序；孤独程度和情况严重程度是并列的让步条件。
+
+# special-2015-newtype|5:1
+type 祈使复合句｜that宾语从句，内含if条件从句
+chunks Try to keep〔主〕 in mind〔修〕 that almost everyone respects and wants to help you〔C1〕 if you are trying to make a good change〔C2〕 in your life,〔C2修〕 especially your dearest and nearest people.〔C1修〕
+main 谓语:Try | 宾语:to keep … in mind
+gist 试着记住（一件事）——内容是从句①：几乎每个人都尊重你并想帮助你。
+C1 宾语从句 | 作keep in mind的宾语 | that | 前面keep in mind缺所记住的内容，that后almost everyone respects and wants…有主语和并列谓语；that不作成分，整块作宾语 | 主语:almost everyone | 谓语:respects | 宾语:you | 谓语:wants | 宾语:to help you
+C2 条件状语从句 in C1 | 限定别人尊重并想帮助你的条件 | if | if后you are trying to make a good change主谓及补足完整；表示如果努力改变生活，不是修饰you的定语从句 | 主语:you | 谓语:are trying | 宾语:to make a good change
+mod in mind → keep | 固定搭配补足 | keep in mind表示记住
+mod in your life → change | 介词短语作定语 | 生活中的改变
+mod especially your dearest and nearest people → almost everyone | 特别列举 | 尤其是最亲近的人
+point respects的宾语you位于后面的help you中，语义上也是受到尊重的人；两个谓语共用everyone。这里的you在原句只出现一次，不把它重复添加进原文。
+
+# special-2015-newtype|5:2
+type 主从复合句｜who定语从句
+chunks You may have a circle〔主〕 of friends〔修〕 who provide constant good humor, help and companionship.〔C1〕
+main 主语:You | 谓语:may have | 宾语:a circle
+gist 你也许拥有一个圈子
+C1 定语从句 | 修饰friends | who | 前面是指人的名词friends，后面provide constant good humor, help and companionship缺主语；who代指朋友作主语 | 主语:who | 谓语:provide | 宾语:constant good humor, help and companionship
+mod of friends → circle | 介词短语作定语 | 由朋友组成的圈子
+point who的先行词是friends，不是单数circle；因此从句用provide而不是provides。
+
+# special-2015-newtype|5:3
+type 主从复合句｜if条件从句，who定语从句
+chunks If you have no friends or relatives,〔C1〕 try to participate〔主〕 in several online communities,〔修〕 full of people〔修〕 who are always willing to share advice and encouragement.〔C2〕
+main 谓语:try | 宾语:to participate
+gist 试着参与一些群体
+C1 条件状语从句 | 给出建议适用的条件 | If | If后you have no friends or relatives主谓宾完整，表示如果没有朋友或亲人；后面的try是祈使主句，不是从句的一部分 | 主语:you | 谓语:have | 宾语:no friends or relatives
+C2 定语从句 | 修饰people | who | 前面是指人的名词people，后面are willing to share…缺主语；who代指这些人作主语，限定愿意分享建议与鼓励的人 | 主语:who | 谓语:are | 表语:willing
+mod in several online communities → participate | 介词补足 | 参与一些线上群体
+mod full of people → communities | 形容词作补充说明 | 群体中有许多人
+mod always → willing | 频率状语 | 总是乐意
+mod to share advice and encouragement → willing | 不定式补足 | 乐意分享建议和鼓励
+point full是形容词，没有独立时态；who从句修饰people，不能把full of people误当成新的主句。
+
+# special-2015-newtype|6:0
+type 简单句｜find复合宾语；and连接find与seek两个谓语
+chunks Today〔修〕 many people find it difficult to trust their own opinion〔主〕 and〔连〕 seek balance〔主〕 by gaining objectivity〔修〕 from external sources.〔修〕
+main 主语:many people | 谓语:find | 形式宾语:it | 宾补:difficult | 真正宾语:to trust their own opinion || &and || 谓语:seek | 宾语:balance
+gist 许多人觉得难以信任自己的意见，并寻求平衡
+mod Today → 整句 | 时间状语 | 当今
+mod by gaining objectivity → seek | 方式状语 | 通过获取客观性来寻求平衡
+mod from external sources → gaining | 来源状语 | 从外部来源获得
+point 依现有译文和语义，and seek与find并列，共用many people；不是说信任意见与寻求平衡两件事都很难。it是形式宾语，真正宾语为to trust their own opinion。
+
+# special-2015-newtype|6:1
+type 主从复合句｜同一主语两个谓语，that宾语从句
+chunks This way〔修〕 you devalue your opinion〔主〕 and〔连〕 show〔主〕 that you are incapable〔C1〕 of managing your own life.〔C1修〕
+main 主语:you | 谓语:devalue | 宾语:your opinion || &and || 谓语:show | 宾语:C1
+gist 你贬低自己的意见，并表明（一件事）——内容是从句①：自己缺乏能力。
+C1 宾语从句 | 作show的宾语 | that | 前面show缺表明的内容，that后you are incapable主系表完整；that不作成分，整块作宾语 | 主语:you | 谓语:are | 表语:incapable
+mod This way → 整句 | 方式状语 | 用前文依赖外部意见的方式
+mod of managing your own life → incapable | 介词补足 | 无法管理自己的生活
+point This way意为这样做，是方式状语；真正的主语是后面的you。managing在介词of后，不是限定谓语。
+
+# special-2015-newtype|6:2
+type 主从复合句｜when时间从句，that宾语从句
+chunks When you are struggling to achieve something important〔C1〕 you should believe〔主〕 in yourself〔修〕 and〔连〕 be sure〔主〕 that your decision is the best.〔C2〕
+main 主语:you | 谓语:should believe || &and || 谓语:should … be | 表语:sure
+C1 时间状语从句 | 说明提出建议的时间情境 | When | When后you are struggling to achieve something important主谓及补足完整；整块表示努力实现重要目标时，不是主句的宾语 | 主语:you | 谓语:are struggling
+C2 宾语从句 | 作sure后说明确信内容的从句 | that | 前面be sure需要说明确信的内容，that后your decision is the best主系表完整；that不作成分，整块补足sure的内容 | 主语:your decision | 谓语:is | 表语:the best
+gist 你应当相信自己并保持确信
+mod to achieve something important → struggling | 不定式补足 | 正在努力实现某个重要目标，不把不定式硬当struggle的直接宾语
+mod in yourself → believe | 介词补足 | 相信自己
+point and后的be与believe共用should，完整意思为should believe…and should be sure；不能把be当成忘写时态的另一个谓语。
+
+# special-2015-newtype|6:3
+type 简单句｜一个主语带四个并列谓语
+chunks You live〔主〕 in your skin,〔修〕 think your own thoughts,〔主〕 have your own values〔主〕 and〔连〕 make your own choices.〔主〕
+main 主语:You | 谓语:live || 谓语:think | 宾语:your own thoughts || 谓语:have | 宾语:your own values || &and || 谓语:make | 宾语:your own choices
+gist 你生活、思考、拥有价值观并作出选择
+mod in your skin → live | 状态或范围状语 | 活在自己的身体和经历中
+point think、have和make前都没有新的主语；四个一般现在时谓语共用句首You，不是四个主句。

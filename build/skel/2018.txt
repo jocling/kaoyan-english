@@ -86,15 +86,18 @@ point Working with your hands 整体作主语，Working 不因处于句首就变
 
 # 2018-1|3:2
 type 主从复合句｜引语作 says 的内容；stereotype 后为同位语从句
-chunks Schools〔主〕 in the family of vocational education〔修〕 "have that stereotype...that〔主〕 it's for kids〔C1〕 who can't make it academically,"〔C2〕 he says.〔修〕
-main 主语:Schools | 谓语:have | 宾语:that
+chunks Schools〔主〕 in the family of vocational education〔修〕 "have that stereotype〔主〕 ... that it's for kids〔C1〕 who can't make it academically,"〔C2〕 he says.〔修〕
+main 主语:Schools | 谓语:have | 宾语:that stereotype
 gist 他说职业教育类学校背着一种“给学业不行的孩子准备”的成见
 C1 同位语从句 | 解释 stereotype 的内容 | that | 前面是抽象名词 stereotype，后面 it's for kids 主系表完整；that 不充当成分，整块交代成见的具体内容 | 主语＋谓语:it's | 表语:for kids
 C2 定语从句 in C1 | 修饰 kids | who | 前面是人的名词 kids，后面 can't make it academically 缺主语；who 代指 kids 作主语 | 主语:who | 谓语:can't make | 宾语:it
 mod he says → 整句 | 引述语 | he 是主语，says 是谓语；前面的引语是他说的内容，不是与它并列的主句
 mod in the family of vocational education → Schools | 介词短语作后置定语 | 属于职业教育类别的学校
 mod academically → make | 方面状语 | 在学业方面；make it 是成功、达到要求，不是制作某物
-point 完整宾语是 that stereotype，宾语中心词是 stereotype。原文 stereotype...that 粘在本条同一词元中，并非位于下一条；当前格式不能单独定位 stereotype，骨架栏仅定位 that，第二个 that 引出同位语从句。he says 是引述语，Schools have…是被引述的完整内容，二者不是没有连词却硬并列的两个主句；it's 还原为 it is。
+point that stereotype是have的宾语；后一个that引出同位语从句，说明成见的内容。he says是引述语；it's还原为it is。
+
+
+
 
 # 2018-1|4:0
 type 简单句｜系表结构
@@ -416,28 +419,6 @@ mod to promote alternative energy → does … doesn't do | 不定式作目的�
 mod at a time of a global shift in thought → may mean | 时间背景状语 | 在全球观念已经转向的时期
 point Washington 借指美国联邦政府；less and less 是影响越来越小，不能读成可再生能源越来越不重要。
 
-# 2018-3|0:0
-type 简单句｜并列名词作主语，原文连字符粘连
-chunks The power and ambition〔主〕 of the giants of the digital economy〔修〕 is astonishing-〔主〕
-main 主语:The power … ambition | 谓语:is | 表语:astonishing-
-gist 数字经济巨头的实力和野心令人震惊
-mod of the giants of the digital economy → power … ambition | 介词短语作定语 | 实力和野心属于数字经济巨头
-mod of the digital economy → giants | 介词短语作定语 | 数字经济领域的巨头
-point 原文 is 为单数，astonishing 后粘着连字符，均按已有原文保留。astonishing 是形容词表语，不是动作进行时。
-
-# 2018-3|1:0
-type 并列复合句｜but 并列两主句；which 定语从句
-chunks Amazon has just announced the purchase〔主〕 of the upmarket grocery chain Whole Foods〔修〕 for ＄ 13.5bn,〔修〕 but〔连〕 two years ago〔修〕 Facebook paid even more than that〔主〕 to acquire the WhatsApp messaging service,〔修〕 which doesn't have any physical product at all.〔C1〕
-main 主语:Amazon | 谓语:has … announced | 宾语:the purchase || &but || 主语:Facebook | 谓语:paid | 宾语:even more than that
-gist 亚马逊刚宣布收购全食超市，而脸书更早花更多钱收购WhatsApp
-C1 非限制性定语从句 | 补充 WhatsApp 服务没有实体产品 | which | 前面是名词 the WhatsApp messaging service，后面 doesn't have…缺主语；which 代指该服务作主语 | 主语:which | 谓语:doesn't have | 宾语:any physical product
-mod just → announced | 时间状语 | 刚刚宣布
-mod of the upmarket grocery chain Whole Foods → purchase | 介词短语作定语 | 收购的对象是高端食品杂货连锁全食超市
-mod for ＄ 13.5bn → purchase | 金额说明 | 收购金额为135亿美元，保留原文货币符号与空格
-mod two years ago → paid | 时间状语 | 两年前
-mod to acquire the WhatsApp messaging service → paid | 不定式作目的状语 | 花钱收购即时通信服务
-mod at all → doesn't have | 否定强调 | 根本没有实体产品
-
 # 2018-3|1:1
 type 主从复合句｜what 主语从句＋系表结构
 chunks What WhatsApp offered Facebook〔C1〕 was an intricate and finely detailed web〔主〕 of its users' friendships and social lives.〔修〕
@@ -556,31 +537,6 @@ chunks The users〔主〕 of their services〔修〕 are not their customers.〔
 main 主语:The users | 谓语:are not | 表语:their customers
 gist 服务的用户并不是这些公司的付费顾客
 mod of their services → users | 介词短语作定语 | 数字巨头服务的使用者
-
-# 2018-3|3:7
-type 主从复合句的前段｜原有数据在 advertising 后错误断开，须接下两个条目
-chunks That would be the people〔主〕 who buy advertising〔C1〕
-main 主语:That | 谓语:would be | 表语:the people
-gist 真正的顾客是购买广告的人；后面的 from them 接在 buy advertising 后
-C1 定语从句 | 修饰 people；下一条开头 from them 仍属此从句 | who | 前面是人的名词 people，后面 buy advertising 缺主语；who 代指 people 作主语，from them 在下一条补出购买来源 | 主语:who | 谓语:buy | 宾语:advertising
-point 原文分句数据有断句问题。请连读本条、4:0、5:0：That would be the people who buy advertising from them - and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies. 本条不是在 advertising 处真正句末。
-
-# 2018-3|4:0
-type 跨条目句段｜开头承接 who 从句，and 后另起并列主句；宾语延至下一条
-chunks from them〔修〕 - and〔连〕 Facebook and Google,〔主〕 the two virtual giants,〔修〕 dominate digital〔主〕
-main 主语:Facebook and Google | 谓语:dominate
-gist 脸书与谷歌主宰数字广告；宾语的中心词 advertising 在下一条
-mod from them → 整句 | 承接上一条的介词补足 | 接在上一条 buy advertising 后，意思是向数字巨头购买广告；不修饰 dominate
-mod the two virtual giants → Facebook and Google | 同位语 | 这两个数字世界巨头
-point 这是已有原文的中段，不是独立句。digital 是下一条 advertising 的形容词定语，不能独自作 dominate 的完整宾语；完整宾语是跨条目的 digital advertising。
-
-# 2018-3|5:0
-type 跨条目句段｜advertising 补齐上一条 dominate 的宾语，本条没有独立谓语
-chunks advertising〔主〕 to the disadvantage of all other media and entertainment companies.〔修〕
-main 宾语:advertising
-gist 数字广告的主导地位使其他媒体和娱乐公司处于不利地位
-mod to the disadvantage of all other media and entertainment companies → 整句 | 结果状语 | 修饰上一条的 dominate digital advertising，表示这种支配让所有其他媒体和娱乐公司吃亏
-point 本条必须接在4:0的 digital 后读，不能给 advertising 硬配一个谓语。完整句及跨条目结构已在3:7说明；此处只标本条实际出现的宾语中心。
 
 # 2018-3|6:0
 type 并列复合句｜product 后省略 that 的定语从句；we 后同位语
@@ -744,15 +700,17 @@ point or 在这里表示换个说法，不是要求二选一；be lazy 与 embra
 
 # 2018-4|6:0
 type 并列复合句｜分号并列；as…as 比较从句；省略号后的追加陈述
-chunks "Idleness is not just a vacation, an indulgence or a vice;〔主〕 it is as indispensable〔主〕 to the brain〔修〕 as vitamin D is〔C1〕 to the body…[idleness]〔C1修〕 is,〔主〕 paradoxically,〔修〕 necessary〔主〕 to getting any work done,"〔修〕 he argues.〔修〕
-main 主语:Idleness | 谓语:is | 表语:not just a vacation, an indulgence or a vice || 主语:it | 谓语:is | 表语:indispensable
+chunks "Idleness is not just a vacation, an indulgence or a vice;〔主〕 it is as indispensable〔主〕 to the brain〔修〕 as vitamin D is〔C1〕 to the body〔C1修〕 … [idleness] is,〔主〕 paradoxically,〔修〕 necessary〔主〕 to getting any work done,"〔修〕 he argues.〔修〕
+main 主语:Idleness | 谓语:is | 表语:not just a vacation, an indulgence or a vice || 主语:it | 谓语:is | 表语:indispensable || 主语:[idleness] | 谓语:is | 表语:necessary
 gist 休息不只是消遣，它对大脑不可或缺，也是完成工作的必要条件
 C1 比较状语从句 | 比较休息对大脑与维生素D对身体的重要性 | as | 前面 as indispensable 提出同等程度，后面 vitamin D is to the body 省略重复表语 indispensable；后一个 as 引出比较从句 | 主语:vitamin D | 谓语:is
 mod to the brain → indispensable | 形容词补足 | 对大脑不可或缺
 mod paradoxically → necessary | 评述状语 | 看似矛盾：休息反而是工作的前提
 mod to getting any work done → necessary | 形容词补足 | necessary to 后的 to 是介词，getting 为动名词；get work done 中 done 是宾补
 mod he argues → 整句 | 引述语 | he 作主语，argues 作谓语，介绍前面的观点属于纽波特
-point 原文 body…[idleness] 粘在同一词元，显示无法单独标出第三分句的主语 [idleness]。语法上第三段是 [idleness] is necessary…，主语重提，绝不是 vitamin D is necessary。骨架栏先列能完整定位的前两句；第三句在本条说明中还原，不把残缺骨架误标为共用主语的并列谓语。
+point 引文有三组主系表。第三组重新写出主语[idleness]；necessary to中的to是介词，后接动名词getting。
+
+
 
 # 2018-4|7:0
 type 主从复合句｜believes 后省略 that 的宾语从句；way 后定语从句
@@ -785,3 +743,30 @@ mod in order to complete these tasks → need | 不定式作目的状语 | 为�
 mod in their brain → circuits | 介词短语作定语 | 大脑中的两种回路
 mod says Pillay → 整句 | 倒装引述语 | says 为谓语，Pillay 为其后置主语，不是与引语内容并列的另一个观点
 point 两个名词性从句分别作 is 的主语和表语；不能因为 that 前隔着目的状语，就把 they need 误切成新主句。
+
+# 2018-3|0:0
+type 并列复合句｜破折号后举例；but连接例子中的两项收购，which定语从句
+chunks The power and ambition〔主〕 of the giants of the digital economy〔修〕 is astonishing〔主〕 -〔修〕 Amazon has just announced the purchase〔主〕 of the upmarket grocery chain Whole Foods〔修〕 for ＄ 13.5bn,〔修〕 but〔连〕 two years ago〔修〕 Facebook paid even more than that〔主〕 to acquire the WhatsApp messaging service,〔修〕 which doesn't have any physical product at all.〔C1〕
+main 主语:The power … ambition | 谓语:is | 表语:astonishing || 主语:Amazon | 谓语:has … announced | 宾语:the purchase || &but || 主语:Facebook | 谓语:paid | 宾语:even more than that
+gist 数字巨头的实力与野心惊人：亚马逊宣布收购，脸书更早花了更多钱
+C1 非限制性定语从句 | 补充说明WhatsApp服务没有实体产品 | which | 前面是名词the WhatsApp messaging service，后面doesn't have any physical product缺主语；which代指该服务作主语 | 主语:which | 谓语:doesn't have | 宾语:any physical product
+mod of the giants of the digital economy → power … ambition | 介词短语作定语 | 实力与野心属于数字经济巨头
+mod of the digital economy → giants | 介词短语作定语 | 数字经济领域的巨头
+mod just → announced | 时间状语 | 刚刚宣布
+mod of the upmarket grocery chain Whole Foods → purchase | 介词短语作定语 | 收购全食超市这一高端杂货连锁
+mod for ＄ 13.5bn → purchase | 金额说明 | 以135亿美元收购
+mod two years ago → paid | 时间状语 | 两年前
+mod to acquire the WhatsApp messaging service → paid | 不定式作目的状语 | 为收购WhatsApp即时通信服务而付款
+mod at all → doesn't have | 否定强调 | 根本没有实体产品
+point 原题用单数is，保留这一表达。破折号后的两笔收购举例说明实力与野心；第一组that指收购金额，which则指WhatsApp服务。
+
+# 2018-3|3:7
+type 并列复合句｜who定语从句；and连接另一主句
+chunks That would be the people〔主〕 who buy advertising〔C1〕 from them〔C1修〕 - and〔连〕 Facebook and Google,〔主〕 the two virtual giants,〔修〕 dominate digital advertising〔主〕 to the disadvantage of all other media and entertainment companies.〔修〕
+main 主语:That | 谓语:would be | 表语:the people || &and || 主语:Facebook and Google | 谓语:dominate | 宾语:digital advertising
+gist 顾客是购买广告的人，而脸书和谷歌主导数字广告
+C1 定语从句 | 修饰people | who | 前面是人的名词people，后面buy advertising有谓语和宾语但缺主语；who代指购买广告的人作主语 | 主语:who | 谓语:buy | 宾语:advertising
+mod from them → buy | 介词补足 | 向前文数字巨头购买广告
+mod the two virtual giants → Facebook and Google | 同位语 | 指脸书与谷歌这两个数字世界巨头
+mod to the disadvantage of all other media and entertainment companies → dominate | 结果状语 | 这种支配使所有其他媒体与娱乐公司处于不利地位
+point from them接在buy advertising后，who从句到them结束；and后有新主语Facebook and Google。digital advertising整体是dominate的宾语。

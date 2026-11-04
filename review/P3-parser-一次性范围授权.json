@@ -1,0 +1,14 @@
+{
+  "head": "806eb00f184f7391c15bb2633a2ab69c18eeeda5",
+  "files": {
+    "build/check.py": {
+      "sha256": "5cd23db8dd9cc957dd5328f152ee039628a31fff2e9e5eea3bed1a2560217689",
+      "patch_sha256": "c9f8af76a25d94f60a0289f34683b6cd931efc4fc6d8b1f99dd1d92d77c2061b"
+    },
+    "build/parse_skel.py": {
+      "sha256": "49e6e468051d0a6b27ce2815a827052941a97d413dfa38a6acf650b891936028",
+      "patch_sha256": "88ce529e0e75524bb0bf7e3c800a901645a29af6b6a96c02ebaca2737565d310"
+    }
+  },
+  "authorization": "2026-11-03用户按review/P3-R1-R5-Claude复核.md明确批准main/C #N定位与对应一次性范围核对。绑定本次HEAD、两份文件SHA和精确补丁；保留既已批准的swing例外。无永久放行，提交后失效。"
+}

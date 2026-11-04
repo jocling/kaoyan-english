@@ -1,0 +1,495 @@
+# special-2017-cloze|0:0
+type 简单句｜现在完成时，时间与对象补充
+chunks People have speculated〔主〕 for centuries about a future without work.〔修〕
+main 主语:People | 谓语:have speculated
+gist 人们一直在设想
+mod for centuries → speculated | 时间状语 | 已经持续了几个世纪
+mod about a future without work → speculated | 介词补足 | 设想一个不用工作的未来
+
+# special-2017-cloze|0:1
+type 主从复合句｜with复合结构内的that宾语从句
+chunks Today is no different,〔主〕 with academics, writers, and activists once again 【warning】〔修〕 that technology is replacing human workers.〔C1〕
+main 主语:Today | 谓语:is | 表语:no different
+gist 今天也没有不同
+C1 宾语从句 | 作warning的宾语 | that | 前面warning缺警告内容，后面technology is replacing human workers主谓宾完整；that只连接，整块作宾语 | 主语:technology | 谓语:is replacing | 宾语:human workers
+mod with academics, writers, and activists once again 【warning】 → 整句 | with复合结构 | 学者等再次发出警告，warning与其逻辑主语是主动关系
+point warning在with结构中是分词，主句谓语是is，不是warning。
+
+# special-2017-cloze|0:2
+type 多分句条目｜that宾语从句，冒号具体解释不平等
+chunks Some imagine〔主〕 that the coming work-free world will be defined by 【inequality】:〔C1〕 A few wealthy people will own all the capital,〔主〕 and〔连〕 the masses will struggle〔主〕 in an impoverished wasteland.〔修〕
+main 主语:Some | 谓语:imagine | 宾语:C1 || 主语:A few wealthy people | 谓语:will own | 宾语:all the capital || &and || 主语:the masses | 谓语:will struggle
+gist 有人设想一个世界；富人拥有资本，大众艰难度日
+C1 宾语从句 | 作imagine的宾语 | that | 前面imagine缺设想内容，that后the world will be defined主谓完整；that不作成分，整块作宾语 | 主语:the coming work-free world | 谓语:will be defined
+mod by 【inequality】 → defined | 被动特征补足 | 被不平等所界定
+mod in an impoverished wasteland → struggle | 处境状语 | 在贫困的荒原中挣扎
+point 冒号后两项具体解释inequality，不是把will own算成world的谓语。
+
+# special-2017-cloze|0:3
+type 多句条目｜that宾语，分词后置；冒号与句点后补充
+chunks A different and not mutually exclusive 【prediction】 holds〔主〕 that the future will be a wasteland of a different sort,〔C1〕 one 【characterized】 by purposelessness:〔C1修〕 Without jobs to give their lives 【meaning】,〔修〕 people will simply become lazy and depressed.〔主〕 【Indeed】,〔修〕 today's unemployed don't seem to be having a great time.〔主〕
+main 主语:A different and not mutually exclusive 【prediction】 | 谓语:holds | 宾语:C1 || 主语:people | 谓语:will … become | 表语:lazy and depressed || 主语:today's unemployed | 谓语:don't seem | 表语:to be having a great time
+gist 另一预测提出一种未来；人会沮丧，现实失业者也不好过
+C1 宾语从句 | 作holds的宾语 | that | 前面holds表示持有观点，后面the future will be a wasteland主系表完整；that只连接，整块作宾语 | 主语:the future | 谓语:will be | 表语:a wasteland
+mod of a different sort → wasteland | 介词定语 | 另一种荒原
+mod one 【characterized】 by purposelessness → wasteland | 同位补充 | one指荒原，characterized是限定它的被动分词
+mod Without jobs to give their lives 【meaning】 → become | 条件背景 | 没有工作赋予生活意义；to give修饰jobs，lives与meaning是give的两个宾语
+mod simply → become | 语气副词 | 只会变成如此
+mod 【Indeed】 → 整句 | 事实补充衔接 | 用现实失业情况补充前面的担忧
+point today's unemployed指失业者这一群体；don't seem后不定式不另算限定谓语。
+
+# special-2017-cloze|0:4
+type 主从复合句｜that宾语，who定语从句
+chunks One Gallup poll found〔主〕 that 20 percent of Americans〔C1〕 who have been unemployed〔C2〕 for at least a year〔C2修〕 report having depression,〔C1〕 double the rate for 【working】 Americans.〔修〕
+main 主语:One Gallup poll | 谓语:found | 宾语:C1
+gist 一项民调发现（一件事）——内容是从句①：两成失业至少一年的美国人报告自己患抑郁症。
+C1 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，后面20 percent…report having depression主谓宾完整；that不作成分，整块作宾语 | 主语:20 percent of Americans | 谓语:report | 宾语:having depression
+C2 定语从句 in C1 | 修饰Americans | who | 前面是指人的Americans，后面have been unemployed缺主语；who代指他们作主语 | 主语:who | 谓语:have been | 表语:unemployed
+mod for at least a year → unemployed | 时间状语 | 至少失业一年
+mod double the rate for 【working】 Americans → 整句 | 数值补充 | 上述比例是有工作者的两倍
+point having depression是report的动名词宾语，不是另一个进行时谓语。
+
+# special-2017-cloze|0:5
+type 主从复合句｜that宾语，从句主语后有长介词定语
+chunks Also,〔修〕 some research suggests〔主〕 that the 【explanation】〔C1〕 for rising rates of mortality, mental-health problems, and addiction 【among】 poorly-educated, middle-aged people〔C1修〕 is a shortage of well-paid jobs.〔C1〕
+main 主语:some research | 谓语:suggests | 宾语:C1
+gist 有研究提出一种解释
+C1 宾语从句 | 作suggests的宾语 | that | 前面suggests缺研究内容，后面the explanation is a shortage主系表完整；that只连接，长定语不能改变explanation为主语中心 | 主语:the 【explanation】 | 谓语:is | 表语:a shortage
+mod Also → 整句 | 添加衔接 | 还有研究提出这一解释
+mod for rising rates of mortality, mental-health problems, and addiction 【among】 poorly-educated, middle-aged people → 【explanation】 | 介词定语 | 对这一人群死亡等发生率上升的解释
+mod of well-paid jobs → shortage | 介词定语 | 短缺的是高薪工作
+
+# special-2017-cloze|0:6
+type 主从复合句｜why表语从句
+chunks Perhaps〔修〕 this is〔主〕 why many 【worry about】 the agonizing dullness〔C1〕 of a jobless future.〔C1修〕
+main 主语:this | 谓语:is | 表语:C1
+gist 这或许是原因
+C1 表语从句 | 说明为什么许多人担忧 | why | 前面this is缺表语，why后many worry about…主谓及补足完整；why作原因状语，整块作表语 | 主语:many | 谓语:【worry about】 | 宾语:the agonizing dullness
+mod Perhaps → 整句 | 语气状语 | 可能如此
+mod of a jobless future → dullness | 介词定语 | 无工作未来的无聊
+
+# special-2017-cloze|0:7
+type 主从复合句｜it形式主语，that主语从句后置
+chunks But〔连〕 it doesn't 【necessarily】 follow〔主〕 from findings like these〔修〕 that a world without work would be filled with unease.〔C1〕
+main 形式主语:it | 谓语:doesn't … follow | 真正主语:C1
+gist 未必能推出这个结论
+C1 主语从句 | it后置的真正主语 | that | 前面it doesn't follow用it占位，that后a world would be filled主谓完整；that不作成分，整块才是未必能推出的结论 | 主语:a world | 谓语:would be filled
+mod 【necessarily】 → follow | 限定副词 | 并非必然推出，不等于完全不可能
+mod from findings like these → follow | 推论依据 | 从这些研究发现出发
+mod without work → world | 介词定语 | 一个没有工作的世界
+mod with unease → filled | 介词补足 | 充满不安
+
+# special-2017-cloze|0:8
+type 简单句｜被动谓语，分词限定society
+chunks Such visions are based〔主〕 on the 【downsides】 of being unemployed in a society built on the concept of employment.〔修〕
+main 主语:Such visions | 谓语:are based
+gist 这些设想建立在这种依据上
+mod on the 【downsides】 of being unemployed in a society → based | 依据补足 | 依据现有社会里失业的负面影响
+mod built on the concept of employment → society | 过去分词作定语 | 围绕就业观念建立的社会
+point built没有独立时态，修饰society，不是visions的另一个谓语。
+
+# special-2017-cloze|0:9
+type 简单句｜过去分词后置定语
+chunks In the 【absence】 of work,〔修〕 a society〔主〕 designed with other ends in mind〔修〕 could 【yield】 strikingly different circumstances〔主〕 for the future of labor and leisure.〔修〕
+main 主语:a society | 谓语:could 【yield】 | 宾语:strikingly different circumstances
+gist 一个社会可能创造不同条件
+mod In the 【absence】 of work → 整句 | 条件背景 | 在没有工作的情况下
+mod designed with other ends in mind → society | 过去分词定语 | 设计时考虑其他目标的社会
+mod for the future of labor and leisure → circumstances | 介词定语 | 面向劳动和休闲的未来
+
+# special-2017-cloze|0:10
+type 简单句｜主语of定语；情态被动谓语
+chunks Today,〔修〕 the 【virtue】〔主〕 of work〔修〕 may be a bit overblown.〔主〕
+main 主语:the 【virtue】 | 谓语:may be … overblown
+gist 工作的好处可能被夸大
+mod Today → 整句 | 时间状语 | 现在的情形
+mod of work → 【virtue】 | 介词定语 | 工作的好处
+mod a bit → overblown | 程度状语 | 有一点被夸大
+
+# special-2017-cloze|0:11
+type 引语条目｜多个并列表语，句末引述语
+chunks "Many jobs are boring, degrading, unhealthy, and a waste of human potential,"〔主〕 says John Danaher, a lecturer at the National University of Ireland in Galway.〔修〕
+main 主语:Many jobs | 谓语:are | 表语:boring, degrading, unhealthy, and a waste of human potential
+gist 许多工作无聊、有损尊严、不健康且浪费潜能
+mod says John Danaher → 整句 | 倒装引述语 | John Danaher是says的主语
+mod a lecturer at the National University of Ireland in Galway → John Danaher | 同位身份说明 | 介绍其任教单位
+
+# special-2017-cloze|0:12
+type 主从复合句｜because原因从句
+chunks These days,〔修〕 because leisure time is relatively 【scarce】〔C1〕 for most workers,〔C1修〕 people use their free time〔主〕 to counterbalance the intellectual and emotional 【demands】 of their jobs.〔修〕
+main 主语:people | 谓语:use | 宾语:their free time
+gist 人们利用空闲时间
+C1 原因状语从句 | 解释为什么如此使用闲暇 | because | because后leisure time is scarce主系表完整；后面的people use…本身成句，because给出原因，不是定语 | 主语:leisure time | 谓语:is | 表语:【scarce】
+mod These days → 整句 | 时间状语 | 如今
+mod relatively → 【scarce】 | 程度状语 | 相对稀少
+mod for most workers → 【scarce】 | 适用范围 | 对大多数劳动者
+mod to counterbalance the intellectual and emotional 【demands】 of their jobs → use | 不定式表目的 | 用闲暇抵消工作带来的智力和情感要求
+
+# special-2017-cloze|0:13
+type 多分句引语｜when时间、in which定语从句，句尾分词补充
+chunks "When I come home〔C1〕 from a hard day's work,〔C1修〕 I often feel 【tired】,"〔主〕 Danaher says, adding,〔修〕 "In a world〔修〕 in which I don't have to work,〔C2〕 I might feel rather different"〔主〕 - perhaps different enough to throw himself 【into】 a hobby or a passion project with the intensity usually reserved for 【professional】 matters.〔修〕
+main 主语:I | 谓语:feel | 表语:【tired】 || 主语:I#4 | 谓语:might feel | 表语:different
+gist 我现在感到疲倦，无需工作时或许不同
+C1 时间状语从句 | 给出感到疲惫的时间 | When | When后I come home主谓完整，整块表示回家时；主句是I feel tired，不是come home | 主语:I | 谓语:come home
+C2 定语从句 | 修饰world | in which | 前面是world，后面I don't have to work主谓完整；in which表示在那个世界里，作地点情境状语 | 主语:I | 谓语:don't have to work
+mod from a hard day's work → come home | 来源状语 | 辛苦工作一天之后回家
+mod often → feel | 频率状语 | 常有的感受
+mod Danaher says, adding → 整句 | 引述补充 | Danaher是says主语，adding为伴随分词
+mod In a world → might feel | 情境状语 | 在一个无需工作的世界里
+mod rather → different | 程度状语 | 相当不同
+mod perhaps different enough to throw himself 【into】 a hobby or a passion project with the intensity usually reserved for 【professional】 matters → 整句 | 破折号后推想补充 | 也许会有足够精力投入爱好；throw与himself构成投入的动作，reserved修饰intensity
+point 两段I各有自己的谓语；adding、reserved均不是额外的限定谓语。
+
+# special-2017-newtype|0:3
+type 简单句｜主语of定语，句尾来源补充
+chunks The decline〔主〕 in American manufacturing〔修〕 is a common refrain,〔主〕 particularly from Donald Trump.〔修〕
+main 主语:The decline | 谓语:is | 表语:a common refrain
+gist 衰退是一种常见论调
+mod in American manufacturing → decline | 介词定语 | 美国制造业的衰退
+mod particularly from Donald Trump → refrain | 来源补充 | 尤其经常出自该发言者之口
+
+# special-2017-newtype|0:4
+type 引语条目｜while省略状语从句
+chunks "We don't make anything anymore,"〔主〕 he told Fox News,〔修〕 while defending his own made-in-Mexico clothing line.〔C1〕
+main 主语:We | 谓语:don't make | 宾语:anything
+gist 我们已不再制造东西
+C1 时间状语从句（省略） | 说明说这话的情境 | while | while后defending省略与he一致的he was，完整意思为为服装品牌辩护时；不是新的独立限定谓语 | 谓语:defending | 宾语:his own made-in-Mexico clothing line
+mod anymore → make | 时间状语 | 不再如此
+mod he told Fox News → 整句 | 引述语 | 他向福克斯新闻说前面的原话
+
+# special-2017-newtype|0:5
+type 并列复合句｜whether宾语从句
+chunks Without question,〔修〕 manufacturing has taken a significant hit〔主〕 during recent decades,〔修〕 and〔连〕 further trade deals raise questions〔主〕 about〔修〕 whether new shocks could hit manufacturing.〔C1〕
+main 主语:manufacturing | 谓语:has taken | 宾语:a significant hit || &and || 主语:further trade deals | 谓语:raise | 宾语:questions
+gist 制造业受创，贸易协定又引发疑问
+C1 宾语从句 | 作about的宾语 | whether | 前面介词about需要疑问内容，whether后new shocks could hit manufacturing主谓宾完整；whether表示是否，整块作介词宾语 | 主语:new shocks | 谓语:could hit | 宾语:manufacturing
+mod Without question → 整句 | 语气状语 | 毫无疑问
+mod during recent decades → has taken | 时间状语 | 近几十年中
+
+# special-2017-newtype|0:6
+type 简单句｜there be，不定式限定way
+chunks But〔连〕 there is also a different way〔主〕 to look at the data.〔修〕
+main 谓语:is | 主语:a different way
+gist 还有另一种看法
+mod also → is | 添加副词 | 也有另一种角度
+mod to look at the data → way | 不定式定语 | 看待数据的方法
+
+# special-2017-newtype|0:7
+type 多分句条目｜冒号解释挑战，instead of后动名词
+chunks Across the country,〔修〕 factory owners are now grappling with a new challenge:〔主〕 Instead of having too many workers,〔修〕 they may end up〔主〕 with too few.〔修〕
+main 主语:factory owners | 谓语:are … grappling || 主语:they | 谓语:may end up
+gist 工厂主正在应对挑战，最终可能缺人
+mod now → grappling | 时间状语 | 现在
+mod with a new challenge → grappling | 介词补足 | 应对新的挑战
+mod Across the country → grappling | 地点范围 | 在全国范围内
+mod Instead of having too many workers → 整句 | 对照补充 | 不是工人过多这一情况
+mod with too few → end up | 结果补足 | 最终工人太少，few后省略workers
+
+# special-2017-newtype|0:8
+type 简单句｜despite名词短语表让步
+chunks Despite trade competition and outsourcing,〔修〕 American manufacturing still needs to replace〔主〕 tens of thousands of retiring boomers every year.〔修〕
+main 主语:American manufacturing | 谓语:needs | 宾语:to replace
+ gist 美国制造业仍需补充工人
+mod Despite trade competition and outsourcing → 整句 | 让步状语 | 尽管存在贸易竞争和外包
+mod still → needs | 持续副词 | 需求依然存在
+mod tens of thousands of retiring boomers → replace | 不定式内部宾语 | replace的对象是即将退休的人所留下的岗位空缺，retiring修饰boomers
+mod every year → replace | 时间状语 | 每年如此
+
+# special-2017-newtype|0:9
+type 简单句｜主系表，动名词作介词宾语
+chunks Millennials may not be that interested〔主〕 in taking their place.〔修〕
+main 主语:Millennials | 谓语:may not be | 表语:interested
+gist 年轻一代未必有兴趣
+mod that → interested | 程度副词 | that表示那么，不引导从句
+mod in taking their place → interested | 介词补足 | 对接替他们的位置感兴趣；taking是动名词
+
+# special-2017-newtype|0:10
+type 简单句｜进行时谓语
+chunks Other industries are recruiting them〔主〕 with similar or better pay.〔修〕
+main 主语:Other industries | 谓语:are recruiting | 宾语:them
+gist 其他行业正在招募他们
+mod with similar or better pay → recruiting | 条件方式状语 | 用相似或更好的薪酬吸引人
+
+# special-2017-newtype|0:11
+type 简单句｜add up to两个并列对象
+chunks For factory owners,〔修〕 it all adds up〔主〕 to stiff competition for workers - and upward pressure on wages.〔修〕
+main 主语:it | 谓语:adds up
+gist 这一切意味着用工竞争激烈，工资也面临上涨压力。
+mod For factory owners → 整句 | 适用对象 | 对工厂主而言
+mod all → it | 总括强调 | 所有这些情况合起来
+mod to stiff competition for workers - and upward pressure on wages → adds up | 结果补足 | 意味着激烈的用工竞争和工资上涨压力
+
+# special-2017-newtype|0:12
+type 多分句引语｜同位身份说明，that定语与as比较从句
+chunks "They're harder to find and they have job offers,"〔主〕 says Jay Dunwell, president of Wolverine Coil Spring, a family-owned firm,〔修〕 "They may be coming [into the workforce],〔主〕 but〔连〕 they've been plucked by other industries〔主〕 that are also doing as well〔C1〕 as manufacturing."〔C2〕
+main 主语＋谓语:They're | 表语:harder to find || 主语:they | 谓语:have | 宾语:job offers || 主语:They#2 | 谓语:may be coming || &but || 主语＋谓语:they've been plucked
+ gist 他们难找且有工作机会，虽在入市却已被别业挖走
+C1 定语从句 | 修饰industries | that | 前面是名词industries，后面are doing as well缺主语；that代指其他行业作主语 | 主语:that | 谓语:are … doing
+C2 比较状语从句（省略） in C1 | 比较其他行业与制造业的发展 | as | 前面as well提出同等程度，第二个as后manufacturing省略重复的is doing；比较的是发展情况 | 主语:manufacturing
+mod says Jay Dunwell, president of Wolverine Coil Spring, a family-owned firm → 整句 | 引述和同位说明 | Jay Dunwell是说话人，后面介绍其职务和公司性质
+mod [into the workforce] → coming | 方向补足 | 正进入劳动力市场
+mod by other industries → plucked | 被动施事 | 被其他行业挖走
+mod also → doing | 添加副词 | 这些行业也同样发展良好
+
+# special-2017-newtype|0:13
+type 主从复合句｜so目的从句
+chunks Mr. Dunwell has begun bringing high school juniors to the factory〔主〕 so they can get exposed〔C1〕 to its culture.〔C1修〕
+main 主语:Mr. Dunwell | 谓语:has begun | 宾语:bringing high school juniors
+ gist 邓韦尔开始让高中生参观
+C1 目的状语从句 | 说明组织参观的目的 | so | 前面has begun bringing…已完整，so后they can get exposed主谓完整；so相当于so that，表示为了让他们接触文化 | 主语:they | 谓语:can get exposed
+mod to the factory → bringing | 方向补足 | 带学生去工厂
+mod to its culture → exposed | 介词补足 | 接触工厂文化
+
+# special-2017-newtype|0:14
+type 主从复合句｜前置地点短语含同位语与that定语从句
+chunks At RoMan Manufacturing, a maker of electrical transformers and welding equipment〔修〕 that his father cofounded〔C1〕 in 1980,〔C1修〕 Robert Roth keeps a close eye〔主〕 on the age of his nearly 200 workers.〔修〕
+main 主语:Robert Roth | 谓语:keeps | 宾语:a close eye
+gist 罗斯密切关注
+C1 定语从句 | 修饰RoMan Manufacturing所指公司 | that | 前面介绍这家公司是设备制造商，that后his father cofounded缺宾语；that指公司作cofounded宾语，不是父亲作主语的另一主句 | 主语:his father | 谓语:cofounded
+mod At RoMan Manufacturing → keeps | 地点状语 | 在这家公司
+mod a maker of electrical transformers and welding equipment → RoMan Manufacturing | 同位语 | 介绍公司生产什么
+mod in 1980 → cofounded | 时间状语 | 共同创办的年份
+mod on the age of his nearly 200 workers → eye | 关注对象补足 | 关注近两百名工人的年龄
+
+# special-2017-newtype|0:15
+type 简单句｜数词代词作主语
+chunks Five are retiring〔主〕 this year.〔修〕
+main 主语:Five | 谓语:are retiring
+gist 五人即将退休
+mod this year → retiring | 时间状语 | 今年发生的安排
+point Five后省略workers，指五名工人，不能把它当成retiring的宾语。
+
+# special-2017-newtype|0:16
+type 主从复合句｜have复合宾语，that定语从句
+chunks Mr. Roth has three community-college students enrolled〔主〕 in a work-placement program, with a starting wage of $13 an hour〔修〕 that rises〔C1〕 to $17 after two years.〔C1修〕
+main 主语:Mr. Roth | 谓语:has | 宾语:three community-college students | 宾补:enrolled
+gist 罗斯让三名学生参加项目
+C1 定语从句 | 修饰wage | that | 前面是薪资名词wage，后面rises缺主语；that代指工资作主语，不指hour | 主语:that | 谓语:rises
+mod in a work-placement program → enrolled | 介词补足 | 参加工作实践项目
+mod with a starting wage of $13 an hour → program | 条件补充 | 项目起薪为每小时十三美元
+mod to $17 after two years → rises | 数额与时间补充 | 两年后升到十七美元
+
+# special-2017-newtype|0:17
+type 主从复合句｜looks系动词，零关系词定语从句
+chunks At a worktable inside the transformer plant,〔修〕 young Jason Stenquist looks flustered〔主〕 by the copper coils〔修〕 he's trying to assemble〔C1〕 and the arrival of two visitors.〔修〕
+main 主语:young Jason Stenquist | 谓语:looks | 表语:flustered
+gist 年轻的贾森显得慌张
+C1 定语从句 | 修饰coils | （省略 that） | 前面是coils，后面he's trying to assemble缺assemble的宾语；省略关系词代指线圈，整块限定coils | 主语＋谓语:he's trying
+mod At a worktable inside the transformer plant → looks | 地点状语 | 在变压器厂的工作台旁
+mod by the copper coils … and the arrival of two visitors → flustered | 原因补足 | 慌张既因组装线圈，也因两位访客到来
+mod to assemble → trying | 不定式补足 | 正在努力组装
+
+# special-2017-newtype|0:18
+type 简单句｜主系表
+chunks It's his first week〔主〕 on the job.〔修〕
+main 主语＋谓语:It's | 表语:his first week
+gist 这是他的第一周
+mod on the job → week | 介词定语 | 入职工作的第一周
+
+# special-2017-newtype|0:19
+type 主从复合句｜过去分词前置，省略that宾语从句
+chunks Asked about his choice of career,〔修〕 he says〔主〕 at high school he considered medical school〔C1〕 before switching to electrical engineering.〔C1修〕
+main 主语:he | 谓语:says | 宾语:C1
+gist 他说起自己的经历
+C1 宾语从句 | 作says的宾语 | （省略 that） | 前面says缺说的内容，后面he considered medical school主谓宾完整；省略that，整块作宾语 | 主语:he | 谓语:considered | 宾语:medical school
+mod Asked about his choice of career → he | 过去分词状语 | 被问起职业选择，Asked与he构成被动关系
+mod at high school → considered | 时间情境 | 高中时曾考虑
+mod before switching to electrical engineering → considered | 时间状语 | 转向电气工程之前；switching是介词后的动名词
+
+# special-2017-newtype|0:20
+type 简单句｜动名词作宾语，引语延续
+chunks "I love working〔主〕 with tools.〔修〕
+main 主语:I | 谓语:love | 宾语:working
+gist 我喜欢使用工具
+mod with tools → working | 工具补足 | 使用工具工作
+point 引号在本条未结束，仍是被引述者的原话；working不是进行时谓语。
+
+# special-2017-newtype|0:21
+type 引语条目｜动名词宾语，句尾引述
+chunks I love creating,"〔主〕 he says.〔修〕
+main 主语:I | 谓语:love | 宾语:creating
+gist 我喜欢创造
+mod he says → 整句 | 引述语 | he是says主语
+
+# special-2017-newtype|0:22
+type 主从复合句｜who非限制性定语，分词补充说明父母劝阻
+chunks But〔连〕 to win over these young workers,〔修〕 manufacturers have to clear another major hurdle:〔主〕 parents,〔修〕 who lived through the worst US economic downturn〔C1〕 since the Great Depression,〔C1修〕 telling them to avoid the factory.〔修〕
+main 主语:manufacturers | 谓语:have to clear | 宾语:another major hurdle
+gist 制造商必须跨过另一障碍
+C1 非限制性定语从句 | 修饰parents | who | 前面是指人的parents，后面lived through…缺主语；who代指父母作主语，补充他们的经历 | 主语:who | 谓语:lived through | 宾语:the worst US economic downturn
+mod to win over these young workers → clear | 不定式目的 | 为了吸引年轻工人
+mod parents → hurdle | 同位解释 | 所谓障碍就是父母的反对
+mod since the Great Depression → downturn | 时间限定 | 自大萧条以来最严重的经济衰退
+mod telling them to avoid the factory → parents | 现在分词补充 | 父母劝年轻人远离工厂；them是tell宾语，to avoid是宾补
+
+# special-2017-newtype|0:23
+type 主从复合句｜省略that的宾语从句，引语跨条目
+chunks Millennials "remember〔主〕 their father and mother both were laid off.〔C1〕
+main 主语:Millennials | 谓语:remember | 宾语:C1
+gist 千禧一代记得（一件事）——内容是从句①：父母曾被裁员。
+C1 宾语从句 | 作remember的宾语 | （省略 that） | 前面remember缺记得的内容，后面their father and mother were laid off主谓完整；省略that，整块作宾语 | 主语:their father and mother | 谓语:were laid off
+mod both → father and mother | 总括副词 | 父母两人都经历过裁员
+
+# special-2017-newtype|0:24
+type 引语条目｜blame A on B，句末身份同位语
+chunks They blame it〔主〕 on the manufacturing recession," says Birgit Klohs, chief executive of The Right Place, a business development agency for western Michigan.〔修〕
+main 主语:They | 谓语:blame | 宾语:it
+gist 他们把原因归咎于制造业衰退
+mod on the manufacturing recession → blame | 归因补足 | blame A on B把事件归因于某原因
+mod says Birgit Klohs → 整句 | 倒装引述语 | Birgit Klohs是说话人
+mod chief executive of The Right Place, a business development agency for western Michigan → Birgit Klohs | 同位身份说明 | 介绍其职务、机构与地区
+
+# special-2017-newtype|0:25
+type 多分句条目｜冒号后解释担忧的依据
+chunks These concerns aren't misplaced:〔主〕 Employment〔主〕 in manufacturing〔修〕 has fallen〔主〕 from 17 million in 1970 to 12 million in 2015.〔修〕
+main 主语:These concerns | 谓语:aren't | 表语:misplaced || 主语:Employment | 谓语:has fallen
+gist 担忧有依据；就业人数下降
+mod in manufacturing → Employment | 介词定语 | 制造业就业人数
+mod from 17 million in 1970 to 12 million in 2015 → fallen | 变化幅度 | 从1970年的一千七百万降到2015年的一千二百万
+
+# special-2017-newtype|0:26
+type 主从复合句｜when时间从句
+chunks When the recovery began,〔C1〕 worker shortages first appeared〔主〕 in the high-skilled trades.〔修〕
+main 主语:worker shortages | 谓语:appeared
+gist 用工短缺开始出现
+C1 时间状语从句 | 指明短缺出现的时间背景 | When | When后the recovery began主谓完整，整块表示经济复苏开始时，不是主句缺少的宾语 | 主语:the recovery | 谓语:began
+mod first → appeared | 时间副词 | 最先出现
+mod in the high-skilled trades → appeared | 范围状语 | 在高技能工种
+
+# special-2017-newtype|0:27
+type 简单句｜进行时谓语
+chunks Now〔修〕 shortages are appearing〔主〕 at the mid-skill levels.〔修〕
+main 主语:shortages | 谓语:are appearing
+gist 短缺正在出现
+mod Now → appearing | 时间状语 | 现在的情况
+mod at the mid-skill levels → appearing | 范围状语 | 中等技能层级也有短缺
+
+# special-2017-newtype|0:28
+type 主从复合句｜两个that定语从句
+chunks "The gap is〔主〕 between the jobs〔主〕 that take no skills〔C1〕 and〔连〕 those〔主〕 that require a lot of skill,"〔C2〕 says Rob Spohr, a business professor at Montcalm Community College.〔修〕
+main 主语:The gap | 谓语:is | 表语:between the jobs … and those
+ gist 缺口位于两类工作之间
+C1 定语从句 | 修饰jobs | that | 前面是名词jobs，后面take no skills缺主语；that代指这些岗位作主语 | 主语:that | 谓语:take | 宾语:no skills
+C2 定语从句 | 修饰those所指岗位 | that | 前面those代替jobs，后面require a lot of skill缺主语；that代指这些岗位作主语 | 主语:that | 谓语:require | 宾语:a lot of skill
+mod says Rob Spohr, a business professor at Montcalm Community College → 整句 | 引述和同位说明 | 介绍发言者及其任教身份
+
+# special-2017-newtype|0:29
+type 主从复合句｜there be，where地点定语从句
+chunks "There're enough people〔主〕 to fill the jobs〔修〕 at McDonalds and other places〔修〕 where you don't need to have much skill.〔C1〕
+main 谓语:There're | 主语:enough people
+gist 有足够的人
+C1 定语从句 | 修饰places，也涵盖前面的McDonalds | where | 前面是地点名词places，后面you don't need to have much skill主谓及补足完整；where作地点状语，限定这些地方 | 主语:you | 谓语:don't need | 宾语:to have much skill
+mod to fill the jobs → people | 不定式定语 | 能够填补岗位的人
+mod at McDonalds and other places → jobs | 介词定语 | 麦当劳及其他地方的岗位
+
+# special-2017-newtype|0:30
+type 并列复合句｜where表语从句
+chunks It's that gap in between,〔主〕 and〔连〕 that's〔主〕 where the problem is."〔C1〕
+main 主语＋谓语:It's | 表语:that gap || &and || 主语＋谓语:that's | 表语:C1
+gist 是中间的缺口，而问题就在这里
+C1 表语从句 | 说明问题所在 | where | 前面that's等于that is，后面the problem is缺地点内容；where作地点表语，整块作外层表语 | 主语:the problem | 谓语:is
+mod in between → gap | 后置限定 | 位于两端之间的缺口
+
+# special-2017-newtype|0:31
+type 简单句｜point to，不定式动名词限定key
+chunks Julie Parks〔主〕 of Grand Rapids Community College〔修〕 points〔主〕 to another key to luring Millennials into manufacturing: a work/life balance.〔修〕
+main 主语:Julie Parks | 谓语:points
+gist 帕克斯指出另一关键
+mod of Grand Rapids Community College → Julie Parks | 身份定语 | 介绍任职机构
+mod to another key to luring Millennials into manufacturing → points | 指出对象补足 | 指向吸引年轻人进入制造业的另一关键；luring在介词to后
+mod a work/life balance → key | 同位解释 | 这个关键是工作与生活平衡
+
+# special-2017-newtype|0:32
+type 主从复合句｜while让步对比
+chunks While their parents were content〔C1〕 to work long hours,〔C1修〕 young people value flexibility.〔主〕
+main 主语:young people | 谓语:value | 宾语:flexibility
+gist 年轻人看重灵活性
+C1 让步状语从句 | 对比父母与年轻人的工作偏好 | While | While后their parents were content主系表完整；while在此表示虽然或对比，不表示两个动作同时发生 | 主语:their parents | 谓语:were | 表语:content
+mod to work long hours → content | 不定式补足 | 愿意长时间工作
+
+# special-2017-newtype|0:33
+type 简单句｜主系表
+chunks "Overtime is not attractive〔主〕 to this generation.〔修〕
+main 主语:Overtime | 谓语:is not | 表语:attractive
+gist 加班没有吸引力
+mod to this generation → attractive | 介词补足 | 对这一代年轻人
+
+# special-2017-newtype|0:34
+type 引语条目｜want后不定式宾语
+chunks They really want to live their lives,"〔主〕 she says.〔修〕
+main 主语:They | 谓语:want | 宾语:to live their lives
+gist 他们想过自己的生活
+mod really → want | 程度副词 | 的确有这种愿望
+mod she says → 整句 | 引述语 | she是says的主语
+
+# special-2017-translation|0:0
+type 简单句｜不定式作表语
+chunks My dream has always been to work somewhere〔主〕 in an area between fashion and publishing.〔修〕
+main 主语:My dream | 谓语:has … been | 表语:to work
+ gist 我的梦想一直是去工作
+mod always → has … been | 时间副词 | 始终如此
+mod somewhere in an area between fashion and publishing → work | 地点与领域补充 | 在时尚和出版之间的某个领域
+
+# special-2017-translation|0:1
+type 主从复合句｜thinking分词内含that宾语从句
+chunks Two years before graduating from secondary school,〔修〕 I took a sewing and design course〔主〕 thinking〔修〕 that I would move on to a fashion design course.〔C1〕
+main 主语:I | 谓语:took | 宾语:a sewing and design course
+gist 我上过一门课程
+C1 宾语从句 | 作thinking的宾语 | that | 前面thinking缺当时想的内容，后面I would move on…主谓及补足完整；that不作成分，整块作宾语 | 主语:I | 谓语:would move on
+mod Two years before graduating from secondary school → took | 时间状语 | 中学毕业前两年
+mod thinking → I | 现在分词表伴随 | 上课时抱着某种想法，非独立谓语
+mod to a fashion design course → move on | 后续方向补足 | 接着学习服装设计课程
+
+# special-2017-translation|0:2
+type 并列复合句｜两个宾语从句，so连接结果
+chunks However,〔修〕 during that course〔修〕 I realized〔主〕 I was not good enough〔C1〕 in this area to compete with other creative personalities in the future,〔C1修〕 so〔连〕 I decided〔主〕 that it was not the right path for me.〔C2〕
+main 主语:I | 谓语:realized | 宾语:C1 || &so || 主语:I#3 | 谓语:decided | 宾语:C2
+gist 我意识到（一件事）——内容是从句①：自己不够优秀；因此决定从句②所说的事：这条路不适合我。
+C1 宾语从句 | 作realized的宾语 | （省略 that） | 前面realized缺意识到的内容，后面I was not good enough主系表完整；省略that，整块作宾语 | 主语:I | 谓语:was not | 表语:good enough
+C2 宾语从句 | 作decided的宾语 | that | 前面decided缺决定内容，that后it was not the right path主系表完整；that只连接，整块作宾语 | 主语:it | 谓语:was not | 表语:the right path
+mod However → 整句 | 转折衔接 | 与之前的计划不同
+mod during that course → realized | 时间状语 | 在上那门课期间
+mod in this area → good | 领域限定 | 在服装设计领域
+mod to compete with other creative personalities in the future → enough | 不定式结果补足 | 能力不足以在未来与其他创意人才竞争
+mod for me → path | 适用对象 | 对我来说不合适
+
+# special-2017-translation|0:3
+type 主从复合句｜that宾语从句和because原因从句
+chunks Before applying for university〔修〕 I told everyone〔主〕 that I would study journalism,〔C1〕 because writing was,〔C2〕 and still is,〔C2〕 one of my favourite activities.〔C2〕
+main 主语:I | 谓语:told | 间接宾语:everyone | 直接宾语:C1
+gist 我告诉所有人自己的计划
+C1 宾语从句 | 作told的直接宾语 | that | 前面told everyone已有接受者但缺内容，that后I would study journalism主谓宾完整；that只连接，整块作宾语 | 主语:I | 谓语:would study | 宾语:journalism
+C2 原因状语从句 | 解释为什么这样对别人说 | because | because后writing was…and still is…主系表完整；前面I told…已成句，because给出原因 | 主语:writing | 谓语:was … is | 表语:one
+mod Before applying for university → told | 时间状语 | 申请大学以前，applying是介词后的动名词
+mod of my favourite activities → one | 介词定语 | 最喜欢的活动之一
+point was和is共用writing及后置表语，分别表示过去与现在；still修饰is，不另起主句。
+
+# special-2017-translation|0:4
+type 多分句条目｜because原因从句内有that宾语，破折号后另句
+chunks But, to be honest,〔修〕 I said it,〔主〕 because I thought〔C1〕 that fashion and me together was just a dream〔C2〕 - I knew〔主〕 that no one could imagine me in the fashion industry at all!〔C3〕
+main 主语:I | 谓语:said | 宾语:it || 主语:I#3 | 谓语:knew | 宾语:C3
+gist 我那样说，并且知道（一件事）——内容是从句③：没人能想象我进入时尚行业。
+C1 原因状语从句 | 解释said it的原因 | because | because后I thought加宾语内容主谓完整，前面I said it已成句；because说明说这话的原因 | 主语:I | 谓语:thought | 宾语:C2
+C2 宾语从句 in C1 | 作thought的宾语 | that | 前面thought缺想法内容，that后fashion and me together was just a dream为原题完整判断；that只连接，整块作宾语 | 主语:fashion and me | 谓语:was | 表语:just a dream
+C3 宾语从句 | 作knew的宾语 | that | 前面knew缺知道的内容，that后no one could imagine me…主谓宾完整；that不作成分，整块作宾语 | 主语:no one | 谓语:could imagine | 宾语:me
+mod to be honest → 整句 | 评述语 | 说实话
+mod together → fashion and me | 组合说明 | 指自己与时尚联系在一起这件事，原题用was，保留
+mod in the fashion industry → me | 宾语状态补充 | 想象我置身时尚业
+mod at all → imagine | 程度副词 | 完全想象不到
+point 原题fashion and me together was的形式不在内容任务中改写；破折号后I knew另有主语和谓语。
+
+# special-2017-translation|0:5
+type 主从复合句｜that定语从句
+chunks So〔连〕 I decided to look〔主〕 for some fashion-related courses〔修〕 that included writing.〔C1〕
+main 主语:I | 谓语:decided | 宾语:to look
+ gist 我决定去寻找
+C1 定语从句 | 修饰courses | that | 前面是名词courses，后面included writing缺主语；that代指课程作主语，整块限定courses | 主语:that | 谓语:included | 宾语:writing
+mod for some fashion-related courses → look | 介词补足 | 寻找时尚相关课程
+
+# special-2017-translation|0:6
+type 主从复合句｜when表语从句
+chunks This is〔主〕 when I noticed the course "Fashion Media & Promotion."〔C1〕
+main 主语:This | 谓语:is | 表语:C1
+gist 这就是那个时候
+C1 表语从句 | 说明注意到课程的时间 | when | 前面This is缺表语，when后I noticed the course主谓宾完整；when作时间状语，整块作表语 | 主语:I | 谓语:noticed | 宾语:the course
+mod "Fashion Media & Promotion" → course | 同位名称 | 写明课程名称

@@ -14,7 +14,7 @@ for k,v in skel.items():
     if not v.get('gist'): fail(f'{k} 缺 gist')
     for g in v['main']:
         for p in g['parts']:
-            if p.get('rg') and p['r']=='谓语' and re.fullmatch(r'[A-Za-z-]+(ing|ed)',p['t'].strip()) and p['t'].strip().endswith('ing'): fail(f'{k} 谓语“{p["t"]}”是 -ing 却没有助动词')
+            if p.get('rg') and p['r']=='谓语' and re.fullmatch(r'[A-Za-z-]+(ing|ed)',p['t'].strip()) and p['t'].strip().endswith('ing') and p['t'].strip().lower()!='swing': fail(f'{k} 谓语“{p["t"]}”是 -ing 却没有助动词')
 # 2 题目译文 / 错因
 BAN=['定位句真正支持的是','该项的关键问题是','因为A正确','故其他','其余选项均']
 for f in glob.glob(os.path.join(B,'data','qchoice*.json')):
@@ -66,6 +66,37 @@ def p2_revision_authorization():
         fail('一次性授权无效：'+str(e));return {}
 if '--content' in sys.argv:
     authorized=p2_revision_authorization()
+    if '--p3-parser-authorized-revision' in sys.argv:
+        try:
+            record=json.load(open(os.path.join(ROOT,'review','P3-parser-一次性范围授权.json'),encoding='utf-8'))
+            head=subprocess.run(['git','-C',ROOT,'rev-parse','HEAD'],capture_output=True,text=True,check=True).stdout.strip()
+            if record.get('head')!=head or set(record.get('files',{}))!={'build/check.py','build/parse_skel.py'}:
+                raise ValueError('本次parser授权的HEAD或文件范围不匹配')
+            verified={}
+            for path,expected in record['files'].items():
+                actual=hashlib.sha256(open(os.path.join(ROOT,path),'rb').read()).hexdigest()
+                patch=subprocess.run(['git','-C',ROOT,'diff','HEAD','--binary','--',path],capture_output=True,check=True).stdout
+                if actual!=expected['sha256'] or hashlib.sha256(patch).hexdigest()!=expected['patch_sha256']:
+                    raise ValueError(path+'不再是本次已授权的精确改动')
+                verified[path]=True
+            authorized.update(verified)
+            print('本次main/C #N授权匹配：HEAD、两份文件与精确补丁一致；无永久放行')
+        except (OSError,ValueError,KeyError,subprocess.CalledProcessError) as e:
+            fail('parser一次性授权无效：'+str(e))
+    # One-time user-approved swing false-positive fix; no permanent file allowance.
+    if '--p3-swing-authorized-revision' in sys.argv:
+        try:
+            record=json.load(open(os.path.join(ROOT,'review','P3-swing-一次性范围授权.json'),encoding='utf-8'))
+            head=subprocess.run(['git','-C',ROOT,'rev-parse','HEAD'],capture_output=True,text=True,check=True).stdout.strip()
+            path='build/check.py'
+            actual=hashlib.sha256(open(os.path.join(ROOT,path),'rb').read()).hexdigest()
+            patch=subprocess.run(['git','-C',ROOT,'diff','HEAD','--binary','--',path],capture_output=True,check=True).stdout
+            if record['head']!=head or record['sha256']!=actual or record['patch_sha256']!=hashlib.sha256(patch).hexdigest():
+                raise ValueError('HEAD、文件或补丁与本次授权不匹配')
+            authorized[path]=True
+            print('本次swing误报修复授权匹配；不是永久文件放行')
+        except (OSError,ValueError,KeyError,subprocess.CalledProcessError) as e:
+            fail('swing一次性授权无效：'+str(e))
     ch=subprocess.run(['git','-C',ROOT,'status','--porcelain=v1','-z'],capture_output=True,text=True,check=True).stdout.split('\0')
     for l in ch:
         if not l:continue
