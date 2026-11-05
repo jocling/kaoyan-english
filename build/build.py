@@ -32,6 +32,10 @@ try:
 except FileNotFoundError: qc={}
 
 # ---- 新增真题年份（2023–2026 等）：build/data/papers/<年份>.json ----
+# P5: keep the existing navigation; refresh only its stale year/score copy.
+rep('<span>2015—2022</span>', '<span>2015—2026</span>')
+rep('<span>2015—2022 · 答题 / 精读</span>', '<span>2015—2026 · 答题 / 精读</span>')
+rep('当前每卷覆盖 70 分', '当前每卷覆盖 75 分')
 papers={}
 for f in sorted(glob.glob(os.path.join(B,'data','papers','*.json'))):
     papers[os.path.splitext(os.path.basename(f))[0]]=json.load(open(f,encoding='utf-8'))
@@ -102,6 +106,11 @@ sys.dont_write_bytecode=True
 from tools.original_fixes import apply_original_fixes, special_index_patch
 s=apply_original_fixes(s,B)
 late+=special_index_patch(B)
+
+# P6: user-requested writing entry, guide data, and local drafting adapter.
+from tools.writing_p6 import apply_writing_p6
+s,writing_late=apply_writing_p6(s,B)
+late+=writing_late
 
 css=open(os.path.join(B,'src','g36.css')).read()
 qtr={}

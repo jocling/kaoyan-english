@@ -1,0 +1,470 @@
+# 2016-1|0:0
+type 主从复合句
+chunks It's true〔主〕 that high-school coding classes aren't essential〔C1〕 for learning computer science in college.〔C1修〕
+main 主语＋谓语:It's | 表语:true | 真正主语:C1
+gist 高中编程课并非大学计算机学习必备条件，这一点确实如此
+C1 主语从句 | it后置的真正主语 | that | 前面It's true用it占位，后面classes aren't essential主系表完整；整块是被肯定的事实 | 主语:high-school coding classes | 谓语:aren't | 表语:essential
+mod for learning computer science in college → essential | 对象补充 | 对大学计算机科学学习而言
+
+# 2016-1|0:1
+type 并列句
+chunks Students〔主〕 without experience〔修〕 can catch up〔主〕 after a few introductory courses,〔修〕 said Tom Cortina,〔主〕 the assistant dean at Carnegie Mellon's School of Computer Science.〔修〕
+main 主语:Students | 谓语:can catch up || 谓语:said | 主语:Tom Cortina
+gist 没有经验的学生也能赶上，科尔蒂纳这样说
+mod without experience → Students | 介词定语 | 尚无编程经验的学生
+mod after a few introductory courses → catch up | 时间状语 | 学几门入门课程之后
+mod the assistant dean at Carnegie Mellon's School of Computer Science → Tom Cortina | 同位语 | 说明副院长身份
+
+# 2016-1|1:0
+type 简单句
+chunks However,〔修〕 Cortina said,〔修〕 early exposure is beneficial.〔主〕
+main 主语:early exposure | 谓语:is | 表语:beneficial
+gist 早点接触仍然有益
+mod Cortina said → 整句 | 报道插入语 | 说明观点由谁提出
+
+# 2016-1|1:1
+type 主从复合句
+chunks When younger kids learn computer science,〔C1〕 they learn〔主〕 that it's not just a confusing, endless string of letters and numbers〔C2〕 - but〔连〕 a tool〔C2〕 to build apps, or create artwork, or test hypotheses.〔C2修〕
+main 主语:they | 谓语:learn#2 | 宾语:C2
+gist 孩子会学到计算机是一种解决问题的工具
+C1 时间状语从句 | 说明较小时学习编程 | When | 句首When后younger kids learn science主谓宾完整；表示学习时 | 主语:younger kids | 谓语:learn | 宾语:computer science
+C2 宾语从句 | 作learn的宾语 | that | 前面learn缺所得认识，后面it's not just… but…主系表完整；that只连接 | 主语＋谓语:it's not | 表语:just a confusing, endless string … but a tool
+mod of letters and numbers → string | 介词定语 | 字母数字组成的长串
+mod to build apps, or create artwork, or test hypotheses → tool | 不定式定语 | 开发应用、创作作品、检验假设三种工具用途
+point but并列表语string与tool，不引出新的主句。
+
+# 2016-1|1:3
+type 简单句
+chunks Breaking down problems into bite-sized chunks and using code to solve them becomes normal.〔主〕
+main 主语:Breaking down problems into bite-sized chunks and using code to solve them | 谓语:becomes | 表语:normal
+gist 分解问题并用代码求解会成为自然习惯
+point 两个动名词短语合起来指一个解决过程，整体作主语；becomes才是限定谓语。
+
+# 2016-1|1:4
+type 主从复合句｜句末 Cortina said 是主句，前面整块是 said 的宾语（省略 that）；宾语从句里 increase 和 help 是并列谓语
+chunks Giving more children this training could increase the number of people〔C1〕 interested in the field〔C1修〕 and〔连〕 help fill the jobs gap,〔C1〕 Cortina said.〔主〕
+main 主语:Cortina | 谓语:said | 宾语:C1
+gist Cortina 说（让更多孩子接受这种训练能增加人才、填补岗位缺口）
+C1 宾语从句 | 作 said 的宾语 | （省略 that） | 句末 said 后缺“说的内容”，前面 Giving…gap 是一个完整句子，两者之间没有连接词 → 省略 that 的宾语从句（引语前置） | 主语:Giving more children this training | 谓语:could increase | 宾语:the number | 谓语:help | 宾语:fill the jobs gap
+mod of people → number | 介词定语 | 人的数量
+mod interested in the field → people | 分词定语 | 对该领域感兴趣的人
+point Giving…是动名词作主语，不是谓语；increase 与 help 共用 could 和同一个主语，是并列谓语，不是并列句；Cortina said 虽在句末，却是主句。
+spot 新闻句末出现“某人 said/says”且前面没有连接词 → 前面整句是 said 的宾语。
+# 2016-1|3:0
+type 主从复合句
+chunks The Flatiron School,〔主〕 where people pay to learn programming,〔C1〕 started as one of the many coding bootcamps〔主〕 that's become popular〔C2〕 for adults looking for a career change.〔C2修〕
+main 主语:The Flatiron School | 谓语:started
+gist 熨斗学校起初是众多编程集训营之一
+C1 定语从句 | 修饰School | where | 前面是School这个地点，后面people pay主谓完整；where作地点状语 | 主语:people | 谓语:pay | 宾语:to learn programming
+C2 定语从句 | 修饰one of the many coding bootcamps所指项目 | that | 前面是集训营项目，that's为that has，后面become缺主语；that指集训营项目 | 主语＋谓语:that's become | 表语:popular
+mod as one of the many coding bootcamps → started | 身份补充 | 起初是一个编程训练营
+mod for adults looking for a career change → popular | 对象补充 | 在想转行的成年人中流行，looking为分词
+point that's become的's是has，不是is；bootcamps后的单数has与复数先行项搭配不齐，原文如此，按集训营项目理解并列来源待核。
+
+# 2016-1|3:1
+type 并列复合句
+chunks The high-schoolers get the same curriculum,〔主〕 but〔连〕 "we try to gear lessons〔主〕 toward things〔修〕 they're interested in,"〔C1〕 said Victoria Friedman,〔主〕 an instructor.〔修〕
+main 主语:The high-schoolers | 谓语:get | 宾语:the same curriculum || &but || 主语:we | 谓语:try | 宾语:to gear lessons || 谓语:said | 主语:Victoria Friedman
+gist 高中生课程相同，但讲师会使课程贴近兴趣
+C1 定语从句 | 修饰things | （省略 that） | 前面是things，后面they're interested in缺介词in的宾语；关系词省略 | 主语＋谓语:they're | 表语:interested
+mod toward things → gear | 方向补足 | 使课程朝向学生感兴趣的事物
+mod an instructor → Victoria Friedman | 同位语 | 说明她是讲师
+
+# 2016-1|4:0
+type 简单句
+chunks The students in the Flatiron class〔主〕 probably won't drop out of high school〔主〕 and〔连〕 build the next Facebook.〔主〕
+main 主语:The students | 谓语:won't drop out || &and || 谓语:build | 宾语:the next Facebook
+gist 学生大概不会退学创办下一个脸书
+mod in the Flatiron class → students | 介词定语 | 熨斗学校课堂上的学生
+mod of high school → drop out | 范围补足 | 从高中退学
+point probably修饰整个预测；won't作用于drop out与build两项，不能把build单独读成肯定。
+
+# 2016-1|4:1
+type 并列复合句
+chunks Programming languages have a quick turnover,〔主〕 so〔连〕 the "Ruby on Rails" language〔主〕 they learned〔C1〕 may not even be relevant〔主〕 by the time〔修〕 they enter the job market.〔C2〕
+main 主语:Programming languages | 谓语:have | 宾语:a quick turnover || &so || 主语:the "Ruby on Rails" language | 谓语:may not … be | 表语:relevant
+gist 编程语言迭代快，所学语言到就业时可能已不适用
+C1 定语从句 | 修饰language | （省略 that） | 前面是language，后面they learned缺宾语；省略关系词作宾语 | 主语:they | 谓语:learned
+C2 定语从句 | 修饰by the time中的time | （省略 that） | 前面是time，后面they enter the job market主谓宾完整；省略关系词表示进入市场的时间 | 主语:they | 谓语:enter | 宾语:the job market
+point by the time整体引出时间界限；may not be不能漏掉否定。
+
+# 2016-1|4:2
+type 并列复合句
+chunks But〔修〕 the skills〔主〕 they learn〔C1〕 - how to think logically through a problem and organize the results -〔修〕 apply to any coding language,〔主〕 said Deborah Seehorn,〔主〕 an education consultant for the state of North Carolina.〔修〕
+main 主语:the skills | 谓语:apply || 谓语:said | 主语:Deborah Seehorn
+gist 所学技能适用于任何编程语言，西霍恩这样说
+C1 定语从句 | 修饰skills | （省略 that） | 前面是skills，后面they learn缺宾语；省略关系词作宾语 | 主语:they | 谓语:learn
+mod how to think logically through a problem and organize the results → skills | 同位解释 | 用疑问不定式解释技能，如何推理并组织结果；不是限定从句
+mod to any coding language → apply | 适用范围 | 适用于任意编程语言
+mod an education consultant for the state of North Carolina → Deborah Seehorn | 同位语 | 说明教育顾问身份
+
+# 2016-1|5:0
+type 简单句
+chunks Indeed,〔修〕 the Flatiron students might not go into IT〔主〕 at all.〔修〕
+main 主语:the Flatiron students | 谓语:might not go
+gist 这些学生甚至可能不进入IT行业
+mod into IT → go | 方向补足 | 从事信息技术行业
+mod at all → not go | 否定强调 | 可能根本不会进入
+
+# 2016-1|5:1
+type 简单句
+chunks But〔修〕 creating a future army of coders〔主〕 is not the sole purpose〔主〕 of the classes.〔修〕
+main 主语:creating a future army of coders | 谓语:is not | 表语:the sole purpose
+gist 培养程序员大军不是唯一目的
+mod of the classes → purpose | 介词定语 | 编程课程的目的
+
+# 2016-1|5:3
+type 并列复合句
+chunks The younger〔修〕 they learn〔主〕 how computers think,〔C1〕 how to coax the machine into producing〔修〕 what they want〔C2〕 - the earlier〔修〕 they learn〔主〕 that they have the power〔C3〕 to do that〔C3修〕 - the better.〔修〕
+main 主语:they | 谓语:learn | 宾语:C1 || 主语:they#3 | 谓语:learn#2 | 宾语:C3
+gist 他们越早理解计算机、认识自身能力就越好
+C1 宾语从句 | 作第一个learn的宾语 | how | 前面learn缺学习内容，后面computers think主谓完整；how表示计算机的运作方式 | 主语:computers | 谓语:think
+C2 宾语从句 | 作producing的宾语 | what | 前面producing缺产出内容，后面they want缺宾语；what作want宾语 | 主语:they | 谓语:want
+C3 宾语从句 | 作第二个learn的宾语 | that | 前面learn缺认识内容，后面they have the power主谓宾完整；that只连接 | 主语:they | 谓语:have | 宾语:the power
+mod how to coax the machine into producing → learn | 并列疑问不定式 | 如何引导机器产出，与how computers think并列作第一个learn的内容
+mod to do that → power | 不定式定语 | 做到这一点的能力
+point the younger…the earlier…the better为关联比较，末项省略主语谓语；原文younger强调更早的年龄，不补造句尾骨架。
+
+# 2016-2|0:0
+type 主从复合句
+chunks Biologists estimate〔主〕 that as many as 2 million lesser prairie chickens〔C1〕 - a kind of bird living on stretching grasslands -〔修〕 once lent red〔C1〕 to the often grey landscape of the midwestern and southwestern United States.〔C1修〕
+main 主语:Biologists | 谓语:estimate | 宾语:C1
+gist 生物学家估计松鸡曾多达两百万只
+C1 宾语从句 | 作estimate的宾语 | that | 前面estimate缺估计内容，后面chickens lent red主谓宾完整；that只连接 | 主语:as many as 2 million lesser prairie chickens | 谓语:lent | 宾语:red
+mod a kind of bird living on stretching grasslands → chickens | 同位语 | 一种生活在连绵草原上的鸟
+mod to the often grey landscape of the midwestern and southwestern United States → lent | 对象补足 | 为美国中西部和西南部灰色景观增添红色
+
+# 2016-2|0:1
+type 简单句
+chunks But〔修〕 just some 22,000 birds remain〔主〕 today, occupying about 16% of the species' historic range.〔修〕
+main 主语:just some 22,000 birds | 谓语:remain
+gist 今天只剩约两万两千只
+mod today → remain | 时间状语 | 如今的存量
+mod occupying about 16% of the species' historic range → birds | 分词补充 | 活动范围只占历史范围的一小部分
+
+# 2016-2|1:0
+type 主从复合句
+chunks The crash was a major reason〔主〕 the U. S. Fish and Wildlife Service (USFWS) decided to formally list the bird〔C1〕 as threatened.〔C1修〕
+main 主语:The crash | 谓语:was | 表语:a major reason
+gist 数量暴跌是列为受威胁物种的主要原因
+C1 定语从句 | 修饰reason | （省略 that） | 前面是reason，后面USFWS decided带完整决定内容；省略why或that表示原因 | 主语:the U. S. Fish and Wildlife Service | 谓语:decided | 宾语:to formally list the bird
+mod as threatened → list | 身份补足 | 列为受威胁物种
+
+# 2016-2|1:1
+type 并列句
+chunks "The lesser prairie chicken is in a desperate situation,"〔主〕 said USFWS Director Daniel Ashe.〔主〕
+main 主语:The lesser prairie chicken | 谓语:is | 表语:in a desperate situation || 谓语:said | 主语:USFWS Director Daniel Ashe
+gist 松鸡处境危急，局长阿什如此说
+
+# 2016-2|1:2
+type 简单句
+chunks Some environmentalists,〔主〕 however,〔修〕 were disappointed.〔主〕
+main 主语:Some environmentalists | 谓语:were | 表语:disappointed
+gist 一些环保人士却感到失望
+
+# 2016-2|1:3
+type 主从复合句
+chunks They had pushed the agency〔主〕 to designate the bird as "endangered,"〔修〕 a status〔修〕 that gives federal officials greater regulatory power〔C1〕 to crack down on threats.〔C1修〕
+main 主语:They | 谓语:had pushed | 宾语:the agency | 宾补:to designate the bird
+gist 环保人士曾推动机构将松鸡列为濒危
+C1 定语从句 | 修饰status | that | 前面是status，后面gives缺主语；that指身份作主语 | 主语:that | 谓语:gives | 间接宾语:federal officials | 直接宾语:greater regulatory power
+mod as "endangered," → designate | 身份补足 | 认定为濒危物种
+mod a status → "endangered," | 同位解释 | 濒危这一级别
+mod to crack down on threats → power | 不定式定语 | 严厉打击威胁的监管权力
+
+# 2016-2|1:4
+type 主从复合句
+chunks But〔修〕 Ashe and others argued〔主〕 that the "threatened" tag gave the federal government flexibility〔C1〕 to try out new, potentially less confrontational conservation approaches.〔C1修〕
+main 主语:Ashe and others | 谓语:argued | 宾语:C1
+gist 阿什等人认为受威胁标签更有灵活性
+C1 宾语从句 | 作argued的宾语 | that | 前面argued缺观点内容，后面tag gave government flexibility主谓及双宾语完整；that只连接 | 主语:the "threatened" tag | 谓语:gave | 间接宾语:the federal government | 直接宾语:flexibility
+mod to try out new, potentially less confrontational conservation approaches → flexibility | 不定式定语 | 尝试新且可能较少对抗的保护办法
+
+# 2016-2|1:5
+type 主从复合句
+chunks In particular,〔修〕 they called for forging closer collaborations〔主〕 with western state governments,〔修〕 which are often uneasy〔C1〕 with federal action,〔C1修〕 and〔连〕 with the private landowners〔修〕 who control an estimated 95%〔C2〕 of the prairie chicken's habitat.〔C2修〕
+main 主语:they | 谓语:called for | 宾语:forging closer collaborations
+gist 他们呼吁建立更紧密合作
+C1 定语从句 | 修饰governments | which | 前面是state governments，后面are uneasy缺主语；which指各州政府 | 主语:which | 谓语:are | 表语:uneasy
+C2 定语从句 | 修饰landowners | who | 前面是私人土地所有者，后面control缺主语；who指所有者 | 主语:who | 谓语:control | 宾语:an estimated 95%
+mod with western state governments → collaborations | 合作对象 | 与西部州政府合作
+mod with federal action → uneasy | 形容词补足 | 对联邦行动不安
+mod with the private landowners → collaborations | 并列合作对象 | 还与私人土地所有者合作
+mod of the prairie chicken's habitat → 95% | 介词定语 | 松鸡栖息地的百分之九十五
+
+# 2016-2|2:1
+type 主从复合句
+chunks Negotiated by USFWS and the states,〔修〕 the plan requires individuals and businesses〔主〕 that damage habitat〔C1〕 as part of their operations〔C1修〕 to pay into a fund to replace every acre destroyed with 2 new acres of suitable habitat.〔修〕
+main 主语:the plan | 谓语:requires | 宾语:individuals and businesses | 宾补:to pay into a fund
+gist 计划要求破坏栖息地者向基金缴款
+C1 定语从句 | 修饰individuals and businesses | that | 前面是个人与企业，后面damage缺主语；that作主语 | 主语:that | 谓语:damage | 宾语:habitat
+mod Negotiated by USFWS and the states → plan | 分词状语 | 计划由联邦机构与各州协商制定
+mod as part of their operations → damage | 情景状语 | 在经营活动中破坏栖息地
+mod to replace every acre destroyed with 2 new acres of suitable habitat → fund | 不定式定语 | 基金用于每毁一英亩补两英亩，destroyed修饰acre
+point that从句结束后to pay回到requires的宾补，不能当作damage的目的。
+
+# 2016-2|2:2
+type 主从复合句
+chunks The fund will also be used〔主〕 to compensate landowners〔修〕 who set aside habitat.〔C1〕
+main 主语:The fund | 谓语:will … be used
+gist 基金还将用来补偿保护土地的所有者
+C1 定语从句 | 修饰landowners | who | 前面是landowners，后面set aside缺主语；who作主语 | 主语:who | 谓语:set aside | 宾语:habitat
+mod to compensate landowners → used | 目的补充 | 用于补偿土地所有者
+
+# 2016-2|2:3
+type 简单句
+chunks USFWS also set an interim goal〔主〕 of restoring prairie chicken populations to an annual average of 67,000 birds over the next 10 years.〔修〕
+main 主语:USFWS | 谓语:set | 宾语:an interim goal
+gist 机构还设定了阶段性恢复目标
+mod of restoring prairie chicken populations to an annual average of 67,000 birds over the next 10 years → goal | 目标内容 | 未来十年将种群恢复到年均六点七万只
+
+# 2016-2|2:4
+type 简单句
+chunks And〔修〕 it gives the Western Association of Fish and Wildlife Agencies (WAFWA),〔主〕 a coalition of state agencies,〔修〕 the job〔主〕 of monitoring progress.〔修〕
+main 主语:it | 谓语:gives | 间接宾语:the Western Association of Fish and Wildlife Agencies | 直接宾语:the job
+gist 计划把监督任务交给州机构协会
+mod a coalition of state agencies → Association | 同位语 | 由州机构组成的联合组织
+mod of monitoring progress → job | 任务内容 | 监督保护进展
+
+# 2016-2|2:5
+type 并列句
+chunks Overall,〔修〕 the idea is to let "states remain in the driver's seat for managing the species,"〔主〕 Ashe said.〔主〕
+main 主语:the idea | 谓语:is | 表语:to let "states remain in the driver's seat for managing the species," || 主语:Ashe | 谓语:said
+gist 总体思路是让各州主导管理，阿什这样说
+point let后states是宾语，remain…是省略to的不定式宾补；不能把remain另划限定从句。
+
+# 2016-2|3:0
+type 简单句
+chunks Not everyone buys the win-win rhetoric.〔主〕
+main 主语:Not everyone | 谓语:buys | 宾语:the win-win rhetoric
+gist 并非人人都接受这种双赢说辞
+point buys这里是相信、接受；Not everyone是部分否定。
+
+# 2016-2|3:1
+type 并列句
+chunks Some Congress members are trying to block the plan,〔主〕 and〔连〕 at least a dozen industry groups, four states, and three environmental groups are challenging it〔主〕 in federal court.〔修〕
+main 主语:Some Congress members | 谓语:are trying | 宾语:to block the plan || &and || 主语:at least a dozen industry groups, four states, and three environmental groups | 谓语:are challenging | 宾语:it
+gist 议员试图阻止计划，多方还在法院挑战它
+mod in federal court → challenging | 地点状语 | 在联邦法院提起挑战
+point 第二分句主语是三类主体的完整并列，不仅是environmental groups。
+
+# 2016-2|3:2
+type 并列复合句
+chunks Not surprisingly,〔修〕 industry groups and states generally argue〔主〕 it goes too far;〔C1〕 environmentalists say〔主〕 it doesn't go far enough.〔C2〕
+main 主语:industry groups and states | 谓语:argue | 宾语:C1 || 主语:environmentalists | 谓语:say | 宾语:C2
+gist 行业和州认为管得太多，环保者认为还不够
+C1 宾语从句 | 作argue的宾语 | （省略 that） | 前面argue缺观点，后面it goes too far主谓完整；省略that | 主语:it | 谓语:goes
+C2 宾语从句 | 作say的宾语 | （省略 that） | 前面say缺内容，后面it doesn't go far enough主谓完整；省略that | 主语:it | 谓语:doesn't go
+mod too far → goes | 程度状语 | 走得过头
+mod far enough → go | 程度状语 | 达到足够程度，此处被否定
+
+# 2016-2|3:3
+type 并列复合句
+chunks "The federal government is giving responsibility〔主〕 for managing the bird to the same industries〔修〕 that are pushing it〔C1〕 to extinction,"〔C1修〕 says biologist Jay Lininger.〔主〕
+main 主语:The federal government | 谓语:is giving | 宾语:responsibility || 谓语:says | 主语:biologist Jay Lininger
+gist 联邦政府把责任交给推动松鸡灭绝的行业，利宁格如此批评
+C1 定语从句 | 修饰industries | that | 前面是industries，后面are pushing缺主语；that指行业 | 主语:that | 谓语:are pushing | 宾语:it
+mod for managing the bird → responsibility | 介词定语 | 管理松鸡的责任
+mod to the same industries → giving | 接受对象 | 交给那些相同的行业
+mod to extinction → pushing | 结果补足 | 将松鸡推向灭绝
+
+# 2016-3|0:1
+type 并列句
+chunks But〔修〕 one specific complaint is made especially mournfully:〔主〕 There's never any time〔主〕 to read.〔修〕
+main 主语:one specific complaint | 谓语:is made || 主语＋谓语:There's never | 真正主语:any time
+gist 一种抱怨尤其伤感：没有时间读书
+mod especially mournfully → made | 方式状语 | 表达得格外伤感
+mod to read → time | 不定式定语 | 用来阅读的时间
+point There's为There is，never否定有阅读时间；冒号后具体引出抱怨内容。
+
+# 2016-3|1:1
+type 简单句
+chunks The web's full of articles〔主〕 offering tips on making time to read: "Give up TV" or "Carry a book with you at all times."〔修〕
+main 主语＋谓语:The web's | 表语:full
+gist 网上满是教人挤时间读书的文章
+mod of articles → full | 形容词补足 | 满是文章
+mod offering tips on making time to read → articles | 分词定语 | 文章提供挤出阅读时间的窍门
+mod "Give up TV" or "Carry a book with you at all times." → tips | 举例说明 | 两个祈使句式建议，均省略you，不是主句新谓语
+point web's是web is的缩写；offering没有限定时态。
+
+# 2016-3|1:2
+type 简单句
+chunks But in my experience,〔修〕 using such methods to free up the odd 30 minutes doesn't work.〔主〕
+main 主语:using such methods to free up the odd 30 minutes | 谓语:doesn't work
+gist 用这些办法零碎腾时间并不起作用
+point using…minutes整体是动名词主语；doesn't work是谓语，odd表示零碎的、偶尔的。
+
+# 2016-3|1:4
+type 简单句
+chunks The modern mind,〔主〕 Tim Parks, a novelist and critic, writes,〔修〕 "is overwhelmingly inclined〔主〕 toward communication...〔修〕
+main 主语:The modern mind | 谓语:is | 表语:inclined
+gist 现代心智压倒性地倾向于交流
+mod Tim Parks, a novelist and critic, writes → 整句 | 报道插入语 | 帕克斯写道，其中职业短语是同位语
+mod overwhelmingly → inclined | 程度状语 | 压倒性地倾向
+mod toward communication... → inclined | 方向补充 | 倾向不断交流，原引语跨后续条目
+
+# 2016-3|2:0
+type 简单句
+chunks In fact,〔修〕 "becoming more efficient" is part〔主〕 of the problem.〔修〕
+main 主语:"becoming more efficient" | 谓语:is | 表语:part
+gist 提高效率本身就是问题的一部分
+mod of the problem → part | 介词定语 | 属于问题本身
+point becoming more efficient是被引述的动名词短语作主语，不是进行时谓语。
+
+# 2016-3|2:2
+type 简单句
+chunks Immersive reading,〔主〕 by contrast,〔修〕 depends〔主〕 on being willing to risk inefficiency, goallessness, even time-wasting.〔修〕
+main 主语:Immersive reading | 谓语:depends
+gist 沉浸阅读有赖于容忍低效与无目标
+mod on being willing to risk inefficiency, goallessness, even time-wasting → depends | 介词补足 | 愿意承担低效率、无目的、甚至浪费时间的可能
+
+# 2016-3|2:4
+type 并列复合句
+chunks "The future comes at us〔主〕 like empty bottles along an unstoppable and nearly infinite conveyor belt,"〔修〕 writes Gary Eberle〔主〕 in his book Sacred Time,〔修〕 and〔连〕 "we feel a pressure〔主〕 to fill these different-sized bottles〔修〕 (days, hours, minutes)〔修〕 as they pass,〔C1〕 for〔C2〕 if they get by without being filled,〔C3〕 we will have wasted them."〔C2〕
+main 主语:The future | 谓语:comes || 谓语:writes | 主语:Gary Eberle || &and || 主语:we | 谓语:feel | 宾语:a pressure
+gist 未来不断来到，人们感觉必须把时间填满
+C1 时间状语从句 | 说明时间经过时填满它 | as | 前面fill bottles完整，as后they pass主谓完整；表示时间瓶子经过时 | 主语:they | 谓语:pass
+C2 原因状语从句 | 解释为何感到填满的压力 | for | 前面压力描述完整，for后包含if条件及we will have wasted主谓宾完整；for在此解释原因 | 主语:we | 谓语:will have wasted | 宾语:them
+C3 条件状语从句 in C2 | 假设时间瓶子空着经过 | if | 前面for解释原因，if后they get by主谓完整；表示若没填满而经过 | 主语:they | 谓语:get by
+mod like empty bottles along an unstoppable and nearly infinite conveyor belt → comes | 比喻状语 | 把未来比作传送带上的空瓶子
+mod in his book Sacred Time → writes | 出处状语 | 在著作神圣时间中
+mod to fill these different-sized bottles → pressure | 不定式定语 | 必须填满大小不一的时间瓶子的压力
+mod (days, hours, minutes) → bottles | 同位解释 | 瓶子指日、小时、分钟
+mod without being filled → get by | 伴随条件 | 没被填满就经过
+point for在此连接解释性原因分句，不是介词为了；会浪费掉是条件成立后的结果。
+
+# 2016-3|3:0
+type 简单句
+chunks So〔修〕 what does work?〔主〕
+main 主语:what | 谓语:does work
+gist 那么什么办法确实有效
+point what本身作主语，does在此强调work，不是把主语倒到助动词后面。
+
+# 2016-3|3:1
+type 省略答句
+chunks Perhaps surprisingly,〔修〕 scheduling regular times for reading.〔主〕
+main 主语:scheduling regular times for reading
+gist 有效办法是定期安排阅读时间
+point 承接上一条what does work的省略答句，只有动名词短语，不凭空补造is或works。
+
+# 2016-3|3:2
+type 并列复合句
+chunks You'd think〔主〕 this might fuel the efficiency mind-set,〔C1〕 but〔连〕 in fact, Eberle notes,〔修〕 such ritualistic behaviour helps us〔主〕 "step outside time's flow" into "soul time."〔修〕
+main 主语＋谓语:You'd … think | 宾语:C1 || &but || 主语:such ritualistic behaviour | 谓语:helps | 宾语:us | 宾补:"step outside time's flow"
+gist 你或许担心更追求效率，仪式化阅读却能帮助超脱时间
+C1 宾语从句 | 作think的宾语 | （省略 that） | 前面think缺所想内容，后面this might fuel mind-set主谓宾完整；省略that | 主语:this | 谓语:might fuel | 宾语:the efficiency mind-set
+mod Eberle notes → 整句 | 报道插入语 | 指出观点出处，不作behaviour的成分
+mod into "soul time." → step | 方向补足 | 进入灵魂时间
+point You'd的'd是would；but后主语是behaviour，不是插入语中的Eberle。
+
+# 2016-3|3:3
+type 简单句
+chunks You could limit distractions〔主〕 by reading only physical books, or on single-purpose e-readers.〔修〕
+main 主语:You | 谓语:could limit | 宾语:distractions
+gist 你可以减少干扰
+mod by reading only physical books, or on single-purpose e-readers → limit | 方式状语 | 通过纸质书或单一功能阅读器阅读；or并列两种媒介
+
+# 2016-3|3:5
+type 主从复合句
+chunks On a really good day,〔修〕 it no longer feels〔主〕 as if you're "making time to read,"〔C1〕 but〔C1〕 just reading, and making time for everything else.〔C1〕
+main 主语:it | 谓语:no longer feels
+gist 状态好时，不再觉得是在特意挤时间阅读
+C1 表语从句 | 说明feels后所感状态 | as if | 前面feels为感受系动词，as if后you're making time主谓宾完整；表示仿佛在挤时间 | 主语＋谓语:you're "making | 宾语:time
+mod just reading, and making time for everything else → "making time to read," | 省略对照 | but后承接you're，强调自然阅读，反为其他事腾时间
+point no longer的范围覆盖这种感受；as if后making time实际与are构成进行时，骨架可合写为you're making。
+
+# 2016-4|0:0
+type 并列句
+chunks Against a backdrop of drastic changes in economy and population structure,〔修〕 younger Americans are drawing a new 21st-century road map〔主〕 to success,〔修〕 a latest poll has found.〔主〕
+main 主语:younger Americans | 谓语:are drawing | 宾语:a new 21st-century road map || 主语:a latest poll | 谓语:has found
+gist 民调发现年轻美国人正在重绘成功路线图
+mod to success → map | 目标定语 | 通往成功的路线
+point 末尾a latest poll has found是后置报道分句，不是Americans的第二谓语。
+
+# 2016-4|1:0
+type 简单句
+chunks Across generational lines,〔修〕 Americans continue〔主〕 to prize many of the same traditional milestones of a successful life,〔修〕 including getting married, having children, owning a home, and retiring in their sixties.〔修〕
+main 主语:Americans | 谓语:continue
+gist 各代美国人仍重视传统人生里程碑
+mod to prize many of the same traditional milestones of a successful life → continue | 不定式补充 | 继续看重成功生活的相同传统标志
+mod including getting married, having children, owning a home, and retiring in their sixties → milestones | 举例定语 | 结婚、生子、置业、六十多岁退休
+
+# 2016-4|1:1
+type 主从复合句
+chunks But〔修〕 while young and old mostly agree on〔C1〕 what constitutes the finish line of a fulfilling life,〔C2〕 they offer strikingly different paths〔主〕 for reaching it.〔修〕
+main 主语:they | 谓语:offer | 宾语:strikingly different paths
+gist 两代人提出的实现路径却截然不同
+C1 让步状语从句 | 承认对终点大体一致 | while | 前面But转折，while后young and old agree主谓完整；表示尽管，不是同时 | 主语:young and old | 谓语:agree | 宾语:C2
+C2 宾语从句 in C1 | 作on的宾语 | what | 前面agree on缺一致的内容，后面constitutes缺主语；what作主语 | 主语:what | 谓语:constitutes | 宾语:the finish line
+mod of a fulfilling life → line | 介词定语 | 充实人生的终点
+mod for reaching it → paths | 目的定语 | 达到相同终点的路径
+
+# 2016-4|4:1
+type 主从复合句
+chunks While younger people are somewhat more optimistic〔C1〕 than their elders〔C2〕 about the prospects for those starting out today,〔C1修〕 big majorities in both groups believe〔主〕 those〔C3〕 "just getting started in life"〔C3修〕 face a tougher climb〔C3〕 than earlier generations〔C4〕 in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing.〔C3修〕
+main 主语:big majorities | 谓语:believe | 宾语:C3
+gist 两代人中绝大多数都认为今天起步更难
+C1 让步状语从句 | 承认年轻人略乐观 | While | 句首While后people are optimistic主系表完整；让步于两代均认为困难的结论 | 主语:younger people | 谓语:are | 表语:more optimistic
+C2 比较状语从句 in C1 | 比较两代人的乐观程度 | than | 前面more optimistic表示比较，than后their elders省略are optimistic；比较同类人群 | 主语:their elders
+C3 宾语从句 | 作believe的宾语 | （省略 that） | 前面believe缺看法，后面those face a climb主谓宾完整；省略that | 主语:those | 谓语:face | 宾语:a tougher climb
+C4 比较状语从句 in C3 | 比较今天与前代人的难度 | than | 前面tougher引出比较，than后earlier generations省略faced；比较不同世代 | 主语:earlier generations
+mod in both groups → majorities | 介词定语 | 两组中都占绝大多数
+mod about the prospects for those starting out today → optimistic | 话题补足 | 对今天初入社会者的前景
+mod "just getting started in life" → those | 分词定语 | 刚开始独立生活的人
+mod in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing → climb | 方面补充 | 获得好工作、组建家庭、管债务和负担住房这些目标
+
+# 2016-4|5:0
+type 简单句
+chunks Pete Schneider considers the climb tougher〔主〕 today.〔修〕
+main 主语:Pete Schneider | 谓语:considers | 宾语:the climb | 宾补:tougher
+gist 施耐德认为今天的上升之路更难
+mod today → tougher | 时间状语 | 当今情况
+
+# 2016-4|5:1
+type 主从复合句
+chunks Schneider,〔主〕 a 27-year-old auto technician from the Chicago suburbs,〔修〕 says〔主〕 he struggled to find a job〔C1〕 after graduating from college.〔C1修〕
+main 主语:Schneider | 谓语:says | 宾语:C1
+gist 施耐德说自己找工作艰难
+C1 宾语从句 | 作says的宾语 | （省略 that） | 前面says缺内容，后面he struggled主谓完整并带不定式；省略that | 主语:he | 谓语:struggled
+mod a 27-year-old auto technician from the Chicago suburbs → Schneider | 同位语 | 二十七岁的芝加哥郊区汽车技师
+mod to find a job → struggled | 不定式补充 | 艰难地找工作
+mod after graduating from college → struggled | 时间状语 | 大学毕业后
+
+# 2016-4|5:2
+type 并列复合句
+chunks Even now that he is working steadily,〔C1〕 he said,〔修〕 "I can't afford〔主〕 to pay my monthly mortgage payments on my own,〔修〕 so〔连〕 I have to rent rooms out〔主〕 to people to make that happen."〔修〕
+main 主语:I | 谓语:can't afford | 宾语:to pay my monthly mortgage payments || &so || 主语:I#2 | 谓语:have to rent | 宾语:rooms
+gist 即便工作稳定，他仍须出租房间才能付房贷
+C1 让步状语从句 | 承认工作已经稳定 | Even now that | 前面Even表示即使，now that后he is working主谓完整；整块表示即便如今已稳定工作 | 主语:he | 谓语:is working
+mod he said → 整句 | 报道插入语 | 说明引语说话者
+mod on my own → pay | 方式状语 | 独自承担月供
+mod to people → rent | 对象补足 | 将房间出租给别人
+mod to make that happen → rent | 目的状语 | 为使偿还月供成为可能
+
+# 2016-4|5:3
+type 主从复合句
+chunks Looking back,〔修〕 he is struck〔主〕 that his parents could provide a comfortable life〔C1〕 for their children〔C1修〕 even though neither had completed college〔C2〕 when he was young.〔C3〕
+main 主语:he | 谓语:is struck
+gist 回头看，他对父母当年能提供舒适生活感到惊讶
+C1 宾语从句 | 补充struck的感受内容 | that | 前面is struck表示惊讶仍缺所惊讶的内容，后面parents could provide life主谓宾完整；that说明感受内容 | 主语:his parents | 谓语:could provide | 宾语:a comfortable life
+C2 让步状语从句 in C1 | 承认父母均未大学毕业 | even though | 前面父母提供生活的内容完整，even though后neither had completed college主谓宾完整；表示尽管 | 主语:neither | 谓语:had completed | 宾语:college
+C3 时间状语从句 in C2 | 说明未毕业状态对应时期 | when | 前面父母学历描述完整，when后he was young主系表完整；表示他年幼时 | 主语:he | 谓语:was | 表语:young
+mod Looking back → he | 分词状语 | 回顾往事的是他
+mod for their children → provide | 对象状语 | 为孩子提供生活
+
+# 2016-4|5:4
+type 并列复合句
+chunks "I still grew up〔主〕 in an upper middle-class home with parents〔修〕 who didn't have college degrees,"〔C1〕 Schneider said.〔主〕
+main 主语:I | 谓语:grew up || 主语:Schneider | 谓语:said
+gist 我在中上阶层家庭长大，他这样说
+C1 定语从句 | 修饰parents | who | 前面是parents，后面didn't have缺主语；who作主语 | 主语:who | 谓语:didn't have | 宾语:college degrees
+mod in an upper middle-class home with parents → grew | 背景状语 | 在有父母陪伴的中上阶层家庭长大
+
+# 2016-4|5:5
+type 主从复合句
+chunks "I don't think〔主〕 people are capable〔C1〕 of that anymore."〔C1修〕
+main 主语:I | 谓语:don't think | 宾语:C1
+gist 我认为如今的人不再能做到这一点
+C1 宾语从句 | 作think的宾语 | （省略 that） | 前面think缺想法，后面people are capable主系表完整；省略that | 主语:people | 谓语:are | 表语:capable
+mod of that → capable | 形容词补足 | 仍指无大学学历也能提供中上阶层生活
+mod anymore → think | 否定时间补充 | 不再如此，语义否定落在后面能够做到的判断

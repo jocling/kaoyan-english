@@ -1,0 +1,558 @@
+# 2015-1|1:0
+type 并列复合句
+chunks "Further contradicting conventional wisdom,〔修〕 we found〔主〕 that women as well as men have lower levels of stress〔C1〕 at work than at home,"〔C1修〕 writes one of the researchers,〔主〕 Sarah Damaske.〔修〕
+main 主语:we | 谓语:found | 宾语:C1 || 谓语:writes | 主语:one
+gist 研究发现男女工作时压力都较低，达马斯克这样写道
+C1 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，后面women as well as men have levels主谓宾完整；that只连接 | 主语:women as well as men | 谓语:have | 宾语:lower levels
+mod than at home → lower | 比较状语 | 比在家时的压力低，比较结构省略相同的主谓内容
+mod "Further contradicting conventional wisdom → 整句 | 分词评述 | 这一发现进一步违背传统认识
+mod of stress at work → levels | 内容与情景 | 工作时的压力水平
+mod of the researchers → one | 介词定语 | 研究者之一
+mod Sarah Damaske → one | 同位语 | 指明写作者姓名
+
+# 2015-1|1:1
+type 并列复合句
+chunks In fact〔修〕 women even say〔主〕 they feel better〔C1〕 at work,〔C1修〕 she notes.〔主〕
+main 主语:women | 谓语:say | 宾语:C1 || 主语:she | 谓语:notes
+gist 女性说自己工作时感觉更好，她如此指出
+C1 宾语从句 | 作say的宾语 | （省略 that） | 前面say缺内容，后面they feel better主系表完整；省略that | 主语:they | 谓语:feel | 表语:better
+mod at work → feel | 情景状语 | 在工作时
+
+# 2015-1|1:2
+type 简单句
+chunks "It is men,〔主〕 not women,〔修〕 who report〔主〕 being happier〔修〕 at home〔修〕 than at work."〔修〕
+main 主语:men | 谓语:report | 宾语:being happier
+gist 报告自己在家更快乐的是男性
+mod not women → men | 对照补充 | 强调男性而不是女性
+mod at home than at work → happier | 比较补充 | 比工作时在家更快乐，比较项都为地点情景
+point It is…who是强调主语men的结构，去掉外壳是men report being happier；who不另当限定性定语从句。
+
+# 2015-1|1:3
+type 主从复合句
+chunks Another surprise is〔主〕 that the findings hold true〔C1〕 for both those with children and without,〔C1修〕 but〔连〕 more so for nonparents.〔修〕
+main 主语:Another surprise | 谓语:is | 表语:C1
+gist 另一意外是有无孩子都符合这一发现
+C1 表语从句 | 作is的表语 | that | 前面surprise is缺表语，后面findings hold true主谓及补足完整；that只连接 | 主语:the findings | 谓语:hold | 表语:true
+mod for both those with children and without → hold | 对象状语 | 对有孩子和没孩子的人都适用
+mod more so for nonparents → 整句 | 省略比较补充 | 对没有孩子的人更明显，so代前述结论
+
+# 2015-1|2:1
+type 简单句
+chunks For many men,〔修〕 the end of the workday is a time〔主〕 to kick back.〔修〕
+main 主语:the end | 谓语:is | 表语:a time
+gist 工作日结束是许多男性的放松时刻
+mod of the workday → end | 介词定语 | 工作日结束
+mod to kick back → time | 不定式定语 | 放松的时间
+
+# 2015-1|2:2
+type 主从复合句
+chunks For women〔修〕 who stay home,〔C1〕 they never get〔主〕 to leave the office.〔修〕
+main 主语:they | 谓语:never get
+gist 居家女性永远无法离开家庭这间办公室
+C1 定语从句 | 修饰women | who | 前面是women，后面stay home缺主语；who作主语 | 主语:who | 谓语:stay
+mod never → get | 否定频率 | 永远没有机会
+mod to leave the office → get | 不定式补充 | get to do表示获得做某事的机会
+point For women…是前置话题，主句用they回指，不把两个主语并成一组。
+
+# 2015-1|2:3
+type 主从复合句
+chunks And for women〔修〕 who work outside the home,〔C1〕 they often are playing catch-up-with-household tasks.〔主〕
+main 主语:they | 谓语:are playing | 宾语:catch-up-with-household tasks
+gist 在外工作的女性常常赶着补做家务
+C1 定语从句 | 修饰women | who | 前面是women，后面work缺主语；who作主语 | 主语:who | 谓语:work
+mod outside the home → work | 地点状语 | 在家庭之外工作
+mod often → are playing | 频率状语 | 经常如此
+point 原文以连字符把赶补家务连成一块；保留原样解释含义，不据此造出新从句。
+
+# 2015-1|2:4
+type 主从复合句
+chunks With the blurring of roles, and the fact〔修〕 that the home front lags well behind the workplace〔C1〕 in making adjustments for working women,〔C1修〕 it's not surprising〔主〕 that women are more stressed at home.〔C2〕
+main 主语＋谓语:it's | 表语:not surprising | 真正主语:C2
+gist 女性在家压力更大并不奇怪
+C1 同位语从句 | 解释fact的内容 | that | 前面是抽象名词fact，后面home front lags主谓完整；that只说明事实内容 | 主语:the home front | 谓语:lags
+C2 主语从句 | it后置的真正主语 | that | 前面it's not surprising用it占位，后面women are more stressed主系表完整；整块是被评价的事 | 主语:women | 谓语:are | 表语:more stressed
+mod well behind the workplace → lags | 比较补充 | 家庭远远落后于职场
+mod in making adjustments for working women → lags | 方面状语 | 在为职业女性作调整方面
+mod at home → stressed | 情景状语 | 在家庭生活中压力更大
+point With统领角色模糊与fact两项原因；fact的that与surprising后的that职责不同。
+
+# 2015-1|3:0
+type 简单句
+chunks But〔修〕 it's not just a gender thing.〔主〕
+main 主语＋谓语:it's | 表语:not just a gender thing
+gist 这不只是性别问题
+
+# 2015-1|3:1
+type 主从复合句
+chunks At work,〔修〕 people pretty much know〔主〕 what they're supposed to be doing:〔C1〕 working, making money, doing the tasks〔修〕 they have to do〔C2〕 in order to draw an income.〔C2修〕
+main 主语:people | 谓语:know | 宾语:C1
+gist 工作时人们清楚自己该做什么
+C1 宾语从句 | 作know的宾语 | what | 前面know缺所知内容，后面they're supposed to be doing缺doing的宾语；what作宾语 | 主语＋谓语:they're | 主语补足语:supposed to be doing
+C2 定语从句 | 修饰tasks | （省略 that） | 前面是tasks，后面they have to do缺do的宾语；省略关系词作宾语 | 主语:they | 谓语:have to do
+mod working, making money, doing the tasks → doing | 举例补充 | 具体说明工作、挣钱、完成任务
+mod in order to draw an income → do | 目的状语 | 为获得收入
+point have to do是必须做的谓语结构，不能把have解释成拥有。
+
+# 2015-1|3:2
+type 并列句
+chunks The bargain is very pure:〔主〕 Employee puts in hours of physical or mental labor〔主〕 and〔连〕 employee draws out life-sustaining moola.〔主〕
+main 主语:The bargain | 谓语:is | 表语:pure || 主语:Employee | 谓语:puts in | 宾语:hours || &and || 主语:employee#2 | 谓语:draws out | 宾语:life-sustaining moola
+gist 工作交易清楚：投入劳动时间，换取收入
+mod of physical or mental labor → hours | 介词定语 | 体力或脑力劳动的小时数
+point 冒号后具体展开交易双方的付出与回报，两个employee各自作分句主语。
+
+# 2015-1|4:0
+type 简单句
+chunks On the home front, however,〔修〕 people have no such clarity.〔主〕
+main 主语:people | 谓语:have | 宾语:no such clarity
+gist 在家人们没有这种明确分工认识
+
+# 2015-1|4:1
+type 主从复合句
+chunks Rare is the household〔主〕 in which the division of labor is so clinically and methodically laid out.〔C1〕
+main 表语:Rare | 谓语:is | 主语:the household
+gist 这种家庭很少见
+C1 定语从句 | 修饰household | in which | 前面是household，后面division is laid out主谓完整；in which表示在这种家庭中 | 主语:the division | 谓语:is … laid out
+mod of labor → division | 介词定语 | 劳动分工
+mod so clinically and methodically → laid out | 方式状语 | 如此清楚而有条理
+point 表语Rare提前引起完全倒装，主语是the household；C1并非主句。
+
+# 2015-1|4:2
+type 并列句
+chunks There are a lot of tasks〔主〕 to be done,〔修〕 there are inadequate rewards〔主〕 for most of them.〔修〕
+main 形式主语:There | 谓语:are | 真正主语:a lot of tasks || 形式主语:there#2 | 谓语:are#2 | 真正主语:inadequate rewards
+gist 活很多，回报却不够
+mod to be done → tasks | 不定式定语 | 有待完成的任务
+mod for most of them → rewards | 对象补充 | 大多数任务的回报
+point 原文用逗号连接两个there be分句，保留断句；不是一个主句带一个从句。
+
+# 2015-1|4:3
+type 并列复合句
+chunks Your home colleagues〔主〕 - your family -〔修〕 have no clear rewards〔主〕 for their labor;〔修〕 they need to be talked into it,〔主〕 or〔连〕 if they're teenagers,〔C1〕 threatened with complete removal of all electronic devices.〔修〕
+main 主语:Your home colleagues | 谓语:have | 宾语:no clear rewards || 主语:they | 谓语:need | 宾语:to be talked into it
+gist 家人劳动没有明确回报，还需要劝说或威胁
+C1 条件状语从句 | 限定用威胁方式的情景 | if | 前面or并列两种动员办法，if后they're teenagers主系表完整；表示如果是青少年 | 主语＋谓语:they're | 表语:teenagers
+mod your family → colleagues | 同位语 | 家庭同事即家人
+mod for their labor → rewards | 介词定语 | 劳动回报
+mod threatened with complete removal of all electronic devices → talked | 省略并列 | 与to be talked并列，省略to be；威胁收走全部电子设备
+
+# 2015-1|4:4
+type 简单句
+chunks Plus,〔修〕 they're your family.〔主〕
+main 主语＋谓语:they're | 表语:your family
+gist 再者，他们终究是家人
+
+# 2015-1|4:5
+type 简单句
+chunks You cannot fire your family.〔主〕
+main 主语:You | 谓语:cannot fire | 宾语:your family
+gist 你不能解雇家人
+
+# 2015-1|4:6
+type 简单句
+chunks You never really get to go home〔主〕 from home.〔修〕
+main 主语:You | 谓语:never … get | 宾语:to go home
+gist 你不可能真正从家中下班
+mod never really → get | 否定程度 | 从来无法真正做到
+mod from home → go | 起点状语 | 从家离开这种说法突出家庭任务无下班界限
+
+# 2015-1|5:0
+type 主从复合句
+chunks So〔修〕 it's not surprising〔主〕 that people are more stressed at home.〔C1〕
+main 主语＋谓语:it's | 表语:not surprising | 真正主语:C1
+gist 人们在家压力更大并不奇怪
+C1 主语从句 | it后置的真正主语 | that | 前面it's not surprising用it占位，后面people are more stressed主系表完整；整块是评价对象 | 主语:people | 谓语:are | 表语:more stressed
+mod at home → stressed | 情景状语 | 在家更有压力
+
+# 2015-1|5:1
+type 并列句
+chunks Not only〔修〕 are the tasks apparently infinite,〔主〕 the co-workers are much harder to motivate.〔主〕
+main 主语:the tasks | 谓语:are | 表语:infinite || 主语:the co-workers | 谓语:are#2 | 表语:much harder
+gist 任务无穷，而且家人更难动员
+mod apparently → infinite | 语气状语 | 看起来无穷尽
+mod to motivate → harder | 不定式补充 | 难以调动积极性
+point Not only置句首使第一分句倒装；第二分句省略常见的but also，保留原文不补词。
+
+# 2015-2|0:1
+type 并列句
+chunks Their grades are lower〔主〕 and〔连〕 their dropout rates are higher.〔主〕
+main 主语:Their grades | 谓语:are | 表语:lower || &and || 主语:their dropout rates | 谓语:are#2 | 表语:higher
+gist 他们成绩更低，辍学率更高
+
+# 2015-2|0:2
+type 主从复合句
+chunks But〔修〕 since such students are most likely to advance economically〔C1〕 if they succeed in higher education,〔C2〕 colleges and universities have pushed〔主〕 for decades to recruit more of them.〔修〕
+main 主语:colleges and universities | 谓语:have pushed
+gist 各大学长期努力招收这类学生
+C1 原因状语从句 | 解释扩大招收的原因 | since | 前面But只转折，since后students are most likely主系表完整；此处表示因为 | 主语:such students | 谓语:are | 表语:most likely
+C2 条件状语从句 in C1 | 限定经济上升的条件 | if | 前面说可能经济改善，if后they succeed主谓完整；表示成功完成高等教育时 | 主语:they | 谓语:succeed
+mod to advance economically → likely | 不定式补充 | 经济地位向上流动
+mod in higher education → succeed | 领域状语 | 在高等教育中成功
+mod for decades → pushed | 时间状语 | 数十年来持续推动
+mod to recruit more of them → pushed | 目的状语 | 为招收更多此类学生
+
+# 2015-2|1:0
+type 主从复合句
+chunks But〔修〕 the article is actually quite optimistic,〔主〕 as it outlines a potential solution to this problem,〔C1〕 suggesting〔修〕 that an approach〔C2〕 (which involves a one-hour, next-to-no-cost program)〔C3〕 can close 63 percent of the achievement gap〔C2〕 (measured by such factors as grades) between first-generation and other students.〔C2修〕
+main 主语:the article | 谓语:is | 表语:optimistic
+gist 这篇文章其实相当乐观
+C1 原因状语从句 | 说明乐观依据 | as | 前面评价文章乐观，as后it outlines a solution主谓宾完整；表示因为 | 主语:it | 谓语:outlines | 宾语:a potential solution
+C2 宾语从句 | 作suggesting的宾语 | that | 前面suggesting缺提出的内容，后面an approach can close gap主谓宾完整；that只连接 | 主语:an approach | 谓语:can close | 宾语:63 percent of the achievement gap
+C3 定语从句 in C2 | 修饰approach | which | 前面是approach，后面involves缺主语；which指方法作主语 | 主语:which | 谓语:involves | 宾语:a one-hour, next-to-no-cost program
+mod to this problem → solution | 介词定语 | 解决这个问题的办法
+mod suggesting → article | 分词补充 | 文章提出方法，与outlines的内容呼应
+mod (measured by such factors as grades) → gap | 分词定语 | 用成绩等因素衡量的差距
+mod between first-generation and other students → gap | 比较双方 | 第一代与其他大学生之间
+
+# 2015-2|2:0
+type 并列复合句
+chunks The authors of the paper〔主〕 are from different universities,〔主〕 and〔连〕 their findings are based on a study〔主〕 involving 147 students〔修〕 (who completed the project)〔C1〕 at an unnamed private university.〔修〕
+main 主语:The authors | 谓语:are | 表语:from different universities || &and || 主语:their findings | 谓语:are based
+gist 作者来自不同大学，结论依据一项学生研究
+C1 定语从句 | 修饰students | who | 前面是147 students，后面completed缺主语；who指学生作主语 | 主语:who | 谓语:completed | 宾语:the project
+mod of the paper → authors | 介词定语 | 论文作者
+mod on a study → based | 依据补足 | 以研究为依据
+mod involving 147 students → study | 分词定语 | 研究涉及一百四十七名学生
+mod at an unnamed private university → students | 地点定语 | 某所未具名私立大学的学生
+
+# 2015-2|2:1
+type 简单句
+chunks First generation was defined〔主〕 as not having a parent with a four-year college degree.〔修〕
+main 主语:First generation | 谓语:was defined
+gist 第一代大学生被定义为父母无四年制大学学历
+mod as not having a parent with a four-year college degree → defined | 定义内容 | 不存在一位拥有该学历的父母，并非只要求其中一位没学历
+
+# 2015-2|2:2
+type 主从复合句
+chunks Most of the first-generation students〔主〕 (59.1 percent)〔修〕 were recipients of Pell Grants,〔主〕 a federal grant for undergraduates with financial need,〔修〕 while this was true〔C1〕 only for 8.6 percent of the students with at least one parent with a four-year degree.〔C1修〕
+main 主语:Most | 谓语:were | 表语:recipients
+gist 大多数第一代学生领取助学金，另一类仅少数领取
+C1 状语从句（对比） | 对照两类学生的领取比例 | while | 前面第一类领取情况完整，while后this was true主系表完整；这里强调比例对照 | 主语:this | 谓语:was | 表语:true
+mod of the first-generation students → Most | 介词定语 | 第一代大学生中的大多数
+mod of Pell Grants → recipients | 介词定语 | 佩尔助学金领取者
+mod a federal grant for undergraduates with financial need → Pell Grants | 同位语 | 向有经济需要的本科生发放的联邦助学金
+mod only for 8.6 percent of the students with at least one parent with a four-year degree → true | 对象补充 | 在至少一方父母有大学学历者中仅占百分之八点六
+
+# 2015-2|3:0
+type 主从复合句
+chunks Their thesis〔主〕 - that a relatively modest intervention could have a big impact -〔C1〕 was based on the view〔主〕 that first-generation students may be most lacking not in potential but in practical knowledge about〔C2〕 how to deal with the issues〔C2修〕 that face most college students.〔C3〕
+main 主语:Their thesis | 谓语:was based
+gist 他们的论点基于第一代学生缺少实用知识这一看法
+C1 同位语从句 | 解释thesis内容 | that | 前面是thesis，后面intervention could have impact主谓宾完整；that不作成分 | 主语:a relatively modest intervention | 谓语:could have | 宾语:a big impact
+C2 同位语从句 | 解释view的内容 | that | 前面是view，后面students may be lacking主谓完整；说明看法内容而非限定view | 主语:first-generation students | 谓语:may be … lacking
+C3 定语从句 in C2 | 修饰issues | that | 前面是issues，后面face缺主语；that指问题作主语，不是学生面对问题的宾语 | 主语:that | 谓语:face | 宾语:most college students
+mod on the view → based | 依据补足 | 基于这一看法
+mod not in potential but in practical knowledge → lacking | 对比补充 | 缺的不是潜力，而是实用知识
+mod how to deal with the issues → knowledge | 疑问不定式补充 | 处理大学问题的方法；非限定从句
+
+# 2015-2|3:1
+type 主从复合句
+chunks They cite past research by several authors〔主〕 to show〔修〕 that this is the gap〔C1〕 that must be narrowed〔C2〕 to close the achievement gap.〔C2修〕
+main 主语:They | 谓语:cite | 宾语:past research
+gist 他们引用既有研究说明应弥合哪种鸿沟
+C1 宾语从句 | 作show的宾语 | that | 前面show缺内容，后面this is the gap主系表完整；that只连接 | 主语:this | 谓语:is | 表语:the gap
+C2 定语从句 in C1 | 修饰gap | that | 前面是gap，后面must be narrowed缺主语；that作主语 | 主语:that | 谓语:must be narrowed
+mod by several authors → research | 作者定语 | 多位作者的研究
+mod to show → cite | 目的状语 | 引用以说明
+mod to close the achievement gap → narrowed | 目的状语 | 弥合实用知识差距，以缩小成就差距
+
+# 2015-2|4:1
+type 主从复合句
+chunks And〔修〕 this becomes more of a problem〔主〕 when colleges don't talk about〔C1〕 the class advantages and disadvantages of different groups of students.〔C1修〕
+main 主语:this | 谓语:becomes | 表语:more of a problem
+gist 这会成为更严重的问题
+C1 时间状语从句 | 说明问题何时加剧 | when | 前面问题加剧的判断完整，when后colleges don't talk主谓完整；说明在高校避谈时 | 主语:colleges | 谓语:don't talk
+mod the class advantages and disadvantages of different groups of students → talk | 话题补足 | 不同学生群体的阶层优劣势，介词about已在原句前面
+
+# 2015-2|4:2
+type 主从复合句
+chunks "Because US colleges and universities seldom acknowledge〔C1〕 how social class can affect students' educational experiences,〔C2〕 many first-generation students lack insight about〔主〕 why they are struggling〔C3〕 and〔连〕 do not understand〔主〕 how students 'like them' can improve."〔C4〕
+main 主语:many first-generation students | 谓语:lack | 宾语:insight || &and || 谓语:do not understand | 宾语:C4
+gist 第一代学生不明白为何困难，也不知道怎样改进
+C1 原因状语从句 | 解释学生不理解的原因 | Because | 句首Because后colleges seldom acknowledge带内容，构成完整原因分句 | 主语:US colleges and universities | 谓语:acknowledge | 宾语:C2
+C2 宾语从句 in C1 | 作acknowledge的宾语 | how | 前面acknowledge缺内容，后面class can affect experiences主谓宾完整；how表示影响方式 | 主语:social class | 谓语:can affect | 宾语:students' educational experiences
+C3 宾语从句 | 作about的宾语 | why | 前面insight about缺认识内容，后面they are struggling主谓完整；why作原因状语 | 主语:they | 谓语:are struggling
+C4 宾语从句 | 作understand的宾语 | how | 前面understand缺内容，后面students can improve主谓完整；how作方式状语 | 主语:students | 谓语:can improve
+mod 'like them' → students | 介词定语 | 与自己背景相似的学生
+
+# 2015-3|0:0
+type 并列复合句
+chunks Even in traditional offices,〔修〕 "the lingua franca of corporate America〔主〕 has gotten much more emotional and much more right-brained〔主〕 than it was 20 years ago,"〔C1〕 said Harvard Business School professor Nancy Koehn.〔主〕
+main 主语:the lingua franca | 谓语:has gotten | 表语:much more emotional and much more right-brained || 谓语:said | 主语:Harvard Business School professor Nancy Koehn
+gist 企业通用语变得更情绪化，科恩如此说
+C1 比较状语从句 | 比较现在与二十年前用语 | than | 前面more emotional等引出比较，than后it was省略相同表语；比较两个时间的语言状态 | 主语:it | 谓语:was
+mod of corporate America → lingua franca | 介词定语 | 美国企业界的通用语
+mod 20 years ago → was | 时间状语 | 二十年前
+
+# 2015-3|0:1
+type 简单句
+chunks She started spinning off examples.〔主〕
+main 主语:She | 谓语:started | 宾语:spinning off examples
+gist 她开始接连举例
+
+# 2015-3|0:3
+type 并列句
+chunks There were goals,〔主〕 there were strategies,〔主〕 there were objectives,〔主〕 but〔连〕 we didn't talk about energy;〔主〕 we didn't talk about passion."〔主〕
+main 形式主语:There | 谓语:were | 真正主语:goals || 形式主语:there#2 | 谓语:were#2 | 真正主语:strategies || 形式主语:there#3 | 谓语:were#3 | 真正主语:objectives || &but || 主语:we | 谓语:didn't talk || 主语:we#2 | 谓语:didn't talk#2
+gist 那时有目标战略指标，却不谈能量和激情
+mod about energy → talk | 话题补足 | 不谈能量
+mod about passion → talk | 话题补足 | 不谈激情
+point 三个there be分句并列，后两个we分句转折；用#N精确区分重复词。
+
+# 2015-3|1:0
+type 主从复合句
+chunks Koehn pointed out〔主〕 that this new era of corporate vocabulary is very "team"-oriented〔C1〕 - and not by coincidence.〔修〕
+main 主语:Koehn | 谓语:pointed out | 宾语:C1
+gist 科恩指出企业词汇强调团队并非巧合
+C1 宾语从句 | 作pointed out的宾语 | that | 前面pointed out缺内容，后面era is team-oriented主系表完整；that只连接 | 主语:this new era | 谓语:is | 表语:very "team"-oriented
+mod of corporate vocabulary → era | 介词定语 | 企业词汇的新时代
+mod and not by coincidence → 整句 | 追加评价 | 强调这种转变不是偶然
+
+# 2015-3|1:1
+type 并列句
+chunks "Let's not forget sports〔主〕 - in male-dominated corporate America,〔修〕 it's still a big deal.〔主〕
+main 主语＋谓语:"Let's | 宾语:not forget sports || 主语＋谓语:it's | 表语:a big deal
+gist 别忘了体育，它在企业界仍很重要
+mod in male-dominated corporate America → 整句 | 范围状语 | 在男性主导的美国企业界
+point Let's是let us的缩写，forget是let后省略to的不定式动作；破折号后为另一分句。
+
+# 2015-3|1:2
+type 并列复合句
+chunks It's not explicitly conscious;〔主〕 it's the idea〔主〕 that I'm a coach,〔C1〕 and〔连〕 you're my team,〔C2〕 and〔连〕 we're in this together.〔C3〕
+main 主语＋谓语:It's not | 表语:conscious || 主语＋谓语:it's#2 | 表语:the idea
+gist 这并非明确自觉的行为，而是一种团队观念
+C1 同位语从句 | 解释idea的内容 | that | 前面是idea，后面I'm a coach主系表完整；that说明观念内容 | 主语＋谓语:I'm | 表语:a coach
+C2 同位语从句 | 并列说明idea的内容 | （省略 that） | 前面and并列观念内容，后面you're my team主系表完整；承前省略that | 主语＋谓语:you're | 表语:my team
+C3 同位语从句 | 并列说明idea的内容 | （省略 that） | 前面and继续并列观念，后面we're in this主系表完整；承前省略that | 主语＋谓语:we're | 表语:in this
+mod not explicitly → conscious | 否定限定 | 不是明确意识到的过程
+mod together → in this | 方式补充 | 同舟共济
+
+# 2015-3|1:3
+type 并列句
+chunks There are lots and lots of CEOs〔主〕 in very different companies,〔修〕 but〔连〕 most think of themselves as coaches〔主〕 and〔连〕 this is their team〔主〕 and〔连〕 they want to win."〔主〕
+main 形式主语:There | 谓语:are | 真正主语:lots and lots of CEOs || &but || 主语:most | 谓语:think of | 宾语:themselves | 宾补:as coaches || &and || 主语:this | 谓语:is | 表语:their team || &and || 主语:they | 谓语:want | 宾语:to win
+gist 众多CEO把自己当教练，把公司当队伍并希望获胜
+mod in very different companies → CEOs | 介词定语 | 各种不同公司的首席执行官
+
+# 2015-3|2:0
+type 主从复合句
+chunks These terms are also intended to infuse work with meaning〔主〕 - and,〔连〕 as Rakesh Khurana,〔C1〕 another professor,〔修〕 points out,〔C1〕 increase allegiance to the firm.〔修〕
+main 主语:These terms | 谓语:are … intended
+gist 这些用语旨在赋予工作意义并增加忠诚
+C1 状语从句（方式） | 引用另一位教授所说 | as | 前面and之后插入as，后面Khurana points out缺所指内容；as回指增加忠诚这一内容 | 主语:Rakesh Khurana | 谓语:points out
+mod to infuse work with meaning → intended | 不定式补充 | 给工作注入意义
+mod another professor → Rakesh Khurana | 同位语 | 说明另一位教授的身份
+mod increase allegiance to the firm → intended | 省略并列不定式 | 与to infuse并列，省略to；增强对公司的忠诚
+
+# 2015-3|2:1
+type 并列复合句
+chunks "You have the importation of terminology〔主〕 that historically used to be associated〔C1〕 with non-profit organizations and religious organizations:〔C1修〕 terms like vision, values, passion, and purpose,"〔修〕 said Khurana.〔主〕
+main 主语:You | 谓语:have | 宾语:the importation || 谓语:said | 主语:Khurana
+gist 企业引进了原本属于其他组织的词汇
+C1 定语从句 | 修饰terminology | that | 前面是terminology，后面used to be associated缺主语；that作主语 | 主语:that | 谓语:used to be associated
+mod of terminology → importation | 介词定语 | 引入术语
+mod with non-profit organizations and religious organizations → associated | 关联补足 | 原本与非营利组织、宗教组织有关
+mod terms like vision, values, passion, and purpose → terminology | 同位举例 | 愿景、价值观、激情、宗旨等
+
+# 2015-3|3:1
+type 主从复合句
+chunks The "mommy wars" of the 1990s〔主〕 are still going on〔主〕 today,〔修〕 prompting arguments about〔修〕 why women still can't have it all〔C1〕 and books like Sheryl Sandberg's Lean In,〔修〕 whose title has become〔C2〕 a buzzword in its own right.〔C2修〕
+main 主语:The "mommy wars" | 谓语:are … going on
+gist 妈妈战争至今仍在继续并引发争论和书籍
+C1 宾语从句 | 作about的宾语 | why | 前面介词about缺争论内容，后面women can't have it all主谓宾完整；why表示原因 | 主语:women | 谓语:can't have | 宾语:it all
+C2 定语从句 | 修饰Lean In | whose | 前面是书名Lean In，后面title has become结构中title缺所有格限定；whose作title的定语 | 主语:whose title | 谓语:has become | 表语:a buzzword
+mod of the 1990s → "mommy wars" | 介词定语 | 二十世纪九十年代的论争
+mod prompting arguments about → 整句 | 分词结果 | 引起有关为何无法兼得的争论
+mod and books like Sheryl Sandberg's Lean In → arguments | 并列补充 | books与arguments并列作prompting的对象，不是女性have的宾语
+mod in its own right → buzzword | 资格补充 | 书名本身已成流行语
+
+# 2015-3|3:2
+type 简单句
+chunks Terms〔主〕 like unplug, offline, life-hack, bandwidth, and capacity〔修〕 are all about setting boundaries between the office and the home.〔主〕
+main 主语:Terms | 谓语:are | 表语:about setting boundaries
+gist 这些词都涉及划清工作家庭边界
+mod like unplug, offline, life-hack, bandwidth, and capacity → Terms | 举例定语 | 列举相关术语
+mod between the office and the home → boundaries | 范围定语 | 办公室与家庭之间的界限
+
+# 2015-3|3:3
+type 主从复合句
+chunks But〔修〕 if your work is your "passion,"〔C1〕 you'll be more likely〔主〕 to devote yourself to it,〔修〕 even if that means〔C2〕 going home for dinner and then working long〔C2修〕 after the kids are in bed.〔C3〕
+main 主语＋谓语:you'll … be | 表语:more likely
+gist 你会更可能全身心投入工作
+C1 条件状语从句 | 以工作被视为激情为条件 | if | 前面But转折，if后work is passion主系表完整；表示如果 | 主语:your work | 谓语:is | 表语:your "passion,"
+C2 让步状语从句 | 承认投入工作可能侵入家庭 | even if | 前面投入工作的结果完整，even if后that means带宾语结构完整；表示即使 | 主语:that | 谓语:means | 宾语:going home for dinner and then working long
+C3 时间状语从句 in C2 | 说明工作持续到何时 | after | 前面working long描述工作，after后kids are in bed主系表完整；表示孩子入睡后 | 主语:the kids | 谓语:are | 表语:in bed
+mod to devote yourself to it → likely | 不定式补充 | 把自己投入工作，it指work
+
+# 2015-3|4:0
+type 并列句
+chunks But〔修〕 this seems to be the irony of office speak:〔主〕 Everyone makes fun of it,〔主〕 but〔连〕 managers love it,〔主〕 companies depend on it,〔主〕 and〔连〕 regular people willingly absorb it.〔主〕
+main 主语:this | 谓语:seems | 表语:to be the irony || 主语:Everyone | 谓语:makes | 宾语:fun || &but || 主语:managers | 谓语:love | 宾语:it#2 || 主语:companies | 谓语:depend || &and || 主语:regular people | 谓语:absorb | 宾语:it#4
+gist 讽刺在于人人嘲笑办公室用语，仍又喜欢依赖吸收它
+mod of office speak → irony | 介词定语 | 办公室语言的讽刺之处
+mod of it → fun | 固定搭配补足 | make fun of表示取笑
+mod on it → depend | 介词补足 | 公司依赖这套话语
+point 冒号后四个分句展开irony，不是seems后的一串并列谓语。
+
+# 2015-3|4:1
+type 主从复合句
+chunks As a linguist once said,〔C1〕 "You can get people〔主〕 to think〔修〕 it's nonsense〔C2〕 at the same time〔修〕 that you buy into it."〔C3〕
+main 主语:You | 谓语:can get | 宾语:people | 宾补:to think
+gist 你可以让人一边觉得是胡扯，一边又接受
+C1 状语从句（方式） | 引述语言学家的话 | As | 句首As后a linguist said缺所说内容；as回指引语整体，表示正如所说 | 主语:a linguist | 谓语:said
+C2 宾语从句 | 作think的宾语 | （省略 that） | 前面think缺判断内容，后面it's nonsense主系表完整；省略that | 主语＋谓语:it's | 表语:nonsense
+C3 定语从句 | 修饰time | that | 前面at the same time，后面you buy into it主谓及补足完整；that在此表示同一时间，相当于when | 主语:you | 谓语:buy into | 宾语:it
+mod once → said | 时间状语 | 曾经说过
+point 同时觉得无聊却照单全收形成反讽，buy into是接受某种观念，不是购买物品。
+
+# 2015-4|0:0
+type 主从复合句
+chunks Many people talked of the 288,000 new jobs〔主〕 the Labor Department reported for June,〔C1〕 along with the drop in the unemployment rate to 6.1 percent,〔修〕 as good news.〔修〕
+main 主语:Many people | 谓语:talked
+gist 很多人把新增就业和失业率下降当作好消息
+C1 定语从句 | 修饰jobs | （省略 that） | 前面是jobs，后面the Labor Department reported缺宾语；省略关系词作宾语 | 主语:the Labor Department | 谓语:reported
+mod of the 288,000 new jobs → talked | 话题补足 | 谈及新增二十八点八万个岗位
+mod along with the drop in the unemployment rate to 6.1 percent → jobs | 并列补充 | 同时提及失业率降至百分之六点一
+mod as good news → talked | 评价补充 | 作为好消息看待
+
+# 2015-4|0:1
+type 简单句
+chunks And〔修〕 they were right.〔主〕
+main 主语:they | 谓语:were | 表语:right
+gist 他们这样看是对的
+
+# 2015-4|0:2
+type 主从复合句
+chunks For now〔修〕 it appears〔主〕 the economy is creating jobs〔C1〕 at a decent pace.〔C1修〕
+main 形式主语:it | 谓语:appears | 真正主语:C1
+gist 目前看来经济正在创造就业
+C1 主语从句 | it appears后置的内容 | （省略 that） | 前面it appears用it占位，后面economy is creating jobs主谓宾完整；省略that，说明看来如何 | 主语:the economy | 谓语:is creating | 宾语:jobs
+mod at a decent pace → creating | 速度状语 | 以不错的速度
+
+# 2015-4|0:3
+type 并列句
+chunks We still have a long way〔主〕 to go to get back to full employment,〔修〕 but〔连〕 at least〔修〕 we are now finally moving forward〔主〕 at a faster pace.〔修〕
+main 主语:We | 谓语:have | 宾语:a long way || &but || 主语:we#2 | 谓语:are … moving
+gist 还需努力恢复充分就业，但前进速度正在加快
+mod to go to get back to full employment → way | 不定式定语 | 距离恢复充分就业还要走的路
+mod at a faster pace → moving | 速度状语 | 更快向前推进
+
+# 2015-4|1:1
+type 主从复合句
+chunks There was a big jump in the number of people〔主〕 who report voluntarily working part-time.〔C1〕
+main 形式主语:There | 谓语:was | 真正主语:a big jump
+gist 自愿兼职人数大幅增加
+C1 定语从句 | 修饰people | who | 前面是people，后面report缺主语；who作主语 | 主语:who | 谓语:report | 宾语:voluntarily working part-time
+mod in the number of people → jump | 介词定语 | 人数上的跃升
+
+# 2015-4|2:0
+type 简单句
+chunks Before explaining the connection to the Obamacare,〔修〕 it is worth〔主〕 making an important distinction.〔修〕
+main 形式主语:it | 谓语:is | 表语:worth | 真正主语:making an important distinction
+gist 值得先作出一个重要区分
+point Before后为动名词短语，不是带主谓的时间从句；worth doing中doing表示值得做的事情。
+
+# 2015-4|2:1
+type 主从复合句
+chunks Many people〔主〕 who work part-time jobs〔C1〕 actually want full-time jobs.〔主〕
+main 主语:Many people | 谓语:want | 宾语:full-time jobs
+gist 许多兼职者其实想做全职
+C1 定语从句 | 修饰people | who | 前面是people，后面work缺主语；who指兼职者 | 主语:who | 谓语:work | 宾语:part-time jobs
+
+# 2015-4|2:2
+type 主从复合句
+chunks They take part-time work〔主〕 because this is all〔C1〕 they can get.〔C2〕
+main 主语:They | 谓语:take | 宾语:part-time work
+gist 他们接受兼职只是因为找不到别的工作
+C1 原因状语从句 | 解释接受兼职的原因 | because | 前面主句完整，because后this is all主系表完整；给出原因 | 主语:this | 谓语:is | 表语:all
+C2 定语从句 in C1 | 修饰all | （省略 that） | 前面是all，后面they can get缺宾语；省略关系词作宾语 | 主语:they | 谓语:can get
+
+# 2015-4|3:0
+type 并列句
+chunks There was an increase〔主〕 in involuntary part-time in June,〔修〕 but〔连〕 the general direction has been down.〔主〕
+main 形式主语:There | 谓语:was | 真正主语:an increase || &but || 主语:the general direction | 谓语:has been | 表语:down
+gist 六月非自愿兼职增加，总体趋势却在下降
+mod in involuntary part-time in June → increase | 对象与时间 | 六月的非自愿兼职增加
+
+# 2015-4|3:1
+type 并列句
+chunks Involuntary part-time employment is still far higher〔主〕 than before the recession,〔修〕 but〔连〕 it is down〔主〕 by 640,000 (7.9 percent) from its year ago level.〔修〕
+main 主语:Involuntary part-time employment | 谓语:is | 表语:higher || &but || 主语:it | 谓语:is#2 | 表语:down
+gist 非自愿兼职仍高于衰退前，但已同比下降
+mod than before the recession → higher | 比较状语 | 与衰退前水平相比，比较结构省略相同主谓
+mod still far → higher | 程度限定 | 仍高出很多
+mod by 640,000 (7.9 percent) from its year ago level → down | 变化数量基准 | 比去年同期减少六十四万人即百分之七点九
+
+# 2015-4|4:0
+type 主从复合句
+chunks We know the difference〔主〕 between voluntary and involuntary part-time employment〔修〕 because people tell us.〔C1〕
+main 主语:We | 谓语:know | 宾语:the difference
+gist 我们能区分两种兼职，因为受访者自己说明
+C1 原因状语从句 | 说明区分依据 | because | 前面知道差别的内容完整，because后people tell us主谓宾完整；引出原因 | 主语:people | 谓语:tell | 宾语:us
+mod between voluntary and involuntary part-time employment → difference | 比较双方 | 自愿和非自愿兼职的差别
+
+# 2015-4|4:1
+type 主从复合句
+chunks The survey〔主〕 used by the Labor Department〔修〕 asks people〔主〕 if they worked less than 35 hours〔C1〕 in the reference week.〔C1修〕
+main 主语:The survey | 谓语:asks | 间接宾语:people | 直接宾语:C1
+gist 调查询问人们是否工作不足三十五小时
+C1 宾语从句 | 作asks的内容宾语 | if | 前面asks people还缺询问内容，后面they worked…主谓完整；if表示是否而非条件 | 主语:they | 谓语:worked
+mod used by the Labor Department → survey | 分词定语 | 劳工部使用的调查
+mod less than 35 hours in the reference week → worked | 时长与时间 | 参照周工作是否不足三十五小时
+
+# 2015-4|4:2
+type 主从复合句
+chunks If the answer is "yes,"〔C1〕 they are classified〔主〕 as working part-time.〔修〕
+main 主语:they | 谓语:are classified
+gist 这些人就被归为兼职
+C1 条件状语从句 | 按肯定回答进行分类 | If | 句首If后answer is yes主系表完整；是如果，不是询问是否的宾语从句 | 主语:the answer | 谓语:is | 表语:"yes,"
+mod as working part-time → classified | 分类补足 | 被归为兼职工作者
+
+# 2015-4|4:3
+type 主从复合句
+chunks The survey then asks〔主〕 whether they worked less than 35 hours in that week〔C1〕 because they wanted to work less than full time〔C2〕 or〔连〕 because they had no choice.〔C3〕
+main 主语:The survey | 谓语:asks | 宾语:C1
+gist 调查进一步询问工作少是自愿还是别无选择
+C1 宾语从句 | 作asks的宾语 | whether | 前面asks缺问题内容，后面they worked主谓完整；whether表示是否 | 主语:they | 谓语:worked
+C2 原因状语从句 in C1 | 第一种少工作原因 | because | 前面worked已完整，because后they wanted主谓宾完整；说明出于自愿 | 主语:they | 谓语:wanted | 宾语:to work less than full time
+C3 原因状语从句 in C1 | 与C2并列的另一原因 | because | 前面or并列两种理由，because后they had no choice主谓宾完整；表示别无选择 | 主语:they | 谓语:had | 宾语:no choice
+point whether统领询问内容，两个because都在该询问范围内，不是作者对调查行为的解释。
+
+# 2015-4|5:0
+type 主从复合句
+chunks The issue of voluntary part-time relates to Obamacare〔主〕 because one of the main purposes〔C1〕 was〔C1〕 to allow people to get insurance outside of employment.〔C1修〕
+main 主语:The issue | 谓语:relates
+gist 自愿兼职问题与奥巴马医改有关
+C1 原因状语从句 | 说明二者关联原因 | because | 前面relates表达关系，because后one…was to allow主系表完整；说明原因 | 主语:one | 谓语:was | 表语:to allow people to get insurance
+mod of voluntary part-time → issue | 介词定语 | 自愿兼职问题
+mod to Obamacare → relates | 介词补足 | 与医改相关
+mod of the main purposes → one | 介词定语 | 主要目的之一
+mod outside of employment → get | 条件范围 | 在不依赖工作的情况下获得保险
+
+# 2015-4|5:1
+type 主从复合句
+chunks For many people, especially those with serious health conditions or family members with serious health conditions,〔修〕 before Obamacare〔修〕 the only way to get insurance〔主〕 was through a job〔主〕 that provided health insurance.〔C1〕
+main 主语:the only way | 谓语:was | 表语:through a job
+gist 过去获得医保的唯一途径是找提供医保的工作
+C1 定语从句 | 修饰job | that | 前面是job，后面provided缺主语；that作主语 | 主语:that | 谓语:provided | 宾语:health insurance
+mod For many people, especially those with serious health conditions or family members with serious health conditions → 整句 | 对象范围 | 特别指自己或家人有严重疾病者
+mod before Obamacare → was | 时间状语 | 奥巴马医改以前
+mod to get insurance → way | 不定式定语 | 获得医疗保险的方法
+
+# 2015-4|6:0
+type 简单句
+chunks However,〔修〕 Obamacare has allowed more than 12 million people〔主〕 to either get insurance through Medicaid or the exchanges.〔修〕
+main 主语:Obamacare | 谓语:has allowed | 宾语:more than 12 million people | 宾补:to either get insurance
+gist 医改使一千二百多万人得以获得保险
+mod through Medicaid or the exchanges → get | 渠道状语 | 通过医疗补助或保险交易所
+point either与or的摆放在原句不完全对称，实际比较的是两种保险渠道；不改原文。
+
+# 2015-4|6:1
+type 主从复合句
+chunks These are people〔主〕 who may previously have felt the need〔C1〕 to get a full-time job〔C1修〕 that provided insurance〔C2〕 in order to cover themselves and their families.〔修〕
+main 主语:These | 谓语:are | 表语:people
+gist 这些人以前可能为医保而必须找全职工作
+C1 定语从句 | 修饰people | who | 前面是people，后面may have felt缺主语；who代指这些人 | 主语:who | 谓语:may … have felt | 宾语:the need
+C2 定语从句 in C1 | 修饰job | that | 前面是job，后面provided缺主语；that作主语 | 主语:that | 谓语:provided | 宾语:insurance
+mod to get a full-time job → need | 不定式定语 | 寻找全职工作的必要
+mod in order to cover themselves and their families → get | 目的状语 | 为自己和家人获得医疗保障

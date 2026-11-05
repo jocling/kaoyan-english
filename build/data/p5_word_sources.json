@@ -1,0 +1,2246 @@
+{
+  "2023|1|A": {
+    "word": "purchase",
+    "display": "n. 购买, 购买品, 紧握, 绞辘；vt. 购买, 赢得, 努力取得, 用滑轮起(锚等)",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "purchase",
+    "sense": "n. 购买, 购买品, 紧握, 绞辘；vt. 购买, 赢得, 努力取得, 用滑轮起(锚等)"
+  },
+  "2023|1|B": {
+    "word": "profit",
+    "display": "n. 利润, 赢利, 利益；vi. 有益, 获利, 赚钱；vt. 有益于",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "profit",
+    "sense": "n. 利润, 赢利, 利益；vi. 有益, 获利, 赚钱；vt. 有益于"
+  },
+  "2023|1|C": {
+    "word": "connection",
+    "display": "n. 连接, 关系, 前后关系",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "connection",
+    "sense": "n. 连接, 关系, 前后关系"
+  },
+  "2023|1|D": {
+    "word": "bet",
+    "display": "n. 打赌, 赌注；v. 打赌",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "bet",
+    "sense": "n. 打赌, 赌注；v. 打赌"
+  },
+  "2023|2|A": {
+    "word": "define",
+    "display": "v. 定义；界定；使明确",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "define",
+    "sense": "v. 定义；界定；使明确"
+  },
+  "2023|2|B": {
+    "word": "predict",
+    "display": "v. 预测；预言",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "predict",
+    "sense": "v. 预测；预言"
+  },
+  "2023|2|C": {
+    "word": "prioritize",
+    "display": "vt. 按优先次序列出, 优先考虑",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "prioritize",
+    "sense": "vt. 按优先次序列出, 优先考虑"
+  },
+  "2023|2|D": {
+    "word": "appreciate",
+    "display": "vt. 赏识, 鉴别, 为...而感激, 领会, 欣赏；vi. 增值, 涨价",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "appreciate",
+    "sense": "vt. 赏识, 鉴别, 为...而感激, 领会, 欣赏；vi. 增值, 涨价"
+  },
+  "2023|3|A": {
+    "word": "exclusively",
+    "display": "adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "exclusively",
+    "sense": "adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地"
+  },
+  "2023|3|B": {
+    "word": "temporarily",
+    "display": "adv. 暂时地；临时地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "temporarily",
+    "sense": "adv. 暂时地；临时地"
+  },
+  "2023|3|C": {
+    "word": "potentially",
+    "display": "adv. 可能地, 潜在地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "potentially",
+    "sense": "adv. 可能地, 潜在地"
+  },
+  "2023|3|D": {
+    "word": "initially",
+    "display": "adv. 最初, 开头",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "initially",
+    "sense": "adv. 最初, 开头"
+  },
+  "2023|4|A": {
+    "word": "experiment",
+    "display": "n. 实验, 试验, 实验仪器；vi. 实验, 尝试",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "experiment",
+    "sense": "n. 实验, 试验, 实验仪器；vi. 实验, 尝试"
+  },
+  "2023|4|B": {
+    "word": "proposal",
+    "display": "n. 提议, 计划, 求婚",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "proposal",
+    "sense": "n. 提议, 计划, 求婚"
+  },
+  "2023|4|C": {
+    "word": "debate",
+    "display": "n. 辩论, 讨论；v. 争论, 辩论",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "debate",
+    "sense": "n. 辩论, 讨论；v. 争论, 辩论"
+  },
+  "2023|4|D": {
+    "word": "example",
+    "display": "n. 例子, 样本, 实例",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "example",
+    "sense": "n. 例子, 样本, 实例"
+  },
+  "2023|5|A": {
+    "word": "identical",
+    "display": "a. 同一的, 恒等的, 完全相同的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "identical",
+    "sense": "a. 同一的, 恒等的, 完全相同的"
+  },
+  "2023|5|B": {
+    "word": "marginal",
+    "display": "a. 边缘的, 最低限度的, 有旁注的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "marginal",
+    "sense": "a. 边缘的, 最低限度的, 有旁注的"
+  },
+  "2023|5|C": {
+    "word": "provisional",
+    "display": "a. 暂时的, 暂定的, 临时的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "provisional",
+    "sense": "a. 暂时的, 暂定的, 临时的"
+  },
+  "2023|5|D": {
+    "word": "traditional",
+    "display": "a. 传统的, 惯例的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "traditional",
+    "sense": "a. 传统的, 惯例的"
+  },
+  "2023|6|A": {
+    "word": "rumor",
+    "display": "n. 谣言, 传闻；vt. 谣传",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "rumor",
+    "sense": "n. 谣言, 传闻；vt. 谣传"
+  },
+  "2023|6|B": {
+    "word": "secret",
+    "display": "n. 秘密, 机密, 秘诀, 秘方；a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "secret",
+    "sense": "n. 秘密, 机密, 秘诀, 秘方；a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的"
+  },
+  "2023|6|C": {
+    "word": "myth",
+    "display": "n. 神话, 虚构的事, 虚构的人",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "myth",
+    "sense": "n. 神话, 虚构的事, 虚构的人"
+  },
+  "2023|6|D": {
+    "word": "problem",
+    "display": "n. 问题, 难题；a. 成问题的, 难处理的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "problem",
+    "sense": "n. 问题, 难题；a. 成问题的, 难处理的"
+  },
+  "2023|7|A": {
+    "word": "despite",
+    "display": "n. 轻视, 憎恨；prep. 虽然, 尽管",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "despite",
+    "sense": "n. 轻视, 憎恨；prep. 虽然, 尽管"
+  },
+  "2023|7|B": {
+    "word": "unlike",
+    "display": "a. 不像的, 不同的；prep. 不像, 和...不同",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unlike",
+    "sense": "a. 不像的, 不同的；prep. 不像, 和...不同"
+  },
+  "2023|7|C": {
+    "word": "through",
+    "display": "adv. 穿越, 从头至尾, 到底, 因为；prep. 经过, 穿过；a. 对穿的, 直达的, 完结的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "through",
+    "sense": "adv. 穿越, 从头至尾, 到底, 因为；prep. 经过, 穿过；a. 对穿的, 直达的, 完结的"
+  },
+  "2023|7|D": {
+    "word": "besides",
+    "display": "prep. 除...之外；adv. 而且, 此外",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "besides",
+    "sense": "prep. 除...之外；adv. 而且, 此外"
+  },
+  "2023|8|A": {
+    "word": "moreover",
+    "display": "adv. 而且, 此外",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "moreover",
+    "sense": "adv. 而且, 此外"
+  },
+  "2023|8|B": {
+    "word": "however",
+    "display": "adv. 然而；不过；无论怎样",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "however",
+    "sense": "adv. 然而；不过；无论怎样"
+  },
+  "2023|8|C": {
+    "word": "therefore",
+    "display": "adv. 因此, 所以",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "therefore",
+    "sense": "adv. 因此, 所以"
+  },
+  "2023|8|D": {
+    "word": "again",
+    "display": "adv. 再一次, 又, 到原处",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "again",
+    "sense": "adv. 再一次, 又, 到原处"
+  },
+  "2023|9|A": {
+    "word": "inspected",
+    "display": "v. 检查, 检验( inspect的过去式和过去分词 ); 视察",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "inspected",
+    "sense": "v. 检查, 检验( inspect的过去式和过去分词 ); 视察"
+  },
+  "2023|9|B": {
+    "word": "created",
+    "display": "create（原形）：vt. 创造, 建造, 引起, 任命",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "create",
+    "sense": "vt. 创造, 建造, 引起, 任命"
+  },
+  "2023|9|C": {
+    "word": "expanded",
+    "display": "expand（原形）：vt. 使膨胀, 详述, 扩张；vi. 张开, 发展；vt. 展开；vi. 展开",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "expand",
+    "sense": "vt. 使膨胀, 详述, 扩张；vi. 张开, 发展；vt. 展开；vi. 展开"
+  },
+  "2023|9|D": {
+    "word": "reformed",
+    "display": "reform（原形）：n. 改革, 改正, 改造；vt. 改革, 改过, 革新, 重整；vi. 革新, 改过",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "reform",
+    "sense": "n. 改革, 改正, 改造；vt. 改革, 改过, 革新, 重整；vi. 革新, 改过"
+  },
+  "2023|10|A": {
+    "word": "cultural",
+    "display": "a. 文化的, 教养的, 修养的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "cultural",
+    "sense": "a. 文化的, 教养的, 修养的"
+  },
+  "2023|10|B": {
+    "word": "objective",
+    "display": "adj. / n. 客观的；目标；目的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "objective",
+    "sense": "adj. / n. 客观的；目标；目的"
+  },
+  "2023|10|C": {
+    "word": "fresh",
+    "display": "a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的；adv. 最新地, 刚刚",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "fresh",
+    "sense": "a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的；adv. 最新地, 刚刚"
+  },
+  "2023|10|D": {
+    "word": "personal",
+    "display": "a. 私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "personal",
+    "sense": "a. 私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的"
+  },
+  "2023|11|A": {
+    "word": "end",
+    "display": "n. 结束, 终点, 目标, 末端, 梢, 死亡, 残余；v. 结束, 终结, 终止",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "end",
+    "sense": "n. 结束, 终点, 目标, 末端, 梢, 死亡, 残余；v. 结束, 终结, 终止"
+  },
+  "2023|11|B": {
+    "word": "burden",
+    "display": "n. 负担, 重载, 担子, 责任；vt. 装货于, 烦扰, 使负担",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "burden",
+    "sense": "n. 负担, 重载, 担子, 责任；vt. 装货于, 烦扰, 使负担"
+  },
+  "2023|11|C": {
+    "word": "lack",
+    "display": "n. 缺乏, 无, 不足；vt. 缺乏, 短少, 不足, 需要；vi. 缺乏",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "lack",
+    "sense": "n. 缺乏, 无, 不足；vt. 缺乏, 短少, 不足, 需要；vi. 缺乏"
+  },
+  "2023|11|D": {
+    "word": "decrease",
+    "display": "n. 减少, 减少量；v. 减少",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "decrease",
+    "sense": "n. 减少, 减少量；v. 减少"
+  },
+  "2023|12|A": {
+    "word": "policy",
+    "display": "n. 政策, 方针, 策略, 保险单",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "policy",
+    "sense": "n. 政策, 方针, 策略, 保险单"
+  },
+  "2023|12|B": {
+    "word": "suggestion",
+    "display": "n. 提议, 意见",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "suggestion",
+    "sense": "n. 提议, 意见"
+  },
+  "2023|12|C": {
+    "word": "purpose",
+    "display": "n. 目的, 意向, 决心, 用途, 效果, 论题；vt. 意欲, 企图, 计划",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "purpose",
+    "sense": "n. 目的, 意向, 决心, 用途, 效果, 论题；vt. 意欲, 企图, 计划"
+  },
+  "2023|12|D": {
+    "word": "insight",
+    "display": "n. 察看, 洞察力, 见识",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "insight",
+    "sense": "n. 察看, 洞察力, 见识"
+  },
+  "2023|13|A": {
+    "word": "contributing",
+    "display": "contribute（原形）：vt. 有助于, 捐助, 投稿；vi. 出力, 捐献, 投稿",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "contribute",
+    "sense": "vt. 有助于, 捐助, 投稿；vi. 出力, 捐献, 投稿"
+  },
+  "2023|13|B": {
+    "word": "allocating",
+    "display": "allocate（原形）：vt. 分派, 分配",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "allocate",
+    "sense": "vt. 分派, 分配"
+  },
+  "2023|13|C": {
+    "word": "promoting",
+    "display": "宣传",
+    "source": "build/data/kdict.json",
+    "lookup": "promote.t[0]",
+    "sense": "宣传"
+  },
+  "2023|13|D": {
+    "word": "transferring",
+    "display": "transfer（原形）：n. 迁移, 移动, 传递, 转让, 转移, 过户, 汇兑, 换车；vt. 使转移, 调转, 调任, 改变, 传递, 转让",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "transfer",
+    "sense": "n. 迁移, 移动, 传递, 转让, 转移, 过户, 汇兑, 换车；vt. 使转移, 调转, 调任, 改变, 传递, 转让"
+  },
+  "2023|14|A": {
+    "word": "As a result",
+    "display": "结果",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "as a result",
+    "sense": "结果"
+  },
+  "2023|14|B": {
+    "word": "At any rate",
+    "display": "无论如何, 至少",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "at any rate",
+    "sense": "无论如何, 至少"
+  },
+  "2023|14|C": {
+    "word": "By the way",
+    "display": "在途中, 顺便",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "by the way",
+    "sense": "在途中, 顺便"
+  },
+  "2023|14|D": {
+    "word": "In a sense",
+    "display": "在某种意义上",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "in a sense",
+    "sense": "在某种意义上"
+  },
+  "2023|15|A": {
+    "word": "unite",
+    "display": "vi. 联合, 接合, 混合；vt. 使联合, 统一, 使粘合, 使结合",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unite",
+    "sense": "vi. 联合, 接合, 混合；vt. 使联合, 统一, 使粘合, 使结合"
+  },
+  "2023|15|B": {
+    "word": "finance",
+    "display": "n. 财政, 财务；vt. 供给...经费, 负担经费",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "finance",
+    "sense": "n. 财政, 财务；vt. 供给...经费, 负担经费"
+  },
+  "2023|15|C": {
+    "word": "follow",
+    "display": "vt. 跟随, 沿行, 遵循, 追求；vi. 跟随, 接着；n. 跟随, 追随",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "follow",
+    "sense": "vt. 跟随, 沿行, 遵循, 追求；vi. 跟随, 接着；n. 跟随, 追随"
+  },
+  "2023|15|D": {
+    "word": "choose",
+    "display": "vt. 选择, 宁愿, 欲；vi. 作出选择, 愿意",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "choose",
+    "sense": "vt. 选择, 宁愿, 欲；vi. 作出选择, 愿意"
+  },
+  "2023|16|A": {
+    "word": "share",
+    "display": "n. 部分, 参与, 一份, 参股, 份额；vt. 均分, 分担, 分享, 分配, 共有；vi. 分享",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "share",
+    "sense": "n. 部分, 参与, 一份, 参股, 份额；vt. 均分, 分担, 分享, 分配, 共有；vi. 分享"
+  },
+  "2023|16|B": {
+    "word": "identify",
+    "display": "vt. 识别, 认为...等同于, 确定, 使参与；vi. 一致, 认同",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "identify",
+    "sense": "vt. 识别, 认为...等同于, 确定, 使参与；vi. 一致, 认同"
+  },
+  "2023|16|C": {
+    "word": "divide",
+    "display": "vi. 分开, 分配, 分裂；vt. 分, 分开, 分裂, 除；n. 分配, 分水岭",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "divide",
+    "sense": "vi. 分开, 分配, 分裂；vt. 分, 分开, 分裂, 除；n. 分配, 分水岭"
+  },
+  "2023|16|D": {
+    "word": "broaden",
+    "display": "vi. 变宽, 扩大；vt. 放宽, 使扩大",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "broaden",
+    "sense": "vi. 变宽, 扩大；vt. 放宽, 使扩大"
+  },
+  "2023|17|A": {
+    "word": "announcement",
+    "display": "n. 公告, 发表, 告知",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "announcement",
+    "sense": "n. 公告, 发表, 告知"
+  },
+  "2023|17|B": {
+    "word": "assessment",
+    "display": "n. 评估, 估定, 评定的款额",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "assessment",
+    "sense": "n. 评估, 估定, 评定的款额"
+  },
+  "2023|17|C": {
+    "word": "adjustment",
+    "display": "n. 调整, 调节, 校正",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "adjustment",
+    "sense": "n. 调整, 调节, 校正"
+  },
+  "2023|17|D": {
+    "word": "accomplishment",
+    "display": "n. 成就, 完成",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "accomplishment",
+    "sense": "n. 成就, 完成"
+  },
+  "2023|18|A": {
+    "word": "famous",
+    "display": "a. 出名的, 极好的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "famous",
+    "sense": "a. 出名的, 极好的"
+  },
+  "2023|18|B": {
+    "word": "responsible",
+    "display": "a. 有责任的, 负责的, 责任重大的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "responsible",
+    "sense": "a. 有责任的, 负责的, 责任重大的"
+  },
+  "2023|18|C": {
+    "word": "available",
+    "display": "a. 可利用的, 可获得的, 有效的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "available",
+    "sense": "a. 可利用的, 可获得的, 有效的"
+  },
+  "2023|18|D": {
+    "word": "respectable",
+    "display": "a. 值得尊重的, 人格高尚的, 相当数量的；n. 品格高尚的人",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "respectable",
+    "sense": "a. 值得尊重的, 人格高尚的, 相当数量的；n. 品格高尚的人"
+  },
+  "2023|19|A": {
+    "word": "Before",
+    "display": "prep. 在...之前；conj. 在...之前；adv. 在前",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "before",
+    "sense": "prep. 在...之前；conj. 在...之前；adv. 在前"
+  },
+  "2023|19|B": {
+    "word": "Once",
+    "display": "adv. 一次, 曾经, 一旦；conj. 一旦, 一经；n. 一次；a. 从前的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "once",
+    "sense": "adv. 一次, 曾经, 一旦；conj. 一旦, 一经；n. 一次；a. 从前的"
+  },
+  "2023|19|C": {
+    "word": "While",
+    "display": "虽然；然而；当……的时候",
+    "source": "build/data/kdict.json",
+    "lookup": "while.t[0]",
+    "sense": "虽然；然而；当……的时候"
+  },
+  "2023|19|D": {
+    "word": "Unless",
+    "display": "conj. 除非；prep. 除...之外",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unless",
+    "sense": "conj. 除非；prep. 除...之外"
+  },
+  "2023|20|A": {
+    "word": "serve",
+    "display": "vt. 可作...用, 服务, 经历, 招待, 供应, 送交, 对待；vi. 服务, 服役, 侍应, 适合, 有用, 开球",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "serve",
+    "sense": "vt. 可作...用, 服务, 经历, 招待, 供应, 送交, 对待；vi. 服务, 服役, 侍应, 适合, 有用, 开球"
+  },
+  "2023|20|B": {
+    "word": "limit",
+    "display": "n. 界限, 边界, 限度, 极限, 限制；vt. 限制, 限定",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "limit",
+    "sense": "n. 界限, 边界, 限度, 极限, 限制；vt. 限制, 限定"
+  },
+  "2023|20|C": {
+    "word": "summarize",
+    "display": "v. 概述, 总结",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "summarize",
+    "sense": "v. 概述, 总结"
+  },
+  "2023|20|D": {
+    "word": "alter",
+    "display": "v. 改变",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "alter",
+    "sense": "v. 改变"
+  },
+  "2024|1|A": {
+    "word": "Because",
+    "display": "conj. 因为",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "because",
+    "sense": "conj. 因为"
+  },
+  "2024|1|B": {
+    "word": "unless",
+    "display": "conj. 除非；prep. 除...之外",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unless",
+    "sense": "conj. 除非；prep. 除...之外"
+  },
+  "2024|1|C": {
+    "word": "whereas",
+    "display": "conj. 然而, 鉴于",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "whereas",
+    "sense": "conj. 然而, 鉴于"
+  },
+  "2024|1|D": {
+    "word": "until",
+    "display": "prep. 直到, 在...以前；conj. 直到...时, 在...以前",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "until",
+    "sense": "prep. 直到, 在...以前；conj. 直到...时, 在...以前"
+  },
+  "2024|2|A": {
+    "word": "Contrast",
+    "display": "n. 差别, 对比, 对照物；vt. 使对比",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "contrast",
+    "sense": "n. 差别, 对比, 对照物；vt. 使对比"
+  },
+  "2024|2|B": {
+    "word": "balance",
+    "display": "n. 平衡, 差额；vi. 平衡, 相等；vt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "balance",
+    "sense": "n. 平衡, 差额；vi. 平衡, 相等；vt. 称, 权衡, 比较, 使平衡, 结算, 抵消"
+  },
+  "2024|2|C": {
+    "word": "link",
+    "display": "n. 环, 连结物, 链接, 火把；vt. 连结, 联合, 挽住；vi. 连接起来",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "link",
+    "sense": "n. 环, 连结物, 链接, 火把；vt. 连结, 联合, 挽住；vi. 连接起来"
+  },
+  "2024|2|D": {
+    "word": "gap",
+    "display": "n. 缝隙, 缺口, 间断, 间距, 通用汇编程序；vt. 打开缺口, 造成缝隙；vi. 豁开",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "gap",
+    "sense": "n. 缝隙, 缺口, 间断, 间距, 通用汇编程序；vt. 打开缺口, 造成缝隙；vi. 豁开"
+  },
+  "2024|3|A": {
+    "word": "Seeing",
+    "display": "see（原形）：vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意；vi. 看, 观看, 注意, 知道, 考虑；n. 主教的职位",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "see",
+    "sense": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意；vi. 看, 观看, 注意, 知道, 考虑；n. 主教的职位"
+  },
+  "2024|3|B": {
+    "word": "pleasing",
+    "display": "please（原形）：adv. 请；vt. 使高兴, 合...的心意, 取悦",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "please",
+    "sense": "adv. 请；vt. 使高兴, 合...的心意, 取悦"
+  },
+  "2024|3|C": {
+    "word": "judging",
+    "display": "judge（原形）：n. 法官, 裁判员, 审判官, 鉴定人；vt. 审理, 鉴定, 判断, 判决, 裁定；vi. 下判断, 作评价",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "judge",
+    "sense": "n. 法官, 裁判员, 审判官, 鉴定人；vt. 审理, 鉴定, 判断, 判决, 裁定；vi. 下判断, 作评价"
+  },
+  "2024|3|D": {
+    "word": "teaching",
+    "display": "n. 教学, 学说, 教导",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "teaching",
+    "sense": "n. 教学, 学说, 教导"
+  },
+  "2024|4|A": {
+    "word": "Misguided",
+    "display": "a. 被误导的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "misguided",
+    "sense": "a. 被误导的"
+  },
+  "2024|4|B": {
+    "word": "surprised",
+    "display": "a. 感到惊讶的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "surprised",
+    "sense": "a. 感到惊讶的"
+  },
+  "2024|4|C": {
+    "word": "spoiled",
+    "display": "spoil（原形）：n. 战利品, 赃物, 奖品, 变质, 次品；vt. 损坏, 破坏, 溺爱",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "spoil",
+    "sense": "n. 战利品, 赃物, 奖品, 变质, 次品；vt. 损坏, 破坏, 溺爱"
+  },
+  "2024|4|D": {
+    "word": "disconnected",
+    "display": "a. 分离的, 不连贯的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "disconnected",
+    "sense": "a. 分离的, 不连贯的"
+  },
+  "2024|5|A": {
+    "word": "contribute to",
+    "display": "有助于",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "contribute",
+    "sense": "有助于"
+  },
+  "2024|5|B": {
+    "word": "rely on",
+    "display": "依赖, 依靠",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "rely on",
+    "sense": "依赖, 依靠"
+  },
+  "2024|5|C": {
+    "word": "interfere with",
+    "display": "干涉,干扰,妨碍",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "interfere with",
+    "sense": "干涉,干扰,妨碍"
+  },
+  "2024|5|D": {
+    "word": "go against",
+    "display": "反对, 违反, 不利于",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "go against",
+    "sense": "反对, 违反, 不利于"
+  },
+  "2024|6|A": {
+    "word": "in fact",
+    "display": "事实上\n[法] 事实上",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "in fact",
+    "sense": "事实上\n[法] 事实上"
+  },
+  "2024|6|B": {
+    "word": "of course",
+    "display": "当然",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "of course",
+    "sense": "当然"
+  },
+  "2024|6|C": {
+    "word": "for example",
+    "display": "例如",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "for example",
+    "sense": "例如"
+  },
+  "2024|6|D": {
+    "word": "on average",
+    "display": "平均起来",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "on average",
+    "sense": "平均起来"
+  },
+  "2024|7|A": {
+    "word": "cutting back",
+    "display": "修剪, 削减, 急转向, 倒叙",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "cut back",
+    "sense": "修剪, 削减, 急转向, 倒叙"
+  },
+  "2024|7|B": {
+    "word": "missing out",
+    "display": "错过",
+    "source": "build/skel/special-2024.txt",
+    "at": "special-2024-cloze|0:7.cn",
+    "sense": "错过",
+    "kind": "已有真题译文抽取"
+  },
+  "2024|7|C": {
+    "word": "breaking in",
+    "display": "训练, 使经使用逐渐合用, 闯入, 打断",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "break in",
+    "sense": "训练, 使经使用逐渐合用, 闯入, 打断"
+  },
+  "2024|7|D": {
+    "word": "looking down",
+    "display": "暂无",
+    "source": null,
+    "lookup": "look down on（本题完整搭配，无许可本地词条；不以look down字面义误代）",
+    "sense": "暂无"
+  },
+  "2024|8|A": {
+    "word": "shorten",
+    "display": "vt. 弄短, 缩短, 减少；vi. 缩小, 变短",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "shorten",
+    "sense": "vt. 弄短, 缩短, 减少；vi. 缩小, 变短"
+  },
+  "2024|8|B": {
+    "word": "trigger",
+    "display": "n. 触发器, 扳机；vt. 触发, 发射, 引起；vi. 松开扳柄",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "trigger",
+    "sense": "n. 触发器, 扳机；vt. 触发, 发射, 引起；vi. 松开扳柄"
+  },
+  "2024|8|C": {
+    "word": "follow",
+    "display": "vt. 跟随, 沿行, 遵循, 追求；vi. 跟随, 接着；n. 跟随, 追随",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "follow",
+    "sense": "vt. 跟随, 沿行, 遵循, 追求；vi. 跟随, 接着；n. 跟随, 追随"
+  },
+  "2024|8|D": {
+    "word": "Interrupt",
+    "display": "vt. 中断, 妨碍, 插嘴；vi. 打断",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "interrupt",
+    "sense": "vt. 中断, 妨碍, 插嘴；vi. 打断"
+  },
+  "2024|9|A": {
+    "word": "assess",
+    "display": "vt. 估定, 对...征税, 评定",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "assess",
+    "sense": "vt. 估定, 对...征税, 评定"
+  },
+  "2024|9|B": {
+    "word": "interpret",
+    "display": "vt. 解释, 演出, 翻译, 理解；vi. 翻译, 解释",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "interpret",
+    "sense": "vt. 解释, 演出, 翻译, 理解；vi. 翻译, 解释"
+  },
+  "2024|9|C": {
+    "word": "provide",
+    "display": "vt. 提供, 供应, 规定, 预备；vi. 作准备, 抚养, 规定",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "provide",
+    "sense": "vt. 提供, 供应, 规定, 预备；vi. 作准备, 抚养, 规定"
+  },
+  "2024|9|D": {
+    "word": "regain",
+    "display": "vt. 取回, 恢复, 重回, 复得",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "regain",
+    "sense": "vt. 取回, 恢复, 重回, 复得"
+  },
+  "2024|10|A": {
+    "word": "at first",
+    "display": "起先",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "at first",
+    "sense": "起先"
+  },
+  "2024|10|B": {
+    "word": "in turn",
+    "display": "依次, 轮流",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "in turn",
+    "sense": "依次, 轮流"
+  },
+  "2024|10|C": {
+    "word": "on time",
+    "display": "准时；[法] 准时, 按时, 按时付款",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "on time",
+    "sense": "准时；[法] 准时, 按时, 按时付款"
+  },
+  "2024|10|D": {
+    "word": "by chance",
+    "display": "偶然, 也许",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "by chance",
+    "sense": "偶然, 也许"
+  },
+  "2024|11|A": {
+    "word": "far-sighted",
+    "display": "a. 有远见的, 远视的, 慎重的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "far-sighted",
+    "sense": "a. 有远见的, 远视的, 慎重的"
+  },
+  "2024|11|B": {
+    "word": "strong-willed",
+    "display": "a. 意志坚强的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "strong-willed",
+    "sense": "a. 意志坚强的"
+  },
+  "2024|11|C": {
+    "word": "kind-hearted",
+    "display": "a. 好心肠的, 好心的, 善心的, 仁慈的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "kind-hearted",
+    "sense": "a. 好心肠的, 好心的, 善心的, 仁慈的"
+  },
+  "2024|11|D": {
+    "word": "like-minded",
+    "display": "a. 同心的, 同志的, 志趣相投的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "like-minded",
+    "sense": "a. 同心的, 同志的, 志趣相投的"
+  },
+  "2024|12|A": {
+    "word": "try",
+    "display": "v. / n. 尝试；努力",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "try",
+    "sense": "v. / n. 尝试；努力"
+  },
+  "2024|12|B": {
+    "word": "promote",
+    "display": "宣传",
+    "source": "build/data/kdict.json",
+    "lookup": "promote.t[0]",
+    "sense": "宣传"
+  },
+  "2024|12|C": {
+    "word": "watch",
+    "display": "n. 观察, 手表, 看守, 守护, 监视, 值班人；vt. 看, 注视, 照顾, 看守, 守护, 监视；vi. 观看, 注视, 守侯",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "watch",
+    "sense": "n. 观察, 手表, 看守, 守护, 监视, 值班人；vt. 看, 注视, 照顾, 看守, 守护, 监视；vi. 观看, 注视, 守侯"
+  },
+  "2024|12|D": {
+    "word": "Describe",
+    "display": "vt. 描述, 描绘, 画",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "describe",
+    "sense": "vt. 描述, 描绘, 画"
+  },
+  "2024|13|A": {
+    "word": "test",
+    "display": "n. 测试, 试验, 化验, 检验, 考验, 甲壳；vt. 测试, 试验, 化验；vi. 接受测验, 进行测试",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "test",
+    "sense": "n. 测试, 试验, 化验, 检验, 考验, 甲壳；vt. 测试, 试验, 化验；vi. 接受测验, 进行测试"
+  },
+  "2024|13|B": {
+    "word": "share",
+    "display": "n. 部分, 参与, 一份, 参股, 份额；vt. 均分, 分担, 分享, 分配, 共有；vi. 分享",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "share",
+    "sense": "n. 部分, 参与, 一份, 参股, 份额；vt. 均分, 分担, 分享, 分配, 共有；vi. 分享"
+  },
+  "2024|13|C": {
+    "word": "accept",
+    "display": "vt. 接受, 承认, 同意, 相信, 赞成, 承担, 承兑, 采纳, 接纳, 容忍；vi. 同意",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "accept",
+    "sense": "vt. 接受, 承认, 同意, 相信, 赞成, 承担, 承兑, 采纳, 接纳, 容忍；vi. 同意"
+  },
+  "2024|13|D": {
+    "word": "Revise",
+    "display": "n. 校订, 修正, 改样；vt. 校订, 修正, 校正",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "revise",
+    "sense": "n. 校订, 修正, 改样；vt. 校订, 修正, 校正"
+  },
+  "2024|14|A": {
+    "word": "already",
+    "display": "adv. 已经, 早已",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "already",
+    "sense": "adv. 已经, 早已"
+  },
+  "2024|14|B": {
+    "word": "thus",
+    "display": "adv. 如此, 因此, 到如此程度",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "thus",
+    "sense": "adv. 如此, 因此, 到如此程度"
+  },
+  "2024|14|C": {
+    "word": "also",
+    "display": "adv. 也, 并且, 同样地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "also",
+    "sense": "adv. 也, 并且, 同样地"
+  },
+  "2024|14|D": {
+    "word": "Only",
+    "display": "adv. / adj. 仅仅；只有；唯一的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "only",
+    "sense": "adv. / adj. 仅仅；只有；唯一的"
+  },
+  "2024|15|A": {
+    "word": "visit",
+    "display": "n. 拜访, 访问, 游览, 视察；vt. 拜访, 访问, 参观, 视察, 降临",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "visit",
+    "sense": "n. 拜访, 访问, 游览, 视察；vt. 拜访, 访问, 参观, 视察, 降临"
+  },
+  "2024|15|B": {
+    "word": "order",
+    "display": "n. 次序, 规则, 命令；vi. 命令, 定货；vt. 整理, 命令, 定购；n. 顺序, 阶数",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "order",
+    "sense": "n. 次序, 规则, 命令；vi. 命令, 定货；vt. 整理, 命令, 定购；n. 顺序, 阶数"
+  },
+  "2024|15|C": {
+    "word": "space",
+    "display": "n. 位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅；vt. 隔开, 分隔",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "space",
+    "sense": "n. 位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅；vt. 隔开, 分隔"
+  },
+  "2024|15|D": {
+    "word": "boundary",
+    "display": "n. 边界, 分界线",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "boundary",
+    "sense": "n. 边界, 分界线"
+  },
+  "2024|16|A": {
+    "word": "fatigue",
+    "display": "n. 疲乏, 疲劳；vt. 使疲劳, 使心智衰弱",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "fatigue",
+    "sense": "n. 疲乏, 疲劳；vt. 使疲劳, 使心智衰弱"
+  },
+  "2024|16|B": {
+    "word": "criticism",
+    "display": "n. 批评, 评论, 非难",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "criticism",
+    "sense": "n. 批评, 评论, 非难"
+  },
+  "2024|16|C": {
+    "word": "injustice",
+    "display": "n. 不公平, 非正义的行为",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "injustice",
+    "sense": "n. 不公平, 非正义的行为"
+  },
+  "2024|16|D": {
+    "word": "dilemma",
+    "display": "n. 困境, (进退两难的)窘境",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "dilemma",
+    "sense": "n. 困境, (进退两难的)窘境"
+  },
+  "2024|17|A": {
+    "word": "sources",
+    "display": "source（原形）：n. 来源, 水源, 根源, 原始资料, 源",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "source",
+    "sense": "n. 来源, 水源, 根源, 原始资料, 源"
+  },
+  "2024|17|B": {
+    "word": "standards",
+    "display": "standard（原形）：n. 标准, 规格, 旗, 军旗, 本位；a. 标准的, 合规格的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "standard",
+    "sense": "n. 标准, 规格, 旗, 军旗, 本位；a. 标准的, 合规格的"
+  },
+  "2024|17|C": {
+    "word": "signs",
+    "display": "sign（原形）：n. 符号, 招牌, 征兆, 正负号, 手势；vt. 签名, 打手势表达；vi. 签名",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "sign",
+    "sense": "n. 符号, 招牌, 征兆, 正负号, 手势；vt. 签名, 打手势表达；vi. 签名"
+  },
+  "2024|17|D": {
+    "word": "Scores",
+    "display": "score（原形）：n. 得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量；vt. 刻划, 划线, 获得, 评价, 把...记下；vi. 刻痕, 记分, 得分",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "score",
+    "sense": "n. 得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量；vt. 刻划, 划线, 获得, 评价, 把...记下；vi. 刻痕, 记分, 得分"
+  },
+  "2024|18|A": {
+    "word": "take over",
+    "display": "接收, 接管\n[法] 接管, 接受, 让受",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "take over",
+    "sense": "接收, 接管\n[法] 接管, 接受, 让受"
+  },
+  "2024|18|B": {
+    "word": "wipe off",
+    "display": "擦去, 洗刷(耻辱等)\n[法] 审核, 核对",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "wipe off",
+    "sense": "擦去, 洗刷(耻辱等)\n[法] 审核, 核对"
+  },
+  "2024|18|C": {
+    "word": "add up",
+    "display": "合计",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "add up",
+    "sense": "合计"
+  },
+  "2024|18|D": {
+    "word": "mark out",
+    "display": "划出",
+    "source": "build/skel/special-2024.txt",
+    "at": "special-2024-cloze|0:19.cn",
+    "sense": "划出",
+    "kind": "已有真题译文抽取"
+  },
+  "2024|19|A": {
+    "word": "ungrateful",
+    "display": "a. 忘恩负义的, 使人不愉快的, 徒劳的, 讨厌的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "ungrateful",
+    "sense": "a. 忘恩负义的, 使人不愉快的, 徒劳的, 讨厌的"
+  },
+  "2024|19|B": {
+    "word": "unavailable",
+    "display": "a. 得不到的, 不能利用的, 无用的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unavailable",
+    "sense": "a. 得不到的, 不能利用的, 无用的"
+  },
+  "2024|19|C": {
+    "word": "responsible",
+    "display": "a. 有责任的, 负责的, 责任重大的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "responsible",
+    "sense": "a. 有责任的, 负责的, 责任重大的"
+  },
+  "2024|19|D": {
+    "word": "regretful",
+    "display": "a. 惋惜的, 遗憾的, 抱歉的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "regretful",
+    "sense": "a. 惋惜的, 遗憾的, 抱歉的"
+  },
+  "2024|20|A": {
+    "word": "react",
+    "display": "vi. 起反应, 起作用, 反攻",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "react",
+    "sense": "vi. 起反应, 起作用, 反攻"
+  },
+  "2024|20|B": {
+    "word": "repeat",
+    "display": "n. 重复, 反复；vt. 重做, 重复, 复述, 使再现, 复制；vi. 重复",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "repeat",
+    "sense": "n. 重复, 反复；vt. 重做, 重复, 复述, 使再现, 复制；vi. 重复"
+  },
+  "2024|20|C": {
+    "word": "return",
+    "display": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书；a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的；vi. 返回, 归还, 回来；vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "return",
+    "sense": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书；a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的；vi. 返回, 归还, 回来；vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回"
+  },
+  "2024|20|D": {
+    "word": "rest",
+    "display": "n. 休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分；vi. 休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "rest",
+    "sense": "n. 休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分；vi. 休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖"
+  },
+  "2025|1|A": {
+    "word": "illusion",
+    "display": "n. 幻影, 错觉, 幻想",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "illusion",
+    "sense": "n. 幻影, 错觉, 幻想"
+  },
+  "2025|1|B": {
+    "word": "discussion",
+    "display": "n. 讨论",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "discussion",
+    "sense": "n. 讨论"
+  },
+  "2025|1|C": {
+    "word": "tradition",
+    "display": "n. 传说, 传统, 交付",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "tradition",
+    "sense": "n. 传说, 传统, 交付"
+  },
+  "2025|1|D": {
+    "word": "question",
+    "display": "n. 问题, 询问；v. 询问, 审问, 怀疑",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "question",
+    "sense": "n. 问题, 询问；v. 询问, 审问, 怀疑"
+  },
+  "2025|2|A": {
+    "word": "reluctance",
+    "display": "n. 不情愿, 勉强",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "reluctance",
+    "sense": "n. 不情愿, 勉强"
+  },
+  "2025|2|B": {
+    "word": "ambition",
+    "display": "n. 野心, 志向",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "ambition",
+    "sense": "n. 野心, 志向"
+  },
+  "2025|2|C": {
+    "word": "tendency",
+    "display": "n. 趋向, 倾向",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "tendency",
+    "sense": "n. 趋向, 倾向"
+  },
+  "2025|2|D": {
+    "word": "enthusiasm",
+    "display": "n. 巨大的热情, 热心",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "enthusiasm",
+    "sense": "n. 巨大的热情, 热心"
+  },
+  "2025|3|A": {
+    "word": "attention",
+    "display": "n. 注意, 注意力",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "attention",
+    "sense": "n. 注意, 注意力"
+  },
+  "2025|3|B": {
+    "word": "talent",
+    "display": "n. 天才, 才能, 有才干的人, 天资",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "talent",
+    "sense": "n. 天才, 才能, 有才干的人, 天资"
+  },
+  "2025|3|C": {
+    "word": "courage",
+    "display": "n. 勇气, 胆量",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "courage",
+    "sense": "n. 勇气, 胆量"
+  },
+  "2025|3|D": {
+    "word": "patience",
+    "display": "n. 耐性, 忍耐",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "patience",
+    "sense": "n. 耐性, 忍耐"
+  },
+  "2025|4|A": {
+    "word": "At any time",
+    "display": "任何时候",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "at any time",
+    "sense": "任何时候"
+  },
+  "2025|4|B": {
+    "word": "In other words",
+    "display": "换句话说",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "in other words",
+    "sense": "换句话说"
+  },
+  "2025|4|C": {
+    "word": "By all means",
+    "display": "尽一切办法, 一定",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "by all means",
+    "sense": "尽一切办法, 一定"
+  },
+  "2025|4|D": {
+    "word": "On the contrary",
+    "display": "正相反\n[法] 正相反, 相反地",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "on the contrary",
+    "sense": "正相反\n[法] 正相反, 相反地"
+  },
+  "2025|5|A": {
+    "word": "unrealistic",
+    "display": "a. 不切实际的, 幻想的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unrealistic",
+    "sense": "a. 不切实际的, 幻想的"
+  },
+  "2025|5|B": {
+    "word": "deceptive",
+    "display": "a. 迷惑的, 虚伪的, 欺诈的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "deceptive",
+    "sense": "a. 迷惑的, 虚伪的, 欺诈的"
+  },
+  "2025|5|C": {
+    "word": "tiresome",
+    "display": "a. 累人的, 烦人的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "tiresome",
+    "sense": "a. 累人的, 烦人的"
+  },
+  "2025|5|D": {
+    "word": "uncomfortable",
+    "display": "a. 不舒服的, 不自在的, 不安的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "uncomfortable",
+    "sense": "a. 不舒服的, 不自在的, 不安的"
+  },
+  "2025|6|A": {
+    "word": "doubts",
+    "display": "n. 怀疑, 疑虑( doubt的名词复数 ); 未确定；v. 怀疑, 疑惑( doubt的第三人称单数 )",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "doubts",
+    "sense": "n. 怀疑, 疑虑( doubt的名词复数 ); 未确定；v. 怀疑, 疑惑( doubt的第三人称单数 )"
+  },
+  "2025|6|B": {
+    "word": "concerns",
+    "display": "n. 关心, 忧虑",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "concern",
+    "sense": "n. 关心, 忧虑"
+  },
+  "2025|6|C": {
+    "word": "suggestions",
+    "display": "suggestion（原形）：n. 提议, 意见",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "suggestion",
+    "sense": "n. 提议, 意见"
+  },
+  "2025|6|D": {
+    "word": "secrets",
+    "display": "secret（原形）：n. 秘密, 机密, 秘诀, 秘方；a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "secret",
+    "sense": "n. 秘密, 机密, 秘诀, 秘方；a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的"
+  },
+  "2025|7|A": {
+    "word": "Once",
+    "display": "adv. 一次, 曾经, 一旦；conj. 一旦, 一经；n. 一次；a. 从前的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "once",
+    "sense": "adv. 一次, 曾经, 一旦；conj. 一旦, 一经；n. 一次；a. 从前的"
+  },
+  "2025|7|B": {
+    "word": "Unless",
+    "display": "conj. 除非；prep. 除...之外",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unless",
+    "sense": "conj. 除非；prep. 除...之外"
+  },
+  "2025|7|C": {
+    "word": "Although",
+    "display": "conj. 虽然, 尽管",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "although",
+    "sense": "conj. 虽然, 尽管"
+  },
+  "2025|7|D": {
+    "word": "Before",
+    "display": "prep. 在...之前；conj. 在...之前；adv. 在前",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "before",
+    "sense": "prep. 在...之前；conj. 在...之前；adv. 在前"
+  },
+  "2025|8|A": {
+    "word": "theory",
+    "display": "n. 理论, 学说, 原理, 意见, 推测",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "theory",
+    "sense": "n. 理论, 学说, 原理, 意见, 推测"
+  },
+  "2025|8|B": {
+    "word": "choice",
+    "display": "n. 选择, 精选品, 选择权；a. 精选的, 挑三拣四的, 上等的；该命令用于提示用户作出选择, 决定批处理文件的流程",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "choice",
+    "sense": "n. 选择, 精选品, 选择权；a. 精选的, 挑三拣四的, 上等的；该命令用于提示用户作出选择, 决定批处理文件的流程"
+  },
+  "2025|8|C": {
+    "word": "factor",
+    "display": "n. 因素, 因数, 系数, 基因, 代理人",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "factor",
+    "sense": "n. 因素, 因数, 系数, 基因, 代理人"
+  },
+  "2025|8|D": {
+    "word": "context",
+    "display": "n. 上下文, 背景, 来龙去脉；n. 上下文",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "context",
+    "sense": "n. 上下文, 背景, 来龙去脉；n. 上下文"
+  },
+  "2025|9|A": {
+    "word": "overpraising",
+    "display": "overpraise（原形）：vt. 过度夸奖, 过奖；n. 过奖",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "overpraise",
+    "sense": "vt. 过度夸奖, 过奖；n. 过奖"
+  },
+  "2025|9|B": {
+    "word": "outperforming",
+    "display": "outperform（原形）：vt. 胜过；做得比……好",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "outperform",
+    "sense": "vt. 胜过；做得比……好"
+  },
+  "2025|9|C": {
+    "word": "reassessing",
+    "display": "reassess（原形）：vt. 再评价, 再摊派, 再课税",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "reassess",
+    "sense": "vt. 再评价, 再摊派, 再课税"
+  },
+  "2025|9|D": {
+    "word": "inconveniencing",
+    "display": "inconvenience（原形）：n. 不便, 困难；vt. 使感不便, 使感困难",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "inconvenience",
+    "sense": "n. 不便, 困难；vt. 使感不便, 使感困难"
+  },
+  "2025|10|A": {
+    "word": "reach out",
+    "display": "开口求助",
+    "source": "build/skel/special-2025.txt",
+    "at": "special-2025-cloze|0:7.cn",
+    "sense": "开口求助",
+    "kind": "已有真题译文抽取"
+  },
+  "2025|10|B": {
+    "word": "settle down",
+    "display": "使舒服地坐下, 定居, 平静下来, 专心于",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "settle down",
+    "sense": "使舒服地坐下, 定居, 平静下来, 专心于"
+  },
+  "2025|10|C": {
+    "word": "turn over",
+    "display": "打翻, 营业额达到, 周转, 移交给, 翻阅, 反复考虑, 翻身\n[法] 移交, 交付, 让渡",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "turn over",
+    "sense": "打翻, 营业额达到, 周转, 移交给, 翻阅, 反复考虑, 翻身\n[法] 移交, 交付, 让渡"
+  },
+  "2025|10|D": {
+    "word": "look back",
+    "display": "回顾, 三心二意\n[经] 银行对过去贷款的审查",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "look back",
+    "sense": "回顾, 三心二意\n[经] 银行对过去贷款的审查"
+  },
+  "2025|11|A": {
+    "word": "declining",
+    "display": "拒绝， 谢绝",
+    "source": "build/data/kdict.json",
+    "lookup": "decline.t[1]",
+    "sense": "拒绝， 谢绝"
+  },
+  "2025|11|B": {
+    "word": "considering",
+    "display": "consider（原形）：v. 考虑, 思考, 认为",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "consider",
+    "sense": "v. 考虑, 思考, 认为"
+  },
+  "2025|11|C": {
+    "word": "criticising",
+    "display": "criticise（原形）：v. 批评, 吹毛求疵, 非难",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "criticise",
+    "sense": "v. 批评, 吹毛求疵, 非难"
+  },
+  "2025|11|D": {
+    "word": "evaluating",
+    "display": "evaluate（原形）：vt. 评估, 评价, 赋值",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "evaluate",
+    "sense": "vt. 评估, 评价, 赋值"
+  },
+  "2025|12|A": {
+    "word": "unnecessary",
+    "display": "a. 不必要的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "unnecessary",
+    "sense": "a. 不必要的"
+  },
+  "2025|12|B": {
+    "word": "negative",
+    "display": "adj. / n. 负面的；否定的；消极的；负数",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "negative",
+    "sense": "adj. / n. 负面的；否定的；消极的；负数"
+  },
+  "2025|12|C": {
+    "word": "strange",
+    "display": "a. 奇怪的, 陌生的, 生疏的, 不熟悉的, 不可思议的, 外行的, 外地的, 异乡的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "strange",
+    "sense": "a. 奇怪的, 陌生的, 生疏的, 不熟悉的, 不可思议的, 外行的, 外地的, 异乡的"
+  },
+  "2025|12|D": {
+    "word": "impractical",
+    "display": "a. 不切实际的, 不能实行的, 不现实的, 不合情理的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "impractical",
+    "sense": "a. 不切实际的, 不能实行的, 不现实的, 不合情理的"
+  },
+  "2025|13|A": {
+    "word": "explain",
+    "display": "v. 解释, 说明",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "explain",
+    "sense": "v. 解释, 说明"
+  },
+  "2025|13|B": {
+    "word": "identify",
+    "display": "vt. 识别, 认为...等同于, 确定, 使参与；vi. 一致, 认同",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "identify",
+    "sense": "vt. 识别, 认为...等同于, 确定, 使参与；vi. 一致, 认同"
+  },
+  "2025|13|C": {
+    "word": "predict",
+    "display": "v. 预测；预言",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "predict",
+    "sense": "v. 预测；预言"
+  },
+  "2025|13|D": {
+    "word": "overcome",
+    "display": "vt. 战胜, 克服, 胜过；vi. 得胜",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "overcome",
+    "sense": "vt. 战胜, 克服, 胜过；vi. 得胜"
+  },
+  "2025|14|A": {
+    "word": "deny",
+    "display": "v. 否认；拒绝给予",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "deny",
+    "sense": "v. 否认；拒绝给予"
+  },
+  "2025|14|B": {
+    "word": "forget",
+    "display": "vt. 忘记, 忽略, 忘；vi. 忘记",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "forget",
+    "sense": "vt. 忘记, 忽略, 忘；vi. 忘记"
+  },
+  "2025|14|C": {
+    "word": "miss",
+    "display": "n. 失误, 避免, 失败, 小姐；vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念；vi. 失败, 击不中",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "miss",
+    "sense": "n. 失误, 避免, 失败, 小姐；vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念；vi. 失败, 击不中"
+  },
+  "2025|14|D": {
+    "word": "fear",
+    "display": "n. 恐怖, 害怕, 担心；v. 害怕, 恐惧, 为...担心, 敬畏",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "fear",
+    "sense": "n. 恐怖, 害怕, 担心；v. 害怕, 恐惧, 为...担心, 敬畏"
+  },
+  "2025|15|A": {
+    "word": "disguised",
+    "display": "disguise（原形）：n. 假面目, 假装；vt. 假装, 隐瞒",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "disguise",
+    "sense": "n. 假面目, 假装；vt. 假装, 隐瞒"
+  },
+  "2025|15|B": {
+    "word": "perceived",
+    "display": "v. 感觉( perceive的过去式和过去分词 ); 视为; 认为; 理解为",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "perceived",
+    "sense": "v. 感觉( perceive的过去式和过去分词 ); 视为; 认为; 理解为"
+  },
+  "2025|15|C": {
+    "word": "followed",
+    "display": "a. 跟随的；服从的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "followed",
+    "sense": "a. 跟随的；服从的"
+  },
+  "2025|15|D": {
+    "word": "introduced",
+    "display": "introduce（原形）：vt. 介绍, 引入, 采用, 输入",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "introduce",
+    "sense": "vt. 介绍, 引入, 采用, 输入"
+  },
+  "2025|16|A": {
+    "word": "recall",
+    "display": "n. 回忆, 召回, 撤消；vt. 回想, 回忆, 召回, 撤消, 使恢复",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "recall",
+    "sense": "n. 回忆, 召回, 撤消；vt. 回想, 回忆, 召回, 撤消, 使恢复"
+  },
+  "2025|16|B": {
+    "word": "classify",
+    "display": "vt. 分类, 归类, 分等",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "classify",
+    "sense": "vt. 分类, 归类, 分等"
+  },
+  "2025|16|C": {
+    "word": "analyse",
+    "display": "vt. 分析, 细察, 分解",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "analyse",
+    "sense": "vt. 分析, 细察, 分解"
+  },
+  "2025|16|D": {
+    "word": "compare",
+    "display": "vt. 比较, 比喻, 对照；vi. 相比；n. 比较",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "compare",
+    "sense": "vt. 比较, 比喻, 对照；vi. 相比；n. 比较"
+  },
+  "2025|17|A": {
+    "word": "brave",
+    "display": "a. 勇敢的, 美好的, 华丽的；n. 勇敢者；vt. 勇敢地面对",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "brave",
+    "sense": "a. 勇敢的, 美好的, 华丽的；n. 勇敢者；vt. 勇敢地面对"
+  },
+  "2025|17|B": {
+    "word": "disappointed",
+    "display": "a. 失望的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "disappointed",
+    "sense": "a. 失望的"
+  },
+  "2025|17|C": {
+    "word": "willing",
+    "display": "a. 乐意的, 自愿的, 甘愿的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "willing",
+    "sense": "a. 乐意的, 自愿的, 甘愿的"
+  },
+  "2025|17|D": {
+    "word": "hesitant",
+    "display": "a. 迟疑的, 踌躇的, 犹豫不定的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "hesitant",
+    "sense": "a. 迟疑的, 踌躇的, 犹豫不定的"
+  },
+  "2025|18|A": {
+    "word": "relaxing",
+    "display": "relax（原形）：vi. 放松, 松懈, 松弛, 变从容, 休息, 休养；vt. 使松弛, 缓和, 使松懈, 使休息",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "relax",
+    "sense": "vi. 放松, 松懈, 松弛, 变从容, 休息, 休养；vt. 使松弛, 缓和, 使松懈, 使休息"
+  },
+  "2025|18|B": {
+    "word": "surprising",
+    "display": "surprise（原形）：n. 惊奇, 奇袭, 诧异；vt. 使惊奇, 撞见, 奇袭",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "surprise",
+    "sense": "n. 惊奇, 奇袭, 诧异；vt. 使惊奇, 撞见, 奇袭"
+  },
+  "2025|18|C": {
+    "word": "rewarding",
+    "display": "有满足感",
+    "source": "build/skel/special-2025.txt",
+    "at": "special-2025-cloze|0:13.cn",
+    "sense": "有满足感",
+    "kind": "已有真题译文抽取"
+  },
+  "2025|18|D": {
+    "word": "demanding",
+    "display": "a. 要求高的, 费力的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "demanding",
+    "sense": "a. 要求高的, 费力的"
+  },
+  "2025|19|A": {
+    "word": "Thus",
+    "display": "adv. 如此, 因此, 到如此程度",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "thus",
+    "sense": "adv. 如此, 因此, 到如此程度"
+  },
+  "2025|19|B": {
+    "word": "Also",
+    "display": "adv. 也, 并且, 同样地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "also",
+    "sense": "adv. 也, 并且, 同样地"
+  },
+  "2025|19|C": {
+    "word": "Finally",
+    "display": "adv. 最后, 终于",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "finally",
+    "sense": "adv. 最后, 终于"
+  },
+  "2025|19|D": {
+    "word": "Instead",
+    "display": "adv. 作为替代, 反而",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "instead",
+    "sense": "adv. 作为替代, 反而"
+  },
+  "2025|20|A": {
+    "word": "polite",
+    "display": "a. 有礼貌的, 文雅的, 客气的, 有教养的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "polite",
+    "sense": "a. 有礼貌的, 文雅的, 客气的, 有教养的"
+  },
+  "2025|20|B": {
+    "word": "proud",
+    "display": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "proud",
+    "sense": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的"
+  },
+  "2025|20|C": {
+    "word": "busy",
+    "display": "a. 忙碌的, 热闹的, 没空的；vt. 使忙；vi. 忙碌",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "busy",
+    "sense": "a. 忙碌的, 热闹的, 没空的；vt. 使忙；vi. 忙碌"
+  },
+  "2025|20|D": {
+    "word": "lazy",
+    "display": "a. 懒惰的, 怠惰的, 缓慢的；vi. 懒散",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "lazy",
+    "sense": "a. 懒惰的, 怠惰的, 缓慢的；vi. 懒散"
+  },
+  "2026|1|A": {
+    "word": "afraid",
+    "display": "a. 害怕的, 恐怕的, 遗憾的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "afraid",
+    "sense": "a. 害怕的, 恐怕的, 遗憾的"
+  },
+  "2026|1|B": {
+    "word": "critical",
+    "display": "a. 批评的, 决定性的, 危险的, 临界的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "critical",
+    "sense": "a. 批评的, 决定性的, 危险的, 临界的"
+  },
+  "2026|1|C": {
+    "word": "proud",
+    "display": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "proud",
+    "sense": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的"
+  },
+  "2026|1|D": {
+    "word": "tolerant",
+    "display": "a. 宽容的, 容忍的, (对冷、热)能耐的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "tolerant",
+    "sense": "a. 宽容的, 容忍的, (对冷、热)能耐的"
+  },
+  "2026|2|A": {
+    "word": "risky",
+    "display": "a. 危险的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "risky",
+    "sense": "a. 危险的"
+  },
+  "2026|2|B": {
+    "word": "natural",
+    "display": "a. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "natural",
+    "sense": "a. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的"
+  },
+  "2026|2|C": {
+    "word": "admirable",
+    "display": "a. 可钦佩的, 极好的, 令人惊奇的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "admirable",
+    "sense": "a. 可钦佩的, 极好的, 令人惊奇的"
+  },
+  "2026|2|D": {
+    "word": "foolish",
+    "display": "a. 愚蠢的, 傻的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "foolish",
+    "sense": "a. 愚蠢的, 傻的"
+  },
+  "2026|3|A": {
+    "word": "whether",
+    "display": "conj. 是否, 不论；pron. 两个中的哪一个",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "whether",
+    "sense": "conj. 是否, 不论；pron. 两个中的哪一个"
+  },
+  "2026|3|B": {
+    "word": "where",
+    "display": "adv. 在哪里；pron. 哪里；n. 地点",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "where",
+    "sense": "adv. 在哪里；pron. 哪里；n. 地点"
+  },
+  "2026|3|C": {
+    "word": "why",
+    "display": "adv. 为什么；n. 原因, 理由",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "why",
+    "sense": "adv. 为什么；n. 原因, 理由"
+  },
+  "2026|3|D": {
+    "word": "how",
+    "display": "adv. 如何, 怎样, 多少, 多么；n. 方式",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "how",
+    "sense": "adv. 如何, 怎样, 多少, 多么；n. 方式"
+  },
+  "2026|4|A": {
+    "word": "citation",
+    "display": "n. 引用, 引证, 引用文",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "citation",
+    "sense": "n. 引用, 引证, 引用文"
+  },
+  "2026|4|B": {
+    "word": "imitation",
+    "display": "n. 模仿, 效法, 冒充, 赝品",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "imitation",
+    "sense": "n. 模仿, 效法, 冒充, 赝品"
+  },
+  "2026|4|C": {
+    "word": "perception",
+    "display": "n. 知觉, 感觉, 领悟力, 获取",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "perception",
+    "sense": "n. 知觉, 感觉, 领悟力, 获取"
+  },
+  "2026|4|D": {
+    "word": "introduction",
+    "display": "n. 介绍, 传入, 采用, 初步",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "introduction",
+    "sense": "n. 介绍, 传入, 采用, 初步"
+  },
+  "2026|5|A": {
+    "word": "poor",
+    "display": "a. 贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "poor",
+    "sense": "a. 贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的"
+  },
+  "2026|5|B": {
+    "word": "loyal",
+    "display": "a. 忠诚的, 忠实的, 忠贞的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "loyal",
+    "sense": "a. 忠诚的, 忠实的, 忠贞的"
+  },
+  "2026|5|C": {
+    "word": "creative",
+    "display": "a. 有创造力的, 创作的, 产生的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "creative",
+    "sense": "a. 有创造力的, 创作的, 产生的"
+  },
+  "2026|5|D": {
+    "word": "shy",
+    "display": "n. 惊跳, 惊避；a. 胆怯的, 畏缩的, 迟疑的, 羞怯的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "shy",
+    "sense": "n. 惊跳, 惊避；a. 胆怯的, 畏缩的, 迟疑的, 羞怯的"
+  },
+  "2026|6|A": {
+    "word": "sponsored",
+    "display": "sponsor（原形）：n. 保证人, 赞助者, 发起者, 倡议者, 教父；vt. 发起, 赞助, 倡议",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "sponsor",
+    "sense": "n. 保证人, 赞助者, 发起者, 倡议者, 教父；vt. 发起, 赞助, 倡议"
+  },
+  "2026|6|B": {
+    "word": "crowded",
+    "display": "crowd（原形）：n. 群众, 一伙人；vt. 拥挤, 挤满, 挤进",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "crowd",
+    "sense": "n. 群众, 一伙人；vt. 拥挤, 挤满, 挤进"
+  },
+  "2026|6|C": {
+    "word": "disputed",
+    "display": "dispute（原形）：n. 争论；v. 争论",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "dispute",
+    "sense": "n. 争论；v. 争论"
+  },
+  "2026|6|D": {
+    "word": "planned",
+    "display": "a. 计划了的, 预定的, 根据计划的, 有组织的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "planned",
+    "sense": "a. 计划了的, 预定的, 根据计划的, 有组织的"
+  },
+  "2026|7|A": {
+    "word": "method",
+    "display": "n. 方法, 办法, 条理, 秩序",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "method",
+    "sense": "n. 方法, 办法, 条理, 秩序"
+  },
+  "2026|7|B": {
+    "word": "term",
+    "display": "n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石；vt. 称, 呼",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "term",
+    "sense": "n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石；vt. 称, 呼"
+  },
+  "2026|7|C": {
+    "word": "design",
+    "display": "n. 设计, 图样, 方案, 企图；v. 设计, 计划",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "design",
+    "sense": "n. 设计, 图样, 方案, 企图；v. 设计, 计划"
+  },
+  "2026|7|D": {
+    "word": "goal",
+    "display": "n. 目标, 终点, 得分, 球门, 守门员；vi. 攻门, 射门得分",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "goal",
+    "sense": "n. 目标, 终点, 得分, 球门, 守门员；vi. 攻门, 射门得分"
+  },
+  "2026|8|A": {
+    "word": "evidence",
+    "display": "n. 根据, 证据, 迹象",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "evidence",
+    "sense": "n. 根据, 证据, 迹象"
+  },
+  "2026|8|B": {
+    "word": "theory",
+    "display": "n. 理论, 学说, 原理, 意见, 推测",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "theory",
+    "sense": "n. 理论, 学说, 原理, 意见, 推测"
+  },
+  "2026|8|C": {
+    "word": "condition",
+    "display": "n. 情况, 条件；vt. 使健康, 以...为条件, 决定, 使适应",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "condition",
+    "sense": "n. 情况, 条件；vt. 使健康, 以...为条件, 决定, 使适应"
+  },
+  "2026|8|D": {
+    "word": "reality",
+    "display": "n. 实在, 事实, 实体, 逼真",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "reality",
+    "sense": "n. 实在, 事实, 实体, 逼真"
+  },
+  "2026|9|A": {
+    "word": "complaints",
+    "display": "complaint（原形）：n. 诉苦, 抱怨, 控诉",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "complaint",
+    "sense": "n. 诉苦, 抱怨, 控诉"
+  },
+  "2026|9|B": {
+    "word": "choices",
+    "display": "n. 选择（choice的复数）",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "choices",
+    "sense": "n. 选择（choice的复数）"
+  },
+  "2026|9|C": {
+    "word": "mistakes",
+    "display": "mistake（原形）：n. 错误, 误会；vi. 犯错, 误认；vt. 误解, 弄错",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "mistake",
+    "sense": "n. 错误, 误会；vi. 犯错, 误认；vt. 误解, 弄错"
+  },
+  "2026|9|D": {
+    "word": "suggestions",
+    "display": "suggestion（原形）：n. 提议, 意见",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "suggestion",
+    "sense": "n. 提议, 意见"
+  },
+  "2026|10|A": {
+    "word": "Similarly",
+    "display": "adv. 相像地, 类似于",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "similarly",
+    "sense": "adv. 相像地, 类似于"
+  },
+  "2026|10|B": {
+    "word": "Relatively",
+    "display": "adv. 相对地, 比较地, 相当地, 相关地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "relatively",
+    "sense": "adv. 相对地, 比较地, 相当地, 相关地"
+  },
+  "2026|10|C": {
+    "word": "Accordingly",
+    "display": "adv. 相应地, 因此, 于是",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "accordingly",
+    "sense": "adv. 相应地, 因此, 于是"
+  },
+  "2026|10|D": {
+    "word": "Contrarily",
+    "display": "adv. 反之, 相反地, 反对地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "contrarily",
+    "sense": "adv. 反之, 相反地, 反对地"
+  },
+  "2026|11|A": {
+    "word": "opened",
+    "display": "v. 打开, 开启（open过去分词形式）",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "opened",
+    "sense": "v. 打开, 开启（open过去分词形式）"
+  },
+  "2026|11|B": {
+    "word": "changed",
+    "display": "change（原形）：n. 变化, 找回的零钱, 找头, 更换；vt. 改变, 更换, 兑换",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "change",
+    "sense": "n. 变化, 找回的零钱, 找头, 更换；vt. 改变, 更换, 兑换"
+  },
+  "2026|11|C": {
+    "word": "trained",
+    "display": "a. 训练过的, 受过培训的；培训",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "trained",
+    "sense": "a. 训练过的, 受过培训的；培训"
+  },
+  "2026|11|D": {
+    "word": "cleared",
+    "display": "v. 使干净；清除（clear的过去分词）",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "cleared",
+    "sense": "v. 使干净；清除（clear的过去分词）"
+  },
+  "2026|12|A": {
+    "word": "quotations",
+    "display": "quotation（原形）：n. 引用语, 语录, 牌价, 报价",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "quotation",
+    "sense": "n. 引用语, 语录, 牌价, 报价"
+  },
+  "2026|12|B": {
+    "word": "experiments",
+    "display": "n. 实验( experiment的名词复数 ); 试验; 尝试; 实践",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "experiments",
+    "sense": "n. 实验( experiment的名词复数 ); 试验; 尝试; 实践"
+  },
+  "2026|12|C": {
+    "word": "questions",
+    "display": "question（原形）：n. 问题, 询问；v. 询问, 审问, 怀疑",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "question",
+    "sense": "n. 问题, 询问；v. 询问, 审问, 怀疑"
+  },
+  "2026|12|D": {
+    "word": "examples",
+    "display": "example（原形）：n. 例子, 样本, 实例",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "example",
+    "sense": "n. 例子, 样本, 实例"
+  },
+  "2026|13|A": {
+    "word": "process",
+    "display": "n. 程序, 进行, 过程；vt. 加工, 使...接受处理, 对...处置, 对...起诉；a. 经加工的, 有特殊光效的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "process",
+    "sense": "n. 程序, 进行, 过程；vt. 加工, 使...接受处理, 对...处置, 对...起诉；a. 经加工的, 有特殊光效的"
+  },
+  "2026|13|B": {
+    "word": "objective",
+    "display": "adj. / n. 客观的；目标；目的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "objective",
+    "sense": "adj. / n. 客观的；目标；目的"
+  },
+  "2026|13|C": {
+    "word": "outcome",
+    "display": "n. 结果, 出口",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "outcome",
+    "sense": "n. 结果, 出口"
+  },
+  "2026|13|D": {
+    "word": "background",
+    "display": "n. 背景, 背景资料",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "background",
+    "sense": "n. 背景, 背景资料"
+  },
+  "2026|14|A": {
+    "word": "blaming",
+    "display": "blame（原形）：n. 过失, 责备；vt. 责备, 归咎于",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "blame",
+    "sense": "n. 过失, 责备；vt. 责备, 归咎于"
+  },
+  "2026|14|B": {
+    "word": "warning",
+    "display": "warn（原形）：vt. 警告, 提醒, 通知；vi. 发出警告",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "warn",
+    "sense": "vt. 警告, 提醒, 通知；vi. 发出警告"
+  },
+  "2026|14|C": {
+    "word": "teaching",
+    "display": "n. 教学, 学说, 教导",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "teaching",
+    "sense": "n. 教学, 学说, 教导"
+  },
+  "2026|14|D": {
+    "word": "asking",
+    "display": "vi. 问, 要求\nvt. 问, 要求, 邀请, 需要",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "ask",
+    "sense": "vi. 问, 要求\nvt. 问, 要求, 邀请, 需要"
+  },
+  "2026|15|A": {
+    "word": "arguing about",
+    "display": "争论…,辩论…",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "argue about",
+    "sense": "争论…,辩论…"
+  },
+  "2026|15|B": {
+    "word": "accounting for",
+    "display": "对…负有责任；对…做出解释；说明……的原因；导致；（比例）占",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "account for",
+    "sense": "对…负有责任；对…做出解释；说明……的原因；导致；（比例）占"
+  },
+  "2026|15|C": {
+    "word": "engaging in",
+    "display": "使从事于, 参加",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "engage in",
+    "sense": "使从事于, 参加"
+  },
+  "2026|15|D": {
+    "word": "interfering with",
+    "display": "干涉,干扰,妨碍",
+    "source": "PHD / ECDICT短语库",
+    "lookup": "interfere with",
+    "sense": "干涉,干扰,妨碍"
+  },
+  "2026|16|A": {
+    "word": "happened",
+    "display": "v. 发生（happen的过去式, 过去分词）",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "happened",
+    "sense": "v. 发生（happen的过去式, 过去分词）"
+  },
+  "2026|16|B": {
+    "word": "continued",
+    "display": "continue（原形）：vi. 继续, 延续, 延长；vt. 使继续, 使延长",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "continue",
+    "sense": "vi. 继续, 延续, 延长；vt. 使继续, 使延长"
+  },
+  "2026|16|C": {
+    "word": "returned",
+    "display": "vi. 返回, 归还, 回来",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "return",
+    "sense": "vi. 返回, 归还, 回来"
+  },
+  "2026|16|D": {
+    "word": "disappeared",
+    "display": "disappear（原形）：vi. 消失, 不见",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "disappear",
+    "sense": "vi. 消失, 不见"
+  },
+  "2026|17|A": {
+    "word": "casual",
+    "display": "a. 偶然的, 不经意的, 便装的；n. 临时工, 待命士兵",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "casual",
+    "sense": "a. 偶然的, 不经意的, 便装的；n. 临时工, 待命士兵"
+  },
+  "2026|17|B": {
+    "word": "obvious",
+    "display": "a. 明显的, 明白的, 显然的, 平淡无奇的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "obvious",
+    "sense": "a. 明显的, 明白的, 显然的, 平淡无奇的"
+  },
+  "2026|17|C": {
+    "word": "familiar",
+    "display": "a. 熟悉的, 常见的, 亲密的；n. 熟友, 常客",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "familiar",
+    "sense": "a. 熟悉的, 常见的, 亲密的；n. 熟友, 常客"
+  },
+  "2026|17|D": {
+    "word": "fundamental",
+    "display": "adj. / n. 根本的；基本的；基本原则",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "fundamental",
+    "sense": "adj. / n. 根本的；基本的；基本原则"
+  },
+  "2026|18|A": {
+    "word": "reward",
+    "display": "n. 报酬, 酬谢, 赏金；vt. 奖赏, 酬谢, 给...应有报应",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "reward",
+    "sense": "n. 报酬, 酬谢, 赏金；vt. 奖赏, 酬谢, 给...应有报应"
+  },
+  "2026|18|B": {
+    "word": "feedback",
+    "display": "n. 反馈, 反应",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "feedback",
+    "sense": "n. 反馈, 反应"
+  },
+  "2026|18|C": {
+    "word": "trust",
+    "display": "n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯；a. 信托的, 托拉斯的；vt. 信赖, 信任, 相信, 盼望, 赊卖给；vi. 相信, 信赖, 依靠",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "trust",
+    "sense": "n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯；a. 信托的, 托拉斯的；vt. 信赖, 信任, 相信, 盼望, 赊卖给；vi. 相信, 信赖, 依靠"
+  },
+  "2026|18|D": {
+    "word": "proof",
+    "display": "n. 证据, 证明, 试验, 检验, 考验；a. 不能透入的, 证明用的, 防...的, 耐...的；vt. 检验, 试验, 校对, 使不被穿透",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "proof",
+    "sense": "n. 证据, 证明, 试验, 检验, 考验；a. 不能透入的, 证明用的, 防...的, 耐...的；vt. 检验, 试验, 校对, 使不被穿透"
+  },
+  "2026|19|A": {
+    "word": "innovate",
+    "display": "vi. 改革, 创新",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "innovate",
+    "sense": "vi. 改革, 创新"
+  },
+  "2026|19|B": {
+    "word": "concentrate",
+    "display": "n. 浓缩, 精选；v. 集中, 专心",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "concentrate",
+    "sense": "n. 浓缩, 精选；v. 集中, 专心"
+  },
+  "2026|19|C": {
+    "word": "improve",
+    "display": "vt. 改良, 提高...的价值, 改善, 利用；vi. 变得更好, 增加",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "improve",
+    "sense": "vt. 改良, 提高...的价值, 改善, 利用；vi. 变得更好, 增加"
+  },
+  "2026|19|D": {
+    "word": "relax",
+    "display": "vi. 放松, 松懈, 松弛, 变从容, 休息, 休养；vt. 使松弛, 缓和, 使松懈, 使休息",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "relax",
+    "sense": "vi. 放松, 松懈, 松弛, 变从容, 休息, 休养；vt. 使松弛, 缓和, 使松懈, 使休息"
+  },
+  "2026|20|A": {
+    "word": "strange",
+    "display": "a. 奇怪的, 陌生的, 生疏的, 不熟悉的, 不可思议的, 外行的, 外地的, 异乡的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "strange",
+    "sense": "a. 奇怪的, 陌生的, 生疏的, 不熟悉的, 不可思议的, 外行的, 外地的, 异乡的"
+  },
+  "2026|20|B": {
+    "word": "strong",
+    "display": "a. 强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良的；adv. 强劲地, 有力地, 猛烈地",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "strong",
+    "sense": "a. 强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良的；adv. 强劲地, 有力地, 猛烈地"
+  },
+  "2026|20|C": {
+    "word": "vulnerable",
+    "display": "a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "vulnerable",
+    "sense": "a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的"
+  },
+  "2026|20|D": {
+    "word": "valuable",
+    "display": "a. 有价值的, 贵重的, 宝贵的, 可估价的",
+    "source": "DICT（含ECDICT扩展）",
+    "lookup": "valuable",
+    "sense": "a. 有价值的, 贵重的, 宝贵的, 可估价的"
+  }
+}

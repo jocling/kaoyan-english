@@ -1,0 +1,520 @@
+# 2012-1|0:2
+type 主从复合句
+chunks Unfortunately,〔修〕 L. A. Unified has produced an inflexible policy〔主〕 which mandates〔C1〕 that〔C2〕 with the exception of some advanced courses,〔C2修〕 homework may no longer count for more than 10% of a student's academic grade.〔C2〕
+main 主语:L. A. Unified | 谓语:has produced | 宾语:an inflexible policy
+gist 洛杉矶联合学区出台了一项死板的政策
+C1 定语从句 | 修饰policy | which | 前面是名词policy，后面mandates缺主语；which指代政策作主语 | 主语:which | 谓语:mandates | 宾语:C2
+C2 宾语从句 in C1 | 作mandates的宾语 | that | 前面mandates缺规定内容，后面homework may count主谓完整；that只连接 | 主语:homework | 谓语:may … count
+mod with the exception of some advanced courses → count | 范围状语 | 排除某些高级课程
+mod for more than 10% of a student's academic grade → count | 介词补足 | 作业占成绩的比例；no longer与more than合看
+
+# 2012-1|1:0
+type 主从复合句
+chunks This rule is meant to address the difficulty〔主〕 that students〔C1〕 from impoverished or chaotic homes〔C1修〕 might have〔C1〕 in completing their homework.〔C1修〕
+main 主语:This rule | 谓语:is meant | 表语:to address the difficulty
+gist 这条规定旨在解决困难
+C1 定语从句 | 修饰difficulty | that | 前面是difficulty，后面students might have缺宾语；that指困难作have的宾语 | 主语:students | 谓语:might have
+mod from impoverished or chaotic homes → students | 介词定语 | 来自贫困或混乱家庭的学生
+mod in completing their homework → have | 介词补足 | have difficulty in doing表示做某事有困难
+point is meant to表示旨在，to address不是独立的限定谓语。
+
+# 2012-1|1:1
+type 简单句
+chunks But〔修〕 the policy is unclear and contradictory.〔主〕
+main 主语:the policy | 谓语:is | 表语:unclear and contradictory
+gist 这项政策含糊而且矛盾
+
+# 2012-1|1:2
+type 主从复合句
+chunks Certainly,〔修〕 no homework should be assigned〔主〕 that students cannot complete〔C1〕 on their own〔C1修〕 or〔连〕 that they cannot do〔C2〕 without expensive equipment.〔C2修〕
+main 主语:no homework | 谓语:should be assigned
+gist 不应布置这一类作业
+C1 定语从句 | 修饰homework | that | 前面先行词homework与从句被谓语隔开；students cannot complete缺宾语，that作宾语 | 主语:students | 谓语:cannot complete
+C2 定语从句 | 并列修饰homework | that | 前面or连接两个定语从句，后面they cannot do缺宾语；that指作业 | 主语:they | 谓语:cannot do
+mod on their own → complete | 方式状语 | 独立完成
+mod without expensive equipment → do | 条件状语 | 没有昂贵设备就做不了
+
+# 2012-1|1:3
+type 主从复合句
+chunks But〔修〕 if the district is essentially giving a pass〔C1〕 to students〔C1修〕 who do not do their homework〔C2〕 because of complicated family lives,〔C2修〕 it is going riskily close to the implication〔主〕 that standards need to be lowered〔C3〕 for poor children.〔C3修〕
+main 主语:it | 谓语:is going
+gist 这项政策正危险地接近一种暗示
+C1 条件状语从句 | 给主句设条件 | if | 前面But只转折，if后district is giving主谓宾完整；整块表示假如 | 主语:the district | 谓语:is … giving | 宾语:a pass
+C2 定语从句 in C1 | 修饰students | who | 前面是students，后面do not do缺主语；who指学生作主语 | 主语:who | 谓语:do not do | 宾语:their homework
+C3 同位语从句 | 解释implication的内容 | that | 前面是抽象名词implication，后面standards need to be lowered结构完整；不是缺成分的定语从句 | 主语:standards | 谓语:need | 宾语:to be lowered
+mod because of complicated family lives → do not do | 原因状语 | 不做作业的家庭原因
+mod riskily close to the implication → going | 方向与程度补充 | 接近暗示降低标准的危险结论
+mod for poor children → lowered | 对象状语 | 针对贫困儿童降低标准
+
+# 2012-1|2:0
+type 并列复合句
+chunks District administrators say〔主〕 that homework will still be a part of schooling;〔C1〕 teachers are allowed to assign as much of it〔主〕 as they want.〔C2〕
+main 主语:District administrators | 谓语:say | 宾语:C1 || 主语:teachers | 谓语:are allowed
+gist 管理者说作业仍有地位；教师仍获准布置作业
+C1 宾语从句 | 作say的宾语 | that | 前面say缺内容，后面homework will be a part主系表完整；that只连接 | 主语:homework | 谓语:will … be | 表语:a part
+C2 比较状语从句 | 与as much搭配限定数量 | as | 前面as much of it表示数量，后面they want省略与前文相同的作业内容；as引出想布置的数量 | 主语:they | 谓语:want
+mod of schooling → part | 介词定语 | 学校教育的一部分
+mod to assign as much of it → allowed | 不定式补充 | 被允许布置相应数量的作业
+
+# 2012-1|2:1
+type 简单句
+chunks But〔修〕 with homework counting for no more than 10% of their grades,〔修〕 students can easily skip half their homework〔主〕 and〔连〕 see very little difference〔主〕 on their report cards.〔修〕
+main 主语:students | 谓语:can … skip | 宾语:half their homework || &and || 谓语:see | 宾语:very little difference
+gist 学生可以少做一半作业，却几乎看不出成绩差异
+mod with homework counting for no more than 10% of their grades → 整句 | with复合结构 | 作业计分比重不超过百分之十，counting是分词
+mod on their report cards → difference | 位置补充 | 成绩单上呈现的差异
+point and后没有新主语，see与skip共用students和can。
+
+# 2012-1|2:2
+type 主从复合句
+chunks Some students might do well〔主〕 on state tests without completing their homework,〔修〕 but〔连〕 what about the students〔修〕 who performed well on the tests and did their homework?〔C1〕
+main 主语:Some students | 谓语:might do
+gist 一些学生可能考得好；作者追问另一群学生怎么办
+C1 定语从句 | 修饰students | who | 前面是the students，后面performed和did都缺共同主语；who作主语 | 主语:who | 谓语:performed … and did | 宾语:their homework
+mod on state tests → do | 范围状语 | 在州统考中表现好
+mod without completing their homework → do | 条件状语 | 不完成作业也可能考得好
+point but后what about是省略问句，没有独立限定谓语；从句中performed well与did their homework是并列谓语。
+
+# 2012-1|2:3
+type 主从复合句
+chunks It is quite possible〔主〕 that the homework helped.〔C1〕
+main 形式主语:It | 谓语:is | 表语:possible | 真正主语:C1
+gist 作业起了帮助作用，这很有可能
+C1 主语从句 | it后置的真正主语 | that | 前面It is possible以it占位，后面the homework helped主谓完整；整块是被判断为可能的事 | 主语:the homework | 谓语:helped
+mod quite → possible | 程度状语 | 相当有可能
+
+# 2012-1|2:4
+type 主从复合句
+chunks Yet〔修〕 rather than empowering teachers to find〔修〕 what works best〔C1〕 for their students,〔C1修〕 the policy imposes a flat, across-the-board rule.〔主〕
+main 主语:the policy | 谓语:imposes | 宾语:a flat, across-the-board rule
+gist 这项政策强加了一条一刀切的规定
+C1 宾语从句 | 作find的宾语 | what | 前面find缺寻找内容，后面works缺主语；what既连接又作主语 | 主语:what | 谓语:works
+mod rather than empowering teachers to find → imposes | 对比状语 | 不是赋权教师自行寻找办法；empowering不是主句谓语
+mod for their students → works | 对象状语 | 对各自学生最有效
+
+# 2012-1|3:0
+type 简单句
+chunks At the same time,〔修〕 the policy addresses none of the truly thorny questions〔主〕 about homework.〔修〕
+main 主语:the policy | 谓语:addresses | 宾语:none
+gist 这项政策没有回答任何真正棘手的问题
+mod of the truly thorny questions → none | 介词定语 | none表示这些问题一个也没有
+mod about homework → questions | 介词定语 | 关于家庭作业的问题
+
+# 2012-1|3:1
+type 主从复合句
+chunks If the district finds homework to be unimportant to its students' academic achievement,〔C1〕 it should move to reduce or eliminate the assignments,〔主〕 not make them count for almost nothing.〔修〕
+main 主语:it | 谓语:should move
+gist 学区应当着手减少或取消作业
+C1 条件状语从句 | 假设作业不重要 | If | 句首If后district finds homework to be unimportant主谓宾及宾补完整；整块提出条件 | 主语:the district | 谓语:finds | 宾语:homework | 宾补:to be unimportant
+mod to its students' academic achievement → unimportant | 形容词补足 | 对学生学业成就不重要
+mod to reduce or eliminate the assignments → move | 不定式补充 | 着手减少或取消作业
+mod not make them count for almost nothing → move | 否定对照 | 不应只是让作业几乎不计分，省略前面的to
+
+# 2012-1|3:2
+type 主从复合句
+chunks Conversely,〔修〕 if homework matters,〔C1〕 it should account for a significant portion〔主〕 of the grade.〔修〕
+main 主语:it | 谓语:should account
+gist 作业就应当占相当的成绩比重
+C1 条件状语从句 | 假设作业重要 | if | 前面Conversely转向相反情况，if后homework matters主谓完整；整块给出条件 | 主语:homework | 谓语:matters
+mod for a significant portion of the grade → account | 介词补足 | account for表示占比
+
+# 2012-1|3:3
+type 主从复合句
+chunks Meanwhile,〔修〕 this policy does nothing to ensure〔主〕 that the homework〔C1〕 students receive〔C2〕 is meaningful or appropriate to their age and the subject,〔C1〕 or〔连〕 that teachers are not assigning more〔C3〕 than they are willing to review and correct.〔C4〕
+main 主语:this policy | 谓语:does | 宾语:nothing
+gist 这项政策没有确保作业质量或适量
+C1 宾语从句 | 作ensure的宾语 | that | 前面ensure缺确保内容，后面homework is meaningful主系表完整；that只连接 | 主语:the homework | 谓语:is | 表语:meaningful or appropriate
+C2 定语从句 in C1 | 修饰homework | （省略 that） | 前面是homework，后面students receive缺宾语；省略的关系词作宾语 | 主语:students | 谓语:receive
+C3 宾语从句 | 与C1并列作ensure的宾语 | that | 前面or连接两个确保事项，that后teachers are not assigning主谓宾完整；不是that定语从句 | 主语:teachers | 谓语:are not assigning | 宾语:more
+C4 比较状语从句 in C3 | 与more比较 | than | 前面more表示数量，than后they are willing to review and correct省略相同作业内容；比较布置与愿意批改的量 | 主语:they | 谓语:are | 表语:willing
+mod to ensure → nothing | 不定式定语 | 没有做任何能确保这些事项的事
+mod to their age and the subject → appropriate | 形容词补足 | 适合年龄和学科
+point 两个that从句都属于ensure；students receive只是第一个宾语从句内部的定语从句。
+
+# 2012-1|4:0
+type 主从复合句
+chunks The homework rules should be put on hold〔主〕 while the school board,〔C1〕 which is responsible for setting educational policy,〔C2〕 looks into the matter and conducts public hearings.〔C1〕
+main 主语:The homework rules | 谓语:should be put
+gist 应当暂缓实行作业规定
+C1 时间状语从句 | 说明暂缓期间进行的工作 | while | 前面主句完整，while后board looks和conducts主谓宾完整；表示在调查期间 | 主语:the school board | 谓语:looks … and conducts | 宾语:public hearings
+C2 定语从句 in C1 | 补充说明school board | which | 前面是the school board，后面is responsible缺主语；which代指教育委员会 | 主语:which | 谓语:is | 表语:responsible
+mod on hold → put | 状态补足 | put on hold表示暂缓
+mod for setting educational policy → responsible | 形容词补足 | 负责制定教育政策
+mod into the matter → looks | 介词补足 | look into表示调查
+
+# 2012-1|4:1
+type 简单句
+chunks It is not too late〔主〕 for L. A. Unified to do homework right.〔修〕
+main 形式主语:It | 谓语:is not | 表语:too late | 真正主语:for L. A. Unified to do homework right
+gist 洛杉矶联合学区把作业处理好，现在还不晚
+mod right → do | 方式状语 | 正确地处理作业
+point for引出不定式的逻辑主语，for…to do整体后置；不是that从句。
+
+# 2012-2|0:0
+type 并列句
+chunks Pretty in pink:〔修〕 adult women do not remember being so obsessed with the colour,〔主〕 yet〔连〕 it is pervasive〔主〕 in our young girls' lives.〔修〕
+main 主语:adult women | 谓语:do not remember | 宾语:being so obsessed || &yet || 主语:it | 谓语:is | 表语:pervasive
+gist 成年女性不记得曾这样着迷，粉色却充斥女孩生活
+mod with the colour → obsessed | 介词补足 | 对粉色痴迷
+mod in our young girls' lives → pervasive | 范围状语 | 在小女孩的生活中
+
+# 2012-2|0:2
+type 简单句
+chunks Then〔修〕 it presents that connection,〔主〕 even among two-year-olds, between girls as not only innocent but as evidence of innocence.〔修〕
+main 主语:it | 谓语:presents | 宾语:that connection
+gist 它呈现出那种联系
+mod even among two-year-olds → presents | 范围补充 | 甚至涉及两岁幼儿
+mod between girls as not only innocent but as evidence of innocence → connection | 介词定语 | 原数据搭配不完整，只保留可识别的修饰范围
+point 本条between…between的配对内容及not only…but as搭配在现有原文中不完整，不补造省略成分；可确认的主干是it presents that connection。列来源待核。
+
+# 2012-2|0:3
+type 简单句
+chunks Looking around,〔修〕 I despaired〔主〕 at the singular lack of imagination about girls' lives and interests.〔修〕
+main 主语:I | 谓语:despaired
+gist 我感到绝望
+mod Looking around → I | 分词状语 | 环顾四周的是我，Looking不是谓语
+mod at the singular lack of imagination about girls' lives and interests → despaired | 原因补充 | 绝望于人们对女孩生活兴趣缺乏想象
+
+# 2012-2|1:0
+type 并列句
+chunks Girls' attraction to pink may seem unavoidable,〔主〕 somehow encoded in their DNA,〔修〕 but〔连〕 according to Jo Paoletti, an associate professor of American Studies,〔修〕 it is not.〔主〕
+main 主语:Girls' attraction | 谓语:may seem | 表语:unavoidable || &but || 主语:it | 谓语:is not
+gist 女孩对粉色的喜爱看似不可避免，实际上并非如此
+mod to pink → attraction | 介词定语 | 对粉色的喜爱
+mod somehow encoded in their DNA → attraction | 分词补充 | 仿佛写进DNA，encoded不是独立谓语
+mod according to Jo Paoletti, an associate professor of American Studies → 整句 | 信息来源 | 转述专家观点，人名后的名词短语是同位语
+
+# 2012-2|1:2
+type 主从复合句
+chunks What's more,〔修〕 both boys and girls wore〔主〕 what were thought of as gender-neutral dresses.〔C1〕
+main 主语:both boys and girls | 谓语:wore | 宾语:C1
+gist 男孩女孩都穿所谓性别中立的连衣裙
+C1 宾语从句 | 作wore的宾语 | what | 前面wore缺穿着对象，后面were thought of缺主语；what作从句主语，整块充当宾语 | 主语:what | 谓语:were thought of | 主语补足语:gender-neutral dresses
+point thought of as表示被看作，what从句整体相当于那种被认为性别中立的衣服。
+
+# 2012-2|1:3
+type 主从复合句
+chunks When nursery colours were introduced,〔C1〕 pink was actually considered the more masculine colour,〔主〕 a pastel version of red,〔修〕 which was associated with strength.〔C2〕
+main 主语:pink | 谓语:was … considered | 主语补足语:the more masculine colour
+gist 粉色曾被认为更有男性气质
+C1 时间状语从句 | 说明颜色被引入时 | When | 句首When后nursery colours were introduced主谓完整；表示时间 | 主语:nursery colours | 谓语:were introduced
+C2 定语从句 | 修饰red | which | 前面是red，后面was associated缺主语；which代指红色作主语 | 主语:which | 谓语:was associated
+mod a pastel version of red → pink | 同位语 | 粉色是红色的浅淡版本
+mod with strength → associated | 介词补足 | 红色与力量相关
+
+# 2012-2|1:4
+type 简单句
+chunks Blue,〔主〕 with its intimations of the Virgin Mary, constancy and faithfulness,〔修〕 symbolised femininity.〔主〕
+main 主语:Blue | 谓语:symbolised | 宾语:femininity
+gist 蓝色曾象征女性气质
+mod with its intimations of the Virgin Mary, constancy and faithfulness → Blue | 伴随补充 | 蓝色让人联想到圣母、坚贞与忠诚
+
+# 2012-2|1:5
+type 主从复合句
+chunks It was not until the mid-1980s,〔主〕 when amplifying age and sex differences became a dominant children's marketing strategy,〔C1〕 that pink fully came into its own,〔主〕 when it began to seem inherently attractive to girls,〔C2〕 part of〔C2修〕 what defined them as female,〔C3〕 at least for the first few critical years.〔修〕
+main 主语:pink | 谓语:came
+gist 粉色直到特定营销时期才真正流行起来
+C1 定语从句 | 修饰mid-1980s | when | 前面是时间名词mid-1980s，后面amplifying…became a strategy主系表完整；when作时间状语 | 主语:amplifying age and sex differences | 谓语:became | 表语:a dominant children's marketing strategy
+C2 定语从句 | 补充说明粉色流行的时期 | when | 前面描述came into its own的时期，后面it began to seem…主谓完整；when补充该时段发生的事 | 主语:it | 谓语:began | 宾语:to seem inherently attractive
+C3 宾语从句 in C2 | 作of的宾语 | what | 前面介词of缺内容，后面defined缺主语；what既连接又作主语 | 主语:what | 谓语:defined | 宾语:them | 宾补:as female
+mod into its own → came | 固定搭配补足 | 真正显出地位、大行其道
+mod at least for the first few critical years → 整句 | 范围限定 | 至少在最初关键几年
+point It was not until…that是强调结构；拆除强调外壳后主干为pink came into its own，that不是定语从句关系词。
+
+# 2012-2|2:0
+type 主从复合句
+chunks I had not realised〔主〕 how profoundly marketing trends dictated our perception of〔C1〕 what is natural to kids,〔C2〕 including our core beliefs about their psychological development.〔修〕
+main 主语:I | 谓语:had not realised | 宾语:C1
+gist 我以前没有意识到营销的影响有多深
+C1 宾语从句 | 作realised的宾语 | how | 前面realised缺认识内容，后面marketing trends dictated有主谓宾；how profoundly作程度状语 | 主语:marketing trends | 谓语:dictated | 宾语:our perception
+C2 宾语从句 in C1 | 作of的宾语 | what | 前面介词of缺内容，后面is natural缺主语；what作主语 | 主语:what | 谓语:is | 表语:natural
+mod to kids → natural | 对象补充 | 对孩子来说自然的事
+mod including our core beliefs about their psychological development → perception | 举例补充 | 包括对儿童心理发展的核心信念
+
+# 2012-2|2:1
+type 简单句
+chunks Take the toddler.〔主〕
+main 谓语:Take | 宾语:the toddler
+gist 以学步儿这个说法为例
+point 祈使句省略主语you；不是缺少主句的残句。
+
+# 2012-2|2:3
+type 简单句
+chunks Turns out,〔修〕 according to Daniel Cook, a historian of childhood consumerism,〔修〕 it was popularised〔主〕 as a marketing trick by clothing manufacturers in the 1930s.〔修〕
+main 主语:it | 谓语:was popularised
+gist 这个说法作为营销手段被推广开来
+mod according to Daniel Cook, a historian of childhood consumerism → 整句 | 信息来源 | 引用儿童消费史学者，名词短语同位说明身份
+mod as a marketing trick → popularised | 方式状语 | 作为营销手段推广
+mod by clothing manufacturers in the 1930s → popularised | 施事与时间 | 二十世纪三十年代由服装厂商推广
+point Turns out是省略It的口语插入引语，相当于结果发现；后面的it指toddler这一说法。
+
+# 2012-2|3:0
+type 主从复合句
+chunks Trade publications counselled department stores〔主〕 that,〔C1〕 in order to increase sales,〔C1修〕 they should create a "third stepping stone"〔C1〕 between infant wear and older kids' clothes.〔C1修〕
+main 主语:Trade publications | 谓语:counselled | 间接宾语:department stores | 直接宾语:C1
+gist 行业刊物建议百货商店创造一个过渡类别
+C1 宾语从句 | 说明向百货商店建议的内容 | that | 前面counselled department stores尚缺建议内容，后面they should create主谓宾完整；that只连接 | 主语:they | 谓语:should create | 宾语:a "third stepping stone"
+mod in order to increase sales → create | 目的状语 | 为了增加销售
+mod between infant wear and older kids' clothes → stone | 介词定语 | 婴儿装与大童装之间的中间档
+point department stores是建议的接受者，that从句是建议内容；从句并非修饰stores。
+
+# 2012-2|3:1
+type 主从复合句
+chunks It was only〔主〕 after "toddler" became a common shoppers' term〔C1〕 that it evolved into a broadly accepted developmental stage.〔主〕
+main 主语:it#2 | 谓语:evolved
+gist 学步儿后来才演变为公认的发展阶段
+C1 时间状语从句 | 强调演变发生在称谓流行之后 | after | 前面only限定时间，after后toddler became a term主系表完整；整块表示时间 | 主语:"toddler" | 谓语:became | 表语:a common shoppers' term
+mod into a broadly accepted developmental stage → evolved | 结果补足 | 演变为被普遍接受的成长阶段
+point It was…that强调only after时间从句，去掉强调外壳后是it evolved；后一个it指toddler概念。
+
+# 2012-2|3:2
+type 简单句
+chunks Splitting kids,〔主〕 or adults,〔修〕 into ever-tinier categories〔主〕 has proved a sure-fire way〔主〕 to boost profits.〔修〕
+main 主语:Splitting kids, or adults, into ever-tinier categories | 谓语:has proved | 表语:a sure-fire way
+gist 把消费者细分已被证明是可靠的获利方法
+mod to boost profits → way | 不定式定语 | 提高利润的方法
+point 整个Splitting…categories是动名词主语；has proved才是带时态的谓语，主语内部不能把Splitting单独当谓语。
+
+# 2012-3|0:1
+type 并列句
+chunks Companies had won patents〔主〕 for isolated DNA for decades〔修〕 – by 2005 some 20% of human genes were patented.〔主〕
+main 主语:Companies | 谓语:had won | 宾语:patents || 主语:some 20% of human genes | 谓语:were patented
+gist 公司长期取得专利，到2005年约两成人类基因已有专利
+mod for isolated DNA for decades → won | 对象与时间 | 为分离DNA取得专利，持续数十年
+point 破折号后是另一个完整分句，were patented不能接在Companies后。
+
+# 2012-3|0:2
+type 主从复合句
+chunks But in March 2010〔修〕 a judge ruled〔主〕 that genes were unpatentable.〔C1〕
+main 主语:a judge | 谓语:ruled | 宾语:C1
+gist 一位法官作出裁决
+C1 宾语从句 | 作ruled的宾语 | that | 前面ruled缺裁决内容，后面genes were unpatentable主系表完整；that只连接 | 主语:genes | 谓语:were | 表语:unpatentable
+
+# 2012-3|0:3
+type 简单句
+chunks Executives were violently agitated.〔主〕
+main 主语:Executives | 谓语:were | 表语:agitated
+gist 高管们感到极度不安
+mod violently → agitated | 程度状语 | 强烈不安，说明情绪程度
+
+# 2012-3|0:4
+type 主从复合句
+chunks The Biotechnology Industry Organisation (BIO),〔主〕 a trade group,〔修〕 assured members〔主〕 that this was just a "preliminary step"〔C1〕 in a longer battle.〔C1修〕
+main 主语:The Biotechnology Industry Organisation | 谓语:assured | 间接宾语:members | 直接宾语:C1
+gist 生物技术产业组织向成员作出保证
+C1 宾语从句 | 说明保证的内容 | that | 前面assured members还缺保证内容，后面this was a step主系表完整；that只连接 | 主语:this | 谓语:was | 表语:a "preliminary step"
+mod a trade group → Organisation | 同位语 | 说明这是行业团体
+mod in a longer battle → step | 介词定语 | 更持久斗争中的一个步骤
+
+# 2012-3|1:0
+type 简单句
+chunks On July 29th〔修〕 they were relieved,〔主〕 at least temporarily.〔修〕
+main 主语:they | 谓语:were | 表语:relieved
+gist 他们松了一口气
+mod at least temporarily → relieved | 范围限定 | 至少暂时松了一口气
+
+# 2012-3|1:1
+type 主从复合句
+chunks A federal appeals court overturned the prior decision,〔主〕 ruling〔修〕 that Myriad Genetics could indeed hold patents to two genes〔C1〕 that help forecast a woman's risk〔C2〕 of breast cancer.〔C2修〕
+main 主语:A federal appeals court | 谓语:overturned | 宾语:the prior decision
+gist 一家联邦上诉法院推翻了原判
+C1 宾语从句 | 作ruling的宾语 | that | 前面ruling缺裁决内容，后面Myriad Genetics could hold patents主谓宾完整；that只连接 | 主语:Myriad Genetics | 谓语:could … hold | 宾语:patents
+C2 定语从句 in C1 | 修饰genes | that | 前面是two genes，后面help缺主语；that代指基因作主语 | 主语:that | 谓语:help | 宾语:forecast a woman's risk
+mod ruling → A federal appeals court | 分词状语 | 作出新裁决的是法院，ruling不是另一限定谓语
+mod of breast cancer → risk | 介词定语 | 乳腺癌风险
+
+# 2012-3|1:2
+type 主从复合句
+chunks The chief executive of Myriad,〔主〕 a company in Utah,〔修〕 said〔主〕 the ruling was a blessing〔C1〕 to firms and patients alike.〔C1修〕
+main 主语:The chief executive | 谓语:said | 宾语:C1
+gist 公司首席执行官作出评价
+C1 宾语从句 | 作said的宾语 | （省略 that） | 前面said缺话语内容，后面the ruling was a blessing主系表完整；省略连接词that | 主语:the ruling | 谓语:was | 表语:a blessing
+mod of Myriad → executive | 介词定语 | Myriad公司的首席执行官
+mod to firms and patients alike → blessing | 对象补充 | 对公司与患者同样是福音
+mod a company in Utah → Myriad | 同位语 | 位于犹他州的公司
+
+# 2012-3|2:2
+type 并列句
+chunks Critics make three main arguments against gene patents:〔主〕 a gene is a product of nature,〔主〕 so〔连〕 it may not be patented;〔主〕 gene patents suppress innovation〔主〕 rather than reward it;〔修〕 and〔连〕 patents' monopolies restrict access〔主〕 to genetic tests such as Myriad's.〔修〕
+main 主语:Critics | 谓语:make | 宾语:three main arguments || 主语:a gene | 谓语:is | 表语:a product || &so || 主语:it | 谓语:may not be patented || 主语:gene patents | 谓语:suppress | 宾语:innovation || &and || 主语:patents' monopolies | 谓语:restrict | 宾语:access
+gist 批评者提出三点反对理由：自然产物、压制创新、限制检测机会
+mod against gene patents → arguments | 介词定语 | 反对基因专利的论点
+mod of nature → product | 介词定语 | 自然的产物
+mod rather than reward it → suppress | 并列对比 | 不是奖励创新，it指innovation
+mod to genetic tests such as Myriad's → access | 介词定语 | 获得基因检测的机会
+point 冒号后三组分句解释three arguments，不把它们塞进make的宾语骨架。
+
+# 2012-3|2:3
+type 简单句
+chunks A growing number seem to agree.〔主〕
+main 主语:A growing number | 谓语:seem | 表语:to agree
+gist 赞同的人似乎越来越多
+point number后省略of people，语义指越来越多的人；to agree不单独作谓语。
+
+# 2012-3|2:4
+type 简单句
+chunks Last year〔修〕 a federal task-force urged reform〔主〕 for patents related to genetic tests.〔修〕
+main 主语:a federal task-force | 谓语:urged | 宾语:reform
+gist 一个联邦工作组敦促改革
+mod for patents → reform | 介词定语 | 针对专利的改革
+mod related to genetic tests → patents | 分词定语 | 与基因检测有关的专利
+
+# 2012-3|3:0
+type 简单句
+chunks Despite the appeals court's decision,〔修〕 big questions remain unanswered.〔主〕
+main 主语:big questions | 谓语:remain | 表语:unanswered
+gist 重大问题仍未解决
+point Despite后接名词短语，不引导状语从句；remain是系动词。
+
+# 2012-3|3:2
+type 简单句
+chunks The case may yet reach the Supreme Court.〔主〕
+main 主语:The case | 谓语:may … reach | 宾语:the Supreme Court
+gist 此案可能仍会上诉至最高法院
+mod yet → reach | 语气状语 | 仍有这种可能
+
+# 2012-3|4:0
+type 主从复合句
+chunks As the industry advances,〔C1〕 however,〔修〕 other suits may have an even greater impact.〔主〕
+main 主语:other suits | 谓语:may have | 宾语:an even greater impact
+gist 其他诉讼可能产生更大影响
+C1 时间状语从句 | 随行业发展而发生 | As | 句首As后the industry advances主谓完整；表示随着行业推进 | 主语:the industry | 谓语:advances
+
+# 2012-3|4:1
+type 并列句
+chunks Companies are unlikely to file many more patents for human DNA molecules〔主〕 – most are already patented〔主〕 or〔连〕 in the public domain.〔主〕
+main 主语:Companies | 谓语:are | 表语:unlikely || 主语:most | 谓语:are … patented || &or || 表语:in the public domain
+gist 公司不太可能再申请很多专利，大多数DNA已获专利或属公有
+mod to file many more patents for human DNA molecules → unlikely | 不定式补充 | 不太可能再提交很多DNA专利申请
+point 破折号后most指DNA分子；or并列已获专利与处于公有领域两种状态，后项省略are。
+
+# 2012-3|4:2
+type 主从复合句
+chunks Firms are now studying〔主〕 how genes interact,〔C1〕 looking for correlations〔修〕 that might be used to determine the causes of disease or predict a drug's efficacy.〔C2〕
+main 主语:Firms | 谓语:are … studying | 宾语:C1
+gist 公司正在研究基因如何互动
+C1 宾语从句 | 作studying的宾语 | how | 前面studying缺研究内容，后面genes interact主谓完整；how作方式状语 | 主语:genes | 谓语:interact
+C2 定语从句 | 修饰correlations | that | 前面是correlations，后面might be used缺主语；that代指关联性 | 主语:that | 谓语:might be used
+mod looking for correlations → Firms | 分词状语 | 公司同时寻找关联
+mod to determine the causes of disease or predict a drug's efficacy → used | 目的补充 | 用于查病因或预测药效，or连接两个不定式动作
+
+# 2012-3|4:3
+type 并列句
+chunks Companies are eager to win patents for "connecting the dots,"〔主〕 explains Hans Sauer,〔主〕 a lawyer for the BIO.〔修〕
+main 主语:Companies | 谓语:are | 表语:eager || 谓语:explains | 主语:Hans Sauer
+gist 公司渴望取得关联性专利；绍尔对此作解释
+mod to win patents for "connecting the dots," → eager | 不定式补充 | 渴望为连接基因关联点取得专利
+mod a lawyer for the BIO → Hans Sauer | 同位语 | 绍尔是BIO的律师
+point 引语后的explains Hans Sauer是报道倒装，主语在人名处；不是Companies的并列谓语。
+
+# 2012-3|5:0
+type 主从复合句
+chunks Their success may be determined by a suit〔主〕 related to this issue, brought by the Mayo Clinic,〔修〕 which the Supreme Court will hear in its next term.〔C1〕
+main 主语:Their success | 谓语:may be determined
+gist 他们能否成功可能由一桩诉讼决定
+C1 定语从句 | 修饰suit | which | 前面核心名词是a suit，中间插入分词修饰，后面the Supreme Court will hear缺宾语；which作hear的宾语 | 主语:the Supreme Court | 谓语:will hear
+mod by a suit → determined | 被动决定依据 | 由一桩诉讼决定
+mod related to this issue → suit | 分词定语 | 与此问题相关
+mod brought by the Mayo Clinic → suit | 分词定语 | 诉讼由梅奥诊所提起，which不是指诊所
+mod in its next term → hear | 时间状语 | 在下一开庭期审理
+
+# 2012-3|5:1
+type 主从复合句
+chunks The BIO recently held a convention〔主〕 which included sessions〔C1〕 to coach lawyers on the shifting landscape for patents.〔C1修〕
+main 主语:The BIO | 谓语:held | 宾语:a convention
+gist BIO举办了一场大会
+C1 定语从句 | 修饰convention | which | 前面是convention，后面included缺主语；which代指大会 | 主语:which | 谓语:included | 宾语:sessions
+mod recently → held | 时间状语 | 最近举办
+mod to coach lawyers on the shifting landscape for patents → sessions | 不定式定语 | 指导律师应对变化中的专利形势
+
+# 2012-4|0:0
+type 并列句
+chunks The great recession may be over,〔主〕 but〔连〕 this era of high joblessness is probably beginning.〔主〕
+main 主语:The great recession | 谓语:may be | 表语:over || &but || 主语:this era | 谓语:is … beginning
+gist 大衰退可能结束了，但高失业时代可能才开始
+mod of high joblessness → era | 介词定语 | 高失业率时代
+mod probably → beginning | 语气状语 | 表示推测
+
+# 2012-4|0:2
+type 简单句
+chunks And ultimately,〔修〕 it is likely〔主〕 to reshape our politics, our culture, and the character of our society for years.〔修〕
+main 主语:it | 谓语:is | 表语:likely
+gist 它很可能长期重塑社会
+mod to reshape our politics, our culture, and the character of our society for years → likely | 不定式补充 | 可能多年影响政治、文化和社会品格，三项是reshape的并列宾语
+
+# 2012-4|1:2
+type 简单句
+chunks In limited respects, perhaps〔修〕 the recession will leave society better off.〔主〕
+main 主语:the recession | 谓语:will leave | 宾语:society | 宾补:better off
+gist 衰退或许会使社会在有限方面变好
+point leave society better off是宾语加宾补，better off说明社会的结果状态。
+
+# 2012-4|2:0
+type 简单句
+chunks But for the most part,〔修〕 these benefits seem thin, uncertain, and far off.〔主〕
+main 主语:these benefits | 谓语:seem | 表语:thin, uncertain, and far off
+gist 这些好处看起来微薄、不确定而遥远
+
+# 2012-4|2:1
+type 主从复合句
+chunks In The Moral Consequences of Economic Growth,〔修〕 the economic historian Benjamin Friedman argues〔主〕 that〔C1〕 both inside and outside the U. S.,〔C1修〕 lengthy periods〔C1〕 of economic stagnation or decline〔C1修〕 have almost always left society more mean-spirited and less inclusive,〔C1〕 and〔连〕 have usually stopped or reversed the advance of rights and freedoms.〔C1〕
+main 主语:the economic historian Benjamin Friedman | 谓语:argues | 宾语:C1
+gist 经济史学家弗里德曼提出了一个判断
+C1 宾语从句 | 作argues的宾语 | that | 前面argues缺论述内容，后面periods have left…并列have stopped主谓宾完整；that只连接 | 主语:lengthy periods | 谓语:have … left … and have … stopped or reversed | 宾语:society … the advance | 宾补:more mean-spirited and less inclusive
+mod both inside and outside the U. S. → left | 范围状语 | 美国国内外都如此
+mod of economic stagnation or decline → periods | 介词定语 | 经济停滞或衰退的时期
+mod of rights and freedoms → advance | 介词定语 | 权利自由的进步
+point society是left的宾语，the advance是stopped或reversed的宾语；不是所有动词共用同一个宾语。
+
+# 2012-4|3:0
+type 并列句
+chunks Income inequality usually falls〔主〕 during a recession,〔修〕 but〔连〕 it has not shrunk in this one.〔主〕
+main 主语:Income inequality | 谓语:falls || &but || 主语:it | 谓语:has not shrunk
+gist 收入差距通常在衰退时缩小，这次却没有
+mod usually → falls | 频率状语 | 通常如此
+mod in this one → shrunk | 范围状语 | 这一次衰退，one代recession
+
+# 2012-4|3:1
+type 简单句
+chunks Indeed,〔修〕 this period of economic weakness〔主〕 may reinforce class divides,〔主〕 and〔连〕 decrease opportunities〔主〕 to cross them – especially for young people.〔修〕
+main 主语:this period | 谓语:may reinforce | 宾语:class divides || &and || 谓语:decrease | 宾语:opportunities
+gist 这段疲软期可能加剧阶层分化并减少跨越机会
+mod of economic weakness → period | 介词定语 | 经济疲软时期
+mod to cross them → opportunities | 不定式定语 | 跨越阶层鸿沟的机会
+mod especially for young people → 整句 | 范围补充 | 尤其影响年轻人
+
+# 2012-4|4:0
+type 主从复合句
+chunks In the Internet age,〔修〕 it is particularly easy〔主〕 to see the resentment〔修〕 that has always been hidden within American society.〔C1〕
+main 形式主语:it | 谓语:is | 表语:easy | 真正主语:to see the resentment
+gist 看见怨恨情绪尤其容易
+C1 定语从句 | 修饰resentment | that | 前面是resentment，后面has been hidden缺主语；that作主语 | 主语:that | 谓语:has … been hidden
+mod particularly → easy | 程度状语 | 尤其容易
+mod within American society → hidden | 范围状语 | 潜藏在美国社会内部
+
+# 2012-4|4:2
+type 并列句
+chunks In many respects,〔修〕 the U. S. was more socially tolerant〔主〕 entering this recession than at any time in its history,〔修〕 and〔连〕 a variety of national polls〔主〕 on social conflict since then〔修〕 have shown mixed results.〔主〕
+main 主语:the U. S. | 谓语:was | 表语:more socially tolerant || &and || 主语:a variety of national polls | 谓语:have shown | 宾语:mixed results
+gist 美国原先更为包容，此后的社会冲突民调结果好坏参半
+mod entering this recession → the U. S. | 分词状语 | 进入这轮衰退时
+mod than at any time in its history → tolerant | 比较状语 | 比历史上任何时候都包容，省略was socially tolerant
+mod on social conflict since then → polls | 介词定语 | 此后有关社会冲突的民调
+point than后的比较成分省略主语和系动词；不补造原文没有的单词。
+
+# 2012-4|4:3
+type 主从复合句
+chunks We will have to wait and see〔主〕 exactly how these hard times will reshape our social fabric.〔C1〕
+main 主语:We | 谓语:will have to wait and see
+gist 我们将不得不等待观察
+C1 宾语从句 | 作see的宾语 | how | 前面see缺观察内容，后面these hard times will reshape主谓宾完整；how作方式状语 | 主语:these hard times | 谓语:will reshape | 宾语:our social fabric
+mod exactly → how | 程度限定 | 究竟会怎样
+
+# 2012-4|4:4
+type 主从复合句
+chunks But〔修〕 they certainly will reshape it,〔主〕 and〔连〕 all the more so〔修〕 the longer they extend.〔C1〕
+main 主语:they | 谓语:will reshape | 宾语:it
+gist 艰难时期一定会重塑社会结构
+C1 比较状语从句 | the longer与前面the more对应 | the longer | 前面all the more so表示程度增加，后面they extend主谓完整；the longer表示时间越久 | 主语:they | 谓语:extend
+mod certainly → reshape | 语气状语 | 作者肯定会发生这种改变
+point and后省略will reshape it；the more…the longer是关联比较结构，持续越久影响越深。

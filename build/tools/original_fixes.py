@@ -99,7 +99,7 @@ def apply_original_fixes(html, build_dir):
     tables=(b/'data/original_compat.json').read_text().replace('</','<\\/')
     html=html.replace('</body>','<script>\nconst SOURCE_COMPAT51='+tables+';\n'+compat+'\n</script>\n</body>')
     # This source-correction batch is the next preview/release after v50.
-    return html.replace('>v50</small>','>v51</small>')
+    return html.replace('>v50</small>','>v52</small>')
 
 def special_index_patch(build_dir):
     """Refresh corrected text and token keys after existing special indexes register."""

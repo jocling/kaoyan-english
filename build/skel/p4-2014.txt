@@ -1,0 +1,558 @@
+# 2014-1|0:0
+type 简单句
+chunks What would you do〔主〕 with $590m?〔修〕
+main 主语:you | 谓语:would … do | 宾语:What
+gist 你会拿这些钱做什么
+mod with $590m → do | 资源状语 | 用五点九亿美元
+point What是提前的疑问宾语，would是助动词，主语仍是you。
+
+# 2014-1|0:1
+type 主从复合句
+chunks This is now a question for Gloria MacKenzie,〔主〕 an 84-year-old widow〔修〕 who recently emerged〔C1〕 from her small, tin-roofed house in Florida to collect the biggest undivided lottery jackpot in history.〔C1修〕
+main 主语:This | 谓语:is | 表语:a question
+gist 这成为麦肯齐面临的问题
+C1 定语从句 | 修饰widow | who | 前面是widow，后面emerged缺主语；who作主语 | 主语:who | 谓语:emerged
+mod for Gloria MacKenzie → question | 介词定语 | 麦肯齐需要回答的问题
+mod an 84-year-old widow → Gloria MacKenzie | 同位语 | 八十四岁的寡妇
+mod from her small, tin-roofed house in Florida → emerged | 起点状语 | 从佛罗里达的小屋走出
+mod to collect the biggest undivided lottery jackpot in history → emerged | 目的状语 | 去领取史上最大单人彩票头奖
+
+# 2014-1|0:2
+type 主从复合句
+chunks If she hopes〔C1〕 her new-found fortune will yield lasting feelings of fulfilment,〔C2〕 she could do worse〔主〕 than read Happy Money by Elizabeth Dunn and Michael Norton.〔C3〕
+main 主语:she | 谓语:could do
+gist 她读这本书不失为一个好选择
+C1 条件状语从句 | 假设她希望财富带来满足 | If | 句首If后she hopes带完整希望内容，整块表示条件 | 主语:she | 谓语:hopes | 宾语:C2
+C2 宾语从句 in C1 | 作hopes的宾语 | （省略 that） | 前面hopes缺内容，后面fortune will yield feelings主谓宾完整；省略that | 主语:her new-found fortune | 谓语:will yield | 宾语:lasting feelings
+C3 比较状语从句 | 与do worse比较 | than | 前面do worse引出比较，than后read…省略共同主语和情态；惯用语表示读书是不错的选择 | 谓语:read | 宾语:Happy Money
+mod of fulfilment → feelings | 介词定语 | 满足的感受
+mod by Elizabeth Dunn and Michael Norton → Happy Money | 作者定语 | 两位作者合著
+point could do worse than do不能逐字译成应该做得更糟；此处是温和推荐。
+
+# 2014-1|1:0
+type 主从复合句
+chunks These two academics use an array of behavioral research〔主〕 to show〔修〕 that the most rewarding ways to spend money can be counterintuitive.〔C1〕
+main 主语:These two academics | 谓语:use | 宾语:an array
+gist 两位学者运用一系列研究说明问题
+C1 宾语从句 | 作show的宾语 | that | 前面show缺说明内容，后面ways can be counterintuitive主系表完整；that只连接 | 主语:the most rewarding ways | 谓语:can be | 表语:counterintuitive
+mod of behavioral research → array | 介词定语 | 大量行为研究
+mod to show → use | 目的状语 | 用研究来说明
+mod to spend money → ways | 不定式定语 | 花钱的方式
+
+# 2014-1|1:1
+type 简单句
+chunks Fantasies of great wealth〔主〕 often involve visions〔主〕 of fancy cars and extravagant homes.〔修〕
+main 主语:Fantasies | 谓语:involve | 宾语:visions
+gist 财富幻想常伴随着豪车豪宅的画面
+mod of great wealth → Fantasies | 介词定语 | 对巨额财富的幻想
+mod of fancy cars and extravagant homes → visions | 介词定语 | 豪车与奢华住宅的画面
+
+# 2014-1|1:2
+type 简单句
+chunks Yet〔修〕 satisfaction with these material purchases〔主〕 wears off〔主〕 fairly quickly.〔修〕
+main 主语:satisfaction | 谓语:wears off
+gist 物质消费的满足感很快消退
+mod with these material purchases → satisfaction | 介词定语 | 对这些物质购买的满足
+mod fairly quickly → wears off | 速度状语 | 消退得相当快
+
+# 2014-1|1:3
+type 并列复合句
+chunks What was once exciting and new〔C1〕 becomes old-hat; regret creeps in.〔主〕
+main 主语:C1 | 谓语:becomes | 表语:old-hat || 主语:regret | 谓语:creeps in
+gist 新鲜事物变得过时，悔意随之产生
+C1 主语从句 | 作becomes的主语 | What | 句首What后was exciting and new缺主语；What补主语，整块位于becomes前 | 主语:What | 谓语:was | 表语:exciting and new
+
+# 2014-1|1:4
+type 并列句
+chunks It is far better〔主〕 to spend money on experiences,〔修〕 say Ms Dunn and Mr Norton,〔主〕 like interesting trips, unique meals or even going to the cinema.〔修〕
+main 形式主语:It | 谓语:is | 表语:better | 真正主语:to spend money on experiences || 谓语:say | 主语:Ms Dunn and Mr Norton
+gist 把钱花在体验上更好，两位作者这样说
+mod far → better | 程度状语 | 好得多
+mod like interesting trips, unique meals or even going to the cinema → experiences | 举例定语 | 旅行、美食、看电影都属于体验
+point say后作者姓名是报道倒装；like引出例子，不是喜欢这个动词。
+
+# 2014-1|1:5
+type 主从复合句
+chunks These purchases often become more valuable〔主〕 with time〔修〕 - as stories or memories -〔修〕 particularly〔修〕 if they involve feeling more connected to others.〔C1〕
+main 主语:These purchases | 谓语:become | 表语:more valuable
+gist 这些体验消费随时间更有价值
+C1 条件状语从句 | 限定价值增加的典型情况 | if | 前面particularly强调特殊情况，if后they involve feeling…主谓宾完整；表示如果 | 主语:they | 谓语:involve | 宾语:feeling more connected
+mod with time → become | 时间状语 | 随时间流逝
+mod as stories or memories → purchases | 形态补充 | 体验化为故事或回忆
+mod to others → connected | 介词补足 | 与他人联系更紧密
+
+# 2014-1|2:0
+type 简单句
+chunks This slim volume is packed〔主〕 with tips to help wage slaves as well as lottery winners get the most "happiness bang for your buck."〔修〕
+main 主语:This slim volume | 谓语:is packed
+gist 这本小册子装满了实用建议
+mod with tips → packed | 介词补足 | 充满建议
+mod to help wage slaves as well as lottery winners get the most "happiness bang for your buck." → tips | 不定式定语 | 帮助工薪族和中奖者获得最大幸福回报
+point help后的两类人是宾语，get…是省略to的不定式宾补。
+
+# 2014-1|2:1
+type 主从复合句
+chunks It seems〔主〕 most people would be better off〔C1〕 if they could shorten their commutes to work, spend more time with friends and family and less of it watching television〔C2〕 (something〔修〕 the average American spends a whopping two months a year doing, and is hardly jollier for it).〔C3〕
+main 形式主语:It | 谓语:seems | 真正主语:C1
+gist 大多数人似乎可以过得更好
+C1 主语从句 | it seems后置的判断内容 | （省略 that） | 前面It seems用it占位，后面most people would be better off主系表完整；省略that，整块是判断内容 | 主语:most people | 谓语:would be | 表语:better off
+C2 条件状语从句 in C1 | 提出更好生活的条件 | if | 前面更好生活的判断完整，if后they could shorten和spend共用主语，构成完整条件 | 主语:they | 谓语:could shorten … spend | 宾语:their commutes … more time … less of it
+C3 定语从句 | 修饰something即看电视 | （省略 that） | 前面something后接the average American spends，spends…doing中的doing缺宾语；关系词省略并承接看电视 | 主语:the average American | 谓语:spends … and is | 宾语:a whopping two months | 表语:jollier
+mod to work → commutes | 方向定语 | 上班通勤
+mod with friends and family → time | 介词补充 | 与家人朋友相处的时间
+mod watching television → spend | 分词补充 | spend time doing中的活动
+point 括号内and is仍在关系从句内，共用the average American；hardly jollier表示几乎没有因此更开心。
+
+# 2014-1|2:2
+type 并列复合句
+chunks Buying gifts or giving to charity is often more pleasurable〔主〕 than purchasing things for oneself,〔C1〕 and〔连〕 luxuries are most enjoyable〔主〕 when they are consumed sparingly.〔C2〕
+main 主语:Buying gifts or giving to charity | 谓语:is | 表语:more pleasurable || &and || 主语:luxuries | 谓语:are | 表语:most enjoyable
+gist 为他人花钱更愉悦，奢侈品偶尔享用更快乐
+C1 比较状语从句 | 比较花钱方式的愉悦程度 | than | 前面more pleasurable引出比较，than后purchasing…是动名词比较项，省略相同谓语 | 主语:purchasing things for oneself
+C2 时间状语从句 | 说明奢侈品何时最令人享受 | when | 前面主句完整，when后they are consumed主谓完整；表示偶尔消费时 | 主语:they | 谓语:are consumed
+mod sparingly → consumed | 频率方式 | 节制地、偶尔地消费
+
+# 2014-1|2:3
+type 主从复合句
+chunks This is apparently the reason〔主〕 McDonald's restricts the availability of its popular McRib〔C1〕 - a marketing trick〔修〕 that has turned the pork sandwich into an object of obsession.〔C2〕
+main 主语:This | 谓语:is | 表语:the reason
+gist 这就是麦当劳限量供应的原因
+C1 定语从句 | 修饰reason | （省略 that） | 前面是reason，后面McDonald's restricts availability主谓宾完整；省略关系词表示原因 | 主语:McDonald's | 谓语:restricts | 宾语:the availability
+C2 定语从句 | 修饰trick | that | 前面是a marketing trick，后面has turned缺主语；that代指手法作主语 | 主语:that | 谓语:has turned | 宾语:the pork sandwich
+mod of its popular McRib → availability | 介词定语 | McRib的供应
+mod a marketing trick → restricts | 同位补充 | 对限量供应做法的总结
+mod into an object of obsession → turned | 结果补充 | 变成人们痴迷的对象
+
+# 2014-1|3:0
+type 简单句
+chunks Readers of Happy Money are clearly a privileged lot,〔主〕 anxious about fulfilment, not hunger.〔修〕
+main 主语:Readers | 谓语:are | 表语:a privileged lot
+gist 这本书的读者是生活优越的一群人
+mod of Happy Money → Readers | 介词定语 | 这本书的读者
+mod anxious about fulfilment, not hunger → Readers | 形容词补充 | 焦虑的是满足感而非温饱
+
+# 2014-1|3:1
+type 并列复合句
+chunks Money may not quite buy happiness,〔主〕 but〔连〕 people in wealthier countries〔主〕 are generally happier〔主〕 than those in poor ones.〔C1〕
+main 主语:Money | 谓语:may not … buy | 宾语:happiness || &but || 主语:people | 谓语:are | 表语:happier
+gist 钱未必买到幸福，但富国居民普遍更幸福
+C1 比较状语从句 | 比较两类居民幸福程度 | than | 前面happier引出比较，than后those指人并省略are happy；比较同类对象 | 主语:those
+mod in wealthier countries → people | 介词定语 | 富裕国家的人
+mod in poor ones → those | 介词定语 | 贫穷国家的人，ones指countries
+
+# 2014-1|3:2
+type 并列句
+chunks Yet〔修〕 the link between feeling good and spending money on others〔主〕 can be seen〔主〕 among rich and poor people around the world,〔修〕 and〔连〕 scarcity enhances the pleasure〔主〕 of most things for most people.〔修〕
+main 主语:the link | 谓语:can be seen || &and || 主语:scarcity | 谓语:enhances | 宾语:the pleasure
+gist 幸福与为他人花钱的关联普遍存在，稀缺也能增强愉悦
+mod between feeling good and spending money on others → link | 介词定语 | 幸福感与为他人消费的关联
+mod among rich and poor people around the world → seen | 范围状语 | 世界各地贫富人群均可看到
+mod of most things for most people → pleasure | 内容与对象 | 大部分事物对多数人的愉悦
+
+# 2014-1|3:3
+type 主从复合句
+chunks Not everyone will agree with the authors' policy ideas,〔主〕 which range〔C1〕 from mandating more holiday time to reducing tax incentives for American homebuyers.〔C1修〕
+main 主语:Not everyone | 谓语:will agree
+gist 并非人人赞同作者的政策主张
+C1 定语从句 | 修饰ideas | which | 前面是ideas，后面range缺主语；which作主语，说明主张涉及范围 | 主语:which | 谓语:range
+mod with the authors' policy ideas → agree | 介词补足 | 赞同作者政策想法
+mod from mandating more holiday time to reducing tax incentives for American homebuyers → range | 范围补足 | 从增加假期到削减购房税收优惠
+point Not everyone是部分否定，表示并非所有人，不是所有人都不赞同。
+
+# 2014-1|3:4
+type 主从复合句
+chunks But〔修〕 most people will come away〔主〕 from this book〔修〕 believing〔修〕 it was money well spent.〔C1〕
+main 主语:most people | 谓语:will come away
+gist 大多数人读后会觉得买书值得
+C1 宾语从句 | 作believing的宾语 | （省略 that） | 前面believing缺相信内容，后面it was money well spent主系表完整；省略that | 主语:it | 谓语:was | 表语:money
+mod from this book → come away | 来源补充 | 读完这本书后
+mod believing → most people | 分词状语 | 人们读后的看法
+mod well spent → money | 分词定语 | 钱花得值得，spent不是谓语
+
+# 2014-2|0:0
+type 主从复合句
+chunks An article in Scientific American〔主〕 has pointed out〔主〕 that empirical research says〔C1〕 that, actually, you think〔C2〕 you're more beautiful〔C3〕 than you are.〔C4〕
+main 主语:An article | 谓语:has pointed out | 宾语:C1
+gist 一篇文章指出了研究结论
+C1 宾语从句 | 作pointed out的宾语 | that | 前面pointed out缺内容，后面research says带宾语内容，主谓结构完整；that只连接 | 主语:empirical research | 谓语:says | 宾语:C2
+C2 宾语从句 in C1 | 作says的宾语 | that | 前面says缺研究结论，后面you think带内容主谓完整；that只连接 | 主语:you | 谓语:think | 宾语:C3
+C3 宾语从句 in C2 | 作think的宾语 | （省略 that） | 前面think缺想法内容，后面you're more beautiful主系表完整；省略that | 主语＋谓语:you're | 表语:more beautiful
+C4 比较状语从句 in C3 | 比较自认为与真实外貌 | than | 前面more beautiful引出比较，than后you are省略beautiful；主系完整 | 主语:you | 谓语:are
+mod in Scientific American → article | 介词定语 | 发表在科学美国人上
+
+# 2014-2|0:2
+type 主从复合句
+chunks Social psychologists have amassed oceans of research〔主〕 into〔修〕 what they call the "above average effect", or "illusory superiority",〔C1〕 and〔连〕 shown〔主〕 that, for example, 70% of us rate ourselves as above average〔C2〕 in leadership, 93% in driving and 85% at getting on well with others〔C2修〕 - all obviously statistical impossibilities.〔修〕
+main 主语:Social psychologists | 谓语:have amassed | 宾语:oceans of research || &and || 谓语:shown | 宾语:C2
+gist 心理学家积累了大量研究并展示普遍的自我高估
+C1 宾语从句 | 作into的宾语 | what | 前面介词into缺研究对象，后面they call缺宾语且带宾补；what作call的宾语 | 主语:they | 谓语:call | 宾语:what | 宾补:the "above average effect", or "illusory superiority"
+C2 宾语从句 | 作shown的宾语 | that | 前面shown缺结论，后面70% of us rate ourselves主谓宾完整；that只连接 | 主语:70% of us | 谓语:rate | 宾语:ourselves | 宾补:as above average
+mod in leadership, 93% in driving and 85% at getting on well with others → rate | 范围与省略并列 | 领导力七成、驾驶九成三、社交八成五，各比例后省略相同评价结构
+mod all obviously statistical impossibilities → 整句 | 总结补充 | 从统计角度评价这些自我报告
+point have由amassed和shown共用；93%与85%是省略相同谓语的并列项，不是70%的修饰语。
+
+# 2014-2|1:0
+type 简单句
+chunks We rose-tint our memories〔主〕 and〔连〕 put ourselves〔主〕 into self-affirming situations.〔修〕
+main 主语:We | 谓语:rose-tint | 宾语:our memories || &and || 谓语:put | 宾语:ourselves
+gist 我们美化记忆并把自己置于自我肯定的情景
+mod into self-affirming situations → put | 结果补足 | 放进能够肯定自我的场景
+
+# 2014-2|2:0
+type 简单句
+chunks Psychologist and behavioural scientist Nicholas Epley oversaw a key study〔主〕 into self-enhancement and attractiveness.〔修〕
+main 主语:Psychologist and behavioural scientist Nicholas Epley | 谓语:oversaw | 宾语:a key study
+gist 埃普利主持了一项关键研究
+mod into self-enhancement and attractiveness → study | 介词定语 | 关于自我美化和外貌吸引力的研究
+
+# 2014-2|3:0
+type 简单句
+chunks Epley found no significant gender difference〔主〕 in responses.〔修〕
+main 主语:Epley | 谓语:found | 宾语:no significant gender difference
+gist 埃普利没有发现显著性别差异
+mod in responses → difference | 介词定语 | 反应中的差异
+
+# 2014-2|3:1
+type 主从复合句
+chunks Nor was there any evidence〔主〕 that those〔C1〕 who self-enhanced the most〔C2〕 (that is, the participants〔修〕 who thought〔C3〕 the most positively doctored pictures were real)〔C4〕 were doing so〔C1〕 to make up for profound insecurities.〔C1修〕
+main 形式主语:there | 谓语:was | 真正主语:any evidence
+gist 同样没有证据证明自我美化是为弥补不安全感
+C1 同位语从句 | 说明evidence的内容 | that | 前面是抽象名词evidence，后面those were doing so主谓完整；that不作成分，给证据内容 | 主语:those | 谓语:were doing | 宾语:so
+C2 定语从句 in C1 | 修饰those | who | 前面those指人，后面self-enhanced缺主语；who作主语 | 主语:who | 谓语:self-enhanced
+C3 定语从句 in C1 | 修饰插入语participants | who | 前面是participants，后面thought缺主语；who代指参与者 | 主语:who | 谓语:thought | 宾语:C4
+C4 宾语从句 in C3 | 作thought的宾语 | （省略 that） | 前面thought缺判断内容，后面pictures were real主系表完整；省略that | 主语:the most positively doctored pictures | 谓语:were | 表语:real
+mod the most → self-enhanced | 程度状语 | 自我美化程度最高
+mod to make up for profound insecurities → doing | 目的状语 | 为弥补深层的不安全感
+point Nor置于句首引起倒装，正常语序there was not any evidence；括号解释those，不改变C1中were doing的主语。
+
+# 2014-2|3:3
+type 并列复合句
+chunks "I don't think〔主〕 the findings〔C1〕 that we have〔C2〕 are any evidence of personal delusion,"〔C1〕 says Epley.〔主〕
+main 主语:I | 谓语:don't think | 宾语:C1 || 谓语:says | 主语:Epley
+gist 埃普利认为这些发现并不证明个人妄想
+C1 宾语从句 | 作think的宾语 | （省略 that） | 前面think缺所想内容，后面findings are evidence主系表完整；省略that | 主语:the findings | 谓语:are | 表语:any evidence
+C2 定语从句 in C1 | 修饰findings | that | 前面是findings，后面we have缺宾语；that作have的宾语 | 主语:we | 谓语:have
+mod of personal delusion → evidence | 介词定语 | 个人妄想的证据
+point 否定在I don't think，意义作用于后面的结论；says Epley是报道倒装。
+
+# 2014-2|3:4
+type 简单句
+chunks "It's a reflection〔主〕 simply of people generally thinking well of themselves."〔修〕
+main 主语＋谓语:"It's | 表语:a reflection
+gist 这只是人们普遍自我评价良好的反映
+mod of people generally thinking well of themselves → reflection | 介词补充 | of后people是thinking的逻辑主语，整个动名词复合结构说明反映什么
+point thinking没有时态，不独立另划限定从句。
+
+# 2014-2|3:5
+type 主从复合句
+chunks If you are depressed,〔C1〕 you won't be self-enhancing.〔主〕
+main 主语:you | 谓语:won't be self-enhancing
+gist 抑郁时你不会自我美化
+C1 条件状语从句 | 以抑郁状态为条件 | If | 句首If后you are depressed主系表完整；整块表示如果 | 主语:you | 谓语:are | 表语:depressed
+
+# 2014-2|4:0
+type 并列复合句
+chunks Knowing the results of Epley's study,〔修〕 it makes sense〔主〕 that many people hate photographs of themselves viscerally〔C1〕 - on one level,〔修〕 they don't even recognise the person in the picture as themselves.〔主〕
+main 形式主语:it | 谓语:makes | 宾语:sense | 真正主语:C1 || 主语:they | 谓语:don't … recognise | 宾语:the person | 宾补:as themselves
+gist 人们讨厌自己照片便容易理解，甚至认不出照片里的人
+C1 主语从句 | it后置的真正主语 | that | 前面it makes sense用it占位，后面many people hate photographs主谓宾完整；整块是可以理解的事 | 主语:many people | 谓语:hate | 宾语:photographs
+mod Knowing the results of Epley's study → 整句 | 背景状语 | 理解研究结果后可作此判断；逻辑理解者是读者，不是it
+mod of themselves → photographs | 介词定语 | 他们自己的照片
+mod in the picture → person | 介词定语 | 照片里的人
+point 原句句首分词的逻辑主体未直接作主句主语，属于悬垂表达；本批说明而不改原文。
+
+# 2014-2|4:1
+type 主从复合句
+chunks Facebook,〔主〕 therefore,〔修〕 is a self-enhancer's paradise,〔主〕 where people can share only the most flattering photos,〔C1〕 the cream of their wit, style, beauty, intellect and lifestyles.〔修〕
+main 主语:Facebook | 谓语:is | 表语:a self-enhancer's paradise
+gist 脸书是自我美化者的天堂
+C1 定语从句 | 修饰paradise | where | 前面是表虚拟场所的paradise，后面people can share photos主谓宾完整；where作地点状语 | 主语:people | 谓语:can share | 宾语:only the most flattering photos
+mod the cream of their wit, style, beauty, intellect and lifestyles → photos | 同位解释 | 只展示自己各方面精华，概括照片所展示的理想部分
+
+# 2014-2|4:2
+type 并列复合句
+chunks It's not〔主〕 that people's profiles are dishonest,〔C1〕 says Catalina Toma of Wisconsin-Madison University,〔修〕 "but〔连〕 they portray an idealised version〔主〕 of themselves."〔修〕
+main 主语＋谓语:It's not | 表语:C1 || &but || 主语:they | 谓语:portray | 宾语:an idealised version
+gist 并非个人主页不诚实，而是呈现了理想化自我
+C1 表语从句 | 作not后的表语内容 | that | 前面It's not缺判断内容，后面profiles are dishonest主系表完整；that只连接 | 主语:people's profiles | 谓语:are | 表语:dishonest
+mod says Catalina Toma of Wisconsin-Madison University → 整句 | 报道插入语 | 报道者Toma与引语内的they不能混为同一主语
+mod of themselves → version | 介词定语 | 他们自己的理想化版本
+
+# 2014-3|0:0
+type 并列复合句
+chunks The concept of man versus machine is at least as old〔主〕 as the industrial revolution,〔C1〕 but〔连〕 this phenomenon tends to be most acutely felt〔主〕 during economic downturns and fragile recoveries.〔修〕
+main 主语:The concept | 谓语:is | 表语:old || &but || 主语:this phenomenon | 谓语:tends | 表语:to be most acutely felt
+gist 人机之争由来已久，在经济低迷时尤其明显
+C1 比较状语从句 | as old as比较年代 | as | 前面as old提出同等比较，后面the industrial revolution省略对应年代谓语；比较两者历史长短 | 主语:the industrial revolution
+mod of man versus machine → concept | 介词定语 | 人与机器竞争的概念
+mod during economic downturns and fragile recoveries → felt | 时间状语 | 在经济衰退和脆弱复苏期
+
+# 2014-3|0:1
+type 主从复合句
+chunks And yet,〔修〕 it would be a mistake〔主〕 to think〔修〕 we are right now simply experiencing the painful side〔C1〕 of a boom and bust cycle.〔C1修〕
+main 形式主语:it | 谓语:would be | 表语:a mistake | 真正主语:to think
+gist 认为只是经历周期性痛苦会是误判
+C1 宾语从句 | 作think的宾语 | （省略 that） | 前面think缺判断内容，后面we are experiencing主谓宾完整；省略that | 主语:we | 谓语:are … experiencing | 宾语:the painful side
+mod of a boom and bust cycle → side | 介词定语 | 繁荣与萧条周期的一面
+
+# 2014-3|0:2
+type 简单句
+chunks Certain jobs have gone away〔主〕 for good, outmoded by machines.〔修〕
+main 主语:Certain jobs | 谓语:have gone away
+gist 某些岗位已永久消失
+mod for good → gone | 时间状语 | 永久地，不会再回归
+mod outmoded by machines → jobs | 分词补充 | 被机器淘汰的岗位，outmoded不是另一限定谓语
+
+# 2014-3|0:3
+type 主从复合句
+chunks Since technology has such an insatiable appetite〔C1〕 for eating up human jobs,〔C1修〕 this phenomenon will continue〔主〕 to restructure our economy in ways〔修〕 we cannot immediately foresee.〔C2〕
+main 主语:this phenomenon | 谓语:will continue
+gist 这一现象将持续重塑经济
+C1 原因状语从句 | 说明持续重塑的原因 | Since | 句首Since后technology has appetite主谓宾完整；此处说原因而非起始时间 | 主语:technology | 谓语:has | 宾语:such an insatiable appetite
+C2 定语从句 | 修饰ways | （省略 that） | 前面是ways，后面we cannot foresee缺宾语；省略关系词作宾语 | 主语:we | 谓语:cannot … foresee
+mod for eating up human jobs → appetite | 介词定语 | 对吞噬人类岗位的胃口
+mod to restructure our economy in ways → continue | 不定式补充 | 以相应方式继续重塑经济
+
+# 2014-3|1:1
+type 主从复合句
+chunks This argument has attracted a lot of attention,〔主〕 via the success of the book Race Against the Machine, by Erik Brynjolfsson and Andrew McAfee,〔修〕 who both hail from MIT's Center for Digital Business.〔C1〕
+main 主语:This argument | 谓语:has attracted | 宾语:a lot of attention
+gist 这一论点引起广泛注意
+C1 定语从句 | 修饰两位作者 | who | 前面是Erik Brynjolfsson and Andrew McAfee，后面hail缺主语；who指两人 | 主语:who | 谓语:hail
+mod via the success of the book Race Against the Machine, by Erik Brynjolfsson and Andrew McAfee → attracted | 渠道状语 | 通过两位作者的畅销书传播
+mod from MIT's Center for Digital Business → hail | 来源补足 | 两人来自MIT数字商业中心
+
+# 2014-3|2:0
+type 简单句
+chunks This is a powerful argument, and a scary one.〔主〕
+main 主语:This | 谓语:is | 表语:a powerful argument … and a scary one
+gist 这既是有力的论点，也是吓人的论点
+point and后a scary one与a powerful argument并列表语，one替代argument。
+
+# 2014-3|2:1
+type 主从复合句
+chunks And yet,〔修〕 John Hagel,〔主〕 author of The Power of Pull and other books,〔修〕 says〔主〕 Brynjolfsson and McAfee miss the reason〔C1〕 why these jobs are so vulnerable〔C2〕 to technology in the first place.〔C2修〕
+main 主语:John Hagel | 谓语:says | 宾语:C1
+gist 哈格尔指出两位作者漏看了根本原因
+C1 宾语从句 | 作says的宾语 | （省略 that） | 前面says缺话语内容，后面Brynjolfsson and McAfee miss reason主谓宾完整；省略that | 主语:Brynjolfsson and McAfee | 谓语:miss | 宾语:the reason
+C2 定语从句 in C1 | 修饰reason | why | 前面是reason，后面these jobs are vulnerable主系表完整；why作原因状语 | 主语:these jobs | 谓语:are | 表语:vulnerable
+mod author of The Power of Pull and other books → John Hagel | 同位语 | 说明哈格尔的作者身份
+mod to technology → vulnerable | 形容词补足 | 容易受技术影响
+mod in the first place → vulnerable | 语气状语 | 从根本上、最初为何如此
+
+# 2014-3|3:0
+type 主从复合句
+chunks Hagel says〔主〕 we have designed jobs〔C1〕 in the U. S.〔C1修〕 that tend to be "tightly scripted" and "highly standardized" ones〔C2〕 that leave no room for "individual initiative or creativity".〔C3〕
+main 主语:Hagel | 谓语:says | 宾语:C1
+gist 哈格尔说我们把工作设计得过度标准化
+C1 宾语从句 | 作says的宾语 | （省略 that） | 前面says缺内容，后面we have designed jobs主谓宾完整；省略that | 主语:we | 谓语:have designed | 宾语:jobs
+C2 定语从句 in C1 | 修饰jobs | that | 前面是jobs，后面tend缺主语；that指岗位 | 主语:that | 谓语:tend | 表语:to be "tightly scripted" and "highly standardized" ones
+C3 定语从句 in C2 | 修饰ones | that | 前面ones指此类工作，后面leave缺主语；that作主语 | 主语:that | 谓语:leave | 宾语:no room
+mod in the U. S. → designed | 地点状语 | 在美国设计的岗位
+mod for "individual initiative or creativity" → room | 介词定语 | 留给个人主动性创造力的空间
+
+# 2014-3|3:2
+type 并列复合句
+chunks That is〔主〕 how we have put a giant target sign〔C1〕 on the backs of American workers,〔C1修〕 Hagel says.〔主〕
+main 主语:That | 谓语:is | 表语:C1 || 主语:Hagel | 谓语:says
+gist 哈格尔说这正是让工人易受替代的方式
+C1 表语从句 | 作is的表语 | how | 前面That is缺表语，后面we have put a sign主谓宾完整；how表示方式 | 主语:we | 谓语:have put | 宾语:a giant target sign
+mod on the backs of American workers → put | 位置状语 | 在工人背后贴靶子是比喻，使他们成为替代目标
+
+# 2014-3|4:0
+type 并列复合句
+chunks It's time to reinvent〔主〕 the formula for〔修〕 how work is conducted,〔C1〕 since we are still relying on a very 20th century notion of work,〔C2〕 Hagel says.〔主〕
+main 主语＋谓语:It's | 表语:time || 主语:Hagel | 谓语:says
+gist 哈格尔说该重新设计工作的组织方式了
+C1 宾语从句 | 作for的宾语 | how | 前面介词for缺内容，后面work is conducted主谓完整；how表示工作开展方式 | 主语:work | 谓语:is conducted
+C2 原因状语从句 | 说明为何需要重构 | since | 前面改造工作的建议完整，since后we are relying主谓完整；此处给原因 | 主语:we | 谓语:are … relying
+mod to reinvent the formula → time | 不定式定语 | 该重塑公式的时候
+mod on a very 20th century notion of work → relying | 介词补足 | 仍依赖二十世纪式工作观
+
+# 2014-3|4:1
+type 主从复合句
+chunks In our rapidly changing economy,〔修〕 we more than ever need people〔主〕 in the workplace〔修〕 who can take initiative and exercise their imagination〔C1〕 "to respond to unexpected events".〔C1修〕
+main 主语:we | 谓语:need | 宾语:people
+gist 我们更需要有主动性和想象力的人
+C1 定语从句 | 修饰people | who | 前面是people，后面can take和exercise都缺共同主语；who指人 | 主语:who | 谓语:can take … and exercise | 宾语:initiative … their imagination
+mod more than ever → need | 程度状语 | 比以往任何时候更需要
+mod in the workplace → people | 介词定语 | 职场中的人
+mod "to respond to unexpected events" → exercise | 目的状语 | 发挥想象力以回应突发事件
+
+# 2014-3|4:2
+type 主从复合句
+chunks That is not something〔主〕 machines are good at.〔C1〕
+main 主语:That | 谓语:is not | 表语:something
+gist 这不是机器擅长的事
+C1 定语从句 | 修饰something | （省略 that） | 前面是something，后面machines are good at缺介词at的宾语；省略关系词 | 主语:machines | 谓语:are | 表语:good
+
+# 2014-3|4:3
+type 简单句
+chunks They are designed〔主〕 to perform very predictable activities.〔修〕
+main 主语:They | 谓语:are designed
+gist 机器被设计来执行可预测活动
+mod to perform very predictable activities → designed | 目的补充 | 设计目的，不是机器自主选择
+
+# 2014-3|5:0
+type 主从复合句
+chunks As Hagel notes,〔C1〕 Brynjolfsson and McAfee indeed touched on this point〔主〕 in their book.〔修〕
+main 主语:Brynjolfsson and McAfee | 谓语:touched on | 宾语:this point
+gist 两位作者确实也谈到了这一点
+C1 状语从句（方式） | 引用哈格尔所述 | As | 句首As后Hagel notes缺所述内容，as回指整个主句；表示正如所言 | 主语:Hagel | 谓语:notes
+mod in their book → touched | 出处状语 | 在他们的书中
+point touched on是提及，on this point是动词介词补足；indeed强调他们确有提及。
+
+# 2014-3|5:2
+type 主从复合句
+chunks In other words,〔修〕 we need to look at the ways〔主〕 in which machines can augment human labor〔C1〕 rather than replace it.〔修〕
+main 主语:we | 谓语:need | 宾语:to look at the ways
+gist 我们需要寻找机器增强人类劳动的方式
+C1 定语从句 | 修饰ways | in which | 前面是ways，后面machines can augment labor主谓宾完整；in which作方式状语 | 主语:machines | 谓语:can augment | 宾语:human labor
+mod rather than replace it → augment | 并列对比 | 增强而非替代人类劳动，it指labor
+
+# 2014-4|0:0
+type 主从复合句
+chunks When the government talks about infrastructure contributing to the economy〔C1〕 the focus is usually on roads, railways, broadband and energy.〔主〕
+main 主语:the focus | 谓语:is | 表语:on roads, railways, broadband and energy
+gist 焦点通常在公路铁路宽带和能源上
+C1 时间状语从句 | 说明政府谈基础设施时 | When | 句首When后government talks主谓完整，后接话题；不是名词从句 | 主语:the government | 谓语:talks
+mod about infrastructure contributing to the economy → talks | 话题补足 | infrastructure是contributing的逻辑主语，分词说明其经济贡献
+
+# 2014-4|0:1
+type 简单句
+chunks Housing is seldom mentioned.〔主〕
+main 主语:Housing | 谓语:is … mentioned
+gist 住房很少被提及
+mod seldom → mentioned | 频率状语 | 很少
+
+# 2014-4|1:0
+type 简单句
+chunks Why is that?〔主〕
+main 主语:that | 谓语:is
+gist 为什么会这样
+point Why是疑问原因状语；that指住房很少被当作基础设施讨论这一事实。
+
+# 2014-4|1:1
+type 简单句
+chunks To some extent〔修〕 the housing sector must shoulder the blame.〔主〕
+main 主语:the housing sector | 谓语:must shoulder | 宾语:the blame
+gist 住房行业自身必须承担一部分责任
+
+# 2014-4|1:2
+type 主从复合句
+chunks We have not been good〔主〕 at communicating the real value〔修〕 that housing can contribute〔C1〕 to economic growth.〔C1修〕
+main 主语:We | 谓语:have not been | 表语:good
+gist 我们不善于传达住房的真实价值
+C1 定语从句 | 修饰value | that | 前面是value，后面housing can contribute缺宾语；that作贡献内容的宾语 | 主语:housing | 谓语:can contribute
+mod at communicating the real value → good | 形容词补足 | 善于向外传达真实价值
+mod to economic growth → contribute | 对象补足 | 对经济增长的贡献
+
+# 2014-4|1:4
+type 并列复合句
+chunks It is hard〔主〕 to shove for attention among multibillion-pound infrastructure projects,〔修〕 so〔连〕 it is inevitable〔主〕 that the attention is focused elsewhere.〔C1〕
+main 形式主语:It | 谓语:is | 表语:hard | 真正主语:to shove for attention || &so || 形式主语:it#2 | 谓语:is#2 | 表语:inevitable | 真正主语:C1
+gist 住房很难争取注意，因此关注落到别处难以避免
+C1 主语从句 | 第二个it后置的真正主语 | that | 前面it is inevitable用it占位，后面attention is focused主谓完整；整块才是不可避免的事 | 主语:the attention | 谓语:is focused
+mod among multibillion-pound infrastructure projects → shove | 范围状语 | 在数十亿英镑基建项目之间
+mod elsewhere → focused | 地点状语 | 注意力落到别处
+
+# 2014-4|1:5
+type 主从复合句
+chunks But perhaps〔修〕 the most significant reason is〔主〕 that the issue has always been so politically charged.〔C1〕
+main 主语:the most significant reason | 谓语:is | 表语:C1
+gist 最重要的原因可能是住房一直高度政治化
+C1 表语从句 | 作is的表语 | that | 前面reason is缺表语，后面issue has been charged主系表完整；that只连接 | 主语:the issue | 谓语:has … been | 表语:politically charged
+mod so → charged | 程度状语 | 带有如此强烈的政治色彩
+
+# 2014-4|2:0
+type 简单句
+chunks Nevertheless,〔修〕 the affordable housing situation is desperate.〔主〕
+main 主语:the affordable housing situation | 谓语:is | 表语:desperate
+gist 保障性住房形势十分严峻
+
+# 2014-4|2:1
+type 并列句
+chunks Waiting lists increase all the time〔主〕 and〔连〕 we are simply not building enough new homes.〔主〕
+main 主语:Waiting lists | 谓语:increase || &and || 主语:we | 谓语:are … not building | 宾语:enough new homes
+gist 轮候名单增长，而新房建设不足
+mod all the time → increase | 时间状语 | 一直增长
+point simply not building中的not否定建造数量充足，不能遗漏否定；Waiting在lists前为定语。
+
+# 2014-4|3:0
+type 简单句
+chunks The comprehensive spending review offers an opportunity〔主〕 for the government to help rectify this.〔修〕
+main 主语:The comprehensive spending review | 谓语:offers | 宾语:an opportunity
+gist 综合开支审查提供了纠偏机会
+mod for the government to help rectify this → opportunity | 不定式定语 | 政府是to help的逻辑主语，纠正住房供给问题
+
+# 2014-4|3:1
+type 简单句
+chunks It needs〔主〕 to put historical prejudices to one side and take some steps to address our urgent housing need.〔修〕
+main 主语:It | 谓语:needs | 宾语:to put historical prejudices to one side and take some steps
+gist 政府需要放下偏见并采取措施
+mod to address our urgent housing need → steps | 不定式定语 | 解决迫切住房需求的措施
+point put和take在to后并列，不是needs与take两个限定谓语；It承接government。
+
+# 2014-4|4:1
+type 主从复合句
+chunks The communities minister,〔主〕 Don Foster,〔修〕 has hinted〔主〕 that George Osborne,〔C1〕 Chancellor of the Exchequer,〔修〕 may introduce more flexibility〔C1〕 to the current cap on the amount〔C1修〕 that local authorities can borrow against their housing stock debt.〔C2〕
+main 主语:The communities minister | 谓语:has hinted | 宾语:C1
+gist 社区事务大臣暗示政府可能放宽借贷上限
+C1 宾语从句 | 作hinted的宾语 | that | 前面hinted缺暗示内容，后面George Osborne may introduce主谓宾完整；that只连接 | 主语:George Osborne | 谓语:may introduce | 宾语:more flexibility
+C2 定语从句 in C1 | 修饰amount | that | 前面是amount，后面local authorities can borrow缺借贷数量宾语；that作宾语 | 主语:local authorities | 谓语:can borrow
+mod Don Foster → minister | 同位语 | 社区事务大臣的姓名
+mod Chancellor of the Exchequer → George Osborne | 同位语 | 财政大臣身份
+mod to the current cap on the amount → flexibility | 介词补足 | 对当前限额引入弹性
+mod against their housing stock debt → borrow | 抵押依据 | 现有原文措辞保留，不改写借贷条件
+
+# 2014-4|4:2
+type 主从复合句
+chunks Evidence shows〔主〕 that 60,000 extra new homes could be built〔C1〕 over the next five years〔C1修〕 if the cap were lifted,〔C2〕 increasing GDP by 0.6%.〔修〕
+main 主语:Evidence | 谓语:shows | 宾语:C1
+gist 证据表明放宽上限可以增加住房
+C1 宾语从句 | 作shows的宾语 | that | 前面shows缺显示内容，后面homes could be built主谓完整；that只连接 | 主语:60,000 extra new homes | 谓语:could be built
+C2 条件状语从句 in C1 | 假设取消上限 | if | 前面增加住房的判断完整，if后cap were lifted主谓完整；表示假设条件 | 主语:the cap | 谓语:were lifted
+mod over the next five years → built | 时间状语 | 在未来五年里
+mod increasing GDP by 0.6% → 整句 | 结果状语 | 多建住房可能带来的GDP结果，increasing不是限定谓语
+
+# 2014-4|6:0
+type 简单句
+chunks But〔修〕 it is not just down to the government.〔主〕
+main 主语:it | 谓语:is not | 表语:down to the government
+gist 这不完全取决于政府
+mod just → down to | 范围限定 | 不只是政府一方的责任
+
+# 2014-4|6:2
+type 主从复合句
+chunks The Labour party has recently announced〔主〕 that it will retain a large part of the coalition's spending plans〔C1〕 if it returns to power.〔C2〕
+main 主语:The Labour party | 谓语:has … announced | 宾语:C1
+gist 工党宣布将保留大部分现有支出计划
+C1 宾语从句 | 作announced的宾语 | that | 前面announced缺内容，后面it will retain a part主谓宾完整；that只连接 | 主语:it | 谓语:will retain | 宾语:a large part
+C2 条件状语从句 in C1 | 以工党重新执政为条件 | if | 前面保留计划的声明完整，if后it returns主谓完整；表示如果 | 主语:it | 谓语:returns
+mod of the coalition's spending plans → part | 介词定语 | 联合政府开支计划的一大部分
+mod to power → returns | 结果状态 | 重新掌权
+
+# 2014-4|6:3
+type 主从复合句
+chunks The housing sector needs to accept〔主〕 that we are very unlikely〔C1〕 to ever return to the era of large-scale public grants.〔C1修〕
+main 主语:The housing sector | 谓语:needs | 宾语:to accept
+gist 住房行业需要接受公共拨款不会大规模回归的现实
+C1 宾语从句 | 作accept的宾语 | that | 前面accept缺接受内容，后面we are unlikely主系表完整；that只连接 | 主语:we | 谓语:are | 表语:unlikely
+mod very → unlikely | 程度状语 | 极不可能
+mod to ever return to the era of large-scale public grants → unlikely | 不定式补充 | 再回到大规模公共补助的时代
+
+# 2014-4|6:4
+type 简单句
+chunks We need to adjust〔主〕 to this changing climate.〔修〕
+main 主语:We | 谓语:need | 宾语:to adjust
+gist 我们需要适应变化的环境
+mod to this changing climate → adjust | 介词补足 | 适应这种变化的政策资金环境
+
+# 2014-4|7:0
+type 主从复合句
+chunks While the government's commitment to long-term funding may have changed,〔C1〕 the very pressing need for more affordable housing〔主〕 is real〔主〕 and〔连〕 is not going away.〔主〕
+main 主语:the very pressing need | 谓语:is | 表语:real || &and || 谓语:is not going away
+gist 住房需求真实存在，不会消失
+C1 让步状语从句 | 承认政府资助承诺可能变化 | While | 句首While后commitment may have changed主谓完整；与需求不变构成让步对照，不是同时发生的时间 | 主语:the government's commitment | 谓语:may have changed
+mod to long-term funding → commitment | 介词定语 | 对长期资助的承诺
+mod for more affordable housing → need | 介词定语 | 对更多保障性住房的需求

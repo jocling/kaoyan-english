@@ -1,0 +1,526 @@
+# 2013-1|0:0
+type 并列复合句
+chunks In an essay entitled "Making It in America,"〔修〕 the author Adam Davidson relates a joke〔主〕 from cotton country about〔修〕 just how much a modern textile mill has been automated:〔C1〕 The average mill has only two employees today, "a man and a dog.〔主〕
+main 主语:the author Adam Davidson | 谓语:relates | 宾语:a joke || 主语:The average mill | 谓语:has | 宾语:only two employees
+gist 戴维森讲了一个笑话：普通纺织厂如今只需两名员工
+C1 宾语从句 | 作about的宾语 | how much | 前面介词about缺内容，后面a mill has been automated主谓完整；how much表示自动化程度 | 主语:a modern textile mill | 谓语:has been automated
+mod In an essay entitled "Making It in America," → relates | 出处状语 | 在一篇题为此名的文章中，entitled是修饰essay的分词
+mod from cotton country → joke | 介词定语 | 来自棉产区的笑话
+mod "a man and a dog. → employees | 同位语 | 两名所谓员工是一个人和一条狗；引号跨到下一条
+point 冒号后是笑话内容的独立分句，不属于how much从句的骨架。
+
+# 2013-1|0:1
+type 并列句
+chunks The man is there〔主〕 to feed the dog,〔修〕 and〔连〕 the dog is there〔主〕 to keep the man away from the machines."〔修〕
+main 主语:The man | 谓语:is | 表语:there || &and || 主语:the dog#2 | 谓语:is#2 | 表语:there#2
+gist 人和狗各有用途
+mod to feed the dog → is | 目的状语 | 人在场是为了喂狗
+mod to keep the man away from the machines → the dog | 目的状语 | 狗在场是为了使人远离机器
+point 两个to do说明各自在场的目的；keep中the man是宾语，away from the machines是宾补。
+
+# 2013-1|1:0
+type 主从复合句
+chunks Davidson's article is one of a number of pieces〔主〕 that have recently appeared〔C1〕 making the point〔C1修〕 that the reason〔C2〕 we have such stubbornly high unemployment and declining middle-class incomes today〔C3〕 is largely because of the big drop in demand because of the Great Recession,〔C2〕 but〔连〕 it is also because of the advances in both globalization and the information technology revolution,〔C2〕 which are more rapidly than ever replacing labor with machines or foreign workers.〔C4〕
+main 主语:Davidson's article | 谓语:is | 表语:one
+gist 戴维森的文章是近期一批文章中的一篇
+C1 定语从句 | 修饰pieces | that | 前面是pieces，后面have appeared缺主语；that指文章作主语 | 主语:that | 谓语:have … appeared
+C2 同位语从句 in C1 | 解释point的内容 | that | 前面是抽象名词point，后面the reason is…并列it is…结构完整；that不在其中作成分 | 主语:the reason | 谓语:is | 表语:because of the big drop || 主语:it | 谓语:is#3 | 表语:because of the advances
+C3 定语从句 in C2 | 修饰reason | （省略 that） | 前面是reason，后面we have unemployment and incomes主谓宾完整；省略关系词在此相当于why，说明原因 | 主语:we | 谓语:have | 宾语:such stubbornly high unemployment and declining middle-class incomes
+C4 定语从句 in C2 | 修饰advances | which | 前面说全球化和技术革命的advances，后面are replacing缺主语；which指这些进步 | 主语:which | 谓语:are … replacing | 宾语:labor
+mod of a number of pieces → one | 介词定语 | 若干文章中的一篇
+mod making the point → pieces | 分词补充 | 这些文章提出共同观点
+mod in demand because of the Great Recession → drop | 介词定语 | 由大衰退造成的需求下降
+mod with machines or foreign workers → replacing | 介词补足 | 用机器或外国工人替换劳动力
+point C2内部but并列两种原因，it承接前述局面；不是另起主句来评价article。
+
+# 2013-1|2:0
+type 简单句
+chunks In the past,〔修〕 workers with average skills,〔主〕 doing an average job,〔修〕 could earn an average lifestyle.〔主〕
+main 主语:workers | 谓语:could earn | 宾语:an average lifestyle
+gist 普通工人过去能挣得普通生活
+mod with average skills → workers | 介词定语 | 技能一般的工人
+mod doing an average job → workers | 分词补充 | 做普通工作，doing不带时态
+
+# 2013-1|2:1
+type 简单句
+chunks But, today,〔修〕 average is officially over.〔主〕
+main 主语:average | 谓语:is | 表语:over
+gist 平庸时代正式结束
+mod officially → over | 语气状语 | 正式宣告终结
+point average在此作名词性主语，指处于平均水平这种状态。
+
+# 2013-1|2:2
+type 主从复合句
+chunks Being average just won't earn you〔主〕 what it used to.〔C1〕
+main 主语:Being average | 谓语:won't earn | 间接宾语:you | 直接宾语:C1
+gist 仅仅平庸再也挣不到过去的回报
+C1 宾语从句 | 作earn的直接宾语 | what | 前面earn you还缺所得内容，后面it used to省略earn且缺所得对象；what代表过去能挣到的东西 | 主语:it | 谓语:used to
+mod just → won't earn | 限定状语 | 仅仅做到一般水平不够
+point Being average是动名词主语，won't earn才是谓语；used to后省略earn you。
+
+# 2013-1|2:3
+type 主从复合句
+chunks It can't〔主〕 when so many more employers have so much more access〔C1〕 to so much more above average cheap foreign labor, cheap robotics, cheap software, cheap automation and cheap genius.〔C1修〕
+main 主语:It | 谓语:can't
+gist 靠平庸已无法挣到过去的收入
+C1 原因状语从句 | 说明为什么不再可能 | when | 前面It can't省略上一句动作，when后employers have access主谓宾完整；此处表示既然处于这种环境 | 主语:so many more employers | 谓语:have | 宾语:so much more access
+mod to so much more above average cheap foreign labor, cheap robotics, cheap software, cheap automation and cheap genius → access | 介词定语 | 可获得多种廉价而优质的替代资源
+point can't后省略earn you what it used to；不能把can当完整实义动作来翻译。
+
+# 2013-1|2:4
+type 主从复合句
+chunks Therefore,〔修〕 everyone needs〔主〕 to find their extra - their unique value contribution〔修〕 that makes them stand out〔C1〕 in〔C1修〕 whatever is their field of employment.〔C2〕
+main 主语:everyone | 谓语:needs | 宾语:to find their extra
+gist 每个人都需要找到独特优势
+C1 定语从句 | 修饰contribution | that | 前面是contribution，后面makes缺主语；that指独特贡献 | 主语:that | 谓语:makes | 宾语:them | 宾补:stand out
+C2 宾语从句 in C1 | 作in的宾语 | whatever | 前面介词in缺领域内容，后面is缺主语；whatever作主语，表示无论何种领域 | 主语:whatever | 谓语:is | 表语:their field
+mod their unique value contribution → extra | 同位语 | extra就是独特的价值贡献
+mod of employment → field | 介词定语 | 从业领域
+
+# 2013-1|3:0
+type 简单句
+chunks Yes,〔修〕 new technology has been eating jobs〔主〕 forever,〔修〕 and〔连〕 always will.〔主〕
+main 主语:new technology | 谓语:has been eating | 宾语:jobs || &and || 谓语:will
+gist 技术一直吞噬岗位，而且还会继续
+point and后省略主语new technology与eat jobs，always表示持续；不能把always will当新主句。
+
+# 2013-1|3:1
+type 简单句
+chunks But〔修〕 there's been an acceleration.〔主〕
+main 主语＋谓语:there's … been | 真正主语:an acceleration
+gist 这一进程出现了加速
+point there's been是there has been的缩写，不是there is been。
+
+# 2013-1|4:0
+type 简单句
+chunks There will always be change〔主〕 - new jobs, new products, new services.〔修〕
+main 形式主语:There | 谓语:will … be | 真正主语:change
+gist 变化永远存在
+mod new jobs, new products, new services → change | 同位说明 | 变化表现为新工作、新产品和新服务
+
+# 2013-1|4:1
+type 主从复合句
+chunks But〔修〕 the one thing〔主〕 we know for sure〔C1〕 is〔主〕 that〔C2〕 with each advance in globalization and the I. T. revolution,〔C2修〕 the best jobs will require workers〔C2〕 to have more and better education to make themselves above average.〔C2修〕
+main 主语:the one thing | 谓语:is | 表语:C2
+gist 有一点可以确定：好工作会要求更好的教育
+C1 定语从句 | 修饰thing | （省略 that） | 前面是thing，后面we know缺宾语；省略关系词作know的宾语 | 主语:we | 谓语:know
+C2 表语从句 | 作is的表语 | that | 前面the one thing is缺表语，后面jobs will require主谓宾完整；that只连接 | 主语:the best jobs | 谓语:will require | 宾语:workers
+mod for sure → know | 方式状语 | 确定地知道
+mod with each advance in globalization and the I. T. revolution → require | 背景状语 | 随全球化和信息技术革命推进
+mod to have more and better education → workers | 宾补 | 要求工人接受更多更好教育
+mod to make themselves above average → have | 目的状语 | 使自己超越平均水平
+
+# 2013-1|5:0
+type 并列复合句
+chunks In a world〔修〕 where average is officially over,〔C1〕 there are many things〔主〕 we need to do to support employment,〔C2〕 but〔连〕 nothing would be more important〔主〕 than passing some kind of G. I. Bill for the 21st century〔C3〕 that ensures〔C4〕 that every American has access to post-high school education.〔C5〕
+main 形式主语:there | 谓语:are | 真正主语:many things || &but || 主语:nothing | 谓语:would be | 表语:more important
+gist 要做的事很多，但没有什么比保障高中后教育更重要
+C1 定语从句 | 修饰world | where | 前面是world，后面average is over主系表完整；where表示这种社会环境 | 主语:average | 谓语:is | 表语:over
+C2 定语从句 | 修饰things | （省略 that） | 前面是things，后面we need to do缺do的宾语；省略关系词作宾语 | 主语:we | 谓语:need | 宾语:to do
+C3 比较状语从句 | 与more important比较 | than | 前面more important引出比较，than后passing…是动名词比较项，省略重复谓语；比较立法与其他事项 | 主语:passing some kind of G. I. Bill
+C4 定语从句 in C3 | 修饰Bill | that | 前面是Bill，后面ensures缺主语；that指法案作主语 | 主语:that | 谓语:ensures | 宾语:C5
+C5 宾语从句 in C4 | 作ensures的宾语 | that | 前面ensures缺保障内容，后面every American has access主谓宾完整；that只连接 | 主语:every American | 谓语:has | 宾语:access
+mod to support employment → do | 目的状语 | 为了支持就业
+mod for the 21st century → Bill | 介词定语 | 面向二十一世纪的法案
+mod to post-high school education → access | 介词定语 | 接受高中之后教育的机会
+point nothing…more important than是用否定比较突出最高重要性，不是说立法不重要。
+
+# 2013-2|0:0
+type 简单句
+chunks A century ago,〔修〕 the immigrants〔主〕 from across the Atlantic〔修〕 included settlers and sojourners.〔主〕
+main 主语:the immigrants | 谓语:included | 宾语:settlers and sojourners
+gist 移民既包括定居者，也包括暂居者
+mod from across the Atlantic → immigrants | 介词定语 | 从大西洋彼岸来的移民
+
+# 2013-2|0:2
+type 主从复合句
+chunks Between 1908 and 1915,〔修〕 about 7 million people arrived〔主〕 while about 2 million departed.〔C1〕
+main 主语:about 7 million people | 谓语:arrived
+gist 约七百万人到来，同时有两百万人离开
+C1 状语从句（对比） | 对照到来与离开的人数 | while | 前面是完整分句，while后about 2 million departed也主谓完整；表示与此同时的对照 | 主语:about 2 million | 谓语:departed
+
+# 2013-2|0:3
+type 简单句
+chunks About a quarter of all Italian immigrants,〔主〕 for example,〔修〕 eventually returned to Italy〔主〕 for good.〔修〕
+main 主语:About a quarter of all Italian immigrants | 谓语:returned
+gist 约四分之一意大利移民最终回国
+mod to Italy → returned | 方向状语 | 返回意大利
+mod for good → returned | 时间状语 | 永久返回，不是为了好处
+
+# 2013-2|0:4
+type 简单句
+chunks They even had an affectionate nickname,〔主〕 "uccelli di passaggio," birds of passage.〔修〕
+main 主语:They | 谓语:had | 宾语:an affectionate nickname
+gist 他们还有一个亲切的绰号
+mod "uccelli di passaggio," birds of passage → nickname | 同位解释 | 意大利语昵称及英语解释都指候鸟
+
+# 2013-2|1:0
+type 简单句
+chunks Today,〔修〕 we are much more rigid〔主〕 about immigrants.〔修〕
+main 主语:we | 谓语:are | 表语:rigid
+gist 我们如今对移民的看法僵硬得多
+mod much more → rigid | 程度状语 | 比过去僵化得多
+mod about immigrants → rigid | 话题补充 | 在移民问题上
+
+# 2013-2|1:1
+type 简单句
+chunks We divide newcomers〔主〕 into two categories: legal or illegal, good or bad.〔修〕
+main 主语:We | 谓语:divide | 宾语:newcomers
+gist 我们把新来者简单地分成两类
+mod into two categories: legal or illegal, good or bad → divide | 结果补充 | 两类就是合法与非法、好与坏
+
+# 2013-2|1:2
+type 简单句
+chunks We hail them〔主〕 as Americans in the making,〔修〕 or〔连〕 brand them〔主〕 as aliens to be kicked out.〔修〕
+main 主语:We | 谓语:hail | 宾语:them || &or || 谓语:brand | 宾语:them#2
+gist 我们要么欢迎他们，要么给他们打上外来者烙印
+mod as Americans in the making → hail | 身份补充 | 当作正在成为美国人的人来欢迎
+mod as aliens to be kicked out → brand | 身份补充 | 视为应驱逐的外人，to be kicked out修饰aliens
+
+# 2013-2|1:3
+type 简单句
+chunks That framework has contributed〔主〕 mightily to our broken immigration system and the long political paralysis over〔修〕 how to fix it.〔修〕
+main 主语:That framework | 谓语:has contributed
+gist 这种框架大大造成了制度破碎与政治僵局
+mod mightily → contributed | 程度状语 | 大大促成
+mod to our broken immigration system and the long political paralysis → contributed | 介词补足 | 造成移民制度破碎和长期政治瘫痪
+mod how to fix it → paralysis | 疑问不定式补充 | 关于如何修复制度的僵局；不是限定从句
+
+# 2013-2|1:4
+type 并列复合句
+chunks We don't need more categories,〔主〕 but〔连〕 we need to change the way〔主〕 we think about categories.〔C1〕
+main 主语:We | 谓语:don't need | 宾语:more categories || &but || 主语:we#2 | 谓语:need#2 | 宾语:to change the way
+gist 我们不需要增加类别，而需要改变看待类别的方式
+C1 定语从句 | 修饰way | （省略 that） | 前面是way，后面we think about categories主谓及宾语完整；省略that或in which，表示思考方式 | 主语:we | 谓语:think
+mod about categories → think | 话题补充 | 思考分类问题
+
+# 2013-2|1:5
+type 简单句
+chunks We need to look〔主〕 beyond strict definitions of legal and illegal.〔修〕
+main 主语:We | 谓语:need | 宾语:to look
+gist 我们需要超越僵硬的合法与非法界定
+mod beyond strict definitions of legal and illegal → look | 观察范围 | 不局限于非黑即白的定义
+
+# 2013-2|1:6
+type 简单句
+chunks To start,〔修〕 we can recognize the new birds of passage,〔主〕 those living and thriving in the gray areas.〔修〕
+main 主语:we | 谓语:can recognize | 宾语:the new birds
+gist 我们可以先承认新的候鸟式移民
+mod of passage → birds | 介词定语 | birds of passage指候鸟式来去的移民
+mod those living and thriving in the gray areas → birds | 同位语 | 指在灰色地带生活与发展的人，living和thriving是分词
+
+# 2013-2|1:7
+type 简单句
+chunks We might then begin〔主〕 to solve our immigration challenges.〔修〕
+main 主语:We | 谓语:might … begin
+gist 我们这样才可能开始解决移民挑战
+mod to solve our immigration challenges → begin | 不定式补充 | 开始解决移民难题
+
+# 2013-2|2:0
+type 简单句
+chunks Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are〔主〕 among today's birds of passage.〔修〕
+main 主语:Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists | 谓语:are | 表语:among today's birds of passage
+gist 多种职业的人都属于今天的候鸟移民
+point 七类职业构成并列主语；among后是表语范围，不能只取physicists作主语。
+
+# 2013-2|2:1
+type 简单句
+chunks They are energetic participants〔主〕 in a global economy〔修〕 driven by the flow of work, money and ideas.〔修〕
+main 主语:They | 谓语:are | 表语:energetic participants
+gist 他们是全球经济中活跃的参与者
+mod in a global economy → participants | 介词定语 | 参与全球经济
+mod driven by the flow of work, money and ideas → economy | 分词定语 | 经济由工作、资金与思想流动推动，driven不是谓语
+
+# 2013-2|2:2
+type 主从复合句
+chunks They prefer to come and go〔主〕 as opportunity calls them.〔C1〕
+main 主语:They | 谓语:prefer | 宾语:to come and go
+gist 他们更愿意随机遇来去
+C1 状语从句（方式） | 说明怎样决定来去 | as | 前面come and go已完整，as后opportunity calls them主谓宾完整；表示按照机遇的召唤 | 主语:opportunity | 谓语:calls | 宾语:them
+
+# 2013-2|2:3
+type 简单句
+chunks They can manage〔主〕 to have a job in one place and a family in another.〔修〕
+main 主语:They | 谓语:can manage
+gist 他们能兼顾异地工作与家庭
+mod to have a job in one place and a family in another → manage | 不定式补充 | 一个地方工作、另一个地方有家；and并列job与family
+
+# 2013-2|3:0
+type 简单句
+chunks With or without permission,〔修〕 they straddle laws, jurisdictions and identities〔主〕 with ease.〔修〕
+main 主语:they | 谓语:straddle | 宾语:laws, jurisdictions and identities
+gist 他们跨越法律、管辖与身份界限
+mod with ease → straddle | 方式状语 | 轻松地跨越
+
+# 2013-2|3:1
+type 主从复合句
+chunks We need them〔主〕 to imagine the United States as a place〔修〕 where they can be productive〔C1〕 for a while without committing themselves to staying forever.〔C1修〕
+main 主语:We | 谓语:need | 宾语:them | 宾补:to imagine the United States as a place
+gist 我们需要他们把美国看成可暂时工作的地方
+C1 定语从句 | 修饰place | where | 前面是地点place，后面they can be productive主系表完整；where作地点状语 | 主语:they | 谓语:can be | 表语:productive
+mod for a while → productive | 时间状语 | 在此高效工作一段时间
+mod without committing themselves to staying forever → productive | 条件状语 | 无须承诺永远留下，staying为介词to的宾语
+
+# 2013-2|3:2
+type 主从复合句
+chunks We need them to feel〔主〕 that home can be both here and there〔C1〕 and〔连〕 that they can belong to two nations honorably.〔C2〕
+main 主语:We | 谓语:need | 宾语:them | 宾补:to feel
+gist 我们需要他们感到两地都可以是家
+C1 宾语从句 | 作feel的宾语 | that | 前面feel缺所感内容，后面home can be here and there主系表完整；that只连接 | 主语:home | 谓语:can be | 表语:both here and there
+C2 宾语从句 | 与C1并列作feel的宾语 | that | 前面and并列两个感受，后面they can belong主谓完整；that只连接 | 主语:they | 谓语:can belong
+mod to two nations → belong | 介词补足 | 归属于两个国家
+mod honorably → belong | 方式状语 | 光明正大地归属
+
+# 2013-2|4:1
+type 主从复合句
+chunks Looking beyond the culture war logic of right or wrong〔主〕 means opening up the middle ground and understanding〔主〕 that managing immigration today requires multiple paths and multiple outcomes,〔C1〕 including some〔C1修〕 that are not easy to accomplish legally in the existing system.〔C2〕
+main 主语:Looking beyond the culture war logic of right or wrong | 谓语:means | 宾语:opening up the middle ground and understanding
+gist 超越非对即错的逻辑，就要开辟中间空间并理解多种路径
+C1 宾语从句 | 作understanding的宾语 | that | 前面understanding缺理解内容，后面managing immigration requires主谓宾完整；that只连接 | 主语:managing immigration today | 谓语:requires | 宾语:multiple paths and multiple outcomes
+C2 定语从句 in C1 | 修饰some | that | 前面some指一些路径和结果，后面are not easy缺主语；that代指它们 | 主语:that | 谓语:are not | 表语:easy
+mod to accomplish legally in the existing system → easy | 不定式补充 | 在现有制度中合法实现不容易
+point Looking…是主语；opening和understanding是means的并列动名词宾语，只有means带时态。
+
+# 2013-3|0:0
+type 主从复合句
+chunks Scientists have found〔主〕 that〔C1〕 although we are prone to snap overreactions,〔C2〕 if we take a moment and think about〔C3〕 how we are likely to react,〔C4〕 we can reduce or even eliminate the negative effects of our quick, hard-wired responses.〔C1〕
+main 主语:Scientists | 谓语:have found | 宾语:C1
+gist 科学家发现停顿思考能减轻本能反应的负面影响
+C1 宾语从句 | 作found的宾语 | that | 前面found缺发现内容，后面最终由we can reduce构成完整主谓宾；that只连接 | 主语:we | 谓语:can reduce or even eliminate | 宾语:the negative effects
+C2 让步状语从句 in C1 | 承认人容易过度反应 | although | 前面that引出发现，although后we are prone结构完整；让步于后文可减少影响的结论 | 主语:we | 谓语:are | 表语:prone
+C3 条件状语从句 in C1 | 提出停顿思考的条件 | if | 前面让步句结束，if后we take和think主谓宾完整；表示如果 | 主语:we | 谓语:take … and think | 宾语:a moment
+C4 宾语从句 in C3 | 作about的宾语 | how | 前面介词about缺内容，后面we are likely to react主系表完整；how表示反应方式 | 主语:we | 谓语:are | 表语:likely
+mod to snap overreactions → prone | 形容词补足 | 容易瞬间过度反应
+mod of our quick, hard-wired responses → effects | 介词定语 | 快速本能反应的负面效果
+
+# 2013-3|1:0
+type 并列复合句
+chunks Snap decisions can be important defense mechanisms;〔主〕 if we are judging〔C1〕 whether someone is dangerous,〔C2〕 our brains and bodies are hard-wired〔主〕 to react very quickly, within milliseconds.〔修〕
+main 主语:Snap decisions | 谓语:can be | 表语:important defense mechanisms || 主语:our brains and bodies | 谓语:are hard-wired
+gist 瞬间决定可以防御危险，大脑身体会本能地快速反应
+C1 条件状语从句 | 设定判断危险的情景 | if | 分号后if引出条件，we are judging主谓完整且带宾语从句；不是主句 | 主语:we | 谓语:are judging | 宾语:C2
+C2 宾语从句 in C1 | 作judging的宾语 | whether | 前面judging缺判断内容，后面someone is dangerous主系表完整；whether表示是否 | 主语:someone | 谓语:is | 表语:dangerous
+mod to react very quickly, within milliseconds → hard-wired | 不定式补充 | 天生会在毫秒内快速反应
+
+# 2013-3|1:1
+type 简单句
+chunks But〔修〕 we need more time〔主〕 to assess other factors.〔修〕
+main 主语:we | 谓语:need | 宾语:more time
+gist 评估其他因素需要更多时间
+mod to assess other factors → time | 不定式定语 | 用来评估其他因素的时间
+
+# 2013-3|1:2
+type 主从复合句
+chunks To accurately tell〔修〕 whether someone is sociable,〔C1〕 studies show,〔修〕 we need at least a minute, preferably five.〔主〕
+main 主语:we | 谓语:need | 宾语:at least a minute
+gist 我们至少需要一分钟
+C1 宾语从句 | 作tell的宾语 | whether | 前面tell缺判断内容，后面someone is sociable主系表完整；whether表示是否 | 主语:someone | 谓语:is | 表语:sociable
+mod To accurately tell → need | 目的状语 | 为了准确判断
+mod studies show → 整句 | 插入报道语 | 研究表明，独立于前面的whether从句
+mod preferably five → a minute | 数量补充 | 最好五分钟，five省略minutes
+
+# 2013-3|2:0
+type 简单句
+chunks But〔修〕 snap decisions〔主〕 in reaction to rapid stimuli〔修〕 aren't exclusive〔主〕 to the interpersonal realm.〔修〕
+main 主语:snap decisions | 谓语:aren't | 表语:exclusive
+gist 瞬间决定并不限于人际领域
+mod in reaction to rapid stimuli → decisions | 介词定语 | 对快速刺激作出的决定
+mod to the interpersonal realm → exclusive | 形容词补足 | 不仅仅属于人际领域
+
+# 2013-3|2:1
+type 主从复合句
+chunks Psychologists at the University of Toronto〔主〕 found〔主〕 that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster,〔C1〕 even though reading has little to do with eating.〔C2〕
+main 主语:Psychologists | 谓语:found | 宾语:C1
+gist 心理学家发现快餐标志会加快阅读
+C1 宾语从句 | 作found的宾语 | that | 前面found缺研究结论，后面viewing…primes us主谓宾完整；动名词短语作从句主语 | 主语:viewing a fast-food logo for just a few milliseconds | 谓语:primes | 宾语:us | 宾补:to read 20 percent faster
+C2 让步状语从句 in C1 | 指出阅读与吃饭无关却受影响 | even though | 前面阅读提速结论完整，后面reading has little主谓宾完整；表示尽管 | 主语:reading | 谓语:has | 宾语:little
+mod at the University of Toronto → Psychologists | 介词定语 | 多伦多大学的研究者
+mod to do with eating → little | 不定式补充 | 与进食几乎没有关系
+
+# 2013-3|3:0
+type 简单句
+chunks Yet〔修〕 we can reverse such influences.〔主〕
+main 主语:we | 谓语:can reverse | 宾语:such influences
+gist 我们能够扭转这些影响
+
+# 2013-3|3:1
+type 主从复合句
+chunks If we know〔C1〕 we will overreact to consumer products or housing options〔C2〕 when we see a happy face〔C3〕 (one reason〔修〕 good sales representatives and real estate agents are always smiling),〔C4〕 we can take a moment〔主〕 before buying.〔修〕
+main 主语:we | 谓语:can take | 宾语:a moment
+gist 我们可以在购买前停一停
+C1 条件状语从句 | 假设已认识自己的反应 | If | 句首If后we know带完整宾语内容；整块表示条件 | 主语:we | 谓语:know | 宾语:C2
+C2 宾语从句 in C1 | 作know的宾语 | （省略 that） | 前面know缺内容，后面we will overreact主谓完整；省略that | 主语:we | 谓语:will overreact
+C3 时间状语从句 in C2 | 说明何时过度反应 | when | 前面说overreact，when后we see a face主谓宾完整；表示看见笑脸时 | 主语:we | 谓语:see | 宾语:a happy face
+C4 定语从句 | 修饰插入语中的reason | （省略 that） | 前面是one reason，后面representatives and agents are smiling主谓完整；省略why或that表示原因 | 主语:good sales representatives and real estate agents | 谓语:are … smiling
+mod to consumer products or housing options → overreact | 介词补足 | 对商品或住房选择反应过度
+mod before buying → take | 时间状语 | 在购买前
+point 括号补充笑脸为什么常见，不把括号中的are smiling接为we的谓语。
+
+# 2013-3|3:2
+type 主从复合句
+chunks If we know〔C1〕 female job screeners are more likely to reject attractive female applicants,〔C2〕 we can help screeners understand their biases〔主〕 - or〔连〕 hire outside screeners.〔主〕
+main 主语:we | 谓语:can help | 宾语:screeners | 宾补:understand their biases || &or || 谓语:hire | 宾语:outside screeners
+gist 我们可帮助筛选人员认识偏见，或请外部人员筛选
+C1 条件状语从句 | 以已知偏见为条件 | If | 句首If后we know带宾语内容，整块条件限制主句措施 | 主语:we | 谓语:know | 宾语:C2
+C2 宾语从句 in C1 | 作know的宾语 | （省略 that） | 前面know缺内容，后面female job screeners are more likely结构完整；省略that | 主语:female job screeners | 谓语:are | 表语:more likely
+mod to reject attractive female applicants → likely | 不定式补充 | 更可能拒绝有魅力的女性求职者
+point hire与help并列，共用we和can；understand则在help的宾补里。
+
+# 2013-3|4:0
+type 主从复合句
+chunks John Gottman,〔主〕 the marriage expert,〔修〕 explains〔主〕 that we quickly "thin slice" information reliably〔C1〕 only after we ground such snap reactions in "thick sliced" long-term study.〔C2〕
+main 主语:John Gottman | 谓语:explains | 宾语:C1
+gist 戈特曼解释可靠快速判断需要长期研究
+C1 宾语从句 | 作explains的宾语 | that | 前面explains缺内容，后面we thin slice information主谓宾完整；that只连接 | 主语:we | 谓语:"thin slice" | 宾语:information
+C2 时间状语从句 in C1 | only after限制可靠判断的前提 | after | 前面only强调仅在之后，after后we ground reactions主谓宾完整；表示先长期研究再快速判断 | 主语:we | 谓语:ground | 宾语:such snap reactions
+mod the marriage expert → John Gottman | 同位语 | 婚姻专家身份
+mod in "thick sliced" long-term study → ground | 依据补充 | 把反应建立在长期深入研究上
+
+# 2013-3|4:1
+type 主从复合句
+chunks When Dr. Gottman really wants to assess〔C1〕 whether a couple will stay together,〔C2〕 he invites them〔主〕 to his island retreat for a much longer evaluation: two days, not two seconds.〔修〕
+main 主语:he | 谓语:invites | 宾语:them
+gist 他会邀请夫妇进行更长时间评估
+C1 时间状语从句 | 说明邀请发生的情景 | When | 句首When后Dr. Gottman wants主谓完整；表示想评估时 | 主语:Dr. Gottman | 谓语:wants | 宾语:to assess
+C2 宾语从句 in C1 | 作assess的宾语 | whether | 前面assess缺评估内容，后面a couple will stay together主谓完整；whether表示是否 | 主语:a couple | 谓语:will stay
+mod to his island retreat for a much longer evaluation: two days, not two seconds → invites | 地点与目的 | 到岛上用两天而非两秒评估
+
+# 2013-3|5:0
+type 并列复合句
+chunks Our ability to mute our hard-wired reactions by pausing〔主〕 is〔主〕 what differentiates us from animals:〔C1〕 dogs can think about the future〔主〕 only intermittently or for a few minutes.〔修〕
+main 主语:Our ability | 谓语:is | 表语:C1 || 主语:dogs | 谓语:can think
+gist 抑制本能反应的能力使人与动物不同；狗只能短暂思考未来
+C1 表语从句 | 作is的表语 | what | 前面is缺表语，后面differentiates缺主语；what作主语 | 主语:what | 谓语:differentiates | 宾语:us
+mod to mute our hard-wired reactions by pausing → ability | 不定式定语 | 通过停顿抑制本能反应的能力
+mod from animals → differentiates | 介词补足 | 把人与动物区分
+mod about the future → think | 话题补充 | 思考未来
+mod only intermittently or for a few minutes → think | 时间限定 | 只能间歇或短暂地思考
+
+# 2013-3|5:2
+type 主从复合句
+chunks Although technology might change the way〔C1〕 we react,〔C2〕 it hasn't changed our nature.〔主〕
+main 主语:it | 谓语:hasn't changed | 宾语:our nature
+gist 技术没有改变人的本性
+C1 让步状语从句 | 承认技术改变反应方式 | Although | 句首Although后technology might change有主谓宾；表示尽管 | 主语:technology | 谓语:might change | 宾语:the way
+C2 定语从句 in C1 | 修饰way | （省略 that） | 前面是way，后面we react主谓完整；省略关系词表示反应方式 | 主语:we | 谓语:react
+
+# 2013-3|5:3
+type 简单句
+chunks We still have the imaginative capacity〔主〕 to rise above temptation and reverse the high-speed trend.〔修〕
+main 主语:We | 谓语:have | 宾语:the imaginative capacity
+gist 我们仍有想象力去超越诱惑、扭转高速趋势
+mod to rise above temptation and reverse the high-speed trend → capacity | 不定式定语 | capacity的两项内容，and并列rise与reverse
+
+# 2013-4|0:0
+type 简单句
+chunks Europe is not a gender-equality heaven.〔主〕
+main 主语:Europe | 谓语:is not | 表语:a gender-equality heaven
+gist 欧洲不是性别平等的天堂
+
+# 2013-4|0:1
+type 并列复合句
+chunks In particular,〔修〕 the corporate workplace will never be completely family-friendly〔主〕 until women are part of senior management decisions,〔C1〕 and〔连〕 Europe's top corporate-governance positions〔主〕 remain overwhelmingly male.〔主〕
+main 主语:the corporate workplace | 谓语:will never be | 表语:family-friendly || &and || 主语:Europe's top corporate-governance positions | 谓语:remain | 表语:male
+gist 企业尚不能完全对家庭友好，高层职位仍被男性占据
+C1 时间状语从句 | not until说明实现条件 | until | 前面never be表示尚不能实现，until后women are part主系表完整；表示直到女性参与决策 | 主语:women | 谓语:are | 表语:part
+mod of senior management decisions → part | 介词补足 | 成为高层管理决策的一部分
+mod overwhelmingly → male | 程度状语 | 绝大多数由男性占据
+point never与until合看，表示在女性参与前无法完全实现家庭友好。
+
+# 2013-4|0:2
+type 简单句
+chunks Indeed,〔修〕 women hold only 14 per cent of positions〔主〕 on European corporate boards.〔修〕
+main 主语:women | 谓语:hold | 宾语:only 14 per cent of positions
+gist 女性只占百分之十四的董事席位
+mod on European corporate boards → positions | 介词定语 | 欧洲企业董事会中的席位
+
+# 2013-4|1:0
+type 简单句
+chunks The European Union is now considering legislation〔主〕 to compel corporate boards to maintain a certain proportion of women - up to 60 per cent.〔修〕
+main 主语:The European Union | 谓语:is … considering | 宾语:legislation
+gist 欧盟正考虑立法设女性董事比例
+mod to compel corporate boards to maintain a certain proportion of women → legislation | 不定式定语 | 立法强制董事会维持一定女性比例
+mod up to 60 per cent → proportion | 数值补充 | 原数据为最高百分之六十；本批保留原题数据不改数值
+
+# 2013-4|1:1
+type 简单句
+chunks This proposed mandate was born〔主〕 of frustration.〔修〕
+main 主语:This proposed mandate | 谓语:was born
+gist 拟议的强制规定源于挫败感
+mod of frustration → born | 来源补足 | born of表示源于
+
+# 2013-4|1:2
+type 简单句
+chunks Last year,〔修〕 European Commission Vice President Viviane Reding issued a call〔主〕 to voluntary action.〔修〕
+main 主语:European Commission Vice President Viviane Reding | 谓语:issued | 宾语:a call
+gist 雷丁发出了一项倡议
+mod to voluntary action → call | 介词定语 | 呼吁自愿行动
+
+# 2013-4|1:3
+type 简单句
+chunks Reding invited corporations〔主〕 to sign up for gender balance goals of 40 per cent female board membership.〔修〕
+main 主语:Reding | 谓语:invited | 宾语:corporations | 宾补:to sign up
+gist 雷丁邀请企业签署性别平衡目标
+mod for gender balance goals of 40 per cent female board membership → sign up | 介词补足 | 承诺女性董事达到百分之四十
+
+# 2013-4|1:4
+type 并列句
+chunks But〔修〕 her appeal was considered a failure:〔主〕 only 24 companies took it up.〔主〕
+main 主语:her appeal | 谓语:was considered | 主语补足语:a failure || 主语:only 24 companies | 谓语:took | 宾语:it
+gist 倡议被视为失败，只有二十四家公司响应
+point took it up中的up是短语动词的一部分；冒号后事实解释failure。
+
+# 2013-4|2:0
+type 主从复合句
+chunks Do we need quotas〔主〕 to ensure〔修〕 that women can continue to climb the corporate ladder fairly〔C1〕 as they balance work and family?〔C2〕
+main 主语:we | 谓语:Do … need | 宾语:quotas
+gist 我们是否需要配额制度
+C1 宾语从句 | 作ensure的宾语 | that | 前面ensure缺确保内容，后面women can continue主谓完整；that只连接 | 主语:women | 谓语:can continue | 宾语:to climb the corporate ladder
+C2 时间状语从句 in C1 | 说明同时兼顾工作与家庭 | as | 前面继续晋升的内容完整，as后they balance work and family主谓宾完整；表示同时 | 主语:they | 谓语:balance | 宾语:work and family
+mod to ensure → quotas | 不定式定语 | 配额所要确保的事项
+point 疑问句Do提前，实际主语仍是we，不把Do we当合并骨架。
+
+# 2013-4|3:0
+type 并列句
+chunks "Personally,〔修〕 I don't like quotas,"〔主〕 Reding said recently.〔主〕
+main 主语:I | 谓语:don't like | 宾语:quotas || 主语:Reding | 谓语:said
+gist 雷丁说自己不喜欢配额
+mod recently → said | 时间状语 | 最近说
+point Reding said是报道分句；第一人称I是引语内部主语。
+
+# 2013-4|3:1
+type 主从复合句
+chunks "But〔修〕 I like〔主〕 what the quotas do."〔C1〕
+main 主语:I | 谓语:like | 宾语:C1
+gist 我喜欢配额带来的结果
+C1 宾语从句 | 作like的宾语 | what | 前面like缺喜欢的对象，后面the quotas do缺宾语；what作do的宾语 | 主语:the quotas | 谓语:do | 宾语:what
+
+# 2013-4|4:0
+type 简单句
+chunks I understand Reding's reluctance〔主〕 - and her frustration.〔修〕
+main 主语:I | 谓语:understand | 宾语:Reding's reluctance … and her frustration
+gist 我理解雷丁的不情愿与挫败感
+point 破折号后的and追加并列宾语frustration，没有新的主语谓语。
+
+# 2013-4|5:0
+type 主从复合句
+chunks After all,〔修〕 four decades of evidence〔主〕 has now shown〔主〕 that corporations in Europe as well as the US〔C1〕 are evading the meritocratic hiring and promotion of women to top positions〔C1〕 - no matter how much "soft pressure" is put upon them.〔C2〕
+main 主语:four decades of evidence | 谓语:has … shown | 宾语:C1
+gist 四十年的证据显示企业仍回避公平提拔女性
+C1 宾语从句 | 作shown的宾语 | that | 前面shown缺显示内容，后面corporations are evading主谓宾完整；that只连接 | 主语:corporations | 谓语:are evading | 宾语:the meritocratic hiring and promotion
+C2 让步状语从句 in C1 | 无论施加多大软压力 | no matter how much | 前面企业回避的结论完整，后面soft pressure is put主谓完整；how much限定压力程度 | 主语:"soft pressure" | 谓语:is put
+mod in Europe as well as the US → corporations | 介词定语 | 欧洲以及美国的企业
+mod of women to top positions → hiring and promotion | 对象与方向 | 按能力聘用和提拔女性进入高层
+mod upon them → put | 对象状语 | 向企业施加压力
+point evidence是不可数名词，所以用has；meritocratic在这里指按能力与表现选拔，现有译文的精英管理说法易误导。
+
+# 2013-4|6:0
+type 主从复合句
+chunks If appropriate public policies were in place to help all women〔C1〕 - whether CEOs or their children's caregivers -〔修〕 and all families,〔C1〕 Sandberg would be no more newsworthy〔主〕 than any other highly capable person〔C2〕 living in a more just society.〔C2修〕
+main 主语:Sandberg | 谓语:would be | 表语:no more newsworthy
+gist 桑德伯格就不会比其他能干的人更值得报道
+C1 条件状语从句 | 假设公共政策到位 | If | 句首If后policies were in place主谓及补足完整，与would对应假设条件 | 主语:appropriate public policies | 谓语:were | 表语:in place
+C2 比较状语从句 | 比较新闻价值 | than | 前面no more newsworthy表示比较，than后any other person省略相同状态谓语；比较人与人 | 主语:any other highly capable person
+mod to help all women → policies | 不定式定语 | 帮助所有女性的政策
+mod whether CEOs or their children's caregivers → women | 让步补充 | 不论首席执行官还是照料者，省略they are
+mod living in a more just society → person | 分词定语 | 生活在更加公正社会的人

@@ -1,0 +1,142 @@
+{
+  "coverage": [
+    {
+      "year": 2012,
+      "all": 78,
+      "new": 59,
+      "questions": 20,
+      "options": 80
+    },
+    {
+      "year": 2013,
+      "all": 71,
+      "new": 61,
+      "questions": 20,
+      "options": 80
+    },
+    {
+      "year": 2014,
+      "all": 78,
+      "new": 63,
+      "questions": 20,
+      "options": 80
+    },
+    {
+      "year": 2015,
+      "all": 77,
+      "new": 62,
+      "questions": 20,
+      "options": 80
+    },
+    {
+      "year": 2016,
+      "all": 70,
+      "new": 53,
+      "questions": 20,
+      "options": 80
+    }
+  ],
+  "browser": {
+    "opened": 374,
+    "newOpened": 298,
+    "modClicks": 705,
+    "flows": 20,
+    "questions": 100,
+    "questionDOM": [
+      {
+        "tid": "2012-1",
+        "all": true
+      },
+      {
+        "tid": "2012-2",
+        "all": true
+      },
+      {
+        "tid": "2012-3",
+        "all": true
+      },
+      {
+        "tid": "2012-4",
+        "all": true
+      },
+      {
+        "tid": "2013-1",
+        "all": true
+      },
+      {
+        "tid": "2013-2",
+        "all": true
+      },
+      {
+        "tid": "2013-3",
+        "all": true
+      },
+      {
+        "tid": "2013-4",
+        "all": true
+      },
+      {
+        "tid": "2014-1",
+        "all": true
+      },
+      {
+        "tid": "2014-2",
+        "all": true
+      },
+      {
+        "tid": "2014-3",
+        "all": true
+      },
+      {
+        "tid": "2014-4",
+        "all": true
+      },
+      {
+        "tid": "2015-1",
+        "all": true
+      },
+      {
+        "tid": "2015-2",
+        "all": true
+      },
+      {
+        "tid": "2015-3",
+        "all": true
+      },
+      {
+        "tid": "2015-4",
+        "all": true
+      },
+      {
+        "tid": "2016-1",
+        "all": true
+      },
+      {
+        "tid": "2016-2",
+        "all": true
+      },
+      {
+        "tid": "2016-3",
+        "all": true
+      },
+      {
+        "tid": "2016-4",
+        "all": true
+      }
+    ],
+    "bad": [],
+    "errors": [],
+    "puts": 0
+  },
+  "check": "passed",
+  "freeze": 14,
+  "migrationGroups": 72,
+  "rebuild": "identical",
+  "audit": "independent Codex, not Claude",
+  "published": false,
+  "questionDOM": {
+    "questions": 100,
+    "options": 400,
+    "translations": 500
+  }
+}

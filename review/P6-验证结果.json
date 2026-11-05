@@ -1,0 +1,82 @@
+{
+  "guides": 24,
+  "checks": [
+    "all original prompts and chart data unchanged",
+    "24 guides rendered",
+    "local automatic drafts, A/B/year navigation, reload",
+    "self-check invalidation",
+    "history snapshot escaped safely",
+    "notes reload",
+    "copy and fallback",
+    "offline TXT export",
+    "9-unit full-paper route and active tab",
+    "chart zoom",
+    "desktop iPad mobile width",
+    "cloze restoration"
+  ],
+  "pageErrors": [],
+  "cloudPUT": 0,
+  "syncMerge": {
+    "first": {
+      "local": "本机旧笔记",
+      "cloud": "云端笔记",
+      "sameRef": true
+    },
+    "second": "第二轮云端",
+    "checks": {
+      "0": true,
+      "1": true,
+      "2": false
+    }
+  },
+  "referenceExcerpts": 4,
+  "freeze": 14,
+  "p5Regression": {
+    "questions": 95,
+    "options": 425,
+    "pendingMeanings": [
+      {
+        "year": 2024,
+        "n": 7,
+        "option": "D"
+      }
+    ],
+    "translationSentences": 35,
+    "flows": 7,
+    "nav": {
+      "label": "按年份做真题2015—2026",
+      "note": "按试卷顺序：完型 → 阅读（4篇） → 新题型 → 翻译 → 小作文 → 图表作文。全卷100分；作文保存练写记录，反馈经自查或另行批改。",
+      "kinds": [
+        "reading",
+        "cloze",
+        "newtype",
+        "translation",
+        "writing"
+      ]
+    },
+    "errors": [],
+    "puts": 0
+  },
+  "htmlSha256": "a50c994c1064bce3f9a34f4032937b7f3caaddfc0be7d2d39bf8146f7a00aad8",
+  "parseEntries": 1816,
+  "contentCheck": "passed",
+  "rebuild": "identical",
+  "formalClaudeReview": "pending",
+  "published": false,
+  "protectedHashesUnchanged": {
+    "records/attempts.json": true,
+    "build/base_v35.html": true,
+    "build/src/g36.js": true,
+    "build/src/g36.css": true,
+    "build/src/v39doc.js": true,
+    "build/src/v39doc.css": true,
+    "build/src/v39host.js": true,
+    "build/data/ecdict_ext.json": true,
+    "build/data/kdict.json": true,
+    "build/data/gptroot.json": true,
+    "build/data/papers/2023.json": true,
+    "build/data/papers/2024.json": true,
+    "build/data/papers/2025.json": true,
+    "build/data/papers/2026.json": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "questions": 95,
+  "options": 425,
+  "pendingMeanings": [
+    {
+      "year": 2024,
+      "n": 7,
+      "option": "D"
+    }
+  ],
+  "translationSentences": 35,
+  "flows": 7,
+  "nav": {
+    "label": "按年份做真题2015—2026",
+    "note": "按试卷顺序：完型 → 阅读（4篇） → 新题型 → 翻译。作文暂不纳入，当前每卷覆盖 75 分。",
+    "kinds": [
+      "reading",
+      "cloze",
+      "newtype",
+      "translation"
+    ]
+  },
+  "errors": [],
+  "puts": 0,
+  "parse": {
+    "entries": 1816,
+    "errors": 0
+  },
+  "checkContent": "passed",
+  "freeze": 14,
+  "migrationGroups": 72,
+  "rebuild": "identical",
+  "dictionaryMeanings": {
+    "slots": 320,
+    "sourced": 319,
+    "pending": [
+      {
+        "year": 2024,
+        "n": 7,
+        "option": "D",
+        "phrase": "look down on",
+        "next": "P7补来源；暂无"
+      }
+    ]
+  },
+  "audit": "independent Codex, not Claude",
+  "published": false,
+  "protected": "P4、已有拆解/译文、原题、答案键、词库与records均保留"
+}
