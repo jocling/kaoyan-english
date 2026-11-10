@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-11-10T01:51:20.494Z",
+ "updatedAt": "2026-11-10T01:51:56.619Z",
  "count": 30,
  "attempts": [
   {
@@ -9640,7 +9640,8 @@
    "radesky": "2026-11-10T01:45:20.359Z",
    "engagement": "2026-11-10T01:45:53.579Z",
    "disengage": "2026-11-10T01:46:01.999Z",
-   "bleed-over": "2026-11-10T01:46:22.077Z"
+   "bleed-over": "2026-11-10T01:46:22.077Z",
+   "tablets": "2026-11-10T01:51:54.029Z"
   },
   "archived": {
    "uccelli": {
@@ -14233,7 +14234,7 @@
      "assembling",
      "chewing"
     ],
-    "sessionAt": 1794275456464,
+    "sessionAt": 1794275486464,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -15197,7 +15198,7 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1794275442887,
+    "cursorAt30": 1794275480512,
     "quick39": false,
     "stage0": null,
     "home41Seen": true,
@@ -15206,7 +15207,7 @@
     "libTab42": {},
     "v43list": true
    },
-   "updatedAt": 1794275456464
+   "updatedAt": 1794275486464
   },
   "sentenceReview27": {
    "version": 27,
