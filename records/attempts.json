@@ -1,6 +1,6 @@
 {
  "app": "英语工作台",
- "updatedAt": "2026-11-10T01:52:55.931Z",
+ "updatedAt": "2026-11-10T02:15:19.101Z",
  "count": 30,
  "attempts": [
   {
@@ -8677,6 +8677,174 @@
      "p": 1,
      "s": 0,
      "sent": "Radesky has studied the use of mobile phones and tablets at mealtimes by giving mother-child pairs a food-testing exercise."
+    },
+    {
+     "w": "verbal",
+     "raw": "verbal",
+     "p": 1,
+     "s": 1,
+     "sent": "She found that mothers who used devices during the exercise started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children."
+    },
+    {
+     "w": "nonverbal",
+     "raw": "nonverbal",
+     "p": 1,
+     "s": 1,
+     "sent": "She found that mothers who used devices during the exercise started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children."
+    },
+    {
+     "w": "pairs",
+     "raw": "pairs",
+     "p": 1,
+     "s": 0,
+     "sent": "Radesky has studied the use of mobile phones and tablets at mealtimes by giving mother-child pairs a food-testing exercise."
+    },
+    {
+     "w": "separate",
+     "raw": "separate",
+     "p": 1,
+     "s": 2,
+     "sent": "During a separate observation, she saw that phones became a source of tension in the family."
+    },
+    {
+     "w": "observation",
+     "raw": "observation,",
+     "p": 1,
+     "s": 2,
+     "sent": "During a separate observation, she saw that phones became a source of tension in the family."
+    },
+    {
+     "w": "tension",
+     "raw": "tension",
+     "p": 1,
+     "s": 2,
+     "sent": "During a separate observation, she saw that phones became a source of tension in the family."
+    },
+    {
+     "w": "bids",
+     "raw": "bids",
+     "p": 1,
+     "s": 3,
+     "sent": "Parents would be looking at their emails while the children would be making excited bids for their attention."
+    },
+    {
+     "w": "wired",
+     "raw": "wired",
+     "p": 2,
+     "s": 0,
+     "sent": "Infants are wired to look at parents' faces to try to understand their world, and if those faces are blank and unresponsive - as they often are when absorbed in a device - it can be extremely disconcerting for the children."
+    },
+    {
+     "w": "disconcerting",
+     "raw": "disconcerting",
+     "p": 2,
+     "s": 0,
+     "sent": "Infants are wired to look at parents' faces to try to understand their world, and if those faces are blank and unresponsive - as they often are when absorbed in a device - it can be extremely disconcerting for the children."
+    },
+    {
+     "w": "extremely",
+     "raw": "extremely",
+     "p": 2,
+     "s": 0,
+     "sent": "Infants are wired to look at parents' faces to try to understand their world, and if those faces are blank and unresponsive - as they often are when absorbed in a device - it can be extremely disconcerting for the children."
+    },
+    {
+     "w": "unresponsive",
+     "raw": "unresponsive",
+     "p": 2,
+     "s": 0,
+     "sent": "Infants are wired to look at parents' faces to try to understand their world, and if those faces are blank and unresponsive - as they often are when absorbed in a device - it can be extremely disconcerting for the children."
+    },
+    {
+     "w": "devised",
+     "raw": "devised",
+     "p": 2,
+     "s": 1,
+     "sent": "Radesky cites the \"still face experiment\" devised by developmental psychologist Ed Tronick in the 1970s."
+    },
+    {
+     "w": "increasingly",
+     "raw": "increasingly",
+     "p": 2,
+     "s": 2,
+     "sent": "In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother's attention."
+    },
+    {
+     "w": "distressed",
+     "raw": "distressed",
+     "p": 2,
+     "s": 2,
+     "sent": "In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother's attention."
+    },
+    {
+     "w": "exquisitely",
+     "raw": "exquisitely",
+     "p": 2,
+     "s": 3,
+     "sent": "\"Parents don't have to be exquisitely present at all times, but there needs to be a balance and parents need to be responsive and sensitive to a child's verbal or nonverbal expressions of an emotional need,\" says Radesky."
+    },
+    {
+     "w": "present",
+     "raw": "present",
+     "p": 2,
+     "s": 3,
+     "sent": "\"Parents don't have to be exquisitely present at all times, but there needs to be a balance and parents need to be responsive and sensitive to a child's verbal or nonverbal expressions of an emotional need,\" says Radesky."
+    },
+    {
+     "w": "concerned",
+     "raw": "concerned",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
+    },
+    {
+     "w": "oppressive",
+     "raw": "\"oppressive",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
+    },
+    {
+     "w": "ideology",
+     "raw": "ideology",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
+    },
+    {
+     "w": "somewhat",
+     "raw": "somewhat",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
+    },
+    {
+     "w": "fantasised",
+     "raw": "fantasised,",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
+    },
+    {
+     "w": "upper-middle-class",
+     "raw": "upper-middle-class",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
+    },
+    {
+     "w": "expose",
+     "raw": "expose",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
+    },
+    {
+     "w": "neglecting",
+     "raw": "neglecting",
+     "p": 3,
+     "s": 0,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
     }
    ],
    "sentences": [
@@ -8684,11 +8852,53 @@
      "p": 0,
      "s": 1,
      "text": "\"Tech is designed to really suck you in,\" says Jenny Radesky in her study of digital play, \"and digital products are there to promote maximal engagement."
+    },
+    {
+     "p": 1,
+     "s": 1,
+     "text": "She found that mothers who used devices during the exercise started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children."
+    },
+    {
+     "p": 2,
+     "s": 2,
+     "text": "In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother's attention."
+    },
+    {
+     "p": 3,
+     "s": 0,
+     "text": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\""
     }
    ],
-   "phrases": [],
+   "phrases": [
+    {
+     "text": "born out of",
+     "loc": "3:0",
+     "a": 17,
+     "b": 19,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\"",
+     "cn": "另一方面，特罗尼克担心，这种忧虑源于要求父母一直与孩子互动的“压迫性观念”；它带有幻想化、白人化和上层中产阶级化色彩，认为没让孩子接触3万个词就是忽视他。",
+     "m": "",
+     "base": "",
+     "note": "",
+     "p": 3,
+     "s": 0
+    },
+    {
+     "text": "born out",
+     "loc": "3:0",
+     "a": 17,
+     "b": 18,
+     "sent": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\"",
+     "cn": "另一方面，特罗尼克担心，这种忧虑源于要求父母一直与孩子互动的“压迫性观念”；它带有幻想化、白人化和上层中产阶级化色彩，认为没让孩子接触3万个词就是忽视他。",
+     "m": "证实",
+     "base": "bear out",
+     "note": "",
+     "p": 3,
+     "s": 0
+    }
+   ],
    "qwords": [],
-   "updatedAt": "2026-11-10T01:52:04.907Z"
+   "updatedAt": "2026-11-10T02:14:16.900Z"
   }
  },
  "prefs": {
@@ -8755,7 +8965,8 @@
    "stereotype...that": 2,
    "farsighted": 2,
    "suck": 2,
-   "disengage": 1
+   "disengage": 1,
+   "exquisitely": 1
   },
   "confuse": {
    "intrinsically": [
@@ -8811,6 +9022,9 @@
    ],
    "vocational": [
     "vacation 假期"
+   ],
+   "wired": [
+    "给……安装窃听器；用金属网诱捕（动物）；（槌球）在拱门边阻挡（球，射球，选手）"
    ]
   },
   "quiz": {
@@ -9656,7 +9870,30 @@
    "disengage": "2026-11-10T01:46:01.999Z",
    "bleed-over": "2026-11-10T01:46:22.077Z",
    "tablets": "2026-11-10T01:51:54.029Z",
-   "mealtimes": "2026-11-10T01:52:03.148Z"
+   "mealtimes": "2026-11-10T01:52:03.148Z",
+   "verbal": "2026-11-10T01:53:12.426Z",
+   "nonverbal": "2026-11-10T01:53:22.631Z",
+   "pairs": "2026-11-10T01:54:25.649Z",
+   "started": "2026-11-10T01:55:36.591Z",
+   "separate": "2026-11-10T01:58:19.922Z",
+   "observation": "2026-11-10T01:58:23.642Z",
+   "tension": "2026-11-10T01:58:31.041Z",
+   "bids": "2026-11-10T01:58:48.837Z",
+   "wired": "2026-11-10T01:59:12.812Z",
+   "disconcerting": "2026-11-10T02:00:31.654Z",
+   "unresponsive": "2026-11-10T02:00:41.682Z",
+   "devised": "2026-11-10T02:01:04.759Z",
+   "increasingly": "2026-11-10T02:02:51.914Z",
+   "distressed": "2026-11-10T02:02:55.537Z",
+   "exquisitely": "2026-11-10T02:04:37.034Z",
+   "present": "2026-11-10T02:04:49.362Z",
+   "concerned": "2026-11-10T02:07:48.030Z",
+   "oppressive": "2026-11-10T02:08:02.046Z",
+   "ideology": "2026-11-10T02:08:06.042Z",
+   "fantasised": "2026-11-10T02:09:03.720Z",
+   "upper-middle-class": "2026-11-10T02:09:09.061Z",
+   "expose": "2026-11-10T02:09:15.960Z",
+   "neglecting": "2026-11-10T02:09:23.211Z"
   },
   "archived": {
    "uccelli": {
@@ -14253,7 +14490,7 @@
      "assembling",
      "chewing"
     ],
-    "sessionAt": 1794275567801,
+    "sessionAt": 1794276896462,
     "screenJudgments": {
      "abdicate": {
       "grade": "fuzzy",
@@ -15217,7 +15454,7 @@
     "screenLimit": 3,
     "roundDay": "2026-10-24",
     "roundKey30": "2026-10-24",
-    "cursorAt30": 1794275567801,
+    "cursorAt30": 1794275575950,
     "quick39": false,
     "stage0": null,
     "home41Seen": true,
@@ -15226,7 +15463,7 @@
     "libTab42": {},
     "v43list": true
    },
-   "updatedAt": 1794275567801
+   "updatedAt": 1794276896462
   },
   "sentenceReview27": {
    "version": 27,
